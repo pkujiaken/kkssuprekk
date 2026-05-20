@@ -2,21 +2,21 @@
 import json
 import os
 import sys
+import time
 from pathlib import Path
 
-import google.generativeai as genai
+from google import genai
+from google.genai import types
+from google.genai import errors as genai_errors
 
 API_KEY = os.environ.get("GEMINI_API_KEY")
 if not API_KEY:
     print("ERROR: GEMINI_API_KEY not set", file=sys.stderr)
     sys.exit(1)
 
-genai.configure(api_key=API_KEY)
-
-MODEL = genai.GenerativeModel(
-    "gemini-2.0-flash",
-    generation_config={"response_mime_type": "application/json"},
-)
+client = genai.Client(api_key=API_KEY)
+MODEL = "gemini-2.0-flash"
+MAX_ARTICLES = 50  # cap input to stay well under rate limits
 
 PROMPT_TEMPLATE = """你是一个客观、全面、反信息茧房的全球新闻编辑。
 
@@ -62,30 +62,69 @@ PROMPT_TEMPLATE = """你是一个客观、全面、反信息茧房的全球新�
 {articles_json}
 """
 
+EMPTY_RESULT = {
+    "top5": [], "macro": [], "tech": [], "us_stocks": [],
+    "a_stocks": [], "business": [], "overlooked": [],
+}
+
+
+def call_gemini(prompt, max_retries=4):
+    config = types.GenerateContentConfig(response_mime_type="application/json")
+    last_err = None
+    for attempt in range(max_retries):
+        try:
+            return client.models.generate_content(
+                model=MODEL, contents=prompt, config=config,
+            )
+        except genai_errors.ClientError as e:
+            last_err = e
+            msg = str(e)
+            # Try to honor server-suggested retry_delay
+            wait = 30
+            if "retry_delay" in msg or "RESOURCE_EXHAUSTED" in msg or "429" in msg:
+                wait = 25 + attempt * 15
+                print(f"[retry {attempt+1}/{max_retries}] rate-limited, sleeping {wait}s...", file=sys.stderr)
+                time.sleep(wait)
+                continue
+            raise
+        except genai_errors.ServerError as e:
+            last_err = e
+            wait = 10 + attempt * 10
+            print(f"[retry {attempt+1}/{max_retries}] server error, sleeping {wait}s...", file=sys.stderr)
+            time.sleep(wait)
+    raise last_err
+
 
 def process(articles):
     if not articles:
-        return {"top5": [], "macro": [], "tech": [], "us_stocks": [],
-                "a_stocks": [], "business": [], "overlooked": []}
+        return EMPTY_RESULT.copy()
+
+    # Cap input to avoid rate-limit headaches
+    if len(articles) > MAX_ARTICLES:
+        articles = articles[:MAX_ARTICLES]
+        print(f"[info] capped input to {MAX_ARTICLES} articles")
 
     prompt = PROMPT_TEMPLATE.format(
         articles_json=json.dumps(articles, ensure_ascii=False)
     )
-    response = MODEL.generate_content(prompt)
-    text = response.text.strip()
-    # Defensive: strip code fences if model added them despite JSON mime type
+
+    response = call_gemini(prompt)
+    text = (response.text or "").strip()
+
+    # Defensive: strip code fences if any
     if text.startswith("```"):
         text = text.split("```", 2)[1]
         if text.startswith("json"):
             text = text[4:]
         text = text.strip().rstrip("`").strip()
+
     return json.loads(text)
 
 
 if __name__ == "__main__":
     with open("data/raw.json", "r", encoding="utf-8") as f:
         articles = json.load(f)
-    print(f"Processing {len(articles)} articles with Gemini...")
+    print(f"Processing {len(articles)} articles with Gemini ({MODEL})...")
     result = process(articles)
     Path("data").mkdir(exist_ok=True)
     with open("data/processed.json", "w", encoding="utf-8") as f:
