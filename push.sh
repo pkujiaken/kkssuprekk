@@ -27,6 +27,10 @@ fi
 git config user.email "pkujiaken@users.noreply.github.com"
 git config user.name "pkujiaken"
 
+# 强制 HTTP/1.1（绕开 macOS git 偶发的 HTTP2 framing 错误）
+git config http.version HTTP/1.1
+git config http.postBuffer 524288000
+
 # 加入所有文件
 git add -A
 git commit -m "clean initial push" || echo "(no changes to commit)"
