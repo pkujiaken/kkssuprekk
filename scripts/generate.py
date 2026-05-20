@@ -7,6 +7,7 @@ from pathlib import Path
 BJT = timezone(timedelta(hours=8))
 
 SECTIONS = [
+    ("people", "🎙️ 大佬今日观点"),
     ("macro", "💰 宏观与金融"),
     ("tech", "🚀 科技 & AI"),
     ("us_stocks", "📈 美股"),
@@ -16,17 +17,19 @@ SECTIONS = [
 ]
 
 
-def render_item(item):
+def render_item(item, show_name=False):
     title = escape(item.get("title", ""))
     summary = escape(item.get("summary", ""))
+    name = escape(item.get("name", ""))
     src_parts = []
     for s in item.get("sources", []):
-        name = escape(s.get("name", "源"))
+        sname = escape(s.get("name", "源"))
         url = escape(s.get("url", "#"))
-        src_parts.append(f'<a href="{url}" target="_blank" rel="noopener">{name}</a>')
+        src_parts.append(f'<a href="{url}" target="_blank" rel="noopener">{sname}</a>')
     sources_html = " · ".join(src_parts) if src_parts else ""
+    name_html = f'<div class="item-name">{name}</div>' if show_name and name else ""
     return f"""<div class="item">
-  <div class="item-title">{title}</div>
+  {name_html}<div class="item-title">{title}</div>
   <div class="item-summary">{summary}</div>
   <div class="sources">{sources_html}</div>
 </div>"""
@@ -45,9 +48,13 @@ def render_html(data):
         items = data.get(key, []) or []
         if not items:
             continue
-        cls = "overlooked" if key == "overlooked" else ""
+        cls = ""
+        if key == "overlooked":
+            cls = "overlooked"
+        elif key == "people":
+            cls = "people"
         sections_html += f'<h2>{title}</h2>\n<div class="section {cls}">\n'
-        sections_html += "".join(render_item(it) for it in items)
+        sections_html += "".join(render_item(it, show_name=(key == "people")) for it in items)
         sections_html += "</div>\n"
 
     return f"""<!DOCTYPE html>
@@ -128,6 +135,14 @@ def render_html(data):
   }}
   .top5 .item {{ border-left: 3px solid #d9534f; }}
   .overlooked .item {{ border-left: 3px solid #5cb85c; }}
+  .people .item {{ border-left: 3px solid #f0ad4e; }}
+  .item-name {{
+    font-size: 12px;
+    font-weight: 600;
+    color: #f0ad4e;
+    margin-bottom: 4px;
+    letter-spacing: 0.3px;
+  }}
   footer {{
     margin: 40px 0 24px;
     text-align: center;

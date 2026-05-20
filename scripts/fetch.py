@@ -7,15 +7,41 @@ from pathlib import Path
 import feedparser
 
 SOURCES = {
-    "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
-    "Hacker News": "https://hnrss.org/frontpage",
-    "The Verge": "https://www.theverge.com/rss/index.xml",
+    # === 一手大佬观点 ===
+    "Sam Altman Blog": "https://blog.samaltman.com/posts.atom",
+    "Stratechery (Ben Thompson)": "https://stratechery.com/feed/",
+    "Marginal Revolution (Tyler Cowen)": "https://marginalrevolution.com/feed",
+    "Aswath Damodaran": "https://aswathdamodaran.blogspot.com/feeds/posts/default",
+    "A Wealth of Common Sense (Ben Carlson)": "https://awealthofcommonsense.com/feed/",
+    "a16z": "https://a16z.com/feed/",
+    "Calculated Risk (Bill McBride)": "https://www.calculatedriskblog.com/feeds/posts/default",
+
+    # === 美联储 / 监管一手 ===
+    "Federal Reserve Press": "https://www.federalreserve.gov/feeds/press_all.xml",
+    "SEC Press": "https://www.sec.gov/news/pressreleases.rss",
+
+    # === 投资 / 金融市场新闻 ===
     "NYT Business": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+    "NYT Economy": "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml",
+    "NYT DealBook": "https://rss.nytimes.com/services/xml/rss/nyt/DealBook.xml",
+    "BBC Business": "https://feeds.bbci.co.uk/news/business/rss.xml",
+    "MarketWatch Top Stories": "https://feeds.marketwatch.com/marketwatch/topstories/",
+    "MarketWatch Real-Time": "https://feeds.marketwatch.com/marketwatch/realtimeheadlines/",
+    "CNBC Business": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147",
+    "CNBC Finance": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+
+    # === 科技 / AI ===
+    "Hacker News Top": "https://hnrss.org/frontpage?points=200",  # 高分门槛，过滤掉垃圾
     "Ars Technica": "https://feeds.arstechnica.com/arstechnica/index",
+    "MIT Tech Review": "https://www.technologyreview.com/feed/",
+
+    # === 中国 / A股 ===
+    "Caixin Global": "https://www.caixinglobal.com/rss/",
+    "SCMP Business": "https://www.scmp.com/rss/92/feed",
 }
 
-MAX_PER_SOURCE = 15
-LOOKBACK_HOURS = 24
+MAX_PER_SOURCE = 10
+LOOKBACK_HOURS = 36  # 拉宽到 36h，因为有些博客不是每天更新
 
 
 def fetch_all():
@@ -39,7 +65,7 @@ def fetch_all():
                 "source": name,
                 "title": entry.get("title", "").strip(),
                 "link": entry.get("link", ""),
-                "summary": summary[:600],
+                "summary": summary[:800],
                 "published": entry.get("published", "") or entry.get("updated", ""),
             })
             count += 1
