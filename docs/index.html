@@ -76,6 +76,14 @@
   }
   .top5 .item { border-left: 3px solid #d9534f; }
   .overlooked .item { border-left: 3px solid #5cb85c; }
+  .people .item { border-left: 3px solid #f0ad4e; }
+  .item-name {
+    font-size: 12px;
+    font-weight: 600;
+    color: #f0ad4e;
+    margin-bottom: 4px;
+    letter-spacing: 0.3px;
+  }
   footer {
     margin: 40px 0 24px;
     text-align: center;
@@ -97,43 +105,139 @@
 <body>
 <header>
   <h1>每日简报</h1>
-  <div class="meta">2026-05-20 周三 · 更新于 18:34 (北京)</div>
+  <div class="meta">2026-05-20 周三 · 更新于 21:39 (北京)</div>
   <div class="tagline">客观 · 全面 · 反算法</div>
 </header>
 
 <h2>🌍 今日 5 件大事</h2>
 <div class="section top5">
 <div class="item">
-  <div class="item-title">美联储维持利率不变，鲍威尔暗示年内不再加息</div>
-  <div class="item-summary">美联储6月议息会议决定维持联邦基金利率不变。鲍威尔在新闻发布会上表示，当前通胀已显著回落，劳动力市场逐步降温，预计年内不再加息。市场对此反应积极，标普500创新高。</div>
-  <div class="sources"><a href="https://example.com/1" target="_blank" rel="noopener">BBC</a> · <a href="https://example.com/2" target="_blank" rel="noopener">NYT</a></div>
+  <div class="item-title">全球债券收益率飙升至2007年以来新高，市场对通胀担忧加剧</div>
+  <div class="item-summary">长期美国国债收益率已升至2007年以来的最高水平，与全球主要经济体的债券收益率普遍上涨趋势一致。此现象主要源于市场对持续高通胀的担忧，可能预示着全球融资成本的结构性上升，并对企业投资、消费者支出及资产估值产生深远影响。投资者需警惕高利率环境对经济增长和市场情绪的潜在压力。</div>
+  <div class="sources"><a href="https://www.nytimes.com/2026/05/20/business/bond-market-investing-global-treasury.html" target="_blank" rel="noopener">NYT Business</a> · <a href="https://www.nytimes.com/2026/05/19/business/bond-market-iran-war-inflation.html" target="_blank" rel="noopener">NYT Business</a></div>
 </div><div class="item">
-  <div class="item-title">英伟达发布新一代AI芯片，性能较前代提升3倍</div>
-  <div class="item-summary">英伟达在GTC大会上发布Blackwell Ultra芯片。</div>
-  <div class="sources"><a href="https://example.com/3" target="_blank" rel="noopener">The Verge</a></div>
+  <div class="item-title">谷歌在I/O大会全面整合AI并重塑搜索，同步推出AI智能眼镜</div>
+  <div class="item-summary">谷歌在最新的I/O大会上宣布，将AI深度融入其核心搜索业务，对搜索框进行25年来的首次重大改造，并引入视频生成工具和简化在线购物功能。同时，谷歌还推出新一代AI智能眼镜，标志着其在硬件领域重启智能穿戴探索。此举显示谷歌正全面押注AI，旨在巩固其在AI时代的竞争地位，并将极大影响用户获取信息和与数字世界互动的方式。</div>
+  <div class="sources"><a href="https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html" target="_blank" rel="noopener">NYT Business</a> · <a href="https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">BBC Business</a></div>
+</div><div class="item">
+  <div class="item-title">中国确认采购200架波音飞机，航空合作成中美贸易关键领域</div>
+  <div class="item-summary">中国商务部确认将采购200架波音飞机，并强调航空领域是中美两国合作的关键方向。此次大额订单是中美贸易关系中的积极信号，尤其是在两国就关税问题进行讨论的背景下。这不仅为波音公司提供了重要市场支持，也可能为缓解中美贸易紧张局势创造有利条件，对全球航空业和贸易关系具有示范意义。</div>
+  <div class="sources"><a href="https://www.nytimes.com/2026/05/20/business/china-boeing-planes-summit.html" target="_blank" rel="noopener">NYT Business</a> · <a href="https://www.bbc.com/news/articles/c98rjydlgp4o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">BBC Business</a> · <a href="https://www.cnbc.com/2026/05/20/china-confirms-200-boeing-aircraft-order.html" target="_blank" rel="noopener">CNBC Finance</a></div>
+</div><div class="item">
+  <div class="item-title">人工智能引发全球就业市场广泛焦虑，蓝领工人或意外受益</div>
+  <div class="item-summary">人工智能技术快速发展，在全球范围内引发了对就业岗位流失和未来工作模式的普遍担忧，尤其是在高校毕业生和部分白领群体中。然而，有分析指出，AI驱动的自动化正促使企业增加对熟练蓝领工人的需求，部分制造业和服务业的招聘放缓对初级白领岗位影响更大。这一趋势预示着AI将重塑劳动力结构，对职业教育和人才培养提出新的要求。</div>
+  <div class="sources"><a href="https://www.nytimes.com/2026/05/20/business/dealbook/ai-jobs-layoffs-meta.html" target="_blank" rel="noopener">NYT Business</a> · <a href="https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html" target="_blank" rel="noopener">CNBC Business</a></div>
+</div><div class="item">
+  <div class="item-title">G7面临高通胀和伊朗战争挑战，英国为缓解油价压力放宽对俄制裁</div>
+  <div class="item-summary">随着伊朗战争持续，全球通胀压力持续上升，G7集团的经济议程面临严峻挑战。为应对燃料价格上涨带来的供应担忧，英国已调整对俄罗斯石油的部分制裁措施。这一举动凸显了地缘政治冲突对全球能源市场和经济稳定的直接影响，各国政府在应对通胀和能源安全之间面临艰难权衡。</div>
+  <div class="sources"><a href="https://www.nytimes.com/2026/05/19/business/inflation-g7-economic-agenda-iran-war.html" target="_blank" rel="noopener">NYT Economy</a> · <a href="https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">BBC Business</a></div>
 </div>
 </div>
 
+<h2>🎙️ 大佬今日观点</h2>
+<div class="section people">
+<div class="item">
+  <div class="item-name">Ben Thompson</div><div class="item-title">观点：谷歌AI战略存在潜在问题，DeepMind与其商业目标或未完全对齐</div>
+  <div class="item-summary">原话：「Google I/O 将人工智能无处不在地植入，这有好有坏。同时，DeepMind 是否与谷歌的商业目标保持一致？」观点：Stratechery 作者Ben Thompson指出，谷歌在I/O大会上全面拥抱AI的策略，可能导致产品线过于分散，并引发外界对DeepMind与谷歌整体商业战略协同性的疑问。这可能影响谷歌AI产品的效率和市场表现。</div>
+  <div class="sources"><a href="https://stratechery.com/2026/google-i-o-world-models-i-o-spaghetti/" target="_blank" rel="noopener">Stratechery (Ben Thompson)</a></div>
+</div><div class="item">
+  <div class="item-name">Tyler Cowen</div><div class="item-title">观点：私营企业崛起正引领“新太空”时代，颠覆传统空间政策</div>
+  <div class="item-summary">原话：「像SpaceX和Blue Origin等公司的出现，使太空成为私营企业驱动创新的典范，标志着旧太空和新太空之间的明显分野。」观点：经济学家Tyler Cowen认为，传统由政府主导的太空政策正被私营企业所推动的创新所取代。这种转型带来了效率和技术突破，改变了太空探索和商业化的范式，预示着一个由市场力量塑造的“新太空”时代的到来。</div>
+  <div class="sources"><a href="https://marginalrevolution.com/marginalrevolution/2026/05/old-space-policy-vs-new-space-policy.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=old-space-policy-vs-new-space-policy" target="_blank" rel="noopener">Marginal Revolution (Tyler Cowen)</a></div>
+</div><div class="item">
+  <div class="item-name">Ben Carlson</div><div class="item-title">观点：市场若过度依赖单一巨头，将为“空头”提供绝佳机会</div>
+  <div class="item-summary">原话：「Nvidia 规模过大，市场过度依赖几家科技巨头。」观点：投资博客“A Wealth of Common Sense”作者Ben Carlson在其播客中讨论了当前市场过度集中于少数科技巨头（如Nvidia）的风险。他认为，这种集中度为“空头”提供了有利的“肥球”，一旦这些巨头增长放缓或面临挑战，整个市场将面临巨大的调整压力。</div>
+  <div class="sources"><a href="https://awealthofcommonsense.com/2026/05/animal-spirits-the-fat-pitch-for-bears/" target="_blank" rel="noopener">A Wealth of Common Sense (Ben Carlson)</a></div>
+</div><div class="item">
+  <div class="item-name">Ted Oakley</div><div class="item-title">观点：能源板块投资价值超越科技，未来将迎来资金涌入</div>
+  <div class="item-summary">原话：「甚至比科技更好。一场涌入这个行业的竞争即将到来。」观点：Oxbow Advisors的资深财富经理Ted Oakley警示投资者，应增加对能源行业的敞口。他认为，当前能源板块的投资机会甚至优于科技行业，预计未来会有大量资金涌入，投资者应提前布局从钻探商到生产商等能源公司，以抓住行业上行机遇。</div>
+  <div class="sources"><a href="https://www.marketwatch.com/story/even-better-than-tech-a-scramble-into-this-sector-is-coming-warns-veteran-wealth-manager-e6594815?mod=mw_rss_topstories" target="_blank" rel="noopener">MarketWatch Top Stories</a></div>
+</div></div>
 <h2>💰 宏观与金融</h2>
 <div class="section ">
 <div class="item">
-  <div class="item-title">欧央行下调利率25基点</div>
-  <div class="item-summary">欧洲央行宣布下调三大政策利率25个基点，为今年第二次降息。</div>
-  <div class="sources"><a href="https://example.com/4" target="_blank" rel="noopener">BBC</a></div>
+  <div class="item-title">全球油价下跌，受特朗普言论及霍尔木兹海峡交通增加影响</div>
+  <div class="item-summary">继美国前总统特朗普表示将“非常迅速”结束伊朗战争后，全球原油期货价格下跌至每桶108美元以下。与此同时，关键的霍尔木兹海峡油轮交通量有所增加。这一变化反映了市场对地缘政治风险溢价的重新评估，若冲突降级，油价可能面临进一步下行压力，对全球通胀和能源成本产生直接影响。</div>
+  <div class="sources"><a href="https://www.marketwatch.com/story/oil-prices-decline-after-trump-reaffirmed-he-would-end-the-war-in-iran-very-quickly-f5148dd4?mod=mw_rss_topstories" target="_blank" rel="noopener">MarketWatch Top Stories</a></div>
+</div><div class="item">
+  <div class="item-title">英国通胀率降至2.8%，但后续仍面临上升风险</div>
+  <div class="item-summary">英国最新数据显示，通胀率已降至2.8%，主要得益于政府能源账单支持计划和伊朗战争前批发能源价格的下降。然而，市场普遍预计通胀率将从当前水平再次上升。这表明尽管短期有所缓解，但潜在的通胀压力依然存在，英国央行在制定货币政策时仍需保持谨慎，以平衡经济增长与物价稳定。</div>
+  <div class="sources"><a href="https://www.bbc.com/news/articles/c4g0e0p4p2go?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">BBC Business</a></div>
+</div><div class="item">
+  <div class="item-title">美国抵押贷款利率飙升至去年7月以来新高，楼市承压</div>
+  <div class="item-summary">受伊朗战争不确定性影响，美国抵押贷款利率持续走高，已达到去年7月以来的最高水平，逼近7%。高利率将进一步增加购房者的借贷成本，可能抑制房地产市场需求，并对房屋销售和价格造成压力。这对于购房者、房地产开发商及相关金融机构而言，都将面临更高的运营和融资风险。</div>
+  <div class="sources"><a href="https://www.cnbc.com/2026/05/19/mortgage-rates-closing-in-on-7percent.html" target="_blank" rel="noopener">CNBC Business</a></div>
+</div><div class="item">
+  <div class="item-title">预测市场交易员预期美联储可能在2027年7月前加息</div>
+  <div class="item-summary">根据预测市场平台上的交易员数据，美联储在2027年7月前加息的概率正在增加。这一预期反映了市场对未来通胀和经济走势的判断，认为美联储可能需要采取更紧缩的货币政策来应对。虽然时间尚远，但这一预期可能影响债券市场收益率曲线和投资者对长期资产配置的策略。</div>
+  <div class="sources"><a href="https://www.cnbc.com/2026/05/19/fed-to-hike-when-traders-see-a-rate-increase-coming.html" target="_blank" rel="noopener">CNBC Finance</a></div>
 </div></div>
 <h2>🚀 科技 & AI</h2>
 <div class="section ">
 <div class="item">
-  <div class="item-title">OpenAI 推出新模型 GPT-5</div>
-  <div class="item-summary">OpenAI 正式发布 GPT-5，推理能力大幅提升。</div>
-  <div class="sources"><a href="https://example.com/5" target="_blank" rel="noopener">Ars Technica</a></div>
+  <div class="item-title">Anthropic AI模型引发网络安全担忧，用户出现“错失恐惧症”</div>
+  <div class="item-summary">Anthropic的人工智能模型正引发企业和用户对网络安全问题的“错失恐惧症”（FOMO）。那些无法获得该模型权限的组织担心，自身在抵御网络攻击方面将处于劣势。这凸显了尖端AI技术在企业安全领域的关键作用，并可能推动相关AI安全解决方案的市场需求，同时对AI模型的普及和风险管理提出挑战。</div>
+  <div class="sources"><a href="https://www.nytimes.com/2026/05/19/business/dealbook/mythos-ai-fomo-moment.html" target="_blank" rel="noopener">NYT DealBook</a></div>
+</div><div class="item">
+  <div class="item-title">阿里巴巴发布更强大“真武”AI芯片及新大语言模型，深化AI布局</div>
+  <div class="item-summary">阿里巴巴公布了其AI产品线的最新进展，包括推出更强大的“真武”AI芯片和全新的大型语言模型。此次更新表明阿里巴巴正持续加大在AI底层技术和应用层的投入，旨在提升其云计算和AI服务的竞争力。这对于中国AI生态系统及阿里巴巴在全球AI领域的地位至关重要，也为投资者关注中国科技巨头的AI发展提供了新线索。</div>
+  <div class="sources"><a href="https://www.cnbc.com/2026/05/19/alibaba-reveals-more-powerful-zhenwu-ai-chip-new-llm.html" target="_blank" rel="noopener">CNBC Finance</a></div>
+</div></div>
+<h2>📈 美股</h2>
+<div class="section ">
+<div class="item">
+  <div class="item-title">塔吉特和家得宝财报超预期，消费者支出表现韧性</div>
+  <div class="item-summary">塔吉特（Target）公布的财报超出华尔街预期，并上调了销售前景，显示消费者正在回归。同时，家得宝（Home Depot）也发布了积极财报，表明其核心消费者在汽油价格上涨的背景下仍保持消费韧性。这两家零售巨头的表现，为投资者提供了关于美国消费者支出状况的积极信号，尤其是在通胀和利率担忧背景下。</div>
+  <div class="sources"><a href="https://www.marketwatch.com/story/targets-turnaround-involves-upscale-baby-gear-and-revamped-shopping-carts-and-its-starting-to-pay-off-eda9ba67?mod=mw_rss_topstories" target="_blank" rel="noopener">MarketWatch Top Stories</a> · <a href="https://www.cnbc.com/2026/05/20/target-tgt-q1-2026-earnings.html" target="_blank" rel="noopener">CNBC Business</a> · <a href="https://www.cnbc.com/2026/05/19/home-depot-hd-q1-2026-earnings.html" target="_blank" rel="noopener">CNBC Business</a></div>
+</div><div class="item">
+  <div class="item-title">SEC提议改革注册发行规则，旨在提高上市公司融资效率</div>
+  <div class="item-summary">美国证券交易委员会（SEC）提议修订其注册发行规则和表格，旨在提高上市公司进行注册发行的效率、灵活性和成本节约，同时保持对投资者的强有力保护。这些变革有望简化企业上市和再融资流程，降低合规成本，对美国资本市场效率和企业融资环境产生积极影响。</div>
+  <div class="sources"><a href="https://www.sec.gov/newsroom/press-releases/2026-46-sec-proposes-transformative-reforms-help-public-companies-conduct-registered-offerings-simplify" target="_blank" rel="noopener">SEC Press</a></div>
+</div><div class="item">
+  <div class="item-title">分析师警示当前牛市将面临严峻考验，重点关注债券收益率和油价</div>
+  <div class="item-summary">市场分析人士指出，当前由AI驱动的牛市即将迎来其最大考验。22V Research等机构认为，若债券收益率和油价突破特定水平，将可能终结当前的市场上行趋势。投资者应密切关注宏观经济指标的变化，尤其是通胀压力和能源市场动态，这些因素可能成为市场转向的关键催化剂。</div>
+  <div class="sources"><a href="https://www.marketwatch.com/story/this-relentless-bull-market-is-about-to-face-its-biggest-test-yet-ea48b374?mod=mw_rss_topstories" target="_blank" rel="noopener">MarketWatch Top Stories</a> · <a href="https://www.cnbc.com/2026/05/19/these-are-the-bond-yield-and-oil-levels-that-could-break-the-bull-market.html" target="_blank" rel="noopener">CNBC Finance</a></div>
+</div></div>
+<h2>🇨🇳 A 股 / 中国</h2>
+<div class="section ">
+<div class="item">
+  <div class="item-title">中国阿里巴巴推出升级版AI芯片“真武”及新的大语言模型，深化AI布局</div>
+  <div class="item-summary">阿里巴巴公布了其AI产品线的最新进展，包括推出更强大的“真武”AI芯片和全新的大型语言模型。此次更新表明阿里巴巴正持续加大在AI底层技术和应用层的投入，旨在提升其云计算和AI服务的竞争力。这对于中国AI生态系统及阿里巴巴在全球AI领域的地位至关重要，也为投资者关注中国科技巨头的AI发展提供了新线索。</div>
+  <div class="sources"><a href="https://www.cnbc.com/2026/05/19/alibaba-reveals-more-powerful-zhenwu-ai-chip-new-llm.html" target="_blank" rel="noopener">CNBC Finance</a></div>
+</div></div>
+<h2>🏢 商业</h2>
+<div class="section ">
+<div class="item">
+  <div class="item-title">詹姆斯·默多克收购Vox Media旗下多个品牌一半股权，媒体行业整合持续</div>
+  <div class="item-summary">媒体大亨詹姆斯·默多克（James Murdoch）正以超过3亿美元的价格，收购Vox Media旗下播客网络、纽约杂志和Vox.com的一半股权。此次交易标志着数字媒体行业的持续整合，并可能改变这些内容平台的战略方向和竞争格局。默多克家族的投资背景也预示着这些媒体品牌未来可能获得更充足的资金支持和发展机遇。</div>
+  <div class="sources"><a href="https://www.nytimes.com/2026/05/20/business/media/vox-media-james-murdoch-sale.html" target="_blank" rel="noopener">NYT Business</a></div>
+</div><div class="item">
+  <div class="item-title">Stellantis新任CEO将公布扭亏为盈计划，以应对股价滞后表现</div>
+  <div class="item-summary">Stellantis（斯特兰蒂斯）股价自新任CEO Antonio Filosa上任近一年以来已下跌近30%，其即将公布的扭亏为盈计划备受关注。该计划将详细阐述公司应对销量下滑、市场竞争加剧以及电动汽车转型挑战的策略。对于投资者而言，这份计划将是评估Stellantis未来增长潜力、盈利能力和领导层执行力的关键。</div>
+  <div class="sources"><a href="https://www.cnbc.com/2026/05/20/stellantis-stock-stla-capital-markets-day-antonio-filosa.html" target="_blank" rel="noopener">CNBC Business</a></div>
+</div><div class="item">
+  <div class="item-title">电动汽车购买者增多，但受油价和需求因素影响，转型原因复杂</div>
+  <div class="item-summary">数据显示，选择电动汽车的购车者数量正在增加，这部分是受燃料价格飙升的推动。然而，影响电动汽车需求的因素是多方面的，市场仍存在其他制约因素。这表明尽管EV市场持续增长，但其发展路径并非单一，可能受到充电基础设施、续航里程焦虑、车型选择和购车成本等多重因素的综合影响，对汽车制造商和相关产业链提出了复杂挑战。</div>
+  <div class="sources"><a href="https://www.cnbc.com/2026/05/20/evs-car-buyers.html" target="_blank" rel="noopener">CNBC Business</a></div>
+</div><div class="item">
+  <div class="item-title">零售科技初创公司Radar估值超10亿美元，获美国鹰牌CEO支持</div>
+  <div class="item-summary">硬件和软件公司Radar在最新一轮融资中估值超过10亿美元，成功晋升独角兽企业行列，并获得美国鹰牌（American Eagle）CEO的支持。Radar致力于帮助零售商更好地管理库存和减少盗窃，其成功融资凸显了零售科技在提升运营效率和解决行业痛点方面的巨大潜力。这表明零售业的数字化转型正在加速，并吸引了大量资本关注。</div>
+  <div class="sources"><a href="https://www.cnbc.com/2026/05/19/radar-reaches-unicorn-status-in-series-b-funding-round.html" target="_blank" rel="noopener">CNBC Business</a></div>
+</div><div class="item">
+  <div class="item-title">预测市场Polymarket数十笔交易疑出现内幕交易迹象</div>
+  <div class="item-summary">纽约时报调查发现，预测市场Polymarket上有数十笔涉及伊朗战争和加密货币市场的“黑马”押注，其结果异常精准，疑存在内幕交易行为。这引发了对预测市场诚信度及其作为信息来源可靠性的担忧，并可能促使监管机构对这类新兴金融平台加强审查，以维护市场公平和透明。</div>
+  <div class="sources"><a href="https://www.nytimes.com/2026/05/13/technology/polymarket-insider-trading.html" target="_blank" rel="noopener">NYT DealBook</a></div>
 </div></div>
 <h2>🌐 你今天没看的角落</h2>
 <div class="section overlooked">
 <div class="item">
-  <div class="item-title">非洲最大数据中心在肯尼亚落成</div>
-  <div class="item-summary">微软投资10亿美元在内罗毕建成的数据中心正式投入运营。</div>
-  <div class="sources"><a href="https://example.com/6" target="_blank" rel="noopener">NYT</a></div>
+  <div class="item-title">塔吉克斯坦侨汇占GDP近半，凸显全球劳务移民对小国经济支柱作用</div>
+  <div class="item-summary">2024年塔吉克斯坦的侨汇（由移民汇回或带回的资金）占其国内生产总值（GDP）的48%，这一比例远超尼加拉瓜和洪都拉斯等其他依赖侨汇的国家。这揭示了全球劳务移民对部分小国和发展中国家经济的巨大支撑作用。侨汇不仅是外汇收入的重要来源，也影响着当地的消费结构和社会发展，但同时也增加了这些经济体对外部环境的依赖风险。</div>
+  <div class="sources"><a href="https://marginalrevolution.com/marginalrevolution/2026/05/tajikistan-fact-of-the-day.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tajikistan-fact-of-the-day" target="_blank" rel="noopener">Marginal Revolution (Tyler Cowen)</a></div>
+</div><div class="item">
+  <div class="item-title">新兴私营企业正在推动太空创新，标志着“旧太空”向“新太空”的重大转变</div>
+  <div class="item-summary">SpaceX和Blue Origin等公司的崛起，使太空领域成为私营企业驱动创新的突出案例，标志着“旧太空”政策（政府主导）向“新太空”政策（私营企业主导）的重大转变。尽管系统性证据尚少，但这一趋势预示着太空探索和商业化将更加高效和市场化。投资者应关注私营太空公司带来的技术突破和商业模式创新，及其对卫星通信、太空旅游和资源开发等领域的颠覆性影响。</div>
+  <div class="sources"><a href="https://marginalrevolution.com/marginalrevolution/2026/05/old-space-policy-vs-new-space-policy.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=old-space-policy-vs-new-space-policy" target="_blank" rel="noopener">Marginal Revolution (Tyler Cowen)</a></div>
 </div></div>
 
 
