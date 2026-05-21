@@ -1,8 +1,8 @@
 {
   "top5": [
     {
-      "title": "美联储多数官员倾向于必要时进一步加息，市场担忧通胀持续",
-      "summary": "美联储公开市场委员会（FOMC）4月份会议纪要显示，多数官员认为如果通胀未能按预期回落，将倾向于进一步提高利率。此表态突显了美联储在抗击通胀方面的鹰派立场，尽管经济增长面临挑战，但控制物价稳定仍是首要任务。这直接影响着全球利率预期、企业借贷成本及资产市场估值，预示着未来货币政策路径可能比市场此前预期更为紧缩。",
+      "title": "美联储会议纪要暗示可能加息，受地缘政治及通胀影响",
+      "summary": "美联储4月会议纪要显示，多数官员认为在通胀压力持续且地缘政治风险（如伊朗战争）影响经济前景的背景下，未来可能需要进一步加息。这一鹰派立场预示着货币政策将继续紧缩，对全球市场流动性和资产定价构成重要影响，投资者需警惕潜在的市场波动。",
       "sources": [
         {
           "name": "Federal Reserve Press",
@@ -15,11 +15,15 @@
       ]
     },
     {
-      "title": "SpaceX启动IPO进程并首次披露财务数据，有望成史上最大规模之一",
-      "summary": "埃隆·马斯克旗下的火箭和卫星互联网公司SpaceX已提交上市申请，并首次向公众披露了其财务表现，准备进行一场可能成为有史以来规模最大的首次公开募股（IPO）之一。此举将为投资者提供前所未有的机会，参与太空探索和卫星通信行业的快速增长，同时也将进一步巩固马斯克在科技和商业领域的领导地位，对全球资本市场产生重大影响。",
+      "title": "SpaceX、OpenAI与Anthropic加速IPO进程，AI热潮推升科技巨头上市潮",
+      "summary": "人工智能领域的两大巨头OpenAI、Anthropic，以及埃隆·马斯克的太空探索公司SpaceX，正加速筹备公开募股。SpaceX首次披露财务细节，其高估值预示着这将是备受瞩目的IPO。这波科技独角兽的上市潮不仅将为市场注入新的活力，也将提供投资者直接参与AI和太空经济增长的机会，但同时需关注市场流动性和估值风险。",
       "sources": [
         {
           "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html"
+        },
+        {
+          "name": "NYT DealBook",
           "url": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html"
         },
         {
@@ -29,8 +33,40 @@
       ]
     },
     {
-      "title": "礼来实验性减肥药Retatrutide临床试验效果显著，有望颠覆市场",
-      "summary": "礼来公司宣布，其下一代实验性减肥药物Retatrutide在临床试验中展现出显著的减重效果，平均减重达28%。这种药物的作用机制与现有产品不同，其成功可能使其成为一款重磅药物，有望重新定义肥胖症的治疗方法。这将对全球制药行业，特别是医疗健康板块，带来巨大的市场机遇和竞争格局的改变。",
+      "title": "美国计划颁布AI监管行政令，政府对人工智能的干预升级",
+      "summary": "美国总统特朗普计划签署一项行政命令，旨在对人工智能模型实施监管。此举标志着白宫此前“不干预”策略的重大转变，预示着未来AI行业将面临更严格的审查和合规要求。这可能影响AI技术的研发方向和商业化进程，对于希望在AI领域投资的企业来说，理解并适应新的监管框架将至关重要。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html"
+        }
+      ]
+    },
+    {
+      "title": "沃尔玛预警消费者支出疲软，高油价冲击美国零售业",
+      "summary": "零售巨头沃尔玛公布业绩并发出悲观展望，指出汽油价格上涨正迫使消费者削减开支，转向购买更便宜的商品。这一趋势反映出美国经济可能面临的潜在压力，消费者信心和购买力受到侵蚀，预示着整体零售业可能普遍放缓。对于依赖消费支出的行业和相关上市公司，这无疑是一个值得警惕的信号。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/21/business/walmart-retail-sales-economy.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/21/walmart-wmt-earnings-q1-2027.html"
+        }
+      ]
+    },
+    {
+      "title": "礼来新一代减肥药Retatrutide试验效果显著，医药巨头竞争升级",
+      "summary": "礼来公司宣布其新一代实验性减肥药Retatrutide在80周内使患者平均减重28%，达到显著效果。这一突破性进展有望重塑肥胖治疗市场格局，为其带来巨大的商业潜力。在全球肥胖问题日益严重的背景下，此类药物的成功研发将引发医药行业在该领域的激烈竞争，为投资者带来新的高增长机会。",
       "sources": [
         {
           "name": "NYT Business",
@@ -41,52 +77,13 @@
           "url": "https://www.cnbc.com/2026/05/21/eli-lilly-weight-loss-drug-retatrutide-clears-obesity-trial.html"
         }
       ]
-    },
-    {
-      "title": "英伟达财报超预期后股价盘后下跌，市场担忧其高速增长可持续性",
-      "summary": "尽管英伟达最新财报业绩表现优异，但其股价在盘后交易中下跌。投资者普遍担忧，在竞争加剧和AI芯片需求高预期下，英伟达能否继续维持其令人惊叹的增长速度。这反映了市场对AI领军企业估值和未来增长前景的极高标准，预示着即使是表现出色的公司，也可能因无法满足过高预期而面临获利了结的压力，对AI板块整体情绪产生影响。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/05/20/stocks-making-the-biggest-moves-after-hours-nvda-intu-elf-and-more.html"
-        }
-      ]
-    },
-    {
-      "title": "美国批准英伟达AI芯片H200对华销售，但中国市场尚未有采购意愿",
-      "summary": "尽管美国特朗普政府此前批准了英伟达H200高性能AI芯片对中国的销售，但迄今为止，中国市场尚未购买任何该型号芯片。这一情况表明，在中美科技竞争日益激烈的背景下，中国可能正在加速推动本土替代方案，或对美国限制性芯片采取观望态度。这凸显了美国出口管制政策的复杂性及其对全球半导体供应链和AI产业格局的深远影响，也暗示了中国在关键技术领域的战略自主决心。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/21/business/china-nvidia-chip-trump-ai.html"
-        }
-      ]
     }
   ],
   "people": [
     {
-      "name": "Tyler Cowen",
-      "title": "AI在数学和科学发现领域已成为“自己人”，有望加速研究范式转变",
-      "summary": "观点：OpenAI的通用AI模型已成功解决了Erdos单位距离问题这一重要的数学猜想，表明AI正在成为科学发现过程中的“自己人”。此外，一个名为“Robin”的多智能体AI系统已能完全自动化生物学领域的假设生成和数据分析。这些突破意味着AI不仅能辅助研究，还能独立推动科学前沿，预示着未来科学研究范式可能被根本性地改变，效率将大幅提升。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-ais-are-one-of-us-now.html"
-        },
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/robin-its-happening.html"
-        }
-      ]
-    },
-    {
       "name": "Ben Thompson",
-      "title": "Google AI战略面临内部整合挑战，代理网络将颠覆内容价值评估",
-      "summary": "观点：在Google I/O大会上，AI被置于产品核心，但围绕DeepMind的业务目标是否与Google整体战略一致，仍存在疑问。此外，在与Parallel创始人Parag Agarwal的访谈中，Thompson指出，在“代理网络”（Agentic Web）时代，AI代理将成为主流，如何衡量和激励内容创作者的价值，以及如何应对AI生成内容的挑战，是当前亟待解决的关键问题。",
+      "title": "Stratechery创始人兼科技评论员对谷歌AI战略及内容价值的见解",
+      "summary": "观点：著名科技分析师Ben Thompson指出，Google I/O大会上谷歌将AI“无处不在”地融入其产品是核心战略，但这也引发了DeepMind与谷歌整体业务目标是否完全一致的疑问。此外，在“代理式网络”时代，如何评估和激励优质内容创作的价值是一个关键挑战，对内容产业的未来盈利模式影响深远。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
@@ -99,43 +96,78 @@
       ]
     },
     {
-      "name": "BCA Research",
-      "title": "股票市场过热，需经历“有意义”回调方能压低债券收益率",
-      "summary": "观点：市场分析机构BCA Research警告称，当前股票市场过于火热，这种乐观情绪使得债券收益率难以回落。要实现债券市场的降温，可能需要股市经历一次“有意义的”回调。这一观点强调了股债市场的紧密联动性，以及当前市场对美联储未来政策路径的潜在误读，预示着投资者需警惕潜在的市场修正风险。",
+      "name": "Tyler Cowen",
+      "title": "经济学家泰勒·科文论AI解决数学难题的里程碑意义",
+      "summary": "观点：知名经济学家Tyler Cowen援引Tim Gowers的观点，强调OpenAI的通用AI模型在解决一项重要的Erdos猜想上取得了突破，称AI已解决了一个“主要开放问题”。科文认为这表明AI已经“成为我们中的一员”，其解决复杂问题的能力已达到前所未有的水平，预示着AI在科学发现和人类智力边界上将扮演更核心的角色。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-ais-are-one-of-us-now.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ais-are-one-of-us-now"
+        }
+      ]
+    },
+    {
+      "name": "Jensen Huang",
+      "title": "英伟达CEO黄仁勋描绘打造CPU新帝国的宏伟蓝图",
+      "summary": "概括：英伟达CEO黄仁勋正寻求将公司打造成一个全新帝国的“王者”，目标是进军价值2000亿美元的中央处理器（CPU）市场。观点：黄仁勋的愿景表明英伟达不仅满足于图形处理器（GPU）领域的领先地位，更计划通过推出新的CPU产品线，打破现有市场格局，与英特尔和AMD等传统巨头展开竞争，全面拓展其在AI计算生态系统中的影响力，这预示着芯片行业将迎来更激烈的竞争和技术革新。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/why-a-meaningful-selloff-for-stocks-is-needed-to-bring-down-bond-yields-c03b2d37?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/nvidias-jensen-huang-wants-to-be-king-of-a-brand-new-empire-7afdbc05?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "name": "Parag Agarwal",
-      "title": "原话：「在代理网络时代，内容创建者需要获得激励，而内容的价值评估方式将发生根本性变化。」",
-      "summary": "原话：「在代理网络时代，内容创建者需要获得激励，而内容的价值评估方式将发生根本性变化。」Parallel创始人Parag Agarwal指出，随着AI代理的普及，内容生成和消费模式将彻底重构。他强调，核心挑战在于如何在AI大规模生产信息的环境中，重新定义并奖励原创性、权威性和真实性内容，这对构建可持续的数字经济生态至关重要。",
+      "name": "Elon Musk",
+      "title": "埃隆·马斯克SpaceX公司首次披露财务为IPO做准备",
+      "summary": "概括：埃隆·马斯克的SpaceX首次披露财务数据，为即将到来的IPO做准备，这可能使其成为有史以来最大的首次公开募股之一。观点：随着SpaceX准备上市，其财务表现首次曝光，揭示了这家火箭和卫星制造商的巨大潜力。马斯克此举旨在利用公开市场资本加速其太空探索和星链互联网业务的发展，可能使其个人财富迈向万亿美元级别，并重塑投资者对太空经济的认知。",
       "sources": [
         {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web/"
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "name": "David Tepper等亿万富翁投资者",
-      "title": "高净值家族在伊朗战争期间加码半导体和能源股",
-      "summary": "观点：据报道，在伊朗战争影响下，包括对冲基金经理David Tepper在内的亿万富翁家族的私人投资公司，在第一季度显著增加了对半导体和能源类股票的配置。这一投资趋势表明，顶级投资者在地缘政治不确定性加剧的环境下，仍看好AI驱动的科技基础设施和传统能源资产的长期价值，将其视为抵御风险和获取增长的核心领域。",
+      "name": "John David Rainey",
+      "title": "沃尔玛CFO预警高油价将持续影响消费者支出",
+      "summary": "概括：沃尔玛首席财务官John David Rainey表示，虽然较高的退税在第一季度抵消了汽油价格上涨的影响，但公司预计未来几个月消费者将因高油价而削减开支。观点：Rainey的表态反映了美国消费者面临的财务压力，高油价正在侵蚀家庭可支配收入，导致他们在非必需品上的支出减少。这预示着零售业可能面临更艰难的时期，并可能进一步传导至整体经济，对未来消费前景蒙上阴影。",
       "sources": [
         {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/21/billionaire-investments-q1.html"
+          "url": "https://www.cnbc.com/2026/05/21/walmart-wmt-earnings-q1-2027.html"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "英国债券市场因政治动荡和通胀担忧再度承压",
-      "summary": "英国政府领导层再次面临动荡，这使得原本就因高通胀而高度警惕的英国国债投资者更加不安。政治不确定性加剧了对英国财政稳定性的担忧，可能进一步推高借贷成本，并对英镑汇率构成压力。这凸显了政治稳定对主权债务市场情绪的关键影响，以及持续高通胀对主要经济体金融健康的潜在威胁。",
+      "title": "美国经济受伊朗战争拖累，通胀上升且消费需求受损",
+      "summary": "新的S&P调查显示，近三个月的伊朗冲突正在给美国经济带来压力，通胀再度抬头推高了企业成本，并削弱了消费者需求。这表明地缘政治紧张局势对美国经济的负面影响正在显现，可能抑制经济增长。投资者应关注冲突的持续性及其对全球供应链和能源价格的潜在冲击。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/u-s-economy-is-showing-the-strain-from-iran-war-as-nearly-3-month-conflict-drags-on-4c7ca22d?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "美国抵押贷款利率飙升至6.5%以上，创伊朗战争以来新高",
+      "summary": "受地缘政治冲突和通胀预期的影响，美国抵押贷款利率跳升至8个月来的最高点，超过6.5%。尽管仍低于去年同期，但利率的持续走高将进一步加重购房者的负担，对房地产市场构成下行压力。投资者应密切关注房地产市场的降温迹象以及对整体经济可能产生的连锁反应。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/mortgage-rates-jump-to-more-than-6-5-the-highest-level-since-the-iran-war-started-41728b4e?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "英国债券市场动荡加剧，政治领导层不确定性与通胀警报并行",
+      "summary": "英国正面临新一轮政府领导层动荡，加之通胀警报不断，令债券投资者高度警惕。政治不稳定和持续的通胀压力共同作用，使得英国国债（Gilts）市场承压，增加了投资者对英国经济前景的担忧。这种不确定性可能导致资金外流，并影响英镑汇率及英国资产的吸引力。",
       "sources": [
         {
           "name": "NYT Business",
@@ -144,44 +176,40 @@
       ]
     },
     {
-      "title": "伊朗战争导致原油库存消耗加速，油价持续上涨",
-      "summary": "受伊朗战争持续影响，霍尔木兹海峡的原油运输量远低于正常水平，全球原油库存正在迅速消耗。伴随夏季旅行旺季的到来，原油需求预计将进一步上升。供应紧张和需求增长的双重压力正推动油价上涨，这可能加剧全球通胀，增加企业运营成本，并对消费者支出构成持续挑战，投资者需密切关注能源市场动态。",
+      "title": "英国与海湾六国达成37亿英镑贸易协议，寻求新的增长点",
+      "summary": "英国与六个海湾国家签署了一项价值37亿英镑的贸易协议，预计将免除约5.8亿英镑的英国出口关税。此举旨在疫情和脱欧后为英国经济开拓新的贸易伙伴和增长市场，以减轻对传统市场的依赖。该协议有望促进英国出口，但在地缘政治复杂的区域也需权衡风险。",
       "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/as-iran-war-drags-on-this-is-how-quickly-global-oil-stocks-are-being-depleted-and-travel-season-is-starting-soon-c6948319?mod=mw_rss_topstories"
-        },
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "美联储提议设立“支付账户”，优化金融机构清算结算流程",
-      "summary": "美联储正在征求公众意见，拟设立一种“支付账户”，供符合法律资格的金融机构专门用于清算和结算其支付。此举旨在提高支付系统的效率、安全性和弹性，尤其是在当前支付基础设施日益复杂化的背景下。此项改革可能对参与机构的流动性管理、风险控制以及美国金融市场的整体运作方式产生长远而结构性的影响。",
-      "sources": [
-        {
-          "name": "Federal Reserve Press",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm"
-        }
-      ]
-    },
-    {
-      "title": "研究显示工会化可使成员工资平均提高约7%",
-      "summary": "最新证据表明，工会的存在能够使其成员的工资平均提高约7%，这一增长主要源于企业利润的再分配。这一发现揭示了工会作为劳动力市场重要参与者，在影响工资水平和收入分配方面的直接作用。在当前全球劳动力市场面临变革、通胀压力持续的背景下，工会力量的消长将对企业成本结构、宏观经济稳定性和社会公平性产生重要影响。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-economics-of-unions.html"
+          "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "三星电子避免罢工但AI利润分配引争议，凸显科技公司劳资矛盾",
-      "summary": "三星电子通过提供巨额奖金暂时避免了员工罢工，但这并未平息员工对公司在AI热潮中获得的巨额利润如何分配的争议。这一事件凸显了在高科技行业快速增长、利润丰厚的背景下，劳资双方在利润共享和薪酬公平性方面的矛盾日益突出。未来，如何平衡员工利益和股东回报，将是科技巨头面临的普遍挑战，可能影响行业的人才竞争和运营成本。",
+      "title": "Google I/O大会展现AI全面渗透战略，但内部协同存疑",
+      "summary": "谷歌在I/O大会上将AI技术广泛应用于其产品和服务，展现了其“AI Everywhere”的战略雄心。然而，这种全面的AI整合也引发了关于DeepMind等核心AI部门是否与谷歌整体商业目标完全一致的内部疑问，可能影响其长期战略执行效率。投资者需关注谷歌如何在内部整合与创新之间取得平衡。",
+      "sources": [
+        {
+          "name": "Stratechery (Ben Thompson)",
+          "url": "https://stratechery.com/2026/google-i-o-world-models-i-o-spaghetti/"
+        }
+      ]
+    },
+    {
+      "title": "通用AI模型取得重大数学突破，解决Erdos难题凸显AI能力飞跃",
+      "summary": "OpenAI的一个通用AI模型成功对一项重要的Erdos猜想给出了（反）证明，这是一个困扰数学界多年的难题。这一成就标志着AI在复杂推理和科学发现领域的巨大进步，预示着AI未来在科研领域将扮演更核心的角色。它凸显了AI技术颠覆传统研究范式的潜力，可能加速科学发现进程。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-ais-are-one-of-us-now.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ais-are-one-of-us-now"
+        }
+      ]
+    },
+    {
+      "title": "三星员工要求分享AI利润，高科技公司面临分配挑战",
+      "summary": "随着人工智能芯片需求的飙升，三星电子作为全球存储芯片供应商之一从中巨额受益，但同时也成为关于如何分配AI利润的内部争议焦点。工会暂停罢工并就奖金进行投票，凸显了高科技行业在利润分配和劳资关系上的新挑战。这表明AI繁荣带来的财富效应，也正促使员工要求获得更大份额的利润，可能影响企业成本结构。",
       "sources": [
         {
           "name": "NYT Business",
@@ -194,82 +222,81 @@
       ]
     },
     {
-      "title": "量子计算公司股价因政府投资飙升，预示新兴技术受国家战略支持",
-      "summary": "据报道，特朗普政府正在购入九家量子计算公司的少数股权，这一消息导致相关公司的股票大幅上涨。政府的直接投资行为，不仅为这些新兴技术公司注入了资金，更传递出国家层面高度重视量子计算战略地位的信号。此举有望加速量子计算的研发和商业化进程，重塑科技投资格局，并可能在全球科技竞争中带来新的突破点。",
+      "title": "Nvidia雄心勃勃欲打造CPU新帝国，芯片市场竞争加剧",
+      "summary": "英伟达CEO黄仁勋明确表示，公司致力于成为全新CPU（中央处理器）市场的领导者，试图在现有GPU（图形处理器）优势的基础上，进一步扩大其在数据中心和AI计算领域的生态系统影响力。此举将直接挑战英特尔和AMD等传统CPU巨头，加剧芯片行业的竞争格局，预示着未来计算架构将出现更多创新和整合。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/quantum-stocks-soar-as-trump-administration-is-reportedly-buying-in-d6ed17b2?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "AI对就业和未来的担忧加剧，引发全球劳动力市场结构性挑战",
-      "summary": "与人工智能相关的裁员正在全球范围内引发对就业市场和未来社会发展的普遍焦虑。这种担忧不仅影响了应届毕业生和在职员工，也促使政策制定者重新审视AI技术对劳动力市场的长期影响。未来如何进行劳动力转型、技能再培训以及构建适应AI时代的新型社会保障体系，成为全球各国面临的重要结构性挑战，对长期投资和经济规划至关重要。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/05/20/business/dealbook/ai-jobs-layoffs-meta.html"
+          "url": "https://www.marketwatch.com/story/nvidias-jensen-huang-wants-to-be-king-of-a-brand-new-empire-7afdbc05?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "沃尔玛与塔吉特财报分化，高油价下消费者购物行为受挤压",
-      "summary": "沃尔玛因高油价对消费者购买力的影响而给出低于预期的业绩展望，而塔吉特则超出华尔街预期并上调销售指引。这种差异表明，尽管高通胀和能源价格持续对消费者支出构成压力，但不同零售商及其所针对的消费群体表现各异。投资者应关注零售业内部的结构性变化和消费者行为的细微差异，以把握投资机会和风险。",
+      "title": "亿万富翁家族基金Q1加码半导体和能源股，押注AI与地缘政治主线",
+      "summary": "根据CNBC与Addepar合作发布的家庭办公室投资追踪器，亿万富翁家族在第一季度（伊朗战争期间）积极增持半导体和能源股票。这表明顶级富豪投资者在动荡市场中，继续看好AI驱动的科技增长和能源行业的战略价值。他们的投资偏好往往能反映出市场对未来增长动力的共识，值得其他投资者参考。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/21/business/walmarts-retail-sales-economy.html"
-        },
-        {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/21/walmart-wmt-earnings-q1-2027.html"
-        },
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/20/target-tgt-q1-2026-earnings.html"
+          "url": "https://www.cnbc.com/2026/05/21/billionaire-investments-q1.html"
         }
       ]
     },
     {
-      "title": "Authentic Brands Group预计在未来12个月内进行IPO",
-      "summary": "拥有Reebok和Champion等知名品牌的Authentic Brands Group已任命一位拥有上市公司经验的资深人士担任新任CEO，并预计将在未来12个月内进行首次公开募股。这一举动预示着该公司正积极准备进入公开市场，有望成为品牌管理和零售行业的重要新股。对于关注品牌资产整合和消费市场复苏的投资者而言，这将是一个值得关注的投资事件。",
+      "title": "Nvidia业绩再创新高，但盘后股价下跌引发增长持续性担忧",
+      "summary": "英伟达公布了又一份亮眼的财报，然而其盘后股价却出现下跌。投资者普遍担忧在日益激烈的市场竞争中，英伟达能否维持其当前的高速增长态头，以及数据中心经济效益面临的压力，对未来表现持谨慎态度。尽管业绩强劲，市场已开始审视其能否继续超出高预期，这反映出AI概念股进入更理性定价阶段。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/20/reebok-owner-authentic-brands-group-inches-closer-to-ipo.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/05/animal-spirits-the-fat-pitch-for-bears/"
         }
       ]
     },
     {
-      "title": "Stellantis发布700亿美元重振计划，旨在扭转业绩实现正现金流",
-      "summary": "汽车巨头Stellantis公布了一项耗资700亿美元的五年战略计划，目标是到2028年实现正现金流并全面扭转公司业绩。该计划旨在应对行业向电动化和软件定义汽车转型的挑战，并提升其在全球市场的竞争力。这一大规模的战略调整将对Stellantis的未来发展轨迹、汽车行业的竞争格局以及供应链合作伙伴产生深远影响，值得投资者密切关注。",
+      "title": "Stellantis发布700亿美元五年复兴计划，聚焦北美市场与现金流",
+      "summary": "汽车巨头Stellantis公布了一项雄心勃勃的五年战略计划，总价值达700亿美元（约合697亿欧元），目标是到2030年实现北美销量增长35%，并承诺在2028年前实现正现金流。该计划通过复兴Ram Trucks和克莱斯勒品牌，旨在扭转公司业绩并提升盈利能力。对于投资者而言，这份详细的增长蓝图将是评估公司未来表现的关键依据。",
       "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/21/stellantis-north-american-sales-ram-chrysler.html"
+        },
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/05/21/stellantis-investor-day.html"
         }
       ]
-    }
-  ],
-  "a_stocks": [
+    },
     {
-      "title": "中国房地产市场现筑底迹象，但巨额存量房产仍是长期挑战",
-      "summary": "中国房地产市场显示出一些筑底迹象，特别是上海的房价出现反弹。然而，全国范围内仍有高达9000万套空置或未完工的公寓，这表明市场面临巨大的供应过剩问题。尽管短期内政策刺激可能带来局部改善，但要实现可持续的健康发展，仍需解决结构性供需失衡的深层问题。这一复杂局面将持续影响中国经济增长和A股相关板块的表现，投资者需保持谨慎。",
+      "title": "零售商财报显示美国消费者预算紧张，转向优惠商品",
+      "summary": "沃尔玛、塔吉特和TJ Maxx等大型零售商报告销售额有所增长，但同时指出消费者正积极寻找低价商品并在某些类别削减开支。这表明高通胀和汽油价格对消费者购买力造成影响，消费者正在精打细算。零售业需调整策略以应对这一变化，而这对于判断整体美国经济的健康状况是一个重要风向标。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/21/business/china-housing-slump.html"
+          "url": "https://www.nytimes.com/2026/05/21/business/walmart-retail-sales-economy.html"
         }
       ]
     }
   ],
+  "a_stocks": [],
   "business": [
     {
-      "title": "E.l.f. Beauty回撤部分关税涨价，以应对消费者购买力下降",
-      "summary": "在消费者因高油价等因素面临经济压力的背景下，美妆品牌E.l.f. Beauty计划撤销去年8月为抵消关税影响而提高的部分产品价格。这一决策反映了消费品公司在通胀环境下，为维持市场份额和销量，不得不调整定价策略。这可能预示着更广泛的消费品行业将面临利润率压力，企业需在成本控制和消费者敏感度之间寻求平衡。",
+      "title": "LIV Golf寻求新一轮3.5亿美元融资，应对沙特主权财富基金调整",
+      "summary": "LIV Golf正准备向投资者寻求高达3.5亿美元的新一轮融资，以适应沙特公共投资基金（PIF）战略调整后的新现实。这标志着这项新兴高尔夫赛事在财务结构上的独立化努力，以确保其长期运营和扩张。此举反映了体育赛事运营的资本需求，以及中东资金在全球体育产业中的影响力变化。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/21/liv-golf-fundraise-up-to-350-million-post-pif.html"
+        }
+      ]
+    },
+    {
+      "title": "E.l.f. Beauty因消费者购买力下降，撤回部分关税导致的提价",
+      "summary": "化妆品公司E.l.f. Beauty表示将取消去年8月为抵消关税影响而上调的部分产品价格。此举是为了应对消费者支出疲软和高汽油价格带来的压力，表明品牌正通过价格策略调整来争取预算有限的顾客，以维持市场份额。这体现了消费品公司在当前经济环境下，为应对消费降级而采取的策略调整。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -278,44 +305,44 @@
       ]
     },
     {
-      "title": "Ram品牌逆势推出Hemi V-8“肌肉卡车”，瞄准特定高端市场",
-      "summary": "尽管当前燃油价格居高不下，Stellantis旗下的Ram品牌仍计划推出配备Hemi V-8发动机的全新“肌肉卡车”系列。这一举动显示出汽车制造商在市场细分上的差异化策略，旨在迎合特定高端或追求高性能的消费者群体。这表明即使在宏观经济逆风下，部分品牌仍能通过精准定位，在利基市场寻找增长机会，对汽车行业发展模式提供新的视角。",
+      "title": "法国法院裁定法航和空客对2009年坠机事故负有刑事责任",
+      "summary": "巴黎上诉法院裁定法国航空公司和空中客车公司对2009年大西洋空难负有“过失杀人”的刑事责任。这一判决对航空业的责任认定和安全标准具有里程碑意义，可能影响航空公司和飞机制造商未来的法律风险评估和运营模式。对于投资者而言，这提示了航空业潜在的法律和声誉风险，尤其是在安全合规方面。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/20/ram-rumble-bee-muscle-truck-pickup.html"
-        }
-      ]
-    },
-    {
-      "title": "英国与六个海湾国家达成37亿英镑贸易协议",
-      "summary": "英国已与六个海湾国家达成一项价值37亿英镑的贸易协议，预计将为英国出口节省约5.8亿英镑的关税。该协议是英国脱欧后积极寻求新贸易伙伴战略的一部分，旨在深化与中东地区的经济联系。这有助于英国经济多元化，并为在不确定国际环境中寻找新的增长点提供了机遇，但人权组织对此提出批评。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/21/business/air-france-airbus-af447-guilty-verdict.html"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "塔吉克斯坦汇款占GDP近一半，凸显新兴市场经济结构脆弱性",
-      "summary": "2024年，塔吉克斯坦的侨汇（由移民寄回国内的资金）占其国内生产总值（GDP）的比例高达48%。这一惊人的数字揭示了部分新兴市场经济体对外部汇款的极端依赖性，其经济结构表现出显著的脆弱性。在全球经济波动或劳务输出国政策变化时，这种高度依赖可能带来严重的经济和社会风险，对寻求新兴市场投资的投资者而言是重要考量。",
+      "title": "婴儿潮一代退出劳动力市场，对新工人经济机会产生深远影响",
+      "summary": "研究结果表明，随着婴儿潮一代陆续退出劳动力市场，这将对新入职工人的经济机会产生深远影响。这一代际更替不仅改变了劳动力结构，也可能重塑工资水平、职业发展路径和社会保障体系。投资者应关注劳动力市场结构性变化对生产力、消费模式以及养老金体系的长期影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/tajikistan-fact-of-the-day.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/thursday-assorted-links-553.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-553"
         }
       ]
     },
     {
-      "title": "日本大型银行创纪录盈利，但增长放缓和风险积聚警报响起",
-      "summary": "日本主要银行实现了创纪录的利润，然而分析师警告称，鉴于信贷成本上升和地缘政治风险加剧，未来的增长可能放缓。尽管当前业绩亮眼，但潜在的结构性挑战和外部不确定性可能侵蚀其长期盈利能力。这表明，即便在全球金融市场普遍受高利率提振的背景下，日本银行业仍面临独特的风险，可能影响全球资本配置和区域金融稳定。",
+      "title": "塔吉克斯坦侨汇占GDP近一半，新兴市场对外依赖性突出",
+      "summary": "塔吉克斯坦2024年侨汇收入占其国内生产总值（GDP）的48%，与尼加拉瓜、洪都拉斯等国一同位列全球侨汇依赖度最高的国家之一。这突显了某些新兴经济体对外部汇款的脆弱性和结构性依赖，使其易受全球经济波动影响。对于投资新兴市场的专业人士，了解这种深层结构性风险至关重要。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/05/21/japan-megabanks-profits-growth-risks-sumitomo-mitsui-mizuho-mitsubishi-ufj.html"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/tajikistan-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=tajikistan-fact-of-the-day"
+        }
+      ]
+    },
+    {
+      "title": "通用版Wegovy在加印上市而美国缺乏，揭示全球药品市场差异",
+      "summary": "加拿大和印度已获得通用版减肥药Wegovy的上市许可，而美国市场仍无通用版。这使得全球40%的人口有望以每月低至15美元的价格获得此类药物。这种差异反映了各国在药品专利保护、定价机制和监管审批方面的巨大差异，对全球医药市场竞争和可及性构成影响。对于医药投资者，这提示了区域市场分割带来的机遇与挑战。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/canada-and-india-now-have-generic-wegovy-heres-why-the-u-s-doesnt-db18b6b7?mod=mw_rss_topstories"
         }
       ]
     }
