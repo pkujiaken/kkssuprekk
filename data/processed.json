@@ -1,22 +1,81 @@
 {
   "top5": [
     {
-      "title": "中东局势紧张致原油价格飙升，霍尔木兹海峡僵局持续",
-      "summary": "全球原油价格因伊朗核协议及霍尔木兹海峡航运费用谈判僵局而大幅上涨。此举反映出地缘政治风险对全球能源供应和价格的直接影响，可能加剧全球通胀压力并传导至终端消费，对宏观经济稳定构成挑战。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/22/business/oil-stocks-bonds-gas.html"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX、OpenAI及Anthropic竞相筹备上市，科技巨头IPO潮涌",
-      "summary": "太空探索技术公司SpaceX和两大人工智能领军企业OpenAI、Anthropic正加速推进公开上市计划，以测试资本市场对前沿科技的投资热情。这些超级独角兽的IPO进程将成为衡量投资者对AI和太空经济未来信心的关键指标，并可能重塑全球科技股板块格局。",
+      "title": "科技巨头IPO潮与政府投资量子计算",
+      "summary": "SpaceX、OpenAI和Anthropic等人工智能与太空探索巨头正竞相上市，预示着资本市场对前沿科技的巨大热情。同时，美国政府宣布斥资20亿美元并入股多家量子计算公司。这双重动态不仅反映了科技创新的活跃，更显示了资本与政府在关键技术领域的战略性布局，将深刻重塑未来的科技和投资格局。",
       "sources": [
         {
           "name": "NYT DealBook",
           "url": "https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html"
+        },
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/21/business/trump-quantum-computers-stake.html"
+        }
+      ]
+    },
+    {
+      "title": "AI监管政策突变与劳动力影响",
+      "summary": "特朗普政府意外取消了原计划赋予政府审查AI模型权力的行政命令，显示出在AI监管问题上的复杂考量。与此同时，加州州长加文·纽森提出一项政策理念，旨在让工人分享人工智能技术颠覆带来的资本收益。这些事件凸显了AI技术快速发展与监管、社会公平之间的张力，政策走向将直接影响科技企业的创新速度和社会财富分配模式。",
+      "sources": [
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html"
+        },
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html"
+        }
+      ]
+    },
+    {
+      "title": "美联储新任主席面临油价冲击与通胀压力",
+      "summary": "新任美联储主席Kevin Warsh在宣誓就职之际，正面临严峻的宏观经济挑战：中东地缘政治紧张导致的油价飙升，以及持续高企的通胀压力。市场普遍关注其将如何在遏制通胀和维持经济增长之间寻求平衡，其货币政策的初期决策将对全球经济走势和资产市场表现产生关键影响。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-new-fed-chair-curse-and-100-plus-oil-are-already-testing-kevin-warsh-and-the-stock-market-718b919d?mod=mw_rss_topstories"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/cvgz311dq3ko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "中东地缘冲突加剧对全球经济的影响",
+      "summary": "伊朗战争导致的霍尔木兹海峡僵局，不仅推高了全球油价和股市，也对亚洲货币造成显著冲击，加剧了区域经济的脆弱性。原油作为全球经济的命脉，其供应受阻和价格上涨将连锁影响全球通胀、贸易和消费者信心，地缘政治紧张局势成为当前宏观经济最大的不确定性因素之一。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/22/business/oil-stocks-bonds-gas.html"
+        },
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/22/business/asia-currency-iran-dollar.html"
+        }
+      ]
+    },
+    {
+      "title": "AI在科学领域取得重大突破",
+      "summary": "OpenAI的一个通用人工智能模型成功解决了数学界一个长期未解的Erdos猜想——单位距离问题，这是一个曾让众多数学家束手无策的著名难题。这一里程碑式的成就不仅展示了AI在复杂科学问题解决方面的强大潜力，也预示着AI将更广泛地应用于基础科学研究，对未来科技创新和人类知识边界产生深远影响。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-ais-are-one-of-us-now.html"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "name": "Elon Musk",
+      "title": "马斯克旗下公司加速上市，并随特朗普访华寻求贸易便利",
+      "summary": "原话：「SpaceX已推迟星舰发射，但正在为创纪录的IPO做准备。」观点：马斯克及其他美国科技CEO随特朗普访华，旨在缓解北京设置的贸易壁垒，显示其寻求在华业务发展的决心，此举对中美科技与贸易关系有重要影响。",
+      "sources": [
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/05/21/business/economy/trump-china-trip-ceos-tesla-musk.html"
         },
         {
           "name": "BBC Business",
@@ -25,46 +84,33 @@
       ]
     },
     {
-      "title": "美国政府投资20亿美元并入股量子计算公司，加速战略科技布局",
-      "summary": "美国政府宣布初步协议，将向九家量子计算公司投资20亿美元并持有股权。这项重大举措表明美国正大力推动量子计算这一颠覆性技术的研发和商业化，旨在确保其在全球科技竞争中的领先地位，对未来产业发展和国家安全具有深远战略意义。",
+      "name": "Donald Trump",
+      "title": "特朗普取消AI监管行政令，并就联储独立性向新主席施压",
+      "summary": "原话：「我已推迟签署行政命令，因为它的一些方面令人担忧。我希望新的美联储主席能完全独立，不要看我。」观点：特朗普在AI监管问题上表现出谨慎，同时对美联储货币政策独立性进行公开表态，这可能影响市场对未来政策走向的预期。他还暗示将“记住”那些未申请关税退款的公司。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/21/business/trump-quantum-computers-stake.html"
-        }
-      ]
-    },
-    {
-      "title": "AI首次解决重要数学难题，标志人工智能能力新飞跃",
-      "summary": "OpenAI开发的通用AI模型成功解决了著名的“Erdos单位距离问题”，这是数学界一个长期未解的重大猜想。这一突破性进展表明AI已不再局限于特定任务，而是在抽象思维和科学发现领域展现出强大能力，预示着AI在科学研究和创新方面将扮演越来越重要的角色。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-ais-are-one-of-us-now.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ais-are-one-of-us-now"
-        }
-      ]
-    },
-    {
-      "title": "沃尔玛财报展望不佳，高油价冲击消费者购买力",
-      "summary": "零售巨头沃尔玛发布了低于预期的业绩展望，其高管指出高企的汽油价格正显著挤压消费者支出。这反映出通胀压力对普通民众购买力的持续影响，作为美国零售业的风向标，沃尔玛的业绩预警预示着消费市场可能面临下行风险。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/21/walmart-wmt-earnings-q1-2027.html"
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html"
         },
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/bjs-wholesales-earnings-show-that-cheap-gas-matters-for-people-8469d937?mod=mw_rss_topstories"
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/cvgz311dq3ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/22/trump-tariff-refunds-walmart-home-depot-target-apply.html"
         }
       ]
-    }
-  ],
-  "people": [
+    },
     {
       "name": "Ben Thompson (Stratechery)",
-      "title": "对“主体性网络”时代内容价值及激励机制的思考",
-      "summary": "观点：技术分析师Ben Thompson在与Parallel创始人Parag Agarwal的访谈中指出，在以AI代理为核心的“主体性网络”时代，内容的价值评估和创作者的激励机制将面临根本性变革。他强调，随着AI在内容生产和分发中扮演更重要角色，如何确保优质内容的稀缺性与商业可持续性，是行业亟需解决的核心问题。",
+      "title": "论数据中心否决权及智能体时代的内容价值",
+      "summary": "观点：Thompson深入探讨了数据中心建设中可能出现的“否决权”问题，以及在智能体（Agentic Web）时代如何评估和激励内容创作的价值。他认为，随着AI代理的普及，内容创作的经济模式将面临根本性变革，这对于科技公司和内容生产者而言是核心战略考量。",
       "sources": [
+        {
+          "name": "Stratechery (Ben Thompson)",
+          "url": "https://stratechery.com/2026/the-data-center-veto/"
+        },
         {
           "name": "Stratechery (Ben Thompson)",
           "url": "https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web/"
@@ -73,63 +119,60 @@
     },
     {
       "name": "Tyler Cowen (Marginal Revolution)",
-      "title": "生育期望对金融风险偏好具有显著影响",
-      "summary": "观点：经济学家Tyler Cowen援引研究指出，无子女且不期望生育的成年人比那些期望生育的成年人更有可能投资股票（高出21-36%）。这一发现揭示了人口结构变化和个人生活选择对金融市场风险承担行为的深层影响，对理解长期投资趋势和财富管理策略具有参考价值。",
+      "title": "AI解决数学难题，并关注美国劳动力市场结构性变化",
+      "summary": "观点：Cowen指出，一个通用AI模型成功解决了著名的Erdos单位距离猜想，标志着AI在高等数学领域取得重大突破。同时，他引用数据关注了美国应届毕业生失业率高于整体劳动力的情况，并提及婴儿潮一代退出劳动力市场对新工人经济机会的深远影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/fertility-and-financial-risk-taking.html?utm_source=rss&utm_medium=rss&utm_campaign=fertility-and-financial-risk-taking"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-ais-are-one-of-us-now.html"
+        },
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/friday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-573"
+        },
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/thursday-assorted-links-553.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-553"
         }
       ]
     },
     {
-      "name": "Elon Musk",
-      "title": "随特朗普访华寻求特斯拉在华市场便利",
-      "summary": "观点：据报道，埃隆·马斯克和其他美国企业高管随同特朗普总统访问中国，主要目的是希望北京能为其在华业务，特别是特斯拉，提供更多市场便利并清除现有障碍。这反映了美国跨国企业在复杂地缘政治背景下，通过高层沟通寻求市场准入和运营优化的策略，尤其是在中国这一关键市场。",
+      "name": "Gavin Newsom (加州州长)",
+      "title": "提议让工人分享AI带来的资本收益",
+      "summary": "观点：加州州长纽森提出一项政策理念，即让工人分享人工智能技术颠覆带来的资本收益。这一“全民基本资本”的想法在硅谷引发关注，旨在解决AI发展可能带来的财富不均问题，对科技行业未来的社会责任和经济模式具有潜在影响。",
       "sources": [
         {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/05/21/business/economy/trump-china-trip-ceos-tesla-musk.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html"
         }
       ]
     },
     {
-      "name": "Antonio Filosa (Stellantis CEO)",
-      "title": "Stellantis寻求与中国车企合作，将中国品牌引入北美市场",
-      "summary": "观点：Stellantis首席执行官Antonio Filosa表示，公司正积极寻求与中国汽车制造商建立合作关系，以抓住机遇将中国品牌汽车引入墨西哥乃至加拿大市场，但目前不考虑美国市场。这体现了西方汽车巨头在全球电动化和供应链重构背景下，对中国汽车产业实力的认可及寻求全球市场扩张的新策略。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/22/stellantis-china-vehicles.html"
-        }
-      ]
-    },
-    {
-      "name": "Zweig-DiMenna (Hedge Fund)",
-      "title": "对冲基金警告“毒性组合”威胁美股，标普500可能下跌15%",
-      "summary": "观点：对冲基金Zweig-DiMenna利用其专有模型预测，在未来3-6个月内通胀将继续上升，而债券收益率尚未充分反映这一风险，形成一个“毒性组合”，可能导致标普500指数下跌15%。这一悲观预测提示投资者需警惕潜在的市场下行风险，尤其是在当前宏观经济不确定性加剧的背景下。",
+      "name": "Jamie Dimon (间接引用)",
+      "title": "信用市场“白蚁”风险超“蟑螂”",
+      "summary": "观点：摩根大通CEO曾警告信用市场存在“蟑螂”风险，但有分析指出，不透明的AI贷款和过度杠杆化等“信用白蚁”对经济的侵蚀可能更为严重。这提示投资者关注信用市场中潜在的结构性风险，尤其是在新兴技术和高杠杆领域。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/a-toxic-cocktail-threatens-stocks-why-the-s-p-500-could-drop-15-according-to-this-hedge-fund-655e225b?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/credit-termites-are-lurking-in-the-bond-market-and-eating-away-at-your-portfolio-3f6be6e9?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "伊朗战争余波：亚洲多国货币承压，外汇储备面临考验",
-      "summary": "受中东地区持续冲突导致的油价飙升和美元走强影响，亚洲多个经济体的货币正经历巨大贬值压力。在1997年亚洲金融危机后建立起来的外汇储备，正面临严峻考验。这揭示了地缘政治冲突对全球经济，尤其是对新兴市场货币稳定性的广泛且深远的影响。",
+      "title": "美国消费者信心降至历史新低",
+      "summary": "一项长期调查显示美国消费者对经济的信心跌至历史最低点，尽管这不仅仅归因于对现任总统政策的不满。消费者信心的持续低迷预示着未来消费支出可能面临压力，对经济增长构成挑战，是衡量经济健康状况的关键指标之一。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/22/business/asia-currency-iran-dollar.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/consumer-sentiment-sinks-to-an-all-time-low-is-it-just-because-of-democrats-anger-at-trump-91efde1d?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "英国4月政府借贷额创疫情以来新高，财政压力凸显",
-      "summary": "英国政府在4月份的借贷额达到自新冠疫情爆发以来的最高水平，超出市场预期。这反映出政府面临的财政压力持续增大，可能对未来的财政政策、公共支出以及英国央行的货币政策路径产生重要影响，从而间接影响英国经济的复苏进程和投资环境。",
+      "title": "英国政府借贷创疫情以来新高",
+      "summary": "英国4月份的政府借贷超出预期，创下新冠疫情以来的最高水平，同时零售销售因燃料价格飙升而下降。这反映了英国经济面临的财政压力和通胀困境，可能影响未来的财政政策和经济前景，并可能导致英国央行在货币政策上更加谨慎。",
       "sources": [
         {
           "name": "BBC Business",
@@ -138,83 +181,67 @@
       ]
     },
     {
-      "title": "SEC与NFA签署谅解备忘录，加强监管协调",
-      "summary": "美国证券交易委员会（SEC）与全国期货协会（NFA）宣布签署谅解备忘录，旨在加强在共同监管领域的合作、协调与信息共享。这一举措有利于提升金融市场监管效率，减少监管套利空间，从而为投资者提供更稳定和透明的市场环境，对金融行业的合规性要求产生积极影响。",
+      "title": "简化建筑审批或有助于降低房价",
+      "summary": "预先批准的建筑规划能够将建筑许可证审批流程缩短数周乃至数月。专家指出，审批每延迟一个月都会增加成本并最终转嫁给买家。这一措施若能推广，有望缓解部分地区的住房供应紧张和价格上涨问题，对房地产市场和居民生活成本具有积极影响。",
       "sources": [
         {
-          "name": "SEC Press",
-          "url": "https://www.sec.gov/newsroom/press-releases/2026-47"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/22/your-money/preapproved-plans-houses-cost.html"
         }
       ]
     },
     {
-      "title": "特朗普政府调整EPA制冷剂规定，声称降低超市物价但效果存疑",
-      "summary": "特朗普政府推迟了拜登时代的环境保护局（EPA）关于制冷剂的规定，并声称此举将降低超市的商品成本。然而，这项政策变化对食品价格的实际影响仍不明确。此举显示了政府试图通过放松环保法规来应对通胀压力的意图，但其有效性及长期环境影响值得关注。",
+      "title": "工会经济学研究显示其对工资的有限提升",
+      "summary": "最新研究表明，工会能使现有工会成员的工资平均提高约7%。工资增长主要来源于租金在工人间的重新分配，而工人内部的再分配仅占很小一部分。这项研究为理解劳动力市场动态和薪资结构提供了新视角，对评估工会组织在现代经济中的作用具有指导意义。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/21/trump-changes-epa-refrigeration-rules-in-grocery-price-push.html"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-economics-of-unions.html"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "特朗普政府取消对AI模型进行审查的行政令",
-      "summary": "美国总统特朗普取消了原定签署的行政命令，该命令旨在赋予政府在AI模型发布前对其进行评估的权力。特朗普表示取消是出于对“某些方面”的担忧。这一决策为AI行业的监管前景带来了不确定性，可能影响AI技术的开发和商业化路径，同时也引发了对国家安全和技术创新平衡的讨论。",
+      "title": "Nvidia在标普500中的关键地位",
+      "summary": "Nvidia正走上一条新道路，其市场表现对S&P 500指数基金的投资者至关重要。这凸显了Nvidia在当前科技浪潮，特别是AI和半导体领域的领导地位，以及其市值和增长预期对整体市场走势的巨大影响力，投资者需密切关注其业绩和技术进展。",
       "sources": [
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/nvidias-on-a-new-path-and-if-you-own-an-s-p-500-index-fund-your-money-is-riding-on-it-be0be5ec?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "美国在亚太地区推动AI技术应用与合作",
-      "summary": "一位高级APEC和经济政策官员表示，将美国AI技术整合到亚洲地区是美国当前的重要议程。这表明美国正积极在全球范围内，尤其是在亚太地区，推广其在人工智能领域的领先地位，并可能通过技术出口和合作来加强地缘政治影响力，同时也在与中国的AI竞争中寻求优势。",
+      "title": "数据中心建设中的“否决权”挑战",
+      "summary": "随着AI和云计算的需求激增，数据中心建设面临的挑战日益复杂，可能会出现影响其部署和扩展的“否决权”问题。这对于依赖数据中心基础设施的科技巨头和云计算服务商而言，是战略规划中的关键考量，可能影响其未来算力扩张的速度和成本。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html"
+          "name": "Stratechery (Ben Thompson)",
+          "url": "https://stratechery.com/2026/the-data-center-veto/"
         }
       ]
     },
     {
-      "title": "AI系统“Robin”实现科学发现全流程自动化",
-      "summary": "一个名为“Robin”的多智能体系统首次实现了生物学科学发现的假设生成、实验和数据分析全流程自动化。这一突破性进展意味着AI正在从辅助工具迈向独立的科学研究主体，有望大幅加速新药研发、材料科学等领域的创新速度，对基础科学和应用科学产生深远影响。",
+      "title": "AI模型在内容创作领域的价值重构",
+      "summary": "在“智能体网络”（Agentic Web）时代，如何评估内容价值并激励创作成为一个新议题。AI代理的普及可能颠覆传统内容创作和分发的经济模型，促使行业重新思考内容版权、变现和创作者激励机制，对数字媒体和内容产业带来深远变革。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/robin-its-happening.html?utm_source=rss&utm_medium=rss&utm_campaign=robin-its-happening"
+          "name": "Stratechery (Ben Thompson)",
+          "url": "https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web/"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "英伟达宣布巨额股票回购，但市场对其提振作用存疑",
-      "summary": "芯片巨头英伟达宣布了有史以来最大规模的股票回购计划之一，旨在向投资者返还资本并提振股价。然而，部分分析师认为，尽管此举彰显了公司对业务的信心，但可能不足以完全满足市场对其未来增长和估值的更高预期，显示出在当前高科技估值背景下投资者对资本效率的关注。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/nvidia-made-one-of-the-biggest-buyback-announcements-ever-it-may-not-be-enough-f9a5990c?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "美国公寓地产巨头AvalonBay与Equity Residential或进行大规模合并",
-      "summary": "美国两大公寓房地产投资信托基金AvalonBay Communities和Equity Residential的潜在合并，将催生美国最大的房地产公司之一，拥有超过18万套租赁公寓。这项合并将对美国租赁住房市场产生巨大影响，可能改变行业竞争格局，并对租金定价和市场供应产生深远影响，值得房地产投资者密切关注。",
+      "title": "IMAX初步洽谈出售，引发市场猜测",
+      "summary": "消息人士透露，IMAX已通过中间人进行初步出售洽谈，但公司尚未直接提出正式要约。华尔街分析师认为IMAX已具备出售条件，这可能预示着电影技术和娱乐行业将迎来并购整合，对相关上市公司股价和行业格局产生影响。",
       "sources": [
         {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/22/avalonbay-equity-residential-apartment-merger.html"
-        }
-      ]
-    },
-    {
-      "title": "IMAX据报正与潜在买家进行初步洽谈",
-      "summary": "据消息人士透露，IMAX公司正通过中介与潜在买家进行初步洽谈，但公司尚未直接提出正式的收购邀约。这一消息引发了市场对其未来战略方向和所有权结构变化的猜测。作为高端影院技术领域的领导者，IMAX的潜在出售或收购将对其行业地位、内容合作以及股东价值产生重大影响。",
-      "sources": [
+          "url": "https://www.cnbc.com/2026/05/22/imax-sale-talks-potential-buyers-wall-street-analysts.html"
+        },
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/05/21/imax-preliminary-talks-potential-buyers.html"
@@ -222,31 +249,61 @@
       ]
     },
     {
-      "title": "BJ’s Wholesale财报显示，消费者对汽油价格高度敏感",
-      "summary": "批发会员制商店BJ’s Wholesale的财报凸显了汽油价格对消费者行为的显著影响。随着伊朗战争导致油气价格持续高位，消费者正面临顽固性高通胀的压力。这表明能源成本是影响零售业和消费者支出的关键因素，公司能否提供具有吸引力的油价，直接关系到其在竞争激烈的市场中的表现。",
+      "title": "美国政府入股量子计算公司，市场关注下一目标",
+      "summary": "在美国政府宣布斥资20亿美元并入股多家量子计算公司后，交易员们在预测市场平台上猜测，IonQ、Micron和Anduril等公司可能成为政府下一个入股目标。这反映了政府对关键科技领域的干预力度加大，以及市场对国家战略投资方向的密切关注，可能引发相关概念股的波动。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/bjs-wholesales-earnings-show-that-cheap-gas-matters-for-people-8469d937?mod=mw_rss_topstories"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/05/22/which-company-will-the-us-government-take-a-stake-in-next.html"
+        }
+      ]
+    },
+    {
+      "title": "银行股表现强劲，超越私募和对冲基金",
+      "summary": "继多年来在私募股权和对冲基金之后扮演次要角色，2026年有望成为“银行之年”。这一趋势反映了银行业务的复苏和盈利能力的提升，对金融服务板块的投资者而言是积极信号，可能预示着资金从高风险资产向传统金融机构回流。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/22/business/banks-deals-profits.html"
+        }
+      ]
+    },
+    {
+      "title": "两家公寓巨头合并，重塑租赁住房市场",
+      "summary": "AvalonBay和Equity Residential这两家房地产巨头将进行大规模合并，有望创建一个拥有超过18万套租赁公寓的美国最大房地产公司之一。此举将对美国公寓租赁行业产生深远影响，可能导致市场集中度提高，并改变租金定价和市场竞争格局。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/22/avalonbay-equity-residential-apartment-merger.html"
         }
       ]
     }
   ],
   "a_stocks": [
     {
-      "title": "美企高管随特朗普访华，寻求在华市场便利",
-      "summary": "埃隆·马斯克及其他美国有影响力的高管随同特朗普总统访问中国，旨在为各自公司在华业务，特别是特斯拉，寻求有利的市场条件并清除贸易壁垒。这表明尽管中美关系复杂，美国企业仍高度重视中国市场，并积极通过高层政治渠道解决商业障碍，以期在中国这个关键市场获得更大的发展空间。",
+      "title": "特斯拉等美国CEO随特朗普访华寻求贸易便利",
+      "summary": "伊隆·马斯克及其他随特朗普总统访华的美国商界领袖，希望清除北京设置的贸易障碍。此举凸显了美国企业在中国市场面临的挑战和寻求改善营商环境的努力，对相关在华运营的美国公司及中美贸易关系具有重要意义，也可能影响中国市场对外资的吸引力。",
       "sources": [
         {
           "name": "NYT Economy",
           "url": "https://www.nytimes.com/2026/05/21/business/economy/trump-china-trip-ceos-tesla-musk.html"
         }
       ]
-    },
+    }
+  ],
+  "business": [
     {
-      "title": "Stellantis CEO考虑将中国品牌汽车引入北美市场",
-      "summary": "汽车制造商Stellantis的首席执行官Antonio Filosa表示，公司正在探索将中国品牌汽车引入墨西哥乃至加拿大市场的可能性。这一战略举措表明全球汽车巨头正重新评估与中国汽车制造商的合作模式，可能预示着中国汽车品牌未来在北美市场获得更广阔的增长空间，并对现有市场格局构成挑战。",
+      "title": "Stellantis发布700亿美元转型计划，瞄准北美市场增长",
+      "summary": "汽车巨头Stellantis公布了一项五年战略计划，价值约700亿美元，目标到2027年实现正现金流。公司计划通过Ram Trucks和克莱斯勒的复兴，实现北美销量增长35%，并寻求将中国品牌汽车引入北美市场，预示着汽车行业的深度变革和新竞争格局。",
       "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/21/stellantis-unveils-70-billion-turnaround-plan-targets-positive-cash-flow-by-2027.html"
+        },
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/21/stellantis-north-american-sales-ram-chrysler.html"
+        },
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/05/22/stellantis-china-vehicles.html"
@@ -254,30 +311,8 @@
       ]
     },
     {
-      "title": "中国呼吁APEC合作，商务部长缺席会议引关注",
-      "summary": "在APEC贸易部长会议上，中国呼吁加强区域合作，但中国商务部长王文涛因“紧急公务”缺席了开幕会议。这一缺席引发了外界对其背后原因和中美贸易关系走向的猜测。在当前复杂的地缘政治和贸易环境下，高级别官员的缺席往往被解读为重要的政治信号，可能影响区域经济合作的信心和路径。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/05/22/china-apec-trade-meeting-li-chenggang-cooperation-us-china-deals.html"
-        }
-      ]
-    }
-  ],
-  "business": [
-    {
-      "title": "投行家重回主导地位，交易市场活跃",
-      "summary": "在经历了多年被私募股权和对冲基金 overshadow 的局面后，2026年正成为“银行之年”，投行家重新回到金融交易的主导地位。随着交易活动的蓬勃发展和监管环境的放松，这预示着金融服务行业内的权力平衡发生转变，大型银行的盈利能力和市场影响力有望提升，为金融业带来新的增长机遇。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/22/business/with-deals-booming-and-regulations-lightened-bankers-are-back-on-top.html"
-        }
-      ]
-    },
-    {
-      "title": "英国超市Morrisons计划未来数月关闭100家门店",
-      "summary": "英国大型连锁超市Morrisons计划在未来几个月内关闭100家门店，并指出政府政策选择导致的“显著成本增加”加剧了经营困境。这一举动反映出英国零售业面临的巨大挑战，包括高通胀、供应链压力和消费者支出收紧，对英国就业市场和商业地产也将产生连锁影响。",
+      "title": "英国超市Morrisons计划关闭百家门店",
+      "summary": "英国超市Morrisons计划在未来几个月内关闭100家门店，并指出政府政策选择导致成本显著增加，加剧了经营困难。这反映了英国零售业在当前经济环境下面临的挑战，可能预示着更多零售商的调整和整合，对英国消费市场产生负面影响。",
       "sources": [
         {
           "name": "BBC Business",
@@ -286,22 +321,18 @@
       ]
     },
     {
-      "title": "Stellantis公布700亿美元转型计划，目标2027年实现正现金流",
-      "summary": "Stellantis首席执行官Antonio Filosa公布了一项价值600亿欧元（约合700亿美元）的五年战略转型计划，目标是在2027年前实现正现金流。这项雄心勃勃的计划旨在推动这家汽车巨头的全面改革，包括电动化转型、提升北美市场销量，以及优化成本结构。计划的成功执行将对其在全球汽车行业的竞争力产生决定性影响。",
+      "title": "鸡蛋价格暴跌，生产商利润受挤压",
+      "summary": "禽流感短缺后，鸡蛋市场因供应过剩导致价格暴跌，但生产商表示饲料、燃料和劳动力成本持续上涨，正在挤压利润空间。这表明大宗商品市场的供需波动对农业生产商的盈利能力造成冲击，可能影响未来的农业投资和食品价格的稳定性。",
       "sources": [
         {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/21/stellantis-investor-day.html"
-        },
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/21/stellantis-north-american-sales-ram-chrysler.html"
+          "url": "https://www.cnbc.com/2026/05/22/egg-prices-fall-due-to-oversupply-after-bird-flu-shortages.html"
         }
       ]
     },
     {
-      "title": "LIV高尔夫寻求向投资者融资至多3.5亿美元",
-      "summary": "LIV高尔夫正在积极寻求从投资者那里筹集高达3.5亿美元的资金，以应对在与沙特公共投资基金（PIF）合作后的新现实。这标志着LIV高尔夫在建立自身财务可持续性方面的努力，对其未来发展、赛事规模扩张以及在高尔夫运动全球版图中的地位至关重要，也反映了体育产业新兴竞争者对资本的需求。",
+      "title": "LIV Golf寻求筹集3.5亿美元资金",
+      "summary": "LIV Golf正准备向投资者推介其更新后的商业计划，旨在筹集高达3.5亿美元的新资本。在与沙特公共投资基金（PIF）合作现实落地后，该高尔夫联赛的独立融资努力将决定其未来的发展路径和市场竞争力，对体育产业投资具有参考价值。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -312,32 +343,32 @@
   ],
   "overlooked": [
     {
-      "title": "加州州长提议让工人分享AI发展红利，AI财富分配成焦点",
-      "summary": "加州州长加文·纽森提出了一项政策构想，建议让工人拥有技术颠覆带来的部分股权或收益。这一提案在硅谷引起了广泛关注，凸显了随着人工智能技术加速发展，社会各界对AI创造财富如何公平分配的结构性问题日益重视。这可能引发未来关于普遍基本资本或类似社会保障机制的政策讨论。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html"
-        }
-      ]
-    },
-    {
-      "title": "家族理财办公室投资趋势：公开股票成增长最快资产类别",
-      "summary": "CNBC与Addepar合作发布的新家族理财办公室投资组合追踪器显示，公开股票已成为家族理财办公室增长最快的资产类别，而房地产资产则在萎缩。这一趋势表明在当前市场环境下，超高净值投资者对流动性更高、透明度更强的公开市场投资偏好增强，值得关注其对全球资本流向和资产配置策略的影响。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/21/cnbc-family-office-portfolio-tracker-addepar.html"
-        }
-      ]
-    },
-    {
-      "title": "AI驱动的考古学研究获创投支持，重建古代生态系统",
-      "summary": "Emergent Ventures基金正支持利用考古学和古代DNA分析相结合的项目，旨在通过先进的无人机雷达成像技术，重建古代城市的完整生态系统。这项交叉学科研究不仅推动了历史与环境科学的结合，也展示了AI和前沿技术在看似传统领域中的巨大应用潜力，可能为可持续发展提供历史借鉴。",
+      "title": "生育期望影响金融风险承受能力",
+      "summary": "一项对三国数据的研究表明，没有生育期望的无子女成年人比有生育期望的成年人投资股票的可能性高21-36%。这一发现揭示了个人生活选择，特别是生育决策，对金融风险偏好和资产配置的潜在影响，值得长期投资者关注其对资本市场结构性变化的影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-archeology-tranche-at-emergent-ventures.html?utm_source=rss&utm_medium=rss&utm_campaign=the-archeology-tranche-at-emergent-ventures"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/fertility-and-financial-risk-taking.html"
+        }
+      ]
+    },
+    {
+      "title": "SEC与NFA签署谅解备忘录加强监管协调",
+      "summary": "美国证券交易委员会（SEC）与美国期货协会（NFA）签署了一份谅解备忘录，旨在加强在共同领域的合作、协调和信息共享。此举对于金融衍生品市场和加密资产的监管框架具有重要意义，有助于提高市场透明度和稳定性，减少潜在的监管套利风险。",
+      "sources": [
+        {
+          "name": "SEC Press",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-47"
+        }
+      ]
+    },
+    {
+      "title": "预测市场吸引特定人群，其经济影响力被低估",
+      "summary": "预测市场作为数十亿美元且快速增长的行业，尤其吸引年轻男性参与。尽管其社会经济构成特定，但作为一种信息聚合和风险定价工具，其对政治、经济事件预测的准确性及未来发展潜力值得关注。监管机构对预测市场的态度和发展模式，可能成为未来新兴金融领域的重要变量。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/c93xv27kpwxo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
