@@ -78,10 +78,17 @@
   },
   {
     "source": "NYT Business",
+    "title": "Giving Workers a Stake in A.I. Gains Traction",
+    "link": "https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html",
+    "summary": "Gov. Gavin Newsom of California has floated a policy idea that’s getting attention in Silicon Valley: let workers own a piece of technology disruption.",
+    "published": "Fri, 22 May 2026 12:00:33 +0000"
+  },
+  {
+    "source": "NYT Business",
     "title": "Oil Prices Jump on Impasse Over Reopening the Strait of Hormuz",
     "link": "https://www.nytimes.com/2026/05/22/business/oil-stocks-bonds-gas.html",
     "summary": "Nearly three months since the fighting began, disagreements remain over the fate of Iran’s uranium stockpile and transit fees for the Strait of Hormuz.",
-    "published": "Fri, 22 May 2026 09:11:57 +0000"
+    "published": "Fri, 22 May 2026 12:11:08 +0000"
   },
   {
     "source": "NYT Business",
@@ -140,18 +147,18 @@
     "published": "Fri, 22 May 2026 00:54:53 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "‘Peanuts’ Music Owner Sues Interior Department and 3 Companies for Copyright Infringement",
-    "link": "https://www.nytimes.com/2026/05/21/arts/music/peanuts-music-us-government-lawsuit.html",
-    "summary": "The owner of the “Peanuts” catalog would really like it if companies and the U.S. government stopped using its music without permission.",
-    "published": "Fri, 22 May 2026 01:43:23 +0000"
-  },
-  {
     "source": "NYT Economy",
     "title": "Elon Musk and Other CEOs on Trump’s Trip to China Sought Relief",
     "link": "https://www.nytimes.com/2026/05/21/business/economy/trump-china-trip-ceos-tesla-musk.html",
     "summary": "Elon Musk and other powerful executives who accompanied President Trump to China are hoping to clear roadblocks put up by Beijing.",
     "published": "Thu, 21 May 2026 22:31:07 +0000"
+  },
+  {
+    "source": "NYT DealBook",
+    "title": "Giving Workers a Stake in A.I. Gains Traction",
+    "link": "https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html",
+    "summary": "Gov. Gavin Newsom of California has floated a policy idea that’s getting attention in Silicon Valley: let workers own a piece of technology disruption.",
+    "published": "Fri, 22 May 2026 12:00:33 +0000"
   },
   {
     "source": "NYT DealBook",
@@ -165,7 +172,7 @@
     "title": "Sign Up for DealBook",
     "link": "https://www.nytimes.com/newsletters/signup/DK",
     "summary": "Make sense of the latest business and policy headlines with our daily newsletter.",
-    "published": "Thu, 21 May 2026 12:17:08 +0000"
+    "published": "Fri, 22 May 2026 12:01:59 +0000"
   },
   {
     "source": "NYT DealBook",
@@ -175,46 +182,39 @@
     "published": "Thu, 21 May 2026 17:47:33 +0000"
   },
   {
-    "source": "NYT DealBook",
-    "title": "Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO",
-    "link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
-    "summary": "Mr. Musk’s rocket and satellite maker disclosed its financial performance as it prepares to go public in what is set to be one of the largest offerings to date.",
-    "published": "Thu, 21 May 2026 00:23:44 +0000"
-  },
-  {
     "source": "BBC Business",
     "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
     "link": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
     "summary": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
-    "published": "Fri, 22 May 2026 10:29:42 GMT"
+    "published": "Fri, 22 May 2026 10:56:32 GMT"
   },
   {
     "source": "BBC Business",
     "title": "Morrisons planning to close 100 stores in next few months",
     "link": "https://www.bbc.com/news/articles/c3623ny298xo?at_medium=RSS&at_campaign=rss",
     "summary": "It said difficulties had been exacerbated by \"significant cost increases resulting from government policy choices\".",
-    "published": "Fri, 22 May 2026 08:25:04 GMT"
+    "published": "Fri, 22 May 2026 12:28:35 GMT"
   },
   {
     "source": "BBC Business",
     "title": "Borrowing in April hit highest level since Covid",
     "link": "https://www.bbc.com/news/articles/ce9py7nx8j4o?at_medium=RSS&at_campaign=rss",
     "summary": "Borrowing was higher than expected last month and retail sales fell as fuel prices surged.",
-    "published": "Fri, 22 May 2026 09:36:13 GMT"
+    "published": "Fri, 22 May 2026 11:11:39 GMT"
   },
   {
     "source": "BBC Business",
-    "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
-    "link": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
-    "summary": "It comes just a day after the firm revealed plans for a record-breaking stock market debut.",
-    "published": "Fri, 22 May 2026 02:57:12 GMT"
+    "title": "Why thousands of stock trades tied to Trump are raising eyebrows",
+    "link": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC's Michelle Fleury looks at trades disclosed by the president.",
+    "published": "Fri, 22 May 2026 10:45:38 GMT"
   },
   {
     "source": "BBC Business",
-    "title": "'Monitoring the situation': Why young men are drawn to prediction markets",
-    "link": "https://www.bbc.com/news/articles/c93xv27kpwxo?at_medium=RSS&at_campaign=rss",
-    "summary": "Prediction markets are a fast-growing, multi-billion-dollar industry, and appeal disproportionately to young men",
-    "published": "Thu, 21 May 2026 23:09:43 GMT"
+    "title": "Queues at Dover build in first half-term getaway with new EU checks",
+    "link": "https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&at_campaign=rss",
+    "summary": "It is the first holiday period since the EU's new border system was fully implemented.",
+    "published": "Fri, 22 May 2026 10:53:05 GMT"
   },
   {
     "source": "BBC Business",
@@ -225,10 +225,17 @@
   },
   {
     "source": "BBC Business",
-    "title": "Queues at Dover start to build in first holiday getaway since new EU checks",
-    "link": "https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&at_campaign=rss",
-    "summary": "It is the first holiday period since the EU's new border system was fully implemented.",
-    "published": "Fri, 22 May 2026 09:04:55 GMT"
+    "title": "'The vibes are young male vibes': Why prediction markets attract a certain type",
+    "link": "https://www.bbc.com/news/articles/c93xv27kpwxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Prediction markets are a fast-growing, multi-billion-dollar industry, and appeal disproportionately to young men",
+    "published": "Thu, 21 May 2026 23:09:43 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
+    "link": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
+    "summary": "It comes just a day after the firm revealed plans for a record-breaking stock market debut.",
+    "published": "Fri, 22 May 2026 02:57:12 GMT"
   },
   {
     "source": "BBC Business",
@@ -245,11 +252,53 @@
     "published": "Thu, 21 May 2026 23:05:38 GMT"
   },
   {
-    "source": "BBC Business",
-    "title": "Meta settles social media addiction case with US school district",
-    "link": "https://www.bbc.com/news/articles/cgepze483pqo?at_medium=RSS&at_campaign=rss",
-    "summary": "The trial had been set as a test case for 1200 other school districts making similar claims.",
-    "published": "Thu, 21 May 2026 20:34:59 GMT"
+    "source": "MarketWatch Top Stories",
+    "title": "Nvidia made one of the biggest buyback announcements ever. It may not be enough.",
+    "link": "https://www.marketwatch.com/story/nvidia-made-one-of-the-biggest-buyback-announcements-ever-it-may-not-be-enough-f9a5990c?mod=mw_rss_topstories",
+    "summary": "There’s confidence in the business, but some analysts want to see it go higher.",
+    "published": "Fri, 22 May 2026 12:32:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "I was bought out of the family business for $160,000. My relatives each made $3 million when it sold. Was I cheated?",
+    "link": "https://www.marketwatch.com/story/i-was-bought-out-of-the-family-business-for-160-000-my-relatives-each-made-3-million-when-it-sold-was-i-cheated-8cee0523?mod=mw_rss_topstories",
+    "summary": "“My brother believes that I should share in the profit on the sale of the property.”",
+    "published": "Fri, 22 May 2026 12:06:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "I’m selling my $1 million home. Will my agent really charge less than a 6% commission?",
+    "link": "https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories",
+    "summary": "“I haven’t bought or sold property since the National Association of Realtors ruling that decoupled buyer’s and seller’s agent commissions.”",
+    "published": "Fri, 22 May 2026 11:52:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "BJ’s Wholesale’s earnings show that cheap gas matters for people",
+    "link": "https://www.marketwatch.com/story/bjs-wholesales-earnings-show-that-cheap-gas-matters-for-people-8469d937?mod=mw_rss_topstories",
+    "summary": "Consumers are increasingly feeling the pressure of stubbornly high inflation, particularly as the continuation of the Iran war has kept oil and gas prices at historically high levels.",
+    "published": "Fri, 22 May 2026 11:48:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "A ‘toxic cocktail’ is now threatening stocks, and the S&P 500 could drop 15%, according to this hedge fund",
+    "link": "https://www.marketwatch.com/story/a-toxic-cocktail-threatens-stocks-why-the-s-p-500-could-drop-15-according-to-this-hedge-fund-655e225b?mod=mw_rss_topstories",
+    "summary": "Zweig-DiMenna’s proprietary model tells them inflation will be rising in the next 3-6 months and  bond yields  have not risen sufficiently to compensate investors for that",
+    "published": "Fri, 22 May 2026 11:29:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "As bullish bets surge, here’s the Goldman Sachs options play to protect portfolios from the likely pullback",
+    "link": "https://www.marketwatch.com/story/as-bullish-bets-surge-heres-the-option-play-to-protect-portfolios-from-a-likely-pullback-says-goldman-sachs-e0f1017a?mod=mw_rss_topstories",
+    "summary": "Materials, tech and energy sectors offer an attractive hedging opportunity",
+    "published": "Fri, 22 May 2026 10:53:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "‘It will not bring you happiness’: I have advice for your single, childless 62-year-old multimillionaire reader",
+    "link": "https://www.marketwatch.com/story/it-will-not-bring-you-happiness-i-have-advice-for-your-single-childless-62-year-old-multimillionaire-reader-1cb6a09f?mod=mw_rss_topstories",
+    "summary": "“Go to Walmart and pay off someone’s layaway account.”",
+    "published": "Fri, 22 May 2026 10:52:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
@@ -273,53 +322,32 @@
     "published": "Fri, 22 May 2026 09:01:00 GMT"
   },
   {
-    "source": "MarketWatch Top Stories",
-    "title": "‘Buffett Indicator’ warns of a market top — 8 crucial signs that stocks are running on fumes",
-    "link": "https://www.marketwatch.com/story/buffett-indicator-warns-of-a-market-top-8-crucial-signs-that-stocks-are-running-on-fumes-12e4b4d8?mod=mw_rss_topstories",
-    "summary": "From a grotesque 230% valuation gap to a ticking energy crisis, this unstoppable market is more fragile than it looks.",
-    "published": "Fri, 22 May 2026 01:23:00 GMT"
+    "source": "CNBC Business",
+    "title": "Stellantis CEO sees opportunity in growing partnerships, bringing China-branded vehicles to North America",
+    "link": "https://www.cnbc.com/2026/05/22/stellantis-china-vehicles.html",
+    "summary": "Stellantis CEO Antonio Filosa said there could be an opportunity to bring Chinese-branded vehicles into Mexico and potentially Canada, but not the U.S.",
+    "published": "Fri, 22 May 2026 12:00:01 GMT"
   },
   {
-    "source": "MarketWatch Top Stories",
-    "title": "Stocks tread water — but a wave of volatility is building",
-    "link": "https://www.marketwatch.com/story/stocks-tread-water-but-a-wave-of-volatility-is-building-3a337d90?mod=mw_rss_topstories",
-    "summary": "S&amp;P 500 analysis shows technical sell signals are flashing despite Nvidia earnings hype.",
-    "published": "Fri, 22 May 2026 00:21:00 GMT"
+    "source": "CNBC Business",
+    "title": "Trump said he'd 'remember' companies that didn't apply for tariff refunds. Many of them are anyway",
+    "link": "https://www.cnbc.com/2026/05/22/trump-tariff-refunds-walmart-home-depot-target-apply.html",
+    "summary": "Walmart confirmed to CNBC it has sought a tariff refund and plans to use any money it receives back to invest in lower prices for shoppers.",
+    "published": "Fri, 22 May 2026 11:23:45 GMT"
   },
   {
-    "source": "MarketWatch Top Stories",
-    "title": "SpaceX has a lot riding on its imminent Starship rocket launch",
-    "link": "https://www.marketwatch.com/story/spacex-has-a-lot-riding-on-its-imminent-starship-rocket-launch-fd24bf48?mod=mw_rss_topstories",
-    "summary": "The launch, which could happen as soon as Friday, comes ahead of “an IPO that’s basing so much” on narrative and symbolism.",
-    "published": "Fri, 22 May 2026 00:07:00 GMT"
+    "source": "CNBC Business",
+    "title": "What the AvalonBay, Equity Residential megamerger means for the apartment industry and rents",
+    "link": "https://www.cnbc.com/2026/05/22/avalonbay-equity-residential-apartment-merger.html",
+    "summary": "The deal will create one of the largest real estate companies in the U.S., with more than 180,000 rental apartments.",
+    "published": "Fri, 22 May 2026 11:00:01 GMT"
   },
   {
-    "source": "MarketWatch Top Stories",
-    "title": "I’m selling my $1 million home. Will my agent really charge less than a 6% commission?",
-    "link": "https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories",
-    "summary": "“I haven’t bought or sold property since the National Association of Realtors ruling that decoupled buyer’s and seller’s agent commissions.”",
-    "published": "Thu, 21 May 2026 23:00:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Your bond portfolio is facing a ‘termite’ infestation far worse than Jamie Dimon’s ‘cockroaches’",
-    "link": "https://www.marketwatch.com/story/credit-termites-are-lurking-in-the-bond-market-and-eating-away-at-your-portfolio-3f6be6e9?mod=mw_rss_topstories",
-    "summary": "JP Morgan Chase CEO warned of credit-market  ‘cockroaches.’ But opaque AI loans and excessive leverage — ‘credit termites’ — are hollowing out the economy.",
-    "published": "Thu, 21 May 2026 22:33:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Nvidia can deliver chips — but it can’t buy Big Tech out of its credit and power-grid crisis",
-    "link": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories",
-    "summary": "Corporate profits can’t fix a chaotic trade war with China, climbing credit premiums and AI infrastructure limits.",
-    "published": "Thu, 21 May 2026 22:32:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "The bond market just flipped the script on investors — Wall Street is acting like nothing’s wrong",
-    "link": "https://www.marketwatch.com/story/the-bond-market-just-flipped-the-script-on-investors-wall-street-is-acting-like-nothings-wrong-f321cc5b?mod=mw_rss_topstories",
-    "summary": "When credit and stocks disagree, credit is the one telling the truth.",
-    "published": "Thu, 21 May 2026 22:30:00 GMT"
+    "source": "CNBC Business",
+    "title": "IMAX has held ‘preliminary talks’ with potential buyers, source says",
+    "link": "https://www.cnbc.com/2026/05/21/imax-preliminary-talks-potential-buyers.html",
+    "summary": "IMAX has held \"preliminary talks\" through intermediaries, but no official pitches have been made directly by the company, a source told CNBC.",
+    "published": "Thu, 21 May 2026 23:04:31 GMT"
   },
   {
     "source": "CNBC Business",
@@ -364,18 +392,18 @@
     "published": "Thu, 21 May 2026 13:13:30 GMT"
   },
   {
-    "source": "CNBC Business",
-    "title": "Eli Lilly says next-generation weight loss drug clears crucial obesity trial",
-    "link": "https://www.cnbc.com/2026/05/21/eli-lilly-weight-loss-drug-retatrutide-clears-obesity-trial.html",
-    "summary": "The results bring Lilly one step closer to filing for approval of the injection, retatrutide, which works differently from existing injections and pills.",
-    "published": "Thu, 21 May 2026 13:43:14 GMT"
+    "source": "CNBC Finance",
+    "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
+    "link": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
+    "summary": "Integrating American AI in Asia is high on the agenda for the U.S., according to a senior official for APEC and economic policy.",
+    "published": "Fri, 22 May 2026 11:45:23 GMT"
   },
   {
-    "source": "CNBC Business",
-    "title": "Billionaire families bet on semiconductor and energy stocks in first quarter during Iran war",
-    "link": "https://www.cnbc.com/2026/05/21/billionaire-investments-q1.html",
-    "summary": "Private investment firms of David Tepper and other billionaires doubled down on chipmakers despite the Iran war pressuring data center economics.",
-    "published": "Thu, 21 May 2026 11:53:44 GMT"
+    "source": "CNBC Finance",
+    "title": "Stocks making the biggest moves premarket: IMAX, Merck, Estee Lauder & more",
+    "link": "https://www.cnbc.com/2026/05/22/stocks-making-the-biggest-moves-premarket-imax-mrk-el-and-more.html",
+    "summary": "These are the stocks posting the largest moves premarket.",
+    "published": "Fri, 22 May 2026 11:47:29 GMT"
   },
   {
     "source": "CNBC Finance",
@@ -434,66 +462,45 @@
     "published": "Thu, 21 May 2026 12:00:45 GMT"
   },
   {
-    "source": "CNBC Finance",
-    "title": "Japan’s megabanks post record profits, but analysts warn growth may slow as risks mount",
-    "link": "https://www.cnbc.com/2026/05/21/japan-megabanks-profits-growth-risks-sumitomo-mitsui-mizuho-mitsubishi-ufj.html",
-    "summary": "Japan's largest lenders may face some challenges to keep profit levels at record highs, amid higher credit costs and current geopolitical risks",
-    "published": "Thu, 21 May 2026 06:35:46 GMT"
-  },
-  {
     "source": "Hacker News Top",
     "title": "The memory shortage is causing a repricing of consumer electronics",
     "link": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-    "summary": "<p>Article URL: <a href=\"https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone\">https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48229319\">https://news.ycombinator.com/item?id=48229319</a></p>\n<p>Points: 216</p>\n<p># Comments: 237</p>",
+    "summary": "<p>Article URL: <a href=\"https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone\">https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48229319\">https://news.ycombinator.com/item?id=48229319</a></p>\n<p>Points: 263</p>\n<p># Comments: 322</p>",
     "published": "Thu, 21 May 2026 21:55:56 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Uv is fantastic, but its package management UX is a mess",
     "link": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
-    "summary": "<p>Article URL: <a href=\"https://www.loopwerk.io/articles/2026/uv-ux-mess/\">https://www.loopwerk.io/articles/2026/uv-ux-mess/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48228788\">https://news.ycombinator.com/item?id=48228788</a></p>\n<p>Points: 214</p>\n<p># Comments: 110</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.loopwerk.io/articles/2026/uv-ux-mess/\">https://www.loopwerk.io/articles/2026/uv-ux-mess/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48228788\">https://news.ycombinator.com/item?id=48228788</a></p>\n<p>Points: 240</p>\n<p># Comments: 116</p>",
     "published": "Thu, 21 May 2026 20:56:36 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Using Kagi Search with Low Vision",
     "link": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-    "summary": "<p>Article URL: <a href=\"https://veroniiiica.com/using-kagi-search-with-low-vision/\">https://veroniiiica.com/using-kagi-search-with-low-vision/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48227860\">https://news.ycombinator.com/item?id=48227860</a></p>\n<p>Points: 204</p>\n<p># Comments: 67</p>",
+    "summary": "<p>Article URL: <a href=\"https://veroniiiica.com/using-kagi-search-with-low-vision/\">https://veroniiiica.com/using-kagi-search-with-low-vision/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48227860\">https://news.ycombinator.com/item?id=48227860</a></p>\n<p>Points: 216</p>\n<p># Comments: 74</p>",
     "published": "Thu, 21 May 2026 19:32:16 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
     "link": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-    "summary": "<p>Article URL: <a href=\"https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/\">https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48227397\">https://news.ycombinator.com/item?id=48227397</a></p>\n<p>Points: 293</p>\n<p># Comments: 152</p>",
+    "summary": "<p>Article URL: <a href=\"https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/\">https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48227397\">https://news.ycombinator.com/item?id=48227397</a></p>\n<p>Points: 311</p>\n<p># Comments: 166</p>",
     "published": "Thu, 21 May 2026 18:54:55 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
-    "link": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-    "summary": "<p>Article URL: <a href=\"https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/\">https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48226588\">https://news.ycombinator.com/item?id=48226588</a></p>\n<p>Points: 462</p>\n<p># Comments: 190</p>",
-    "published": "Thu, 21 May 2026 17:55:58 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "News outlets are limiting the Internet Archive’s access to their journalism",
-    "link": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
-    "summary": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/\">https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48225838\">https://news.ycombinator.com/item?id=48225838</a></p>\n<p>Points: 287</p>\n<p># Comments: 99</p>",
-    "published": "Thu, 21 May 2026 16:59:27 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
     "link": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
-    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/\">https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48225426\">https://news.ycombinator.com/item?id=48225426</a></p>\n<p>Points: 321</p>\n<p># Comments: 397</p>",
+    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/\">https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48225426\">https://news.ycombinator.com/item?id=48225426</a></p>\n<p>Points: 338</p>\n<p># Comments: 414</p>",
     "published": "Thu, 21 May 2026 16:30:47 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Project Hail Mary – Stellar Navigation Chart",
     "link": "https://valhovey.github.io/gaia-mary/",
-    "summary": "<p>Article URL: <a href=\"https://valhovey.github.io/gaia-mary/\">https://valhovey.github.io/gaia-mary/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48225297\">https://news.ycombinator.com/item?id=48225297</a></p>\n<p>Points: 933</p>\n<p># Comments: 201</p>",
+    "summary": "<p>Article URL: <a href=\"https://valhovey.github.io/gaia-mary/\">https://valhovey.github.io/gaia-mary/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48225297\">https://news.ycombinator.com/item?id=48225297</a></p>\n<p>Points: 976</p>\n<p># Comments: 205</p>",
     "published": "Thu, 21 May 2026 16:23:11 +0000"
   },
   {
@@ -507,8 +514,50 @@
     "source": "Hacker News Top",
     "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
     "link": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-    "summary": "<p>Article URL: <a href=\"https://blog.simbastack.com/indexed-a-year-of-video-locally/\">https://blog.simbastack.com/indexed-a-year-of-video-locally/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48222733\">https://news.ycombinator.com/item?id=48222733</a></p>\n<p>Points: 386</p>\n<p># Comments: 115</p>",
+    "summary": "<p>Article URL: <a href=\"https://blog.simbastack.com/indexed-a-year-of-video-locally/\">https://blog.simbastack.com/indexed-a-year-of-video-locally/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48222733\">https://news.ycombinator.com/item?id=48222733</a></p>\n<p>Points: 410</p>\n<p># Comments: 121</p>",
     "published": "Thu, 21 May 2026 14:01:37 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Python 3.15: features that didn't make the headlines",
+    "link": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+    "summary": "<p>Article URL: <a href=\"https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html\">https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48220696\">https://news.ycombinator.com/item?id=48220696</a></p>\n<p>Points: 389</p>\n<p># Comments: 195</p>",
+    "published": "Thu, 21 May 2026 11:10:11 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Flipper One – we need your help",
+    "link": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+    "summary": "<p>Article URL: <a href=\"https://blog.flipper.net/flipper-one-we-need-your-help/\">https://blog.flipper.net/flipper-one-we-need-your-help/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48220647\">https://news.ycombinator.com/item?id=48220647</a></p>\n<p>Points: 1183</p>\n<p># Comments: 454</p>",
+    "published": "Thu, 21 May 2026 11:03:38 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "First vaccines, now mammograms? RFK Jr.’s latest firings have doctors outraged.",
+    "link": "https://arstechnica.com/health/2026/05/doctors-outraged-after-rfk-jr-fires-leaders-of-key-preventive-medicine-panel/",
+    "summary": "Doctors are angry and alarmed that preventive care could go the way of vaccines.",
+    "published": "Fri, 22 May 2026 11:30:38 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "Rocket Report: Starship launch delayed, German launch company may aid Canada",
+    "link": "https://arstechnica.com/space/2026/05/rocket-report-starship-launch-delayed-german-launch-company-may-aid-canada/",
+    "summary": "All eyes on South Texas for the latest Starship test flight.",
+    "published": "Fri, 22 May 2026 11:20:43 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "The $58,000 TV bill: When DirecTV sued O.J. Simpson for piracy",
+    "link": "https://arstechnica.com/tech-policy/2026/05/the-58000-tv-bill-when-directv-sued-o-j-simpson-for-piracy/",
+    "summary": "In 2001, the FBI raided O.J.'s house and found smartcards, bootloaders.",
+    "published": "Fri, 22 May 2026 11:00:43 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "A hacker group is poisoning open source code at an unprecedented scale",
+    "link": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+    "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
+    "published": "Fri, 22 May 2026 10:30:14 +0000"
   },
   {
     "source": "Ars Technica",
@@ -553,32 +602,11 @@
     "published": "Thu, 21 May 2026 18:35:38 +0000"
   },
   {
-    "source": "Ars Technica",
-    "title": "Stunning aerial footage still best thing about Top Gun at 40",
-    "link": "https://arstechnica.com/culture/2026/05/top-gun-turns-40/",
-    "summary": "Tony Scott's 1986 blockbuster and the 2022 sequel are the best recruitment tools the US Navy could hope for.",
-    "published": "Thu, 21 May 2026 16:42:43 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Uh-oh, the International Space Station is leaking again",
-    "link": "https://arstechnica.com/space/2026/05/uh-oh-the-international-space-station-is-leaking-again/",
-    "summary": "\"This further confirms the wisdom of the current policy of retiring the ISS in 2030.\"",
-    "published": "Thu, 21 May 2026 16:07:17 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "US government takes $2 billion equity stake in nine quantum computing firms",
-    "link": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
-    "summary": "Beneficiaries include startup backed by firm with links to the Trump family.",
-    "published": "Thu, 21 May 2026 13:48:38 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Plug-in hybrids get plugged in more than you might think",
-    "link": "https://arstechnica.com/cars/2026/05/plug-in-hybrids-get-plugged-in-more-than-you-might-think/",
-    "summary": "Toyota is the latest automaker to report PHEV charging stats, and they're encouraging.",
-    "published": "Thu, 21 May 2026 13:34:53 +0000"
+    "source": "MIT Tech Review",
+    "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+    "link": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code&#8230;",
+    "published": "Fri, 22 May 2026 12:10:00 +0000"
   },
   {
     "source": "MIT Tech Review",
@@ -638,9 +666,16 @@
   },
   {
     "source": "SCMP Business",
-    "title": "China regulator punishes brokerages for offering illegal access to overseas stocks",
+    "title": "‘I am sorry’: Standard Chartered CEO Bill Winters apologises for comments over job cuts",
+    "link": "https://www.scmp.com/business/banking-finance/article/3354558/i-am-sorry-standard-chartered-ceo-bill-winters-apologises-comments-over-job-cuts?utm_source=rss_feed",
+    "summary": "Standard Chartered global CEO Bill Winters on Friday said he was “sorry” for comments describing “lower-value” workers, made while announcing job-cut plans earlier this week.\nWinters apologised in a LinkedIn post as he tried to cool debate among upset employees after he announced on Tuesday a 15 per cent cut of back-office staff at the lender by 2030. Winters said that AI adoption would replace some “lower-value human capital”.\nThe CEO first made a LinkedIn post explaining his comments from...",
+    "published": "Fri, 22 May 2026 11:09:56 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "China cracks down on Tiger, Futu and Long Bridge for illegal cross-border stock trading",
     "link": "https://www.scmp.com/business/china-business/article/3354543/china-regulator-punishes-brokerages-offering-illegal-access-overseas-stocks?utm_source=rss_feed",
-    "summary": "China’s securities regulator has penalised Tiger Brokers and Futu Securities International for illegally offering domestic investors access to overseas securities trading, in a move to clean up market disorder and crack down on illicit outflows.\nThe two brokerages, along with Long Bridge Securities, would have their ill-gotten gains confiscated and face further punishments, the China Securities Regulatory Commission (CSRC) said in a statement on Friday.\nThe three companies promoted securities...",
+    "summary": "China’s securities regulator has penalised Tiger Brokers and Futu Securities International for illegally offering domestic investors access to overseas securities trading, in a move to clean up market misconduct and crack down on illicit outflows.\nThe two brokerages, along with Long Bridge Securities, would have their ill-gotten gains confiscated and face further punishments, the China Securities Regulatory Commission (CSRC) said in a statement on Friday.\nThe three companies promoted securities...",
     "published": "Fri, 22 May 2026 09:55:27 +0000"
   },
   {
@@ -698,12 +733,5 @@
     "link": "https://www.scmp.com/business/china-evs/article/3354363/does-xpengs-33-cut-its-new-6-seat-suv-portend-price-war-premium-segment?utm_source=rss_feed",
     "summary": "The market for six-seat premium SUVs in China is expected to become a more intense battleground, squeezing carmakers by forcing them to cut prices or enhance key features in a fight for market share, according to analysts.\nXpeng priced its new electric SUV the GX at 269,800 yuan (US$39,687) on Wednesday, slashing its price by nearly a third from the pre-order price of 399,800 yuan.\nThe cut “surprised the market”, Citigroup analysts said in a report on Wednesday, adding that the new model’s...",
     "published": "Thu, 21 May 2026 09:01:49 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Alibaba signals next phase of AI growth from investment to commercialisation",
-    "link": "https://www.scmp.com/tech/big-tech/article/3354324/alibaba-signals-next-phase-ai-growth-investment-commercialisation?utm_source=rss_feed",
-    "summary": "Alibaba Group Holding’s heavy investments in artificial intelligence have moved beyond the “initial” phase and entered “full-scale commercialisation”, the Chinese e-commerce and cloud computing giant says in a shareholder letter as it doubles down on AI as its next major growth engine.\n“We expect the addressable market for companies like Alibaba that provide full-stack AI capabilities is poised to grow exponentially,” chairman Joe Tsai and CEO Eddie Wu Yongming said in a joint shareholder letter...",
-    "published": "Thu, 21 May 2026 06:00:41 +0000"
   }
 ]
