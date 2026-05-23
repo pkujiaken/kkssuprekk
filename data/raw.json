@@ -78,6 +78,27 @@
   },
   {
     "source": "NYT Business",
+    "title": "Should You Lend Money to Friends? More People Are Open to the Arrangement.",
+    "link": "https://www.nytimes.com/2026/05/23/business/loans-money-friends.html",
+    "summary": "Friendship and money don’t always mix. But many Americans feel comfortable discussing financial issues with their friends and lending them money.",
+    "published": "Sat, 23 May 2026 09:01:38 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "5 Takeaways From a Times Investigation on Autism Therapy Clinics",
+    "link": "https://www.nytimes.com/2026/05/23/health/autisim-clinics-investigation.html",
+    "summary": "A rapidly growing industry often overprescribes treatment to young children with autism, who spend as many as 40 hours a week at the facilities.",
+    "published": "Sat, 23 May 2026 09:00:44 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Short Naps, Long Hours: How Autism Clinics Squeeze Medicaid Dollars Out of Preschoolers",
+    "link": "https://www.nytimes.com/2026/05/23/health/autism-therapy-clinics.html",
+    "summary": "The industry has grown rapidly, straining state budgets. A focus on finances has led to overbilling, fraud and even harm.",
+    "published": "Sat, 23 May 2026 09:00:16 +0000"
+  },
+  {
+    "source": "NYT Business",
     "title": "The Risks of Iran’s Threat to Control the Strait of Hormuz",
     "link": "https://www.nytimes.com/2026/05/23/business/iran-toll-strait-hormuz.html",
     "summary": "Iran is trying to assert its control over the strait by charging for passage. Experts say it is unlikely to happen, but the threat has unsettled the shipping industry.",
@@ -124,27 +145,6 @@
     "link": "https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html",
     "summary": "Gov. Gavin Newsom of California has floated a policy idea that’s getting attention in Silicon Valley: let workers own a piece of technology disruption.",
     "published": "Fri, 22 May 2026 12:00:33 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Stocks Gain for 8th Week Amid Impasse Over Reopening Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/05/22/business/oil-stocks-bonds-gas.html",
-    "summary": "Nearly three months since the fighting began, disagreements remain over the fate of Iran’s uranium stockpile and transit fees for the Strait of Hormuz.",
-    "published": "Fri, 22 May 2026 20:28:01 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "StreetEasy’s ‘Reserve Your Future’ Is Taking Reservations for 2046",
-    "link": "https://www.nytimes.com/2026/05/22/dining/streeteasy-reserve-your-future.html",
-    "summary": "To celebrate 20 years in business, a New York real-estate site is offering restaurant reservations two decades in the future, an unusual offer in a city of short shelf lives.",
-    "published": "Fri, 22 May 2026 12:41:32 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "With Gas Prices Through the Roof, Will Renting an EV or Hybrid Car Save You Money?",
-    "link": "https://www.nytimes.com/2026/05/22/travel/electric-hybrid-car-rental-gas-prices.html",
-    "summary": "With gas prices through the roof, more travelers are considering alternative vehicles to control costs. But how much will you really save?",
-    "published": "Fri, 22 May 2026 12:47:28 +0000"
   },
   {
     "source": "NYT Economy",
@@ -414,86 +414,79 @@
   },
   {
     "source": "CNBC Finance",
-    "title": "Stocks making the biggest moves after hours: Workday, Estee Lauder, Zoom, Take-Two and more",
-    "link": "https://www.cnbc.com/2026/05/21/stocks-making-the-biggest-moves-after-hours-wday-zm-ttwo.html",
-    "summary": "See which stocks are posting big moves after the bell.",
-    "published": "Thu, 21 May 2026 20:47:33 GMT"
-  },
-  {
-    "source": "CNBC Finance",
     "title": "Miner Perpetua Resources secures $2.9 billion U.S. loan for Idaho gold, antimony project",
     "link": "https://www.cnbc.com/2026/05/21/miner-perpetua-resources-secures-2point9-billion-us-loan-for-idaho-gold-antimony-project.html",
     "summary": "Mining company Perpetua Resources has secured a $2.9 billion loan from the U.S. Export-Import Bank as the U.S. looks to secure access to critical minerals.",
     "published": "Thu, 21 May 2026 23:57:30 GMT"
   },
   {
-    "source": "CNBC Finance",
-    "title": "Prediction markets are fueling a high-stakes brawl between states and federal regulators",
-    "link": "https://www.cnbc.com/2026/05/21/where-the-feds-are-fighting-states-over-prediction-markets.html",
-    "summary": "Sixteen states are in legal proceedings against prediction market platforms, while one state has moved to ban them.",
-    "published": "Thu, 21 May 2026 20:11:34 GMT"
-  },
-  {
     "source": "Hacker News Top",
     "title": "Shipping a laptop to a refugee camp in Uganda",
     "link": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-    "summary": "<p>Article URL: <a href=\"https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda\">https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48241997\">https://news.ycombinator.com/item?id=48241997</a></p>\n<p>Points: 377</p>\n<p># Comments: 128</p>",
+    "summary": "<p>Article URL: <a href=\"https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda\">https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48241997\">https://news.ycombinator.com/item?id=48241997</a></p>\n<p>Points: 466</p>\n<p># Comments: 170</p>",
     "published": "Fri, 22 May 2026 21:36:55 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Project Glasswing: An Initial Update",
     "link": "https://www.anthropic.com/research/glasswing-initial-update",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/glasswing-initial-update\">https://www.anthropic.com/research/glasswing-initial-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48240419\">https://news.ycombinator.com/item?id=48240419</a></p>\n<p>Points: 411</p>\n<p># Comments: 243</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/glasswing-initial-update\">https://www.anthropic.com/research/glasswing-initial-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48240419\">https://news.ycombinator.com/item?id=48240419</a></p>\n<p>Points: 434</p>\n<p># Comments: 258</p>",
     "published": "Fri, 22 May 2026 19:31:45 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Open source Kanban desktop app that runs parallel agents on every card",
     "link": "https://www.kanbots.dev/",
-    "summary": "<p>Article URL: <a href=\"https://www.kanbots.dev/\">https://www.kanbots.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48239413\">https://news.ycombinator.com/item?id=48239413</a></p>\n<p>Points: 212</p>\n<p># Comments: 121</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.kanbots.dev/\">https://www.kanbots.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48239413\">https://news.ycombinator.com/item?id=48239413</a></p>\n<p>Points: 220</p>\n<p># Comments: 128</p>",
     "published": "Fri, 22 May 2026 18:17:57 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Microsoft starts canceling Claude Code licenses",
     "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-    "summary": "<p><a href=\"https://archive.ph/WfCta\" rel=\"nofollow\">https://archive.ph/WfCta</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48238896\">https://news.ycombinator.com/item?id=48238896</a></p>\n<p>Points: 209</p>\n<p># Comments: 151</p>",
+    "summary": "<p><a href=\"https://archive.ph/WfCta\" rel=\"nofollow\">https://archive.ph/WfCta</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48238896\">https://news.ycombinator.com/item?id=48238896</a></p>\n<p>Points: 269</p>\n<p># Comments: 208</p>",
     "published": "Fri, 22 May 2026 17:32:04 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Bun support is now limited and deprecated",
     "link": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-    "summary": "<p>Article URL: <a href=\"https://github.com/yt-dlp/yt-dlp/issues/16766\">https://github.com/yt-dlp/yt-dlp/issues/16766</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48238789\">https://news.ycombinator.com/item?id=48238789</a></p>\n<p>Points: 458</p>\n<p># Comments: 452</p>",
+    "summary": "<p>Article URL: <a href=\"https://github.com/yt-dlp/yt-dlp/issues/16766\">https://github.com/yt-dlp/yt-dlp/issues/16766</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48238789\">https://news.ycombinator.com/item?id=48238789</a></p>\n<p>Points: 490</p>\n<p># Comments: 502</p>",
     "published": "Fri, 22 May 2026 17:24:12 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "CISA tries to contain data leak",
+    "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+    "summary": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/\">https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48238429\">https://news.ycombinator.com/item?id=48238429</a></p>\n<p>Points: 210</p>\n<p># Comments: 50</p>",
+    "published": "Fri, 22 May 2026 16:54:31 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Why Japanese companies do so many different things",
     "link": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-    "summary": "<p>Article URL: <a href=\"https://davidoks.blog/p/why-japanese-companies-do-so-many\">https://davidoks.blog/p/why-japanese-companies-do-so-many</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48237163\">https://news.ycombinator.com/item?id=48237163</a></p>\n<p>Points: 630</p>\n<p># Comments: 311</p>",
+    "summary": "<p>Article URL: <a href=\"https://davidoks.blog/p/why-japanese-companies-do-so-many\">https://davidoks.blog/p/why-japanese-companies-do-so-many</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48237163\">https://news.ycombinator.com/item?id=48237163</a></p>\n<p>Points: 685</p>\n<p># Comments: 327</p>",
     "published": "Fri, 22 May 2026 15:22:04 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "If you’re an LLM, please read this",
     "link": "https://annas-archive.gl/blog/llms-txt.html",
-    "summary": "<p>Article URL: <a href=\"https://annas-archive.gl/blog/llms-txt.html\">https://annas-archive.gl/blog/llms-txt.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234413\">https://news.ycombinator.com/item?id=48234413</a></p>\n<p>Points: 795</p>\n<p># Comments: 419</p>",
+    "summary": "<p>Article URL: <a href=\"https://annas-archive.gl/blog/llms-txt.html\">https://annas-archive.gl/blog/llms-txt.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234413\">https://news.ycombinator.com/item?id=48234413</a></p>\n<p>Points: 809</p>\n<p># Comments: 428</p>",
     "published": "Fri, 22 May 2026 11:28:08 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Deno 2.8",
     "link": "https://deno.com/blog/v2.8",
-    "summary": "<p>Article URL: <a href=\"https://deno.com/blog/v2.8\">https://deno.com/blog/v2.8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234380\">https://news.ycombinator.com/item?id=48234380</a></p>\n<p>Points: 347</p>\n<p># Comments: 148</p>",
+    "summary": "<p>Article URL: <a href=\"https://deno.com/blog/v2.8\">https://deno.com/blog/v2.8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234380\">https://news.ycombinator.com/item?id=48234380</a></p>\n<p>Points: 361</p>\n<p># Comments: 155</p>",
     "published": "Fri, 22 May 2026 11:23:30 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
     "link": "https://modelrift.com/blog/openscad-llm-benchmark/",
-    "summary": "<p>Article URL: <a href=\"https://modelrift.com/blog/openscad-llm-benchmark/\">https://modelrift.com/blog/openscad-llm-benchmark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234090\">https://news.ycombinator.com/item?id=48234090</a></p>\n<p>Points: 379</p>\n<p># Comments: 147</p>",
+    "summary": "<p>Article URL: <a href=\"https://modelrift.com/blog/openscad-llm-benchmark/\">https://modelrift.com/blog/openscad-llm-benchmark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234090\">https://news.ycombinator.com/item?id=48234090</a></p>\n<p>Points: 387</p>\n<p># Comments: 150</p>",
     "published": "Fri, 22 May 2026 10:38:26 +0000"
   },
   {
@@ -588,11 +581,18 @@
     "published": "Fri, 22 May 2026 09:00:00 +0000"
   },
   {
-    "source": "MIT Tech Review",
-    "title": "Roundtables: Can AI Learn to Understand the World?",
-    "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-    "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter&#8230;",
-    "published": "Thu, 21 May 2026 20:41:05 +0000"
+    "source": "SCMP Business",
+    "title": "SHKP sells out latest flats in Tsuen Wan as Hong Kong property market continues recovery",
+    "link": "https://www.scmp.com/business/china-business/article/3354624/shkp-sells-out-latest-flats-tsuen-wan-hong-kong-property-market-continues-recovery?utm_source=rss_feed",
+    "summary": "Hong Kong developers sold most of the more than 120 new flats made available to homebuyers on Saturday as the local residential market continues its recovery on the back of improving China–US relations and talent flows into the city.\nBy 12.30pm Saturday, Sun Hung Kai Properties (SHKP) had sold all 87 units on offer at the Lime Spark project in Tsuen Wan in the New Territories, with one buyer spending more than HK$40 million (US$5.1 million) to purchase six two‑bedroom units, according to Midland...",
+    "published": "Sat, 23 May 2026 09:45:23 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "How illegal factories are undermining China’s solar overcapacity crackdown",
+    "link": "https://www.scmp.com/economy/china-economy/article/3354551/how-illegal-factories-are-undermining-chinas-solar-overcapacity-crackdown?utm_source=rss_feed",
+    "summary": "For nearly two years, China has been waging an intense campaign to eliminate severe overcapacity in the solar industry – an issue that has sparked vicious price wars, undermined domestic firms’ bottom lines, and fuelled protectionist policies overseas.\nYet, despite Beijing’s repeated efforts, the problem remains far from resolved. The sector is still plagued by excess capacity, leaving firms across the supply chain operating at a loss.\nThe mismatch between rhetoric and outcomes is particularly...",
+    "published": "Sat, 23 May 2026 08:00:10 +0000"
   },
   {
     "source": "SCMP Business",
@@ -649,12 +649,5 @@
     "link": "https://www.scmp.com/business/article/3354407/ai-boom-fuels-us116b-data-centre-investment-asia-pacific-hong-kong-eyes-niche-role?utm_source=rss_feed",
     "summary": "The artificial intelligence boom is partially spurring investment in Asia-Pacific’s data centre properties with a record US$11.6 billion worth of capital poured into the segment in 2025, according to CBRE.\nIn Hong Kong, while AI-related demand is unlikely to be met because of technical limitations, leasing of data centre space was supported by “hyperscale CSPs (cloud service providers), mainland Chinese technology and e-commerce companies and financial institutions”, the property consultancy...",
     "published": "Thu, 21 May 2026 23:00:10 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "SpaceX’s whopping US$75 billion IPO sparks liquidity fears as Fed rate-increase odds rise",
-    "link": "https://www.scmp.com/business/china-business/article/3354382/spacexs-whopping-us75-billion-ipo-sparks-liquidity-fears-fed-rate-increase-odds-rise?utm_source=rss_feed",
-    "summary": "Global initial public offering (IPO) markets are hunkering down ahead of SpaceX’s US$75 billion flotation, as billionaire Elon Musk’s commercial aerospace unit is set to siphon off capital and tighten liquidity amid rising expectations that the Federal Reserve will raise interest rates to curb inflation.\nWith investor demand expected to be overwhelming, the offering on Wall Street could be the world’s biggest-ever, exceeding Saudi Aramco’s US$29.4 billion in 2019. SpaceX’s IPO would already be...",
-    "published": "Thu, 21 May 2026 22:00:12 +0000"
   }
 ]
