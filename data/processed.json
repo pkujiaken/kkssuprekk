@@ -1,8 +1,8 @@
 {
   "top5": [
     {
-      "title": "中东紧张局势导致关键石脑油供应中断，亚洲制造业受冲击",
-      "summary": "霍尔木兹海峡的封锁导致关键石脑油供应短缺，严重扰乱了日本和韩国等亚洲国家的制造业及零售商品生产。石脑油是石化工业的重要原料，其供应中断直接推高了生产成本，并可能进一步传导至终端消费品价格，加剧全球通胀压力。这一事件凸显了地缘政治风险对全球供应链和能源市场的脆弱性及其深远影响，值得投资者密切关注。",
+      "title": "中东地缘政治紧张加剧全球供应链风险",
+      "summary": "围绕霍尔木兹海峡的紧张局势升级，伊朗威胁收取过路费，已导致石脑油等关键工业原料供应短缺，严重影响亚洲（特别是日本和韩国）的制造业和零售业。这不仅推高能源价格，也凸显了全球供应链对中东稳定性的脆弱依赖。地缘冲突直接冲击全球能源及石化产业链，可能导致制造成本上升，加剧通胀，并迫使企业重新评估供应链韧性，对全球宏观经济和企业盈利产生深远影响。",
       "sources": [
         {
           "name": "NYT Business",
@@ -11,59 +11,120 @@
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/05/23/business/iran-toll-strait-hormuz.html"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX Starship V3 首次试飞大部分成功，公司筹备巨额IPO",
-      "summary": "Elon Musk旗下的SpaceX公司最新一代Starship V3在首次试飞中取得了大部分成功，标志着重型火箭技术和深空探索能力的重要进展。与此同时，SpaceX正筹备一项可能高达750亿美元的巨额首次公开募股（IPO），这将使其成为全球最大的未上市科技公司之一。此次IPO的规模和成功将不仅验证市场对太空经济的巨大兴趣，也将对全球资本市场的流动性产生显著影响。",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/"
         },
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3354518/how-hong-kongs-investors-can-gain-exposure-spacexs-record-breaking-us75-billion-ipo"
+          "url": "https://www.scmp.com/business/climate-and-energy/article/3354536/middle-east-tensions-complicate-beijings-push-curb-china-solar-overcapacity"
         }
       ]
     },
     {
-      "title": "中国房企转投半导体领域引爆散户投资热潮",
-      "summary": "面对房地产市场的持续低迷，中国多家上市房地产开发商正寻求业务多元化，纷纷宣布投资进入半导体生产领域。这一战略转型迅速引发了中国A股市场散户投资者的狂热追捧，相关“芯片概念股”股价飙升。此现象反映了中国经济在结构转型中的资本流向，以及散户对国家战略性产业的投机热情，但也可能预示着潜在的市场过热和盲目投资风险，值得警惕。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/banking-finance/article/3354582/chinas-ailing-developers-retail-frenzy-greets-semiconductor-side-hustles"
-        }
-      ]
-    },
-    {
-      "title": "英国成立AI安全研究所，旨在应对新兴人工智能风险并树立国际典范",
-      "summary": "英国政府新成立的人工智能安全研究所（A.I. Security Institute）由来自OpenAI和Google等顶尖AI公司的专家组成，致力于识别和减轻人工智能的潜在风险。该研究所正成为各国应对AI新兴威胁的国际典范，其工作对于全球AI技术的可持续发展和负责任治理至关重要。这表明主要国家在推动AI创新的同时，也高度重视其安全性和伦理挑战，并将加强国际合作来应对。",
+      "title": "人工智能监管与基础设施挑战浮现",
+      "summary": "英国政府成立的AI安全研究院正成为全球应对AI新兴风险的典范，吸引了OpenAI和谷歌的专家。同时，市场担忧即使英伟达能提供芯片，大科技公司仍面临AI基础设施建设中的信用和电网容量限制，预示着AI发展将进入一个更重监管和资源约束的新阶段。AI技术的快速发展正从纯粹的技术竞赛转向关注其社会影响、伦理规范及实际部署瓶颈。监管机构的介入和基础设施的限制，将重新定义AI产业的投资方向和增长速度，对科技巨头乃至整个经济体构成长期挑战。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories"
+        },
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/ross-douthat-on-what-ai-money-should-learn-from-the-golden-age-of-philanthropy.html"
         }
       ]
     },
     {
-      "title": "APEC会议凸显中美贸易分歧依旧，短期内难以弥合",
-      "summary": "在最近的APEC（亚太经济合作组织）会议上，美国和中国官员公开表达了在贸易政策和经济优先事项上的持续分歧，未能找到弥合之道。这表明全球两大经济体之间的贸易紧张关系依然是长期性挑战，短期内难以缓解。这种不确定性可能继续影响全球供应链的稳定性、跨国公司的投资决策以及国际贸易格局，对全球经济增长前景构成持续风险。",
+      "title": "中美贸易与科技关系持续紧张",
+      "summary": "尽管近期有所接触，但在APEC会议上，中美官员在贸易优先事项上仍分歧明显，显示两国关系依然紧张。这种不确定性影响了资本流动和全球贸易格局，尤其是在高科技领域，中国市场投资策略也正向AI等受政策支持的板块倾斜。中美作为全球两大经济体，其贸易和科技政策走向直接影响全球产业链的重构、科技企业的投资决策以及新兴技术的地缘政治竞争，是投资者需要持续关注的核心风险与机遇。",
       "sources": [
         {
           "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/05/24/china-tech-plays-to-ride-out-macro-volatility.html"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/"
+        }
+      ]
+    },
+    {
+      "title": "全球通胀压力持续挤压消费者购买力",
+      "summary": "最新数据显示，61%的美国人因通胀削减食品开支，英国日常必需品如鸡蛋价格也大幅上涨，远超前几年水平。同时，高油价和机票成本正在考验夏季旅行支出上限，表明通胀已深远影响全球普通民众的日常生活和消费能力。消费者支出是经济增长的重要驱动力，持续的通胀压力若导致消费萎缩，将直接冲击零售、旅游等多个行业利润。央行可能因此维持高利率，增加经济“软着陆”难度，对资产估值构成压力。",
+      "sources": [
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/05/23/us/politics/americans-groceries-inflation-affordability.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/cd6pw4zg5p9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/23/summer-travel-gas-airfare.html"
+        }
+      ]
+    },
+    {
+      "title": "太空经济进入新阶段：SpaceX IPO与星舰测试进展",
+      "summary": "埃隆·马斯克的SpaceX公司市值已达750亿美元，预计将进行一次破纪录的IPO。同期，其下一代重型运载火箭星舰V3首次飞行取得“基本成功”，标志着商业太空探索进入新里程。这吸引了全球投资者的广泛关注，包括香港市场也探讨如何参与。SpaceX的成功及其潜在的巨额IPO不仅代表了私人航天领域的成熟，也预示着太空经济的巨大投资潜力。星舰的进步将加速太空旅行、卫星互联网等前沿技术的发展，为相关产业链带来颠覆性机遇，值得高净值投资者密切关注。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-business/article/3354518/how-hong-kongs-investors-can-gain-exposure-spacexs-record-breaking-us75-billion-ipo"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/"
         }
       ]
     }
   ],
   "people": [
     {
+      "name": "Jeff Bezos",
+      "title": "贝佐斯就美国税制发表评论",
+      "summary": "原话：「是的，美国拥有世界上最累进的税收制度。前1%的人支付了40%的税款，后50%的人支付了3%的税款。我们可以通过对后一半人免税来使其更加累进。这只占总税收收入的一小部分。」观点：贝佐斯此番言论旨在指出美国税制已具备累进性，并提出通过对低收入群体减税可进一步优化税收公平性，同时避免对总税收收入造成重大影响。他的观点或将引发对未来税收政策改革的讨论。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/liberal-economists-score-an-own-goal-against-bezos.html"
+        }
+      ]
+    },
+    {
+      "name": "Tyler Cowen",
+      "title": "科文教授谈及AI与日本企业特性",
+      "summary": "观点：经济学家泰勒·科文近期在纽约的AI主题演讲受到关注，同时他也探讨了日本企业多元化经营的现象。他认为，日本公司常涉足多个不相关领域，这可能是其独特的经济文化和企业战略的体现。科文对AI发展的持续关注，以及对不同经济体企业战略的洞察，为投资者理解技术趋势和全球商业模式提供了新的视角。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-562.html"
+        }
+      ]
+    },
+    {
+      "name": "Marc Andreessen",
+      "title": "安德森对AI的看法",
+      "summary": "观点：知名风险投资家、网景创始人马克·安德森对人工智能的发展趋势发表了看法。作为硅谷的重要思想领袖，他对AI的见解通常能反映出科技前沿的投资方向和潜在机遇。他的观点可能涵盖AI的商业化前景、技术突破或其对社会经济结构的深远影响，值得科技投资者深入研究。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-562.html"
+        }
+      ]
+    },
+    {
       "name": "Robert Wright",
-      "title": "罗伯特·赖特：我们应对人工智能怀有敬畏之心，并努力创造其积极未来",
-      "summary": "原话：「当我们谈论人工智能时，我们应该对其怀有某种程度的敬畏。我们能够创造一个充分发挥人工智能积极潜力的未来。」赖特在其新书《上帝测试》中指出，面对AI的崛起，人类应保持敬畏之心，同时积极引导其发展，以释放其积极潜力。这反映了科技界对AI发展复杂性的深层思考，强调了平衡创新与审慎的重要性。",
+      "title": "罗伯特·赖特解读AI的未来影响",
+      "summary": "观点：罗伯特·赖特在新书《上帝测试》中提出了对人工智能的四项核心观点：人类应以敬畏之心看待AI；我们能创造AI利好人类的未来；AI可能具备意识；且其发展与人类存在的意义息息相关。他认为AI不仅仅是技术进步，更是关乎人类宇宙定位的深刻议题。这些哲学层面的思考，为投资者在评估AI长期风险和机遇时提供了更广阔的视野。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -72,31 +133,9 @@
       ]
     },
     {
-      "name": "Marc Andreessen",
-      "title": "马克·安德森持续关注并积极评价人工智能领域发展",
-      "summary": "观点：硅谷知名风险投资家马克·安德森是人工智能领域的积极倡导者和观察者，他近期再次表达了对AI未来发展的看法。安德森长期以来强调人工智能对社会和经济的颠覆性潜力，其观点通常预示着对AI技术及其商业应用的坚定支持，对关注科技趋势和创新投资的专业人士具有参考价值。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-562.html"
-        }
-      ]
-    },
-    {
-      "name": "Ross Douthat",
-      "title": "罗斯·多塞特：AI领域的巨额资金应从黄金时代慈善中汲取经验，避免追逐潮流",
-      "summary": "观点：罗斯·多塞特认为，当前人工智能领域的巨额投资应从过往慈善事业的经验中学习，特别是在“黄金时代”注重物理基础设施建设的特点。他批评了近期慈善界追逐时尚政治议题和教育潮流的失败，指出AI资金应避免重蹈覆辙，转而关注更具持久性影响的基础性项目。这一观点呼吁AI投资者和捐助者采取更具长远和务实的战略。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/ross-douthat-on-what-ai-money-should-learn-from-the-golden-age-of-philanthropy.html"
-        }
-      ]
-    },
-    {
       "name": "Kevin Warsh",
-      "title": "市场分析：若凯文·沃什出任美联储主席，或面临无法降息的货币政策困境",
-      "summary": "市场分析指出，如果凯文·沃什（Kevin Warsh）被任命为美联储主席，他可能会陷入一个即使希望降息也难以实施的政策陷阱。这一困境源于当前美国经济的特殊背景，包括通胀压力、市场预期以及地缘政治不确定性等因素。这一评论对未来美联储的货币政策走向及潜在领导层的策略提出了深刻洞察，对宏观经济和利率敏感的投资者具有重要参考意义。",
+      "title": "前美联储理事沃什警示央行降息困境",
+      "summary": "观点：前美联储理事凯文·沃什指出，美联储可能陷入一个“陷阱”，即使在经济需要降息时，也无法有效实施。他认为，当前美国经济正处于关键时刻，沃什可能被迫扮演一个不同于他期望的“颠覆者”角色。他的观点暗示美联储的政策自由度可能受到限制，这对于判断未来利率走向及市场预期具有重要参考价值，可能导致投资者对货币政策的灵活性产生担忧。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -105,31 +144,31 @@
       ]
     },
     {
-      "name": "JPMorgan",
-      "title": "摩根大通：SpaceX巨额IPO不太可能对区域市场流动性造成冲击",
-      "summary": "观点：摩根大通亚太区投资银行主管Paul Uren表示，尽管SpaceX即将进行高达750亿美元的巨额IPO，但其引发的流动性抽取不太可能对包括香港在内的区域市场造成显著冲击。他指出，全球投资者目前正积极寻求多元化配置，且对未来高增长潜力公司兴趣浓厚，这将有效缓解单一大型IPO可能带来的流动性压力。这一分析为关注全球资本市场流向的投资者提供了专业见解。",
+      "name": "Alan Milburn",
+      "title": "米尔本呼吁改革英国福利系统以促进青年就业",
+      "summary": "观点：英国前卫生大臣艾伦·米尔本表示，英国在福利方面的支出高于青年就业和教育的投入，这是“可耻的”。他呼吁对福利系统进行改革，以解决大量年轻人未就业或未接受教育的问题。米尔本的言论反映了英国劳动力市场和福利政策面临的结构性挑战，这可能影响英国的经济生产力与社会公平，值得关注英国经济政策走向的投资者留意。",
       "sources": [
         {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3354467/liquidity-drain-spacexs-mega-listing-unlikely-ripple-hong-kong-jPMorgan"
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "中东局势紧张加剧中国太阳能产业产能过剩困境",
-      "summary": "中东地区日益紧张的局势和能源价格上涨，正使北京政府更不愿对中国太阳能行业实施产能整合或“反内卷”措施。分析师认为，地缘政治不确定性导致能源安全成为优先考量，使得太阳能产业的恶性价格战可能持续，企业盈利能力进一步受损。这反映了地缘政治因素对国内产业政策的复杂影响。",
+      "title": "美联储降息困境：专家警告央行恐陷无法降息的“陷阱”",
+      "summary": "有分析指出，即便美国经济面临需要降息的压力，美联储也可能发现自己陷入一个无法轻易下调利率的“陷阱”。这表明货币政策的灵活性可能受限，市场需重新评估央行应对未来经济冲击的能力。这种困境可能源于复杂的通胀预期、财政政策影响或金融市场结构变化，对利率敏感型投资将产生重要影响。",
       "sources": [
         {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/climate-and-energy/article/3354536/middle-east-tensions-complicate-beijings-push-curb-china-solar-overcapacity"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "信贷市场隐现“白蚁”风险，警示高杠杆和AI贷款泡沫",
-      "summary": "市场分析警告，除了摩根大通CEO戴蒙曾提及的“蟑螂”风险外，信贷市场还面临“白蚁”式侵蚀——即不透明的AI相关贷款和过度杠杆化。这些隐性风险可能正在掏空经济基础，对债券市场和整体金融稳定性构成长期威胁，远比表面可见的问题更具破坏性。投资者需警惕潜在的信贷泡沫和系统性风险。",
+      "title": "债券市场隐现“信用白蚁”风险：AI贷款与过度杠杆恐侵蚀经济基础",
+      "summary": "继摩根大通CEO杰米·戴蒙警告信贷市场存在“蟑螂”后，有分析认为，由不透明的AI相关贷款和过度杠杆引发的“信用白蚁”正悄然侵蚀债券市场和整体经济。这种潜在的隐性风险，可能导致信用利差扩大，资产质量下降。高净值投资者应警惕这些不易察觉的信贷风险，尤其是在快速增长且缺乏透明度的AI相关领域，这可能对固定收益投资组合产生长期负面影响。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -138,120 +177,8 @@
       ]
     },
     {
-      "title": "美联储潜在主席面临降息困境，市场关注货币政策走向",
-      "summary": "市场普遍关注，如果凯文·沃什（Kevin Warsh）出任美联储主席，他将面临一个严峻挑战：即使经济数据显示需要降息，美联储也可能因为多种复杂因素而难以如愿。这一预测暗示未来的货币政策可能受到超出传统经济指标的地缘政治和市场结构性问题的影响，增加了市场对未来利率路径的不确定性。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories"
-        }
-      ]
-    }
-  ],
-  "tech": [
-    {
-      "title": "英伟达芯片供应充足，但大型科技公司面临信贷和电网瓶颈挑战",
-      "summary": "尽管英伟达能有效供应其高性能芯片，但大型科技公司在构建AI基础设施方面正遭遇双重挑战：不断攀升的信贷成本和日益紧张的电网容量。这些瓶颈可能限制AI技术的大规模部署和盈利能力，暗示仅有先进芯片不足以支撑AI产业的全面发展，更需关注其生态系统中的基础资源。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "中国自动驾驶公司寻求在新兴市场实现盈利突破",
-      "summary": "中国自动驾驶公司泽洛斯科技（Zelos Technology）正将其全球最大的自动驾驶厢式货车（robovan）车队拓展至东南亚和中东等新兴市场。该公司认为，这些市场能带来比中国国内市场高出一倍的营收，是实现盈利的关键。这一战略显示中国科技企业正通过国际化寻求增长和盈利，以应对国内市场的激烈竞争。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-evs/article/3354660/beyond-china-emerging-markets-hold-key-profitability-worlds-largest-robovan-fleet?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "俄罗斯卫星接近商业雷达卫星，引发太空安全担忧",
-      "summary": "据报道，四颗俄罗斯卫星已进入距离ICEYE公司雷达卫星极近的轨道范围。这种不寻常的接近活动引发了对太空安全的担忧，尤其考虑到ICEYE为乌克兰提供支持。这一事件凸显了军事行动可能对商业卫星资产造成的潜在风险，以及日益军事化的太空领域对全球通信和侦察能力的威胁。",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/"
-        }
-      ]
-    }
-  ],
-  "us_stocks": [
-    {
-      "title": "摩根大通：SpaceX巨额IPO不大可能对包括香港在内的区域市场造成流动性冲击",
-      "summary": "摩根大通表示，SpaceX高达750亿美元的上市计划虽然规模巨大，但预计不会对包括香港在内的亚洲区域市场造成流动性抽离。该行认为，全球投资者正积极寻求多元化配置，且对高增长的未来明星企业兴趣浓厚，这使得市场能够有效吸纳此次巨额发行，减轻对区域市场资金面的担忧。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3354467/liquidity-drain-spacexs-mega-listing-unlikely-ripple-hong-kong-jPMorgan"
-        }
-      ]
-    },
-    {
-      "title": "分析师警告美国股市部分板块泡沫化，标普500指数未来两年面临潜在回调风险",
-      "summary": "市场分析师指出，美国股市有四个板块目前表现“泡沫化”，其中英伟达所在的板块并非最大泡沫。报告预测，标普500指数在未来两年内有30%的可能性出现大幅下跌。这一警告提醒投资者，尽管整体市场表现强劲，但部分领域的估值可能过高，存在显著的回调风险。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/these-4-market-sectors-look-frothy-and-nvidias-isnt-even-the-biggest-bubble-d740acf7?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "高燃料价格与航空业困境共同考验美国夏季旅游消费上限",
-      "summary": "随着夏季旅行旺季临近，高企的燃油价格以及Spirit Airlines等廉价航空公司的运营困境，正在考验美国消费者夏季旅游支出的极限。这表明尽管有旅行需求，但成本压力可能导致消费者削减旅行开支或选择更经济的出行方式，对航空、酒店和旅游相关企业的业绩构成挑战。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/23/summer-travel-gas-airfare.html"
-        }
-      ]
-    }
-  ],
-  "a_stocks": [
-    {
-      "title": "香港零售和房地产市场在内地品牌和新房销售带动下持续复苏",
-      "summary": "香港的零售和住宅房地产市场正持续复苏，主要得益于内地品牌的积极进驻以及新房销售的强劲表现。例如，新鸿基地产在荃湾的新楼盘迅速售罄，显示市场信心回暖。内地非餐饮类品牌的增加，正帮助香港零售地产填补空置，预示着香港作为国际购物中心的吸引力正在恢复。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/article/3354612/mainland-brands-power-hong-kong-retail-recovery-fb-joined-fashion-and-beauty?utm_source=rss_feed"
-        },
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3354624/shkp-sells-out-latest-flats-tsuen-wan-hong-kong-property-market-continues-recovery?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "中国太阳能产业产能过剩顽疾难解，非法工厂加剧市场内卷",
-      "summary": "尽管中国政府已推行近两年的严厉政策，试图解决太阳能产业严重的产能过剩问题，但该问题依然远未解决。非法工厂的持续存在进一步加剧了市场竞争和“内卷”，导致整个供应链上的企业持续亏损。这表明中国在产业结构调整上面临深层挑战，行业整合和盈利能力恢复仍需时日。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/economy/china-economy/article/3354551/how-illegal-factories-are-undermining-chinas-solar-overcapacity-crackdown?utm_source=rss_feed"
-        }
-      ]
-    }
-  ],
-  "business": [
-    {
-      "title": "日本企业为何热衷多元化经营，揭示其结构性商业策略",
-      "summary": "日本企业在商业领域表现出显著的多元化倾向，其经营范围常常涵盖多个看似不相关的行业。这种结构性的商业策略背后，可能涉及跨行业风险分散、技术协同效应或传统企业文化等因素。对于投资者而言，理解日本公司的这种多元化模式，有助于评估其长期增长潜力及风险管理能力。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-562.html"
-        }
-      ]
-    },
-    {
-      "title": "美国消费者通胀压力显现，61%民众表示需削减食品开支",
-      "summary": "最新数据显示，高达61%的美国民众表示，由于生活成本上升，他们不得不削减食品杂货开支。其中，超过四分之三的美国人认为特朗普政府的政策加剧了其社区的生活成本。这一趋势表明通胀对普通消费者购买力造成了显著压力，可能影响零售和食品行业的未来盈利能力，值得商业决策者关注。",
+      "title": "美国消费者通胀压力：逾六成美国人削减食品开支",
+      "summary": "一项调查显示，61%的美国消费者因通胀压力不得不削减食品杂货开支，其中甚至包括55%的共和党选民认为前总统特朗普的政策导致生活成本上升。这反映出通胀对美国民众日常生活的普遍而显著的影响，消费者信心和支出能力可能因此受损。宏观经济前景将受到消费者购买力下降的挑战，可能影响零售业表现和经济整体增长。",
       "sources": [
         {
           "name": "NYT Economy",
@@ -260,8 +187,8 @@
       ]
     },
     {
-      "title": "英国日常食品价格飙升，鸡蛋等必需品涨幅尤其显著",
-      "summary": "英国消费者正经历日常必需品价格的显著上涨，例如2022年售价1英镑的六个鸡蛋，如今价格已大幅攀升。这一现象反映出高通胀正对民众生活成本造成巨大压力。文章探讨了价格上涨的原因，并质疑是否存在趁机牟取暴利的行为。这对于分析英国消费市场和零售商盈利模式具有重要参考价值。",
+      "title": "英国生活成本飙升：日常必需品价格大幅上涨，引发民众关注",
+      "summary": "英国民众正面临日益严峻的生活成本危机，日常必需品如鸡蛋的价格相比2022年已大幅上涨。曾一度售价1英镑的六个超市品牌鸡蛋，如今价格已显著攀升。这一现象反映出英国持续的通胀压力，尤其是在食品领域。这种涨价潮不仅影响了普通家庭的购买力，也促使消费者行为发生转变，可能对零售商盈利和英国经济复苏构成挑战。",
       "sources": [
         {
           "name": "BBC Business",
@@ -270,10 +197,162 @@
       ]
     }
   ],
+  "tech": [
+    {
+      "title": "英国AI安全研究院：成为全球AI风险治理典范",
+      "summary": "英国政府成立的AI安全研究院（AI Security Institute）正迅速成为全球各国应对人工智能新兴风险的典范。该机构汇聚了来自OpenAI和谷歌等顶尖科技公司的专家，专注于识别和缓解AI技术可能带来的危害。其模式或被其他国家效仿，意味着全球对AI的监管和安全标准将趋于收紧，影响AI技术的研发方向和商业化进程，投资者需关注其对AI产业合规成本和创新速度的影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html"
+        }
+      ]
+    },
+    {
+      "title": "英伟达芯片交付仍难解决大科技公司信用与电网危机",
+      "summary": "尽管英伟达在AI芯片交付方面表现出色，但有分析指出，其并不能解决大科技公司在AI基础设施建设中面临的深层信用风险和电力电网容量危机。AI数据中心的建设需要巨额资金和稳定电力供应，这成为制约AI发展速度和规模的结构性瓶颈。投资者应认识到，AI的繁荣不仅依赖于芯片本身，更取决于宏观信贷环境和能源基础设施的配套发展，可能影响相关公司的长期估值。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "中国自动驾驶Robovan车队押注新兴市场寻求盈利",
+      "summary": "作为全球最大的自动驾驶货车（Robovan）车队拥有者，中国泽洛斯科技（Zelos Technology）正将盈利的关键押注在新兴市场。该公司预计，其Robovan车队在东南亚和中东地区的收入将是中国国内市场的两倍。为了生存和扩大规模，海外扩张成为其战略重心。这一趋势表明，中国AI和自动驾驶技术正积极寻求全球市场，尤其是在新兴经济体中寻找增长机遇，对全球物流和自动驾驶产业格局产生深远影响。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-evs/article/3354660/beyond-china-emerging-markets-hold-key-profitability-worlds-largest-robovan-fleet"
+        }
+      ]
+    }
+  ],
+  "us_stocks": [
+    {
+      "title": "美股盈利热潮下的夏季风险：投资者面临多重不确定性",
+      "summary": "美国股市在经历了一波强劲的盈利增长后，主要股指已创下历史新高，但投资者即将迎来的夏季可能充满风险。分析师指出，地缘政治紧张、持续的通胀压力、以及潜在的货币政策不确定性都可能给市场带来颠簸。高净值投资者应保持警惕，关注可能影响市场走势的关键宏观因素和公司基本面变化，以应对潜在的市场波动。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/stocks-are-riding-an-earnings-hot-streak-but-investors-are-facing-a-summer-thats-rife-with-risks-67a700e4?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "市场“泡沫”警告：除英伟达外，四个行业板块估值过高",
+      "summary": "尽管市场对英伟达的估值泡沫有所担忧，但有分析指出，除了英伟达，还有至少四个行业板块的估值显得“泡沫化”。报告甚至悲观预测，标普500指数在未来两年内有30%的概率出现暴跌。这表明当前市场普遍存在高估值风险，并非仅限于科技巨头。高净值投资者应审慎评估投资组合中的行业配置，尤其要警惕那些估值过高且基本面支撑不足的板块，以规避潜在的市场回调风险。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/these-4-market-sectors-look-frothy-and-nvidias-isnt-even-the-biggest-bubble-d740acf7?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "香港投资者关注SpaceX巨额IPO参与机会",
+      "summary": "随着埃隆·马斯克的太空探索技术公司SpaceX预期将进行一场规模高达750亿美元的创纪录IPO，香港的投资者正积极探讨多种参与方式。虽然直接认购美国股票需满足较高的资产门槛，但通过提供美股交易服务的券商（如富途证券和老虎证券）仍可间接参与。此次IPO不仅是年度科技盛事，也为亚洲投资者提供了进入快速发展的太空经济领域的宝贵机会，凸显全球资本对前沿科技的追逐。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-business/article/3354518/how-hong-kongs-investors-can-gain-exposure-spacexs-record-breaking-us75-billion-ipo"
+        }
+      ]
+    }
+  ],
+  "a_stocks": [
+    {
+      "title": "中国光伏产业过剩困境加剧：中东紧张局势与非法工厂阻碍产能整合",
+      "summary": "尽管中国政府持续两年致力于解决光伏产业的严重产能过剩问题，但效果甚微，行业仍深陷价格战和亏损泥潭。分析指出，中东地缘政治紧张导致的能源价格上涨，降低了北京强制行业整合的意愿。同时，大量非法工厂的存在也削弱了官方政策的执行力，进一步加剧了“内卷”。这一局面意味着光伏行业的长期盈利能力仍面临挑战，投资者应关注政策走向及行业整合的实际进展。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/climate-and-energy/article/3354536/middle-east-tensions-complicate-beijings-push-curb-china-solar-overcapacity"
+        },
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/economy/china-economy/article/3354551/how-illegal-factories-are-undermining-chinas-solar-overcapacity-crackdown"
+        }
+      ]
+    },
+    {
+      "title": "中国科技股：聚焦AI，应对宏观经济波动",
+      "summary": "面对宏观经济的不确定性，分析师建议投资者在中国股市中，将重点放在人工智能（AI）相关的科技股上，以期抵御市场波动。尽管整体经济增长放缓，但AI被视为中国未来发展的关键战略领域，政策支持和技术创新将为相关企业提供增长动力。这种投资策略反映了市场对中国经济结构转型的预期，即从传统产业转向高科技创新，为关注中国市场的投资者提供了明确方向。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/05/24/china-tech-plays-to-ride-out-macro-volatility.html"
+        }
+      ]
+    },
+    {
+      "title": "香港零售市场复苏：内地品牌推动增长，时尚美妆业态受青睐",
+      "summary": "随着香港零售市场的逐步复苏，内地品牌成为主要驱动力，其中非餐饮（F&B）类的时尚和美妆零售商正加速在港扩张。与此前餐饮品牌扎堆的局面不同，这波新品牌涌入有助于填补香港零售地产的空置，尽管整体市场复苏仍不均衡。这一趋势表明香港作为国际化都市的零售吸引力依然存在，且内地消费升级的趋势正向香港外溢，为投资者提供了新的商业地产和消费品牌投资机会。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/article/3354612/mainland-brands-power-hong-kong-retail-recovery-fb-joined-fashion-and-beauty?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "香港楼市持续回暖：新盘热销，提振市场信心",
+      "summary": "受中美关系改善和人才流入香港的积极影响，香港住宅市场持续复苏。近期，新鸿基地产在荃湾推出的新盘Lime Spark项目，120余套新单位在发售当天大部分售罄，其中一位买家更豪掷逾4000万港元购入六套两居室单位。这表明买家信心正在回归，楼市需求得到释放。对于关注香港地产市场的投资者而言，这预示着市场交易量和价格可能继续保持上升态势，但仍需关注宏观经济和政策变化。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-business/article/3354624/shkp-sells-out-latest-flats-tsuen-wan-hong-kong-property-market-continues-recovery?utm_source=rss_feed"
+        }
+      ]
+    }
+  ],
+  "business": [
+    {
+      "title": "伊朗威胁控制霍尔木兹海峡：地缘风险加剧航运业不安",
+      "summary": "伊朗试图通过对霍尔木兹海峡的船只收取过路费来宣示其控制权，尽管专家认为此举实施可能性不大，但这一威胁已在全球航运业引发不安。霍尔木兹海峡是全球重要的石油运输咽喉，任何通行受阻的迹象都会导致运费上涨、保险成本增加，并可能对全球能源供应和贸易链造成巨大冲击。航运及能源相关企业将面临更高的运营风险和成本，投资者需密切关注事态发展对全球贸易格局的影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/23/business/iran-toll-strait-hormuz.html"
+        }
+      ]
+    },
+    {
+      "title": "夏季旅行成本承压：燃油高价与航空业挑战影响消费者度假支出",
+      "summary": "随着美国“阵亡将士纪念日”长周末——夏季旅行旺季的非正式开端——的到来，高昂的燃油价格和航空业面临的挑战正考验着消费者夏季度假支出的上限。机票价格和汽油成本的上升，可能导致部分消费者缩减旅行计划或选择更经济的出行方式。这可能对航空、酒店、旅游服务等行业带来影响，其盈利能力将取决于消费者对价格上涨的承受能力和旅行需求弹性。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/23/summer-travel-gas-airfare.html"
+        }
+      ]
+    },
+    {
+      "title": "非碳酸饮料崛起：硬苏打水市场份额被Gen Z转向无气饮品挤占",
+      "summary": "在饮品市场，非碳酸酒精饮料正逐渐取代硬苏打水，成为新宠儿，尤其受到Z世代消费者的青睐。Surfside和BeatBox等品牌正在抢占硬苏打水的市场份额。这一趋势反映了消费者口味偏好的转变，对传统酒精饮料制造商和新入局者都带来了机遇与挑战。投资者应关注快速变化的消费趋势，特别是Z世代群体的消费习惯，以便在饮品行业中捕捉新的增长点。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/24/move-over-seltzer-non-carbonated-drinks-are-taking-the-spotlight.html"
+        }
+      ]
+    },
+    {
+      "title": "中国渔业的“鲨鱼鳍”问题：可能引发美国海产品制裁",
+      "summary": "一项正式提交给美国政府的请愿书，呼吁对中国的海产品进口实施制裁，原因是其涉及非法捕捞和“鲨鱼鳍”活动。如果美国政府采纳并实施制裁，这将不仅影响中国海产品行业的出口，也可能加剧中美贸易紧张关系，并对全球渔业管理和海洋生态保护产生连锁反应。投资者需关注此类环境、社会和治理（ESG）问题引发的贸易政策风险，这可能影响相关行业的供应链和市场准入。",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/"
+        }
+      ]
+    }
+  ],
   "overlooked": [
     {
-      "title": "印度生育率持续下降，人口结构转型对未来经济社会影响深远",
-      "summary": "印度2024年的总和生育率（TFR）已降至1.88，首次低于2，且延续了过去几十年的下降趋势。这一数据表明，印度正在经历快速的人口结构转型，生育率远低于世代更替水平。这种变化将对印度的劳动力供应、消费模式、社会保障体系以及长期经济增长潜力产生深远影响，是投资者长期规划中不应忽视的宏观趋势。",
+      "title": "印度生育率下降：国家人口结构面临深远变化",
+      "summary": "印度最新SRS统计报告显示，2024年印度总和生育率（TFR）已降至1.88，低于2023年的1.92。这一下降速度与过去几十年大致相同，远低于1980年的4.3。生育率持续下降意味着印度人口结构正在发生深刻变化，未来劳动力供应、消费模式以及社会老龄化问题将受到影响。对于长期投资者而言，这预示着印度市场的潜在消费结构和经济增长驱动力将发生根本性转变。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -282,22 +361,22 @@
       ]
     },
     {
-      "title": "AI高管将人类比作“肉体计算机”，这种思维模式可能塑造AI发展伦理和方向",
-      "summary": "业内观察到，一些人工智能高管开始将人类比作“肉体计算机”（Meat Computer），这一概念源自哲学和认知科学，但近期在科技界的使用带有了某种不祥色彩。这种将人类等同于计算设备的思维模式，虽然可能促进AI技术对人类大脑的模拟，但也可能影响AI伦理、人机关系和技术发展方向，是未来人工智能社会影响中一个容易被忽视但极其重要的结构性变化。",
+      "title": "日本企业多元化经营：探究日本企业为何涉足广泛业务",
+      "summary": "日本企业普遍存在多元化经营的现象，许多公司业务横跨多个看似不相关的领域。这种独特的商业模式可能源于历史、文化或特定的市场环境，与西方企业强调专业化和核心竞争力有所不同。理解日本企业这种广泛涉足不同业务的动因，有助于投资者更全面地评估其风险与机遇，尤其是在全球化竞争日益激烈的背景下，这种战略的有效性和可持续性值得深入分析。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/24/business/meat-computer-brain-artificial-intelligence.html"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-562.html"
         }
       ]
     },
     {
-      "title": "中国渔业非法捕捞鲨鱼活动，可能引发美国制裁及国际贸易摩擦",
-      "summary": "一项针对中国渔业非法捕捞鲨鱼的正式请愿已提交给美国政府，呼吁对中国的海产品进口实施制裁。如果美国政府采纳此建议，可能导致中美之间在海洋资源保护领域的贸易冲突升级，进而影响全球海产品供应链和贸易关系。这一事件揭示了环保议题如何逐渐演变为影响国际贸易和投资的结构性风险。",
+      "title": "AI慈善资金的启示：从黄金时代慈善史汲取教训",
+      "summary": "有评论指出，当前AI领域产生的巨额财富及其慈善用途，应从“慈善黄金时代”的历史中汲取教训。过去，如盖茨基金会等机构在减贫和疾病防治方面成效显著，但也曾将资金投向时尚的政治议题和教育热潮，却未能留下实体基础设施遗产。这警示AI财富的捐赠者应更审慎地规划慈善投资，以确保其对社会产生持久而有意义的影响，避免资源错配，这对于思考新兴科技巨头社会责任和资本流向具有启示意义。",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/ross-douthat-on-what-ai-money-should-learn-from-the-golden-age-of-philanthropy.html"
         }
       ]
     }
