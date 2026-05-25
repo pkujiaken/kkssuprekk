@@ -1,12 +1,12 @@
 {
   "top5": [
     {
-      "title": "伊朗和平协议希望重燃，全球油价应声大跌",
-      "summary": "随着有关可能达成伊朗和平协议的消息传出，全球原油价格跌至一个月低点，引发市场对能源供应增加和通胀压力缓解的预期。这一进展对全球能源市场、地缘政治稳定及宏观经济走势具有重大影响，投资者需密切关注其对商品价格和企业成本的传导效应。",
+      "title": "伊朗潜在和平协议致油价大跌，霍尔木兹海峡有望重开",
+      "summary": "有报道称美国与伊朗有望达成协议，结束冲突并重开战略要地霍尔木兹海峡，导致原油价格大幅下跌，创下一个月新低。这一消息对全球能源市场构成重大影响，有望缓解供应担忧并降低航运成本。投资者需密切关注协议进展及其对全球通胀预期和能源公司估值的影响。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/25/business/oil-stocks-gas.html"
+          "url": "https://www.nytimes.com/2026/05/24/business/oil-stocks-gas.html"
         },
         {
           "name": "BBC Business",
@@ -14,27 +14,13 @@
         },
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/oil-prices-tumble-as-deal-to-end-iran-war-appears-close-though-trump-says-there-s-no-rush-c60056c0?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "华为推出创新芯片技术，旨在缩小与台积电、三星的差距",
-      "summary": "华为公布了一项新的芯片尺寸缩放定律和架构设计，旨在不依赖先进光刻技术的情况下，在几年内实现相当于1.4纳米制程的晶体管性能。此举是中国在半导体领域自给自足的关键一步，预示着全球芯片产业竞争格局的潜在变化，对中美科技战略和相关产业链将产生深远影响。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html"
-        },
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/tech/article/3354710/huawei-unveils-new-scaling-law-and-tech-can-develop-14-nm-equivalent-chips-2031?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "AI芯片成本结构变化：内存占比高达近三分之二",
-      "summary": "最新数据显示，AI芯片组件成本中，内存所占比例已增至近三分之二。这一趋势凸显了内存技术在AI发展中的关键地位，揭示了AI硬件成本的主要瓶颈，并可能促使相关内存技术创新和供应链调整，对AI算力经济性和未来发展方向具有重要影响。",
+      "title": "AI芯片成本结构变化：内存占据近三分之二，成行业新瓶颈",
+      "summary": "最新数据显示，在人工智能芯片的组件成本中，高速内存部分已占据近三分之二，远超逻辑处理器本身。这一结构性变化表明，AI发展面临的瓶颈正从单纯的算力转向高性能、高容量内存的供应与成本。对于投资者而言，这凸显了内存芯片制造商在AI供应链中的关键地位和潜在价值，同时也提示AI硬件成本未来可能面临的上涨压力。",
       "sources": [
         {
           "name": "Hacker News Top",
@@ -43,108 +29,147 @@
       ]
     },
     {
-      "title": "中国证监会打击跨境非法证券交易，波及香港市场超300亿美元资产",
-      "summary": "中国证监会针对跨境非法证券交易的打击行动，预计将影响香港市场多达319亿美元（约2500亿港元）的资产。此次监管收紧是中国资本市场规范化的一部分，对内地投资者通过香港市场交易的合规性产生直接影响，同时可能对香港金融市场的流动性和投资者信心构成挑战。",
+      "title": "华为发布新型智能手机芯片设计，在中美科技竞争中寻求突破",
+      "summary": "尽管面临美国制裁，中国电信巨头华为宣布将推出一种全新的智能手机芯片设计方法，旨在提升芯片性能。此举标志着华为在半导体技术自主研发方面的持续努力，意图在中美科技竞争中寻求突破。对于全球科技产业，特别是半导体和移动设备市场，这预示着竞争格局的潜在变化，并可能影响相关供应链的未来走向。",
       "sources": [
         {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3354776/csrcs-crackdown-cross-border-trading-involves-us32b-hong-kong-assets-citic?utm_source=rss_feed"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html"
         }
       ]
     },
     {
-      "title": "中国电动汽车制造商加速欧洲扩张，挑战本土汽车品牌主导地位",
-      "summary": "随着中国电动汽车品牌（如比亚迪、小鹏）在欧洲市场积极扩张以寻求更高利润，欧洲本土汽车供应商预计将受益。然而，这种扩张也加剧了全球电动汽车市场的竞争，可能引发贸易摩擦，并促使欧盟出台更多保护本土制造业的措施，对全球汽车产业格局带来深远影响。",
+      "title": "标普500指数盈利增长动力拓宽，非科技巨头贡献显著",
+      "summary": "近期数据显示，标普500指数的盈利增长速度达到近五年来最快，其中非“七巨头”的其余493家公司贡献显著。过去三年多，市场收益主要由少数大型科技股驱动，但现在更广泛的成分股开始发挥作用，表明市场盈利能力正在多样化。这对于投资者而言是一个积极信号，意味着市场增长的健康性和可持续性有所提升，不再过度依赖少数几家公司。",
       "sources": [
         {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-evs/article/3354764/chinese-ev-makers-expand-europe-are-local-automotive-suppliers-set-benefit?utm_source=rss_feed"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/these-underdogs-are-a-big-reason-s-p-500-profit-growth-is-the-fastest-in-nearly-5-years-4a43f142?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "中国国内高端消费市场崛起，本土品牌挑战欧美主导地位",
+      "summary": "随着中国经济增速放缓，国内消费者正日益转向本土奢侈品，导致中国本土高端品牌市场份额不断扩大，开始挑战长期以来由欧洲品牌主导的局面。这一趋势反映了中国消费者偏好和文化自信的变化，同时也为国内品牌带来了新的增长机遇。对于全球奢侈品和消费品公司，了解并适应这一转变对于其在中国市场的战略布局至关重要。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/25/business/chinese-luxury-brands.html"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Jeff Bezos",
-      "title": "贝佐斯评论美国税收制度的累进性",
-      "summary": "原话：「是的，美国拥有世界上最累进的税收制度。前1%的人支付40%的税，后50%的人支付3%的税。我们可以通过对后一半的人实行零税率来使其更累进。」贝佐斯通过社交媒体表达了对美国税收公平性的看法，认为对低收入群体实行零税率能进一步优化税制。",
+      "name": "Olivier Blanchard (通过 Tyler Cowen 引用)",
+      "title": "他对美国公共债务演变和初级赤字规模表示担忧",
+      "summary": "观点：原话：「我当然担心美国公共债务的演变和初级赤字的规模。但是，尽管关于债务增加的讨论/担忧很多，但…」著名经济学家泰勒·科文引用奥利维尔·布兰查德的观点，强调了对美国公共债务及其初级赤字规模持续增长的担忧。这突显了顶级经济学家对此长期财政可持续性的持续关注，可能对未来美国货币和财政政策产生深远影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/liberal-economists-score-an-own-goal-against-bezos.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/sunday-assorted-links-568.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-568"
         }
       ]
     },
     {
-      "name": "Olivier Blanchard",
-      "title": "知名经济学家对美国公共债务及通胀的担忧",
-      "summary": "观点：国际知名经济学家奥利维尔·布兰查德表示，他对美国公共债务的演变和初级赤字的规模感到担忧。但他同时认为，目前市场对通胀和利率的担忧可能被夸大。这一观点反映了当前宏观经济领域对财政可持续性和货币政策影响的不同看法。",
+      "name": "Jeff Bezos",
+      "title": "评论美国税收制度的进步性并提出改进建议",
+      "summary": "观点：原话：「是的，美国拥有世界上最进步的税收制度。前1%的人缴纳40%的税，后50%的人缴纳3%的税。我们可以通过对后半部分的人免税使其更加进步。这只占总税收收入的一小部分…」亚马逊创始人杰夫·贝佐斯公开评论美国税收制度，认为其已是全球最进步之一，并提出通过免除低收入人群税负可使其更具进步性。他的观点将引发关于财富再分配和经济公平的公共讨论。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/sunday-assorted-links-568.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/liberal-economists-score-an-own-goal-against-bezos.html?utm_source=rss&utm_medium=rss&utm_campaign=liberal-economists-score-an-own-goal-against-bezos"
         }
       ]
     },
     {
       "name": "Robert Wright",
-      "title": "AI学者对人工智能未来的看法",
-      "summary": "观点：在其新书《上帝测试》中，作者罗伯特·赖特总结了自己对AI的四点看法：我们应对AI保持敬畏；人类可以创造一个AI向上发展而非走向末日的未来；AI可能是上帝的代理或替代；人类应以谦逊和开放的心态面对AI的潜在颠覆性。这些观点为理解AI的长期影响提供了哲学思考。",
+      "title": "对人工智能未来抱持审慎乐观态度",
+      "summary": "观点：原话：「1. 谈到人工智能，我们应该处于某种敬畏的范围。2. 我们可以创造一个未来，让人工智能的积极面…」作家罗伯特·赖特在其新书《上帝测试》中对人工智能的未来提出深刻见解。他认为，面对AI我们应保持敬畏之心，并相信人类有能力引导AI走向一个充满积极可能性的未来。赖特的观点代表了对AI发展的审慎乐观态度，提示投资者不仅要关注技术进步，也要思考其更深层次的社会和伦理影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/robert-wrights-the-god-test.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/robert-wrights-the-god-test.html?utm_source=rss&utm_medium=rss&utm_campaign=robert-wrights-the-god-test"
         }
       ]
     },
     {
-      "name": "Donald Trump",
-      "title": "特朗普就伊朗和平协议表态",
-      "summary": "原话：「不急于达成协议。」前美国总统唐纳德·特朗普对有关可能达成伊朗和平协议的报道做出回应，表示“不急于达成协议”。这一表态给市场对中东地缘政治稳定和油价走势带来了不确定性，暗示达成最终协议可能面临更多阻碍。",
+      "name": "Derek Yan (Kraneshares)",
+      "title": "强调人形机器人投资的未来机会",
+      "summary": "观点：Kraneshares的德里克·严（Derek Yan）在一次讨论中强调，投资人形机器人代表着一个重要的未来机会。他认为，随着机器人技术的发展，一个更加自动化的世界正在到来，这将对投资者、劳动力市场以及老龄化人口产生深远影响。他的观点揭示了机器人技术作为长期投资主题的潜力，值得高净值投资者关注。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories"
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/05/talk-your-book-investing-in-the-rise-of-the-robots/"
+        }
+      ]
+    },
+    {
+      "name": "匿名分析师 (CNBC Finance)",
+      "title": "建议在中国市场聚焦AI相关股票以应对宏观波动",
+      "summary": "观点：多位分析师指出，尽管中国经济面临宏观波动，但目前在中国股市的投资策略应聚焦于人工智能相关领域。他们认为AI板块具有抵御经济下行压力的韧性，并且代表了中国科技发展的关键方向。这为关注中国市场的投资者提供了具体的行业指引，强调了科技创新在不确定环境中的避险和增长潜力。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/05/24/china-tech-plays-to-ride-out-macro-volatility.html"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "英国出现多重就业趋势，民众以“生存模式”应对生活成本上涨",
-      "summary": "英国劳动力市场中，越来越多的人因生活成本上升和工作不稳定而被迫从事多份工作。这种“多重就业”现象反映了通胀压力对普通家庭的持续影响以及就业结构的变化，对消费者支出能力和经济韧性构成挑战，值得宏观经济政策制定者关注。",
+      "title": "伊朗和平协议消息导致油价剧烈波动",
+      "summary": "关于美国与伊朗即将达成和平协议并可能重新开放霍尔木兹海峡的报道，引发了原油价格的急剧下跌。这一消息对全球能源市场带来显著冲击，霍尔木兹海峡的开放将有效增加原油供应，进而影响全球通胀预期和能源公司的估值。市场正在等待更多协议细节，以判断其长期影响。",
       "sources": [
         {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/24/business/oil-stocks-gas.html"
+        },
+        {
           "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/oil-prices-tumble-as-deal-to-end-iran-war-appears-close-though-trump-says-there-s-no-rush-c60056c0?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "沙特“2030愿景”支出计划面临现实考验",
-      "summary": "沙特阿拉伯雄心勃勃的“2030愿景”项目，曾被视为科幻般的存在，但目前正面临现实的严峻挑战，包括大规模支出计划的执行和资金可持续性问题。这表明超大型国家转型项目可能面临多重风险，对其在中东地区和全球投资前景的影响需谨慎评估。",
+      "title": "美国公共债务演变引发经济学家长期担忧",
+      "summary": "著名经济学家奥利维尔·布兰查德对美国公共债务的演变和初级赤字规模表示担忧。这表明尽管目前经济数据看似稳定，但长期财政健康问题仍是专业人士关注的焦点。投资者应警惕长期国债收益率的潜在波动，以及财政政策对宏观经济稳定性的影响，尤其是考虑到未来可能的财政刺激或紧缩措施。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "英国日常必需品价格飙升，通胀压力持续显现",
-      "summary": "英国媒体报道指出，部分日常必需品如鸡蛋的价格在过去几年大幅上涨，凸显了持续的通胀压力如何影响普通消费者。这表明尽管整体通胀率可能有所缓和，但部分关键商品的价格上涨仍对民生和消费者信心造成冲击，并可能影响央行政策考量。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cd6pw4zg5p9o?at_medium=RSS&at_campaign=rss"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/sunday-assorted-links-568.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-568"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "英国政府设立AI安全研究所，旨在应对AI新兴风险",
-      "summary": "英国政府成立的AI安全研究所，由来自OpenAI和谷歌的专家组成，正成为各国应对人工智能潜在风险的典范。其核心任务是评估和减轻AI技术带来的安全威胁，这对于全球AI治理框架的建立和技术的负责任发展具有重要的示范和参考意义。",
+      "title": "AI芯片内存成本飙升，凸显半导体供应链新挑战",
+      "summary": "最新研究揭示，AI芯片总成本中内存部分已占据近三分之二。这一趋势表明高性能内存已成为AI算力发展的核心瓶颈，而非仅仅是处理器本身。这对半导体产业链产生深远影响，尤其利好先进内存技术供应商，并促使AI硬件设计者重新思考成本优化策略和供应链韧性，可能加速相关技术创新和投资。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
+        }
+      ]
+    },
+    {
+      "title": "华为推出新型智能手机芯片设计，加速中国科技自主化",
+      "summary": "尽管面临美国技术限制，华为宣布将发布一种提升性能的新型智能手机芯片设计。此举彰显了中国在半导体领域推进自主创新的决心，有助于降低对外部技术的依赖。对于全球科技产业，特别是半导体设计和制造企业，这预示着长期的发展机遇和挑战，可能带动国内供应链的进一步整合与升级，加剧全球技术竞争。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html"
+        }
+      ]
+    },
+    {
+      "title": "英国成立AI安全研究所，引领全球AI风险治理模式",
+      "summary": "英国政府成立人工智能安全研究所，汇聚了来自OpenAI和谷歌等顶尖AI公司的专家，旨在研究和应对AI带来的新兴风险。该机构已成为其他国家在AI治理方面借鉴的模式。这表明全球主要经济体正高度重视AI的潜在风险，未来可能会出台更严格的监管政策，影响AI公司的研发方向和商业化进程，重塑行业发展轨道。",
       "sources": [
         {
           "name": "NYT Business",
@@ -153,30 +178,40 @@
       ]
     },
     {
-      "title": "DeepSeek推出新型AI编程代理Reasonix，强调高缓存和低成本优势",
-      "summary": "DeepSeek公司发布了其新的AI编程代理Reasonix，该代理以高缓存效率和低运营成本为特点，旨在优化后端代码生成过程。这一创新反映了AI领域在提升模型实用性、降低部署门槛方面的持续努力，有望加速AI技术在软件开发和自动化领域的应用普及。",
+      "title": "美国量子计算投资合法性受质疑，或影响行业前景",
+      "summary": "围绕美国在量子计算领域的大规模投资，其合法性受到质疑，尤其是在启动首家量子铸造公司后。这一争议可能影响未来量子技术研发的资金流向和政策支持，为投资者带来了不确定性。量子计算作为前沿技术，其发展往往与政府投入和政策环境紧密相关，合法性争议可能延缓其商业化进程及长期回报。",
       "sources": [
         {
-          "name": "Hacker News Top",
-          "url": "https://esengine.github.io/DeepSeek-Reasonix/"
-        }
-      ]
-    },
-    {
-      "title": "机器人技术投资升温，人形机器人或成未来趋势",
-      "summary": "行业分析认为，人形机器人领域正迎来巨大的投资机会，预示着一个更加自动化世界的到来。人形机器人的普及不仅将对投资者、全球劳动力市场和应对人口老龄化带来深远影响，也将推动相关技术的研发和商业化进程，是未来科技发展的重要方向。",
-      "sources": [
-        {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/05/talk-your-book-investing-in-the-rise-of-the-robots/"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "美股在财报季表现强劲后，夏季面临多重风险挑战",
-      "summary": "美国股市在最新财报季的强劲表现推动下，主要股指创下历史新高。然而，分析师警告称，在未来几个月，投资者可能需要警惕多重潜在风险，包括宏观经济变化、地缘政治不确定性以及利率走向，这些因素可能导致市场波动加剧。",
+      "title": "标普500盈利增长范围扩大，市场健康度显著提升",
+      "summary": "标普500指数近期实现近五年来最快的盈利增长，其中贡献不再局限于少数大型科技股，而是由更广泛的493家公司共同推动。这一变化表明美国企业盈利能力普遍增强，市场健康度有所提升，降低了对“七巨头”的过度依赖风险。投资者可以关注非科技巨头板块的潜在投资机会，以实现更均衡的资产配置。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/these-underdogs-are-a-big-reason-s-p-500-profit-growth-is-the-fastest-in-nearly-5-years-4a43f142?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "Mastercard上市20年股价飙升11000%，未来增长备受瞩目",
+      "summary": "自上市20年以来，Mastercard的股价飙升了11000%，成为标普500指数中表现最好的公司之一，仅次于英伟达和苹果。这一卓越表现凸显了其在数字支付领域的长期竞争优势和市场领导地位。投资者正密切关注其未来的增长策略，尤其是在支付技术创新和全球市场扩张方面的布局，以评估其能否延续辉煌。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/mastercards-stock-is-up-11-000-since-its-ipo-20-years-ago-what-comes-next-deb949eb?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "美股市场盈利高涨但夏季面临多重风险",
+      "summary": "尽管美国股市目前处于盈利增长的“热潮”中并创下历史新高，但分析师警告，夏季市场可能面临多种风险。这些风险可能包括宏观经济数据波动、地缘政治事件或企业盈利预期的调整，可能导致市场波动加剧。高净值投资者应保持警惕，审慎评估市场情绪和潜在回调风险，以避免夏季期间可能出现的不确定性冲击。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -187,28 +222,28 @@
   ],
   "a_stocks": [
     {
-      "title": "中国本土奢侈品市场崛起，挑战欧洲老牌地位",
-      "summary": "随着中国经济增长放缓，国内消费者正日益转向本土奢侈品牌，包括价格高达14万美元的电动汽车和传统金饰。这一趋势挑战了长期占据中国市场主导地位的欧洲奢侈品牌，反映出中国消费市场结构的深刻变化和本土品牌影响力的提升，对相关产业的竞争格局产生影响。",
+      "title": "中国AI概念股被视为应对宏观波动的投资机会",
+      "summary": "面对中国经济的宏观不确定性，分析师建议投资者关注中国的人工智能相关股票。他们认为AI行业具有结构性增长潜力，能够在中国经济转型中提供相对稳定的投资回报。这表明，即使在整体经济面临挑战时，特定高科技领域的创新和发展仍能吸引资本，并可能成为中国股市的新增长引擎。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/25/business/chinese-luxury-brands.html"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/05/24/china-tech-plays-to-ride-out-macro-volatility.html"
         }
       ]
     },
     {
-      "title": "阿里巴巴AI工具Qwen助推巴基斯坦合作，展现海外扩张潜力",
-      "summary": "在巴基斯坦总理访问期间，阿里巴巴的AI大模型Qwen协助促成了一项重要的战略合作协议。这一事件不仅彰显了中国AI技术在国际市场的影响力，也预示着中国科技企业在“一带一路”沿线国家深化合作和拓展海外市场的趋势，对阿里巴巴的国际化战略具有积极意义。",
+      "title": "中国证监会打击跨境证券交易，影响香港部分资产",
+      "summary": "中国证监会加强对非法跨境证券交易的打击力度，中信证券估算此举可能影响香港市场高达319亿美元的资产。尽管这一金额对香港作为亚洲第三大股市而言体量不大，但仍反映了中国监管机构对资本流动和市场秩序的严格控制。此举可能促使投资者重新评估跨境投资的合规风险和策略。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/tech/big-tech/article/3354778/alibabas-qwen-catches-sharif-speed-help-forge-pakistan-deal?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/china-business/article/3354776/csrcs-crackdown-cross-border-trading-involves-us32b-hong-kong-assets-citic?utm_source=rss_feed"
         }
       ]
     },
     {
-      "title": "恒生指数季度检讨，高盛预计将提振市值4.5%",
-      "summary": "高盛分析师预测，恒生指数的最新季度检讨将使其市场总市值增加4.5%，并有望吸引资金流入包括腾讯控股、中铝和极兔速递等新纳入或权重调整的成分股。这一指数调整对香港市场的资金流向和相关成分股的表现具有直接影响，是投资者短期关注的焦点。",
+      "title": "恒生指数季度检讨，高盛预计市值将提升4.5%",
+      "summary": "高盛预计，恒生指数的最新季度检讨将使其市值提升4.5%，并吸引资金流入腾讯控股、百奥赛图生物医药等成分股。指数调整通常会带来被动资金的流入，为相关成分股带来短期提振。投资者应关注指数调整带来的配置机会，但也要警惕短期资金炒作后的回落风险，并结合基本面做出投资决策。",
       "sources": [
         {
           "name": "SCMP Business",
@@ -217,20 +252,20 @@
       ]
     },
     {
-      "title": "中国工程机械巨头徐工集团力拓全球市场，发力绿色化与自动化技术",
-      "summary": "中国最大工程机械制造商徐工集团计划通过发展绿色环保和自动化技术，将其年度海外销售额提升至1000亿元人民币（约147亿美元）。这体现了中国重工业企业在全球化进程中向高端化、智能化、绿色化转型的战略方向，有望提升其在全球市场的竞争力，对中国制造出海具有示范意义。",
+      "title": "中国电动汽车制造商进军欧洲，欧洲本土供应商或受益",
+      "summary": "随着比亚迪、小鹏等中国电动汽车制造商积极拓展欧洲市场，德国锂和可再生能源生产商Vulcan Energy Resources认为，尽管欧盟采取保护主义措施，欧洲本土汽车供应商仍有望从中受益。这一趋势预示着中欧在新能源汽车领域的合作与竞争将更加复杂，本土供应商面临抓住与中国企业合作机遇的挑战。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3354691/chinas-machinery-giant-xcmg-eyes-bigger-scoop-global-sales-green-autonomous-tech?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/china-evs/article/3354764/chinese-ev-makers-expand-europe-are-local-automotive-suppliers-set-benefit?utm_source=rss_feed"
         }
       ]
     }
   ],
   "business": [
     {
-      "title": "怡和控股24亿美元收购澳洲医疗诊断集团I-MED",
-      "summary": "总部位于香港的综合企业怡和控股宣布以34亿澳元（约24亿美元）收购澳大利亚最大的医疗诊断和远程放射学集团I-MED Radiology Network的全部股权。这是怡和近年来最大规模的收购之一，显示其在全球医疗健康服务领域的扩张策略，并有望进一步巩固其在亚太地区的业务布局。",
+      "title": "香港怡和集团24亿美元收购澳大利亚诊断集团I-MED",
+      "summary": "香港投资公司怡和集团（Jardine Matheson）宣布以24亿美元收购澳大利亚诊断和远程放射学集团I-MED Radiology Network的全部股权。这是怡和集团近年来最大规模的收购之一，显示其在医疗服务领域的战略布局和扩张。此项并购将增强怡和在医疗健康板块的实力，并可能影响亚太地区医疗服务市场的竞争格局和估值。",
       "sources": [
         {
           "name": "SCMP Business",
@@ -239,8 +274,8 @@
       ]
     },
     {
-      "title": "印度亿万富翁在全球放缓背景下积极收购海外公司",
-      "summary": "据报道，2025年印度企业在全球并购上支出180亿美元，2026年上半年交易额有望超过150亿美元。这表明在印度本土经济增长放缓的背景下，印度大型企业正寻求通过海外收购来维持增长和实现业务多元化，在全球并购市场扮演日益重要的角色。",
+      "title": "印度亿万富翁在本土增长放缓背景下大举海外并购",
+      "summary": "2025年印度企业海外并购金额达180亿美元，预计2026年上半年将继续保持高位。在印度国内经济增速放缓的背景下，印度亿万富翁和企业正积极通过海外收购寻求增长。这标志着印度资本在全球化进程中的新动向，可能影响新兴市场间的资本流向和全球并购市场的活跃度，值得关注其长期战略意义。",
       "sources": [
         {
           "name": "BBC Business",
@@ -249,18 +284,8 @@
       ]
     },
     {
-      "title": "英国啤酒行业萎缩，酿酒厂面临倒闭潮",
-      "summary": "由于酒吧倒闭、成本上涨和饮酒习惯改变等多重因素，英国的酿酒行业正在经历萎缩，许多小型酿酒厂面临经营困境甚至倒闭。这反映了英国消费市场结构的深层变化以及特定行业的经营压力，可能影响当地经济和就业，并预示着更广泛的消费趋势转变。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c9werp5keqlo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "艺术品拍卖市场实现25亿美元反弹",
-      "summary": "经历四年销售波动后，全球艺术品拍卖市场通过重新定义买卖双方的预期，成功实现了25亿美元的季度复苏。这一现象表明高端奢侈品市场具备一定的韧性，但在宏观经济不确定性下，其波动性依然存在，且市场策略的调整对成交量和价值至关重要。",
+      "title": "艺术品拍卖市场强劲复苏，交易额达25亿美元",
+      "summary": "经过四年的销售波动，艺术品拍卖市场通过重新定义买卖双方预期，成功实现25亿美元的强劲复苏。这一成果凸显了高端艺术品市场的韧性，也反映了富裕投资者对另类资产配置的需求。对于艺术品收藏家和相关投资者而言，市场策略的调整和买家信心的恢复是积极信号，预示着未来潜在的增长机会。",
       "sources": [
         {
           "name": "NYT Business",
@@ -271,32 +296,22 @@
   ],
   "overlooked": [
     {
-      "title": "美国在量子计算领域的巨额投资或存在法律合规性问题",
-      "summary": "美国政府在量子计算领域的重大投入，包括启动首家量子铸造公司，可能面临法律合规性挑战。这对于这一前沿科技领域未来的政策制定、资金流向以及技术商业化路径都构成潜在不确定性，可能影响美国在该领域的全球领导地位。",
+      "title": "沙特“2030愿景”面临现实挑战，经济转型或将放缓",
+      "summary": "沙特阿拉伯雄心勃勃的“2030愿景”在实施过程中遭遇现实阻力，其多元化经济转型的宏伟目标可能需要更长时间才能实现。这对于全球投资者评估中东地区的长期投资前景提出了新的考虑，尤其是那些押注于沙特非石油产业快速增长的项目，可能需要调整对其实现速度的预期。",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/"
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "“旋转木马”式增值税套利交易揭示金融欺诈隐患",
-      "summary": "文章揭示了一种增值税欺诈模式，即两家由同一方秘密控制的公司通过虚假进出口交易来骗取增值税退款。这种“旋转木马”式套利活动利用税收制度漏洞，可能对市场公平性和国家税收造成损害，提醒监管机构需警惕复杂的金融欺诈手段。",
+      "title": "美国政府对AI高管“肉体电脑”的描述引担忧",
+      "summary": "“肉体电脑”一词在哲学和认知科学领域由来已久，但近期被AI高管频繁使用，带上了更深层的含义。这反映了部分AI界人士对人脑与机器智能关系的看法，可能暗示着他们对AI发展方向的深层思考和伦理立场。这一讨论虽然看似抽象，但其背后是对人类未来和AI能力边界的哲学性探讨，可能影响AI研发的长期价值观和策略。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-carousel-trade-arbitrage.html"
-        }
-      ]
-    },
-    {
-      "title": "中国企业出海受困于地产策略，全球扩张计划面临挑战",
-      "summary": "世邦魏理仕（JLL）报告指出，中国企业在海外拓展时，难以获得合适的办公、物流和零售空间，导致部分全球扩张计划受阻。这凸显了海外市场不动产配置对企业国际化战略的重要性，以及中国企业“走出去”过程中面临的实际操作难题，可能影响其海外投资回报。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3354678/property-challenges-put-chinese-firms-go-global-plans-at-risk-jll-says?utm_source=rss_feed"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/24/business/meat-computer-brain-artificial-intelligence.html"
         }
       ]
     }
