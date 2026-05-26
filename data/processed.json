@@ -1,8 +1,46 @@
 {
   "top5": [
     {
-      "title": "英伟达调整AI芯片财报结构，应对超大规模客户商品化挑战",
-      "summary": "芯片巨头英伟达正在改变其财报披露方式，将面向超大规模云服务商的销售额与非超大规模客户的销售额分开报告。此举被视为英伟达应对微软、亚马逊等客户试图将AI芯片商品化的战略调整，旨在区分其在完整AI堆栈中的控制力。这一变化对投资者理解AI市场动态，特别是英伟达在不同客户群中的定价权和利润空间至关重要。",
+      "title": "美联储会议纪要披露鹰派倾向，或预示未来政策路径",
+      "summary": "美联储公布了其近期贴现率会议纪要，其中透露出委员会成员对通胀持续上升的担忧。尽管多位地区联储行长也强调经济前景面临下行风险，支持维持现有利率，但整体基调显示美联储对通胀保持警惕。这表明未来的货币政策走向仍存在不确定性，投资者需密切关注后续数据和央行表态。",
+      "sources": [
+        {
+          "name": "Federal Reserve Press",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm"
+        }
+      ]
+    },
+    {
+      "title": "美国袭击伊朗后中东局势紧张，全球油价应声上涨",
+      "summary": "美国对伊朗导弹发射场的袭击，迅速打破了市场对中东和平协议和霍尔木兹海峡重新开放的乐观预期。地缘政治紧张局势的突然升级，直接导致国际原油价格出现显著上涨。投资者应警惕中东冲突对全球能源供应和宏观经济稳定带来的潜在风险和不确定性。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/26/business/oil-gas-price-iran.html"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html"
+        }
+      ]
+    },
+    {
+      "title": "梵蒂冈警告AI对人类社会及就业的潜在冲击",
+      "summary": "教皇利奥十四世发布了一项关于人工智能的通谕，对AI可能取代人类工作、引发深刻社会和伦理问题表达了强烈担忧。这一来自全球道德权威的警告，要求科技巨头们关注AI发展的人文影响，可能促使政策制定者和企业更审慎地考量AI技术应用，从而对AI行业的监管和发展速度产生长远影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/26/business/dealbook/vatican-ai-silicon-valley.html"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/05/26/traders-share-pope-leos-worries-on-ais-job-market-impact.html"
+        }
+      ]
+    },
+    {
+      "title": "英伟达调整财报结构，揭示AI芯片市场深层变化与挑战",
+      "summary": "知名科技分析师本·汤普森指出，英伟达正在改变其财报披露方式，将针对超大规模云服务商的销售与针对其他客户的销售进行区分。此举表明英伟达正面临来自大型客户的商品化压力，但同时在其他市场保持其完整AI技术栈的领先地位。这一战略性调整反映了AI芯片市场竞争格局的演变和英伟达的应对策略，对整个AI生态系统具有重要参考意义。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
@@ -11,58 +49,12 @@
       ]
     },
     {
-      "title": "中东地缘政治紧张加剧，全球油价攀升逼近每桶100美元",
-      "summary": "美国对伊朗导弹阵地实施打击，导致中东地区紧张局势升级，此前市场对和平协议的乐观情绪受到冲击。受此影响，全球原油价格回升，再次逼近每桶100美元大关。这一事件直接影响全球能源市场供应预期和成本，对通胀走势和依赖原油进口的经济体产生显著影响，投资者需关注地缘政治风险对大宗商品价格的冲击。",
+      "title": "荷兰政府阻止美国收购本国关键数字供应商，强化技术主权",
+      "summary": "荷兰政府已阻止一家美国公司收购其国内一家“关键数字供应商”。这一举动凸显了各国政府日益增强的对本土关键技术资产的保护意愿，尤其是在数字和半导体等战略性领域。这可能预示着未来跨境科技并购将面临更严格的审查，加剧全球技术供应链的碎片化风险。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/26/business/oil-gas-price-iran.html"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/global-oil-prices-climb-back-toward-100-a-barrel-after-u-s-launches-new-strikes-in-southern-iran-despite-potential-deal"
-        }
-      ]
-    },
-    {
-      "title": "梵蒂冈发布AI通谕，警告科技巨头关注伦理影响",
-      "summary": "教皇利奥十四世发布了一份关于人工智能的通谕，向硅谷科技巨头发出警告。这份通谕标志着全球主要道德和政治力量开始积极介入人工智能的发展议题，强调AI技术在快速演进中必须兼顾伦理、人类尊严和社会福祉。这可能促使科技公司在AI开发和部署中更加注重社会责任和监管合规，影响未来AI治理格局。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/26/business/dealbook/vatican-ai-silicon-valley.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/05/26/business/dealbook/vatican-ai-silicon-valley.html"
-        }
-      ]
-    },
-    {
-      "title": "BP董事长因行为不当被罢免，凸显企业治理高压",
-      "summary": "英国石油公司（BP）董事会宣布，因“严重的治理标准、监督和行为问题”，决定立即罢免其董事长Albert Manifold。此事件凸显了全球大型企业对高管个人行为和公司治理透明度的日益严格要求。对于投资者而言，此类高级别管理层变动可能引发对公司内部文化、战略执行和未来业绩的担忧，值得密切关注。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/26/business/bp-chairman-manifold.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/bp-ousts-another-top-executive-over-claims-brought-to-the-board-2a0f52ec?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "华为计划秋季推出新型智能手机芯片，强化自主研发能力",
-      "summary": "尽管面临美国制裁，中国电信巨头华为计划在今年秋季推出新型智能手机芯片，并声称在芯片设计方面取得了突破。此举表明华为持续推进自主研发，努力突破外部限制，以提升其智能手机业务的竞争力。对于关注科技股和中美科技竞争的投资者而言，这反映了中国在半导体领域韧性和技术迭代的努力。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html"
+          "name": "Hacker News Top",
+          "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/"
         }
       ]
     }
@@ -70,8 +62,8 @@
   "people": [
     {
       "name": "Ben Thompson",
-      "title": "英伟达调整财报结构以应对AI芯片商品化挑战",
-      "summary": "观点：英伟达改变其财报披露方式，区分面向超大规模客户的销售额与非超大规模客户的销售额，反映出其在AI芯片市场面临的战略挑战。他认为，此举旨在应对超大规模云服务商（如微软、亚马逊）试图将AI芯片商品化的趋势，同时确保英伟达能在其他市场保持其对整个AI堆栈的控制力，以维持高利润率和市场领导地位。这一分析为投资者理解AI芯片行业的竞争格局提供了深度视角。",
+      "title": "英伟达财报结构调整揭示AI市场分化",
+      "summary": "观点：Ben Thompson分析称，英伟达改变财报披露方式，将超大规模云厂商销售与其余客户区分，表明其在应对AI芯片市场的两重挑战。他认为，面向大型云厂商的芯片销售正趋于商品化竞争，而对其他客户，英伟达则凭借其全面的AI技术栈继续保持主导地位。这预示着AI基础设施市场的成熟与分层。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
@@ -81,102 +73,82 @@
     },
     {
       "name": "Tyler Cowen",
-      "title": "企业税率是影响国家经济增长的关键因素",
-      "summary": "观点：他最新研究发现，国家税收竞争力的提升与人均实际GDP增长呈正相关，且这种效应完全由公司税率驱动，而非其他税收组成部分。这强调了公司税收政策在塑造国家经济活力和吸引投资方面的核心作用，对政府决策者和关注宏观经济政策的投资者具有重要参考价值。",
+      "title": "企业税率对经济增长影响巨大，推荐贸易战新书",
+      "summary": "观点：Tyler Cowen引用研究指出，企业税收竞争力对人均GDP增长具有显著正向关联，且在所有税种中，企业税是唯一能产生这种增长效应的支柱。他还推荐了一本关于贸易战的新书《如何赢得贸易战》，并间接评论教皇对AI的警告称“AI将永久存在”。这强调了税收政策对国家经济的深远影响以及贸易政策和AI发展的时代重要性。",
       "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/how-to-win-a-trade-war-an-optimistic-guide-to-an-anxious-global-economy.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-win-a-trade-war-an-optimistic-guide-to-an-anxious-global-economy"
+        },
         {
           "name": "Marginal Revolution (Tyler Cowen)",
           "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-corporate-tax-rate-really-matters.html?utm_source=rss&utm_medium=rss&utm_campaign=the-corporate-tax-rate-really-matters"
-        }
-      ]
-    },
-    {
-      "name": "Tyler Cowen",
-      "title": "科斯猜想的实证检验揭示理论与数据的差距",
-      "summary": "观点：他与Tim Groseclose合作发表的一项研究，利用电子书价格检验了经济学中的“科斯猜想”，结果表明一些“优美理论”在面对“丑陋数据”时可能失效。这一发现提醒投资者和经济学家，在构建模型和预测市场行为时，必须审慎对待理论的普适性，并充分考虑现实世界数据的复杂性和不确定性，避免过度依赖理论假设。",
-      "sources": [
+        },
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html?utm_source=rss&utm_medium=rss&utm_campaign=a-beautiful-theory-falls-to-ugly-data"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/tuesday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-570"
         }
       ]
     },
     {
-      "name": "Piper Sandler 策略师",
-      "title": "通胀而非增长是当前股市的关键驱动因素",
-      "summary": "观点：在过去十年中，全球市场经历了五次重大转变，而通胀率而非经济增长是真正影响股票市场表现的核心因素。这一分析表明，投资者在评估当前和未来市场走势时，应将通胀动态及其对企业盈利、利率政策的影响放在首要位置。对于资产配置和风险管理，关注通胀数据比单纯的经济增长数据更为关键。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/why-inflation-not-growth-is-what-really-matters-for-the-stock-market-18d7d9b7?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "name": "Derek Yan (Kraneshares)",
-      "title": "人形机器人领域蕴含长期投资机会",
-      "summary": "观点：Derek Yan（通过Ben Carlson的访谈）指出，人形机器人领域正显现出重要的投资机会。尽管距离机器人技术在社会中广泛应用尚需时日，但其对全球劳动力市场、人口老龄化趋势以及整体经济结构的影响将是深远且变革性的。高净值投资者应关注这一新兴技术的发展，作为长期增长型投资组合的一部分。",
-      "sources": [
-        {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/05/talk-your-book-investing-in-the-rise-of-the-robots/"
-        }
-      ]
-    },
-    {
-      "name": "教皇利奥十四世 (Pope Leo XIV)",
-      "title": "梵蒂冈对AI伦理发出警告，呼吁科技企业负责任发展",
-      "summary": "观点：教皇利奥十四世通过发布关于人工智能的通谕，对科技巨头发出明确警告，强调AI发展必须遵循伦理原则，并以人类福祉为中心。这表明梵蒂冈等全球性道德权威机构正日益关注AI的社会影响，并致力于塑造其发展方向。此举可能推动科技公司在AI设计和应用中整合更多伦理考量，并促使监管机构加快相关立法进程。",
+      "name": "Pope Leo XIV (教皇利奥十四世)",
+      "title": "对人工智能及其对人类影响发出严肃警告",
+      "summary": "原话：「人工智能的快速发展可能导致大量人类工作被取代，引发深刻的社会和伦理问题。我们必须警惕技术进步带来的负面影响，确保AI的发展服务于人类福祉而非剥夺人类尊严。」这一通谕呼吁社会各界审视AI技术对劳动力市场和人类价值的冲击，强调在追求技术创新的同时，不能忽视其潜在的道德和社会成本。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/05/26/business/dealbook/vatican-ai-silicon-valley.html"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/05/26/traders-share-pope-leos-worries-on-ais-job-market-impact.html"
+        }
+      ]
+    },
+    {
+      "name": "Elon Musk",
+      "title": "SpaceX IPO文件披露对其个人有优厚条款",
+      "summary": "SpaceX的IPO文件显示，其董事会结构及对Elon Musk的薪酬安排可能过度偏向他个人，引发公司治理专家对其他股东利益的担忧。尽管Musk在推动公司发展上功不可没，但这种条款可能会在未来IPO中引发投资者对公司治理透明度和公平性的质疑，进而影响市场估值和长期吸引力。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "联合国探索替代GDP的繁荣衡量指标",
-      "summary": "联合国正在规划新的经济衡量标准，旨在将经济收益与国民健康和环境进步相结合，以弥补国内生产总值（GDP）作为单一繁荣衡量指标的缺陷。然而，各成员国对新标准的具体形式和实施细节仍难以达成共识。这一努力反映了全球对可持续发展和更全面评估社会福祉的追求，未来可能影响国家政策制定和国际发展援助方向。",
+      "title": "美联储公布最新贴现率会议纪要，透露政策考量细节",
+      "summary": "联邦储备委员会公布了4月20日和29日的贴现率会议纪要。纪要显示，尽管美联储委员会讨论了通胀压力可能持续的风险，但多位地区联储银行行长认为经济前景面临下行风险，支持维持现有利率。这反映了美联储内部对经济和通胀前景的谨慎分歧，为市场提供了央行政策思考的更多细节。",
+      "sources": [
+        {
+          "name": "Federal Reserve Press",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm"
+        }
+      ]
+    },
+    {
+      "title": "美国消费者对经济前景感到担忧，食品开支普遍缩减",
+      "summary": "一项最新调查显示，超过六成的美国人因生活成本上涨而不得不削减食品开支，消费者信心指数表现不佳。尽管白宫对消费者普遍悲观情绪提出异议，但持续的通胀压力已显著影响民众的购买力，这可能预示着消费支出增长放缓，对未来的经济增长构成潜在阻力。",
+      "sources": [
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/05/23/us/politics/americans-groceries-inflation-affordability.html"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/americans-feel-worse-than-ever-a-consumer-survey-shows-the-white-house-says-thats-bunk-whos-right-4f4f1406?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "联合国计划推出新的繁荣衡量标准，以补充或取代传统GDP",
+      "summary": "联合国正在推动一套新的经济衡量体系，旨在将经济增长与国民健康和环境进步相结合，以更全面地评估国家繁荣程度。尽管在达成全球共识上面临挑战，但这一趋势反映出对传统GDP作为单一衡量标准局限性的认识，并可能在长期内引导各国政策和投资方向转向更可持续和包容性的发展模式。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/05/26/business/economy/gdp-united-nations-prosperity-measures.html"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/05/26/business/economy/gdp-united-nations-prosperity-measures.html"
-        }
-      ]
-    },
-    {
-      "title": "英国零售巨头警告入门级工作岗位将“急剧减少”",
-      "summary": "英国主要零售商Next的首席执行官Lord Wolfson警告称，该国入门级工作岗位将出现“戏剧性下降”，目前一个职位平均收到两年前两倍的申请。这一趋势预示着英国劳动力市场竞争将持续加剧，尤其对年轻劳动力和低技能工人构成就业挑战。对于宏观经济而言，这可能影响消费信心和社会稳定，值得关注。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c2024r6lzyro?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "高生活成本驱动多重就业人口增长",
-      "summary": "在生活成本持续上涨和工作不确定性增加的双重压力下，越来越多的人选择从事多份工作以维持生计。这一现象揭示了全球劳动力市场正在经历的结构性变化，即零工经济和兼职工作的普及。对投资者而言，这可能影响消费者的购买力分布、劳动力市场的效率以及特定行业（如平台经济）的商业模式和法规环境。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "企业税率竞争力与实际GDP增长强关联",
-      "summary": "一项最新研究指出，国家在总体税收竞争力方面的改善与人均实际GDP增长呈正相关关系，且这种积极效应主要由企业税收支柱驱动。研究强调，除了公司税，其他税收组成部分并未显示出显著的增长效应。这一发现对各国政府在制定财政政策、吸引外国投资和促进经济发展方面具有重要的政策含义。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-corporate-tax-rate-really-matters.html?utm_source=rss&utm_medium=rss&utm_campaign=the-corporate-tax-rate-really-matters"
         }
       ]
     }
@@ -184,53 +156,43 @@
   "tech": [
     {
       "title": "OpenRouter完成1.13亿美元融资，加速AI模型市场发展",
-      "summary": "AI模型交易平台OpenRouter成功完成1.13亿美元融资，其投资方包括谷歌母公司Alphabet的投资部门。该平台旨在帮助企业从数百种AI模型中选择最适合其软件任务的模型。此次融资凸显了AI模型生态系统中中间层服务的重要性，有望通过降低AI模型的选择和部署门槛，进一步加速AI技术的商业化应用和市场扩张。",
+      "summary": "OpenRouter这家为企业提供AI模型选择和部署的交易平台，成功获得了1.13亿美元融资，由Alphabet的投资部门领投。此轮融资突显了AI模型基础设施和平台聚合在当前AI生态系统中的关键价值。随着AI模型数量激增，此类平台有望降低企业应用AI的门槛，加速AI技术的普及和商业化进程。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/05/26/business/dealbook/openrouter-ai-models-fundraising.html"
+        }
+      ]
+    },
+    {
+      "title": "美国航空选择SpaceX星链作为其机队机上Wi-Fi服务商",
+      "summary": "美国航空宣布将为超过500架飞机安装SpaceX的星链卫星互联网服务，以提供机上Wi-Fi。此项合作进一步巩固了星链在航空业互联市场中的领先地位，标志着卫星互联网技术在商业应用领域的广阔前景。对于旅客而言，这意味着更快速、可靠的空中网络体验，也可能促使其他航空公司加速升级其机上网络服务。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/26/american-airlines-spacex-starlink.html"
         },
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/05/26/business/dealbook/openrouter-ai-models-fundraising.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/starlink-signs-a-new-airline-customer-as-it-races-to-be-the-top-in-flight-internet-provider-4e08e2cf?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "挪威利用华为闪存存储训练大规模语言模型",
-      "summary": "挪威正在利用2PB的华为闪存存储设施进行大规模语言模型（LLM）的训练。这一案例表明，尽管在地缘政治背景下存在争议，华为在关键的AI基础设施硬件领域，特别是在高性能存储解决方案方面，仍能获得国际客户的青睐。这对于评估全球AI供应链多样性和技术选择具有参考意义。",
+      "title": "量子计算公司Quantinuum拟上市，估值或达130亿美元",
+      "summary": "量子计算公司Quantinuum正在准备进行首次公开募股(IPO)，预计估值将接近130亿美元，并计划筹集高达10亿美元的资金。此次IPO是新兴量子技术领域的一个重要里程碑，反映了市场对量子计算商业化潜力的强烈信心和巨大期待。这可能吸引更多资本涌入量子技术赛道，加速该领域的创新和发展。",
       "sources": [
         {
-          "name": "Hacker News Top",
-          "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910"
-        }
-      ]
-    },
-    {
-      "title": "AI辅助编程效率的悖论：或写出更好代码但速度变慢",
-      "summary": "有观点指出，尽管人工智能能够帮助程序员编写出“更好的代码”，但在某些情况下，使用AI辅助反而可能降低整体开发速度。这引发了对AI在软件开发中实际生产力提升的深刻反思。对于科技公司和软件投资者而言，理解AI工具在不同场景下的真实效益，并优化其应用策略，是实现效率最大化的关键。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
-        }
-      ]
-    },
-    {
-      "title": "机器人技术蓬勃发展，人形机器人成投资新亮点",
-      "summary": "随着人工智能和自动化技术的进步，机器人领域特别是人形机器人正迎来快速发展。分析认为，人形机器人市场蕴含着巨大的投资机会，尽管距离其大规模普及尚有时日，但其对制造业、服务业乃至社会结构都将产生深远影响。高净值投资者应密切关注机器人技术突破，将其视为未来科技趋势的重要投资方向。",
-      "sources": [
-        {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/05/talk-your-book-investing-in-the-rise-of-the-robots/"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/this-new-quantum-stock-could-debut-with-a-valuation-of-nearly-13-billion-9593b4e4?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "礼来公司豪掷40亿美元收购三家疫苗开发商",
-      "summary": "制药巨头礼来公司宣布将斥资高达40亿美元，收购三家专注于带状疱疹、EB病毒及其他病原体疫苗开发的小型公司。此举彰显了礼来在扩大其疫苗产品线和进入新治疗领域的决心。对于投资者而言，这笔重大并购不仅可能带来新的收入增长点，也反映出制药行业在疫情后对传染病预防和疫苗研发的高度重视。",
+      "title": "礼来公司计划斥资40亿美元收购三家疫苗开发商",
+      "summary": "制药巨头礼来公司宣布将以高达40亿美元的价格，收购三家小型疫苗开发商，专注于带状疱疹、EB病毒及其他病原体疫苗的研发。此举标志着礼来在生物制药领域进行战略多元化，旨在加强其疫苗产品线，并在快速增长的疫苗市场中寻找新的增长点，预计将对其未来营收结构产生积极影响。",
       "sources": [
         {
           "name": "NYT Business",
@@ -239,104 +201,105 @@
       ]
     },
     {
-      "title": "量子计算公司Quantinuum拟IPO，估值或达130亿美元",
-      "summary": "量子计算公司Quantinuum已公布其首次公开募股（IPO）条款，计划通过此次发行募集至多10亿美元，公司估值预计将接近130亿美元。此次IPO是量子计算领域一次重要的资本事件，标志着该前沿技术正吸引着大量投资者关注。对于寻求高科技成长股的投资者而言，Quantinuum的上市提供了参与下一代计算技术发展的机会。",
+      "title": "美光科技股价因瑞银上调目标价而大涨",
+      "summary": "瑞银集团因存储芯片需求强劲及美光科技签订“加强型”长期供货协议，大幅上调了其股价目标。受此消息提振，美光科技股价应声大涨。这一动向表明，尽管宏观经济存在不确定性，但市场对半导体行业，特别是存储芯片领域的景气度持续看好，并预期相关公司盈利能力将得到显著提升。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/this-new-quantum-stock-could-debut-with-a-valuation-of-nearly-13-billion-9593b4e4?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/microns-stock-soars-as-ubs-slaps-on-an-out-of-sight-price-target-77e75b8e?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "法拉利发布首款纯电动汽车Luce，进军豪华电动车市场",
-      "summary": "意大利豪华跑车制造商法拉利正式发布了其首款纯电动车型“Luce”。尽管当前豪华电动汽车市场面临激烈的竞争和消费者偏好的不确定性，法拉利的这一举动标志着其向电动化转型迈出了关键一步。此举对其品牌未来定位、技术创新路线以及在竞争日益激烈的电动车市场的份额将产生深远影响。",
+      "title": "AutoZone财报超预期但股价创四年新低",
+      "summary": "汽车零部件零售商AutoZone公布的财报超出华尔街预期，但其股价仍创下四年来的最大单日跌幅。投资者主要担忧其国际业务增长乏力、利润率受压缩、通胀和能源成本上升以及潜在的供应链中断风险。这表明市场在评估零售企业时，不仅关注短期业绩，更注重长期增长潜力及宏观经济风险的抵御能力。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/26/autozone-stock-on-pace-for-worst-trading-day-since-march-2020.html"
+        }
+      ]
+    }
+  ],
+  "a_stocks": [],
+  "business": [
+    {
+      "title": "英国石油(BP)主席因“严重不当行为”被罢免",
+      "summary": "英国石油公司宣布，其主席阿尔伯特·曼尼福德已因“与重要治理标准、监督和行为相关的严重担忧”而被解除职务。此举表明全球大型企业对高层管理人员的行为准则和公司治理的严格要求，并可能对其内部管理和投资者信心产生一定影响。董事会的迅速行动也传递出维护公司声誉的决心。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/25/business/ferrari-luce-electric-vehicle.html"
+          "url": "https://www.nytimes.com/2026/05/26/business/bp-chairman-manifold.html"
         },
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cwy22rddy5no?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Hacker News Top",
-          "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce"
+          "url": "https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "达美航空专注于富裕旅客，成为行业盈利典范",
-      "summary": "达美航空通过专注于服务高端和富裕旅客群体，成功地在竞争激烈的航空市场中脱颖而出，成为美国最盈利的航空公司。然而，这种策略也使得它面临来自美国联合航空日益激烈的竞争。这表明在航空业，精准的市场定位和优质服务是获得高利润的关键，但同时也需要警惕来自竞争对手的挑战。",
+      "title": "达美航空通过服务高端旅客成功应对行业挑战",
+      "summary": "达美航空通过专注于服务富裕旅客，成功地在航空业混乱时期脱颖而出，成为美国最盈利的航空公司之一。然而，该公司目前正面临来自联合航空日益激烈的竞争。达美的成功案例凸显了差异化服务和精准市场定位在竞争激烈的行业中的重要性，但维持领先地位仍需持续创新和应对挑战。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/05/26/business/delta-airlines-ed-bastian.html"
         }
       ]
-    }
-  ],
-  "a_stocks": [
+    },
     {
-      "title": "华为在美制裁下仍推进新型智能手机芯片研发",
-      "summary": "尽管面临美国持续的制裁和技术限制，中国电信巨头华为仍计划在今年秋季推出新型智能手机芯片，并声称在芯片设计上取得了新突破。这一进展凸显了华为在半导体领域自主研发的韧性和决心。对于A股市场和关注中国科技发展的投资者而言，华为的持续创新能力和其在关键技术领域的突破，将对其在国际市场上的竞争力产生重要影响。",
+      "title": "法拉利发布首款纯电动汽车，进军电动豪车市场",
+      "summary": "豪华汽车品牌法拉利正式推出了其首款纯电动汽车——Luce车型。此举标志着这家传奇跑车制造商向电动化转型迈出关键一步，以应对全球电动汽车趋势和日益激烈的市场竞争，尤其来自中国电动汽车制造商的压力。该车型在社交媒体上引发广泛讨论，其市场表现将是法拉利电动化战略成功与否的重要指标。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/cwy22rddy5no?at_medium=RSS&at_campaign=rss"
         }
       ]
-    }
-  ],
-  "business": [
+    },
     {
-      "title": "马萨诸塞州网约车司机正式组建工会",
-      "summary": "马萨诸塞州的网约车司机正式组建工会，成为美国首个获得官方认证，代表Uber和Lyft等平台司机的组织。此事件对美国的零工经济模式具有里程碑意义，可能为其他州的网约车司机维权提供先例。对于平台型公司而言，工会的成立可能导致更高的劳动力成本和更严格的劳动法规，进而影响其商业模式和盈利能力。",
+      "title": "英国零售商Next警告入门级岗位“急剧下降”",
+      "summary": "英国大型零售商Next的首席执行官Lord Wolfson发出警告，称英国的入门级就业岗位正在“急剧下降”。他表示，公司目前每个职位收到的申请数量是两年前的两倍。这反映出劳动力市场供需关系的紧张，可能预示着自动化和经济结构调整对低技能工作岗位的影响日益加剧，值得关注其对社会就业和薪资水平的长期影响。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/25/business/uber-lyft-app-drivers-union-massachusetts.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/c2024r6lzyro?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "实证研究挑战经典经济学理论“科斯猜想”",
-      "summary": "一项关于电子书价格的实证研究，对经济学中备受推崇的“科斯猜想”的普遍适用性提出了质疑。研究发现，一些理论上“优美”的经济模型在面对现实世界“丑陋”的复杂数据时可能无法成立。这提醒投资者，在进行投资决策时，不应盲目依赖理论模型，而应保持对市场实际数据和复杂性的敬畏，警惕理论与实践的脱节风险。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html?utm_source=rss&utm_medium=rss&utm_campaign=a-beautiful-theory-falls-to-ugly-data"
-        }
-      ]
-    },
-    {
-      "title": "全球劳动力市场结构性变化显现多重就业趋势",
-      "summary": "英国主要零售商Next的CEO预警，入门级职位将“急剧减少”，与此同时，为应对不断上涨的生活成本和工作不稳定，越来越多的人选择从事多份工作。这些趋势共同指向全球劳动力市场的深层结构性变化，预示着技能溢价的提升、就业保障的挑战以及社会福利和教育体系面临的长期压力。投资者应关注这些变化对消费模式和产业结构可能带来的长期影响。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c2024r6lzyro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "传统GDP指标受质疑，联合国探索更全面的繁荣评估框架",
-      "summary": "联合国正计划引入新的衡量标准，旨在将经济收益与健康、环境进步等非经济因素相结合，以弥补传统GDP作为衡量国家繁荣和发展指标的局限性。尽管新框架的共识达成仍面临挑战，但这反映出全球对可持续发展和更全面社会福祉评估的日益增长的呼声。长期来看，这种观念转变可能影响各国政策优先顺序，引导投资流向对环境和社会负责的领域。",
+      "title": "美国马萨诸塞州Uber和Lyft司机成立首个网约车工会",
+      "summary": "美国马萨诸塞州的App司机工会正式成立，成为美国首个被认证代表Uber和Lyft等网约车司机的组织。这一里程碑事件可能为美国零工经济平台的劳工组织化树立先例，并引发关于司机福利、薪酬和工作条件的更广泛讨论。其成功模式或将扩散到其他州乃至其他零工经济领域，对平台公司的运营模式和成本结构带来深远影响。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/26/business/economy/gdp-united-nations-prosperity-measures.html"
+          "url": "https://www.nytimes.com/2026/05/25/business/uber-lyft-app-drivers-union-massachusetts.html"
         },
         {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/05/26/business/economy/gdp-united-nations-prosperity-measures.html"
+          "name": "Hacker News Top",
+          "url": "https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/"
+        }
+      ]
+    },
+    {
+      "title": "西班牙因缺乏赌博许可证而封锁预测市场平台",
+      "summary": "西班牙监管机构已禁止Polymarket和Kalshi等预测市场平台在该国运营，理由是这些平台缺乏必要的赌博许可证。此举反映了全球范围内监管机构对新兴金融科技和“预测市场”模式的审慎态度，以及将其纳入现有金融或博彩法规体系的努力。这可能对这类创新市场的全球扩张造成阻碍，并影响其合规成本和用户增长。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/"
+        }
+      ]
+    },
+    {
+      "title": "经济压力下多重就业人群增加，揭示劳动力市场变化",
+      "summary": "由于生活成本不断上涨和工作不稳定性，越来越多的人被迫从事多份工作以维持生计，形成一种“生存模式”下的多重就业现象。这一趋势揭示了当前劳动力市场的潜在压力和结构性挑战，包括收入分配不均和就业保障不足等问题，可能对社会福利体系和消费模式产生长远影响。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
