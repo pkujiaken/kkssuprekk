@@ -1,32 +1,8 @@
 {
   "top5": [
     {
-      "title": "全球供应链危机加剧：霍尔木兹海峡关闭推高能源价格，影响全球经济增长",
-      "summary": "霍尔木兹海峡关闭已持续三个月，导致全球供应短缺加剧，尤其发展中国家受冲击严重，能源账单预计将大幅上涨。此次地缘政治事件不仅推高通胀，也威胁全球就业和经济增长，对多国央行的货币政策制定构成巨大挑战。投资者需密切关注能源市场动态及对企业盈利和消费者支出的影响。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/27/business/hormuz-global-shortages-gas.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "美联储贴现率会议纪要揭示政策考量，关注通胀与就业不确定性",
-      "summary": "美联储于2026年4月召开的贴现率会议纪要显示，官员们在评估经济前景时仍面临不确定性，尤其关注通胀走势和就业市场状况。这些讨论为市场提供了央行内部对当前经济形势和未来货币政策路径的重要参考，对于判断未来利率走向和资产配置具有指导意义，表明央行在对抗通胀和支持增长之间寻求平衡的谨慎态度。",
-      "sources": [
-        {
-          "name": "Federal Reserve Press",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm"
-        }
-      ]
-    },
-    {
-      "title": "AI驱动内存芯片市场爆发，三星、SK海力士市值突破万亿美元",
-      "summary": "随着AI技术需求的爆炸式增长，内存芯片行业迎来历史性繁荣。美光（Micron）、三星（Samsung）和SK海力士（SK Hynix）等主要生产商市值已突破万亿美元大关，成为推动AI市场上涨的关键力量。这一现象凸显了AI对半导体产业的巨大推动作用，以及高性能内存芯片在全球科技供应链中的核心战略地位，吸引了政界和华尔街的广泛关注。",
+      "title": "全球存储芯片需求爆发，美日韩三大巨头市值突破万亿",
+      "summary": "在人工智能（AI）热潮的推动下，对高带宽存储芯片的需求空前增长，使得美光科技（Micron Technology）、三星电子（Samsung）和SK海力士（SK Hynix）这三家主要存储芯片制造商的市值均已突破万亿美元大关。这一现象不仅反映了AI产业的爆发式增长潜力，也预示着半导体行业内部结构性变革，高端存储器在AI计算堆栈中扮演着越来越关键的角色，成为科技投资领域的重要关注点。",
       "sources": [
         {
           "name": "NYT Business",
@@ -35,46 +11,83 @@
         {
           "name": "BBC Business",
           "url": "https://www.bbc.com/news/articles/cnvp9dq0p3go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/micron-investors-are-partying-like-its-1987-and-the-stock-still-looks-pretty-cheap-7060ee53?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "摩根大通CEO戴蒙表示公司正寻求高达200亿美元的收购机会",
-      "summary": "摩根大通首席执行官杰米·戴蒙（Jamie Dimon）公开表示，该银行正在积极寻找高达200亿美元的潜在收购目标。此举将是摩根大通历史上最大规模的并购之一，鉴于其作为美国最大银行的地位，可能引发监管审查。这预示着在全球经济不确定性加剧的背景下，大型金融机构仍保持扩张态势，寻求通过并购巩固市场地位和拓宽业务范围。",
+      "title": "波斯湾冲突加剧全球供应链紧张，能源价格飙升引发通胀担忧",
+      "summary": "受波斯湾地区持续战事的影响，霍尔木兹海峡的关闭已持续三个月，导致全球供应链进一步深化短缺，并推高了国际能源价格。英国监管机构已宣布，普通家庭能源账单将大幅上涨，而美国消费者也因能源成本高企而削减食品等日常开支，甚至动用应急储蓄。地缘政治冲突对全球宏观经济的负面传导效应显著，通胀压力可能进一步侵蚀消费者购买力，并对企业利润造成冲击。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/27/jamie-dimon-jpmorgan-chase-acquisition-target-size.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/27/business/hormuz-global-shortages-gas.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/05/27/traders-are-skeptical-of-iran-timeline-for-strait-of-hormuz-reopening.html"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/more-americans-are-raiding-their-emergency-savings-just-to-fill-up-their-gas-tanks-44a74e22?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "美中AI人才及生产力竞争加剧，美国科技巨头面临结构性挑战",
-      "summary": "一份报告指出，由于中国每年培养350万STEM毕业生，美国在AI生产力竞赛中正面临落后于中国的风险。报告认为，美国大型科技公司的结构性错误和人才危机是主要原因，这不仅可能影响美国在全球科技领导力中的地位，也对美国科技投资者构成长期风险。这一趋势突显了AI时代下地缘政治与科技竞争的复杂性。",
+      "title": "美联储公布最新会议纪要，揭示利率政策考量与经济前景",
+      "summary": "美联储公布了4月20日和29日董事会贴现利率会议的纪要。会议纪要详细披露了联邦公开市场委员会（FOMC）成员对经济形势、通胀走势以及未来利率调整路径的最新评估和讨论。这份纪要为市场提供了了解美联储内部决策过程的重要窗口，其内容将直接影响投资者对货币政策收紧或放松的预期，进而对股市、债市和汇市产生显著影响，是判断宏观经济走向的关键信号。",
+      "sources": [
+        {
+          "name": "Federal Reserve Press",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX探索太空数据中心，引发资本市场对其IPO前景的关注",
+      "summary": "埃隆·马斯克的SpaceX公司不仅推动了商业航天发展，其将数据中心部署到太空的愿景也开始浮现。尽管分析师对SpaceX的IPO财务模型仍有疑问，但太空数据中心的长期潜力，以及近期美国航空选择SpaceX的Starlink服务作为机上Wi-Fi供应商等商业进展，正使其成为一个值得关注的投资标的。这预示着商业航天和下一代基础设施的融合，将带来新的技术和商业范式。",
+      "sources": [
+        {
+          "name": "Stratechery (Ben Thompson)",
+          "url": "https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space/"
+        },
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/05/animal-spirits-a-fire-alarm-for-interest-rates/"
+        },
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/26/american-airlines-spacex-starlink.html"
+        }
+      ]
+    },
+    {
+      "title": "中国在AI人才和人形机器人领域加速，加剧全球科技竞争",
+      "summary": "中国每年培养数百万STEM专业毕业生，并在人形机器人技术研发上投入巨资，旨在通过削减工厂成本和建立竞争优势，这预示着中国在全球AI生产力和未来制造业领域将扮演更重要的角色。这种战略布局不仅可能改变全球供应链，也加剧了中美在科技领域的竞争。投资者需关注中国在关键技术领域的进展，及其对全球产业格局和资本流向的深远影响。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/why-america-is-losing-the-ai-productivity-war-to-3-5-million-chinese-stem-graduates-4ffeb298?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/america-is-losing-the-ai-productivity-war-to-3-5-million-chinese-stem-graduates-4ffeb298?mod=mw_rss_topstories"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/chinas-next-export-shock-walks-on-two-legs-and-costs-less-than-a-used-car-f0becf3f?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Jamie Dimon",
-      "title": "摩根大通CEO戴蒙表示公司正寻求高达200亿美元的收购机会",
-      "summary": "原话：「我们正在寻找机会」，并表示摩根大通可能进行高达200亿美元的收购。此举表明尽管市场充满不确定性，摩根大通仍具强大的扩张意愿，寻求通过战略性并购来巩固其市场领先地位。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/27/jamie-dimon-jpmorgan-chase-acquisition-target-size.html"
-        }
-      ]
-    },
-    {
       "name": "Ben Thompson",
-      "title": "Stratechery创始人本·汤普森解读SpaceX IPO和英伟达AI战略",
-      "summary": "观点：SpaceX IPO的传统财务模型可能难以完全支持其估值，但太空数据中心等长期愿景的实现可能性，足以构成其投资吸引力。此外，英伟达通过调整财报披露，区分超大规模云计算客户销售额与其他业务，反映出其在面临商品化挑战的同时，致力于在整个AI堆栈中保持主导地位的战略意图。",
+      "title": "对Nvidia财报和SpaceX IPO的战略解读",
+      "summary": "观点：Ben Thompson分析英伟达调整财报报告方式，旨在区分其在超大规模客户（商品化）和其它客户（全栈控制）中的销售情况，突显其在AI堆栈中的核心地位。对于SpaceX的IPO，他认为虽然现有财务模型难以完全支撑其估值，但太空数据中心等长期愿景可能足以证明其潜力。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
@@ -88,78 +101,75 @@
     },
     {
       "name": "Tyler Cowen",
-      "title": "经济学家泰勒·考恩论企业税率、AI就业影响及教皇的AI观点",
-      "summary": "观点：企业税率对人均GDP增长具有显著正向影响，其中公司税支柱是唯一的关键驱动因素。在AI对就业影响方面，他建议通过积极进行实验和测试新技术来适应AI时代，避免失业。此外，考恩还解读教皇利奥十四世的AI通谕，认为其暗示AI将成为常态，这反映了学界对AI深远社会影响的关注。",
+      "title": "关于AI时代就业和地缘经济的洞察",
+      "summary": "观点：经济学家Tyler Cowen提出，面对AI可能带来的失业风险，个人应积极拥抱实验精神，成为新思想和新技术的测试者以保持竞争力。同时，他推荐了一本名为《如何赢得贸易战》的新书，探讨在全球经济焦虑背景下，通过出口限制等策略应对贸易冲突的乐观指南，反映了对全球贸易格局的深入思考。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/seven-ways-to-avoid-losing-your-job-to-ai.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/seven-ways-to-avoid-losing-your-job-to-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=seven-ways-to-avoid-losing-your-job-to-ai"
         },
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-corporate-tax-rate-really-matters.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/how-to-win-a-trade-war-an-optimistic-guide-to-an-anxious-global-economy.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-win-a-trade-war-an-optimistic-guide-to-an-anxious-global-economy"
         },
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/tuesday-assorted-links-570.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/tuesday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-570"
+        }
+      ]
+    },
+    {
+      "name": "Pope Leo XIV",
+      "title": "梵蒂冈对人工智能伦理发出警告",
+      "summary": "观点：教皇利奥十四世发布了一项关于人工智能的通谕，对科技巨头提出了警示，呼吁关注AI发展的伦理和社会影响。尽管这一举动可能不会直接减缓AI竞赛的速度，但它代表了全球权威机构对AI治理和人类价值观保护的深切关注，为科技伦理讨论增添了重要声音。",
+      "sources": [
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/05/26/business/dealbook/vatican-ai-silicon-valley.html"
+        }
+      ]
+    },
+    {
+      "name": "Jamie Dimon",
+      "title": "摩根大通寻求200亿美元的潜在收购",
+      "summary": "原话：「我们正在寻找收购机会」，摩根大通首席执行官杰米·戴蒙表示，公司可能斥资高达200亿美元进行收购。这笔交易将是摩根大通历史上最大规模的并购之一，可能引发监管机构的密切关注。戴蒙的此番表态暗示摩根大通正在积极寻求通过战略并购来扩张业务，这对于全球银行业格局具有潜在影响。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/27/jamie-dimon-jpmorgan-chase-acquisition-target-size.html"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/05/27/jamie-dimon-jpmorgan-chase-acquisition-target-size.html"
         }
       ]
     },
     {
       "name": "Sam Altman",
-      "title": "对OpenAI创始人萨姆·奥特曼“沉默文化”的治理风险担忧",
-      "summary": "观点：有分析指出，OpenAI最大的问题并非AI安全本身，而是其创始人萨姆·奥特曼所倡导的“沉默文化”。这种冲突规避的管理风格可能导致决策过程中的群体思维，对OpenAI的投资者构成巨大的公司治理和运营风险。此观点强调了AI公司在高速发展中可能面临的内部管理挑战。",
+      "title": "OpenAI企业文化被指为潜在投资风险",
+      "summary": "观点：OpenAI首席执行官萨姆·奥特曼被指其“冲突规避”的管理风格助长了公司内部的“沉默文化”，这可能对OpenAI的投资者构成一个被忽视的重大风险。这种文化被认为是导致群体思维和潜在企业责任问题的根源，引发了市场对这家领先AI公司治理结构和长期稳定性的担忧。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/openais-biggest-problem-isnt-ai-safety-its-sam-altman-068154aa?mod=mw_rss_topstories"
         }
       ]
-    },
-    {
-      "name": "Pope Leo XIV",
-      "title": "梵蒂冈发布AI通谕，警示科技巨头",
-      "summary": "观点：教皇利奥十四世发布了一份关于人工智能的通谕，对硅谷的科技巨头们提出了警告，呼吁社会关注AI技术的伦理和社会影响。尽管梵蒂冈的此举意在引导AI的健康发展，但其是否能有效减缓当前全球AI竞赛的速度，仍是市场和技术界关注的焦点。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/05/26/business/dealbook/vatican-ai-silicon-valley.html"
-        },
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/tuesday-assorted-links-570.html"
-        }
-      ]
     }
   ],
   "macro": [
     {
-      "title": "全球供应链危机加剧：霍尔木兹海峡关闭推高能源价格，影响全球经济增长",
-      "summary": "霍尔木兹海峡关闭已持续三个月，导致全球供应短缺加剧，尤其发展中国家受冲击严重，能源账单预计将大幅上涨。此次地缘政治事件不仅推高通胀，也威胁全球就业和经济增长，对多国央行的货币政策制定构成巨大挑战。投资者需密切关注能源市场动态及对企业盈利和消费者支出的影响。",
+      "title": "TIPS ETF在高通胀时期并非万无一失，投资者需警惕风险",
+      "summary": "尽管投资者在高通胀背景下纷纷涌向通胀保值债券ETF（TIPS ETF）以寻求保护，但市场分析指出，这类基金并非总能有效抵御通胀。受伊朗战争影响，消费物价通胀已达三年新高，TIPS的实际保护能力正受到考验。这提示投资者，即便是被设计用于抗通胀的产品，也存在市场波动和预期差风险，需审慎评估其真实效用。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/27/business/hormuz-global-shortages-gas.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/investors-are-rushing-to-buy-tips-etfs-to-beat-inflation-they-could-end-up-losing-7618d6e0?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "美联储公布贴现率会议纪要，审议经济与通胀前景",
-      "summary": "美联储于2026年4月召开的贴现率会议纪要显示，官员们在评估经济前景时仍面临不确定性，尤其关注通胀走势和就业市场状况。这些讨论为市场提供了央行内部对当前经济形势和未来货币政策路径的重要参考，对于判断未来利率走向和资产配置具有指导意义，表明央行在对抗通胀和支持增长之间寻求平衡的谨慎态度。",
-      "sources": [
-        {
-          "name": "Federal Reserve Press",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm"
-        }
-      ]
-    },
-    {
-      "title": "美国消费者面临物价上涨压力，六成民众削减食品开支",
-      "summary": "一项调查显示，61%的美国民众因通胀上涨而被迫削减食品杂货开支，超过75%的受访者（包括55%的共和党人）认为现任政府政策推高了生活成本，凸显了通胀对普通家庭的持续影响。消费者信心的下降和购买力受损可能预示着未来消费支出放缓，对零售业和整体经济增长构成压力。",
+      "title": "美国消费者信心受损，61%受访者表示削减食品开支",
+      "summary": "一项调查显示，61%的美国人表示不得不削减食品杂货开支，超过四分之三的受访者认为当前政策导致生活成本上升。这表明高通胀和能源价格飙升正严重影响美国消费者的购买力和信心，可能导致消费支出放缓，对整体经济增长构成下行压力。消费数据是衡量经济健康状况的关键指标，其疲软态势值得宏观经济分析师警惕。",
       "sources": [
         {
           "name": "NYT Economy",
@@ -168,40 +178,30 @@
       ]
     },
     {
-      "title": "企业税率对国家经济增长至关重要",
-      "summary": "研究表明，提升国家税收竞争力与人均GDP增长呈正相关，其中企业税率是唯一的显著驱动因素，对经济增长的影响是即时且持续的。这一发现强调了公司税政策在吸引投资、刺激商业活动和促进经济发展中的核心作用，对各国政府的财政政策制定具有重要参考价值。",
+      "title": "联合国探索替代GDP的经济繁荣衡量指标",
+      "summary": "联合国正在推进一项新计划，旨在将经济收益与健康和环境进步相结合，以此作为衡量国家繁荣的替代指标，以弥补传统GDP衡量方法的缺陷。当前各国政府正日益意识到，GDP并不能全面反映一个社会的福祉和可持续发展水平。这一趋势预示着未来宏观经济分析和政策制定将更加注重多维度考量，对环境、社会和治理（ESG）投资理念产生积极影响。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-corporate-tax-rate-really-matters.html"
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/05/26/business/economy/gdp-united-nations-prosperity-measures.html"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "英伟达调整财报披露，聚焦AI堆栈和超大规模客户差异化",
-      "summary": "英伟达正在调整其报告结构，旨在区分其对超大规模云计算厂商的销售（面临商品化竞争）与其他客户的销售（英伟达掌控整个技术堆栈）。这一变化反映了公司在AI市场不同领域采取的差异化战略，试图在竞争日益激烈的AI芯片市场中，更清晰地展示其价值主张和盈利能力。",
+      "title": "英伟达调整财报报告方式，凸显AI计算堆栈战略",
+      "summary": "英伟达正在改变其财报报告方式，以明确区分超大规模客户销售和其余客户销售。此举旨在突出公司在AI计算堆栈中的战略地位：在超大规模客户领域，英伟达面临日益商品化的竞争；而在其他领域，公司则能更好地控制整个技术堆栈。这种透明度有助于投资者更清晰地理解英伟达的增长动力和市场策略，以及其如何应对不同市场段位的挑战。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/nvidia-earnings-the-ai-stack-nvidias-new-reporting/"
+          "url": "https://stratechery.com/2026/05/nvidia-earnings-the-ai-stack-nvidias-new-reporting/"
         }
       ]
     },
     {
-      "title": "微软被传或转向Anthropic，挑战OpenAI主导地位",
-      "summary": "HSBC分析师指出，微软与Anthropic的新合作可能在2030年前为Azure带来高达430亿美元的收入机会。这引发了市场猜测，认为微软可能减少对OpenAI的依赖，转而支持Anthropic，这将重塑AI领域的竞争格局，并对OpenAI的长期战略伙伴关系构成潜在威胁。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/is-microsoft-ditching-openai-for-anthropic-0cd57021?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "AI模型交易平台OpenRouter获Alphabet系投资1.13亿美元",
-      "summary": "OpenRouter作为一个帮助企业选择不同AI模型的交易平台，获得Alphabet投资部门1.13亿美元融资。这笔投资表明市场对AI模型市场化、标准化以及企业级AI部署工具的需求日益增长。OpenRouter有望成为连接AI开发者和企业用户的重要桥梁，进一步推动AI技术的商业化应用。",
+      "title": "AI模型交易平台OpenRouter获1.13亿美元融资",
+      "summary": "人工智能模型交易平台OpenRouter成功完成1.13亿美元融资，Alphabet旗下的一家投资机构领投。OpenRouter帮助企业在数百种不同的软件任务模型中进行选择，大大简化了AI模型的应用和部署。此次融资表明资本市场对AI基础设施和平台解决方案的持续看好，此类平台有望加速AI技术在各行各业的商业化落地。",
       "sources": [
         {
           "name": "NYT DealBook",
@@ -210,8 +210,18 @@
       ]
     },
     {
-      "title": "AI代理进军个人金融，可在Robinhood交易并绑定信用卡消费",
-      "summary": "新产品允许用户创建AI助手，这些助手能够以最少的人工干预执行投资策略或消费指令，甚至可以绑定信用卡进行消费。这标志着AI在个人金融服务领域应用迈出重要一步，提高了金融自动化的便利性，但同时引发了对数据安全、风险管理和算法伦理的广泛关注。",
+      "title": "教师工会呼吁限制AI聊天机器人和屏幕使用时间",
+      "summary": "美国教师联合会建议小学二年级及以下学生避免使用屏幕，并全面禁止小学生使用AI聊天机器人。此举反映出教育界对AI工具和数字设备在儿童发展中作用的担忧。尽管AI在教育领域潜力巨大，但其对学习、认知和社会发展的影响仍需谨慎评估和监管。这一呼吁可能促使科技公司在开发面向儿童的AI产品时更加注重伦理和教育适宜性。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/27/technology/ai-screens-schools-weingarten.html"
+        }
+      ]
+    },
+    {
+      "title": "AI代理可在Robinhood进行交易，引发金融科技新趋势",
+      "summary": "金融科技领域出现新进展，客户现在可以通过AI代理在Robinhood等平台进行股票交易，甚至使用信用卡购物。这种新产品允许用户创建AI助手，以最小的人工干预执行投资策略或消费指令。虽然提升了便利性，但也引发了对AI在金融决策中作用的伦理、风险控制和监管挑战的讨论，预示着自动化投资和个人金融管理将进入新阶段。",
       "sources": [
         {
           "name": "CNBC Finance",
@@ -220,20 +230,92 @@
       ]
     },
     {
-      "title": "美国教师工会建议限制AI聊天机器人和屏幕使用",
-      "summary": "美国教师联合会建议二年级及以下学生避免使用屏幕，并禁止小学生使用AI聊天机器人。此举反映了教育界对AI工具和数字设备潜在负面影响的担忧，尤其关注其对儿童认知发展和学习效果的长期影响。该建议可能影响AI在教育科技领域的推广和应用策略。",
+      "title": "道德黑客警告AI工具加剧网络安全竞争难度",
+      "summary": "一位顶级道德黑客Chompie警告称，AI工具如Claude Mythos等将使网络安全领域的竞争变得更加困难。这意味着随着AI技术在攻击和防御两端的广泛应用，网络安全攻防的门槛和复杂性都将大幅提升。企业和政府需要加大对AI驱动的网络安全解决方案的投资，以应对日益复杂的威胁格局，相关技术提供商将迎来新的市场机遇。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/27/technology/ai-screens-schools-weingarten.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "法拉利首款电动汽车“Luce”引争议，股价受挫",
-      "summary": "法拉利推出首款纯电动汽车Luce，却在意大利内外引发强烈反对和嘲讽，分析师质疑其吸引力，投资者也抛售公司股票。一名前法拉利董事长甚至警告此举可能“摧毁传奇”。此事件凸显了传统奢侈品牌在电动化转型中面临的品牌传承与市场接受度之间的巨大挑战。",
+      "title": "盈利高增长或难阻熊市，历史数据警示美股面临风险",
+      "summary": "分析指出，即便当前标准普尔500指数成分股呈现两位数的盈利增长，也可能无法阻止下一轮熊市的到来。历史经验表明，强劲的盈利增长往往出现在牛市的后期阶段，预示着股市可能处于“薄冰”之上。这一观点提醒投资者，在当前市场高位和乐观情绪下，需警惕潜在的周期性风险，并重新评估其投资组合的防御性。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/why-double-digit-earnings-growth-wont-stop-the-next-bear-market-791ae3ef?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "网络安全公司Zscaler业绩展望不及预期，股价创历史最大跌幅",
+      "summary": "网络安全公司Zscaler因其令人失望的营收展望，股价遭遇创纪录的单日下跌，跌幅超过31%。投资者对其前景的担忧引发了市场的强烈反应。这一事件突显了即使在前景看好的网络安全领域，公司的执行力和对市场预期的管理也至关重要。业绩不及预期可能预示着行业竞争加剧或宏观经济逆风对软件支出的影响。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/zscalers-stock-seeing-record-drop-after-investors-are-blindsided-by-a-disappointing-outlook-b010fa72?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "零售业财报喜忧参半：Abercrombie超预期，AutoZone和Dick's承压",
+      "summary": "美国零售业公司财报表现分化：Abercrombie & Fitch因超预期业绩股价跳涨12%， رغم伊朗冲突影响其在欧洲、中东和非洲的销售。然而，汽车配件零售商AutoZone股价创四年新低，受制于国际增长、利润压力、通胀和能源成本。Dick's Sporting Goods虽然营收增长，但收购Foot Locker后的整合成本拖累了盈利能力。这表明宏观环境和并购整合对不同零售商的影响不一。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/27/abercrombie-fitch-anf-earnings-q1-2026.html"
+        },
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/26/autozone-stock-on-pace-for-worst-trading-day-since-march-2020.html"
+        },
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/27/dicks-sporting-goods-dks-earnings-q1-2026.html"
+        }
+      ]
+    },
+    {
+      "title": "波音公司称已达标提升737 Max飞机产量至每月47架",
+      "summary": "波音公司首席执行官Kelly Ortberg表示，公司已达到美国联邦航空管理局（FAA）的要求，可以将737 Max飞机的月产量提升至47架。这一里程碑标志着波音在克服此前生产和安全问题后，产能正在稳步恢复。对于这家航空巨头而言，提高产量对其营收和市场份额至关重要，也为全球航空业的复苏提供了积极信号。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/27/boeing-ortberg-737-max-production.html"
+        }
+      ]
+    },
+    {
+      "title": "美国航空选择SpaceX星链提供机上Wi-Fi服务",
+      "summary": "美国航空公司宣布，将在其超过500架飞机上安装SpaceX的星链（Starlink）卫星互联网服务，以提供机上Wi-Fi。这项合作标志着星链在商业航空领域的进一步扩张，也预示着高速机上互联服务将成为航空公司提升客户体验的重要卖点。对于SpaceX而言，这是其卫星互联网业务实现规模化商业应用的关键一步，有望改变航空旅行的连接方式。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/26/american-airlines-spacex-starlink.html"
+        }
+      ]
+    }
+  ],
+  "a_stocks": [
+    {
+      "title": "中国电池制造商亿纬锂能（Calb）在欧洲投资20亿欧元建厂",
+      "summary": "中国电池制造商亿纬锂能（Calb）已开始在欧洲建设一座价值20亿欧元的超级工厂。此举显示中国新能源企业正积极拓展海外市场，以满足全球电动汽车电池日益增长的需求。这项投资不仅将加强亿纬锂能在国际供应链中的地位，也反映了全球电动车产业向欧洲市场倾斜的趋势，对A股相关供应链企业及欧洲当地经济都具有重要意义。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/wednesday-assorted-links-555.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-555"
+        }
+      ]
+    }
+  ],
+  "business": [
+    {
+      "title": "法拉利首款电动车“Luce”引争议，股价下跌",
+      "summary": "法拉利发布了其首款电动车型“Luce”，但在意大利乃至全球市场引发强烈反弹。社交媒体上出现大量嘲讽，分析师对其吸引力提出质疑，投资者也纷纷抛售该汽车制造商的股票。一名前法拉利董事长甚至警告称，这可能导致“一个传奇的毁灭”。这一事件凸显了传统奢侈品牌在向电动化转型时面临的品牌定位、消费者预期和市场接受度等挑战。",
       "sources": [
         {
           "name": "NYT Business",
@@ -246,38 +328,28 @@
       ]
     },
     {
-      "title": "美国航空选择SpaceX Starlink提供机上Wi-Fi服务",
-      "summary": "美国航空宣布将为旗下超过500架飞机安装SpaceX的星链（Starlink）系统，提供机上Wi-Fi。此合作预示着星链在商业航空领域的进一步扩张，有望提升航空旅客的互联体验。对于SpaceX而言，这也是其卫星互联网服务商业化和营收多元化的重要里程碑。",
+      "title": "加密货币公司和汽车制造商在美国寻求银行牌照",
+      "summary": "在美国白宫的鼓励和监管放松的背景下，多家加密货币公司和汽车制造商已申请银行牌照，寻求进入银行业。这一趋势表明，非传统金融机构和大型企业正在寻求更深层次的金融服务整合，可能重塑传统银行业的竞争格局。对于加密货币公司而言，获得银行牌照有助于规避现有监管障碍；对汽车制造商而言，则可更好地控制金融服务链，例如汽车贷款和保险。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/26/american-airlines-spacex-starlink.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/27/business/bank-charters-fintech-crypto.html"
         }
       ]
     },
     {
-      "title": "Momentus股价两日内上涨近两倍，获投资者追加融资",
-      "summary": "专注于太空运输和基础设施的Momentus公司通过私募方式获得更多资金，其股价在两天内几乎翻了三倍。这显示出投资者对新兴太空经济和Momentus在轨道服务领域前景的强烈看好。尽管公司规模相对较小，但其快速增长和资本吸引力反映了太空技术市场的活力。",
+      "title": "三星工会批准薪资协议，凸显AI时代收入不平等",
+      "summary": "三星工会批准了一项薪资协议，该协议几乎保证了表现最佳的芯片部门员工将获得丰厚奖金，而其他部门的工人则感到被排除在外。这突显了AI时代下，高科技领域内部日益加剧的收入不平等问题。随着AI对公司利润贡献的提升，芯片等核心技术部门的员工价值被放大，而其他传统业务部门的员工可能面临收入增长停滞，这将对企业内部凝聚力和社会公平性提出挑战。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/momentuss-stock-nearly-triples-in-2-days-as-the-space-company-raises-more-cash-from-investors-b2c9a088?mod=mw_rss_topstories"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/27/world/asia/samsung-ai-profit-bonus-workers.html"
         }
       ]
     },
     {
-      "title": "博音CEO称已满足FAA要求，可将737 Max月产量提升至47架",
-      "summary": "波音公司CEO Kelly Ortberg表示，公司已满足美国联邦航空管理局（FAA）的要求，可以将737 Max系列飞机的月产量提高到47架。这标志着波音在经历疫情和一系列安全事件后，产能恢复迈出重要一步，对其供应链和航空公司客户都具有积极意义，预示着航空制造业的逐步复苏。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/27/boeing-ortberg-737-max-production.html"
-        }
-      ]
-    },
-    {
-      "title": "Lululemon与创始人结束代理权之争，同意任命两位董事会成员",
-      "summary": "Lululemon与创始人Chip Wilson长达数月的代理权之争达成和解，公司同意任命两名董事会成员。此举有望稳定公司治理，解决内部争议，使公司能够重新聚焦其战略愿景和市场扩张。对于投资者而言，这意味着Lululemon未来运营的不确定性有所降低。",
+      "title": "Lululemon与创始人Chip Wilson和解，同意新增董事会成员",
+      "summary": "运动服饰品牌Lululemon与创始人Chip Wilson之间的代理权之争已达成和解，公司同意提名两名由Wilson推荐的董事会成员。此前，Wilson一直批评公司失去了战略愿景并需要新的董事会。此次和解结束了长达数月的公司治理僵局，可能为Lululemon带来新的战略方向和公司领导层变化，对投资者而言，这将影响公司未来的运营和股价表现。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -286,106 +358,24 @@
       ]
     }
   ],
-  "a_stocks": [
+  "overlooked": [
     {
-      "title": "中国电池制造商蜂巢能源（CALB）将在欧洲建设20亿欧元超级工厂",
-      "summary": "中国电池制造商蜂巢能源（CALB）已在欧洲启动一项20亿欧元的超级工厂项目。这不仅是中国企业在全球新能源供应链中的重要布局，以满足欧洲日益增长的电动汽车市场需求，也反映了欧洲在电动汽车电池本土化生产上的努力，预示着全球新能源产业的竞争格局和区域化生产趋势。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/wednesday-assorted-links-555.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-555"
-        }
-      ]
-    },
-    {
-      "title": "美国正输掉与中国的AI生产力之战，面临人才流失与结构性问题",
-      "summary": "一份报告指出，由于中国每年培养350万STEM毕业生，美国在AI生产力竞赛中正面临落后于中国的风险。报告认为，美国大型科技公司的结构性错误和人才危机是主要原因，这不仅可能影响美国在全球科技领导力中的地位，也对美国科技投资者构成长期风险。这一趋势突显了AI时代下地缘政治与科技竞争的复杂性。",
+      "title": "AI数据中心加速电力消耗，可能推高公共事业费用",
+      "summary": "随着AI技术的发展和数据中心建设的加速，其对电力需求的巨大消耗正悄然影响着美国的电网。这种趋势可能导致普通社区的公共事业费用上涨，引发对AI技术经济和社会成本的重新评估。投资者应关注AI产业增长对能源基础设施的压力，以及其可能引发的公用事业投资和监管变化，这可能成为未来能源市场的重要驱动因素。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/why-america-is-losing-the-ai-productivity-war-to-3-5-million-chinese-stem-graduates-4ffeb298?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "三星工会通过薪酬协议，凸显AI时代下的收入不平等",
-      "summary": "三星工会通过一项薪酬协议，几乎保证了表现最佳的芯片部门员工将获得丰厚奖金，而其他部门的员工则感到被忽视。这一事件不仅揭示了AI繁荣时代下，不同业务部门间利润分配和员工薪酬不平等的结构性问题，也可能对企业内部凝聚力和社会公平性产生长期影响。",
+      "title": "SEC投资者咨询委员会将讨论私募市场与被动指数基金",
+      "summary": "美国证券交易委员会（SEC）的投资者咨询委员会将于6月4日召开公开会议，讨论私募市场、被动指数基金以及与基金相关的建议。此次会议表明监管机构正密切关注私募市场日益增长的规模和复杂性，以及被动指数基金对市场结构和公司治理的影响。这些讨论结果可能导致新的监管政策出台，从而影响高净值投资者在另类资产和被动投资领域的策略。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/27/world/asia/samsung-ai-profit-bonus-workers.html"
-        }
-      ]
-    }
-  ],
-  "business": [
-    {
-      "title": "英国石油（BP）主席被罢免，公司称因“严重行为问题”",
-      "summary": "英国石油公司（BP）主席Albert Manifold被突然罢免，公司称是由于“与重要治理标准、监督和行为相关的严重担忧”。尽管Manifold本人否认并表示“没有解释”，但此事件凸显了大型企业高层治理和道德合规的重要性，以及对董事会行为规范的日益严格的审视，可能对BP的声誉和投资者信心造成影响。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/05/26/business/bp-chairman-manifold.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/27/business/bp-albert-manifold.html"
-        }
-      ]
-    },
-    {
-      "title": "加密货币公司和汽车制造商在特朗普政府鼓励下寻求银行牌照",
-      "summary": "在白宫的敦促和监管放松的背景下，加密货币公司和汽车制造商纷纷申请银行牌照，寻求进入传统金融领域。此举将模糊不同行业界限，可能对金融监管格局产生深远影响，并引发关于创新与风险平衡的讨论。这也反映了这些行业希望通过自建银行服务来更好地控制其金融生态系统。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/27/business/bank-charters-fintech-crypto.html"
-        }
-      ]
-    },
-    {
-      "title": "Abercrombie & Fitch财报超预期，但中东冲突影响欧洲销售",
-      "summary": "服装零售商Abercrombie & Fitch（A&F）公布的财报超出市场预期，股价跳涨13%。然而，公司指出，欧洲、中东和非洲地区的销售额下降了10%，主要原因在于中东地区的冲突。这突显了全球地缘政治事件对零售企业国际业务的直接影响，即使整体表现强劲，区域性风险仍不可忽视。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/27/abercrombie-fitch-anf-earnings-q1-2026.html"
-        }
-      ]
-    }
-  ],
-  "overlooked": [
-    {
-      "title": "联合国探索GDP替代指标，推动更全面的经济繁荣评估",
-      "summary": "联合国正在制定新计划，旨在将健康和环境进步纳入经济收益考量，作为GDP的替代衡量标准。此举是对传统经济增长模式的反思，试图纠正GDP作为单一指标的局限性。未来全球经济政策制定者可能更关注可持续发展和福祉，这代表了衡量经济成功方式的结构性转变，对长期投资策略有潜在影响。",
-      "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/05/26/business/economy/gdp-united-nations-prosperity-measures.html"
-        }
-      ]
-    },
-    {
-      "title": "农民面临乳制品价格低于成本困境，家庭农场或面临出售风险",
-      "summary": "由于牛奶价格跌破生产成本，农民警告称，除非乳制品价格迅速上涨，否则更多家庭农场将面临出售的风险。这反映了农业部门面临的商品价格波动和生存压力，尤其是在能源和运输成本上升的背景下。此情况可能影响未来的食品供应稳定性和农村经济的结构性变化，值得关注。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c5ye37jrk3go?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "加密货币公司与汽车制造商积极申请银行牌照，预示跨行业融合新趋势",
-      "summary": "在监管环境趋向宽松的背景下，加密货币公司和汽车制造商积极寻求银行牌照，试图通过建立自己的银行部门，直接控制金融服务或资金流。这不仅标志着行业边界的模糊化，可能导致金融服务与非金融行业的深度融合，也可能带来新的监管套利机会和竞争格局，值得关注其长期演变。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/27/business/bank-charters-fintech-crypto.html"
+          "name": "SEC Press",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-48-sec-investor-advisory-committee-host-june-4-meeting"
         }
       ]
     }
