@@ -1,89 +1,78 @@
 {
   "top5": [
     {
-      "title": "AI对经济贡献显著，增速超2000%，已达2500亿美元名义GDP",
-      "summary": "经济学家Tyler Cowen指出，质量调整后的AI生产在美国于2024年和2025年实现年均超2000%的惊人增长，主要由数据中心扩容、硬件效率提升和算法进步驱动。AI部门的初步名义GDP估算已达约2500亿美元。这为什么重要：AI正以前所未有的速度成为经济增长的新引擎，其规模和增速预示着对全球经济结构和产业格局的深远影响，值得投资者密切关注其商业化进程和潜在的投资机会。",
+      "title": "Anthropic估值逼近万亿美元，超越OpenAI成为全球最具价值AI初创公司",
+      "summary": "AI初创公司Anthropic在新一轮融资中筹集650亿美元，使其估值达到9000亿美元，超越OpenAI此前的7300亿美元估值，标志着AI领域竞争的白热化。这反映出投资者对生成式AI技术的巨大信心及市场对头部AI公司稀缺性的追逐，将进一步加速AI技术创新与应用落地，对全球科技投资格局产生深远影响。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/ai-in-gdp.html"
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/anthropic-nears-1-trillion-valuation-leapfrogging-openai-ac2dc81f?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "伊朗战争推升美国通胀至2023年以来高点，央行考虑加息",
-      "summary": "地缘政治紧张局势加剧，伊朗战争导致美国第二次关键通胀指标（可能指PCE或CPI相关数据）升至2023年以来的最高水平。面对通胀持续上升的压力，美联储官员已表示正在考虑通过提高利率来抑制通胀。这为什么重要：全球地缘冲突直接冲击供应链和能源价格，使得通胀压力卷土重来，可能迫使美联储采取更激进的紧缩政策，对全球股市、债市和经济增长预期都将带来显著影响。",
+      "title": "中东冲突导致美国通胀二次抬头，达2023年以来最高水平",
+      "summary": "受中东地区冲突影响，美国一项关键通胀指标升至2023年以来最高水平。美联储官员已表示可能需要维持较高利率以遏制通胀反弹。此次通胀抬头预示着地缘政治风险对宏观经济的直接冲击，可能迫使美联储在降息路径上更为谨慎，并增加市场对高利率环境持续的担忧，对全球资产定价构成压力。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/05/28/business/inflation-pce-gauge.html"
-        }
-      ]
-    },
-    {
-      "title": "记忆芯片主导AI热潮，三大生产商市值冲上万亿美元",
-      "summary": "随着AI技术的高速发展，高性能记忆芯片的需求激增，推动美光（Micron）、三星（Samsung）和SK海力士（SK Hynix）这三大主要记忆芯片生产商的市值均已突破万亿美元大关。这为什么重要：记忆芯片已成为AI算力基础设施不可或缺的核心组件，其市场表现是观察AI产业投资热度和技术演进方向的重要风向标。这表明AI不仅驱动了处理器芯片的需求，也极大地提升了存储技术在产业链中的战略地位。",
-      "sources": [
+        },
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/05/27/business/dealbook/ai-chips-war-samsung-micron.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-iran-war-costs-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "SpaceX与Anthropic签订AI算力协议，但马斯克称其为短期合作，IPO前景引发讨论",
-      "summary": "SpaceX与AI公司Anthropic达成一项大型AI算力合作协议，但首席执行官埃隆·马斯克表示该协议是“短期”的，而非此前市场预期的长期合作。同时，Ben Thompson指出SpaceX的IPO缺乏清晰的财务模型支撑其当前高估值，但其“太空数据中心”的远景仍具吸引力。这为什么重要：这揭示了AI算力市场快速变化的格局和灵活的商业策略，同时也反映了投资者对SpaceX这一高科技巨头IPO的复杂考量，即技术愿景与传统财务逻辑之间的权衡。",
+      "title": "戴尔AI服务器营收飙升757%，Q1财报远超预期股价创新高",
+      "summary": "戴尔第一季度业绩大幅超出华尔街预期，主要得益于其AI服务器营收同比增长757%。公司利润创下至少五年来的最大超预期幅度，推动股价创下历史新高。这凸显了AI热潮对硬件基础设施的强劲需求，戴尔作为关键供应商显著受益。其业绩表现进一步证明了AI技术对企业盈利和市场估值的强大驱动力，是当前科技投资的明确风向标。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/spacexs-major-ai-compute-deal-with-anthropic-could-end-a-lot-sooner-than-expected-30f46b83?mod=mw_rss_topstories"
-        },
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space/"
+          "url": "https://www.marketwatch.com/story/dell-stock-soars-toward-another-record-high-as-the-ai-boom-drives-a-big-earnings-beat-b7c0c203?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "中国电商平台Temu因销售不安全商品在欧盟被罚逾2.3亿美元",
-      "summary": "拼多多旗下的跨境电商平台Temu因未能遵守欧盟法规，被发现销售大量不安全商品，包括婴儿玩具和有缺陷的充电器等，因此被欧盟委员会处以超过2.3亿美元的巨额罚款。这为什么重要：此罚款不仅对Temu在欧洲市场的声誉和运营构成重大打击，也凸显了全球监管机构对新兴跨境电商平台产品安全和消费者保护的日益严格的审查，可能影响中国电商企业出海的战略和成本。",
+      "title": "CVS Health将恢复覆盖礼来GLP-1减肥药，扩大数百万美国人可及性",
+      "summary": "CVS Health宣布将于10月1日恢复对礼来旗下Zepbound减肥注射剂的覆盖，并从6月1日起将礼来新批准的Foundayo口服减肥药纳入其药品计划。此举意味着数百万美国人将更容易获得这些热门的GLP-1药物，对礼来等制药公司是重大利好，也预示着减肥药物市场规模将进一步扩大。这反映出医疗保健行业对创新疗法的快速采纳以及市场对有效减肥方案的巨大需求。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/28/business/temu-fine-european-union.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/lillys-glp-1-medications-will-soon-be-covered-by-cvs-potentially-opening-access-for-millions-of-americans-b7704707?mod=mw_rss_topstories"
         },
         {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/28/cvs-covers-zepbound-adds-eli-lilly-foundayo.html"
+        }
+      ]
+    },
+    {
+      "title": "美国与伊朗和平谈判取得进展报道，国际油价承压下跌",
+      "summary": "有报道称美国与伊朗之间的停火谈判取得突破，这使得国际油价周四出现下跌。尽管美国原油价格小幅上涨，但整体市场反应显示对供应增加的预期。此次油价波动凸显了地缘政治局势对全球能源市场的高度敏感性，任何和平进展都可能改变供应预期，从而影响原油价格，对全球通胀和经济增长带来不确定性。",
+      "sources": [
+        {
           "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c1k2ydn1rz8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/oil-prices-show-mixed-reaction-as-white-house-backs-report-on-progress-toward-iran-peace-deal-4d20336b?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Tyler Cowen",
-      "title": "经济学家Tyler Cowen：AI经济产出惊人增长，个人需培养实验精神应对变革",
-      "summary": "观点：Tyler Cowen指出，AI技术在2024-2025年实现惊人的质量调整增长，年均增速超2000%，初步估算其名义GDP贡献达2500亿美元。他强调，为避免在AI时代失业，个人应培养“实验精神”，成为新想法和新技术的测试者，并鼓励跨学科学习和创新，以适应AI带来的结构性变革。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/ai-in-gdp.html"
-        },
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/seven-ways-to-avoid-losing-your-job-to-ai.html"
-        }
-      ]
-    },
-    {
       "name": "Ben Thompson",
-      "title": "科技分析师Ben Thompson：SpaceX IPO财务模型存疑，但太空数据中心前景可期",
-      "summary": "观点：Ben Thompson分析认为，目前尚无清晰的财务模型能够完全支持SpaceX进行IPO的估值合理性。然而，他同时指出，将数据中心部署到太空这一概念具有长期吸引力，可能为公司提供足够的增长潜力。此外，在他与Eric Seufert的访谈中，讨论了Meta基础模型的重要性及其在广告领域对人类未来带来的乐观前景。",
+      "title": "Stratechery创始人：AI模型与广告业的深度融合将带来人类未来乐观前景",
+      "summary": "观点：Ben Thompson在其Stratechery访谈中与Eric Seufert探讨了生成式AI模型的构建、Meta基础模型的重要性，以及为何深入理解广告业能让人对人类未来持乐观态度。他认为AI模型将深刻改变广告业的运作方式，提升效率与个性化水平，并可能为人类社会带来积极的长期影响，这是对AI商业化前景与社会价值的独到洞察。",
       "sources": [
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space/"
-        },
         {
           "name": "Stratechery (Ben Thompson)",
           "url": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-models-and-ads-and-ais-upside-for-humanity/"
@@ -91,20 +80,20 @@
       ]
     },
     {
-      "name": "Elon Musk",
-      "title": "埃隆·马斯克：SpaceX与Anthropic的AI算力协议为“短期”合作",
-      "summary": "原话：「SpaceX与AI公司Anthropic达成的AI算力合作协议是“短期”的。」马斯克此言打破了市场此前对该协议可能持续多年的预期，暗示在快速变化的AI算力市场中，即使是大型合作也可能具有较高的灵活性和不确定性。",
+      "name": "Tyler Cowen",
+      "title": "经济学家指出AI对GDP贡献巨大，2024-2025年AI产出增长超2000%",
+      "summary": "观点：Tyler Cowen引用研究指出，在质量调整后，美国AI产业在2024年和2025年以每年超过2000%的速度增长，主要得益于数据中心容量扩张、硬件效率提升和算法进步。他估计名义AI GDP约为2500亿美元。这表明AI并非仅是技术热点，而是对经济增长产生实质性影响的强大力量，其高速发展将重塑经济结构，对投资者评估未来增长潜力至关重要。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/spacexs-major-ai-compute-deal-with-anthropic-could-end-a-lot-sooner-than-expected-30f46b83?mod=mw_rss_topstories"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/ai-in-gdp.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-gdp"
         }
       ]
     },
     {
       "name": "Jamie Dimon",
-      "title": "摩根大通CEO戴蒙：正寻找高达200亿美元的收购目标",
-      "summary": "原话：「摩根大通正积极寻求规模达200亿美元的收购目标，我们正在寻找机会。」戴蒙表示，若此笔交易达成，将是摩根大通历史上规模最大的收购之一，预计会引来监管机构的严格审查。这一表态表明摩根大通在全球金融服务领域仍具备强劲的扩张野心。",
+      "title": "摩根大通CEO表示愿斥资200亿美元进行收购",
+      "summary": "原话：「我们正在寻找收购目标」。摩根大通首席执行官Jamie Dimon表示，公司可能会斥资200亿美元进行收购。他强调，尽管这可能面临监管审查，但公司始终在寻求战略性扩张机会。这表明在当前市场环境下，摩根大通等大型金融机构仍有强劲的资本实力和扩张意愿，其潜在收购行动可能引发行业整合，改变竞争格局。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -114,9 +103,13 @@
     },
     {
       "name": "Ben Carlson",
-      "title": "Ben Carlson：债券收益率上升敲响警钟，但AI乐观情绪仍在",
-      "summary": "观点：Ben Carlson在播客中探讨了债券收益率上升的利弊，并将其比作“火警警报”，暗示市场对利率前景的担忧。尽管如此，他对AI的乐观情绪依旧存在。他还讨论了SpaceX的IPO、指数基金持有者、消费者信心变化等多个市场热点。",
+      "title": "投资者需关注高波动性市场下的心态调整及长期回报",
+      "summary": "观点：Ben Carlson在“A Wealth of Common Sense”中强调，尽管短期市场波动可能带来压力，但投资者应关注长期视角和资产配置的韧性。他分析了高利率环境对债券收益率的影响以及AI乐观情绪下的市场表现。他的建议在于引导投资者理性看待市场涨跌，避免因情绪化决策而错过长期价值增长，对高净值投资者在不确定时期保持策略定力具有参考价值。",
       "sources": [
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/05/how-to-reduce-stock-market-stress/"
+        },
         {
           "name": "A Wealth of Common Sense (Ben Carlson)",
           "url": "https://awealthofcommonsense.com/2026/05/animal-spirits-a-fire-alarm-for-interest-rates/"
@@ -126,64 +119,30 @@
   ],
   "macro": [
     {
-      "title": "全球通胀因地缘冲突升温，央行考虑进一步加息",
-      "summary": "受伊朗战争等地缘政治冲突影响，美国一项重要通胀指标（第二次通胀读数）已升至2023年以来的最高水平。面对通胀持续上升的压力，央行官员们已公开表示不排除采取更高的利率政策来控制通胀。这表明地缘政治风险对全球经济的冲击正在传导至物价，并可能导致全球主要经济体货币政策的进一步收紧。",
+      "title": "俄罗斯通过法案，授权央行及金融机构使用防御系统抵御无人机袭击",
+      "summary": "俄罗斯议会下院通过一项法案，允许其央行及其他金融机构部署和操作防御系统以抵御无人机袭击。此举旨在应对乌克兰日益增加的无人机攻击，保护国家关键金融基础设施。这不仅是地缘政治紧张加剧的体现，也揭示了现代战争形态对金融系统运营安全带来的新挑战，可能促使其他国家重新评估其金融基础设施的防御策略，增加相关安全投入。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/28/business/inflation-pce-gauge.html"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/those-new-service-sector-economics-jobs.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-economics-jobs"
         }
       ]
     },
     {
-      "title": "美伊和谈进展报道致国际油价下跌",
-      "summary": "有报道称美国与伊朗在停火协议方面取得突破性进展，且可能获得美国前总统特朗普的批准，消息传出后，全球原油价格应声下跌。此前，油价因地缘冲突加剧而上涨。这突显了中东地区局势对全球能源市场的高度敏感性，以及地缘政治风险溢价对大宗商品价格的直接影响。",
+      "title": "全球青年失业问题严峻，报告警示“失落的一代”风险",
+      "summary": "一份重要报告指出，全球范围内年轻人的就业机会正在萎缩，预计到2031年，16至24岁未就业、未受教育或未接受培训的人数将增至125万。这份报告警示可能出现“失落的一代”，对长期经济增长和社会稳定构成威胁。青年失业率上升将导致人力资本流失、消费能力下降，对全球经济复苏和潜在增长率带来结构性挑战，值得宏观经济政策制定者高度关注。",
       "sources": [
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/oil-prices-turn-lower-as-white-house-backs-report-on-progress-toward-iran-peace-pact-4d20336b?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "美国房贷利率微升至6.53%，购房者承压",
-      "summary": "美国抵押贷款利率周四小幅上升至6.53%。尽管目前利率仍低于一年前的水平，但对于面临高房价和高利率双重压力的春季购房者来说，这无疑是又一个打击。持续较高的房贷利率可能会进一步抑制美国房地产市场的活跃度，并对购房者的负担能力构成挑战。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/mortgage-rates-inch-up-to-6-53-the-latest-blow-for-sidelined-spring-buyers-cccc71a9?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "美国月度汽车贷款超1000美元数量增长，非豪华车占比高",
-      "summary": "数据显示，越来越多的美国消费者每月汽车贷款支付额超过1000美元，并且其中大部分贷款并非用于购买豪华车型，而是福特F-150、雪佛兰Silverado 1500和Ram 1500等热门皮卡。这表明在通胀和高利率环境下，美国普通家庭的债务负担正在加重，可能对未来消费支出和经济稳定性产生负面影响。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/28/monthly-auto-loan-payments-above-1000-growing.html"
-        }
-      ]
-    },
-    {
-      "title": "SEC投资者咨询委员会将讨论私有市场与被动指数基金",
-      "summary": "美国证券交易委员会（SEC）的投资者咨询委员会将于6月4日召开公开会议，重点讨论私有市场和被动指数基金的相关议题，并提出基金监管建议。这一举动表明监管机构正密切关注私有市场快速扩张带来的潜在风险，以及被动投资在市场中日益增长的影响力，可能预示着未来相关领域的政策调整。",
-      "sources": [
-        {
-          "name": "SEC Press",
-          "url": "https://www.sec.gov/newsroom/press-releases/2026-48-sec-investor-advisory-committee-host-june-4-meeting"
+          "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "记忆芯片成为AI主导力量，三星、美光、SK海力士市值破万亿美元",
-      "summary": "随着人工智能技术的爆发式发展，记忆芯片在高性能计算中的重要性日益凸显。美光、三星和SK海力士这三大主要记忆芯片生产商的市值均已突破万亿美元大关，这不仅反映了AI对硬件需求的拉动作用，也凸显了高质量记忆芯片在AI产业链中的战略地位和巨大投资价值。",
+      "title": "AI拉动存储芯片需求，美光、三星、SK海力士市值超万亿美元",
+      "summary": "在AI热潮的推动下，存储芯片行业迎来爆发式增长，三大主要生产商美光、三星和SK海力士的市值均已突破万亿美元大关。这表明存储芯片在AI算力体系中的关键作用日益凸显，已成为AI投资热潮的直接受益者。其市值飙升不仅反映了市场对AI芯片需求的旺盛预期，也预示着半导体行业内部将持续进行结构性调整，专注于AI相关技术的公司将获得更多资本青睐。",
       "sources": [
         {
           "name": "NYT DealBook",
@@ -192,41 +151,63 @@
       ]
     },
     {
-      "title": "SpaceX与Anthropic签订AI算力协议，马斯克称其为“短期”合作",
-      "summary": "SpaceX与领先的AI公司Anthropic达成了一项重要的AI算力合作协议，利用SpaceX的计算资源支持Anthropic的AI模型训练。然而，埃隆·马斯克明确表示该协议是“短期”性质的，这与市场此前对长期合作的预期有所不同，可能反映出AI算力市场供应的动态变化和各方合作策略的灵活性。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/spacexs-major-ai-compute-deal-with-anthropic-could-end-a-lot-sooner-than-expected-30f46b83?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "Robinhood推出AI代理交易与信用卡服务，金融服务智能化加速",
-      "summary": "券商平台Robinhood今日正式推出基于AI代理的交易和信用卡服务，允许人工智能代理代表客户进行股票交易和信用卡消费。这一创新举措标志着AI技术在个人金融服务领域的应用进一步深化，有望提升用户体验和交易效率，同时也对自动化交易的风险管理提出了新的挑战。",
+      "title": "Robinhood推出代理式交易和AI信用卡，赋能AI代理进行交易和消费",
+      "summary": "Robinhood推出了代理式交易（agentic trading）和代理式信用卡，允许AI代理代表客户进行股票交易和信用卡消费。这项创新将AI技术直接融入金融服务核心，旨在提升用户体验和自动化效率。它标志着金融科技领域的一次重大进步，但同时也引发了关于AI决策风险、用户授权及监管框架的讨论，对未来金融自动化和个人财富管理模式产生深远影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/thursday-assorted-links-554.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/thursday-assorted-links-554.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-554"
         }
       ]
     },
     {
-      "title": "Stratechery访谈强调Meta基础模型对生成式AI生态的重要性",
-      "summary": "科技博客Stratechery对Eric Seufert的访谈深入探讨了Meta构建基础模型的重要性及其对生成式AI未来的影响。Meta在AI领域的底层技术投入，不仅关乎其自身的战略布局，更可能为整个AI生态系统提供关键支撑，影响行业技术标准和发展方向。",
+      "title": "CFTC寻求推翻与Winklevoss兄弟公司达成的一项和解，预测市场面临监管挑战",
+      "summary": "美国商品期货交易委员会（CFTC）与Winklevoss兄弟运营的公司联合提交文件，寻求推翻双方之前达成的一项和解协议，此举已是CFTC针对预测市场（Prediction Market）平台采取的第七次州级诉讼。这表明美国监管机构对新兴的预测市场平台合规性及管辖权问题仍存在分歧，并将加强审查。对于依赖区块链和去中心化模式的金融创新而言，监管不确定性依然是主要挑战。",
       "sources": [
         {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-models-and-ads-and-ais-upside-for-humanity/"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/28/us/politics/cftc-gemini-winklevoss-lawsuit.html"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/05/28/cftc-sues-rhode-island-over-actions-against-prediction-markets.html"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/05/28/states-have-lost-1-billion-due-to-prediction-markets-gaming-association.html"
+        }
+      ]
+    },
+    {
+      "title": "AI处方续药试点初见成效，AI在医疗领域的应用前景广阔",
+      "summary": "一项关于AI处方续药的犹他州试点项目首次评估显示效果显著。在AI建议续药的72%案例中，至少一名医生在97%的情况下表示同意。在AI未建议续药而直接升级给医生的28%案例中，结果也令人满意。这表明AI在医疗诊断和流程优化方面具有巨大潜力，能够有效辅助医生工作，提高效率。随着技术成熟，AI医疗应用将成为未来医疗健康投资的重要方向。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/doc-in-a-box.html?utm_source=rss&utm_medium=rss&utm_campaign=doc-in-a-box"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "百思买和科尔士财报超预期，股价大涨显示零售业改善信号",
-      "summary": "电子产品零售商百思买（Best Buy）和百货连锁科尔士（Kohl's）最新财报均超出市场预期，其中百思买股价上涨15%，科尔士更是飙升20%，并报告四年来的最佳同店销售增长。尽管面临挑战，两家公司通过成本控制和销售策略调整，展现出零售业可能正在逐步改善的迹象，提振了投资者信心。",
+      "title": "身份管理巨头Okta业绩超预期，AI代理身份管理市场潜力巨大",
+      "summary": "身份管理公司Okta第一季度盈利超出华尔街预期，公司高层认为AI代理身份管理领域蕴藏着巨大的市场机会。在AI技术日益普及的背景下，确保AI代理的身份安全和合规性变得至关重要，这为Okta等专注于身份管理的公司提供了新的增长点。其强劲业绩和对AI市场的积极展望，预示着该领域未来将成为企业级服务的重要战场。",
       "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/okta-shares-rise-on-earnings-beat-and-ai-agent-opportunity-60a48690?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "零售商Q1财报分化：Costco销售强劲，Best Buy和Kohl's表现超预期",
+      "summary": "Costco第一季度销售额增长11%，营收超预期，显示出其在零售行业的韧性。同时，百思买（Best Buy）和科尔士（Kohl's）的季度业绩也超出市场预期，其中Kohl's更是实现了四年来的最佳同店销售增长，股价飙升。这些表现表明部分零售商在面临消费者挑战时，通过有效策略仍能保持增长。然而，零售行业复苏仍存在结构性差异，投资者需关注各公司具体的运营策略和市场定位。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/28/costco-cost-q3-2026-earnings.html"
+        },
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/05/28/best-buy-bby-q1-2027-earnings.html"
@@ -238,50 +219,24 @@
       ]
     },
     {
-      "title": "Lululemon与创始人结束代理权之争，董事会接受两名提名",
-      "summary": "运动服饰品牌Lululemon与创始人Chip Wilson持续数月的代理权之争终于达成和解。公司同意提名两名新董事进入董事会，标志着公司内部治理冲突的解决。这一和解有助于Lululemon管理层更专注于核心业务战略和长期发展，减少内部摩擦对运营的影响。",
+      "title": "零售商Q1财报分化：Gap销售指引下调，Old Navy表现令人失望",
+      "summary": "Gap公司发布了喜忧参半的季度业绩，并下调了销售指引，主要原因是其最大品牌Old Navy的销售额不及预期，导致公司股价下跌13%。尽管旗下Aerie品牌表现强劲，但整体销售仍受主品牌拖累。这表明即使是大型零售集团也面临着消费者偏好变化和品牌重塑的挑战，投资者应关注其核心品牌的复苏能力，并警惕传统零售业的结构性逆风。",
       "sources": [
         {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/27/lululemon-settles-proxy-battle-with-founder-chip-wilson.html"
-        }
-      ]
-    },
-    {
-      "title": "波音CEO证实737 Max月产量已达FAA要求，将提速至47架",
-      "summary": "波音公司首席执行官表示，公司已满足美国联邦航空管理局（FAA）的所有要求，可以将其737 Max系列飞机的月产量提升至47架。这一里程碑对于波音的生产恢复和供应链优化至关重要，有望缓解客户积压订单的压力，并提升公司在全球航空市场的竞争力。",
-      "sources": [
+          "url": "https://www.cnbc.com/2026/05/28/gap-gap-earnings-q1-2026.html"
+        },
         {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/27/boeing-ortberg-737-max-production.html"
-        }
-      ]
-    },
-    {
-      "title": "Abercrombie & Fitch财报超预期，但中东冲突拖累EMEA销售",
-      "summary": "Abercrombie & Fitch最新季度财报超出市场预期，股价上涨12%。然而，公司指出，受中东冲突影响，其在欧洲、中东和非洲（EMEA）地区的销售额下降了10%。这表明即使整体业绩强劲，全球零售商仍可能受到地缘政治事件的直接冲击，反映出国际市场运营的复杂性和风险。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/27/abercrombie-fitch-anf-earnings-q1-2026.html"
+          "url": "https://www.cnbc.com/2026/05/28/american-eagle-aeo-earnings-q1-2026.html"
         }
       ]
     }
   ],
   "a_stocks": [
     {
-      "title": "蔚来发布两年多来首款旗舰电动汽车，股价上涨10%",
-      "summary": "中国电动汽车制造商蔚来（Nio）在沉寂两年多后，终于发布了其全新的旗舰电动汽车，此举推动公司股价大幅上涨10%。在竞争日益激烈的中国电动汽车市场中，蔚来通过推出高端新车型，旨在巩固其品牌定位并扩大用户基础，以期在行业洗牌中占据有利地位。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/05/28/nio-surges-9percent-after-releasing-first-flagship-ev-in-more-than-two-years.html"
-        }
-      ]
-    },
-    {
-      "title": "中国电商平台Temu因不安全商品在欧盟被罚逾2.3亿美元",
-      "summary": "拼多多旗下的跨境电商平台Temu被欧盟委员会处以超过2.3亿美元的巨额罚款，原因是其未能有效阻止销售不安全商品，包括有风险的婴儿玩具和充电器。此罚款不仅对Temu在欧洲市场的声誉和运营造成打击，也预示着中国电商平台在全球扩张过程中将面临日益严格的产品安全和消费者保护监管。",
+      "title": "中国电商平台Temu因销售不安全商品在欧盟被罚款2.3亿美元",
+      "summary": "中国电商平台Temu因销售可能对消费者造成伤害的婴儿玩具和其他产品，在欧盟被处以超过2.3亿美元的罚款。欧盟委员会指出，Temu未能充分考虑其平台上销售商品的风险。此项罚款凸显了中国跨境电商平台在拓展国际市场时面临的严格监管挑战，特别是产品安全和合规性问题。这将促使相关平台加强内部审核，也可能对中国企业海外扩张战略产生影响。",
       "sources": [
         {
           "name": "NYT Business",
@@ -294,20 +249,20 @@
       ]
     },
     {
-      "title": "中国电池巨头中创新航在欧洲启动20亿欧元超级工厂建设",
-      "summary": "中国动力电池制造商中创新航（CALB）已在欧洲破土动工，投资20亿欧元（约21.6亿美元）建设一座大型超级工厂。此举标志着中国电动汽车供应链企业在全球范围内的持续扩张，旨在满足欧洲电动汽车市场日益增长的电池需求，并进一步提升中国在全球新能源产业中的影响力。",
+      "title": "中创新航（CALB）在欧洲启动20亿欧元电池超级工厂项目",
+      "summary": "中国电池制造商中创新航（CALB）已在欧洲启动了一个耗资20亿欧元的超级工厂项目。此举是中国新能源企业加速全球化布局、深入欧洲市场的又一例证。该项目不仅将增强中国企业在全球电动汽车供应链中的影响力，也将对欧洲本土电池产业构成竞争，并可能促进当地就业和技术转移。这反映了全球新能源转型背景下，中国制造业的海外扩张战略。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/wednesday-assorted-links-555.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/wednesday-assorted-links-555.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-555"
         }
       ]
     }
   ],
   "business": [
     {
-      "title": "BP前董事长否认离职“谎言”，引发公司治理关注",
-      "summary": "英国石油公司（BP）前董事长Albert Manifold被突然解职后，公开驳斥了关于其不当行为的“谎言”，并强调自己虽行事强硬，但从未越界。此事件引发了市场对大型能源公司高层治理、透明度以及董事会与管理层之间权力平衡的广泛关注，可能影响投资者对BP未来领导层稳定性的预期。",
+      "title": "BP前董事长Albert Manifold否认其被罢免的“谎言”",
+      "summary": "英国石油公司（BP）前董事长Albert Manifold在本周被突然解职后发表声明，否认关于其被罢免的“谎言”。他承认自己在工作中“推动很大”，但从未越界。此事件暴露了大型跨国企业高层内部的权力斗争和公司治理挑战。对投资者而言，高管离职事件可能带来公司战略不确定性，需要密切关注后续对公司运营和股价的影响。",
       "sources": [
         {
           "name": "NYT Business",
@@ -320,52 +275,59 @@
       ]
     },
     {
-      "title": "CVS扩大肥胖症药物Zepbound覆盖，并新增Foundayo进入药险计划",
-      "summary": "美国医疗保健巨头CVS健康宣布将恢复对礼来公司（Eli Lilly）旗下广受欢迎的肥胖症药物Zepbound的保险覆盖，并计划于6月1日将礼来最新批准的Foundayo药物纳入其药物保险计划。此举反映出对新型减肥和代谢疾病药物市场需求的持续强劲增长，以及医疗保险公司为满足市场需求而调整策略的趋势。",
+      "title": "美国消费者每月汽车贷款支付超1000美元数量增加，非豪华车型占比高",
+      "summary": "美国每月汽车贷款支付额超过1000美元的消费者数量正在增长，其中大部分并非豪华车型，而是福特F-150、雪佛兰Silverado 1500等热门皮卡。这表明在利率上升和车辆价格高企的双重压力下，普通消费者购车负担日益加重。这一趋势可能预示着消费信贷市场的风险累积，并可能对汽车行业销售和消费者支出产生负面影响，是宏观经济中值得警惕的信号。",
       "sources": [
         {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/28/cvs-covers-zepbound-adds-eli-lilly-foundayo.html"
+          "url": "https://www.cnbc.com/2026/05/28/monthly-auto-loan-payments-above-1000-growing.html"
+        }
+      ]
+    },
+    {
+      "title": "401(k)百万富翁数量下降，但工人储蓄率创历史新高",
+      "summary": "最新数据显示，美国401(k)计划中的百万富翁数量有所下降，但与此同时，工人的储蓄率却达到了历史新高。这反映出市场波动可能影响投资组合价值，但面对不确定性，美国民众对长期储蓄的重视程度正在提升。这一现象对于退休金管理和长期资本市场具有重要启示，即个人储蓄行为的积极变化或为未来市场提供稳定的资金来源，但资产增值仍面临挑战。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-fell-but-workers-hit-record-savings-rates-whats-going-on-8fab657b?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "AI在医疗领域显现潜力：犹他州AI处方续药试点初见成效",
-      "summary": "犹他州一项利用AI进行处方续药的试点项目取得了积极的初步反馈。在72%的AI推荐续药案例中，有高达97%的医生同意AI的建议。即便在AI建议需由医生介入的28%案例中，结果也显示合理性。这表明AI在提高医疗效率、减轻医生负担方面具备巨大潜力，未来可能引发医疗服务模式的结构性变革。",
+      "title": "基因评分技术兴起，反歧视法能否覆盖基因信息引发法律担忧",
+      "summary": "随着预测医学和基因评分技术的迅速发展，法律学者警告称，数十年前制定的联邦反歧视指南可能无法充分涵盖基因信息在工作场所的应用。这引发了人们对基因歧视风险的担忧。基因数据在就业和保险领域的广泛应用，可能带来新的法律和社会伦理挑战，对未来的劳动力市场和个人隐私保护形成结构性影响，是值得关注的长期社会经济趋势。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/doc-in-a-box.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/28/health/polygenic-risk-scores-workplace.html"
         }
       ]
     },
     {
-      "title": "预测市场遭遇内幕交易指控，谷歌工程师获利120万美元",
-      "summary": "一名谷歌工程师因涉嫌利用内部消息在预测市场Polymarket上进行内幕交易被指控，非法获利120万美元。这一事件凸显了新兴预测市场在监管方面的挑战和漏洞，也引发了市场对这类平台潜在内幕交易风险的担忧，可能促使监管机构对去中心化或新兴预测市场采取更严格的审查。",
+      "title": "谷歌员工在预测市场Polymarket进行内幕交易被控，引发行业震荡",
+      "summary": "一名谷歌员工因在预测市场平台Polymarket上进行内幕交易而受到指控，这引发了对该快速增长行业未来发展势头的担忧。此案表明，随着预测市场交易日益活跃，其监管合规和风险控制的空白正逐渐暴露。投资者需警惕这类新兴金融平台可能面临的监管收紧和法律风险，对整个预测市场和更广泛的加密交易领域都可能产生震荡。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/05/28/business/dealbook/insider-trading-polymarket.html"
         },
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/google-engineer-charged-after-making-1-2-million-on-polymarket-bets-showing-insider-trading-is-becoming-everyones-problem-5f2a0063?mod=mw_rss_topstories"
-        },
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/05/28/states-have-lost-1-billion-due-to-prediction-markets-gaming-association.html"
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/05/28/business/dealbook/insider-trading-polymarket.html"
         }
       ]
     },
     {
-      "title": "俄罗斯央行获授权部署防御系统以抵御无人机袭击",
-      "summary": "俄罗斯通过一项新法律，授权其中央银行及其他金融机构部署和操作自身的防御系统，以抵御来自无人机和潜在的物理攻击。此举是在俄罗斯面临乌克兰持续无人机袭击背景下采取的，反映出地缘政治冲突对关键金融基础设施安全的直接威胁，以及各国为保护核心经济机构而采取的非常规安全措施。",
+      "name": "Ben Thompson",
+      "title": "Stratechery创始人探讨SpaceX IPO与太空数据中心的可行性",
+      "summary": "观点：Ben Thompson在他的分析中指出，尽管目前很难找到一个纯粹的金融模型来完全支撑SpaceX的首次公开募股（IPO）估值，但他认为在太空部署数据中心的概念具有足够的可行性和长期潜力。这表明即使短期财务逻辑不明显，但颠覆性技术和长远愿景仍能吸引市场关注，对高科技和太空探索领域的长期投资理念具有启发意义，即着眼于下一代基础设施建设的可能性。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/those-new-service-sector-economics-jobs.html"
+          "name": "Stratechery (Ben Thompson)",
+          "url": "https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space/"
         }
       ]
     }
