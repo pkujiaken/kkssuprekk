@@ -1,10 +1,24 @@
 [
   {
     "source": "Stratechery (Ben Thompson)",
+    "title": "2026.22: Luceing Their Mind",
+    "link": "https://stratechery.com/2026/luceing-their-mind/",
+    "summary": "The best Stratechery content from the week of May 25, 2026, including why everyone hates Luce, how to monetize AI answers, and social mobility in China.",
+    "published": "Fri, 29 May 2026 17:00:00 +0000"
+  },
+  {
+    "source": "Stratechery (Ben Thompson)",
     "title": "An Interview with Eric Seufert About Models and Ads, and AI’s Upside for Humanity",
     "link": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-models-and-ads-and-ais-upside-for-humanity/",
     "summary": "An Interview with Eric Seufert about building models for generative AI, why Meta's foundational models are so important, and why understanding advertising leads to optimism about humanity's future.",
     "published": "Thu, 28 May 2026 10:00:00 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "What I have been learning doing New Aesthetics",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/05/what-i-have-been-learning-doing-new-aesthetics.html?utm_source=rss&utm_medium=rss&utm_campaign=what-i-have-been-learning-doing-new-aesthetics",
+    "summary": "<p>Patrick offered his observations here, I will add a few points of my own. I very often think in terms of regions and geographic places.  Currently, artistic movements (of most sorts, not just &#8220;New Aesthetics&#8221;) seem to lack a centrality of place.  New York City is no longer the center of the art world, high [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/05/what-i-have-been-learning-doing-new-aesthetics.html\">What I have been learning doing New Aesthetics</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Fri, 29 May 2026 15:45:41 +0000"
   },
   {
     "source": "Marginal Revolution (Tyler Cowen)",
@@ -56,13 +70,6 @@
     "published": "Thu, 28 May 2026 11:17:45 +0000"
   },
   {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "My excellent Conversation with Toby Wilkinson",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/05/my-excellent-conversation-with-toby-wilkinson.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-toby-wilkinson",
-    "summary": "<p>Here is the audio, video, and transcript.  Most of all, we cover Ptolemaic Egypt.  Here is part of the episode summary: Tyler and Toby cover how Alexander took over the empire almost without a fight, why Alexandria became the Manhattan of the ancient world, whether the era was as philosophically fertile as it was scientifically, [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/05/my-excellent-conversation-with-toby-wilkinson.html\">My excellent Conversation with Toby Wilkinson</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Thu, 28 May 2026 04:33:45 +0000"
-  },
-  {
     "source": "A Wealth of Common Sense (Ben Carlson)",
     "title": "How to Reduce Stock Market Stress",
     "link": "https://awealthofcommonsense.com/2026/05/how-to-reduce-stock-market-stress/",
@@ -77,6 +84,62 @@
     "published": "Thu, 28 May 2026 15:00:00 GMT"
   },
   {
+    "source": "SEC Press",
+    "title": "SEC Proposes Rescission of Climate-Related Disclosure Rules",
+    "link": "https://www.sec.gov/newsroom/press-releases/2026-49-sec-proposes-rescission-climate-related-disclosure-rules",
+    "summary": "The Securities and Exchange Commission today proposed the rescission of overly burdensome and costly rules that require companies to provide certain climate-related information in their registration statements and annual reports. The Commission’s…",
+    "published": "Fri, 29 May 2026 10:50:00 -0400"
+  },
+  {
+    "source": "NYT Business",
+    "title": "S.E.C. Proposes to Kill Climate Change Disclosure Rule",
+    "link": "https://www.nytimes.com/2026/05/29/climate/sec-climate-disclosure-rule.html",
+    "summary": "The regulation would have required all publicly traded companies to disclose whether they faced significant risks from climate change and its effects.",
+    "published": "Fri, 29 May 2026 15:54:51 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "As the SpaceX Hype Machine Steamrolls Ahead, Wall Street Jumps Aboard",
+    "link": "https://www.nytimes.com/2026/05/29/business/spacex-ipo-wall-street.html",
+    "summary": "Elon Musk and his bankers are working to create a self-fulfilling prophecy for the massive public offering: Make investors feel that the risks of passing it up outweigh those of buying into it.",
+    "published": "Fri, 29 May 2026 15:46:36 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Sky-High I.P.O. Pricing Isn’t Great for Real People",
+    "link": "https://www.nytimes.com/2026/05/29/business/spacex-openai-anthropic-ipo-invest.html",
+    "summary": "When newly public companies have been valued as richly as SpaceX, OpenAI and Anthropic seem likely to be, the outlook for ordinary investors has been poor.",
+    "published": "Fri, 29 May 2026 17:01:14 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Inside the Room Where War Insurance Is Bought and Sold",
+    "link": "https://www.nytimes.com/2026/05/29/business/strait-hormuz-shipping-insurance-iran.html",
+    "summary": "Many of the ships stranded in the Persian Gulf depend on coverage negotiated at Lloyd’s, the center of marine insurance for more than 300 years.",
+    "published": "Fri, 29 May 2026 14:30:02 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Trump Clears Way for Companies to Avoid Taxes in Havens Including Malta and Cyprus",
+    "link": "https://www.nytimes.com/2026/05/29/business/economy/offshore-tax-havens-trump.html",
+    "summary": "U.S. companies skirted at least $40 billion in taxes since the beginning of 2025 thanks to schemes in places like Malta, Bermuda and Cyprus.",
+    "published": "Fri, 29 May 2026 14:49:50 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "The $900 Billion Giant: How Anthropic Got So Big, So Fast",
+    "link": "https://www.nytimes.com/2026/05/29/business/dealbook/anthropic-ai-openai.html",
+    "summary": "The artificial intelligence giant was just valued at $900 billion, surpassing OpenAI. Here are the numbers behind its rise — and headwinds it faces.",
+    "published": "Fri, 29 May 2026 16:25:34 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Luka Doncic on Trying to Bring an N.B.A. Team to Rome",
+    "link": "https://www.nytimes.com/2026/05/29/business/media/luka-doncic-nba-owner-rome.html",
+    "summary": "The superstar is part of group that has bought a basketball team in Italy, with a plan to move the club to Rome in hopes of making it part of a new league.",
+    "published": "Fri, 29 May 2026 12:37:35 +0000"
+  },
+  {
     "source": "NYT Business",
     "title": "Providence Isn’t an Official World Cup Host but It Sure Is Acting Like One",
     "link": "https://www.nytimes.com/2026/05/29/us/boston-providence-world-cup.html",
@@ -88,7 +151,7 @@
     "title": "A.I. Doesn’t Have to Mean Layoffs",
     "link": "https://www.nytimes.com/2026/05/29/business/economy/ai-jobs-productivity.html",
     "summary": "A French multinational, Schneider Electric, decided to use artificial intelligence in manufacturing to make workers more productive, rather than to replace them. Here’s how that’s going.",
-    "published": "Fri, 29 May 2026 09:11:19 +0000"
+    "published": "Fri, 29 May 2026 12:07:26 +0000"
   },
   {
     "source": "NYT Business",
@@ -98,67 +161,32 @@
     "published": "Fri, 29 May 2026 09:02:10 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "How NextEra Energy Wielded Political Power in Florida",
-    "link": "https://www.nytimes.com/2026/05/29/business/energy-environment/nextera-energy-florida-politics-dominion.html",
-    "summary": "NextEra, which is seeking to buy Dominion Energy, has often butted heads with consumer groups, residents and journalists in its home state.",
-    "published": "Fri, 29 May 2026 09:01:35 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "How to Travel if You Have Panic Attacks",
-    "link": "https://www.nytimes.com/2026/05/29/travel/how-to-travel-if-you-have-panic-attacks.html",
-    "summary": "You don’t have to let severe anxiety keep you from exploring the world. Here’s how to manage your panic on vacation.",
-    "published": "Fri, 29 May 2026 09:00:52 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Oil Prices Fall as U.S. and Iran Edge Closer to Agreement",
-    "link": "https://www.nytimes.com/2026/05/29/business/oil-gas-stocks-iran.html",
-    "summary": "Oil prices and stock markets fluctuated as investors assessed tentative signs of a pact to extend a cease-fire.",
-    "published": "Fri, 29 May 2026 11:05:22 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Europe Is Edging Closer to a Trade War With China. Here’s Why.",
-    "link": "https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html",
-    "summary": "As cheap goods pour in, threatening the continent’s manufacturing sector, a search for solutions is becoming increasingly urgent.",
-    "published": "Fri, 29 May 2026 06:14:17 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "ABC Accuses Trump Administration of Threatening Its Broadcast Licenses",
-    "link": "https://www.nytimes.com/2026/05/28/business/media/abc-licenses-fcc-brendan-carr.html",
-    "summary": "The TV network slammed the Federal Communications Commission, saying the regulator was targeting its station licenses in a campaign of “unconstitutional retaliation.”",
-    "published": "Thu, 28 May 2026 23:36:10 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Treasury Prepares to Make Trump the Face of a New $250 Bill",
-    "link": "https://www.nytimes.com/2026/05/28/business/treasury-trump-250-bill.html",
-    "summary": "Treasury Secretary Bessent backed the idea, which would require legislation allowing a living person to appear on currency.",
-    "published": "Thu, 28 May 2026 22:09:38 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Two Papers Named ‘Star’ Will Duel in D.C. to Win Readers From The Washington Post",
-    "link": "https://www.nytimes.com/2026/05/28/business/media/the-washington-star-newspaper-rivalry-washington-post.html",
-    "summary": "First, The Star was born. Now, The Washington Star is reborn. Both are hoping to win readers ceded by recent layoffs at The Washington Post.",
-    "published": "Thu, 28 May 2026 22:15:48 +0000"
+    "source": "NYT Economy",
+    "title": "Trump Clears Way for Companies to Avoid Taxes in Havens Including Malta and Cyprus",
+    "link": "https://www.nytimes.com/2026/05/29/business/economy/offshore-tax-havens-trump.html",
+    "summary": "U.S. companies skirted at least $40 billion in taxes since the beginning of 2025 thanks to schemes in places like Malta, Bermuda and Cyprus.",
+    "published": "Fri, 29 May 2026 14:49:50 +0000"
   },
   {
     "source": "NYT Economy",
     "title": "A.I. Doesn’t Have to Mean Layoffs",
     "link": "https://www.nytimes.com/2026/05/29/business/economy/ai-jobs-productivity.html",
     "summary": "A French multinational, Schneider Electric, decided to use artificial intelligence in manufacturing to make workers more productive, rather than to replace them. Here’s how that’s going.",
-    "published": "Fri, 29 May 2026 09:11:19 +0000"
+    "published": "Fri, 29 May 2026 12:07:26 +0000"
   },
   {
     "source": "NYT Economy",
     "title": "Europe Is Edging Closer to a Trade War With China. Here’s Why.",
     "link": "https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html",
     "summary": "As cheap goods pour in, threatening the continent’s manufacturing sector, a search for solutions is becoming increasingly urgent.",
-    "published": "Fri, 29 May 2026 06:14:17 +0000"
+    "published": "Fri, 29 May 2026 12:13:54 +0000"
+  },
+  {
+    "source": "NYT DealBook",
+    "title": "The $900 Billion Giant: How Anthropic Got So Big, So Fast",
+    "link": "https://www.nytimes.com/2026/05/29/business/dealbook/anthropic-ai-openai.html",
+    "summary": "The artificial intelligence giant was just valued at $900 billion, surpassing OpenAI. Here are the numbers behind its rise — and headwinds it faces.",
+    "published": "Fri, 29 May 2026 16:25:34 +0000"
   },
   {
     "source": "NYT DealBook",
@@ -172,7 +200,7 @@
     "title": "Sign Up for DealBook",
     "link": "https://www.nytimes.com/newsletters/signup/DK",
     "summary": "Make sense of the latest business and policy headlines with our daily newsletter.",
-    "published": "Thu, 28 May 2026 12:03:39 +0000"
+    "published": "Fri, 29 May 2026 12:25:26 +0000"
   },
   {
     "source": "NYT DealBook",
@@ -190,9 +218,16 @@
   },
   {
     "source": "BBC Business",
-    "title": "Top UK chefs call for 10% VAT cut for pubs and restaurants",
+    "title": "Only three-quarters of first class mail delivered on time",
+    "link": "https://www.bbc.com/news/articles/cy02jyxz26po?at_medium=RSS&at_campaign=rss",
+    "summary": "Royal Mail says its service is improving and that it is on track to hit the regulator Ofcom's reduced targets",
+    "published": "Fri, 29 May 2026 15:51:39 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Top UK chefs call for cutting VAT for pubs and restaurants to 10%",
     "link": "https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&at_campaign=rss",
-    "summary": "Tom Kerridge, Yotam Ottolenghi, Ravneet Gill and Simon Rogan told BBC Newsnight VAT should be slashed to 10% to ease mounting pressure on the hospitality industry.",
+    "summary": "Tom Kerridge, Yotam Ottolenghi, Ravneet Gill and Simon Rogan told BBC Newsnight VAT should be halved to ease mounting pressure on the hospitality industry.",
     "published": "Fri, 29 May 2026 10:55:45 GMT"
   },
   {
@@ -218,17 +253,17 @@
   },
   {
     "source": "BBC Business",
-    "title": "When trade soured, this American liquor maker moved to Canada",
-    "link": "https://www.bbc.com/news/articles/c2l22ypl909o?at_medium=RSS&at_campaign=rss",
-    "summary": "Phillips Distilling lost 70% of its Canadian business after provinces banned the sale of US liquor. It has since found a way to sell its products in Canada again.",
-    "published": "Thu, 28 May 2026 23:29:46 GMT"
-  },
-  {
-    "source": "BBC Business",
     "title": "Humanoid robots 'the future' of car making, says BMW",
     "link": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
     "summary": "BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.",
     "published": "Thu, 28 May 2026 23:36:45 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "When trade soured, this American liquor maker moved to Canada",
+    "link": "https://www.bbc.com/news/articles/c2l22ypl909o?at_medium=RSS&at_campaign=rss",
+    "summary": "Sales of the fruity liqueur popular with Canadian students had plummetted north of the border as provinces retaliated against Trump tariffs.",
+    "published": "Thu, 28 May 2026 23:29:46 GMT"
   },
   {
     "source": "BBC Business",
@@ -252,81 +287,81 @@
     "published": "Thu, 28 May 2026 16:25:24 GMT"
   },
   {
-    "source": "BBC Business",
-    "title": "California Attorney General sues 23andMe successor for 2023 data breach",
-    "link": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss",
-    "summary": "Attorney General Rob Bonta alleges the company lied about the breach's severity.",
-    "published": "Thu, 28 May 2026 18:28:42 GMT"
+    "source": "MarketWatch Top Stories",
+    "title": "Space stocks tumble after a Blue Origin rocket explodes and SpaceX’s valuation gets a reality check",
+    "link": "https://www.marketwatch.com/story/space-stocks-are-falling-after-a-blue-origin-rocket-explodes-and-spacexs-valuation-gets-a-reality-check-230ae49f?mod=mw_rss_topstories",
+    "summary": "The red-hot space sector was feeling some heat on Friday, cooling from some of the spectacular gains seen in May.",
+    "published": "Fri, 29 May 2026 17:44:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Want an alternative to chip stocks? This sector with an AI angle is breaking out.",
-    "link": "https://www.marketwatch.com/story/want-an-alternative-to-chip-stocks-this-sector-with-an-ai-angle-is-breaking-out-8a34b2a7?mod=mw_rss_topstories",
-    "summary": "The transportation sector has benefited from hopes of a Iran peace deal, but also from the build out of data centers needed to power AI.",
-    "published": "Fri, 29 May 2026 11:48:00 GMT"
+    "title": "‘Fairness is important to us’: We sold our family business to our son at a discount. How can we make this up to our other child?",
+    "link": "https://www.marketwatch.com/story/fairness-is-important-to-us-we-sold-our-family-business-to-our-son-at-a-discount-how-can-we-make-this-up-to-our-other-child-b987614b?mod=mw_rss_topstories",
+    "summary": "“We did not seek or consider other offers. We engaged several professionals throughout the process.”",
+    "published": "Fri, 29 May 2026 17:30:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "‘He threatened to cut the roots’: A tree fell onto my neighbor’s property during a storm. Then all hell broke loose.",
-    "link": "https://www.marketwatch.com/story/he-threatened-to-cut-the-roots-a-tree-fell-onto-my-neighbors-property-during-a-storm-then-all-hell-broke-loose-90da5af2?mod=mw_rss_topstories",
-    "summary": "“The neighbor estimates damage from the tree at approximately $6,000 or more.”",
-    "published": "Fri, 29 May 2026 11:30:00 GMT"
+    "title": "‘I’m unsure of the best approach’: My father, 91, is in hospice care. He left his six children CDs. Can we cash out?",
+    "link": "https://www.marketwatch.com/story/im-unsure-of-the-best-approach-my-father-91-is-in-hospice-care-he-left-his-six-children-cds-can-we-cash-out-72006059?mod=mw_rss_topstories",
+    "summary": "“His banker suggested that it might be easier after my father’s passing if we liquidate all of the CDs.”",
+    "published": "Fri, 29 May 2026 17:16:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Costco gas demand hits records, as shoppers try to stay ahead of future price spikes",
-    "link": "https://www.marketwatch.com/story/higher-gas-prices-are-driving-people-to-membership-retailers-and-costco-is-the-latest-to-benefit-3566c533?mod=mw_rss_topstories",
-    "summary": "Costco’s same-store sales rose 9.8% during its third quarter, well above Wall Street’s estimates, as gasoline sales provided a nice bump.",
-    "published": "Fri, 29 May 2026 11:28:00 GMT"
+    "title": "I pay $4,000 in rent. If I stay put, how long will it take me to afford a $750,000 home?",
+    "link": "https://www.marketwatch.com/story/i-pay-4-000-in-rent-if-i-stay-put-how-long-will-it-take-me-to-afford-a-750-000-home-a5984bed?mod=mw_rss_topstories",
+    "summary": "“You have to pay for movers, security deposits, and let’s not forget buying furniture for each apartment.”",
+    "published": "Fri, 29 May 2026 17:12:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "The latest Oura and Fitbit wearables are smarter and sleeker than ever — but do they keep you healthy?",
-    "link": "https://www.marketwatch.com/story/the-latest-oura-and-fitbit-wearables-are-smarter-and-sleeker-than-ever-but-do-they-keep-you-healthy-f6d059ea?mod=mw_rss_topstories",
-    "summary": "Americans are sharing data from watches, bands and rings with AI platforms, ordering tests through the companies that sell these products, and paying hundreds of dollars in subscription fees.",
-    "published": "Fri, 29 May 2026 11:19:00 GMT"
+    "title": "Oil prices tumble most since 2020 in May without hitting $200 a barrel. Here’s what’s next.",
+    "link": "https://www.marketwatch.com/story/oil-prices-tumble-most-since-2020-in-may-without-hitting-200-a-barrel-heres-whats-next-f83b4fed?mod=mw_rss_topstories",
+    "summary": "Global oil prices tumbled over 20% in May on hopes for the U.S.-Iran peace deal.",
+    "published": "Fri, 29 May 2026 17:10:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Dell’s stock heads for a record-smashing gain, as the AI boom drives a big earnings beat",
-    "link": "https://www.marketwatch.com/story/dell-stock-soars-toward-another-record-high-as-the-ai-boom-drives-a-big-earnings-beat-b7c0c203?mod=mw_rss_topstories",
-    "summary": "The company’s AI-server revenue was up 757% in the first quarter, while profit beat expectations by the widest margin in at least five years.",
-    "published": "Fri, 29 May 2026 11:06:00 GMT"
+    "title": "These S&P 500 stocks have soared the most during the AI-driven May rally",
+    "link": "https://www.marketwatch.com/story/these-s-p-500-stocks-have-soared-the-most-during-the-ai-driven-may-rally-570ad48f?mod=mw_rss_topstories",
+    "summary": "Even stocks in the beleaguered software industry have been on fire.",
+    "published": "Fri, 29 May 2026 17:06:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "This strategist is using prediction-market shifts to calculate what happens when an Iran deal is announced",
-    "link": "https://www.marketwatch.com/story/this-strategist-is-using-prediction-market-shifts-to-calculate-what-happens-when-an-iran-deal-is-announced-1a42696e?mod=mw_rss_topstories",
-    "summary": "A Citadel strategist looked at prediction market changes during the Memorial Day long weekend to calculate market moves.",
-    "published": "Fri, 29 May 2026 10:52:00 GMT"
+    "title": "ServiceNow’s stock soars toward historic month as AI fears fade across software",
+    "link": "https://www.marketwatch.com/story/servicenows-stock-soars-toward-historic-month-as-ai-fears-fade-across-software-31854b69?mod=mw_rss_topstories",
+    "summary": "ServiceNow shares are up 40% this month, leading an industrywide relief rally among enterprise software companies.",
+    "published": "Fri, 29 May 2026 16:42:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Bank of America strategists see a different historical parallel for the AI rally — and it isn’t the dot-com boom",
-    "link": "https://www.marketwatch.com/story/bank-of-america-strategists-see-a-different-historical-parallel-for-the-ai-rally-and-it-isnt-the-dot-com-boom-ca6941aa?mod=mw_rss_topstories",
-    "summary": "Bank of America strategists are negative on European equities as they weigh the boom-and-bust dynamics of the AI build-out",
-    "published": "Fri, 29 May 2026 10:48:00 GMT"
+    "title": "Even the Ronald Reagan Institute doesn’t believe the ‘waste, fraud and abuse’ baloney",
+    "link": "https://www.marketwatch.com/story/even-the-ronald-reagan-institute-doesnt-believe-the-waste-fraud-and-abuse-baloney-629a6447?mod=mw_rss_topstories",
+    "summary": "This may be the single most important issue facing U.S. democracy today.",
+    "published": "Fri, 29 May 2026 15:54:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "‘It is such a fine line’: I am a CFP and see nothing wrong with networking on the golf course. Am I wrong?",
-    "link": "https://www.marketwatch.com/story/it-is-such-a-fine-line-i-am-a-cfp-and-see-nothing-wrong-with-networking-on-the-golf-course-am-i-wrong-50a698e8?mod=mw_rss_topstories",
-    "summary": "“I would love to develop working relationships with almost everyone I play golf with.”",
-    "published": "Fri, 29 May 2026 09:15:00 GMT"
+    "title": "Oil prices slide as Trump says the U.S. is close to an Iran deal",
+    "link": "https://www.marketwatch.com/story/oil-prices-slide-as-trump-says-the-u-s-is-close-to-an-iran-deal-8af9ece2?mod=mw_rss_topstories",
+    "summary": "President Donald Trump said a “final determination” is coming on Iran.",
+    "published": "Fri, 29 May 2026 15:48:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Pittsburgh Steelers quarterback Aaron Rodgers’ estranged parents sell Chico home for $1.7 million",
-    "link": "https://www.marketwatch.com/story/pittsburgh-steelers-quarterback-aaron-rodgers-estranged-parents-sell-chico-home-for-1-7-million-1db2295a?mod=mw_rss_topstories",
-    "summary": "NFL star Aaron Rodgers’ parents have scored a major real estate win after offloading their longtime California home for $1.68 million just a few weeks after listing the property.",
-    "published": "Fri, 29 May 2026 09:01:00 GMT"
+    "title": "Elon Musk’s SpaceX IPO could quickly launch into your retirement plan",
+    "link": "https://www.marketwatch.com/story/elon-musks-spacex-ipo-could-quickly-launch-into-your-retirement-plan-30c17279?mod=mw_rss_topstories",
+    "summary": "Index funds popular with retirement plans are poised to buy SpaceX’s stock rocket-fast.",
+    "published": "Fri, 29 May 2026 15:43:00 GMT"
   },
   {
-    "source": "MarketWatch Top Stories",
-    "title": "Gap and American Eagle stock are both getting crushed, and neither retailer is blaming the economy",
-    "link": "https://www.marketwatch.com/story/gap-and-american-eagle-stock-are-both-getting-crushed-and-neither-retailer-is-blaming-the-economy-6290fa6a?mod=mw_rss_topstories",
-    "summary": "For two retailers that both saw their stock slide by a double-digit percentage after earnings, what may be most surprising is that executives at both Gap and American Eagle Outfitters say nothing is wrong with the economy.",
-    "published": "Fri, 29 May 2026 08:58:00 GMT"
+    "source": "CNBC Business",
+    "title": "Replimune to resubmit twice-rejected drug for approval after FDA shakeup",
+    "link": "https://www.cnbc.com/2026/05/29/replimune-resubmit-melanoma-drug-fda-makary.html",
+    "summary": "Replimune was among the drugmakers that had criticized the FDA for what they called inconsistent guidance around trials and approvals.",
+    "published": "Fri, 29 May 2026 12:51:06 GMT"
   },
   {
     "source": "CNBC Business",
@@ -337,10 +372,10 @@
   },
   {
     "source": "CNBC Business",
-    "title": "Disney's ABC files early broadcast licenses renewal 'under protest' against the FCC",
+    "title": "Disney's ABC files early broadcast licenses renewal. FCC Chair vows to 'follow the facts'",
     "link": "https://www.cnbc.com/2026/05/28/disney-fcc-broadcast-licenses-renewal.html",
     "summary": "Disney said it filed renewals for eight broadcast station licenses \"under protest,\" after the FCC launched an early review years ahead of schedule.",
-    "published": "Thu, 28 May 2026 22:16:43 GMT"
+    "published": "Fri, 29 May 2026 15:46:28 GMT"
   },
   {
     "source": "CNBC Business",
@@ -392,11 +427,18 @@
     "published": "Thu, 28 May 2026 20:01:11 GMT"
   },
   {
-    "source": "CNBC Business",
-    "title": "New '60 Minutes' head Nick Bilton says Paramount's CBS News hired him to pivot the show before ratings decline",
-    "link": "https://www.cnbc.com/2026/05/28/60-minutes-head-nick-bilton-show-ratings.html",
-    "summary": "Nick Bilton is a former New York Times columnist and has made several documentaries for Netflix, where he worked with CBS News editor-in-chief Bari Weiss.",
-    "published": "Thu, 28 May 2026 19:16:09 GMT"
+    "source": "CNBC Finance",
+    "title": "Stocks making the biggest moves midday: Nextpower,  AST SpaceMobile, Dell, NetApp & more",
+    "link": "https://www.cnbc.com/2026/05/29/stocks-making-the-biggest-moves-midday-nxt-asts-dell-ntap.html",
+    "summary": "These are the stocks posting the largest moves midday.",
+    "published": "Fri, 29 May 2026 16:09:07 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Fed Governor Michelle Bowman warns against hiking interest rates because of inflation spike",
+    "link": "https://www.cnbc.com/2026/05/29/feds-bowman-warns-against-hiking-interest-rates-due-to-inflation-spike.html",
+    "summary": "Bowman said reacting to the inflation surge, driven primarily by energy prices and tariffs, has proven ineffective.",
+    "published": "Fri, 29 May 2026 16:39:46 GMT"
   },
   {
     "source": "CNBC Finance",
@@ -441,25 +483,25 @@
     "published": "Thu, 28 May 2026 09:42:06 GMT"
   },
   {
-    "source": "CNBC Finance",
-    "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
-    "link": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
-    "summary": "The complaint from the Southern District of New York comes just over a month after another insider trading case on Polymarket.",
-    "published": "Thu, 28 May 2026 00:52:00 GMT"
+    "source": "Hacker News Top",
+    "title": "GTA 6 Developers Unionize",
+    "link": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+    "summary": "<p>Article URL: <a href=\"https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/\">https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48324499\">https://news.ycombinator.com/item?id=48324499</a></p>\n<p>Points: 259</p>\n<p># Comments: 131</p>",
+    "published": "Fri, 29 May 2026 15:32:55 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "I am retiring from tech to live offline",
+    "link": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+    "summary": "<p>Article URL: <a href=\"https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/\">https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48323683\">https://news.ycombinator.com/item?id=48323683</a></p>\n<p>Points: 477</p>\n<p># Comments: 317</p>",
+    "published": "Fri, 29 May 2026 14:40:47 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Volkswagen blocks Home Assistant by requiring client assertion",
     "link": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
-    "summary": "<p>Article URL: <a href=\"https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967\">https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48319509\">https://news.ycombinator.com/item?id=48319509</a></p>\n<p>Points: 221</p>\n<p># Comments: 112</p>",
+    "summary": "<p>Article URL: <a href=\"https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967\">https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48319509\">https://news.ycombinator.com/item?id=48319509</a></p>\n<p>Points: 344</p>\n<p># Comments: 172</p>",
     "published": "Fri, 29 May 2026 05:45:36 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Cars collect a startling amount of data about you",
-    "link": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse\">https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48318481\">https://news.ycombinator.com/item?id=48318481</a></p>\n<p>Points: 371</p>\n<p># Comments: 180</p>",
-    "published": "Fri, 29 May 2026 03:01:00 +0000"
   },
   {
     "source": "Hacker News Top",
@@ -470,52 +512,59 @@
   },
   {
     "source": "Hacker News Top",
-    "title": "GitHub bans security researcher who posted zero-day Windows exploits",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
-    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation\">https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48315968\">https://news.ycombinator.com/item?id=48315968</a></p>\n<p>Points: 438</p>\n<p># Comments: 204</p>",
-    "published": "Thu, 28 May 2026 21:45:54 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "I made a million dollar product from my dorm room (2025)",
-    "link": "https://nick.winans.io/blog/nice-nano/",
-    "summary": "<p>Article URL: <a href=\"https://nick.winans.io/blog/nice-nano/\">https://nick.winans.io/blog/nice-nano/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48314951\">https://news.ycombinator.com/item?id=48314951</a></p>\n<p>Points: 450</p>\n<p># Comments: 68</p>",
-    "published": "Thu, 28 May 2026 20:25:21 +0000"
-  },
-  {
-    "source": "Hacker News Top",
     "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
     "link": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-    "summary": "<p>Article URL: <a href=\"https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection\">https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48314136\">https://news.ycombinator.com/item?id=48314136</a></p>\n<p>Points: 1025</p>\n<p># Comments: 475</p>",
+    "summary": "<p>Article URL: <a href=\"https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection\">https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48314136\">https://news.ycombinator.com/item?id=48314136</a></p>\n<p>Points: 1239</p>\n<p># Comments: 556</p>",
     "published": "Thu, 28 May 2026 19:24:09 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
-    "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-    "summary": "<p>Article URL: <a href=\"https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/\">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48314002\">https://news.ycombinator.com/item?id=48314002</a></p>\n<p>Points: 266</p>\n<p># Comments: 90</p>",
-    "published": "Thu, 28 May 2026 19:15:54 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Building durable workflows on Postgres",
-    "link": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-    "summary": "<p>Article URL: <a href=\"https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution\">https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48313530\">https://news.ycombinator.com/item?id=48313530</a></p>\n<p>Points: 323</p>\n<p># Comments: 135</p>",
-    "published": "Thu, 28 May 2026 18:41:46 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Claude Opus 4.8",
     "link": "https://www.anthropic.com/news/claude-opus-4-8",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-opus-4-8\">https://www.anthropic.com/news/claude-opus-4-8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48311647\">https://news.ycombinator.com/item?id=48311647</a></p>\n<p>Points: 1577</p>\n<p># Comments: 1238</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-opus-4-8\">https://www.anthropic.com/news/claude-opus-4-8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48311647\">https://news.ycombinator.com/item?id=48311647</a></p>\n<p>Points: 1695</p>\n<p># Comments: 1319</p>",
     "published": "Thu, 28 May 2026 16:49:14 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-    "link": "https://llmgame.scalex.dev",
-    "summary": "<p>Article URL: <a href=\"https://llmgame.scalex.dev\">https://llmgame.scalex.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48308376\">https://news.ycombinator.com/item?id=48308376</a></p>\n<p>Points: 335</p>\n<p># Comments: 135</p>",
-    "published": "Thu, 28 May 2026 13:02:00 +0000"
+    "source": "Ars Technica",
+    "title": "Startup offers free home cleaning—if it can record it all for robot training",
+    "link": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+    "summary": "The latest twist in paying humans to wear head cameras for robot training data.",
+    "published": "Fri, 29 May 2026 16:16:14 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "After years of stability, F1 reliability can no longer be taken for granted",
+    "link": "https://arstechnica.com/cars/2026/05/f1-in-2026-to-finish-first-first-you-have-to-finish/",
+    "summary": "Until recently, a driver had maybe a six in ten chance of finishing a race.",
+    "published": "Fri, 29 May 2026 16:03:28 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "Severed sea cucumber appendages don't seem to die",
+    "link": "https://arstechnica.com/science/2026/05/severed-sea-cucumber-appendages-dont-seem-to-die/",
+    "summary": "They seem to reorganize their tissues and then just keep living.",
+    "published": "Fri, 29 May 2026 15:10:29 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "Rocket Report: A dark day for Blue Origin; Pentagon eyes new launch site",
+    "link": "https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/",
+    "summary": "A new crew launched to China's Tiangong space station, and one of the astronauts will stay for a year.",
+    "published": "Fri, 29 May 2026 13:03:46 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "Here's why the failure of Blue Origin's New Glenn rocket is so catastrophic",
+    "link": "https://arstechnica.com/space/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/",
+    "summary": "\"I hope that it makes it far enough away from the pad that it does not cause pad damage.\"",
+    "published": "Fri, 29 May 2026 12:43:35 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "These researchers would be in Africa fighting ebola—but Trump cut their funding",
+    "link": "https://arstechnica.com/health/2026/05/these-researchers-would-be-in-africa-fighting-ebola-but-trump-cut-their-funding/",
+    "summary": "US Infectious diseases centers launched during COVID have lost their funding under Trump.",
+    "published": "Fri, 29 May 2026 10:30:40 +0000"
   },
   {
     "source": "Ars Technica",
@@ -535,7 +584,7 @@
     "source": "Ars Technica",
     "title": "LLMs believe false statements even after explicit warnings that they're false",
     "link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
-    "summary": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"",
+    "summary": "Fine-tuning tests show \"bias... toward confidently representing the claims as true.\"",
     "published": "Thu, 28 May 2026 21:29:43 +0000"
   },
   {
@@ -546,46 +595,11 @@
     "published": "Thu, 28 May 2026 20:29:53 +0000"
   },
   {
-    "source": "Ars Technica",
-    "title": "US healthcare still stupidly expensive, with pathetic outcomes, study finds",
-    "link": "https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/",
-    "summary": "There are strategies to improve healthcare, but US isn't trying them.",
-    "published": "Thu, 28 May 2026 20:18:54 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Researchers develop a new process to get lithium out of rocks",
-    "link": "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
-    "summary": "If it scales up, it can help us diversify our sources of a key element.",
-    "published": "Thu, 28 May 2026 19:30:04 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "FBI says Google engineer used internal search data to win $1.2M on Polymarket",
-    "link": "https://arstechnica.com/tech-policy/2026/05/fbi-says-google-engineer-used-internal-search-data-to-win-1-2m-on-polymarket/",
-    "summary": "FBI: Googler who knew outcome of bets in advance made $1.2M profit on Polymarket.",
-    "published": "Thu, 28 May 2026 19:01:54 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "A respectable port of Age of Empires II: Definitive Edition invades macOS",
-    "link": "https://arstechnica.com/gaming/2026/05/a-respectable-port-of-age-of-empires-ii-definitive-edition-invades-macos/",
-    "summary": "The port seems solid, and all DLC is supported—but there's no crossplay, sadly.",
-    "published": "Thu, 28 May 2026 18:42:28 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
-    "link": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
-    "summary": "As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable.",
-    "published": "Thu, 28 May 2026 18:30:48 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Amazon turns to Jeff Bezos' other company to do some heavy lifting",
-    "link": "https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/",
-    "summary": "Amazon is turning a corner with its launch providers, but ULA's Vulcan remains grounded.",
-    "published": "Thu, 28 May 2026 18:17:41 +0000"
+    "source": "MIT Tech Review",
+    "title": "The Download: unlocking lithium and controlling Ebola",
+    "link": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a new extraction process could unlock the world’s lithium A new method for extracting lithium could cut costs and emissions from one of the world’s most important materials for EVs&#8230;",
+    "published": "Fri, 29 May 2026 12:10:00 +0000"
   },
   {
     "source": "MIT Tech Review",
@@ -631,9 +645,16 @@
   },
   {
     "source": "SCMP Business",
-    "title": "HKEX revamps Tech 100 index as Hong Kong benchmark struggles to keep pace with AI rally",
+    "title": "China’s US$2.2 trillion urban renewal plan to boost construction, property sectors",
+    "link": "https://www.scmp.com/business/china-business/article/3355357/chinas-us22-trillion-urban-renewal-plan-boost-construction-property-sectors?utm_source=rss_feed",
+    "summary": "China’s ambitious urban renewal projects, from upgrading dilapidated homes to rebuilding gas pipelines, are expected to require investment of at least 15 trillion yuan (US$2.2 trillion) in the five years from 2026, offering fresh growth opportunities for construction firms.\nProperty developers also received a shot in the arm on Friday, after the State Council released a guideline on the urban renewal campaign, part of Beijing’s 15th five-year plan for 2026 to 2030.\nThe overall investment could...",
+    "published": "Fri, 29 May 2026 12:33:10 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "HKEX revamps Tech 100 Index as Hong Kong benchmark struggles to keep pace with AI rally",
     "link": "https://www.scmp.com/business/markets/article/3355329/hkex-revamps-tech-100-index-hong-kong-benchmark-struggles-keep-pace-ai-rally?utm_source=rss_feed",
-    "summary": "Hong Kong Exchanges and Clearing (HKEX) has overhauled its Tech 100 Index, adding seven technology-focused companies and removing seven others, as Hong Kong’s benchmark providers face growing pressure to reflect the rapid rise of artificial intelligence stocks.\nThe latest additions increase the benchmark’s exposure to areas such as autonomous driving, robotics, enterprise software and optical communications.\nThe changes, which take effect on June 15, bring in Deepexi Technology, Time...",
+    "summary": "Hong Kong Exchanges and Clearing (HKEX) has overhauled its Tech 100 Index, adding seven technology-focused companies and removing seven others, as Hong Kong’s benchmark providers face growing pressure to reflect the rapid rise of artificial intelligence stocks.\nThe latest additions by Hong Kong’s bourse operator increase the benchmark’s exposure to areas such as autonomous driving, robotics, enterprise software and optical communications.\nThe changes, which take effect on June 15, bring in...",
     "published": "Fri, 29 May 2026 10:37:37 +0000"
   },
   {
@@ -691,12 +712,5 @@
     "link": "https://www.scmp.com/economy/china-economy/article/3355244/how-wine-industry-can-stage-comeback-china-using-social-media?utm_source=rss_feed",
     "summary": "China has lost its taste for wine in recent years, with consumption plunging dramatically since the Covid-19 pandemic. But winemakers can recover if they embrace social media and work with Chinese influencers, according to an industry insider.\nWealthy Chinese are still splashing out on fine wine, which has helped to offset a steep drop-off in sales of mass-market tipples and kept foreign vintners coming back to China, said Rodolphe Lameyse, one of the organisers of Vinexpo Asia – a trade event...",
     "published": "Fri, 29 May 2026 03:00:02 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "China’s private funds see assets soar by over US$400 billion amid tech boom",
-    "link": "https://www.scmp.com/economy/china-economy/article/3355169/chinas-private-funds-see-assets-soar-over-us400-billion-amid-tech-boom?utm_source=rss_feed",
-    "summary": "China’s private fund industry has seen its assets under management climb to a record high, buoyed by rebounding market confidence and a surge in technology-related investments.\nThe nation’s private investment funds had assets totalling 23.46 trillion yuan (US$3.46 trillion) as of the end of April, up from 20.22 trillion yuan a year earlier, according to data released by the Asset Management Association of China on Wednesday.\nThe industry – which spans private equity, venture capital and private...",
-    "published": "Fri, 29 May 2026 01:00:09 +0000"
   }
 ]
