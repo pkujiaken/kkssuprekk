@@ -71,6 +71,20 @@
   },
   {
     "source": "NYT Business",
+    "title": "How Your Friend Group Influences How You Spend and Save",
+    "link": "https://www.nytimes.com/2026/05/30/business/friends-spending-habits.html",
+    "summary": "Our spending habits are often influenced by our social circles. You can help shape what it looks like.",
+    "published": "Sat, 30 May 2026 09:02:38 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Making Motherhood and a Long Tennis Career Possible",
+    "link": "https://www.nytimes.com/2026/05/30/business/tennis-wta-in-vitro-fertilization.html",
+    "summary": "Tennis is a solitary sport, but with new fertility benefits, a sisterhood of egg freezers is emerging in locker rooms and players’ lounges.",
+    "published": "Sat, 30 May 2026 09:00:26 +0000"
+  },
+  {
+    "source": "NYT Business",
     "title": "China’s Rise in Drug Development Looms Over U.S.",
     "link": "https://www.nytimes.com/2026/05/30/business/china-lung-cancer-drugs-asco.html",
     "summary": "Clinical trials in China are getting attention at an international oncology gathering in Chicago. China’s surging biotechnology industry is fueling alarm that U.S. dominance in the field is waning.",
@@ -124,20 +138,6 @@
     "link": "https://www.nytimes.com/2026/05/29/business/media/luka-doncic-nba-owner-rome.html",
     "summary": "The superstar is part of group that has bought a basketball team in Italy, with a plan to move the club to Rome in hopes of making it part of a new league.",
     "published": "Fri, 29 May 2026 12:37:35 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Providence Isn’t an Official World Cup Host but It Sure Is Acting Like One",
-    "link": "https://www.nytimes.com/2026/05/29/us/boston-providence-world-cup.html",
-    "summary": "A stadium outside Boston that will host seven World Cup games is actually closer to Providence, R.I., prompting officials there to capitalize on that proximity to lure fans.",
-    "published": "Fri, 29 May 2026 20:08:20 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "A.I. Doesn’t Have to Mean Layoffs",
-    "link": "https://www.nytimes.com/2026/05/29/business/economy/ai-jobs-productivity.html",
-    "summary": "A French multinational, Schneider Electric, decided to use artificial intelligence in manufacturing to make workers more productive, rather than to replace them. Here’s how that’s going.",
-    "published": "Fri, 29 May 2026 12:07:26 +0000"
   },
   {
     "source": "NYT Economy",
@@ -218,6 +218,13 @@
   },
   {
     "source": "MarketWatch Top Stories",
+    "title": "‘It is such a fine line’: I am a CFP and see nothing wrong with networking on the golf course. Am I wrong?",
+    "link": "https://www.marketwatch.com/story/it-is-such-a-fine-line-i-am-a-cfp-and-see-nothing-wrong-with-networking-on-the-golf-course-am-i-wrong-50a698e8?mod=mw_rss_topstories",
+    "summary": "“I would love to develop working relationships with almost everyone I play golf with.”",
+    "published": "Sat, 30 May 2026 10:20:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
     "title": "‘Fairness is important to us’: We sold our family business to our son at a discount. How can we make this up to our other child?",
     "link": "https://www.marketwatch.com/story/fairness-is-important-to-us-we-sold-our-family-business-to-our-son-at-a-discount-how-can-we-make-this-up-to-our-other-child-b987614b?mod=mw_rss_topstories",
     "summary": "“We did not seek or consider other offers. We engaged several professionals throughout the process.”",
@@ -280,13 +287,6 @@
     "published": "Fri, 29 May 2026 20:28:00 GMT"
   },
   {
-    "source": "MarketWatch Top Stories",
-    "title": "One of the hottest crypto products in the world is finally coming to the U.S.",
-    "link": "https://www.marketwatch.com/story/one-of-the-hottest-crypto-products-in-the-world-is-finally-coming-to-the-u-s-96e9dfa6?mod=mw_rss_topstories",
-    "summary": "Kalshi and Coinbase have received permission from the Commodity Futures Trading Commission to bring perpetual futures to U.S.-based investors.",
-    "published": "Fri, 29 May 2026 20:18:00 GMT"
-  },
-  {
     "source": "CNBC Business",
     "title": "Replimune to resubmit twice-rejected drug for approval after FDA shakeup",
     "link": "https://www.cnbc.com/2026/05/29/replimune-resubmit-melanoma-drug-fda-makary.html",
@@ -306,27 +306,6 @@
     "link": "https://www.cnbc.com/2026/05/28/disney-fcc-broadcast-licenses-renewal.html",
     "summary": "Disney said it filed renewals for eight broadcast station licenses \"under protest,\" after the FCC launched an early review years ahead of schedule.",
     "published": "Fri, 29 May 2026 15:46:28 GMT"
-  },
-  {
-    "source": "CNBC Business",
-    "title": "Costco says it saw 'record-breaking' gas volumes amid rising prices",
-    "link": "https://www.cnbc.com/2026/05/28/costco-cost-q3-2026-earnings.html",
-    "summary": "Costco saw \"recording-breaking volumes\" of gas sales and said rising fuel prices drove first-time members to its stations.",
-    "published": "Thu, 28 May 2026 21:38:39 GMT"
-  },
-  {
-    "source": "CNBC Business",
-    "title": "Gap shares tumble 14% as retailer cuts sales guidance after disappointing Old Navy performance",
-    "link": "https://www.cnbc.com/2026/05/28/gap-gap-earnings-q1-2026.html",
-    "summary": "Gap issued mixed results as sales at its largest brand, Old Navy, fell short of estimates.",
-    "published": "Thu, 28 May 2026 22:01:01 GMT"
-  },
-  {
-    "source": "CNBC Business",
-    "title": "American Eagle's Aerie is booming, but its namesake brand is lagging despite Sydney Sweeney ads",
-    "link": "https://www.cnbc.com/2026/05/28/american-eagle-aeo-earnings-q1-2026.html",
-    "summary": "American Eagle beat Wall Street's expectations but sales at its namesake banner fell short of estimates after its latest Sydney Sweeney campaign.",
-    "published": "Thu, 28 May 2026 22:06:47 GMT"
   },
   {
     "source": "CNBC Finance",
@@ -360,70 +339,56 @@
     "source": "Hacker News Top",
     "title": "What Is a Dickover?",
     "link": "https://daringfireball.net/2026/05/what_is_a_dickover",
-    "summary": "<p>Article URL: <a href=\"https://daringfireball.net/2026/05/what_is_a_dickover\">https://daringfireball.net/2026/05/what_is_a_dickover</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48330882\">https://news.ycombinator.com/item?id=48330882</a></p>\n<p>Points: 315</p>\n<p># Comments: 122</p>",
+    "summary": "<p>Article URL: <a href=\"https://daringfireball.net/2026/05/what_is_a_dickover\">https://daringfireball.net/2026/05/what_is_a_dickover</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48330882\">https://news.ycombinator.com/item?id=48330882</a></p>\n<p>Points: 371</p>\n<p># Comments: 140</p>",
     "published": "Fri, 29 May 2026 23:54:22 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "MCP is dead?",
     "link": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-    "summary": "<p>Article URL: <a href=\"https://www.quandri.io/engineering-blog/mcp-is-dead\">https://www.quandri.io/engineering-blog/mcp-is-dead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48330436\">https://news.ycombinator.com/item?id=48330436</a></p>\n<p>Points: 210</p>\n<p># Comments: 178</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.quandri.io/engineering-blog/mcp-is-dead\">https://www.quandri.io/engineering-blog/mcp-is-dead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48330436\">https://news.ycombinator.com/item?id=48330436</a></p>\n<p>Points: 249</p>\n<p># Comments: 218</p>",
     "published": "Fri, 29 May 2026 22:56:49 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "SQLite is all you need for durable workflows",
     "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-    "summary": "<p>Article URL: <a href=\"https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/\">https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48326802\">https://news.ycombinator.com/item?id=48326802</a></p>\n<p>Points: 509</p>\n<p># Comments: 255</p>",
+    "summary": "<p>Article URL: <a href=\"https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/\">https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48326802\">https://news.ycombinator.com/item?id=48326802</a></p>\n<p>Points: 548</p>\n<p># Comments: 279</p>",
     "published": "Fri, 29 May 2026 17:54:50 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Notes from the Mistral AI Now Summit",
     "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-    "summary": "<p>Article URL: <a href=\"https://koenvangilst.nl/lab/mistral-ai-now-summit\">https://koenvangilst.nl/lab/mistral-ai-now-summit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48325340\">https://news.ycombinator.com/item?id=48325340</a></p>\n<p>Points: 362</p>\n<p># Comments: 145</p>",
+    "summary": "<p>Article URL: <a href=\"https://koenvangilst.nl/lab/mistral-ai-now-summit\">https://koenvangilst.nl/lab/mistral-ai-now-summit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48325340\">https://news.ycombinator.com/item?id=48325340</a></p>\n<p>Points: 384</p>\n<p># Comments: 162</p>",
     "published": "Fri, 29 May 2026 16:22:01 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "You can just say it",
-    "link": "https://noperator.dev/posts/you-can-just-say-it/",
-    "summary": "<p>Article URL: <a href=\"https://noperator.dev/posts/you-can-just-say-it/\">https://noperator.dev/posts/you-can-just-say-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48324853\">https://news.ycombinator.com/item?id=48324853</a></p>\n<p>Points: 318</p>\n<p># Comments: 165</p>",
-    "published": "Fri, 29 May 2026 15:54:28 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "The dead economy theory",
     "link": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-    "summary": "<p>Article URL: <a href=\"https://www.owenmcgrann.com/p/the-dead-economy-theory\">https://www.owenmcgrann.com/p/the-dead-economy-theory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48324712\">https://news.ycombinator.com/item?id=48324712</a></p>\n<p>Points: 958</p>\n<p># Comments: 1109</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.owenmcgrann.com/p/the-dead-economy-theory\">https://www.owenmcgrann.com/p/the-dead-economy-theory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48324712\">https://news.ycombinator.com/item?id=48324712</a></p>\n<p>Points: 1024</p>\n<p># Comments: 1163</p>",
     "published": "Fri, 29 May 2026 15:46:24 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "GTA 6 Developers Unionize",
-    "link": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-    "summary": "<p>Article URL: <a href=\"https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/\">https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48324499\">https://news.ycombinator.com/item?id=48324499</a></p>\n<p>Points: 672</p>\n<p># Comments: 452</p>",
-    "published": "Fri, 29 May 2026 15:32:55 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Bijou64: A variable-length integer encoding",
     "link": "https://www.inkandswitch.com/tangents/bijou64/",
-    "summary": "<p>Article URL: <a href=\"https://www.inkandswitch.com/tangents/bijou64/\">https://www.inkandswitch.com/tangents/bijou64/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48323992\">https://news.ycombinator.com/item?id=48323992</a></p>\n<p>Points: 224</p>\n<p># Comments: 79</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.inkandswitch.com/tangents/bijou64/\">https://www.inkandswitch.com/tangents/bijou64/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48323992\">https://news.ycombinator.com/item?id=48323992</a></p>\n<p>Points: 231</p>\n<p># Comments: 79</p>",
     "published": "Fri, 29 May 2026 15:03:32 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "It's hard to justify buying a Framework 12",
     "link": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-    "summary": "<p><a href=\"https://www.youtube.com/watch?v=aPVAnwuSjfk\" rel=\"nofollow\">https://www.youtube.com/watch?v=aPVAnwuSjfk</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48323869\">https://news.ycombinator.com/item?id=48323869</a></p>\n<p>Points: 286</p>\n<p># Comments: 476</p>",
+    "summary": "<p><a href=\"https://www.youtube.com/watch?v=aPVAnwuSjfk\" rel=\"nofollow\">https://www.youtube.com/watch?v=aPVAnwuSjfk</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48323869\">https://news.ycombinator.com/item?id=48323869</a></p>\n<p>Points: 306</p>\n<p># Comments: 505</p>",
     "published": "Fri, 29 May 2026 14:55:31 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Is AI causing a repeat of frontend’s lost decade?",
     "link": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-    "summary": "<p>Article URL: <a href=\"https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/\">https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48321631\">https://news.ycombinator.com/item?id=48321631</a></p>\n<p>Points: 340</p>\n<p># Comments: 291</p>",
+    "summary": "<p>Article URL: <a href=\"https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/\">https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48321631\">https://news.ycombinator.com/item?id=48321631</a></p>\n<p>Points: 357</p>\n<p># Comments: 297</p>",
     "published": "Fri, 29 May 2026 11:09:32 +0000"
   },
   {
