@@ -1,8 +1,26 @@
 {
   "top5": [
     {
-      "title": "美国SEC提议撤销气候相关披露规则",
-      "summary": "美国证券交易委员会（SEC）提议撤销要求上市公司披露气候相关信息的规则，理由是其过于繁重且成本高昂。这一举动标志着监管方向的重大转变，可能影响企业在ESG（环境、社会和公司治理）方面的透明度义务，并对寻求更全面气候风险信息的投资者造成影响。",
+      "title": "Anthropic估值超越OpenAI，AI领域竞争白热化",
+      "summary": "人工智能初创公司Anthropic的估值已达9000亿美元，超越OpenAI成为全球最具价值的AI企业。这一里程碑反映了市场对大型语言模型（LLM）及AI应用的持续高涨热情，也预示着AI赛道的竞争进入白热化阶段。随着更多资本涌入，技术创新和商业模式的突破将成为决定未来领导者的关键，对相关产业链的投资机会产生深远影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/29/business/dealbook/anthropic-ai-openai.html"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/05/29/business/dealbook/anthropic-ai-openai.html"
+        },
+        {
+          "name": "Hacker News Top",
+          "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup"
+        }
+      ]
+    },
+    {
+      "title": "美国SEC提议撤销气候相关披露规则，影响ESG投资格局",
+      "summary": "美国证券交易委员会（SEC）提议撤销此前要求上市公司披露气候相关信息的规则。此举被视为对企业ESG（环境、社会和治理）信息披露要求的重大放松，可能减轻企业的合规负担，但也可能引发投资者对气候风险透明度的担忧，并对全球ESG投资趋势和企业可持续发展策略产生深远影响。这可能导致部分基金重新评估其ESG投资策略。",
       "sources": [
         {
           "name": "SEC Press",
@@ -15,22 +33,8 @@
       ]
     },
     {
-      "title": "AI巨头Anthropic估值达9000亿美元，超越OpenAI",
-      "summary": "人工智能公司Anthropic的估值飙升至9000亿美元，超越了其主要竞争对手OpenAI，凸显了AI领域令人瞩目的资本热度和头部企业快速扩张的态势。这一里程碑事件反映出市场对生成式AI的巨大信心和投资热情，对AI赛道的未来格局和资本流向具有重要指示意义。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/29/business/dealbook/anthropic-ai-openai.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/05/29/business/dealbook/anthropic-ai-openai.html"
-        }
-      ]
-    },
-    {
-      "title": "欧洲与中国贸易战风险升级，威胁全球供应链",
-      "summary": "随着大量廉价中国商品涌入欧洲，严重威胁到欧洲本土制造业，欧盟正越来越接近与中国爆发贸易战。解决方案的紧迫性日益增加，预示着全球主要经济体之间的贸易摩擦可能进一步加剧，对全球供应链、特定产业（如电动汽车）及相关企业的盈利能力产生深远影响。",
+      "title": "欧洲与中国贸易摩擦升级，担忧廉价商品冲击本土产业",
+      "summary": "随着中国廉价商品，特别是电动汽车等领域的产品大量涌入，欧洲正逐步走向与中国的贸易战边缘。欧洲多国担忧其本土制造业将受到严重冲击，正积极寻求应对方案。此次贸易紧张局势的升级，不仅可能加剧全球供应链的不确定性，也可能迫使跨国企业重新评估其在欧洲和中国的战略布局，影响相关行业投资。",
       "sources": [
         {
           "name": "NYT Economy",
@@ -39,8 +43,43 @@
       ]
     },
     {
-      "title": "美联储理事鲍曼警告勿因短期通胀飙升而加息",
-      "summary": "美联储理事米歇尔·鲍曼（Michelle Bowman）警告，不要因主要由能源价格和关税驱动的通胀飙升而加息，认为这种反应已被证明是无效的。她的观点揭示了美联储内部对当前通胀性质及其货币政策应对策略的分歧，对未来利率路径和宏观经济政策走向提供重要参考。",
+      "title": "SpaceX IPO引发华尔街热潮与机构投资者担忧",
+      "summary": "埃隆·马斯克的SpaceX计划进行大规模首次公开募股（IPO），引发华尔街高度关注，市场普遍预期这将是一次巨大的财富盛宴。然而，一家丹麦大型养老基金以治理和估值问题为由，明确表示将排除SpaceX，凸显了在IPO狂热背后，机构投资者对公司治理和财务可持续性的审慎考量，为散户投资者敲响了警钟。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/29/business/spacex-ipo-wall-street.html"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/this-mutual-fund-lets-you-buy-spacex-stock-before-the-ipo-but-what-are-you-actually-getting-907b96d1?mod=mw_rss_topstories"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/05/30/spacex-ipo-invest.html"
+        },
+        {
+          "name": "Hacker News Top",
+          "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/"
+        }
+      ]
+    },
+    {
+      "title": "中国生物制药研发崛起，挑战美国在该领域的主导地位",
+      "summary": "在国际肿瘤学会议上，来自中国的临床药物试验日益受到关注，表明中国在生物技术和药物研发领域的实力正迅速增强。这引发了美国业界对其在全球生物制药主导地位可能被削弱的警惕。中国的崛起不仅改变了全球药物研发的格局，也可能促进更多合作与竞争，影响未来医疗投资方向和跨国药企的战略布局。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/30/business/china-lung-cancer-drugs-asco.html"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "name": "米歇尔·鲍曼",
+      "title": "美联储理事警告不应因能源和关税引发的通胀而加息",
+      "summary": "原话：「对主要由能源价格和关税驱动的通胀飙升做出反应，已被证明是无效的。」美联储理事米歇尔·鲍曼警告，央行不应仅仅因为通胀数据上升而提高利率。她认为当前通胀的性质可能更侧重于特定因素，加息可能无法有效解决，反而可能对经济造成不必要的打击，对市场利率预期构成影响。",
       "sources": [
         {
           "name": "CNBC Finance",
@@ -49,29 +88,35 @@
       ]
     },
     {
-      "title": "太空产业估值面临现实检验，风险与机遇并存",
-      "summary": "蓝色起源（Blue Origin）火箭爆炸事件以及市场对SpaceX等公司高额IPO估值的重新审视，导致太空板块股票承压。这表明尽管太空探索领域前景广阔，但其高风险性和高估值正引发投资者警惕。此次事件和市场情绪变化，促使投资者重新评估太空科技公司的实际价值与潜在风险。",
+      "name": "泰勒·考恩",
+      "title": "观点：低收入人群通胀可能被低估，页岩气为美国消费者节省大量成本",
+      "summary": "观点：经济学家泰勒·考恩指出，当上游投入成本上升时，低价商品会经历更大的百分比涨价（“廉价通胀”），导致低收入家庭的通胀可能被低估，这对宏观经济数据解读提出挑战。同时，他还强调了页岩气革命为美国消费者节省了巨额开支，使其在2007-2023年间合计节省了约3.3万亿美元，凸显了能源创新对民生经济的深远影响。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/space-stocks-are-falling-after-a-blue-origin-rocket-explodes-and-spacexs-valuation-gets-a-reality-check-230ae49f?mod=mw_rss_topstories"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/are-we-undermeasuring-inflation-for-lower-earners.html?utm_source=rss&utm_medium=rss&utm_campaign=are-we-undermeasuring-inflation-for-lower-earners"
         },
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/29/business/spacex-ipo-wall-street.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cvgzl5wd8xeo?at_medium=RSS&at_campaign=rss"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/how-much-has-shale-gas-saved-u-s-consumers.html?utm_source=rss&utm_medium=rss&utm_campaign=how-much-has-shale-gas-saved-u-s-consumers"
         }
       ]
-    }
-  ],
-  "people": [
+    },
     {
-      "name": "Ben Thompson (Stratechery)",
-      "title": "Ben Thompson：AI回答的商业化与中国社会流动性",
-      "summary": "观点：Ben Thompson在其最新分析中探讨了如何将人工智能的问答能力转化为可行的商业模式，这对于AI服务的未来盈利路径至关重要。同时，他还触及了中国社会流动性这一深层结构性议题，提供对技术与社会经济宏观趋势的独到见解。",
+      "name": "本·卡尔森",
+      "title": "观点：消费者信心创历史新低，但市场表现可能并非完全同步",
+      "summary": "观点：投资策略师本·卡尔森指出，当前美国消费者信心指数已跌至历史最低水平，引发了对经济前景的普遍悲观情绪。但他通常会分析历史数据，可能暗示消费者情绪与实际市场表现或经济基本面之间存在复杂关系，提醒投资者不应仅凭单一指标做出判断。市场情绪低迷并不总是预示着经济灾难，需综合考量。",
+      "sources": [
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/05/the-lowest-consumer-sentiment-ever/"
+        }
+      ]
+    },
+    {
+      "name": "本·汤普森",
+      "title": "观点：AI回答的商业化模式是关键，关注中国社会流动性挑战",
+      "summary": "观点：科技分析师本·汤普森在最新分析中探讨了AI生成答案的商业化途径，认为找到有效的盈利模式是AI技术持续发展的关键挑战，决定了AI企业的长期价值。同时，他还关注到中国社会流动性问题，这可能对技术采用、创新生态和宏观经济结构产生长期影响，提示投资者在评估市场时需考虑这些深层社会经济因素。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
@@ -80,74 +125,21 @@
       ]
     },
     {
-      "name": "Tyler Cowen (Marginal Revolution)",
-      "title": "Tyler Cowen：低收入人群通胀可能被低估",
-      "summary": "观点：经济学家Tyler Cowen指出，当上游投入成本上升时，各类产品价格的绝对涨幅往往相似，但这对于低价商品而言意味着更大的百分比涨幅。他称之为“廉价通胀”（cheapflation），导致低收入家庭实际面临的通胀水平可能高于官方统计数据，值得政策制定者关注。",
+      "name": "比尔·阿克曼",
+      "title": "潘兴广场对环球音乐的收购要约被拒绝，因估值过低",
+      "summary": "亿万富翁投资者比尔·阿克曼旗下的潘兴广场（Pershing Square）对全球音乐巨头环球音乐（Universal Music）提出的收购要约遭到拒绝。环球音乐方面表示，阿克曼的报价“从根本上低估了该业务的价值”。此次失败的收购尝试凸显了当前市场对优质内容资产的激烈竞争和高估值预期，以及私募股权投资者面临的挑战。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/are-we-undermeasuring-inflation-for-lower-earners.html"
-        }
-      ]
-    },
-    {
-      "name": "Michelle Bowman (美联储理事)",
-      "title": "美联储理事鲍曼警告勿因短期通胀飙升而加息",
-      "summary": "原话：「对主要由能源价格和关税驱动的通胀飙升做出反应已被证明是无效的。」鲍曼进一步解释，此类因素引发的通胀不应通过加息来应对，呼吁美联储在制定货币政策时保持审慎和耐心，避免对暂时性冲击反应过度，从而对经济造成不必要的损害。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/05/29/feds-bowman-warns-against-hiking-interest-rates-due-to-inflation-spike.html"
-        }
-      ]
-    },
-    {
-      "name": "Peter Thiel (投资者)",
-      "title": "Peter Thiel对阿根廷的兴趣引关注",
-      "summary": "观点：科技亿万富翁兼风险投资家Peter Thiel与阿根廷的关联被提及。作为硅谷最具影响力的投资者之一，Thiel的投资动向往往预示着新兴市场或特定技术领域的潜在机遇，其对阿根廷的关注可能暗示着该国经济或科技创新环境的吸引力，值得资本市场留意。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/friday-assorted-links-574.html"
-        }
-      ]
-    },
-    {
-      "name": "Ben Carlson (A Wealth of Common Sense)",
-      "title": "Ben Carlson：美国消费者信心创历史新低令人费解",
-      "summary": "观点：Ben Carlson指出，尽管当前经济数据喜忧参半，但美国消费者信心却跌至有记录以来最低点，他困惑于“为什么每个人都对经济如此暴躁”。这一现象表明，即便部分经济指标向好，公众对经济前景的普遍悲观情绪仍可能对未来的消费行为和整体经济复苏构成挑战。",
-      "sources": [
-        {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/05/the-lowest-consumer-sentiment-ever/"
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/cn8pnd9yj4eo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "美国消费者信心降至历史新低，预示消费支出压力",
-      "summary": "最新数据显示，美国消费者情绪已跌至有记录以来的最低点，反映出公众对经济前景普遍持悲观态度。尽管一些经济指标可能表现积极，但消费者信心持续低迷预示着未来消费支出可能面临下行压力，这可能对美国经济增长构成潜在风险。",
-      "sources": [
-        {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/05/the-lowest-consumer-sentiment-ever/"
-        }
-      ]
-    },
-    {
-      "title": "美国页岩气革命为消费者节省巨额能源成本",
-      "summary": "一项研究指出，自2000年代中期页岩气技术取得突破以来，美国天然气产量大幅增长，为美国消费者节省了巨额能源成本。页岩气革命不仅改变了美国的能源进口格局，使其从净进口国转变为出口国，更对工业生产成本和居民生活开支产生了深远积极的宏观经济影响。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/how-much-has-shale-gas-saved-u-s-consumers.html"
-        }
-      ]
-    },
-    {
-      "title": "特朗普政府新规为企业避税天堂开绿灯",
-      "summary": "特朗普政府通过新的政策调整，使得美国公司能够更容易地利用马耳他、百慕大和塞浦路斯等离岸避税港进行税务规避。自2025年初以来，此举已导致美国公司规避了至少400亿美元的税款。这一政策可能鼓励企业调整其国际税务结构，但也引发了对全球税收公平性和财政收入的担忧。",
+      "title": "美国政府为企业规避离岸避税开绿灯",
+      "summary": "美国政府已为企业通过马耳他、塞浦路斯等离岸避税天堂规避税款提供便利。自2025年初以来，美国企业已通过此类方案规避了至少400亿美元的税款。这一政策调整可能导致美国财政收入减少，并鼓励更多企业将利润转移至低税率地区，从而影响美国国内的投资、税收公平性和财政健康。",
       "sources": [
         {
           "name": "NYT Business",
@@ -160,20 +152,8 @@
       ]
     },
     {
-      "title": "特朗普推迟伊朗提案决定，油价下跌股市上涨",
-      "summary": "美国总统特朗普推迟对伊朗提案做出决定，市场解读为地缘政治紧张局势暂时缓解。这一消息促使原油价格下滑，而股市则随之攀升。投资者对中东冲突升级的担忧暂时消退，反映出市场对地缘政治风险的敏感性以及其对能源价格和整体市场情绪的即时影响。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/oil-prices-slide-as-trump-says-the-u-s-is-close-to-an-iran-deal-8af9ece2?mod=mw_rss_topstories"
-        }
-      ]
-    }
-  ],
-  "tech": [
-    {
-      "title": "AI不必然导致裁员，可助力提升生产力",
-      "summary": "法国跨国公司施耐德电气（Schneider Electric）在制造业中引入人工智能，其战略目标是提升工人生产力而非直接取代他们。这一案例表明，AI在企业中的应用可以超越单纯的成本削减，转变为赋能员工、优化工作流程的工具，为其他企业探索AI战略提供了新的视角。",
+      "title": "AI并非必然导致裁员，施耐德电气案例展示生产力提升潜力",
+      "summary": "法国跨国公司施耐德电气（Schneider Electric）在其制造业中引入人工智能，旨在提升员工生产力而非裁员。这一实践表明，AI技术可以通过辅助工人、优化流程等方式，成为生产力增长的工具，而非简单的劳动力替代者。这为其他企业探索AI应用提供了新的视角，并对未来劳动力市场转型和就业结构具有指导意义。",
       "sources": [
         {
           "name": "NYT Economy",
@@ -182,76 +162,88 @@
       ]
     },
     {
-      "title": "宝马在欧洲工厂引入人形机器人，加速汽车制造自动化",
-      "summary": "宝马公司宣布将在其欧洲汽车制造工厂引入人形机器人，此前已在美国工厂成功实施类似项目。此举标志着汽车行业在生产自动化方面迈出重要一步，预示着机器人技术在重工业中的应用将日益深化，可能重塑全球汽车制造业的效率、成本结构和劳动力需求。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "AI热潮驱动企业软件及服务器制造商股价飙升",
-      "summary": "服务管理软件公司ServiceNow的股价在本月大幅上涨，显示市场对AI集成软件解决方案的强劲需求和乐观情绪。同时，戴尔（Dell）等服务器制造商的股价也因AI基础设施建设带来的硬件需求激增而显著拉升。这表明AI投资正从芯片制造商扩散至整个企业IT生态系统，惠及上下游多个环节。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/servicenows-stock-soars-toward-historic-month-as-ai-fears-fade-across-software-31854b69?mod=mw_rss_topstories"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/dells-stunning-30-stock-rally-is-giving-a-big-boost-to-shares-of-other-server-makers-78292f16?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "AI对前端开发领域或造成“失落的十年”",
-      "summary": "有观点认为，随着人工智能工具的普及和自动化能力的提升，前端开发领域可能面临一个“失落的十年”。AI标准化和简化代码的能力可能减少对初级和中级开发者的需求，迫使行业内的专业人士转向更复杂、更具创造性的AI应用和架构设计，从而引发行业结构性调整。",
+      "title": "美国政府提案可能削弱科学研究独立性",
+      "summary": "美国管理和预算办公室提出新的拨款规定，允许政府随时取消任何科研资助。此举可能对美国的科学研究生态系统产生深远影响，削弱科研机构的独立性和长期规划能力。在当前科技竞争日益激烈的背景下，这种不确定性可能阻碍关键技术领域的创新和国家竞争力，值得长期关注。",
       "sources": [
         {
           "name": "Hacker News Top",
-          "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/"
+          "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/"
+        }
+      ]
+    }
+  ],
+  "tech": [
+    {
+      "title": "Mistral AI技术峰会揭示LLM最新进展",
+      "summary": "Mistral AI近期举办的技术峰会，展示了大型语言模型（LLM）领域的最新进展。这类峰会通常会发布新的模型、研究成果或合作计划，为AI开发者和投资者提供了行业前沿动态和技术发展趋势。对Mistral等新兴AI公司的关注，有助于了解AI技术竞争的最新格局和潜在投资机会，尤其在模型效率和应用拓展方面。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit"
+        }
+      ]
+    },
+    {
+      "title": "Liquid AI推出新型8B-A1B混合专家模型",
+      "summary": "人工智能公司Liquid AI发布了其最新的8B-A1B混合专家（MoE）模型，该模型在一个38万亿参数的数据集上进行训练。MoE模型在效率和性能上具有优势，尤其适用于处理大规模数据和复杂任务。这一进展表明AI模型架构的创新仍在继续，有望推动更强大、更高效的AI应用发展，为相关技术服务公司带来新机遇。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b"
+        }
+      ]
+    },
+    {
+      "title": "“死经济理论”思考经济增长与科技变革",
+      "summary": "“死经济理论”探讨了当前经济可能陷入的低增长困境，以及科技（尤其是AI）如何影响未来的经济结构和增长模式。这一理论引发了关于生产力、就业和长期投资策略的深刻讨论，促使专业人士重新思考传统经济范式，以适应由技术驱动的结构性变化。理解这一理论有助于投资者更好地预判长期市场趋势。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "环球音乐集团拒绝Bill Ackman的收购提议",
-      "summary": "亿万富翁投资者Bill Ackman旗下潘兴广场（Pershing Square）对环球音乐集团（Universal Music Group）的收购提议遭到拒绝，环球音乐方面认为该报价严重低估了公司的实际价值。这一事件突显了音乐行业头部资产的稀缺性及其高估值潜力，同时也展现了激进投资者在市场并购中的活跃度。",
+      "title": "零售投资者通过ETF寻求SpaceX IPO提前布局",
+      "summary": "随着SpaceX IPO的临近，散户投资者正涌入包括NASA ETF在内的太空主题交易所交易基金，以期间接获得SpaceX的投资敞口。在私募市场和IPO之间，此类投资工具为普通投资者提供了参与高增长私营公司的途径，但也伴随着流动性、估值溢价和特定资产集中度等风险，需审慎评估。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cn8pnd9yj4eo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Gap和American Eagle业绩不及预期，股价重挫",
-      "summary": "零售商Gap和American Eagle Outfitters在公布令人失望的财报后，股价双双大跌。尽管两家公司的管理层均未将业绩不佳归咎于宏观经济，但其股价表现反映出即使在整体经济环境可能稳定的情况下，特定零售品牌仍面临激烈的市场竞争、消费者偏好变化以及自身运营挑战，对投资者情绪造成影响。",
-      "sources": [
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/05/30/spacex-ipo-invest.html"
+        },
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/gap-and-american-eagle-stock-are-both-getting-crushed-and-neither-retailer-is-blaming-the-economy-6290fa6a?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/this-mutual-fund-lets-you-buy-spacex-stock-before-the-ipo-but-what-are-you-actually-getting-907b96d1?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "迪士尼旗下ABC广播执照续期面临FCC审查",
-      "summary": "迪士尼旗下的ABC电视网提前提交了八个广播电台的执照续期申请，但美国联邦通信委员会（FCC）启动了比预期提前数年的审查。此举可能预示着美国媒体行业的监管环境趋于严格，或对大型媒体集团的运营和市场地位带来不确定性，值得投资者关注。",
+      "title": "迪士尼ABC提前提交广播牌照续期，面临FCC审查",
+      "summary": "迪士尼旗下的ABC电视台提前提交了八个广播站牌照的续期申请，但美国联邦通信委员会（FCC）决定提前进行审查。此举可能意味着FCC对媒体所有权和市场竞争的监管趋严，对迪士尼这样的媒体巨头而言，可能面临额外的合规挑战和不确定性，影响其在广播领域的长期战略和盈利能力。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/05/28/disney-fcc-broadcast-licenses-renewal.html"
         }
       ]
+    },
+    {
+      "title": "Replimune在FDA改革后重新提交肿瘤药物审批申请",
+      "summary": "生物制药公司Replimune计划重新提交其被两次拒绝的肿瘤药物审批申请，此举发生在美国食品药品监督管理局（FDA）进行改革之后。此前，Replimune曾批评FDA在试验指导和审批方面存在不一致。FDA的内部调整可能为生物制药公司带来更清晰的审批路径，影响相关药物的上市进程和生物科技板块的投资前景。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/29/replimune-resubmit-melanoma-drug-fda-makary.html"
+        }
+      ]
     }
   ],
   "a_stocks": [
     {
-      "title": "中国生物技术在药物研发领域崛起，挑战美国主导地位",
-      "summary": "在芝加哥举行的一次国际肿瘤学会议上，来自中国的临床试验数据吸引了广泛关注，凸显出中国生物技术产业在药物研发领域的快速崛起。这加剧了美国对自身在该领域主导地位可能 waning 的担忧，预示着美中两国在生物医药高科技领域的竞争将日益激烈，并可能影响全球医药研发的格局和相关资本流向。",
+      "title": "中国生物技术实力显著增强，对全球制药格局产生冲击",
+      "summary": "随着中国在药物研发领域，特别是肺癌药物方面取得突破性进展，其生物技术产业的崛起正在改变全球制药格局，引发美国对自身主导地位的担忧。中国制药企业正通过增加研发投入和创新，逐步从仿制药转向创新药，这不仅提升了中国在全球医疗健康领域的影响力，也为A股相关生物科技公司带来了新的增长机遇和投资热点。",
       "sources": [
         {
           "name": "NYT Business",
@@ -262,8 +254,8 @@
   ],
   "business": [
     {
-      "title": "波斯湾航运保险费率高企，反映地缘政治风险",
-      "summary": "在波斯湾等潜在冲突地区，许多船只的保险都依赖于历史悠久的伦敦劳合社市场，且其战区保险费率居高不下。这反映了中东地区复杂的地缘政治紧张局势，以及其对全球航运业、供应链稳定性和运营成本的直接影响，是全球贸易中不可忽视的风险因素。",
+      "title": "战时海上保险市场：波斯湾航运风险与伦敦劳合社",
+      "summary": "在波斯湾等冲突地区，海上战争险的需求激增，许多滞留船只的保险覆盖范围需在拥有300多年历史的伦敦劳合社进行谈判。这凸显了地缘政治风险对全球航运和保险市场的直接影响。投资者需关注此类风险对全球供应链稳定性和商品价格的潜在冲击，以及保险公司面临的敞口和定价策略。",
       "sources": [
         {
           "name": "NYT Business",
@@ -272,44 +264,54 @@
       ]
     },
     {
-      "title": "生物制药公司Replimune在FDA改组后重新提交药物申请",
-      "summary": "生物制药公司Replimune此前两次被拒绝的药物申请，在美国食品药品监督管理局（FDA）经历内部改组后，计划重新提交。Replimune曾批评FDA在试验指导和审批方面存在不一致性。此举可能表明FDA审批流程或标准的潜在变化，为生物制药行业带来新的机遇和不确定性。",
+      "title": "Z世代消费者有望重振电影院市场",
+      "summary": "Z世代消费者对价格适中、社交属性强的体验需求，以及对动漫和电子游戏改编电影的偏好，正成为推动电影院市场复苏的关键力量。影院运营商若能有效迎合这一代人的消费习惯，例如提供更具互动性的观影体验或特色内容，将有望扭转近年来电影票房低迷的趋势，为娱乐产业带来新的增长点。",
       "sources": [
         {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/29/replimune-resubmit-melanoma-drug-fda-makary.html"
+          "url": "https://www.cnbc.com/2026/05/30/gen-z-movie-theaters.html"
         }
       ]
     },
     {
-      "title": "贸易摩擦促使美国酒业公司将生产线迁往加拿大",
-      "summary": "一家美国果味利口酒制造商，因加拿大各省为反制特朗普政府关税而采取的报复措施，导致其在加拿大市场的销量大幅下降，最终决定将部分生产线迁至加拿大。这一案例生动展示了贸易保护主义政策对具体企业全球供应链布局和运营策略产生的直接而深远的影响。",
+      "title": "亚洲美食走向主流，推动杂货零售业创新",
+      "summary": "随着消费者对亚洲风味的兴趣日益增长，主流杂货店正积极将更多亚洲商品纳入其货架，力求成为一站式购物场所。这一趋势不仅反映了文化多元性在消费领域的体现，也预示着食品零售商需要调整采购和营销策略，以满足不断变化的消费者口味，抓住新的市场增长点，对食品和零售行业产生结构性影响。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c2l22ypl909o?at_medium=RSS&at_campaign=rss"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/29/asian-foods-beyond-ethnic-aisle.html"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "美国政府拟议新规，允许随时取消科研拨款并实施政治审查",
-      "summary": "美国管理和预算办公室（OMB）提议出台新规定，赋予政府在任何时候取消科研拨款的权力，并允许政治任命人员审查拨款项目，以排除所谓的“禁忌”议题。这一举措若实施，可能严重损害美国基础科学研究的独立性、创新活力和全球领先地位，对长期的科技发展和经济竞争力构成潜在威胁。",
+      "title": "401(k)百万富翁数量下降，但储蓄率创新高",
+      "summary": "尽管401(k)退休账户中百万富翁的数量有所下降，但美国劳动者的储蓄率却达到了历史新高。这一现象表明，虽然市场波动可能影响资产净值，但长期储蓄行为保持强劲。这对于评估未来消费能力、退休金体系的稳定性和家庭资产配置策略具有重要意义，可能预示更强的财务韧性。",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-fell-but-workers-hit-record-savings-rates-whats-going-on-8fab657b?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "美国战略石油储备降至40年来最低，但国内产量强劲缓解担忧",
-      "summary": "尽管美国的战略石油储备（SPR）已降至40多年来的最低水平，但分析指出，这可能并非预示着能源危机的关键信号。由于美国国内页岩油产量的显著增长，已经从根本上改变了其能源安全格局，使得对SPR枯竭的担忧有所缓解。投资者应更关注美国整体能源生产能力而非单一的储备数据。",
+      "title": "婴儿潮一代财富传承高峰来临，家族企业顾问业务繁忙",
+      "summary": "随着婴儿潮一代开始传承数万亿美元的资产，专注于家族企业继承和财富管理咨询的专业人士业务量激增。这一结构性变化不仅涉及巨额财富的代际转移，还包括复杂的家族关系和治理问题，为私人银行、信托、遗产规划和专业咨询服务带来了巨大的市场机遇。关注这一领域将揭示财富管理行业的新动向。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/we-have-plenty-heres-the-real-story-behind-the-record-drop-in-americas-oil-reserves-9c8de9d5?mod=mw_rss_topstories"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/30/business/dealbook/family-business-counselors.html"
+        }
+      ]
+    },
+    {
+      "title": "丹麦养老基金因治理与估值问题排除SpaceX投资",
+      "summary": "一家丹麦养老基金宣布将SpaceX从其投资组合中排除，理由是公司治理和估值问题。这一决定反映出机构投资者在追逐高增长科技企业时，对ESG（环境、社会和公司治理）因素的日益重视，特别是对于非上市公司而言，其内部治理结构和长期可持续性正成为关键的考量因素，这可能影响未来IPO市场的机构资金流向。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/"
         }
       ]
     }
