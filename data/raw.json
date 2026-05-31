@@ -169,6 +169,13 @@
   },
   {
     "source": "MarketWatch Top Stories",
+    "title": "‘He threatened to cut the roots’: A tree fell onto my neighbor’s property during a storm. Then all hell broke loose.",
+    "link": "https://www.marketwatch.com/story/he-threatened-to-cut-the-roots-a-tree-fell-onto-my-neighbors-property-during-a-storm-then-all-hell-broke-loose-90da5af2?mod=mw_rss_topstories",
+    "summary": "“The neighbor estimates damage from the tree at approximately $6,000 or more.”",
+    "published": "Sun, 31 May 2026 11:00:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
     "title": "‘It is such a fine line’: I am a CFP and see nothing wrong with networking on the golf course. Am I wrong?",
     "link": "https://www.marketwatch.com/story/it-is-such-a-fine-line-i-am-a-cfp-and-see-nothing-wrong-with-networking-on-the-golf-course-am-i-wrong-50a698e8?mod=mw_rss_topstories",
     "summary": "“I would love to develop working relationships with almost everyone I play golf with.”",
@@ -231,18 +238,18 @@
     "published": "Sat, 30 May 2026 15:18:00 GMT"
   },
   {
-    "source": "MarketWatch Top Stories",
-    "title": "My husband took out a $100,000 Parent PLUS loan for his daughter. She dropped out, citing mental-health issues. Should we refinance?",
-    "link": "https://www.marketwatch.com/story/my-husband-took-out-a-100-000-parent-plus-loan-for-his-daughter-she-dropped-out-should-we-refinance-bea7dc6e?mod=mw_rss_topstories",
-    "summary": "“There is little to no chance that she will ever be able to repay these loans.”",
-    "published": "Sat, 30 May 2026 15:10:00 GMT"
-  },
-  {
     "source": "CNBC Business",
     "title": "Investors and labels are buying into the growing South Asian music business in the U.S.",
     "link": "https://www.cnbc.com/2026/05/30/south-asian-music-warner-records-5-junction.html",
     "summary": "Warner Music Group, the third-largest music label by market share, is tapping into the South Asian music movement with its latest venture, 5 Junction.",
     "published": "Sat, 30 May 2026 13:24:28 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "Disney is poised to ramp its already booming advertising business. Rita Ferro is behind the push",
+    "link": "https://www.cnbc.com/2026/05/31/disney-advertising-rita-ferro.html",
+    "summary": "Disney is selling ads for the Super Bowl, Oscars and Grammys in 2027, all major advertising revenue drivers. Global ad president Rita Ferro is leading the charge.",
+    "published": "Sun, 31 May 2026 10:00:01 GMT"
   },
   {
     "source": "CNBC Business",
@@ -260,72 +267,72 @@
   },
   {
     "source": "Hacker News Top",
-    "title": "Please Do Not Vibe Fuck Up This Software",
-    "link": "https://github.com/RsyncProject/rsync/issues/929",
-    "summary": "<p>Article URL: <a href=\"https://github.com/RsyncProject/rsync/issues/929\">https://github.com/RsyncProject/rsync/issues/929</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48342705\">https://news.ycombinator.com/item?id=48342705</a></p>\n<p>Points: 217</p>\n<p># Comments: 107</p>",
-    "published": "Sun, 31 May 2026 03:16:48 +0000"
-  },
-  {
-    "source": "Hacker News Top",
     "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
     "link": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-    "summary": "<p>Article URL: <a href=\"https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)\">https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48341578\">https://news.ycombinator.com/item?id=48341578</a></p>\n<p>Points: 846</p>\n<p># Comments: 299</p>",
+    "summary": "<p>Article URL: <a href=\"https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)\">https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48341578\">https://news.ycombinator.com/item?id=48341578</a></p>\n<p>Points: 874</p>\n<p># Comments: 305</p>",
     "published": "Sat, 30 May 2026 23:26:13 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Shantell Sans (2023)",
     "link": "https://shantellsans.com/process",
-    "summary": "<p>Article URL: <a href=\"https://shantellsans.com/process\">https://shantellsans.com/process</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48341062\">https://news.ycombinator.com/item?id=48341062</a></p>\n<p>Points: 245</p>\n<p># Comments: 25</p>",
+    "summary": "<p>Article URL: <a href=\"https://shantellsans.com/process\">https://shantellsans.com/process</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48341062\">https://news.ycombinator.com/item?id=48341062</a></p>\n<p>Points: 266</p>\n<p># Comments: 27</p>",
     "published": "Sat, 30 May 2026 22:06:38 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
+    "link": "https://av2.aomedia.org",
+    "summary": "<p>Article URL: <a href=\"https://av2.aomedia.org\">https://av2.aomedia.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48340910\">https://news.ycombinator.com/item?id=48340910</a></p>\n<p>Points: 221</p>\n<p># Comments: 99</p>",
+    "published": "Sat, 30 May 2026 21:46:18 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Domain expertise has always been the real moat",
     "link": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-    "summary": "<p>Article URL: <a href=\"https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/\">https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48340411\">https://news.ycombinator.com/item?id=48340411</a></p>\n<p>Points: 577</p>\n<p># Comments: 338</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/\">https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48340411\">https://news.ycombinator.com/item?id=48340411</a></p>\n<p>Points: 626</p>\n<p># Comments: 379</p>",
     "published": "Sat, 30 May 2026 20:40:57 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Zig ELF Linker Improvements Devlog",
     "link": "https://ziglang.org/devlog/2026/#2026-05-30",
-    "summary": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/#2026-05-30\">https://ziglang.org/devlog/2026/#2026-05-30</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48338673\">https://news.ycombinator.com/item?id=48338673</a></p>\n<p>Points: 204</p>\n<p># Comments: 69</p>",
+    "summary": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/#2026-05-30\">https://ziglang.org/devlog/2026/#2026-05-30</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48338673\">https://news.ycombinator.com/item?id=48338673</a></p>\n<p>Points: 208</p>\n<p># Comments: 75</p>",
     "published": "Sat, 30 May 2026 17:29:22 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "OpenRouter raises $113M Series B",
     "link": "https://openrouter.ai/announcements/series-b",
-    "summary": "<p>Article URL: <a href=\"https://openrouter.ai/announcements/series-b\">https://openrouter.ai/announcements/series-b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48338660\">https://news.ycombinator.com/item?id=48338660</a></p>\n<p>Points: 418</p>\n<p># Comments: 198</p>",
+    "summary": "<p>Article URL: <a href=\"https://openrouter.ai/announcements/series-b\">https://openrouter.ai/announcements/series-b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48338660\">https://news.ycombinator.com/item?id=48338660</a></p>\n<p>Points: 422</p>\n<p># Comments: 203</p>",
     "published": "Sat, 30 May 2026 17:27:28 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Accenture to acquire Ookla",
     "link": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
-    "summary": "<p><a href=\"https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture\" rel=\"nofollow\">https://www.theverge.com/tech/889234/downdetector-ookla-spee...</a>, <a href=\"https://archive.ph/FR8ND\" rel=\"nofollow\">https://archive.ph/FR8ND</a><p><a href=\"https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/\" rel=\"nofollow\">https://arstechnica.com/information-technology/2026/03/downd...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48337987\">https://news.ycombinator.com/item?id=48337987</a></p>\n<p>Points: 283</p>\n<p># Comments: 144</p>",
+    "summary": "<p><a href=\"https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture\" rel=\"nofollow\">https://www.theverge.com/tech/889234/downdetector-ookla-spee...</a>, <a href=\"https://archive.ph/FR8ND\" rel=\"nofollow\">https://archive.ph/FR8ND</a><p><a href=\"https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/\" rel=\"nofollow\">https://arstechnica.com/information-technology/2026/03/downd...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48337987\">https://news.ycombinator.com/item?id=48337987</a></p>\n<p>Points: 291</p>\n<p># Comments: 146</p>",
     "published": "Sat, 30 May 2026 16:28:58 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Voxel Space (2017)",
     "link": "https://s-macke.github.io/VoxelSpace/",
-    "summary": "<p>Article URL: <a href=\"https://s-macke.github.io/VoxelSpace/\">https://s-macke.github.io/VoxelSpace/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48336564\">https://news.ycombinator.com/item?id=48336564</a></p>\n<p>Points: 283</p>\n<p># Comments: 58</p>",
+    "summary": "<p>Article URL: <a href=\"https://s-macke.github.io/VoxelSpace/\">https://s-macke.github.io/VoxelSpace/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48336564\">https://news.ycombinator.com/item?id=48336564</a></p>\n<p>Points: 286</p>\n<p># Comments: 59</p>",
     "published": "Sat, 30 May 2026 14:25:50 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
     "link": "https://github.com/kristapsdz/openrsync",
-    "summary": "<p>Article URL: <a href=\"https://github.com/kristapsdz/openrsync\">https://github.com/kristapsdz/openrsync</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48334854\">https://news.ycombinator.com/item?id=48334854</a></p>\n<p>Points: 398</p>\n<p># Comments: 153</p>",
+    "summary": "<p>Article URL: <a href=\"https://github.com/kristapsdz/openrsync\">https://github.com/kristapsdz/openrsync</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48334854\">https://news.ycombinator.com/item?id=48334854</a></p>\n<p>Points: 418</p>\n<p># Comments: 155</p>",
     "published": "Sat, 30 May 2026 10:51:48 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Pandoc Templates",
     "link": "https://pandoc-templates.org/",
-    "summary": "<p>Article URL: <a href=\"https://pandoc-templates.org/\">https://pandoc-templates.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48334515\">https://news.ycombinator.com/item?id=48334515</a></p>\n<p>Points: 394</p>\n<p># Comments: 50</p>",
+    "summary": "<p>Article URL: <a href=\"https://pandoc-templates.org/\">https://pandoc-templates.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48334515\">https://news.ycombinator.com/item?id=48334515</a></p>\n<p>Points: 401</p>\n<p># Comments: 52</p>",
     "published": "Sat, 30 May 2026 09:56:42 +0000"
   },
   {
@@ -341,13 +348,6 @@
     "link": "https://arstechnica.com/tech-policy/2026/05/environmentalists-turn-out-in-force-to-oppose-trump-coal-ash-rollbacks/",
     "summary": "Trump admin wants to rely on states for coal ash monitoring, enforcement, allow them to bypass national standards.",
     "published": "Sat, 30 May 2026 10:00:38 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Proposed new US funding rules: We can cancel any grant at any time",
-    "link": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-    "summary": "Peer review now optional, political staff would screen grants for forbidden topics.",
-    "published": "Fri, 29 May 2026 22:58:29 +0000"
   },
   {
     "source": "SCMP Business",
