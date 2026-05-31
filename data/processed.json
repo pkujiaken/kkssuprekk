@@ -1,28 +1,8 @@
 {
   "top5": [
     {
-      "title": "中国AI企业MiniMax筹备内地上市，香港股份表现强劲",
-      "summary": "中国领先的AI模型公司MiniMax集团已启动在内地A股上市的计划，此前其香港股份表现活跃。此举将为中国境内投资者提供直接参与本土AI巨头成长的机会，并有望巩固其在香港和内地市场的双重地位。这反映了中国AI产业的快速发展和资本市场对该领域的持续热情，预示着未来更多中国科技企业将寻求多元化上市路径。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3355418/ai-firm-minimax-prepares-mainland-china-listing-after-shares-surge-hong-kong"
-        }
-      ]
-    },
-    {
-      "title": "AI需求激增推动数据中心电力消耗，大型科技公司或收购公用事业",
-      "summary": "随着人工智能发展对数据中心电力需求的空前增长，公用事业公司正迎来巨大的利润增长机遇。分析指出，市场尚未充分计入AI基础设施建设的下一个逻辑步骤：大型科技公司可能直接收购受监管的公用事业。这不仅将重塑能源产业格局，也凸显了AI扩张对电力基础设施的巨大战略影响，值得投资者关注潜在的并购机会和行业结构变化。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "中国生物技术产业崛起，挑战美国在全球药物开发的主导地位",
-      "summary": "中国的生物技术产业正迅速崛起，特别是在肺癌药物等领域取得显著进展，并在国际肿瘤学会议上获得广泛关注。这一趋势引发了对美国在该领域主导地位可能 waning 的担忧。中国在药物研发方面的强大势头预示着全球制药和生物科技领域的竞争将更加激烈，对两国在医疗创新和知识产权领域的战略竞争具有重要意义。",
+      "title": "中国生物技术崛起挑战美国主导地位，特别是在肿瘤药物开发领域",
+      "summary": "在芝加哥举行的一次国际肿瘤学会议上，来自中国的临床试验受到广泛关注，这凸显了中国生物技术产业的迅猛发展。这一趋势引发了对美国在该领域主导地位可能被削弱的担忧，对全球制药行业的竞争格局和未来创新中心构成重要影响，值得投资者密切关注中美在关键技术领域的竞争态势。",
       "sources": [
         {
           "name": "NYT Business",
@@ -31,13 +11,29 @@
       ]
     },
     {
-      "title": "中国人形机器人“手臂竞赛”升温，独角兽公司迅速涌现",
-      "summary": "中国风险投资家和工业巨头正积极支持灵巧机器人手臂的开发者，该领域被视为全球人形机器人硬件竞赛中的关键瓶颈。一场资本和技术的“军备竞赛”正在推动相关初创公司估值快速上升，例如Xynova在创纪录时间内成为独角兽。这表明中国正大力投资未来制造业的核心技术，旨在通过人形机器人大幅降低工厂成本，构建新的竞争优势。",
+      "title": "美国证交会提议废除气候变化披露规则，影响企业ESG透明度",
+      "summary": "美国证券交易委员会(SEC)提议取消一项要求所有上市公司披露其面临气候变化重大风险的规定。这一政策逆转将对企业的环境、社会和治理(ESG)透明度产生深远影响，可能降低企业在气候相关风险披露上的压力，并重新塑造投资者在评估企业可持续性方面的决策依据，对关注ESG投资的基金和机构尤为重要。",
       "sources": [
         {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/tech/article/3355365/unicorn-born-record-time-amid-arms-race-among-chinas-robotic-hand-developers"
-        },
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/29/climate/sec-climate-disclosure-rule.html"
+        }
+      ]
+    },
+    {
+      "title": "AI数据中心电力需求激增，公用事业公司成新利润增长点",
+      "summary": "随着人工智能发展对数据中心电力需求的飙升，公用事业公司正迎来巨大的新利润机遇。市场尚未充分定价AI基础设施建设的下一步：即大型科技公司直接收购受监管的公用事业。这预示着能源行业将出现结构性变革，并可能引发科技与公用事业领域的大规模并购潮，投资者应留意电力基础设施公司的潜在价值重估。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "中国大力投资人形机器人，旨在通过降低工厂成本获取竞争优势",
+      "summary": "中国正在积极资助人形机器人项目，目标是大幅削减工厂成本并建立全球竞争优势。此举被视为中国继电动汽车之后，在先进制造业领域的又一个战略性举措。人形机器人的快速发展和应用将可能重塑全球供应链和工业生产模式，对制造业、自动化和相关技术投资产生深远影响。",
+      "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/chinas-next-export-shock-walks-on-two-legs-and-costs-less-than-a-used-car-f0becf3f?mod=mw_rss_topstories"
@@ -45,13 +41,9 @@
       ]
     },
     {
-      "title": "SpaceX首次公开募股引发华尔街“错失恐惧症”",
-      "summary": "埃隆·马斯克的太空探索公司SpaceX即将进行的首次公开募股（IPO）在华尔街引发了强烈的关注和“错失恐惧症”（FOMO）。银行家们正努力营造一种共识，即错过SpaceX IPO的风险高于投资它的风险。零售投资者也正涌入与SpaceX相关的太空主题ETF。这表明市场对颠覆性科技和高增长潜力企业的追捧依然狂热，IPO定价和后续表现将是检验这一情绪的关键。",
+      "title": "零售投资者通过ETF抢购SpaceX IPO“入场券”，两月吸引26亿美元",
+      "summary": "随着埃隆·马斯克旗下SpaceX公司IPO临近，零售投资者正涌入包括NASA ETF在内的太空主题ETF，寻求间接获得这家火箭公司的投资机会。在短短两个月内，这类ETF已吸引26亿美元资金。这一现象反映出散户对高增长未上市公司投资机会的强烈需求，以及主题ETF在连接私人市场与公众投资者方面的日益重要性。",
       "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/29/business/spacex-ipo-wall-street.html"
-        },
         {
           "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/05/30/spacex-ipo-invest.html"
@@ -61,31 +53,42 @@
   ],
   "people": [
     {
-      "name": "Tyler Cowen",
-      "title": "观点：AI正深度渗透日常生活与经济结构",
-      "summary": "经济学家泰勒·科文观察到人工智能正以惊人的速度融入日常经济活动。他指出，目前约半数新发布的歌曲可能由AI创作，且AI已开始被用于房屋销售等传统领域。这表明AI的影响已超越科技巨头，成为一个广谱的经济和社会现象，值得投资者关注其对各行业效率和竞争格局的长期影响。",
+      "name": "Paul Krugman (via Tyler Cowen)",
+      "title": "关于“美国例外论”和生产力测量的观点",
+      "summary": "观点：诺贝尔经济学奖得主保罗·克鲁格曼(Paul Krugman)认为，标准生产力衡量指标对跨国生活水平和经济福利的比较，并不像许多人（包括经济学家）认为的那样具有直接含义。他并未声称欧洲生产力被错误衡量，而是指出这些指标的解释需要更细致的理解。这一观点提醒投资者在评估不同经济体的增长潜力时，需审慎对待传统数据，并考虑其对生活质量的真实影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/sunday-assorted-links-569.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-new-american-exceptionalism.html?utm_source=rss&utm_medium=rss&utm_campaign=a-new-american-exceptionalism"
         }
       ]
     },
     {
-      "name": "Tyler Cowen",
-      "title": "观点：全球化背景下美国人才与生活方式套利加剧",
-      "summary": "泰勒·科文指出，自艾森豪威尔政府以来，美国公民迁离本土的数量达到前所未有的水平，形成一个庞大的海外侨民群体。他们通过远程办公、海外求学或退休等方式，寻求生活水平和成本的平衡，进行“生活方式套利”。这一趋势反映了全球人才流动的变化，对劳动力市场和国际消费模式的潜在影响值得关注。",
+      "name": "Brian Chesky (Airbnb CEO)",
+      "title": "Airbnb战略转型：向更广泛的旅游和生活服务平台扩张",
+      "summary": "Airbnb联合创始人兼首席执行官Brian Chesky正在重新构想公司的定位，将其业务范围扩展到汽车租赁、杂货配送，甚至酒店领域。这一战略转型标志着Airbnb不再仅仅是房屋共享平台，而是致力于成为一个更全面的旅游和生活服务生态系统。对于投资者而言，这表明公司正积极探索新的增长点，但也面临跨界竞争和品牌定位的挑战。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/lifestyle-and-living-standards-arbitrage.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/31/business/airbnb-brian-chesky.html"
         }
       ]
     },
     {
-      "name": "Bret Horsting",
-      "title": "观点：领域专长仍是真正的护城河",
-      "summary": "科技评论员Bret Horsting强调，在快速发展的技术时代，尤其是人工智能崛起之际，“领域专长（Domain Expertise）”依然是企业和个人构建竞争优势的真正护城河。他认为，尽管AI工具日益强大，但深刻理解特定行业的知识、经验和洞察力，是难以被自动化取代的稀缺资源。对于投资者而言，评估公司价值时应重视其在特定领域的深度积累。",
+      "name": "Tyler Cowen (经济学者)",
+      "title": "美国人正在前所未有地“用脚投票”移居海外",
+      "summary": "观点：经济学者Tyler Cowen指出，自艾森豪威尔政府以来，美国虽未全面统计公民外流数据，但通过居住许可、海外购房和学生入学等指标显示，数百万美国人正以前所未有的程度移居海外，通过远程工作和退休等方式寻求更理想的生活。这一现象反映了生活方式和生活成本套利行为的增长，对美国国内的劳动力市场、房地产和消费模式可能产生长期结构性影响。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/lifestyle-and-living-standards-arbitrage.html?utm_source=rss&utm_medium=rss&utm_campaign=lifestyle-and-living-standards-arbitrage"
+        }
+      ]
+    },
+    {
+      "name": "Bret Horsting (技术评论员)",
+      "title": "领域专业知识始终是真正的护城河",
+      "summary": "观点：技术评论员Bret Horsting强调，在AI和通用技术日益普及的时代，深厚的领域专业知识仍然是企业和个人竞争优势的真正“护城河”。他认为，虽然AI可以处理大量信息，但只有结合特定行业的深入理解和经验，才能创造出难以复制的价值。这一观点对投资者评估科技公司的长期竞争力以及人才战略具有指导意义。",
       "sources": [
         {
           "name": "Hacker News Top",
@@ -94,9 +97,9 @@
       ]
     },
     {
-      "name": "SCMP 评论员",
-      "title": "观点：全球债券市场警示政府过度支出",
-      "summary": "《南华早报》的一篇评论指出，全球债券收益率的快速上升，特别是在亚洲，反映出金融市场对各国政府长期过度支出的担忧。市场正意识到政府开支已超出其税收和借贷能力，这意味着未来可能需要提高税收或削减公共支出。文章进一步暗示，这可能促使金融市场，尤其是股市，将投资重点从科技和AI领域的“魅力股”转向更具基本面价值的资产。",
+      "name": "SCMP 评论员 (未具名)",
+      "title": "全球债券收益率上升预示政府财政不可持续",
+      "summary": "观点：一位SCMP评论员指出，全球范围内（尤其是在亚洲）债券收益率的迅速上升，不仅仅是表面现象，它暗示着金融市场正认识到各国政府的支出超出了其财政能力、税收收入和借贷能力。这意味着未来要么需要提高税收，要么削减公共开支，否则金融市场，特别是股市，可能需要将重点从科技和AI等“魅力股”转移。这一评论强调了主权债务风险和财政可持续性对资产配置的潜在影响。",
       "sources": [
         {
           "name": "SCMP Business",
@@ -107,60 +110,20 @@
   ],
   "macro": [
     {
-      "title": "全球政府财政扩张引发债券市场担忧，呼唤财政调整",
-      "summary": "全球多国政府支出超出其税收和借贷能力，导致债券收益率持续上升，暗示金融市场预期未来将面临财政紧缩或通胀压力。这种宏观趋势对全球利率环境和资本配置产生深远影响，促使投资者重新评估主权债务风险和经济增长的可持续性。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/opinion/world-opinion/article/3355192/writings-wall-bond-market-those-who-can-read-it"
-        }
-      ]
-    },
-    {
-      "title": "美国伊朗战争的真实成本远超预期，加剧通胀压力",
-      "summary": "分析指出，美国在伊朗战争中的实际成本远高于五角大楼公布的数字，高达数百亿美元。这笔巨大的开支不仅加重了美国财政负担，也正成为推动通胀上升的隐形因素。对于投资者而言，理解这种被低估的战争成本及其对财政赤字和物价水平的持续影响，对于宏观经济判断和资产配置至关重要。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/the-true-cost-of-the-iran-war-is-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "日本人口持续负增长，五年减少三百万面临长期挑战",
-      "summary": "《纽约时报》报道指出，日本在过去五年中人口减少了300万，这一显著的结构性人口萎缩对该国的劳动力市场、消费需求和社会福利体系构成长期挑战。人口负增长将限制经济增长潜力，加剧老龄化问题，并为其他面临类似人口结构变化的经济体提供警示，投资者需关注其对未来市场容量和政府财政的深远影响。",
+      "title": "日本过去五年人口减少三百万，面临严峻的人口挑战",
+      "summary": "据报道，日本在过去五年中人口减少了三百万，这一数字凸显了该国面临的严重人口结构问题。人口持续萎缩和老龄化对日本的劳动力供应、经济增长潜力、社会福利体系以及财政可持续性构成长期挑战。对于全球投资者而言，这提示了发达经济体所面临的人口结构性风险，以及对消费、房地产和养老金市场的影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-563.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-563.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-563"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "埃森哲收购Ookla，强化网络智能与企业数据服务",
-      "summary": "全球专业服务巨头埃森哲宣布收购知名网络测速和故障检测服务提供商Ookla（旗下拥有Speedtest和Downdetector）。此举旨在通过整合Ookla的数据和AI能力，显著增强埃森哲面向企业的网络智能和用户体验服务。此次收购表明，大型咨询和技术服务公司正积极通过并购手段，提升其在数字化转型和AI解决方案领域的竞争力，以满足客户日益增长的需求。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises"
-        }
-      ]
-    },
-    {
-      "title": "AI平台初创公司OpenRouter完成1.13亿美元B轮融资",
-      "summary": "作为一家提供多样化AI模型访问和管理服务的平台公司，OpenRouter成功完成了1.13亿美元的B轮融资。这笔巨额投资表明市场对AI基础设施和工具层面的持续看好，特别是在AI模型生态系统日益复杂化的背景下，能够简化开发者对不同AI模型的集成和使用的平台，正成为资本追逐的热点。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://openrouter.ai/announcements/series-b"
-        }
-      ]
-    },
-    {
-      "title": "施耐德电气案例：AI用于提升生产力而非替代劳动力",
-      "summary": "法国跨国公司施耐德电气在其制造业务中部署人工智能，旨在提高员工生产力而非大规模裁员。这一实践展示了AI在工业领域的积极应用模式，即通过人机协作优化工作流程，而不是简单地取代人类。该案例为企业在AI时代如何平衡效率提升与劳动力转型提供了重要参考，有助于消除对AI导致大规模失业的担忧。",
+      "title": "法国施耐德电气公司利用AI提升工人生产力而非取代工作岗位",
+      "summary": "法国跨国公司施耐德电气选择在制造业中运用人工智能，旨在提高工人的生产力而非直接替代人工。这一实践为AI在劳动力市场中的应用提供了一个重要的案例，表明AI并非必然导致大规模失业。对于企业而言，这是一个值得借鉴的AI落地模式，有助于在保持就业稳定的前提下实现效率提升，对劳动力市场和未来工作模式具有积极启示。",
       "sources": [
         {
           "name": "NYT Economy",
@@ -169,8 +132,8 @@
       ]
     },
     {
-      "title": "电动空中出租车Joby完成曼哈顿试飞，商业化仍面临严峻挑战",
-      "summary": "Joby Aviation的电动垂直起降（eVTOL）飞机在纽约市完成了试飞，展示了未来城市空中出行的潜力。然而，尽管有政府支持，此类新型交通工具仍需通过严格测试才能面向公众开放。其商业化进程面临技术成熟度、安全性验证和监管审批等多重挑战，投资者需审慎评估其实现大规模应用的时间表和盈利前景。",
+      "title": "Joby Aviation在曼哈顿演示电动空中出租车，商业化仍需等待严苛测试",
+      "summary": "Joby Aviation在纽约市曼哈顿成功演示了其全电动空中出租机，展示了未来空中交通的可能性。尽管航空初创公司和政府都希望用电动飞机取代直升机，但这些新型飞行器仍需通过严格的测试才能向公众开放。这表明电动垂直起降(eVTOL)技术正逐步走向成熟，但商业化落地仍面临监管和安全验证的巨大挑战，对城市交通和航空业的颠覆性影响值得关注。",
       "sources": [
         {
           "name": "NYT Business",
@@ -181,106 +144,162 @@
           "url": "https://www.nytimes.com/video/business/100000010859133/is-this-the-future-of-air-travel.html"
         }
       ]
+    },
+    {
+      "title": "AV2视频标准最终规范发布，影响未来视频技术发展",
+      "summary": "AV2视频标准（v1.0最终规范）已正式发布。新一代视频标准对于未来的视频压缩效率、流媒体质量以及数字媒体生态系统至关重要。它的推出将直接影响视频内容提供商、硬件制造商和消费者体验，预示着更高效、更高质量的视频服务即将到来，对相关科技公司而言是技术升级和市场竞争的关键要素。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://av2.aomedia.org"
+        }
+      ]
+    },
+    {
+      "title": "AI在音乐创作中的应用日益普及，或已占据新歌发布的一半",
+      "summary": "据观察，在Spotify和Apple Music等平台上，目前约有一半的新歌发布可能由人工智能完成。这一趋势表明AI在创意产业，特别是音乐创作领域的渗透速度远超预期，正在改变内容生产的模式和成本结构。对于娱乐公司、版权所有者和艺术家而言，这意味着内容创作效率的提升和潜在的商业模式创新，但也带来了版权归属和艺术价值的争议。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/sunday-assorted-links-569.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-569"
+        }
+      ]
     }
   ],
   "us_stocks": [
     {
-      "title": "市场警示：标普500盈利增长或预示牛市尾声",
-      "summary": "多位分析师指出，当前标普500指数的强劲盈利增长可能并非全是利好，历史上此类高速增长有时反而是牛市晚期的信号。投资者应警惕市场可能进入薄冰期，为潜在的熊市回调做好准备。这表明尽管基本面数据亮眼，但市场情绪和周期性因素不容忽视，风险管理成为当前的关键考量。",
+      "title": "美国股市上涨不再仅依赖科技股，市场广度增强",
+      "summary": "当前美国股市的强势表现不再局限于科技股，而是呈现出更广泛的上涨基础。尽管科技板块依然是领涨力量，但市场其他部分的加入表明了更健康的上涨趋势。这对于投资者而言是一个积极信号，意味着市场风险可能更加分散，而非过度集中在少数几家大型科技公司，预示着更可持续的牛市行情。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/why-double-digit-earnings-growth-wont-stop-the-next-bear-market-791ae3ef?mod=mw_rss_topstories"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/this-bear-market-signal-wall-street-ignores-is-putting-your-money-at-risk-right-now-46f1fcf3?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/its-not-just-tech-stocks-the-broad-based-strength-of-the-market-right-now-gives-investors-reason-to-stay-the-course-4ef65de3?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "Airbnb业务战略扩张，新增汽车租赁及酒店服务",
-      "summary": "短租巨头Airbnb正积极扩大其业务范围，新增汽车租赁、日用百货甚至酒店预订服务，模糊了其作为纯粹民宿平台的界限。这一战略旨在将其平台打造成更全面的旅行服务生态系统，寻求新的增长点，但也面临与现有行业巨头更直接的竞争。投资者需关注其扩张战略的执行效果及其对核心业务模式和盈利能力的影响。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/05/31/business/airbnb-brian-chesky.html"
-        }
-      ]
-    },
-    {
-      "title": "迪士尼广告业务蓬勃发展，瞄准2027年超级碗等重大赛事",
-      "summary": "迪士尼正积极扩大其广告业务，计划在2027年超级碗、奥斯卡和格莱美等顶级活动中销售广告位。在广告业务总裁丽塔·费罗的推动下，迪士尼正在利用其强大的内容和平台优势，将其广告部门打造为重要的营收增长引擎。这一举措对于投资者而言，意味着迪士尼在传统媒体业务之外找到了新的价值增长点，有助于其整体营收多元化。",
+      "title": "迪士尼广告业务持续强劲增长，高管推动进一步扩张",
+      "summary": "迪士尼公司正准备进一步扩大其已经蓬勃发展的广告业务。全球广告总裁Rita Ferro正领导这一推动，目标包括2027年超级碗、奥斯卡和格莱美颁奖典礼等主要广告收入驱动事件。这表明迪士尼正在积极利用其强大的媒体资产和内容平台，将广告收入作为重要的增长引擎，对于关注媒体巨头商业化能力的投资者来说是一个积极信号。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/05/31/disney-advertising-rita-ferro.html"
         }
       ]
-    },
-    {
-      "title": "SpaceX IPO热潮带动相关ETF，零售投资者积极参与",
-      "summary": "随着埃隆·马斯克的SpaceX筹备上市，相关的太空主题ETF，包括提供SpaceX直接投资机会的NASA ETF，吸引了大量散户投资者涌入。这种现象表明市场对太空经济和马斯克旗下公司的极高热情，以及零售投资者对热门IPO的追逐。投资者在参与此类主题投资时，需警惕零售交易热潮下的潜在高估值和风险，审慎评估长期基本面。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/05/30/spacex-ipo-invest.html"
-        }
-      ]
     }
   ],
   "a_stocks": [
     {
-      "title": "香港学生公寓交易活跃，机构投资者重回楼市",
-      "summary": "香港的商业地产市场正出现机构投资者回归的迹象，特别是学生公寓领域，大型机构化交易逐渐取代了过去两年小型酒店改造项目。随着融资条件改善和不良资产销售加速，专业投资者正谨慎地重返香港楼市，预示着地产市场可能正在触底反弹。这一趋势对于评估香港地产市场的未来走向和相关上市公司表现具有参考价值。",
+      "title": "中国AI公司MiniMax赴内地上市，满足境内投资者需求",
+      "summary": "中国人工智能模型公司MiniMax Group在香港股价飙升后，已正式启动在内地上市的计划。该公司与中信证券签约，准备发行人民币计价的股票，这将为境内投资者提供除芯片制造商之外，直接投资领先AI公司的机会，并可能形成香港和内地双重上市的格局。此举对中国资本市场，尤其是科技板块具有重要意义，反映了内地对AI龙头企业的资金渴求。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/banking-finance/article/3355371/hong-kong-property-recovery-tested-bigger-student-housing-deals-gain-traction"
+          "url": "https://www.scmp.com/business/china-business/article/3355418/ai-firm-minimax-prepares-mainland-china-listing-after-shares-surge-hong-kong?utm_source=rss_feed"
         }
       ]
     },
     {
-      "title": "中国STEM毕业生数量庞大，美国在AI人才竞争中面临劣势",
-      "summary": "中国每年培养350万STEM（科学、技术、工程、数学）专业毕业生，这一庞大的人才储备被视为中国在AI生产力竞争中超越美国的关键优势。美国在人才培养和留用方面的结构性问题，正使其在AI领域面临人才危机。这对于投资者而言，意味着需要关注中美在科技人才上的长期竞争，及其对两国未来经济增长和创新能力的影响，特别是对A股科技公司发展潜力的支撑。",
+      "title": "中国生物科技独角兽Xynova获巨额融资，机器人灵巧手成投资热点",
+      "summary": "在“机器人军备竞赛”中，中国灵巧机器人手开发者正成为风险投资和产业巨头追逐的焦点。杭州初创公司Xynova完成A轮融资，投资方包括小米和理想汽车的风险投资部门，估值迅速飙升成为独角兽。这表明中国在人形机器人核心硬件——特别是机械手这一技术瓶颈上正进行大规模投入，预示着中国在机器人技术领域有望取得突破，对于相关产业链投资具有战略性意义。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/why-america-is-losing-the-ai-productivity-war-to-3-5-million-chinese-stem-graduates-4ffeb298?mod=mw_rss_topstories"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/tech/article/3355365/unicorn-born-record-time-amid-arms-race-among-chinas-robotic-hand-developers?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "中国肺癌新药晚期临床试验结果积极，显著降低死亡风险",
+      "summary": "来自康宁杰瑞生物制药（Akeso）和Summit Therapeutics合作开发的一款实验性肺癌药物，在中国的晚期临床试验中表现出色，将死亡风险降低了34%。这一积极的试验数据，凸显了中国在创新药物研发方面的实力。对于投资者而言，这不仅意味着相关制药公司的商业潜力，也进一步验证了中国在全球生物医药领域的崛起势头。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/31/asco-summit-akeso-ivonescimab-improves-survival-in-harmoni-6-trial.html"
+        }
+      ]
+    },
+    {
+      "title": "香港房地产市场复苏面临考验，学生公寓交易活跃",
+      "summary": "香港房地产市场正面临复苏的考验，但学生公寓领域的大型机构化交易正在获得关注。随着融资条件改善和不良资产交易加速，专业投资者在经历多年资产价值下跌后正谨慎回归。这表明香港商业地产市场正从酒店改建等小型交易，转向更大规模的学生住宿投资，反映出投资者对特定细分市场的信心回升，但整体市场仍需观察。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3355371/hong-kong-property-recovery-tested-bigger-student-housing-deals-gain-traction?utm_source=rss_feed"
         }
       ]
     }
   ],
   "business": [
     {
-      "title": "法拉利首款电动车Luce遭遇市场质疑与批评",
-      "summary": "豪华跑车品牌法拉利推出的首款电动车型Luce引发了市场批评，部分观点认为其偏离了法拉利品牌的传统精髓和核心价值。这反映了传统高端汽车制造商在向电动化转型过程中，如何在创新与品牌遗产之间找到平衡的挑战。消费者对电动豪华车的期待与接受度，以及品牌如何在电动化时代保持其独特魅力，是投资者需要关注的关键点。",
+      "title": "世界杯能否提振美国啤酒产业颓势，百威英博押注足球赛事",
+      "summary": "美国啤酒行业正经历低迷，尽管酒吧和商店不确定足球世界杯能否显著提振啤酒销量，但百威英博（Budweiser和Michelob Ultra的生产商）仍全力投入世界杯营销。这反映了消费品巨头在寻找增长点上的努力，以及大型体育赛事对品牌营销和产品销量的潜在带动作用。投资者应关注世界杯期间的销售数据，以评估其对啤酒行业复苏的影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/31/business/world-cup-beer.html"
+        }
+      ]
+    },
+    {
+      "title": "法拉利电动汽车“Luce”遭遇品牌忠诚度危机，引发强烈反弹",
+      "summary": "法拉利首款电动汽车“Luce”因被指偏离品牌根基而受到消费者和评论家的强烈批评。这一事件凸显了传统豪华品牌在向电动化转型过程中面临的巨大挑战，即如何在拥抱新技术的同时，保持其核心品牌价值和忠诚客户群的认同。对于投资者而言，这揭示了高端汽车制造商在EV战略上的复杂性和风险。",
       "sources": [
         {
           "name": "BBC Business",
           "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss"
         }
       ]
-    }
-  ],
-  "overlooked": [
+    },
     {
-      "title": "美国人才外流现象加剧，寻求海外生活方式套利",
-      "summary": "美国公民正以前所未有的速度迁往海外，形成一个庞大的海外侨民群体。他们通过远程办公、海外求学或退休等方式，利用不同国家的生活成本和质量差异进行“生活方式套利”。这一趋势可能对美国本土经济的劳动力供给和创新能力产生长期影响，并改变全球人才流动的格局，值得关注其对房地产、消费和服务业的潜在结构性变化。",
+      "title": "Gap旗下Athleta品牌从“必备”走向“平庸”，品牌战略面临挑战",
+      "summary": "Gap旗下的瑜伽服品牌Athleta的复苏预期已连续三年被推迟，其试图扩大吸引力的尝试最终导致“对任何人都缺乏特别吸引力”。这反映了该品牌在定位和市场策略上的失误，未能有效应对竞争加剧的运动休闲市场。对于零售业投资者，这一案例强调了品牌定位、产品创新和目标市场清晰度的重要性，以及品牌“泛化”可能带来的负面影响。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/lifestyle-and-living-standards-arbitrage.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/heres-how-gaps-yoga-wear-maker-athleta-went-from-must-have-to-generic-3d94b008?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "香港居民离英加赴西班牙置业潮兴起，国际移民趋势转变",
-      "summary": "部分在英国和加拿大的香港家庭因移民政策变化和生活成本上升面临不确定性，正转向西班牙寻求新的居住地。西班牙的非盈利居留签证（NLV）成为受欢迎的选择，这反映了全球政治经济变化对高净值人群移民和资产配置策略的影响。这一趋势可能带来特定地区房地产市场的结构性机会，并预示着国际移民流向的新变化。",
+      "title": "美国政府加速审批迷幻药物用于精神健康治疗，开启新市场机遇",
+      "summary": "特朗普政府正努力加速对迷幻药物作为精神健康治疗方法的科研审批。这一政策转向为迷幻药物的研发和商业化创造了新的机遇，同时也伴随着未知的风险。对于生物技术和制药行业的投资者而言，这可能开辟一个新兴且高增长的治疗领域，但仍需密切关注监管框架、临床试验结果及公众接受度等因素。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/31/why-trump-is-encouraging-psychedelics-for-mental-health.html"
+        }
+      ]
+    }
+  ],
+  "overlooked": [
+    {
+      "title": "美国富裕家庭资产传承引发矛盾，家族企业顾问业务繁忙",
+      "summary": "随着婴儿潮一代开始传承数万亿美元的资产，专注于处理家族企业传承过程中的复杂关系和情感问题的顾问们变得前所未有的忙碌。这一趋势揭示了财富代际转移过程中的结构性挑战，以及对专业财富管理和冲突解决服务的巨大需求。对于私人银行、家族办公室和法律服务提供商而言，这是一个重要的增长点，同时也反映了巨额财富转移对经济和社会深层结构的影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/05/30/business/dealbook/family-business-counselors.html"
+        }
+      ]
+    },
+    {
+      "title": "全球移民趋势新动向：香港居民离开英加，转向西班牙寻求新生活",
+      "summary": "由于英国和加拿大移民政策的变化以及生活成本上升，部分在英加的香港家庭正面临不确定性，并开始寻找其他移居地。西班牙的非盈利居留签证（NLV）已成为他们的首选之一。这一现象不仅反映了全球移民流向的变化，也对相关国家的房地产市场（如西班牙）带来新的需求，值得关注跨境资本流动和特定区域房地产的结构性变化。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/article/3355359/spains-property-market-sees-boost-hongkongers-others-depart-uk-and-canada"
+          "url": "https://www.scmp.com/business/article/3355359/spains-property-market-sees-boost-hongkongers-others-depart-uk-and-canada?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "美国南亚音乐市场蓬勃发展，吸引投资者和主流唱片公司关注",
+      "summary": "在美国，南亚音乐市场正日益壮大，吸引了投资者和主流唱片公司的青睐。华纳音乐集团作为第三大音乐厂牌，已通过其最新合资企业5 Junction进军这一市场。这一趋势表明了文化消费多元化以及特定族裔市场潜力的增长，为娱乐产业带来了新的投资机会和文化融合的商业模式，是值得关注的小众市场崛起现象。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/30/south-asian-music-warner-records-5-junction.html"
         }
       ]
     }
