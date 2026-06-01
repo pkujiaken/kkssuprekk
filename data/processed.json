@@ -1,36 +1,52 @@
 {
   "top5": [
     {
-      "title": "中东紧张局势升级推动油价飙升",
-      "summary": "美国与伊朗之间军事打击的再次升级，以及对霍尔木兹海峡航运中断的担忧，导致全球油价大幅上涨并突破每桶95美元。这不仅对全球能源市场和通胀前景构成直接影响，也凸显了地缘政治风险对大宗商品价格的敏感性，投资者需密切关注事态发展。",
+      "title": "中东紧张局势升级致油价飙升，霍尔木兹海峡航运安全受关注",
+      "summary": "美国与伊朗之间军事打击的再次升级，引发了市场对中东地区不确定性的担忧，国际油价单日上涨6%，突破每桶95美元。同时，美国军方正引导商船通过霍尔木兹海峡以确保航运安全，但部分油轮仍滞留，可能导致长期航运路线调整。为什么重要：油价上涨直接推高全球通胀预期和企业运营成本，地缘政治风险加剧能源供应不稳定性，对全球经济和投资情绪构成显著影响。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/01/business/oil-gas-price-iran.html"
+          "url": "https://www.nytimes.com/2026/06/01/business/energy-environment/iran-war-oil-prices.html"
         },
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/global-oil-prices-trim-early-gains-but-still-top-95-a-barrel-after-trump-says-peace-talks-with-iran-are-back-on-following-a-pause-fbcdd5ed?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/global-oil-prices-top-95-a-barrel-and-log-best-day-in-a-month-despite-trump-saying-peace-talks-with-iran-have-resumed-following-a-pause-fbcdd5ed?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "Anthropic 计划在美股市场上市",
-      "summary": "作为领先的AI公司，Anthropic计划在今年内公开上市，这标志着大型AI初创公司进入资本市场，将为投资者提供直接参与AI热潮的机会，并可能刺激更多AI企业效仿，预示着AI行业进入新的发展阶段和资本化进程。",
+      "title": "英伟达发布全新个人电脑AI芯片，黄仁勋称其为“电脑的革新”",
+      "summary": "英伟达CEO黄仁勋宣布推出专为个人电脑设计的全新AI芯片，并将其定义为“电脑的革新”。此举标志着英伟达将AI处理能力从数据中心扩展至更广泛的消费级设备。为什么重要：这不仅巩固了英伟达在AI芯片领域的领导地位，更预示着个人计算设备将迎来AI赋能的重大升级，可能重塑PC市场格局，并为软件开发者和消费者带来新的应用场景。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/crmp9mppvzro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "AI巨头Anthropic计划在美国上市，AI领域投资热度不减",
+      "summary": "开发AI大模型Claude的科技公司Anthropic宣布计划在美国股票市场上市。作为OpenAI的主要竞争对手之一，Anthropic的上市将为投资者提供直接参与顶级AI基础设施建设的机会。为什么重要：头部AI公司的IPO将进一步点燃资本市场对AI领域的投资热情，并为整个AI生态系统带来新的资金流入，同时也将使其财务状况和业务战略受到更严格的公开审视。",
       "sources": [
         {
           "name": "BBC Business",
           "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/anthropic-just-set-the-stage-for-a-blockbuster-ipo-beating-openai-to-the-punch-4cde9d9f?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "Barry Diller 旗下公司拟以180亿美元收购米高梅度假村",
-      "summary": "传媒大亨Barry Diller的公司People Inc.准备对其尚未持有的米高梅度假村股份发起收购，估值达180亿美元。此举显示了市场对休闲娱乐和博彩行业复苏的强烈信心，预示行业整合和价值重估，对拉斯维加斯市场的长期前景具有积极信号意义。",
+      "title": "报告揭示中国军方多年来寻求获取英伟达芯片，凸显中美科技竞争加剧",
+      "summary": "一份对过去六年采购记录的分析报告显示，中国人民解放军一直在公开寻求获取受美国出口限制的英伟达芯片技术。这表明尽管美国实施了严格的出口管制，中国仍在努力确保其在先进AI和计算能力方面的战略需求。为什么重要：这一发现强调了中美之间持续的科技竞争和芯片战的深度与广度，可能促使美国进一步收紧出口政策，对全球半导体供应链和相关科技公司产生深远影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html"
+        }
+      ]
+    },
+    {
+      "title": "巴里·迪勒旗下People Inc.拟以180亿美元估值收购美高梅度假村剩余股权",
+      "summary": "传媒大亨巴里·迪勒（Barry Diller）旗下的People Inc.公司正准备对美高梅度假村（MGM Resorts）提出收购要约，旨在买下其尚未持有的股份，估值高达180亿美元。此次交易将使People Inc.全面掌控这家全球领先的赌场巨头。为什么重要：这是一笔重大的并购交易，反映了投资者对博彩和酒店业的信心，尤其是在经历了疫情后的复苏，可能引发该行业进一步的整合和估值重估。",
       "sources": [
         {
           "name": "NYT Business",
@@ -41,41 +57,13 @@
           "url": "https://www.marketwatch.com/story/barry-dillers-12-4-billion-offer-for-mgm-is-a-big-bet-that-vegas-is-back-3e96bb8c?mod=mw_rss_topstories"
         }
       ]
-    },
-    {
-      "title": "报告称中国军方多年寻求英伟达芯片",
-      "summary": "一份分析指出，中国人民解放军在过去六年里持续尝试获取受美国出口管制限制的英伟达芯片。这突显了中美在尖端科技领域的激烈竞争，以及美国技术出口管制措施面临的挑战和国家安全考量，将进一步加剧两国间的科技博弈和供应链紧张。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html"
-        }
-      ]
-    },
-    {
-      "title": "英伟达发布面向个人电脑的新款AI芯片",
-      "summary": "英伟达CEO黄仁勋宣布推出专为个人电脑设计的AI芯片，并称此举将“彻底革新电脑”。这预示着AI技术将更广泛地应用于消费级硬件，推动个人计算体验升级，并为英伟达打开新的巨大市场，巩固其在AI硬件领域的领导地位。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/crmp9mppvzro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/01/stocks-making-the-biggest-moves-premarket-nnvda-arm-qcom.html"
-        }
-      ]
     }
   ],
   "people": [
     {
       "name": "Jensen Huang",
-      "title": "他称英伟达新PC AI芯片将“彻底革新电脑”",
-      "summary": "观点：英伟达CEO黄仁勋表示，公司最新推出的面向个人电脑的AI芯片将带来“电脑的彻底革新”。此言论强调了AI在终端设备上的巨大潜力，预示着个人计算将进入由AI驱动的新时代。",
+      "title": "黄仁勋称英伟达新AI芯片为“电脑的革新”",
+      "summary": "原话：「我们正在迎来电脑的革新。」英伟达CEO黄仁勋在宣布专为个人电脑设计的新AI芯片时，表达了对这一技术颠覆性潜力的信心。观点：他认为这将从根本上改变用户与PC互动的方式，并开启AI在终端设备上的广泛应用，进一步扩展英伟达在AI生态系统中的影响力。",
       "sources": [
         {
           "name": "BBC Business",
@@ -85,8 +73,8 @@
     },
     {
       "name": "Ben Thompson",
-      "title": "YouTuber成功主导票房，传统守门人地位被削弱",
-      "summary": "观点：Ben Thompson指出，YouTuber在电影票房市场的成功并非偶然。他认为YouTube的竞争环境设定了比好莱坞现有体系更高的内容创作门槛，导致传统内容行业的“守门人”角色正在被去中心化的创作者经济所颠覆。",
+      "title": "YouTuber成功破圈，预示传统行业“守门人”式微",
+      "summary": "观点：Stratechery分析师Ben Thompson指出，YouTuber在电影票房上的成功并非偶然。他认为，在YouTube上取得成功所需要的能力和门槛，远高于目前好莱坞传统体系所设定的标准。这预示着内容创作和分发领域的权力正在从传统“守门人”手中转向数字原生创作者，对媒体和娱乐行业的未来格局产生深远影响。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
@@ -96,57 +84,8 @@
     },
     {
       "name": "Tyler Cowen",
-      "title": "AI时代高质量数据的回报日益增长",
-      "summary": "观点：经济学家Tyler Cowen强调，随着AI技术的发展，优质数据的价值和回报正在显著上升。他认为为了让AI解决实际问题，必须确保高质量数据源的存在，这意味着需要清理政府数据集并资助新型数据创建。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-returns-to-good-data-are-rising.html?utm_source=rss&utm_medium=rss&utm_campaign=the-returns-to-good-data-are-rising"
-        }
-      ]
-    },
-    {
-      "name": "Sam Altman",
-      "title": "OpenAI面临诉讼，同时向英国银行提供AI服务",
-      "summary": "Sam Altman执掌的OpenAI正面临佛罗里达州总检察长的诉讼，声称ChatGPT助长了大规模枪击事件。与此同时，在竞争对手Anthropic阻止英国银行预览其工具后，OpenAI迅速向九家英国银行提供了其GPT 5.5 Cyber服务，显示其在商业拓展和法律挑战并存的复杂局面。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "name": "Barry Diller",
-      "title": "对米高梅度假村的收购意向彰显对市场的信心",
-      "summary": "观点：Barry Diller通过其公司People Inc.对米高梅度假村发出180亿美元的收购要约，此举被市场解读为对拉斯维加斯博彩和休闲市场复苏的“巨大赌注”。这表明这位传媒大亨对该行业前景充满信心，可能引发其他投资者的关注。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/barry-dillers-12-4-billion-offer-for-mgm-is-a-big-bet-that-vegas-is-back-3e96bb8c?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "name": "Greg Abel",
-      "title": "完成伯克希尔哈撒韦首笔重大交易，巴菲特表示满意",
-      "summary": "原话：伯克希尔哈撒韦副董事长Greg Abel完成了作为CEO接班人后的首笔重大交易，收购了住宅建筑商Taylor Morrison，巴菲特对此表示满意。此交易巩固了伯克希尔在住房领域的地位，并被认为是以划算估值达成的收购，显示Abel在资本配置方面的能力。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/01/greg-abel-just-made-his-first-big-deal-as-berkshire-ceo-why-warren-buffett-is-happy.html"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "title": "欧洲强制继承制度影响财富分配",
-      "summary": "欧洲多国法律规定大部分财富必须传给子女（强制继承），与美国财富自由分配的制度形成对比。这一制度差异对高净值人群的财富规划、慈善捐赠意愿以及资本在家族间的流动产生深远影响，值得投资者在跨境资产配置时考虑。",
+      "title": "欧洲强制继承权与美国财富转移自由度的差异影响深远",
+      "summary": "观点：经济学家Tyler Cowen指出，欧洲多数国家存在强制继承权（强制将大部分财富传给子女），而美国则允许富人更自由地分配财产。他认为，这种差异使得欧洲更难将大量财富用于慈善、创新或新的企业投资，对长期资本配置、社会流动性和经济活力有重要影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -155,8 +94,32 @@
       ]
     },
     {
-      "title": "英国净移民人数显著下降",
-      "summary": "英国去年净移民人数降至17.1万人，为2012年以来最低水平（疫情年除外）。这一趋势表明英国移民政策或经济吸引力发生变化，可能对英国劳动力市场、人口结构以及长期经济增长潜力产生结构性影响，进而影响投资环境。",
+      "name": "Greg Abel / Warren Buffett",
+      "title": "伯克希尔哈撒韦投资建筑商，或预示美国楼市触底",
+      "summary": "观点：Greg Abel作为伯克希尔哈撒韦CEO完成的首笔重大交易，即收购住宅建筑商Taylor Morrison，被市场解读为对美国住房市场可能已触底的信号。据悉，巴菲特对这笔交易也表示满意。为什么重要：伯克希尔的投资策略常被视为市场风向标，此次对住房市场的押注，可能提振投资者对该板块的信心。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/06/01/greg-abel-just-made-his-first-big-deal-as-berkshire-ceo-why-warren-buffett-is-happy.html"
+        }
+      ]
+    },
+    {
+      "name": "Sam Altman",
+      "title": "OpenAI面临诉讼，被指控ChatGPT助长犯罪行为",
+      "summary": "观点：佛罗里达州总检察长James Uthmeier提起诉讼，指控OpenAI及其CEO Sam Altman建立了一个“欺骗网络”，允许ChatGPT助长大规模枪击案。为什么重要：这起诉讼对OpenAI提出了严重的法律和伦理挑战，可能为AI平台的责任边界树立先例，并引发对AI内容生成及其潜在滥用风险的更严格监管和审查。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "英国净移民人数降至2012年以来最低水平",
+      "summary": "根据官方数据，去年英国净移民人数降至17.1万人，是自2012年（不包括疫情年份）以来的最低水平。为什么重要：移民水平的变化对英国的劳动力市场、经济增长潜力、公共服务需求和房地产市场都具有重要影响，其下降可能意味着劳动力供应紧张或人口结构变化。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -165,54 +128,40 @@
       ]
     },
     {
-      "title": "市政债券投资与利率风险再评估",
-      "summary": "一项讨论指出，投资者对市政债券的看法以及加息对其影响的误解正在被纠正。在当前的利率环境下，市政债券可能不像一些人认为的那样容易受到加息的负面影响，这为寻求稳健收益的投资者提供了重新评估该资产类别的机会。",
+      "title": "美国与欧洲生产力测量的“例外论”争议",
+      "summary": "经济学家Paul Krugman指出，虽然许多人认为标准生产力测量方法可以用于跨国生活水平和经济福利比较，但他认为这些测量在比较美国和欧洲时可能无法完全捕捉所有含义。为什么重要：理解美欧之间经济表现的真实差异对于投资者评估不同地区的长期增长潜力、政策有效性以及资本配置方向至关重要。",
       "sources": [
         {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/06/talk-your-book-why-rising-rates-wont-hurt-you-anymore/"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/a-new-american-exceptionalism.html?utm_source=rss&utm_medium=rss&utm_campaign=a-new-american-exceptionalism"
         }
       ]
     },
     {
-      "title": "拉美政治版图右倾趋势持续",
-      "summary": "拉丁美洲政治右翼势力持续增强，例如哥伦比亚总统选举进入右翼民粹主义候选人的决选，反映出该地区政治思潮的转变。这预示着该地区未来政策走向可能发生变化，包括经济自由化、对外贸易政策等，值得投资者关注其对区域经济和市场的影响。",
+      "title": "NBER研究：健康保险补贴对高收入群体的效率低于低收入群体",
+      "summary": "一份新的NBER工作论文指出，旨在补贴高收入群体健康保险（例如增强的保费补贴）的政策，其效率远低于旨在向低收入群体扩大公共保险（例如在未扩大的州）的政策。为什么重要：这项研究揭示了健康保险政策设计中的效率差异，可能影响未来各国在医疗改革和社会福利支出方面的决策，从而间接影响财政负担和宏观经济走向。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-political-right-continues-to-gain-ground-in-latin-america.html?utm_source=rss&utm_medium=rss&utm_campaign=the-political-right-continues-to-gain-ground-in-latin-america"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-chimera-of-universal-coverage-in-a-large-diverse-country.html?utm_source=rss&utm_medium=rss&utm_campaign=the-chimera-of-universal-coverage-in-a-diverse-country"
+        }
+      ]
+    },
+    {
+      "title": "零售业第一季度表现强劲，但退税减少后消费者韧性面临考验",
+      "summary": "美国零售业在第一季度实现了“出人意料的强劲”销售和利润增长，但分析师指出，这部分得益于高额退税和“先买后付”等支付方式。随着退税效应的减弱，消费者支出能力面临真正的考验。为什么重要：消费支出是经济增长的主要驱动力之一，未来消费者韧性将直接影响零售商的业绩和整体经济前景，投资者需密切关注后续数据。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/01/q1-2026-retail-earnings-tax-refunds-bnpl.html"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "AI加速生成新型工作岗位",
-      "summary": "硅谷软件公司Box因AI技术发展，预计将创造更多而非更少的工作岗位，例如AI架构师、AI解决方案经理等13种新职位。这表明AI并非单纯导致失业，而是正在深刻改变劳动力市场结构，催生对新兴技能的需求，对企业人才战略提出新要求。",
-      "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/06/01/technology/box-13-new-types-jobs-ai.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/01/technology/box-13-new-types-jobs-ai.html"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI 与 Anthropic 争夺银行AI市场",
-      "summary": "在Anthropic阻止英国银行预览其AI工具后，OpenAI迅速向九家银行提供其GPT 5.5 Cyber服务。这一事件揭示了AI巨头在金融行业企业级应用市场的激烈竞争，银行选择哪家AI服务商将影响其未来的技术布局和市场竞争力。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "AI浪潮淘汰早期创业公司",
-      "summary": "估值超过2500亿美元的AI繁荣，使得数百家在ChatGPT问世前成立的AI初创公司面临颠覆或消亡的困境。这突显了AI技术快速迭代对市场格局的重塑作用，早期AI创业公司若未能及时适应新范式，将面临巨大生存压力，资本市场对AI投资的关注点也随之转移。",
+      "title": "AI正在淘汰ChatGPT问世前成立的初创公司",
+      "summary": "AI的迅猛发展，特别是ChatGPT的推出，已向OpenAI和Anthropic等头部企业注入超过2500亿美元资金，却让数百家在ChatGPT问世前成立的AI初创公司陷入“要么被颠覆，要么走向死亡”的境地。为什么重要：这揭示了AI领域残酷的优胜劣汰，预示着技术范式的快速转变正在重塑整个科技行业，投资策略需要更注重头部企业和技术创新能力。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -221,91 +170,94 @@
       ]
     },
     {
-      "title": "数据质量对AI效用的决定性作用提升",
-      "summary": "当AI被寄予解决实际问题的厚望时，数据质量变得至关重要。研究表明，政府数据集的清理和新型数据的创建，对AI的有效应用及回报正变得越来越高。这意味着未来AI投资需更注重数据基础设施和数据治理，以充分发挥AI潜力。",
+      "title": "Box公司因AI技术催生13种新工作类型",
+      "summary": "硅谷软件制造商Box公司预计，由于AI技术的应用，公司员工数量不会减少，反而会增加，因为它正在招聘AI架构师、AI解决方案经理等13种与AI相关的新型职位。为什么重要：这打破了AI将大规模替代人类工作的传统观点，表明AI不仅是生产力工具，也是催生新职业、推动企业转型的强大引擎，对劳动力市场和未来人才需求具有指导意义。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-returns-to-good-data-are-rising.html?utm_source=rss&utm_medium=rss&utm_campaign=the-returns-to-good-data-are-rising"
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/06/01/technology/box-13-new-types-jobs-ai.html"
         }
       ]
     },
     {
-      "title": "YouTuber 主导票房反映内容创作门槛变化",
-      "summary": "YouTuber在票房市场取得成功，表明YouTube上成功的标准远高于好莱坞现有体系的门槛。这一现象不仅反映了媒体消费习惯的转变，更预示着传统内容行业的“守门人”地位正在被去中心化的创作者经济挑战，对传媒娱乐行业的商业模式带来深远影响。",
+      "title": "OpenAI向英国银行提供AI网络安全工具，抢占企业级市场",
+      "summary": "在Anthropic阻止其AI工具Mythos的预览版向九家英国银行开放后，OpenAI迅速向这些银行提供了其GPT 5.5 Cyber网络安全工具的访问权限。为什么重要：这显示了AI巨头在企业级AI解决方案市场的激烈竞争，特别是金融行业对网络安全AI的需求。银行将能在两大头部AI平台中选择，影响未来金融科技的生态布局。",
       "sources": [
         {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/youtubers-win-the-box-office-goodbye-gatekeepers-the-youtube-bar/"
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "华尔街不会与机器人顾问分享AI选股秘诀",
+      "summary": "尽管人工智能在金融领域的应用日益广泛，但华尔街的顶级机构投资者不太可能将其核心的AI选股策略分享给面向大众的机器人投资顾问。这些AI顾问更多是提供基础投资建议和自动化交易。为什么重要：这揭示了AI在金融领域应用的层次差异，高端定制化AI策略仍是机构的核心竞争力，而普通投资者通过AI获取超额收益的路径仍受限。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/wall-street-keeps-its-ai-stock-picking-secrets-heres-what-robo-advisers-actually-do-93871e31?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "伯克希尔哈撒韦投资住宅建筑商",
-      "summary": "伯克希尔哈撒韦收购住宅建筑商Taylor Morrison，被市场解读为对美国房地产市场已经触底的“信心投票”，预示行业可能迎来复苏。这一举动可能带动投资者对住房建筑板块的兴趣，并暗示未来住宅市场可能出现转机。",
+      "title": "HPE股票飙升，网络业务收入增长148%",
+      "summary": "惠普企业（HPE）的股价大幅上涨，此前公司公布最新季度财报显示其网络业务收入增长了148%。这一强劲增长表明HPE在企业级网络解决方案领域表现出色。为什么重要：HPE的出色表现反映了企业在数字化转型和数据中心建设方面持续投入，尤其是在AI和云计算背景下对高性能网络基础设施的需求激增，这可能预示着相关板块的投资机会。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/these-home-builder-stocks-look-cheap-after-berkshires-vote-of-confidence-in-the-sector-136c1aef?mod=mw_rss_topstories"
-        },
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/01/berkshire-taylor-morrison-bet-housing-market-bottom.html"
-        },
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/01/greg-abel-just-made-his-first-big-deal-as-berkshire-ceo-why-warren-buffett-is-happy.html"
+          "url": "https://www.marketwatch.com/story/hpes-stock-soars-toward-record-gain-as-earnings-show-a-networking-bonanza-2bde2d3a?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "零售业一季度表现强劲但挑战仍存",
-      "summary": "美国零售业在第一季度表现“异常强劲”，但分析认为，高额退税和“先买后付”等因素可能掩盖了消费者潜在的购买力疲软。这意味着零售业后续增长可能面临考验，投资者应警惕消费支出可持续性风险。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/01/q1-2026-retail-earnings-tax-refunds-bnpl.html"
-        }
-      ]
-    },
-    {
-      "title": "微软股价显示软件行业复苏信号",
-      "summary": "微软股价突破200日移动平均线，发出看涨信号，表明市场对软件行业的“AI焦虑”正在消退，软件股有望迎来整体复苏。这一技术性突破可能吸引更多资金流入软件板块，预示行业基本面改善。",
+      "title": "华尔街动量交易策略持续奏效，半导体股票表现强劲",
+      "summary": "华尔街的动量交易策略持续走强，创下有记录以来的最佳两个月收益，其中半导体股票是推动股市上涨的主要力量。为什么重要：动量策略的强劲表现表明市场资金仍在追逐强势板块，特别是半导体行业作为AI浪潮的核心驱动力，其涨势的持续性是衡量当前科技股牛市健康状况的关键指标。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/microsofts-stock-chart-just-flashed-a-bullish-signal-for-a-software- comeback-f6a889a9?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/wall-streets-red-hot-momentum-trade-is-still-winning-as-strategy-delivers-best-2-month-gain-on-record-e3984391?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "IBM 股价走强与特朗普言论",
-      "summary": "IBM股价周一强劲上涨，尽管具体原因复杂，但其表现与软件行业整体复苏趋势一致，显示市场对科技股的乐观情绪。此前特朗普关于AI的言论可能带来一定市场情绪影响，但更根本的原因在于软件行业自身的积极发展。",
+      "title": "美国证交会宣布投资者咨询委员会新成员",
+      "summary": "美国证券交易委员会（SEC）宣布了投资者咨询委员会的四名新成员，以填补空缺。其中三名成员将任职四年。为什么重要：该委员会的成员构成和工作重点将影响SEC未来在投资者保护、市场监管以及政策制定方面的方向，对美国资本市场的公平性和透明度具有间接影响。",
+      "sources": [
+        {
+          "name": "SEC Press",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-50-sec-announces-four-new-members-investor-advisory-committee"
+        }
+      ]
+    },
+    {
+      "title": "IBM股价反弹，或与特定政治事件相关",
+      "summary": "IBM股价周一出现强劲反弹，恰逢软件行业持续回暖之际。有市场分析认为，此次股价异动与特定政治言论或事件存在关联，但具体机制尚待明确。为什么重要：大型科技股的异动及其背后的可能原因，尤其是与政治事件的潜在关联，是投资者评估市场敏感性和特定公司风险的重要参考因素。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/did-trump-spark-an-ibm-stock-rally-its-complicated-5421f6ba?mod=mw_rss_topstories"
         }
       ]
-    },
+    }
+  ],
+  "a_stocks": [
     {
-      "title": "易捷航空收到潜在收购要约",
-      "summary": "美国投资公司Castlelake正考虑对廉价航空公司易捷航空（EasyJet）发起收购要约，但易捷航空称此举为“投机性”。这可能导致航空业的整合，并为易捷航空股东带来溢价机会，但同时也反映出行业面临的挑战和潜在价值重估。",
+      "title": "中国肺癌新药晚期临床试验结果积极，死亡风险降低34%",
+      "summary": "中国药企康方生物与Summit Therapeutics合作研发的一款备受关注的实验性肺癌药物，在晚期临床试验中表现出色，将患者死亡风险降低了34%。为什么重要：这一突破性进展不仅对全球肺癌治疗领域具有重要意义，也可能提振中国生物技术公司的估值和国际竞争力，为国内医药板块带来新的投资亮点。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c042071p96po?at_medium=RSS&at_campaign=rss"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/05/31/asco-summit-akeso-ivonescimab-improves-survival-in-harmoni-6-trial.html"
         }
       ]
     }
   ],
-  "a_stocks": [],
   "business": [
     {
-      "title": "麦当劳发布新全球增长战略",
-      "summary": "面对日益激烈的市场竞争和通胀压力，麦当劳公布新的全球增长战略，旨在通过创新和市场扩张吸引更多消费者。该战略将影响其未来营收和利润表现，是其应对当前全球经济环境和消费者行为变化的重大举措。",
+      "title": "麦当劳公布全球增长新战略，应对日益激烈的竞争",
+      "summary": "麦当劳发布了新的全球增长战略，旨在通过创新和市场适应性来赢得消费者，应对高通胀和油价高企导致竞争加剧的餐饮市场。为什么重要：作为全球快餐巨头，麦当劳的战略调整反映了消费品行业在宏观经济逆风下的应对方式，其成效将对整个餐饮和零售板块产生示范效应。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -314,8 +266,8 @@
       ]
     },
     {
-      "title": "UAW 罢工威胁通用卡车生产",
-      "summary": "密歇根一家为通用汽车皮卡生产零部件的工厂近千名工人举行罢工，未能达成新合同。此次罢工可能威胁通用汽车的卡车生产，影响其供应链和业绩，并突显了劳资关系紧张对制造业的潜在冲击。",
+      "title": "美国汽车工人联合会罢工威胁通用汽车卡车生产",
+      "summary": "美国汽车工人联合会（UAW）的近千名工人在密歇根州一家为通用汽车生产皮卡车零部件的供应商工厂举行罢工，因未能达成新的合同协议。为什么重要：此次罢工可能中断通用汽车关键的卡车生产，对其营收和供应链造成影响。劳资谈判的进展和结果将是评估美国汽车制造业稳定性的关键因素。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -324,18 +276,8 @@
       ]
     },
     {
-      "title": "Akeso/Summit 肺癌药物显著降低死亡风险",
-      "summary": "康宁杰瑞/Summit Therapeutics的实验性肺癌药物在后期试验中将死亡风险降低34%，为肺癌治疗带来新希望。这一积极的临床数据对生物医药行业是重要进展，可能为相关公司带来巨大的市场潜力和投资机会。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/31/asco-summit-akeso-ivonescimab-improves-survival-in-harmoni-6-trial.html"
-        }
-      ]
-    },
-    {
-      "title": "Wise 因洗钱控制问题接受调查",
-      "summary": "国际汇款公司Wise因涉嫌洗钱控制不力问题正接受布鲁塞尔检察官办公室调查。尽管公司表示正配合调查且尚未收到具体发现，但此类监管行动可能对其声誉和业务运营造成影响，凸显了金融科技公司在合规方面的挑战。",
+      "title": "FinTech公司Wise因反洗钱合规问题面临调查",
+      "summary": "国际汇款公司Wise因其反洗钱控制问题正接受布鲁塞尔检察官办公室的调查。Wise表示正配合调查，但尚未收到具体调查结果。为什么重要：金融科技公司面临的监管审查日益严格，这起调查凸显了合规风险对该行业的重要性。投资FinTech的机构需警惕此类风险对公司运营和声誉的潜在影响。",
       "sources": [
         {
           "name": "BBC Business",
@@ -344,8 +286,18 @@
       ]
     },
     {
-      "title": "美能源部考虑取消家电更换补贴",
-      "summary": "美国能源部的新指导意见可能取消人们更换节能家电后获得联邦补贴的资格。此举可能会影响消费者购买节能产品的意愿，进而对家电制造商和更广泛的能源效率市场产生负面影响，改变气候政策的激励机制。",
+      "title": "EasyJet面临潜在收购要约，管理层称其“投机性”",
+      "summary": "美国投资公司Castlelake正在考虑对廉价航空公司EasyJet发起收购要约，但EasyJet管理层已将此举描述为“投机性”。为什么重要：欧洲航空业可能迎来新的并购整合，这将影响该地区的竞争格局和行业估值。对于投资者而言，关注潜在的整合机会和被收购方的价值判断至关重要。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/c042071p96po?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "美国能源部或逐步取消IRA法案中的电器补贴",
+      "summary": "美国能源部发布的新指导意见，可能会阻止消费者在更换电器后获得《通胀削减法案》（IRA）提供的能源效率补贴。为什么重要：取消或修改此类补贴将直接影响消费者购买节能电器的意愿和能力，对家电制造商以及清洁能源技术推广构成潜在打击，值得关注相关政策变化对产业投资的影响。",
       "sources": [
         {
           "name": "NYT Business",
@@ -356,32 +308,32 @@
   ],
   "overlooked": [
     {
-      "title": "美国优先策略下迷幻药物研究加速",
-      "summary": "特朗普政府正推动加速迷幻药物作为精神健康治疗方案的研究，这为生物医药领域带来新的机遇和潜在风险。此举可能将迷幻药物从亚文化推向主流医疗市场，形成新的治疗范式和投资赛道，但监管和伦理挑战并存。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/05/31/why-trump-is-encouraging-psychedelics-for-mental-health.html"
-        }
-      ]
-    },
-    {
-      "title": "大型多样化国家实现全民医保的挑战",
-      "summary": "一项研究指出，在一个庞大而多元化的国家实现全民医保可能是一个“空想”，针对高收入群体的医保补贴效率远低于扩大低收入群体公共医保覆盖的政策。这一发现挑战了普遍的医保政策思路，对全球各国医疗改革和公共财政分配具有重要启示。",
+      "title": "拉丁美洲政治右翼持续取得进展",
+      "summary": "最新选举结果显示，拉丁美洲地区的政治右翼力量持续获得支持。例如，哥伦比亚总统选举中，左翼参议员将与一位自称“老虎”的右翼民粹主义者进行第二轮对决。为什么重要：该地区政治格局的右转可能带来亲市场、保守主义的政策导向，对新兴市场国家的经济政策、外资吸引力以及地缘政治联盟产生影响，值得投资者关注其长期走势。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-chimera-of-universal-coverage-in-a-large-diverse-country.html?utm_source=rss&utm_medium=rss&utm_campaign=the-chimera-of-universal-coverage-in-a-large-diverse-country"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-political-right-continues-to-gain-ground-in-latin-america.html?utm_source=rss&utm_medium=rss&utm_campaign=the-political-right-continues-to-gain-ground-in-latin-america"
         }
       ]
     },
     {
-      "title": "活动预测市场平台 Kalshi 转向华尔街",
-      "summary": "曾由散户驱动的预测市场平台Kalshi正通过一系列举措，使其事件合约对机构投资者更具吸引力。这预示着另类投资工具向主流金融市场渗透的趋势，未来更多非传统金融产品可能进入机构投资者的视野，改变市场交易格局。",
+      "title": "预测市场平台Kalshi瞄准华尔街，扩展机构交易",
+      "summary": "美国预测市场平台Kalshi最初通过个人交易者崛起，现在正采取一系列措施，使其事件合约对机构交易者更具吸引力。为什么重要：预测市场向机构级金融的拓展，可能改变传统的风险对冲和交易模式，为投资者提供衡量特定事件（如选举、经济数据）概率的新工具，值得关注其对金融市场基础设施的潜在影响。",
       "sources": [
         {
           "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/06/01/individual-traders-drove-kalshis-rise-now-its-going-for-wall-street.html"
+        }
+      ]
+    },
+    {
+      "title": "硅谷科技巨头抵制加州“亿万富翁税”提案",
+      "summary": "加州正在讨论一项针对亿万富翁征税的提案，而硅谷的科技精英们正在积极抵制。批评者指出，科技行业在很大程度上得益于公共资金的投入，现在却反对财富税。为什么重要：这场关于财富税的争议反映了社会对财富分配、创新激励和公共财政的深层结构性矛盾，其结果可能影响加州的投资环境、富裕阶层的去留，甚至为其他州树立效仿或警示的先例。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/big-tech-hates-californias-billionaire-tax-but-loves-taxpayers-money-c143ecac?mod=mw_rss_topstories"
         }
       ]
     }
