@@ -1,8 +1,8 @@
 {
   "top5": [
     {
-      "title": "谷歌向伯克希尔哈撒韦发行股权：资本市场新范式",
-      "summary": "谷歌与伯克希尔哈撒韦达成一项股权交易，这笔交易被解读为一种信号，表明市场对谷歌的需求远超预期，并预示着未来资本本身可能成为一种“终极商品”。在科技巨头坐拥大量现金的背景下，此次合作突显了战略资本和合作关系的重要性，或将重新定义大型科技公司的融资和战略联盟模式，对传统资本市场理念构成挑战。",
+      "title": "谷歌向伯克希尔·哈撒韦发行股权，暗示资本稀缺性提升",
+      "summary": "谷歌向巴菲特旗下的伯克希尔·哈撒韦公司发行了股权，这一交易被解读为对资本的战略性需求远超传统认知，预示着未来资本可能成为企业竞争中的终极商品。此举不仅改变了两大巨头间的合作模式，也可能影响市场对资本价值和配置效率的看法。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
@@ -11,32 +11,18 @@
       ]
     },
     {
-      "title": "AI巨头Anthropic估值逼近万亿美元，计划在美出售股份：AI IPO热潮再升温",
-      "summary": "领先的AI公司Anthropic估值即将触及万亿美元，并计划在今年晚些时候向公众出售股份。这一消息反映了市场对AI领域的极度狂热和高涨的投资热情，预示着AI独角兽的超级IPO时代即将到来。同时，超大体量AI公司的上市，也可能对现有的指数基金构成新的挑战，因为其纳入规则和时间表将影响市场资金的流向和配置。",
+      "title": "AI巨头Anthropic拟售股，估值逼近1万亿美元",
+      "summary": "知名人工智能公司Anthropic计划在美国市场出售股票，其估值已接近1万亿美元。这一事件凸显了当前市场对AI领域投资的巨大热情和高估值趋势，可能预示着AI企业未来大规模上市潮，并引发投资者对AI资产泡沫的关注。",
       "sources": [
         {
           "name": "BBC Business",
           "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/buying-into-spacex-anthropic-and-other-mega-ipos-could-be-a-problem-for-your-index-fund-3e7e968e?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "高盛CEO大卫·所罗门警告：AI市场正处于“贪婪模式”",
-      "summary": "高盛集团首席执行官大卫·所罗门发表评论，指出随着AI公司纷纷寻求数十亿美元的融资，当前市场正处于一种“贪婪模式”。作为华尔街顶级投行的领导者，他的这一直接警告对投资者具有重要意义，提示在AI领域估值普遍高企、资本竞相涌入的背景下，应审慎评估风险，警惕市场过热可能带来的泡沫。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html"
-        }
-      ]
-    },
-    {
-      "title": "报道称中国军方多年来寻求获取英伟达芯片：中美科技竞争加剧",
-      "summary": "一项对过去六年采购记录的分析报告指出，中国人民解放军多年来一直公开试图获取受美国出口限制的英伟达芯片等尖端技术。这一发现凸显了中美两国在半导体和人工智能技术领域的持续战略竞争和紧张关系。这不仅对全球半导体供应链构成挑战，也预示着两国在关键技术领域的脱钩风险和地缘政治摩擦将进一步升级。",
+      "title": "报告称中国军方多年来寻求获取英伟达芯片",
+      "summary": "一份基于过去六年采购记录的分析报告指出，中国人民解放军多年来一直公开尝试获取受美国出口管制的英伟达（Nvidia）芯片技术。此发现进一步强调了中美在关键技术领域的战略竞争升级，对全球半导体供应链稳定性和地缘政治关系产生深远影响。",
       "sources": [
         {
           "name": "NYT Economy",
@@ -45,16 +31,26 @@
       ]
     },
     {
-      "title": "地缘冲突升级：MSC货轮在伊拉克港口遇袭，伊朗战争推高化肥价格",
-      "summary": "地中海航运公司（MSC）的一艘货轮在伊拉克港口遭到两枚射弹袭击，这表明即使美国和伊朗试图重新谈判霍尔木兹海峡的开放，地区冲突对航运的威胁依然存在。与此同时，伊朗战争也大幅推高了化肥价格，迫使农民面临艰难抉择。这些事件直接影响全球供应链和关键大宗商品市场，可能导致通胀压力上升，对宏观经济和农业生产产生深远影响。",
+      "title": "高盛CEO称AI领域市场正处于“贪婪模式”",
+      "summary": "高盛集团首席执行官大卫·所罗门（David Solomon）表示，当前市场对人工智能公司的投资正处于“贪婪”模式，因为这些公司在寻求数十亿美元的融资。这一评论提醒投资者警惕AI领域可能出现的过度估值和潜在泡沫风险，对市场情绪具有重要引导作用。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html"
+        }
+      ]
+    },
+    {
+      "title": "知名卖空者安德鲁·莱夫因证券欺诈被判有罪",
+      "summary": "联邦陪审团裁定通过做空公司而声名鹊起的安德鲁·莱夫（Andrew Left）犯有证券欺诈罪。此判决在华尔街卖空圈引起震动，可能对市场监督、信息披露标准以及其他卖空者的策略产生影响，进而影响市场整体的风险偏好和信息效率。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/02/business/msc-iraq-port-iran-war.html"
+          "url": "https://www.nytimes.com/2026/06/02/business/dealbook/andrew-left-convicted-fraud.html"
         },
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/the-iran-war-is-jacking-up-fertilizer-prices-and-forcing-farmers-to-make-tough-calls-if-i-guess-wrong-i-lose-the-farm-dc30c979?mod=mw_rss_topstories"
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/06/02/business/dealbook/andrew-left-convicted-fraud.html"
         }
       ]
     }
@@ -62,8 +58,8 @@
   "people": [
     {
       "name": "Ben Thompson",
-      "title": "谷歌与伯克希尔哈撒韦的股权交易标志着资本成为“终极商品”",
-      "summary": "观点：Stratechery创始人Ben Thompson评论谷歌向伯克希尔哈撒韦发行股权的交易，认为这不仅表明市场对谷歌的巨大需求，更预示着一个资本成为“终极商品”的未来。他指出，在科技巨头拥有充裕现金流的时代，战略资本和合作伙伴关系的重要性日益凸显，这可能重新定义大型科技公司的融资和战略合作模式。",
+      "title": "他认为谷歌与伯克希尔的交易暗示资本的终极价值",
+      "summary": "观点：Ben Thompson指出，谷歌向伯克希尔·哈撒韦发行股权的交易，表明在未来，资本的需求远超预期，并可能成为终极商品。这凸显了在当前经济环境下，即使是科技巨头也需要战略资本来支撑其发展，并强调了拥有资本配置能力的伯克希尔·哈撒韦的独特价值。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
@@ -73,8 +69,8 @@
     },
     {
       "name": "David Solomon",
-      "title": "AI公司寻求数十亿美元融资，市场正处于“贪婪模式”",
-      "summary": "原话：「高盛首席执行官大卫·所罗门表示，随着AI公司寻求数十亿美元的融资，市场正处于‘贪婪模式’。」他指出，投资者正在为未来几年最活跃的股权发行期之一做准备，并暗示当前对AI领域的巨大资本涌入可能带来过热风险，值得警惕。",
+      "title": "高盛CEO警示AI市场存在“贪婪模式”",
+      "summary": "原话：「市场正处于‘贪婪’模式，尤其是在人工智能公司寻求数十亿美元融资时。」高盛CEO大卫·所罗门此番言论，直接对当前AI领域的狂热投资情绪提出警告，提醒投资者警惕潜在的估值泡沫和非理性繁荣，对引导市场预期具有关键作用。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -83,9 +79,20 @@
       ]
     },
     {
+      "name": "A.G. Sulzberger",
+      "title": "纽约时报发行人指责AI对创意经济构成威胁",
+      "summary": "观点：纽约时报发行人A.G. Sulzberger认为，AI对总值12万亿美元的创意经济构成巨大风险，他将AI公司大量使用新闻及其他创意内容但不付费的行为，比作“窃取赃物”。这突出了AI发展中知识产权和内容所有权的核心争议，预示着相关法律和商业模式的巨大挑战。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/beyond-the-brazen-theft-of-news-the-entire-12-trillion-creative-economy-may-now-be-at-risk-from-ai-7c993830?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
       "name": "Tyler Cowen",
-      "title": "美国正在输出“智慧”服务，服务业出口潜力巨大",
-      "summary": "观点：知名经济学家Tyler Cowen指出，由于大多数美国人从事服务业，美国出口相关的工作岗位也主要集中在服务业。尽管商品出口额高于服务出口，但服务业的劳动密集度更高，单位美元出口支持的就业更多。他强调美国在“输出智慧”（intelligence）方面具有优势，暗示服务业在全球经济中的战略地位日益重要。",
+      "title": "他强调美国“智力出口”对经济增长的重要性",
+      "summary": "观点：经济学家泰勒·考恩（Tyler Cowen）指出，美国的服务业，特别是“智力出口”，已成为经济的重要组成部分，其创造的就业机会比制造业更多。这一观点强调了美国经济结构向更高附加值的知识和技术密集型服务业转型，对劳动力市场和未来经济增长模式具有深远影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -94,10 +101,14 @@
       ]
     },
     {
-      "name": "伯克希尔哈撒韦（及其投资团队）",
-      "title": "投资建筑商Taylor Morrison：或预示美国楼市触底",
-      "summary": "观点：伯克希尔哈撒韦对房屋建筑商Taylor Morrison的投资，被分析师解读为美国房地产市场可能已触底的信号。这一举动，尽管不是巴菲特本人直接评论，但其公司通过对特定行业的押注，往往能为市场提供重要指引，表明其对该行业前景的信心和对经济复苏的判断。",
+      "name": "Ben Carlson",
+      "title": "他分析住房市场衰退并预判潜在触底信号",
+      "summary": "观点：Ben Carlson指出美国住房市场可能正经历衰退，并提及伯克希尔·哈撒韦对房屋建筑商Taylor Morrison的投资，可能预示着住房市场已经触底。这一分析为高净值投资者提供了对美国房地产市场周期性变化的潜在洞察，关注宏观经济走势。",
       "sources": [
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/06/the-housing-market-recession/"
+        },
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/06/01/berkshire-taylor-morrison-bet-housing-market-bottom.html"
@@ -107,8 +118,8 @@
   ],
   "macro": [
     {
-      "title": "美国金融机构监管移除信誉风险相关表述：减轻监管负担",
-      "summary": "美国联邦金融机构（包括美联储）决定在其监管指引中移除关于信誉风险的额外参考。此举旨在精简监管框架，可能为银行等金融机构提供更大的运营灵活性，并减轻部分合规负担。对投资者而言，这可能意味着监管环境略微放松，但也需关注此变化对金融系统稳定性潜在的长期影响。",
+      "title": "美国联邦机构拟移除声誉风险相关提述",
+      "summary": "美国联邦机构正在从其监管文件中移除对“声誉风险”的额外引用。这一变化可能意味着监管机构在评估金融机构风险时，将更侧重于量化和合规风险，而非主观的声誉考量，进而影响银行和其他受监管实体的内部风险管理策略。",
       "sources": [
         {
           "name": "Federal Reserve Press",
@@ -117,8 +128,8 @@
       ]
     },
     {
-      "title": "美国证监会发布战略计划草案征求公众意见：明确监管重点",
-      "summary": "美国证券交易委员会（SEC）发布了战略计划草案，旨在回归其保护投资者、维护公平有序高效市场以及促进资本形成的核心使命。这份草案将指导SEC未来几年的工作重点，包括对新兴技术、市场结构和公司治理的监管方向，对金融市场参与者具有重要参考价值，预示着未来监管政策的走向。",
+      "title": "SEC发布战略计划草案，重申核心使命",
+      "summary": "美国证券交易委员会（SEC）公布了其新的战略计划草案，旨在回归其90多年前由国会设定的核心使命：保护投资者，维护公平、有序、高效的市场。这预示着SEC未来的监管重点和执法方向可能发生调整，对资本市场参与者产生指导性影响。",
       "sources": [
         {
           "name": "SEC Press",
@@ -127,8 +138,8 @@
       ]
     },
     {
-      "title": "特朗普对巴西征收25%关税：重拾贸易保护主义议程",
-      "summary": "美国前总统特朗普提议对巴西产品征收25%关税，理由是巴西存在不公平贸易行为。此举标志着其政府通过“301条款”调查重建关税议程的最新尝试。这项政策可能引发贸易伙伴的反制，加剧全球贸易紧张局势，对多边贸易体系和国际商业活动构成潜在风险，值得关注其对全球供应链的影响。",
+      "title": "美国对巴西实施25%关税，贸易保护主义抬头",
+      "summary": "特朗普政府以“不公平贸易行为”为由，对来自巴西的商品征收25%的关税。这是本届政府通过“301条款”调查重建其关税议程的最新尝试，标志着贸易保护主义措施的再度升级，可能引发国际贸易紧张局势，并对全球供应链产生涟漪效应。",
       "sources": [
         {
           "name": "NYT Business",
@@ -137,30 +148,44 @@
       ]
     },
     {
-      "title": "美国消费者转向“先买后付”支付日常必需品：通胀压力持续显现",
-      "summary": "随着汽油和食品等日常必需品价格上涨，越来越多的美国消费者开始利用“先买后付”（BNPL）服务来支付这些开销。这种消费行为变化，凸显了通胀对普通家庭购买力的持续侵蚀，并可能预示着消费者财务压力的增加。这对于零售业和整体经济的增长前景都是一个警示信号，需关注其对消费支出的长期影响。",
+      "title": "高油价导致美国家庭减少食品支出",
+      "summary": "折扣零售商Dollar General的首席执行官表示，由于汽油价格居高不下，特别是农村地区的消费者，正被迫减少食品购买以削减出行成本。这一现象反映出高通胀和能源价格对普通消费者购买力的持续挤压，可能预示着零售销售和消费者信心面临下行压力。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/americans-are-using-buy-now-pay-later-for-gas-and-groceries-showing-just-how-expensive-daily-necessities-are-now-25a041b3?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/dollar-general-says-customers-are-buying-less-food-because-driving-is-too-expensive-d2f52dc6?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "美国住房市场或已进入衰退，但有触底信号",
+      "summary": "有分析指出，美国住房市场可能已经进入衰退。然而，伯克希尔·哈撒韦公司对房屋建筑商Taylor Morrison的投资，被一些分析师解读为住房市场可能已经触底的积极信号。这为关注美国房地产市场的投资者提供了重要的判断依据。",
+      "sources": [
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/06/the-housing-market-recession/"
+        },
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/01/berkshire-taylor-morrison-bet-housing-market-bottom.html"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "马丁·斯科塞斯拥抱AI：好莱坞对人工智能态度软化",
-      "summary": "电影界标志性人物马丁·斯科塞斯投资支持一家图像和视频生成AI初创公司Black Forest Labs，这表明好莱坞对人工智能的态度正在软化，从最初的抵制转向拥抱。这一转变对媒体和娱乐行业具有重要意义，预示着AI技术在内容创作和制作领域的应用将加速，可能重塑行业生态和商业模式。",
+      "title": "微软量子计算芯片可靠性提升千倍，商业化前景可期",
+      "summary": "微软宣布其新款量子计算芯片的可靠性比前代产品提升了1000倍，并预计到本十年末将推出能够解决商业实用问题的量子计算机。这一重大突破预示着量子计算技术正加速从理论走向实际应用，有望在未来颠覆计算、加密和材料科学等多个领域。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/02/business/media/martin-scorsese-artificial-intelligence.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Box因AI创造13种新工作：AI非必然导致裁员，而是转型",
-      "summary": "硅谷软件公司Box预计将因AI而增加而非减少员工数量，并创造了AI架构师、AI解决方案经理等13种新的AI相关职位。这为关于AI对就业影响的讨论提供了积极视角，表明企业可以利用AI提高员工生产力而非简单替代。这一趋势预示着劳动力市场将出现结构性转型，对企业人才战略和未来教育方向产生重要影响。",
+      "title": "企业软件公司Box因AI创造13种新工作岗位",
+      "summary": "硅谷软件公司Box预计，通过引入人工智能，其员工数量将不减反增，并创造了13种全新的AI相关职位，包括AI架构师和AI解决方案经理。这提供了一个AI技术如何促进就业增长而非简单替代人类劳动的案例，对企业在AI时代的人力资源战略具有参考价值。",
       "sources": [
         {
           "name": "NYT Economy",
@@ -173,34 +198,40 @@
       ]
     },
     {
-      "title": "AI浪潮冲击：ChatGPT前诞生的初创公司面临“颠覆或死亡”困境",
-      "summary": "自ChatGPT问世以来，AI热潮已向OpenAI和Anthropic等公司注入超过2500亿美元资金，使得数百家在ChatGPT出现前成立的AI初创公司陷入困境，面临“颠覆或死亡”的选择。这表明AI领域的技术迭代速度极快，新范式正在迅速颠覆旧有模式，对早期AI投资者和创业公司构成巨大挑战，也加速了行业的整合和洗牌。",
+      "title": "马丁·斯科塞斯拥抱AI，投资初创公司",
+      "summary": "著名电影导演马丁·斯科塞斯（Martin Scorsese）正在支持一家名为Black Forest Labs的AI图像和视频生成初创公司，这标志着好莱坞对人工智能技术的立场开始软化。此举预示着AI在创意产业，特别是电影制作领域的应用将加速，可能带来新的内容创作范式。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/02/business/media/martin-scorsese-artificial-intelligence.html"
+        }
+      ]
+    },
+    {
+      "title": "网络安全公司Palo Alto Networks：AI是网络安全之友",
+      "summary": "网络安全巨头Palo Alto Networks的最新财报显示，人工智能的最新进展反而大大增加了对网络安全的需求，其首席执行官强调AI是网络安全的盟友而非威胁。这一观点挑战了AI可能带来更多网络安全风险的传统看法，表明AI在增强防御能力方面潜力巨大。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-is-rising-as-earnings-show-ai-is-a-friend-not-a-foe-0f6b289a?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "企业AI部署不当，效率降低并困扰员工",
+      "summary": "一份报告指出，一些公司在匆忙部署人工智能时，未能制定清晰的战略，导致员工对AI的使用感到困惑，甚至降低了整体工作效率。这揭示了企业在AI技术落地过程中面临的挑战，包括员工培训、流程再造和技术整合，强调了周密规划的重要性。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "香橼创始人Andrew Left被判证券欺诈罪：对卖空者构成警示",
-      "summary": "知名卖空者、香橼研究（Citron Research）创始人Andrew Left被联邦陪审团判定证券欺诈罪名成立。这一判决对华尔街的卖空行为者发出了强烈信号，可能加剧其他卖空者对潜在法律风险的担忧，并可能影响未来卖空报告的发布策略，进而改变市场对特定股票的反应和整体市场透明度。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/02/business/dealbook/andrew-left-convicted-fraud.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/02/business/dealbook/andrew-left-convicted-fraud.html"
-        }
-      ]
-    },
-    {
-      "title": "Barry Diller旗下People Inc.拟收购米高梅度假村剩余股份：180亿美元估值",
-      "summary": "媒体大亨Barry Diller旗下的People Inc.正准备出价收购其尚未持有的米高梅度假村（MGM Resorts）股份，这项潜在交易的估值高达180亿美元。这项重大的并购计划将对博彩和酒店行业产生深远影响，也反映了大型企业集团整合资产、优化业务布局的战略动向，值得投资者密切关注。",
+      "title": "Barry Diller旗下公司计划收购米高梅度假村剩余股份",
+      "summary": "传媒大亨Barry Diller旗下的People Inc.正筹备一份以180亿美元估值收购其尚未拥有的米高梅度假村（MGM Resorts）股份的要约。此举表明大型并购交易在娱乐及酒店行业依然活跃，反映了市场对该板块整合和协同效应的预期。",
       "sources": [
         {
           "name": "NYT DealBook",
@@ -209,56 +240,70 @@
       ]
     },
     {
-      "title": "维珍银河股价暴跌40%：债务重组与股权稀释引担忧",
-      "summary": "太空旅游公司维珍银河（Virgin Galactic）股价经历史上最差单日表现，暴跌40%。此前，该公司为偿还部分债务计划发行新股，导致现有股权稀释，引发投资者强烈担忧。这一事件凸显了成长型公司在快速扩张阶段面临的融资和债务管理挑战，以及股权稀释对投资者情绪和公司估值的直接冲击。",
+      "title": "Ulta Beauty财报超预期，上调盈利指引股价上涨",
+      "summary": "美妆零售商Ulta Beauty第一财季业绩在营收和盈利两方面均超出华尔街预期，并上调了全年盈利指引，导致股价上涨。这表明公司策略成功吸引了消费者，尤其是在竞争激烈的美容市场中展现出强大的韧性和增长潜力。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/why-virgin-galactics-stock-is-having-its-worst-day-ever-after-a-record-smashing-7-day-run-e0df7f0f?mod=mw_rss_topstories"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/02/ulta-beauty-ulta-q1-earnings-2026.html"
         }
       ]
     },
     {
-      "title": "大型IPO恐对指数基金构成挑战：市场结构性变化",
-      "summary": "随着SpaceX、Anthropic等超大型公司即将进行IPO，其巨大的市值和上市计划可能对指数基金的运作构成问题。指数纳入规则和时间表将决定哪些基金能从这些高增长资产中受益，从而划分出市场的赢家和输家。这提示投资者关注被动投资策略在新兴巨头涌现时的潜在局限性，以及市场结构性变化对资产配置的影响。",
+      "title": "Victoria's Secret股价因财报亮眼大涨",
+      "summary": "维多利亚的秘密（Victoria's Secret）股价飙升40%，创下有史以来最佳单日表现，此前公司公布了超出预期的财报并上调了销售展望。CEO表示，公司通过产品策略调整正成功吸引年轻消费者，表明其品牌转型已初见成效，重获市场信心。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/buying-into-spacex-anthropic-and-other-mega-ipos-could-be-a-problem-for-your-index-fund-3e7e968e?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/victorias-secrets-stock-is-on-track-for-its-best-day-ever-it-came-down-to-better-bras-fb82f017?mod=mw_rss_topstories"
+        },
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/02/victorias-secret-vsxy-earnings-q1-2026.html"
+        }
+      ]
+    },
+    {
+      "title": "伯克希尔·哈撒韦投资房屋建筑商，暗示住房市场触底",
+      "summary": "巴菲特旗下的伯克希尔·哈撒韦公司对房屋建筑商Taylor Morrison进行投资，这被分析师解读为美国住房市场可能已经触底的信号。在当前经济环境下，这一举动为投资者提供了对房地产市场未来走向的潜在指引，值得密切关注。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/01/berkshire-taylor-morrison-bet-housing-market-bottom.html"
         }
       ]
     }
   ],
   "a_stocks": [
     {
-      "title": "斯蒂芬·库里与李宁达成协议：中国品牌加速全球化布局",
-      "summary": "NBA球星斯蒂芬·库里与中国运动品牌李宁达成一项重大协议，该协议涵盖运动服饰、休闲产品，并计划在中美两国开设门店。这是NBA球星与中国品牌之间最大的合作之一，标志着中国品牌在国际市场上提升影响力的雄心，并预示着中美商业合作的新模式。对A股市场而言，这可能激励更多中国消费品牌寻求国际化突破。",
+      "title": "斯蒂芬·库里与中国品牌李宁签订巨额球鞋协议",
+      "summary": "NBA巨星斯蒂芬·库里（Stephen Curry）与中国运动品牌李宁签订了巨额合作协议，内容包括运动服饰、休闲产品以及在美国和中国开设门店的计划。这笔交易是NBA球星与中国品牌之间最大规模的合作之一，标志着中国品牌在全球化战略中对体育明星营销的重视及影响力的提升。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/02/world/asia/steph-curry-li-ning-shoe-deal-china.html"
+          "url": "https://www.nytimes.com/2026/06/02/world/asia/stephen-curry-li-ning-shoe-deal-china.html"
         },
         {
           "name": "BBC Business",
           "url": "https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss"
         }
       ]
-    },
-    {
-      "title": "中国整顿“幽灵厨房”：规范餐饮外卖市场竞争",
-      "summary": "中国正在对“幽灵厨房”（ghost kitchens）现象进行整治，以规范日益激烈的餐饮外卖市场竞争。大量“幽灵厨房”的存在曾引发消费者信任危机和食品安全担忧。此举反映了中国政府加强对新兴数字经济业态监管的趋势，旨在保障消费者权益和促进行业健康发展，对中国的在线餐饮平台和相关产业链带来结构性影响。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss"
-        }
-      ]
     }
   ],
   "business": [
     {
-      "title": "麦当劳公布全球增长新战略：应对市场竞争和通胀压力",
-      "summary": "麦当劳发布了新的全球增长战略，旨在通过创新产品、数字化体验和更高效的运营来赢得消费者，尤其是在通胀和高油价导致消费者可支配收入减少的背景下。这项战略将决定这家快餐巨头在全球市场的竞争力及未来盈利能力，对餐饮消费行业具有风向标意义，值得关注其执行效果及对竞争格局的影响。",
+      "title": "地中海航运公司船只在伊拉克港口遭袭，凸显航运风险",
+      "summary": "地中海航运公司（MSC）一艘船只在伊拉克港口遭到两枚射弹袭击。此次事件突显了中东地区航运面临的持续安全威胁，尤其是在美国和伊朗试图谈判重新开放霍尔木兹海峡的敏感时期，这可能对全球能源供应和贸易路线产生影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/02/business/msc-iraq-port-iran-war.html"
+        }
+      ]
+    },
+    {
+      "title": "麦当劳公布全球增长新战略以应对激烈竞争",
+      "summary": "麦当劳（McDonald's）发布了新的全球增长战略，旨在应对高通胀和汽油价格上涨导致消费者可支配收入减少、餐饮业竞争加剧的局面。该战略将通过创新产品、提升数字化体验和优化运营来吸引顾客，以期在全球市场中保持领先地位。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -267,8 +312,8 @@
       ]
     },
     {
-      "title": "美国汽车工人联合会罢工威胁通用汽车卡车生产：劳资关系紧张",
-      "summary": "近1000名密歇根州一家主要为通用汽车卡车生产零部件的工厂工人举行罢工，因未能达成新的合同协议。此次罢工威胁到通用汽车的卡车生产，突显了美国制造业日益紧张的劳资关系。工会行动对汽车行业的供应链、生产成本和盈利能力带来不确定性，可能影响通用汽车的季度业绩和行业整体前景。",
+      "title": "UAW罢工威胁通用汽车卡车生产",
+      "summary": "美国汽车工人联合会（UAW）近1000名工人在密歇根州一家为通用汽车（GM）卡车生产零部件的供应商工厂举行罢工，此前未能达成新的合同协议。此次罢工威胁到通用汽车的卡车生产，凸显了劳资纠纷对汽车行业供应链和生产计划的潜在冲击。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -277,44 +322,44 @@
       ]
     },
     {
-      "title": "零售业一季度表现强劲但挑战仍在：退税效应减弱",
-      "summary": "美国零售业在第一季度实现了“出人意料的强劲”销售和利润增长。然而，分析指出，这部分得益于高额退税和“先买后付”服务的普及，可能掩盖了消费者潜在的疲软。随着退税效应减弱，零售业将面临真正的考验，预示着未来几个季度消费者支出可能承压，对零售股的投资前景需审慎评估。",
+      "title": "爱彼（Audemars Piguet）手表价格稳定，不受联名合作影响",
+      "summary": "尽管与Swatch进行了联名合作，奢侈腕表品牌Audemars Piguet（爱彼）的手表价格依然保持稳定。这表明爱彼在吸引新一代收藏者的同时，成功维持了其核心奢侈品的品牌价值和市场定位，对高端消费品市场策略具有参考意义。",
       "sources": [
         {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/01/q1-2026-retail-earnings-tax-refunds-bnpl.html"
+          "url": "https://www.cnbc.com/2026/06/02/audemars-piguet-watch-prices-swatch-collab.html"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "欧洲财富继承制度促成家族王朝：代际财富传递差异",
-      "summary": "在欧洲大部分地区，强制继承法规定大部分财富必须传给子女，这与美国富人可以自由支配财富的做法形成鲜明对比。这种制度差异使得欧洲更易形成家族王朝，对长期资本积累、社会流动性和经济结构产生深远影响。这一结构性因素常常被投资者忽略，但它塑造了不同地区财富集中度及资产配置的独特模式。",
+      "title": "经济学界关注总禀赋现值与经济增长的结构性问题",
+      "summary": "经济学界正在探讨一个重要的理论问题：总禀赋的现值是否有限，即“风险中性”测度下的经济增长率是否低于无风险利率。这一理论问题对于理解长期债务可持续性、资产定价和经济结构性变化具有深远意义，可能影响对宏观经济政策的长期评估。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/big-if-true.html?utm_source=rss&utm_medium=rss&utm_campaign=big-if-true"
+        }
+      ]
+    },
+    {
+      "title": "AI安全漏洞被黑客利用，凸显新兴技术风险",
+      "summary": "Instagram的AI聊天机器人被黑客利用，获得了访问其他用户账户的权限，导致一些知名账户被劫持。这一事件警示了人工智能技术在实际应用中潜在的安全漏洞和隐私风险，突显了在AI大规模推广时，安全防护和风险管理的重要性，值得企业和用户高度关注。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "欧洲强制继承制度对财富传承与资本流动的影响",
+      "summary": "在欧洲大部分地区，存在强制继承权制度，要求大部分财富必须传承给子女，与美国富人可以自由支配遗产的情况形成鲜明对比。这不仅限制了家族财富的自由分配，也对慈善捐赠、创业投资以及资本在家族间的流动和集中产生长期结构性影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
           "url": "https://marginalrevolution.com/marginalrevolution/2026/06/europe-demands-family-dynasties.html?utm_source=rss&utm_medium=rss&utm_campaign=europe-demands-family-dynasties"
-        }
-      ]
-    },
-    {
-      "title": "英国净移民人数骤降至2012年以来最低：劳动力市场与经济影响",
-      "summary": "英国最新的数据显示，去年净移民人数降至17.1万，为2012年以来的最低水平（剔除疫情年份）。此前，2023年3月曾达到近150万移民的峰值。移民政策的收紧和净移民的显著减少，将对英国的劳动力市场供给、经济增长潜力及公共服务带来结构性影响，尤其是在关键行业，对长期经济模型和投资规划有重要影响。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/uk-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-facts-of-the-day"
-        }
-      ]
-    },
-    {
-      "title": "S&P 500近期涨势创二战后第四快：历史警示风险",
-      "summary": "标普500指数在过去两个月表现强劲，克服了对人工智能和伊朗战争的担忧，创下二战后同期第四快的上涨速度。然而，历史数据显示，在此前三次相似的快速上涨后，曾有一次伴随历史性股灾。这提醒投资者，尽管当前市场情绪乐观，但也应警惕潜在的回调风险和过度乐观情绪，不应忽视历史经验的警示。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/the-s-p-500-has-only-risen-this-quickly-4-times-since-wwii-once-a-historic-stock-market-crash-followed-ed41ab2d?mod=mw_rss_topstories"
         }
       ]
     }
