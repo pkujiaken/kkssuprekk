@@ -1,12 +1,12 @@
 {
   "top5": [
     {
-      "title": "SpaceX瞄准史上最大规模IPO，估值高达1.75万亿美元",
-      "summary": "埃隆·马斯克的火箭与卫星公司SpaceX计划以每股135美元的价格进行首次公开募股，目标估值达到惊人的1.75万亿美元，有望超越沙特阿美成为全球最大IPO。此次上市吸引了广泛关注，但有分析师提醒，如此高的估值意味着几乎没有犯错空间，投资者需审慎评估其风险与回报。为什么重要：这不仅是资本市场的一项里程碑事件，也反映了投资者对太空探索和星链（Starlink）等颠覆性科技的巨大信心，其成功将重塑全球资本市场格局。",
+      "title": "SpaceX IPO估值达1.75万亿美元，目标史上最大规模上市",
+      "summary": "埃隆·马斯克的SpaceX计划以每股135美元的价格进行首次公开募股（IPO），估值高达1.75万亿美元，有望超越沙特阿美成为史上最大规模的股票发行。此次IPO将允许个人投资者参与其火箭发射和星链（Starlink）卫星业务，预示着资本市场对太空科技和未来增长领域的巨大热情。然而，如此高昂的估值也引发了市场对其可持续性和未来盈利能力的审慎讨论。这一事件不仅是资本市场的焦点，也反映了AI/太空科技领域投资热度的持续升温。",
       "sources": [
         {
           "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html"
+          "url": "https://www.nytimes.com/2026/06/04/business/dealbook/spacex-ipo-record.html"
         },
         {
           "name": "BBC Business",
@@ -14,13 +14,13 @@
         },
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/elon-musks-1-75-trillion-spacex-valuation-leaves-virtually-zero-room-for-error-85c8f23d?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/what-spacex-is-really-worth-according-to-the-professor-called-the-dean-of-valuation-bab6cdd2?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "微软CEO萨蒂亚·纳德拉阐述AI核心战略，聚焦“智能体平台”",
-      "summary": "微软CEO萨蒂亚·纳德拉在一次深度访谈中，详细阐述了公司在AI时代的战略定位，强调与OpenAI的紧密合作、巨大的资本支出以及未来构建“智能体平台”的愿景。他指出，微软正致力于确保AI能力在软件、数据和基础设施层的核心竞争力。为什么重要：作为全球科技巨头，微软的AI战略直接影响其产品布局、市场竞争力和未来盈利能力，并为整个AI行业的发展方向提供了重要指引，特别是对“智能体”这一未来计算范式的探索。",
+      "title": "微软CEO纳德拉阐释AI核心竞争力及与OpenAI的战略关系",
+      "summary": "微软CEO萨提亚·纳德拉在访谈中深入阐述了微软在AI时代的核心竞争力，强调了与OpenAI的紧密战略合作，以及公司在软件领域通过巨额资本支出（Capex）进行创新的必要性。他预测未来可能出现“Agentic Platform”（代理平台）的战略性转变，即AI能够自主执行复杂任务的平台。这表明微软正致力于通过投资和合作重塑其在AI生态中的领导地位，并为软件和平台行业定义新的发展方向。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
@@ -29,36 +29,40 @@
       ]
     },
     {
-      "title": "美国最高法院裁定SEC可无需证明受害者损失即可追缴非法所得",
-      "summary": "美国最高法院一致裁定，证券交易委员会（SEC）有权追缴金融不法行为者通过非法手段获取的收益，即便SEC无法证明受害者遭受了具体的财务损失。这一裁决维护了SEC作为独立金融监管机构的权力，扩大了其在打击市场欺诈和不当行为方面的执法范围。为什么重要：此举强化了美国金融市场的监管威慑力，有助于提高公司治理和投资者保护水平，对违规操作的公司和个人将构成更大压力。",
+      "title": "美国就业报告预示经济复苏但劳动力增长缓慢",
+      "summary": "最新的美国就业报告指出，在经历2025年的停滞后，美国经济正逐步迈向复苏，但劳动力增长的缓慢可能限制整体经济增速。这一数据对美联储未来的货币政策决策至关重要，可能影响市场对利率路径的预期，进而波及股市和债市。报告揭示了当前经济复苏的复杂性，即需求可能回暖，但劳动力供给和结构性问题仍是长期增长的制约因素。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/04/us/politics/supreme-court-sec-disgorgement.html"
-        }
-      ]
-    },
-    {
-      "title": "特朗普政府以“强迫劳动”为由推行新关税政策，贸易摩擦可能升级",
-      "summary": "特朗普政府正在转向一种新的法律和政治策略，以“强迫劳动”为由征收关税，而非过去通常使用的国家安全理由。此举被一些批评者认为是贸易保护主义的借口，但却提供了更具法律持久性的关税依据。为什么重要：这一政策变化可能预示着美国贸易政策的长期趋势，地缘政治因素在贸易中的权重增加，可能导致与主要贸易伙伴（尤其是中国）的贸易摩擦进一步加剧，影响全球供应链和特定行业的企业利润。",
-      "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-forced-labor.html"
+          "url": "https://www.nytimes.com/live/2026/business/jobs-report-economy/what-to-know-about-the-report"
         },
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss"
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/live/2026/business/jobs-report-economy/what-to-know-about-the-report"
         }
       ]
     },
     {
-      "title": "Lululemon下调年度业绩预期，或预示消费者支出疲软",
-      "summary": "运动休闲服装品牌Lululemon因“不明逆风”下调了全年业绩指引，并发布了疲软的第二季度预测。这一消息导致该公司股价下跌，并引发市场对消费者 discretionary 支出前景的担忧。为什么重要：作为高端消费品牌的代表，Lululemon的业绩预警可能不仅是公司特定问题，更可能是宏观经济中消费者信心和购买力下降的信号，尤其是对非必需品消费领域的影响，值得投资者密切关注。",
+      "title": "中国加强经济防御措施，或影响企业海外扩张",
+      "summary": "随着全球地缘政治紧张加剧，中国正在构建经济“堡垒”，通过调整投资规则等一系列措施强化国家安全和经济自主性。此举旨在减少对外部供应链的依赖，防范潜在风险，但同时也可能使中国企业在海外寻求增长面临更多复杂性和挑战。这一战略转变不仅将重塑中国的对外贸易和投资模式，也预示着全球供应链和资本流动的进一步重构，对国际投资者布局中国市场构成深远影响。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/04/lululemon-lulu-earnings-q1-2026.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/05/business/china-investment-rules.html"
+        }
+      ]
+    },
+    {
+      "title": "华尔街对AI泡沫及市场触顶迹象发出警告",
+      "summary": "花旗银行（Citi）最新分析指出，全球股市的“泡沫化”程度已达到2008年全球金融危机以来的最高水平。尽管看涨者认为AI牛市势不可挡，但TS Lombard分析师提到的“资本循环”等经典市场顶部信号正在显现，例如资金集中涌入少数科技巨头。这提醒投资者需警惕潜在的市场调整风险，特别是当市场情绪过度乐观、估值脱离基本面时，可能面临回调压力。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/bulls-declare-victory-in-ai-debate-but-two-classic-signs-of-a-market-top-are-looming-5e4d0222?mod=mw_rss_topstories"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-stock-market-is-at-its-frothiest-since-the-global-financial-crisis-proclaims-citi-why-dip-buyers-shouldnt-bail-yet-bd66f5a3?mod=mw_rss_topstories"
         }
       ]
     }
@@ -66,8 +70,8 @@
   "people": [
     {
       "name": "Satya Nadella",
-      "title": "微软CEO阐述AI核心竞争力与“智能体平台”愿景",
-      "summary": "观点：在AI时代，微软的重点在于建立围绕其软件、数据和基础设施的AI核心竞争力，并与OpenAI保持深度合作。他特别强调了构建能够理解人类意图并自主完成任务的“智能体平台”是未来的重要方向，这超越了传统应用，预示着一个全新的计算范式。",
+      "title": "微软CEO阐释AI核心竞争力及Agentic Platform愿景",
+      "summary": "观点：微软CEO萨提亚·纳德拉强调，在AI时代，微软的核心竞争力在于构建下一代平台，并通过与OpenAI的紧密合作和巨大的资本支出（Capex）来推动软件创新。他指出，AI的发展将促使出现“Agentic Platform”，即智能代理能够自主完成复杂任务的平台，这将重塑未来的软件和服务模式。这表明微软正积极定义其在AI时代的战略定位和技术方向。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
@@ -76,35 +80,39 @@
       ]
     },
     {
-      "name": "Ben Thompson",
-      "title": "评论英伟达AI PC和微软AI战略的差异",
-      "summary": "观点：Ben Thompson认为，英伟达的AI PC策略更像是“另一个AI时代的遗物”，而微软在Build大会上展示的设备愿景更具吸引力。他强调了微软在AI整合到操作系统和应用层面的前瞻性，认为其“智能体平台”思路更能代表AI的未来方向，而不仅仅是硬件能力的堆砌。",
+      "name": "Tyler Cowen",
+      "title": "经济学家探讨AI对经济及专业领域的影响",
+      "summary": "观点：经济学家泰勒·科文近期就AI的经济学原理与OpenAI进行了深入交流，并多次指出AI技术对社会和专业领域的深远影响。例如，他引用研究表明法律教授在某些情况下更倾向于AI生成的答案而非学生的提交。这表明AI不仅是生产力工具的革新，更是深刻的经济和社会结构调整力量，正渗透并改变专业判断和知识获取的核心方式。",
       "sources": [
         {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai/"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/tyler-and-alex-speak-to-openai.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-and-alex-speak-to-openai"
+        },
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/law-professors-prefer-ai-over-peer-answers.html?utm_source=rss&utm_medium=rss&utm_campaign=law-professors-prefer-ai-over-peer-answers"
         }
       ]
     },
     {
-      "name": "Tyler Cowen",
-      "title": "就AI对社会和经济的影响发表见解",
-      "summary": "观点：经济学家Tyler Cowen在一场关于AI的演讲中指出，AI正快速改变我们学习、工作和决策的方式。他同时通过援引对法律教授进行盲测的实验，强调了AI在某些复杂判断领域（如法律）的表现已经优于人类同行，这预示着AI对专业领域可能带来颠覆性影响。",
+      "name": "Aswath Damodaran",
+      "title": "估值教父重新评估SpaceX，给出IPO前新估值",
+      "summary": "观点：纽约大学金融学教授阿斯沃斯·达摩达兰（被誉为“估值教父”）在审阅SpaceX的招股书后，对其估值进行了更新。他指出，尽管招股书提供了更多详细财务信息，有助于更准确地评估公司长期增长潜力，但其个人对SpaceX的估值可能低于此前预估的1.2万亿美元，但仍远超许多年轻成长型公司的市场看法。这为SpaceX即将进行的IPO提供了一个基于基本面的专业参考。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/my-twenty-minute-ai-talk-for-the-swedish-company-sana.html"
+          "name": "Aswath Damodaran",
+          "url": "https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html"
         },
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/law-professors-prefer-ai-over-peer-answers.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/what-spacex-is-really-worth-according-to-the-professor-called-the-dean-of-valuation-bab6cdd2?mod=mw_rss_topstories"
         }
       ]
     },
     {
       "name": "Ben Carlson",
-      "title": "探讨AI泡沫的必然性",
-      "summary": "观点：Ben Carlson在其文章中探讨了“AI泡沫”的必然性，提出即使AI并非泡沫，但围绕它的投资狂热也可能导致资产价格脱离基本面。他认为，任何颠覆性技术浪潮在初期都伴随着巨大的投机和市场过度反应，投资者应警惕潜在的风险，而非盲目追逐。",
+      "title": "投资专家探讨AI泡沫的必然性",
+      "summary": "观点：来自A Wealth of Common Sense的投资专家本·卡尔森提出了“AI泡沫不可避免”的观点。他认为，即使AI是一项具有颠覆性的技术，但市场在面对新兴技术浪潮时，往往容易出现估值过度膨胀的泡沫现象。这提醒投资者需要区分技术本身的巨大潜力与市场情绪可能导致的非理性估值，警惕潜在的投资风险。",
       "sources": [
         {
           "name": "A Wealth of Common Sense (Ben Carlson)",
@@ -113,25 +121,35 @@
       ]
     },
     {
-      "name": "Gwynne Shotwell",
-      "title": "SpaceX总裁兼COO被视为公司IPO前的“稳健之手”",
-      "summary": "观点：作为SpaceX的总裁兼首席运营官，Gwynne Shotwell被媒体形容为公司在准备创纪录IPO过程中的“稳健之手”。她在公司日常运营和财务管理中的作用至关重要，被认为是制衡CEO埃隆·马斯克大胆风格的关键人物，确保公司在快速扩张中保持稳定性和执行力。",
+      "name": "Jack Clark",
+      "title": "Anthropic联合创始人呼吁阻止AI无人类参与发展",
+      "summary": "原话：「我们需要阻止AI在没有人类参与的情况下发展。」Anthropic联合创始人杰克·克拉克在接受采访时表达了对AI发展的深切担忧。他认为AI有可能发展到完全无需人类干预的地步，这将引发重大的伦理和控制问题。这一观点强调了AI发展中人类监督的至关重要性，呼吁对AI自主发展采取高度谨慎的态度，以防范潜在的失控风险及其带来的社会冲击。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/04/technology/gwynne-shotwell-spacex.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/04/technology/gwynne-shotwell-spacex.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "全球百万富翁数量去年激增200万，股市上涨是主因",
-      "summary": "据Capgemini世界财富报告显示，2025年全球百万富翁人数增长了7.9%，达到2530万人，其中股市的飙升是财富增长的主要驱动力。全球富裕人群的财富总额也显著增长。为什么重要：这一数据反映了全球资产市场，特别是股市，在过去一年中的强劲表现，并揭示了财富创造和分配的趋势，对消费、投资模式及宏观经济政策均有影响。",
+      "title": "美国劳动力市场长期挑战：应届毕业生就业前景严峻",
+      "summary": "最新报告指出，应届毕业生在进入就业市场时面临的困境，可能对其职业生涯的薪资水平和未来机会造成持久的“疤痕效应”。尽管整体经济数据显现复苏迹象，但特定群体（如新毕业生）面临的结构性就业问题仍值得关注。这不仅是个体层面的挑战，长期的劳动力市场结构性问题可能影响国家整体的创新能力和消费潜力，值得宏观经济政策制定者和投资者长期关注。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/video/business/100000010938226/the-lasting-cost-of-graduating-into-a-tough-job-market.html"
+        },
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/05/business/college-graduates-job-market.html"
+        }
+      ]
+    },
+    {
+      "title": "全球百万富翁数量去年激增200万，股市强劲表现是主因",
+      "summary": "根据凯捷（Capgemini）发布的《世界财富报告》，2025年全球百万富翁人口数量激增7.9%至2530万，这主要得益于全球股市的强劲表现。这一趋势反映了资产升值带来的财富效应，以及高净值人群在投资组合中对股票等风险资产的偏好。财富创造和分配的变化不仅影响消费模式和投资策略，也对全球经济增长和政策制定方向产生深远影响。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -140,119 +158,8 @@
       ]
     },
     {
-      "title": "美国与卡塔尔主导全球天然气市场，凸显能源供应脆弱性",
-      "summary": "在俄乌战争之前，全球液化天然气（LNG）市场日益由美国和卡塔尔这两个国家主导。然而，其中一个主要供应国受到干扰，使得全球能源市场面临危险的供应集中风险。为什么重要：这种集中度使得全球在能源供应方面面临更大的不确定性，任何单一国家的政策变动或地缘政治事件都可能对全球能源价格和供应稳定造成重大冲击，影响各国经济安全和通胀水平。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/04/business/gas-supply-usa-qatar.html"
-        }
-      ]
-    },
-    {
-      "title": "特朗普政府正寻求新的理由来维持旧有对华关税",
-      "summary": "美国特朗普政府正在采取新的策略，试图为现有的对华关税政策寻找更具法律和政治持久性的理由，特别是在最高法院此前驳回其部分关税措施后。这一转变表明美国政府决心继续保持对华贸易压力，即使面临法律挑战。为什么重要：这可能预示着中美贸易关系将持续紧张，并可能通过“强迫劳动”等新叙事，扩大关税的适用范围和持久性，对全球贸易格局和供应链产生深远影响。",
-      "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-forced-labor.html"
-        }
-      ]
-    }
-  ],
-  "tech": [
-    {
-      "title": "微软展示AI设备愿景，超越英伟达AI PC概念",
-      "summary": "微软在近期活动中展示了其对AI设备的愿景，其“智能体（agentic）平台”概念被认为比英伟达的AI PC更具吸引力和前瞻性。微软的战略侧重于将AI深度整合到操作系统和用户体验中，实现更智能、更主动的交互。为什么重要：这表明了两大科技巨头在AI硬件和软件集成上的不同路径，微软的策略可能定义未来个人计算的形态，对整个科技生态系统产生深远影响。",
-      "sources": [
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai/"
-        }
-      ]
-    },
-    {
-      "title": "AI在小企业中扮演“员工大军”，效率提升伴随潜在风险",
-      "summary": "越来越多的美国小企业主开始利用AI智能体（AI agents）来处理财务、邮件和客户服务等任务，将它们视为“AI员工大军”。这些AI能够自动化复杂流程，显著提高效率，但也带来了数据安全、决策失误和责任归属等潜在风险。为什么重要：这揭示了AI技术在实际商业应用中的快速普及和演变，尤其是在中小企业层面，它正改变传统商业运营模式，但也提出了对AI治理和风险管理的新挑战。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html"
-        }
-      ]
-    },
-    {
-      "title": "美国政府对AI监管态度转变，转向加强审查",
-      "summary": "即使是通常偏向产业友好的美国特朗普政府，也开始意识到需要加强对强大新型人工智能模型的监督。这种政策转向表明，AI技术带来的伦理、安全和经济影响已引起广泛关注，促使政府采取更积极的监管立场。为什么重要：政府对AI监管的加强，可能影响AI研发的速度、资金流向以及技术部署方式，给相关科技公司带来新的合规挑战和市场不确定性。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/03/business/dealbook/trump-ai-pivot.html"
-        }
-      ]
-    },
-    {
-      "title": "法学教授倾向于AI答案而非同行答案，凸显AI对专业领域的影响",
-      "summary": "一项研究发现，法学教授在盲测中更偏好大型语言模型（LLM）生成的答案，而不是人类学生的答案。这表明AI在法律推理、模糊性权衡和得出合理解论等复杂判断领域，已经展现出与人类专家相当甚至更优的能力。为什么重要：这一发现不仅对教育领域，特别是法律教育，具有重大意义，更预示着AI可能在未来深度重塑法律、医疗等高度依赖专业判断的知识密集型行业，影响就业结构和专业服务模式。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/law-professors-prefer-ai-over-peer-answers.html"
-        }
-      ]
-    }
-  ],
-  "us_stocks": [
-    {
-      "title": "SpaceX IPO计划细节曝光：高达1.75万亿美元估值",
-      "summary": "特斯拉首席执行官埃隆·马斯克旗下的太空探索技术公司SpaceX正准备进行一场潜在的、规模空前的首次公开募股（IPO），其目标估值高达1.75万亿美元。公司已为其股票代码“SPCX”付费，并预计下周开始交易。为什么重要：SpaceX的巨额估值和IPO计划不仅是科技界的焦点，也是资本市场的一大事件，可能吸引全球大量资金，并对航天、卫星通信等领域带来深远影响。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/04/business/dealbook/spacex-ipo-record.html"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/elon-musks-spacex-paid-to-secure-its-ticker-symbol-ahead-of-blockbuster-ipo-61a57e6b?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "Lululemon下调年度和二季度业绩预期，股价承压",
-      "summary": "知名运动服装品牌Lululemon发布了令人失望的业绩指引，下调了对当前财年及第二季度的盈利和营收预期，并将其归咎于“未披露的逆风”。这一消息导致公司股价在盘后交易中大跌。为什么重要：Lululemon的业绩预警不仅对其自身股价构成压力，更可能作为消费零售行业的风向标，引发市场对宏观经济前景及消费者支出的广泛担忧，尤其是在非必需消费品领域。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/04/lululemon-lulu-earnings-q1-2026.html"
-        }
-      ]
-    },
-    {
-      "title": "霍尼韦尔航空航天部门分拆后，CEO预测强劲增长",
-      "summary": "霍尼韦尔（Honeywell）的航空航天部门在准备独立上市之际，其CEO预测到2030年，该部门的年收益将至少达到65亿美元，全年自由现金流至少达到40亿美元。这一积极展望旨在吸引投资者对其未来增长潜力的信心。为什么重要：作为工业巨头的拆分，霍尼韦尔航空航天部门的独立运作及其增长目标，为投资者提供了航空航天和国防领域的新投资机遇，也反映了公司通过聚焦核心业务以释放价值的战略。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/03/honeywell-aerospace-ceo-earnings-growth.html"
-        }
-      ]
-    }
-  ],
-  "a_stocks": [],
-  "business": [
-    {
-      "title": "实验室培育钻石市场冲击天然钻石行业",
-      "summary": "随着实验室培育钻石的日益普及和成本优势，传统天然钻石开采商面临巨大压力。消费者对价格更亲民、更环保的实验室钻石需求增加，正在改变全球钻石市场的供需结构和定价模式。为什么重要：这一趋势不仅影响钻石开采和销售公司，也对奢侈品市场和消费者行为产生结构性影响，迫使行业参与者重新评估其商业模式和市场定位。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/czx2jqvwp7go?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "美国房地产市场卖家撤回房源速度创2020年以来新高",
-      "summary": "由于买家需求减弱和竞价战减少，沮丧的卖家正以自2020年以来最快的速度将房屋撤出市场。这种现象表明美国房地产市场正经历显著降温，买卖双方预期出现分歧。为什么重要：卖家撤房潮可能导致房产供应紧张，但同时价格上涨动力不足，预示着房地产市场可能进入一个更具挑战性的阶段，影响房地产投资和抵押贷款市场。",
+      "title": "美国房产市场卖家撤回房源速度创2020年来最快",
+      "summary": "由于购房需求减弱和竞价战减少，美国房产市场的卖家正以2020年以来最快的速度撤回待售房源。这一现象表明在高利率和市场不确定性的背景下，住房市场正在经历买卖双方的重新平衡。房屋市场的活跃度是宏观经济的重要组成部分，其变化趋势通常预示着消费者信心、利率敏感性以及未来整体经济活动的可能走向，值得投资者密切关注。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -261,54 +168,156 @@
       ]
     },
     {
-      "title": "机构投资者“大规模”回归零售地产，交易量显著增长",
-      "summary": "根据JLL的报告，第一季度零售地产的投资交易量达到超过150亿美元，比2025年第一季度增长了5%。这一趋势表明，机构投资者正在“大规模”地重新将资本投入零售地产领域。为什么重要：机构资本的回归可能预示着零售地产市场正在触底反弹或进入新的增长周期，尤其是在疫情后的结构性调整后，投资者对实体零售业的信心正在恢复，这为相关资产类别提供了新的投资机会。",
+      "title": "特朗普税收方案被指含“双重征税”陷阱，影响高收入人群",
+      "summary": "国会税收政策工作人员的一份新指南指出，特朗普政府提出的税收法案可能对某些信托收入造成双重征税。此潜在缺陷对高净值投资者和财富管理策略构成直接影响，可能导致其财富规划和投资回报面临新的不确定性。税收政策的重大调整往往会引发资产重配置和投资策略的调整，因此这一潜在问题引起了专业人士的广泛关注。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/04/trump-tax-bill-double-taxation-trusts.html"
+        }
+      ]
+    }
+  ],
+  "tech": [
+    {
+      "title": "联邦政府制定AI监管新框架，未来发展受关注",
+      "summary": "美国联邦政府正就AI监管出台新的框架，旨在平衡技术创新与风险控制，保护数据安全和消费者权益。这一举措预示着AI技术未来的发展和应用将受到更严格的审查和规范。监管政策的清晰化将直接影响AI企业的研发投入、产品上市速度和市场准入门槛，是科技巨头和初创公司都需要密切关注的关键变量，以适应不断变化的合规环境。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/thursday-assorted-links-555.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-555"
+        }
+      ]
+    },
+    {
+      "title": "AI教育应用前景广阔：法律教授青睐AI答案胜过学生",
+      "summary": "一项研究显示，在美国的合同法课程中，十六位法律教授在评估简答题时，更倾向于AI生成的答案而非学生提交的答案。这一发现凸显了大型语言模型（LLMs）在教育和专业知识领域应用的巨大潜力，预示着AI不仅是生产力工具，更可能颠覆传统的教育模式和专业技能的衡量标准，对人才培养和未来劳动力市场产生深远影响。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/law-professors-prefer-ai-over-peer-answers.html?utm_source=rss&utm_medium=rss&utm_campaign=law-professors-prefer-ai-over-peer-answers"
+        }
+      ]
+    },
+    {
+      "title": "投资者探寻AI投资“下一波浪潮”的新机遇",
+      "summary": "高盛资产管理（Goldman Sachs Asset Management）的首席投资策略师蒂姆·乌尔班诺维奇（Tim Urbanowicz）指出，投资者目前正在积极寻找AI领域的“下一波浪潮”。这表明市场对AI的关注正从最初的基础设施层（如芯片和云计算）转向更广泛的应用和赋能领域，催生出新的投资热点和增长机会。对于高净值投资者而言，理解这一趋势变化对于识别AI技术渗透到各行各业的新兴投资机会至关重要。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/06/05/where-investors-may-find-the-next-big-wave-for-ai-trade.html"
+        }
+      ]
+    }
+  ],
+  "us_stocks": [
+    {
+      "title": "Lululemon下调全年业绩展望，因产品不及预期及负面评论",
+      "summary": "知名运动服饰品牌Lululemon因市场对其产品发布反应平平以及负面媒体评论，大幅下调了全年的业绩展望。这一消息导致其股价在盘前交易中走低。这揭示了消费品公司在品牌声誉、产品创新和市场营销方面面临的固有风险，即使是增长型品牌也可能因消费者情绪变化和竞争加剧而受到影响，从而对其股价表现和行业信心产生冲击。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/04/lululemon-lulu-earnings-q1-2026.html"
+        }
+      ]
+    },
+    {
+      "title": "沃尔玛股价遇冷，科技驱动估值面临现实检验",
+      "summary": "曾是市场宠儿的零售巨头沃尔玛（Walmart）今年股价表现不及同行和标普500指数，分析师指出，尽管公司积极发展电商和科技，但其业务仍主要由低利润率的杂货销售主导，因此其科技驱动的估值面临现实考验。这反映出市场对传统零售巨头向科技转型过程中所面临挑战的重新审视，以及对估值合理性的严格要求，对投资此类转型公司具有参考意义。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/walmarts-stock-was-once-a-market-darling-now-its-tech-fueled-valuation-faces-a-reality-check-6bccfbcd?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "霍尼韦尔航空航天部门分拆在即，CEO预言强劲增长",
+      "summary": "霍尼韦尔（Honeywell）的航空航天部门即将独立上市，其CEO预测，到2030年，该部门的年收益将至少达到65亿美元，全年自由现金流至少40亿美元。这一展望强调了公司对航空航天领域的长期信心。投资者应关注企业分拆带来的价值释放潜力，以及航空航天等特定高科技工业领域在AI和技术进步驱动下的长期增长前景。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/03/honeywell-aerospace-ceo-earnings-growth.html"
+        }
+      ]
+    },
+    {
+      "title": "数据中心电力生成商IPO表现出色，凸显AI时代基础设施投资价值",
+      "summary": "为数据中心提供电力解决方案的Innio公司，在IPO首秀中股价飙升，其表现甚至超越了备受关注的量子计算公司Quantinuum。这凸显了在AI浪潮下，支撑性基础设施（如电力供应、冷却系统等）的投资价值正在日益凸显。随着AI技术对计算能力需求的指数级增长，相关能源和基础设施领域有望成为新的投资细分市场，为投资者提供稳定的增长机会。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-ipo-of-this-power-generator-for-data-centers-quietly-outshines-quantinuum-d5d3124c?mod=mw_rss_topstories"
+        }
+      ]
+    }
+  ],
+  "a_stocks": [
+    {
+      "title": "中国收紧境外投资规则，构筑经济“安全堡垒”",
+      "summary": "中国政府出于国家安全考量，正对境外投资规则进行调整，旨在减少对外部供应链的依赖并防范金融风险。这一策略反映了中国在全球地缘政治背景下的战略转向，可能导致中国企业在寻求海外市场扩张时面临更高壁垒和复杂性。此举不仅影响跨国资本流动和国际合作，也对在华经营的外国企业和关注中国市场的投资者带来挑战，需重新评估其在华投资策略。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/05/business/china-investment-rules.html"
+        }
+      ]
+    }
+  ],
+  "business": [
+    {
+      "title": "西半球石油产量超越中东，全球能源格局重塑",
+      "summary": "最新数据显示，西半球目前的石油产量已超过中东地区危机前的水平，预示着全球能源供应格局正在发生显著变化。加拿大是全球第四大石油生产国，而巴西和圭亚那的石油产量也显著增长。这一趋势不仅影响全球原油价格走势，更可能改变国际地缘政治关系和能源投资的长期战略，值得关注能源市场和国际关系变化的投资者深入分析。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/western-hemisphere-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=western-hemisphere-fact-of-the-day"
+        }
+      ]
+    },
+    {
+      "title": "特朗普政府利用战时权力投资7亿美元于煤炭产业",
+      "summary": "美国总统特朗普宣布将动用战时权力，向煤炭产业投入7亿美元，以应对因伊朗战争导致的能源成本飙升。此举显示了政府对传统能源的强力支持，可能对美国国内的能源结构调整和可再生能源转型造成影响。这一政策不仅是能源地缘政治和国内政治因素交织的典型案例，也将直接影响传统能源和新能源行业的投资前景，值得投资者关注其长期影响。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/cy0209r62k5o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "机构投资者正“大规模”重返零售地产领域",
+      "summary": "据JLL（仲量联行）数据，第一季度零售地产投资交易额达到150亿美元，同比增长5%，显示机构投资者正以“非常大的方式”回归零售地产领域。这一趋势可能预示着对线下零售业未来增长前景信心的恢复，也反映了在经济复苏和消费模式演变背景下，机构对零售资产价值的重新评估。对于关注房地产市场和消费趋势的投资者，这可能意味着新的投资机会和组合配置方向。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/06/04/institutional-investors-retail-jll.html"
         }
       ]
-    },
-    {
-      "title": "高昂燃油成本推动印度电动汽车市场增长，但挑战仍在",
-      "summary": "在高昂燃油价格的推动下，印度作为全球第三大汽车市场，电动汽车的采用率正在提升。尽管电动车销量有所增长，但充电基础设施不足、初期购车成本高昂以及续航里程焦虑等挑战依然存在。为什么重要：印度电动汽车市场的发展趋势不仅影响全球汽车产业格局，也为电池技术、充电解决方案和相关基础设施建设领域带来巨大投资潜力，同时反映了新兴市场在能源转型中的机遇与挑战。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cx21181yq4no?at_medium=RSS&at_campaign=rss"
-        }
-      ]
     }
   ],
   "overlooked": [
     {
-      "title": "美国农场对H-2A签证项目依赖加剧，劳工剥削问题突出",
-      "summary": "美国农场对H-2A农业客工签证项目的依赖程度前所未有地加深，特朗普政府在此项目下批准了更多工人入境。然而，防止劳工滥用和剥削的难度也随之增加。为什么重要：这不仅反映了美国农业劳动力市场的结构性问题和对移民工人的高度依赖，也提出了对劳工权益、供应链道德以及相关政策法规的挑战。对于农业投资者和关注ESG（环境、社会和治理）的投资者来说，这是一个值得关注的社会责任风险。",
+      "title": "长期就业市场低迷对毕业生薪资和机会的持久影响",
+      "summary": "研究表明，在经济低迷期毕业进入职场的个人，其未来的薪资水平和职业发展机会会受到难以磨灭的“疤痕效应”影响，其全面影响需数年才能显现，且AI的角色仍是未知数。这不仅是个体层面的问题，长期的劳动力市场结构性挑战可能影响国家整体的创新能力和消费潜力，对社会经济发展具有深远且容易被短期数据掩盖的影响，值得长期关注。",
       "sources": [
         {
           "name": "NYT Business",
+          "url": "https://www.nytimes.com/video/business/100000010938226/the-lasting-cost-of-graduating-into-a-tough-job-market.html"
+        },
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/05/business/college-graduates-job-market.html"
+        }
+      ]
+    },
+    {
+      "title": "美国农场日益依赖H-2A客工签证项目，劳工问题凸显",
+      "summary": "特朗普政府持续扩大H-2A农业客工签证项目，以满足美国农场日益增长的劳动力需求，然而随之而来的劳工剥削问题也日益突出。这一现象不仅揭示了美国农业劳动力结构的深层矛盾和对移民劳工的依赖，也反映了移民政策在经济效益与社会公平之间面临的复杂权衡。农业作为基础产业，其劳动力成本和结构问题直接影响食品价格和供应链稳定，具有重要的宏观经济和投资影响。",
+      "sources": [
+        {
+          "name": "NYT Economy",
           "url": "https://www.nytimes.com/2026/06/04/business/economy/farms-h2a-visas-migrant-workers.html"
-        }
-      ]
-    },
-    {
-      "title": "AI预算浪费与人类员工成本优势：企业在AI落地中面临的挑战",
-      "summary": "有报道指出，包括优步、微软和英伟达在内的一些公司在AI项目上的预算被浪费，甚至出现因人工成本更低而重新雇用人类员工的现象。这表明在AI实际部署和替代人工方面，企业面临着比预期更复杂的挑战和高昂成本。为什么重要：这揭示了AI技术从概念到实际落地之间的鸿沟，以及企业在追求自动化时可能面临的“AI幻灭”阶段。投资者需要更务实地评估AI公司的盈利能力和实际应用效益，而非仅凭技术热潮盲目投资。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/the-job-market-is-actually-getting-a-boost-from-ai-turns-out-human-workers-are-cheaper-35b03640?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "比特币价格疲软，但仍不容小觑其长期韧性",
-      "summary": "尽管近期比特币价格表现疲软，跌至数月来的最低水平，让加密货币的空头们暂时得势，但市场观察者提醒，现在断定比特币的“死期”仍为时过早。加密货币市场波动性大，但其底层技术和长期价值主张仍吸引着坚定支持者。为什么重要：这提示投资者在关注短期价格波动的同时，不应忽视加密货币作为新兴资产类别的长期潜力及其在数字经济中的结构性地位，尤其是在宏观经济不确定性增加的背景下。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/bitcoins-sagging-price-has-crypto-bears-taking-a-victory-lap-why-its-too-soon-to-count-it-out-edf1d8d8?mod=mw_rss_topstories"
         }
       ]
     }
