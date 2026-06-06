@@ -1,8 +1,8 @@
 {
   "top5": [
     {
-      "title": "美国就业报告强劲，股市承压，美联储降息预期进一步削弱",
-      "summary": "美国劳工部公布的最新数据显示，5月份新增就业人数超出预期，市场普遍担忧经济过热将促使美联储在更长时间内维持高利率，甚至可能考虑加息。受此影响，美股主要指数周五大幅下跌，结束了此前长达数周的涨势。这一数据巩固了美联储在抑制通胀方面而非刺激经济增长方面的政策重心，对市场利率和投资者情绪产生显著影响。",
+      "title": "美国就业数据强劲推高利率预期，美股承压下挫",
+      "summary": "美国最新就业报告显示5月份新增就业17.2万，连续第三个月超出预期，表明劳动力市场依然强劲。这一数据强化了美联储对通胀的担忧，并使其短期内降息的可能性进一步降低。受此影响，标准普尔500指数录得今年最大单日跌幅，纳斯达克指数创下历史最大点数跌幅，结束了长达九周的上涨趋势。市场普遍认为，在就业市场稳定且通胀压力重现的情况下，美联储的政策重心已转向控制通胀，而非刺激经济增长。",
       "sources": [
         {
           "name": "NYT Business",
@@ -10,43 +10,29 @@
         },
         {
           "name": "NYT Economy",
-          "url": "https://www.nytimes.com/live/2026/business/jobs-report-economy/stable-jobs-market-affirms-feds-reluctance-to-lower-interest-rates"
+          "url": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html"
         },
         {
           "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html"
-        }
-      ]
-    },
-    {
-      "title": "美股市场大幅回调，科技股领跌，纳斯达克创纪录跌幅",
-      "summary": "受到强劲就业数据引发的利率上升预期影响，美国股市周五遭遇今年以来最大的单日跌幅，标普500指数市值蒸发超1.8万亿美元，纳斯达克综合指数更是创下历史最大点数跌幅。科技巨头和半导体板块成为重灾区，投资者开始重新评估高估值成长股的风险，并担忧市场对人工智能的狂热情绪是否已出现泡沫迹象。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/05/business/stock-market-jobs-report.html"
         },
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/s-p-500-sees-1-8-trillion-wipeout-nasdaq-tallies-biggest-point-drop-on-record-heres-what-investors-need-to-know-about-fridays-selloff-4eb7b490?mod=mw_rss_topstories"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "SpaceX IPO定调史上最大，但S&P 500指数暂拒其快速纳入",
-      "summary": "埃隆·马斯克的SpaceX公司即将以每股135美元的价格进行首次公开募股，预计将成为有史以来规模最大的IPO，甚至超过沙特阿美。然而，标普500指数委员会近期明确表示，不会为SpaceX、OpenAI和Anthropic等新兴科技巨头豁免盈利要求，拒绝其快速纳入指数。这一决定将影响这些公司早期被指数基金持有的潜力及其在更广泛市场中的流通性，也反映出指数提供商在快速发展的新兴科技公司面前的审慎态度。",
+      "title": "SpaceX巨额IPO创纪录，但S&P 500指数因盈利规则拒绝其快速纳入",
+      "summary": "埃隆·马斯克的火箭公司SpaceX以每股135美元的价格完成史上最大规模IPO，估值和募资额均超越沙特阿美。然而，标准普尔500指数明确表示拒绝快速纳入SpaceX以及其他不盈利的AI公司（如OpenAI和Anthropic），强调其对盈利能力的基本要求。这一决定凸显了传统指数编制规则与高增长科技公司（特别是AI领域）早期不盈利但潜力巨大之间的冲突，对追求通过指数配置投资新兴科技的资金带来挑战。",
       "sources": [
         {
           "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html"
+          "url": "https://www.nytimes.com/2026/06/05/technology/spacex-indexes-401k.html"
         },
         {
           "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/05/technology/spacex-indexes-401k.html"
+          "url": "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html"
         },
         {
           "name": "Hacker News Top",
@@ -55,8 +41,8 @@
       ]
     },
     {
-      "title": "AI巨头Anthropic呼吁对AI发展施加“刹车机制”",
-      "summary": "领先的AI公司Anthropic的联合创始人杰克·克拉克呼吁建立一种“刹车机制”，以防止人工智能在没有人为干预的情况下失控发展，从而保护人类。这一提案凸显了AI行业内部对未来超级智能安全性和治理的深刻担忧，可能引发政策制定者对AI监管采取更积极的措施，对整个AI生态系统产生深远影响，尤其是在大型语言模型能力日益增强的背景下。",
+      "title": "AI巨头Anthropic呼吁建立AI“制动踏板”，警示自主发展模型风险",
+      "summary": "领先的AI公司Anthropic联合创始人杰克·克拉克在BBC采访中表示，需要为自我改进型AI模型设置“制动踏板”，以防止其在无人干预下过度发展，从而保护人类。他指出，随着AI技术加速迭代，其可能脱离人类控制的风险日益增加。这一呼吁反映了行业内部对AI发展伦理和安全的深层忧虑，可能引发更严格的监管讨论，并影响未来AI研发的战略方向和投资优先级。",
       "sources": [
         {
           "name": "NYT DealBook",
@@ -69,77 +55,84 @@
       ]
     },
     {
-      "title": "全球AI投资热潮持续，但科技巨头面临巨大资金压力",
-      "summary": "人工智能领域的投资热潮已席卷全球，推动亚洲多个国家如韩国、中国、台湾和日本股市大幅上涨。然而，为了支持预估达8200亿美元的AI基础设施建设，谷歌和Meta等科技巨头可能需要通过发行股票来筹集资金。与此同时，S&P 500指数对非盈利AI公司的快速纳入设限，也反映了市场在追逐AI机遇的同时，对企业盈利模式和可持续性的审慎考量，可能导致未来AI投资格局出现变化。",
+      "title": "全球AI投资热潮蔓延，亚洲股市大涨，美国科技巨头考虑发股筹资",
+      "summary": "AI技术热潮正席卷全球资本市场，不仅带动美国科技股上涨，韩国、中国、中国台湾和日本等亚洲市场的相关股票也表现强劲。与此同时，为满足庞大的AI基础设施建设需求（估计高达8200亿美元），包括谷歌和Meta在内的美国大型科技公司正考虑通过发行股票来筹集资金，以补充债券市场已提供的巨额融资。这表明AI投资已成为全球性主题，并正改变大型科技公司的融资策略。",
       "sources": [
         {
-          "name": "A Wealth of Common Sense",
+          "name": "A Wealth of Common Sense (Ben Carlson)",
           "url": "https://awealthofcommonsense.com/2026/06/the-ai-trade-is-global/"
         },
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/first-google-then-meta-big-tech-may-increasingly-sell-stock-to-bankroll-820-billion-ai-boom-83c69030?mod=mw_rss_topstories"
-        },
+        }
+      ]
+    },
+    {
+      "title": "西半球石油产量超越中东，全球能源格局加速重塑",
+      "summary": "当前西半球的石油产量已超过中东地区在危机前的水平，标志着全球能源地缘政治格局的重大转变。加拿大已成为世界第四大产油国，巴西的石油产量是委内瑞拉的四倍，而圭亚那仅在七年前才开始产油，其产量已接近委内瑞拉。阿根廷的Vaca Muerta页岩油产区也呈现显著增长。这一趋势降低了全球对中东石油的依赖，对国际能源市场和相关投资产生深远影响。",
+      "sources": [
         {
-          "name": "Hacker News Top",
-          "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/western-hemisphere-fact-of-the-day.html"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Aswath Damodaran",
-      "title": "重新评估SpaceX估值并讨论其IPO影响",
-      "summary": "观点：知名的估值教授Aswath Damodaran在SpaceX发布招股说明书后，对其估值进行了更新，并探讨了财务信息对年轻高增长公司估值的影响。他指出，相对于成熟企业，对具有巨大增长潜力的年轻公司进行估值时，公开可用的财务数据更具决定性，这为投资者提供了重要参考。",
+      "name": "Elon Musk",
+      "title": "SpaceX IPO创纪录，市场关注其公司盈利能力与指数纳入标准",
+      "summary": "观点：埃隆·马斯克旗下的SpaceX完成史上最大规模IPO，标志着其商业模式和市场潜力获得巨大认可。然而，S&P 500指数因其尚未盈利的状况，拒绝了SpaceX的快速纳入。这反映出市场对高估值、但处于早期盈利阶段的创新型公司（包括AI领域）的态度日益谨慎，以及现有指数规则对新经济体的适应性挑战。",
       "sources": [
         {
-          "name": "Aswath Damodaran",
-          "url": "https://aswathdamodaran.blogspot.com/2026/06/a-weeks-ago-i-assessed-value-of-spacex.html"
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/06/05/technology/spacex-indexes-401k.html"
+        },
+        {
+          "name": "Hacker News Top",
+          "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/"
+        },
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/05/business/highest-paid-ceos-elon-musk.html"
         }
       ]
     },
     {
       "name": "Jack Clark",
-      "title": "呼吁阻止AI在无人干预下发展",
-      "summary": "原话：「我们必须阻止AI在没有人为干预的情况下继续发展。」Anthropic联合创始人Jack Clark强调，AI可能会发展到无需人类输入就能自我演进的程度，因此社会需要建立相应的制约机制来确保AI的安全性，避免潜在的失控风险，这体现了业界对AI伦理和治理的深切关注。",
+      "title": "Anthropic联合创始人呼吁对AI发展施加“制动”，以防范风险",
+      "summary": "原话：「AI可能达到在无人干预下自我发展的地步。」Anthropic联合创始人杰克·克拉克警告称，为保护人类，亟需为自我改进型AI模型设置“制动踏板”。这一观点强调了AI技术快速进步可能带来的潜在失控风险，呼吁业界和政策制定者重视AI安全与伦理，这对于AI领域的技术路线选择和监管框架建设具有重要指导意义。",
       "sources": [
         {
           "name": "BBC Business",
           "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/06/05/business/dealbook/anthropic-ai-nonproliferation.html"
         }
       ]
     },
     {
       "name": "Tyler Cowen",
-      "title": "与OpenAI就AI经济学进行对话",
-      "summary": "观点：经济学家Tyler Cowen与OpenAI团队就人工智能的经济影响进行了深入探讨。他与Alex Tabarrok的此次交流，凸显了顶级学者与领先AI研发机构之间在理解AI对经济结构、劳动力市场和社会生产力潜在影响方面的紧迫性与重要性，为AI的未来发展提供经济学视角。",
+      "title": "与OpenAI探讨AI经济学，并关注全球能源格局变化",
+      "summary": "观点：著名经济学家泰勒·考恩与亚历克斯·塔博罗克受邀与OpenAI就AI的经济影响进行交流，表明顶尖经济思想正深入AI发展前沿。同时，考恩还强调了西半球石油产量已超越中东的历史性转变，认为这是全球能源市场重塑的关键因素。他的洞察力提醒投资者关注AI技术长期经济影响及能源领域的结构性变迁。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/tyler-and-alex-speak-to-openai.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-and-alex-speak-to-openai"
-        }
-      ]
-    },
-    {
-      "name": "Elon Musk",
-      "title": "登上CEO薪酬榜首，SpaceX IPO受市场关注",
-      "summary": "观点：埃隆·马斯克再次蝉联最高薪酬CEO榜单，凸显了科技行业高管薪酬与普通员工薪资差距的持续扩大。同时，他旗下的SpaceX公司正准备进行史上最大规模的IPO，这不仅将极大影响其市值和市场格局，也反映了其在航天和科技领域的领导地位以及资本市场的巨大期待。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/05/business/highest-paid-ceos-elon-musk.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/tyler-and-alex-speak-to-openai.html"
         },
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/western-hemisphere-fact-of-the-day.html"
         }
       ]
     },
     {
       "name": "Tim Urbanowicz",
-      "title": "预测AI投资的“下一波浪潮”",
-      "summary": "观点：高盛资产管理旗下Innovator首席投资策略师Tim Urbanowicz指出，投资者应关注人工智能投资的“下一波浪潮”。他的观点提示市场，在当前AI硬件和基础设施热潮之后，可能出现新的投资机遇，例如AI应用层面的创新或更广泛的行业整合，这对寻求新增长点的投资者具有指导意义。",
+      "title": "高盛资管策略师指出AI投资的“下一波浪潮”",
+      "summary": "观点：Innovator from Goldman Sachs Asset Management首席投资策略师蒂姆·乌尔班诺维奇（Tim Urbanowicz）正在探讨AI热潮中投资者可能发现的“下一波巨大浪潮”。他认为，随着AI技术从最初的基础设施建设转向更广泛的应用和落地，新的投资机会将不断涌现。这为关注AI领域的投资者提供了前瞻性的战略指引，预示着AI投资的多元化发展。",
       "sources": [
         {
           "name": "CNBC Finance",
@@ -149,8 +142,8 @@
     },
     {
       "name": "Yao Shunyu",
-      "title": "腾讯首席AI科学家致力于通用人工智能（AGI）",
-      "summary": "观点：腾讯首席AI科学家姚舜禹（Yao Shunyu）表示，他将致力于通用人工智能（AGI）的研发。姚舜禹此前从OpenAI加入腾讯，他的这一表态，不仅反映了中国科技巨头在AI领域的雄心，也加剧了中美两国在顶尖AI人才和AGI技术方面的竞争，预示着未来AI发展格局可能发生的重大变化。",
+      "title": "腾讯首席AI科学家目标实现通用人工智能，中国AI人才争夺加剧",
+      "summary": "观点：前OpenAI科学家、现任腾讯首席AI科学家姚顺宇表示，他的目标是实现通用人工智能（AGI）。这标志着中国在AI领域对全球顶尖人才的持续吸引，以及其在AGI研发上日益增长的雄心。中美两国在AI人才和技术上的竞争愈发激烈，姚顺宇的动向预示着中国科技巨头将在AI“超级应用”的开发上投入更多资源。",
       "sources": [
         {
           "name": "CNBC Finance",
@@ -161,8 +154,8 @@
   ],
   "macro": [
     {
-      "title": "美国就业市场强劲，巩固美联储抗通胀决心",
-      "summary": "最新的美国就业报告显示，5月就业市场表现异常强劲，新增就业人数远超预期。这一稳定且强劲的就业市场，为美联储提供了更大的政策空间，使其能够将重心放在抑制通胀而非采取降息措施刺激经济上，这表明美联储在短期内采取鸽派政策的可能性进一步降低。",
+      "title": "美联储关注通胀而非降息，强劲就业数据强化谨慎立场",
+      "summary": "美联储官员已将重心转向应对通胀再度抬头的风险，而非积极考虑降息。最新的强劲就业报告（5月份新增17.2万个非农就业）进一步支持了这一谨慎立场。在劳动力市场保持稳定的背景下，通胀压力可能持续存在，预示着利率可能在更长时间内维持高位，对未来的经济增长和企业融资环境构成影响。",
       "sources": [
         {
           "name": "NYT Economy",
@@ -175,72 +168,76 @@
       ]
     },
     {
-      "title": "白宫对强劲就业数据表示乐观，为中期选举提供支持",
-      "summary": "在5月份就业数据超出预期后，白宫对经济的强劲表现表示欢迎。这一强劲的就业报告为特朗普总统在中期选举前提供了有利的经济谈资，尽管它同时也减少了美联储降息的可能性，但在政治层面，政府可能更关注其带来的正面经济叙事。",
+      "title": "白宫对强劲就业数据表示欣喜，但市场担忧降息预期减弱",
+      "summary": "美国白宫对5月份超出预期的强劲就业报告表示乐观，认为这为总统在中期选举前提供了有利的经济论据。然而，市场对这一乐观情绪的反应却是负面的，因为稳健的就业数据降低了美联储降息的可能性。投资者需关注政府的政策宣传与市场对货币政策的真实预期之间的差异，这可能导致市场波动。",
       "sources": [
         {
           "name": "NYT Business",
+          "url": "https://www.nytimes.com/live/2026/business/jobs-report-economy/white-house-rejoices-over-strong-jobs-report"
+        },
+        {
+          "name": "NYT Economy",
           "url": "https://www.nytimes.com/live/2026/business/jobs-report-economy/white-house-rejoices-over-strong-jobs-report"
         }
       ]
     },
     {
-      "title": "美国政府计划与AI领袖会晤，讨论国内投资",
-      "summary": "美国总统特朗普宣布，他将在下周与顶级人工智能公司的领导人会晤，讨论美国政府对这些公司的投资。此举表明政府正积极参与到AI产业发展中，旨在推动国内AI创新和竞争力，并可能为AI行业带来政策支持和资金注入，对AI生态系统的未来走向具有战略意义。",
+      "title": "美国就业市场持续扩张，但工资增长落后于物价上涨",
+      "summary": "美国劳动力市场在经历了冲击和压力后表现出持续的韧性，5月份就业人数增加17.2万人，保持了近几个月来的强劲招聘势头。然而，尽管就业强劲，但工资增长未能跟上物价上涨的步伐，消费者信心依然悲观。这种就业与工资增长脱节的现象，可能导致家庭购买力下降，进而影响消费支出，给未来的经济复苏带来不确定性。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss"
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "谷歌与Meta等科技巨头或需出售股票以资助AI研发",
-      "summary": "为了支持高达8200亿美元的人工智能基础设施投资，包括谷歌和Meta在内的科技巨头可能需要通过发行股票来筹集巨额资金。这一策略可能令现有股票投资者感到不满，但对为AI建设提供资金的债券投资者而言则是一个利好，预示着AI军备竞赛正改变大型科技公司的资本结构和融资模式。",
+      "title": "特朗普将与AI领导者会面，讨论美国对AI公司的投资",
+      "summary": "美国总统特朗普宣布下周将与顶尖AI公司领导人会面，讨论美国对这些公司的投资。这一举动凸显了AI技术在美国国家战略中的重要性，以及政府在引导和支持AI产业发展方面的积极姿态。此次会面可能为AI行业带来新的政策支持和资金注入，从而影响AI技术研发的优先级和市场竞争格局。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "AI股票是否存在泡沫引市场关注，估值风险日益凸显",
+      "summary": "尽管面临伊朗战争、通胀和债务等宏观经济不确定性，美国股市在AI热潮的推动下持续创下新高。市场开始关注AI相关股票是否已形成泡沫，以及这种泡沫何时可能破裂。投资者需要警惕AI概念股的过度炒作风险，审慎评估公司的基本面和长期增长潜力，以避免潜在的市场调整带来的损失。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/videos/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "大型科技公司或通过发股筹资，以应对8200亿美元AI基建投资",
+      "summary": "面对高达8200亿美元的AI基础设施建设巨额投资需求，继谷歌之后，Meta等大型科技公司可能越来越多地通过发行股票来筹集资金。虽然股本融资可能稀释现有股东权益，但对于需要大量资本投入的AI项目而言，这可能是必要的选择。此举表明AI竞赛对资本的渴求，并可能改变科技巨头的融资策略和股权结构。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/first-google-then-meta-big-tech-may-increasingly-sell-stock-to-bankroll-820-billion-ai-boom-83c69030?mod=mw_rss_topstories"
         }
       ]
-    },
+    }
+  ],
+  "us_stocks": [
     {
-      "title": "中美AI人才竞争加剧，中国加速通用人工智能布局",
-      "summary": "中国正积极从美国招募顶尖人工智能人才，以推动其AI战略发展。腾讯首席AI科学家姚舜禹（前OpenAI成员）公开表示致力于通用人工智能（AGI），这不仅标志着中国在AGI领域的野心，也加剧了中美两国在全球AI领导地位上的竞争，对未来AI技术格局和人才流动产生深远影响。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html"
-        }
-      ]
-    },
-    {
-      "title": "谷歌Gemma 4 QAT模型提升AI在移动和笔记本设备上的效率",
-      "summary": "谷歌推出了Gemma 4量化感知训练（QAT）模型，旨在优化AI压缩效率，使其在移动和笔记本电脑等边缘设备上运行更高效。此举对于推动AI普及和提升用户体验至关重要，意味着未来更多AI功能可以直接在个人设备上实现，减少对云端计算的依赖，并促进个性化AI应用的发展。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/"
-        }
-      ]
-    },
-    {
-      "title": "半导体行业遭遇六年来最差单日表现",
-      "summary": "在美股大盘下跌之际，半导体行业经历了六年来最糟糕的一天，Marvell和Micron等芯片制造商股价大幅下跌。投资者对AI相关动量股的热情有所降温，并开始重新评估强劲就业报告对利率前景的潜在影响。这一表现预示着芯片行业可能面临新的挑战，并提醒投资者关注其高估值风险。",
+      "title": "芯片板块遭遇六年最差表现，美股科技股大跌",
+      "summary": "受强劲就业报告和市场对美联储利率政策预期的影响，芯片制造商Marvell和美光科技股价大幅下跌，导致整个芯片板块经历了六年来最糟糕的一天。这表明投资者对AI驱动的动量股热情开始降温，并开始重新评估高科技公司的估值。芯片行业的疲软表现可能对依赖该领域的整个科技生态系统产生连锁反应。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/marvell-micron-shares-tumble-as-the-chip-sector-suffers-its-worst-day-in-6-years-a7c1701a?mod=mw_rss_topstories"
         }
       ]
-    }
-  ],
-  "us_stocks": [
+    },
     {
-      "title": "Marvell Technology被纳入标普500指数",
-      "summary": "半导体公司Marvell Technology被纳入标普500指数，同时一家数据中心相关公司也一并入选。此次调整将增强信息技术板块在该基准指数中的权重和代表性，对Marvell的股票流动性和机构持仓将产生积极影响，也反映了数据中心和芯片技术在当前市场中的重要性。",
+      "title": "Marvell及另一数据中心公司被纳入S&P 500指数，IT板块影响力增强",
+      "summary": "Marvell和另一家数据中心相关公司被纳入标准普尔500指数，进一步增强了信息技术板块在该基准指数中的权重和影响力。这一调整反映了市场对数据中心和芯片技术在数字经济中日益增长重要性的认可。对于投资者而言，指数成分股的变化将直接影响其跟踪S&P 500指数的投资组合配置，并可能带动相关股票的资金流入。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -249,66 +246,42 @@
       ]
     },
     {
-      "title": "Lululemon下调全年业绩预期，股价大跌",
-      "summary": "运动休闲服装品牌Lululemon Athletica下调了全年业绩预期，理由是“负面媒体评论”和令人失望的产品发布。这一消息导致该公司股价在盘后交易中大跌，表明即使是增长强劲的消费品牌也可能受到市场情绪和产品策略失误的影响，对零售行业和消费者支出前景发出警示。",
+      "title": "Lululemon下调年度业绩指引，股价受负面评论和产品发布影响",
+      "summary": "运动服饰品牌Lululemon因“负面媒体评论”和“令人失望的产品发布”下调了全年业绩预期，预示其未来业绩可能面临挑战。公司前景展望疲软导致股价下跌。这一事件表明，即使是知名品牌，也可能因市场反馈和产品策略失误而面临业绩压力。投资者需关注消费零售行业的变化以及品牌应对市场挑战的能力。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/06/04/lululemon-lulu-earnings-q1-2026.html"
-        },
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/04/stocks-making-the-biggest-moves-after-hours-lulu-agx-ttan.html"
-        }
-      ]
-    },
-    {
-      "title": "个人投资者将有机会直接购买SpaceX股票",
-      "summary": "从下周开始，普通个人投资者将能够直接购买埃隆·马斯克旗下SpaceX公司的股票。此举意味着SpaceX的IPO将不仅面向机构投资者，也向散户开放，增加了其市场的广度，为那些希望投资于太空探索和前沿科技的个人提供了新的渠道，但同时也伴随着较高的风险。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "S&P 500指数拒绝OpenAI和Anthropic快速纳入",
-      "summary": "除了SpaceX，S&P 500指数也拒绝了快速纳入盈利能力不足的人工智能公司OpenAI和Anthropic。这一政策决定反映了指数提供商对成分股盈利能力和稳定性的严格要求，可能迫使这些热门AI公司在寻求主流市场认可前，需要更长时间证明其商业模式和财务健康，对新兴AI公司的上市路径产生重要影响。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/"
         }
       ]
     }
   ],
   "a_stocks": [
     {
-      "title": "全球AI热潮推动亚洲股市飙升",
-      "summary": "受全球人工智能投资热潮的推动，韩国、中国、台湾和日本的股市近期表现异常活跃，相关股票价格大幅上涨。这一现象表明AI不仅是西方市场的驱动力，也正在全球范围内重塑科技投资格局，为亚洲经济体带来了新的增长机遇，但也可能伴随市场过热的风险。",
-      "sources": [
-        {
-          "name": "A Wealth of Common Sense",
-          "url": "https://awealthofcommonsense.com/2026/06/the-ai-trade-is-global/"
-        }
-      ]
-    },
-    {
-      "title": "中国吸引美国AI人才，强化本土AI实力",
-      "summary": "中国科技企业正积极从美国招募顶尖AI人才，以加强其本土人工智能研发实力。腾讯聘请前OpenAI首席科学家姚舜禹（Yao Shunyu）就是例证，他旨在推动通用人工智能（AGI）的实现。这不仅反映了中国在AI领域的战略投入，也预示着中美在AI人才和技术竞争上的白热化，将对全球AI产业版图产生深远影响。",
+      "title": "中国加大AI人才引进力度，腾讯首席AI科学家致力于通用AI研发",
+      "summary": "中国正在加速从美国吸引AI领域的高端人才，以期打造下一代“超级应用”。腾讯首席AI科学家姚顺宇（前OpenAI研究员）表示，他的目标是实现通用人工智能。这表明中国科技巨头在AI领域的投入和野心不断增长，预示着中美在AI技术和人才方面的竞争将日益激烈，并可能推动中国AI产业的快速发展。",
       "sources": [
         {
           "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html"
         }
       ]
+    },
+    {
+      "title": "全球AI热潮助推亚洲股市，中日韩台市场表现强劲",
+      "summary": "由AI技术驱动的投资热潮已在全球范围内蔓延，不仅仅局限于美国市场。韩国、中国、中国台湾和日本等亚洲主要经济体的股市，特别是与AI相关的科技公司，股价近期表现异常活跃。这表明全球投资者对AI的信心和资金正在广泛布局，为亚洲股市带来增长动力。投资者应关注亚洲AI产业链的投资机会。",
+      "sources": [
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/06/the-ai-trade-is-global/"
+        }
+      ]
     }
   ],
   "business": [
     {
-      "title": "波音宣布启动新生产线，提高737 Max产量",
-      "summary": "波音公司首席执行官表示，将于7月6日在华盛顿埃弗雷特的新生产线上启动737 Max飞机的生产，目标是将月产量提高至52架。此举旨在加速737 Max的交付，满足航空市场的需求，对波音的复苏战略至关重要，也标志着全球航空制造业产能的进一步恢复。",
+      "title": "波音737 Max新生产线将于7月投产，旨在提升飞机产量",
+      "summary": "波音公司首席执行官宣布，新的737 Max总装生产线将于7月6日在华盛顿州埃弗雷特投产。该生产线旨在将737 Max的月产量提升至52架，以满足市场需求。此举对于波音缓解供应链压力、加速交付，以及恢复市场信心至关重要，是公司在经历了多次挑战后，努力提升运营效率的关键一步。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -317,64 +290,34 @@
       ]
     },
     {
-      "title": "百老汇票房创纪录，消费者转向体验式消费",
-      "summary": "百老汇在刚刚结束的演出季中实现了19亿美元的创纪录票房，这标志着消费者支出正从商品转向体验式消费。这一趋势对零售、旅游、餐饮和娱乐等多个行业产生影响，表明投资者需关注消费者行为模式的结构性变化，并相应调整投资策略，以捕捉体验经济的增长潜力。",
+      "title": "百老汇演出季票房创纪录，消费者转向体验式消费趋势明显",
+      "summary": "百老汇最近的演出季创下19亿美元的票房纪录，成为消费者倾向于体验式消费的最新例证。在商品消费增长放缓的背景下，人们更愿意将钱花在旅游、文化活动等体验上。这一趋势对休闲娱乐、旅游和餐饮等服务行业构成利好，投资者可以关注相关领域的增长潜力。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/06/05/broadway-record-ticket-sales.html"
         }
       ]
-    },
-    {
-      "title": "俄亥俄州中部崛起为科技和制造业中心",
-      "summary": "俄亥俄州哥伦布地区正迅速转型为新兴的科技和制造业中心，吸引了众多科技巨头和硅谷企业入驻。虽然这带来了经济增长和就业机会，但也引发了当地居民对快速转型影响的担忧。这一趋势反映了美国区域经济发展的新动态，可能预示着传统工业州的产业升级和新经济中心的形成。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/05/business/ohio-tech-manufacturing-hub.html"
-        }
-      ]
-    },
-    {
-      "title": "英国政府支付平台Gov.uk Pay弃用Stripe，改用荷兰Adyen",
-      "summary": "英国政府的在线支付平台Gov.uk Pay已决定用荷兰支付服务提供商Adyen取代Stripe。这一重大供应商更换反映了数字支付市场日益激烈的竞争，以及各国政府在寻求更高效、更具成本效益的金融基础设施服务方面的考量。此举对全球金融科技领域的竞争格局具有参考意义。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763"
-        }
-      ]
     }
   ],
   "overlooked": [
     {
-      "title": "家族办公室加码体育投资，涵盖小众联盟至智能科技",
-      "summary": "全球超高净值家族办公室正将投资范围扩展到体育领域，从投资匹克球（pickleball）联赛等小众体育联盟，到智能足球等高科技产品。这一趋势表明，家族办公室在追求多元化和另类投资回报时，正寻找传统资产类别之外的新增长点，尤其看好体育和休闲产业的长期潜力，值得关注。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/05/family-office-sport-investments.html"
-        }
-      ]
-    },
-    {
-      "title": "西半球石油产量超越中东，全球能源格局悄然转变",
-      "summary": "目前，西半球的石油总产量已超过中东地区在危机前的水平。加拿大成为全球第四大石油生产国，巴西和圭亚那的产量也显著增长，阿根廷的Vaca Muerta页岩油产量也贡献良多。这一变化预示着全球能源供应中心和地缘政治力量平衡的长期性转变，降低了对中东地区石油的依赖。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/western-hemisphere-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=western-hemisphere-fact-of-the-day"
-        }
-      ]
-    },
-    {
-      "title": "AI投资热潮抢走加密货币市场关注度",
-      "summary": "有分析师指出，比特币正面临“关注度”赤字，动量交易者已纷纷转向人工智能（AI）板块，导致“AI交易正在吸走加密货币的血液”。这表明，投资者资金和市场注意力正从新兴的加密资产流向目前更为热门的AI领域，对加密货币市场的短期表现和投资情绪构成压力。",
+      "title": "比特币因AI交易热潮遭遇“关注赤字”，动量交易者转向",
+      "summary": "加密货币市场正经历“关注赤字”，分析师指出，AI交易热潮正在“吸走加密货币的血液”，导致动量交易者纷纷转向AI相关资产。在当前市场环境下，资金和注意力集中在新兴的AI领域，使得比特币等加密资产的吸引力相对下降。对于寻求多元化配置的投资者而言，这可能意味着加密市场面临短期流动性挑战和长期价值重估的压力。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/bitcoin-is-suffering-from-an-attention-deficit-as-momentum-traders-have-moved-on-17d2c140?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "家族办公室青睐体育投资，从小型联赛到智能体育产品",
+      "summary": "尽管AI初创企业占据了大部分交易新闻版面，但超高净值人士的家族办公室依然热衷于体育领域的投资。从匹克球联赛等新兴体育项目到智能足球等体育科技产品，家族办公室正积极布局。这揭示了另类资产配置的一种新趋势，即富裕投资者将部分资金投向传统和新兴体育产业，以寻求长期稳定回报和价值增值，值得关注。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/05/family-office-sport-investments.html"
         }
       ]
     }
