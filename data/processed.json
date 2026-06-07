@@ -1,323 +1,259 @@
 {
   "top5": [
     {
-      "title": "美国就业数据强劲推高利率预期，美股承压下挫",
-      "summary": "美国最新就业报告显示5月份新增就业17.2万，连续第三个月超出预期，表明劳动力市场依然强劲。这一数据强化了美联储对通胀的担忧，并使其短期内降息的可能性进一步降低。受此影响，标准普尔500指数录得今年最大单日跌幅，纳斯达克指数创下历史最大点数跌幅，结束了长达九周的上涨趋势。市场普遍认为，在就业市场稳定且通胀压力重现的情况下，美联储的政策重心已转向控制通胀，而非刺激经济增长。",
+      "title": "中国证监会主席强调加强对程序化交易的监管",
+      "summary": "中国证券监督管理委员会(CSRC)主席表示，鉴于对冲基金和机构投资者日益依赖算法交易，当局将强化对程序化交易的监管，以打击市场不当行为，维护市场公平和稳定。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3356217/china-will-enhance-regulation-programme-trading-csrc-chairman?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "油价飙升引发“需求破坏”讨论，或预示经济放缓",
+      "summary": "随着全球原油价格持续上涨，市场开始广泛讨论“需求破坏”的可能性。这一概念指高油价最终将迫使消费者和企业减少石油消费，从而可能拖累整体经济增长，对全球宏观经济构成潜在威胁。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/05/business/stock-market-jobs-report.html"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html"
-        },
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/s-p-500-sees-1-8-trillion-wipeout-nasdaq-tallies-biggest-point-drop-on-record-heres-what-investors-need-to-know-about-fridays-selloff-4eb7b490?mod=mw_rss_topstories"
+          "url": "https://www.nytimes.com/2026/06/07/business/07biz-demand-destruction-iran-war.html"
         }
       ]
     },
     {
-      "title": "SpaceX巨额IPO创纪录，但S&P 500指数因盈利规则拒绝其快速纳入",
-      "summary": "埃隆·马斯克的火箭公司SpaceX以每股135美元的价格完成史上最大规模IPO，估值和募资额均超越沙特阿美。然而，标准普尔500指数明确表示拒绝快速纳入SpaceX以及其他不盈利的AI公司（如OpenAI和Anthropic），强调其对盈利能力的基本要求。这一决定凸显了传统指数编制规则与高增长科技公司（特别是AI领域）早期不盈利但潜力巨大之间的冲突，对追求通过指数配置投资新兴科技的资金带来挑战。",
+      "title": "英伟达计划推出基于Windows的CPU系统，挑战英特尔和AMD",
+      "summary": "芯片巨头英伟达据报正开发一套针对Windows个人电脑市场的CPU系统。此举标志着英伟达在数据中心AI芯片领域取得主导地位后，正将其影响力扩展到更广阔的PC硬件生态，可能重塑PC产业链的竞争格局和技术路线。",
       "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/05/technology/spacex-indexes-401k.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html"
-        },
         {
           "name": "Hacker News Top",
-          "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/"
+          "url": "https://twitter.com/lemire/status/2062880075117113739"
         }
       ]
     },
     {
-      "title": "AI巨头Anthropic呼吁建立AI“制动踏板”，警示自主发展模型风险",
-      "summary": "领先的AI公司Anthropic联合创始人杰克·克拉克在BBC采访中表示，需要为自我改进型AI模型设置“制动踏板”，以防止其在无人干预下过度发展，从而保护人类。他指出，随着AI技术加速迭代，其可能脱离人类控制的风险日益增加。这一呼吁反映了行业内部对AI发展伦理和安全的深层忧虑，可能引发更严格的监管讨论，并影响未来AI研发的战略方向和投资优先级。",
+      "title": "中国热门AI股未纳入“沪深港通”，国际投资者投资受限",
+      "summary": "尽管“沪深港通”机制为国际投资者进入中国内地股市提供了渠道，但近期中国内地上市的热门人工智能公司股票却未能被纳入该机制。这限制了香港及国际投资者直接参与这些高增长领域的投资，反映了资本流动壁垒。",
       "sources": [
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/05/business/dealbook/anthropic-ai-nonproliferation.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/markets/article/3356193/why-cant-investors-buy-mainlands-hottest-ai-stocks-stock-connect?utm_source=rss_feed"
         }
       ]
     },
     {
-      "title": "全球AI投资热潮蔓延，亚洲股市大涨，美国科技巨头考虑发股筹资",
-      "summary": "AI技术热潮正席卷全球资本市场，不仅带动美国科技股上涨，韩国、中国、中国台湾和日本等亚洲市场的相关股票也表现强劲。与此同时，为满足庞大的AI基础设施建设需求（估计高达8200亿美元），包括谷歌和Meta在内的美国大型科技公司正考虑通过发行股票来筹集资金，以补充债券市场已提供的巨额融资。这表明AI投资已成为全球性主题，并正改变大型科技公司的融资策略。",
+      "title": "比特币价格暴跌，新型加密ETF受追捧显市场转向",
+      "summary": "尽管比特币近期价格跌至2024年以来的最低点，但华尔街一种与Hyperliquid平台挂钩的新型加密投资产品——HYPE ETF——却受到投资者的追捧。这反映出加密市场在波动时，机构投资者正转向更受监管、结构化的产品。",
       "sources": [
         {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/06/the-ai-trade-is-global/"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/first-google-then-meta-big-tech-may-increasingly-sell-stock-to-bankroll-820-billion-ai-boom-83c69030?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "西半球石油产量超越中东，全球能源格局加速重塑",
-      "summary": "当前西半球的石油产量已超过中东地区在危机前的水平，标志着全球能源地缘政治格局的重大转变。加拿大已成为世界第四大产油国，巴西的石油产量是委内瑞拉的四倍，而圭亚那仅在七年前才开始产油，其产量已接近委内瑞拉。阿根廷的Vaca Muerta页岩油产区也呈现显著增长。这一趋势降低了全球对中东石油的依赖，对国际能源市场和相关投资产生深远影响。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/western-hemisphere-fact-of-the-day.html"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Elon Musk",
-      "title": "SpaceX IPO创纪录，市场关注其公司盈利能力与指数纳入标准",
-      "summary": "观点：埃隆·马斯克旗下的SpaceX完成史上最大规模IPO，标志着其商业模式和市场潜力获得巨大认可。然而，S&P 500指数因其尚未盈利的状况，拒绝了SpaceX的快速纳入。这反映出市场对高估值、但处于早期盈利阶段的创新型公司（包括AI领域）的态度日益谨慎，以及现有指数规则对新经济体的适应性挑战。",
+      "name": "中国证监会主席",
+      "title": "强调加强对程序化交易的监管，防范市场风险",
+      "summary": "中国证监会主席公开表示，鉴于程序化交易在国内市场日益重要，当局将着力强化相关监管，以有效防范市场操纵等不当行为。此举旨在维护市场公平性与稳定。",
       "sources": [
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/05/technology/spacex-indexes-401k.html"
-        },
-        {
-          "name": "Hacker News Top",
-          "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/"
-        },
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/05/business/highest-paid-ceos-elon-musk.html"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3356217/china-will-enhance-regulation-programme-trading-csrc-chairman?utm_source=rss_feed"
         }
       ]
     },
     {
-      "name": "Jack Clark",
-      "title": "Anthropic联合创始人呼吁对AI发展施加“制动”，以防范风险",
-      "summary": "原话：「AI可能达到在无人干预下自我发展的地步。」Anthropic联合创始人杰克·克拉克警告称，为保护人类，亟需为自我改进型AI模型设置“制动踏板”。这一观点强调了AI技术快速进步可能带来的潜在失控风险，呼吁业界和政策制定者重视AI安全与伦理，这对于AI领域的技术路线选择和监管框架建设具有重要指导意义。",
+      "name": "METiS TechBio CEO 赖再达",
+      "title": "生物科技与AI有望逆转衰老进程，瞄准万亿美元长寿市场",
+      "summary": "原话：「衰老就好比复杂软件系统中累积的漏洞...这些错误可以被重新编程。利用人工智能读取、重写和逆转细胞，或至少减缓衰老过程成为可能。」赖再达指出，公司正聚焦通过AI技术修复免疫细胞等，以期在规模达6100亿美元的全球长寿市场中占据一席之地。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/05/business/dealbook/anthropic-ai-nonproliferation.html"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-business/article/3356154/targeting-us610-billion-longevity-market-biotech-firms-race-reverse-ageing?utm_source=rss_feed"
         }
       ]
     },
     {
-      "name": "Tyler Cowen",
-      "title": "与OpenAI探讨AI经济学，并关注全球能源格局变化",
-      "summary": "观点：著名经济学家泰勒·考恩与亚历克斯·塔博罗克受邀与OpenAI就AI的经济影响进行交流，表明顶尖经济思想正深入AI发展前沿。同时，考恩还强调了西半球石油产量已超越中东的历史性转变，认为这是全球能源市场重塑的关键因素。他的洞察力提醒投资者关注AI技术长期经济影响及能源领域的结构性变迁。",
+      "name": "经济学者 Tyler Cowen",
+      "title": "关注彼得·蒂尔移居阿根廷的背后动因",
+      "summary": "观点：知名经济学家Tyler Cowen在其博客中引述邮件内容，提及顶级投资者彼得·蒂尔移居阿根廷引发的广泛关注。这一动向可能反映了部分高净值人士对新兴市场潜力或地缘政治避险策略的考量，而非仅是简单的个人选择。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/tyler-and-alex-speak-to-openai.html"
-        },
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/western-hemisphere-fact-of-the-day.html"
-        }
-      ]
-    },
-    {
-      "name": "Tim Urbanowicz",
-      "title": "高盛资管策略师指出AI投资的“下一波浪潮”",
-      "summary": "观点：Innovator from Goldman Sachs Asset Management首席投资策略师蒂姆·乌尔班诺维奇（Tim Urbanowicz）正在探讨AI热潮中投资者可能发现的“下一波巨大浪潮”。他认为，随着AI技术从最初的基础设施建设转向更广泛的应用和落地，新的投资机会将不断涌现。这为关注AI领域的投资者提供了前瞻性的战略指引，预示着AI投资的多元化发展。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/05/where-investors-may-find-the-next-big-wave-for-ai-trade.html"
-        }
-      ]
-    },
-    {
-      "name": "Yao Shunyu",
-      "title": "腾讯首席AI科学家目标实现通用人工智能，中国AI人才争夺加剧",
-      "summary": "观点：前OpenAI科学家、现任腾讯首席AI科学家姚顺宇表示，他的目标是实现通用人工智能（AGI）。这标志着中国在AI领域对全球顶尖人才的持续吸引，以及其在AGI研发上日益增长的雄心。中美两国在AI人才和技术上的竞争愈发激烈，姚顺宇的动向预示着中国科技巨头将在AI“超级应用”的开发上投入更多资源。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/should-you-move-to-argentina-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-move-to-argentina-from-my-email"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "美联储关注通胀而非降息，强劲就业数据强化谨慎立场",
-      "summary": "美联储官员已将重心转向应对通胀再度抬头的风险，而非积极考虑降息。最新的强劲就业报告（5月份新增17.2万个非农就业）进一步支持了这一谨慎立场。在劳动力市场保持稳定的背景下，通胀压力可能持续存在，预示着利率可能在更长时间内维持高位，对未来的经济增长和企业融资环境构成影响。",
-      "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/live/2026/business/jobs-report-economy/stable-jobs-market-affirms-feds-reluctance-to-lower-interest-rates"
-        },
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html"
-        }
-      ]
-    },
-    {
-      "title": "白宫对强劲就业数据表示欣喜，但市场担忧降息预期减弱",
-      "summary": "美国白宫对5月份超出预期的强劲就业报告表示乐观，认为这为总统在中期选举前提供了有利的经济论据。然而，市场对这一乐观情绪的反应却是负面的，因为稳健的就业数据降低了美联储降息的可能性。投资者需关注政府的政策宣传与市场对货币政策的真实预期之间的差异，这可能导致市场波动。",
+      "title": "全球油价持续上涨，市场担忧“需求破坏”或抑制经济增长",
+      "summary": "随着原油价格持续上涨，经济学家和市场分析师开始广泛讨论“需求破坏”的可能性。该理论认为，高企的能源成本最终将迫使消费者和企业减少消费，从而导致对石油产品的需求长期下降，进而可能拖累整体经济增长。能源成本是影响全球通胀和经济活动的关键因素。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/live/2026/business/jobs-report-economy/white-house-rejoices-over-strong-jobs-report"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/live/2026/business/jobs-report-economy/white-house-rejoices-over-strong-jobs-report"
+          "url": "https://www.nytimes.com/2026/06/07/business/07biz-demand-destruction-iran-war.html"
         }
       ]
     },
     {
-      "title": "美国就业市场持续扩张，但工资增长落后于物价上涨",
-      "summary": "美国劳动力市场在经历了冲击和压力后表现出持续的韧性，5月份就业人数增加17.2万人，保持了近几个月来的强劲招聘势头。然而，尽管就业强劲，但工资增长未能跟上物价上涨的步伐，消费者信心依然悲观。这种就业与工资增长脱节的现象，可能导致家庭购买力下降，进而影响消费支出，给未来的经济复苏带来不确定性。",
+      "title": "韩国作为科技股投资热点面临加息风险",
+      "summary": "韩国股市因其半导体巨头如三星和SK海力士在全球科技供应链中的关键地位，成为投资者间接布局科技领域的“后门”。然而，市场分析师警告，若韩国央行进一步加息，可能引发股市高达15%的回调风险，影响全球科技股。",
       "sources": [
         {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/south-korea-is-the-ultimate-backdoor-tech-play-but-stock-investors-now-face-a-looming-threat-25065699?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "香港奢侈品消费市场受益于IPO和楼市复苏",
+      "summary": "随着香港超越瑞士成为全球最大跨境财富管理中心，加上本地首次公开募股（IPO）活跃和房地产市场回暖，高端奢侈品商场的营收和租金均出现显著增长。硬奢和珠宝品类尤其表现强劲，显示出财富效应的积极影响。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/companies/article/3355967/its-wealth-effect-hong-kong-luxury-malls-thrive-amid-ipo-gains-housing-recovery?utm_source=rss_feed"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "特朗普将与AI领导者会面，讨论美国对AI公司的投资",
-      "summary": "美国总统特朗普宣布下周将与顶尖AI公司领导人会面，讨论美国对这些公司的投资。这一举动凸显了AI技术在美国国家战略中的重要性，以及政府在引导和支持AI产业发展方面的积极姿态。此次会面可能为AI行业带来新的政策支持和资金注入，从而影响AI技术研发的优先级和市场竞争格局。",
+      "title": "Meta AI聊天机器人漏洞被利用，数千Instagram账户遭黑客入侵",
+      "summary": "Meta公司证实，其AI聊天机器人的一个漏洞被黑客滥用，导致数千个Instagram用户账户遭到入侵。这不仅对Meta的平台安全和用户信任构成打击，也凸显了AI技术普及背景下，所有科技公司在保障用户数据安全和防范AI滥用方面所面临的严峻挑战。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss"
+          "name": "Hacker News Top",
+          "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"
         }
       ]
     },
     {
-      "title": "AI股票是否存在泡沫引市场关注，估值风险日益凸显",
-      "summary": "尽管面临伊朗战争、通胀和债务等宏观经济不确定性，美国股市在AI热潮的推动下持续创下新高。市场开始关注AI相关股票是否已形成泡沫，以及这种泡沫何时可能破裂。投资者需要警惕AI概念股的过度炒作风险，审慎评估公司的基本面和长期增长潜力，以避免潜在的市场调整带来的损失。",
+      "title": "AI数字孪生技术成为高管提升效率的新工具",
+      "summary": "一种新兴的效率提升趋势是，CEO和哈佛大学教授等高管开始利用AI数字孪生技术来回答问题和参与会议。这些AI副本能够处理日常沟通和信息传递，从而解放高管的时间，使其专注于更具战略性的任务。这种趋势预示着人工智能在企业管理和专业服务领域的深度应用。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/videos/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html"
         }
       ]
     },
     {
-      "title": "大型科技公司或通过发股筹资，以应对8200亿美元AI基建投资",
-      "summary": "面对高达8200亿美元的AI基础设施建设巨额投资需求，继谷歌之后，Meta等大型科技公司可能越来越多地通过发行股票来筹集资金。虽然股本融资可能稀释现有股东权益，但对于需要大量资本投入的AI项目而言，这可能是必要的选择。此举表明AI竞赛对资本的渴求，并可能改变科技巨头的融资策略和股权结构。",
+      "title": "机器人投顾在AI选股方面可能落后华尔街",
+      "summary": "尽管零售机器人顾问在税务亏损收割和投资组合纪律性方面表现出色，但分析指出，它们在利用华尔街内部的AI生成选股秘密方面存在局限。这意味着，机器人顾问通常难以提供超越市场的投资回报，凸显了不同投资工具的价值差异。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/first-google-then-meta-big-tech-may-increasingly-sell-stock-to-bankroll-820-billion-ai-boom-83c69030?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/wall-street-keeps-its-ai-stock-picking-secrets-heres-what-robo-advisers-actually-do-93871e31?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "芯片板块遭遇六年最差表现，美股科技股大跌",
-      "summary": "受强劲就业报告和市场对美联储利率政策预期的影响，芯片制造商Marvell和美光科技股价大幅下跌，导致整个芯片板块经历了六年来最糟糕的一天。这表明投资者对AI驱动的动量股热情开始降温，并开始重新评估高科技公司的估值。芯片行业的疲软表现可能对依赖该领域的整个科技生态系统产生连锁反应。",
+      "title": "时尚科技初创公司CaaStle CEO涉嫌欺诈仍获董事会留任",
+      "summary": "时尚科技初创公司CaaStle在其最后几个月运营中，曝出CEO Christine Hunsicker承认欺诈的丑闻，内容包括伪造审计报告和股票回购。尽管如此，董事会仍让她继续领导公司进行危机处理。这起事件凸显了初创公司在快速扩张中可能面临的治理和道德风险。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/marvell-micron-shares-tumble-as-the-chip-sector-suffers-its-worst-day-in-6-years-a7c1701a?mod=mw_rss_topstories"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/07/business/caastle-fraud-christine-hunsicker.html"
         }
       ]
     },
     {
-      "title": "Marvell及另一数据中心公司被纳入S&P 500指数，IT板块影响力增强",
-      "summary": "Marvell和另一家数据中心相关公司被纳入标准普尔500指数，进一步增强了信息技术板块在该基准指数中的权重和影响力。这一调整反映了市场对数据中心和芯片技术在数字经济中日益增长重要性的认可。对于投资者而言，指数成分股的变化将直接影响其跟踪S&P 500指数的投资组合配置，并可能带动相关股票的资金流入。",
+      "title": "财报季反转：华尔街曾看衰的15支股票表现超出分析师预期",
+      "summary": "在最新的财报季中，尽管华尔街分析师普遍对15支特定股票持负面看法，但这些公司公布的业绩数据却超出了市场预期，证明了分析师的判断有误。这表明市场情绪和分析师共识并非总是准确，对于投资者，识别被市场忽视或误判的优质资产是关键策略。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/an-s-p-500-shakeup-is-hours-away-these-stocks-could-soon-earn-spots-in-the-index-a9b64d67?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/wall-street-hated-these-15-stocks-then-their-earnings-proved-the-analysts-wrong-fceb1c96?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "Lululemon下调年度业绩指引，股价受负面评论和产品发布影响",
-      "summary": "运动服饰品牌Lululemon因“负面媒体评论”和“令人失望的产品发布”下调了全年业绩预期，预示其未来业绩可能面临挑战。公司前景展望疲软导致股价下跌。这一事件表明，即使是知名品牌，也可能因市场反馈和产品策略失误而面临业绩压力。投资者需关注消费零售行业的变化以及品牌应对市场挑战的能力。",
+      "title": "市场分析师警示标普500指数可能面临“六月下挫”风险",
+      "summary": "尽管市场近期表现强劲，但有分析师提醒投资者，不能排除标普500指数在6月份出现回调（“June swoon”）的可能性，指出该指数目前已逼近其极限。即使Oracle等公司的乐观财报也可能不足以支撑市场持续上涨。这为投资者提供了重要的风险提示。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/04/lululemon-lulu-earnings-q1-2026.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/dont-rule-out-a-june-swoon-the-s-p-500-is-pushing-its-limits-3c067a6b?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "a_stocks": [
     {
-      "title": "中国加大AI人才引进力度，腾讯首席AI科学家致力于通用AI研发",
-      "summary": "中国正在加速从美国吸引AI领域的高端人才，以期打造下一代“超级应用”。腾讯首席AI科学家姚顺宇（前OpenAI研究员）表示，他的目标是实现通用人工智能。这表明中国科技巨头在AI领域的投入和野心不断增长，预示着中美在AI技术和人才方面的竞争将日益激烈，并可能推动中国AI产业的快速发展。",
+      "title": "香港金管局重申内地客户在港开户政策，强调合规性与秩序",
+      "summary": "针对近期关于内地客户在香港开立银行账户的传闻，香港金融管理局（HKMA）发布声明澄清，内地客户仍可在港合法开户，但银行必须遵守新的监管要求，确保开户流程“合规且有序”。这一澄清为关注香港金融市场和跨境财富管理的投资者提供了明确指引。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3356201/mainlanders-can-still-open-bank-accounts-hong-kong-despite-new-rules-hkma?utm_source=rss_feed"
         }
       ]
     },
     {
-      "title": "全球AI热潮助推亚洲股市，中日韩台市场表现强劲",
-      "summary": "由AI技术驱动的投资热潮已在全球范围内蔓延，不仅仅局限于美国市场。韩国、中国、中国台湾和日本等亚洲主要经济体的股市，特别是与AI相关的科技公司，股价近期表现异常活跃。这表明全球投资者对AI的信心和资金正在广泛布局，为亚洲股市带来增长动力。投资者应关注亚洲AI产业链的投资机会。",
+      "title": "后疫情时代中国航司国际航线市场份额激增至三分之二",
+      "summary": "根据航空情报公司IBA Group的数据，自新冠疫情以来，中国本土航空公司在连接中国与海外城市的国际航线市场中，份额已从疫情前的50%增至目前的66.5%，显著超越外国航空公司。这表明中国航空业在国际市场上的竞争力显著提升，对全球航空业格局产生影响。",
       "sources": [
         {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/06/the-ai-trade-is-global/"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-business/article/3356169/chinese-carriers-seize-two-thirds-share-post-pandemic-air-routes?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "中国商业地产转向“公园化”设计以吸引消费者",
+      "summary": "为适应消费者生活方式和购物习惯的变化，中国房地产开发商正积极将购物中心改造为融合郁郁葱葱的绿植、花园和水景的“公园化”空间。这类设计被认为比传统高密度商场更能吸引消费者和零售商，反映了中国零售地产行业的战略转型。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/article/3356214/park-life-why-chinas-malls-are-building-forests-waterfalls-and-sky-walkways?utm_source=rss_feed"
         }
       ]
     }
   ],
   "business": [
     {
-      "title": "波音737 Max新生产线将于7月投产，旨在提升飞机产量",
-      "summary": "波音公司首席执行官宣布，新的737 Max总装生产线将于7月6日在华盛顿州埃弗雷特投产。该生产线旨在将737 Max的月产量提升至52架，以满足市场需求。此举对于波音缓解供应链压力、加速交付，以及恢复市场信心至关重要，是公司在经历了多次挑战后，努力提升运营效率的关键一步。",
+      "title": "新型减肥疗法研发加速，旨在超越现有GLP-1药物",
+      "summary": "全球制药公司正投入巨资研发新一代减肥药物，旨在提供比目前热门的GLP-1受体激动剂（如Zepbound和Wegovy）更优越的治疗效果。例如，一种名为Retatrutide的实验性药物在临床试验中显示出显著的减重效果。肥胖和相关代谢疾病市场巨大，新型药物的突破可能重塑医疗保健和制药行业的格局。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/05/boeing-ceo-737-max-production-assembly-line.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/tired-of-nausea-or-taking-a-glp-1-pill-every-day-these-experimental-drugs-could-be-better-than-zepbound-and-wegovy-587bf648?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "百老汇演出季票房创纪录，消费者转向体验式消费趋势明显",
-      "summary": "百老汇最近的演出季创下19亿美元的票房纪录，成为消费者倾向于体验式消费的最新例证。在商品消费增长放缓的背景下，人们更愿意将钱花在旅游、文化活动等体验上。这一趋势对休闲娱乐、旅游和餐饮等服务行业构成利好，投资者可以关注相关领域的增长潜力。",
+      "title": "全球生物科技公司竞逐价值6100亿美元的抗衰老/长寿市场",
+      "summary": "全球生物科技公司正积极投身于日益壮大的长寿市场，该市场预计规模高达6100亿美元。这些公司致力于通过创新技术，包括利用人工智能读取、重写和逆转细胞的衰老过程，以期延长人类健康寿命。人工智能与生物科技的融合，正加速该领域的研发进展，为投资者提供长期的增长主题。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/05/broadway-record-ticket-sales.html"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-business/article/3356154/targeting-us610-billion-longevity-market-biotech-firms-race-reverse-ageing?utm_source=rss_feed"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "比特币因AI交易热潮遭遇“关注赤字”，动量交易者转向",
-      "summary": "加密货币市场正经历“关注赤字”，分析师指出，AI交易热潮正在“吸走加密货币的血液”，导致动量交易者纷纷转向AI相关资产。在当前市场环境下，资金和注意力集中在新兴的AI领域，使得比特币等加密资产的吸引力相对下降。对于寻求多元化配置的投资者而言，这可能意味着加密市场面临短期流动性挑战和长期价值重估的压力。",
+      "title": "新兴经济模式：数据正成为一种非传统支付形式",
+      "summary": "一种新兴的经济模式正在出现，消费者开始通过提供个人数据（例如家庭清洁机器人训练数据）来换取免费服务。这标志着数据价值的不断提升以及非传统“以物易物”市场形式的扩展。这种模式挑战了传统货币交易，揭示了数据在数字经济中的核心价值。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/bitcoin-is-suffering-from-an-attention-deficit-as-momentum-traders-have-moved-on-17d2c140?mod=mw_rss_topstories"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/barter-markets-in-everything-3.html?utm_source=rss&utm_medium=rss&utm_campaign=barter-markets-in-everything-3"
         }
       ]
     },
     {
-      "title": "家族办公室青睐体育投资，从小型联赛到智能体育产品",
-      "summary": "尽管AI初创企业占据了大部分交易新闻版面，但超高净值人士的家族办公室依然热衷于体育领域的投资。从匹克球联赛等新兴体育项目到智能足球等体育科技产品，家族办公室正积极布局。这揭示了另类资产配置的一种新趋势，即富裕投资者将部分资金投向传统和新兴体育产业，以寻求长期稳定回报和价值增值，值得关注。",
+      "title": "远程工作增加员工孤独感，或影响长期生产力与社会资本",
+      "summary": "一项研究显示，疫情后远程工作者（相比非远程工作者）平均每天独处时间增加一小时，完全独处的天数增加，工作后的社交活动减少。这种隔离感的加剧对独居者尤为明显。长期的孤独感可能导致员工敬业度下降，影响团队协作和创新，进而对企业生产力产生深远负面影响。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/05/family-office-sport-investments.html"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/is-work-from-home-bad-for-your-mental-health.html?utm_source=rss&utm_medium=rss&utm_campaign=is-work-from-home-bad-for-your-mental-health"
         }
       ]
     }
