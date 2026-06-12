@@ -1,93 +1,88 @@
 {
   "top5": [
     {
-      "title": "SpaceX创纪录IPO引爆市场，或重塑万亿级太空经济格局",
-      "summary": "埃隆·马斯克的SpaceX公司正准备进行史上最大规模的IPO，计划筹集750亿美元，估值高达万亿美元，有望造就数千名员工成为百万富翁。此次IPO不仅是资本市场的里程碑事件，也预示着商业太空领域的巨大增长潜力和对传统华尔街的冲击，尽管标普500指数尚未将其纳入，投资者仍需关注其对大盘和相关供应链的影响。",
+      "title": "SpaceX历史性IPO估值飙升，马斯克晋升万亿富翁，预示科技巨头上市潮",
+      "summary": "埃隆·马斯克的SpaceX公司通过史上最大规模的IPO成功上市，股价首日飙升11%，使马斯克成为全球首位万亿富翁。此次IPO不仅重塑了全球财富格局，也为未来OpenAI和Anthropic等人工智能巨头的上市设定了先例。这一事件的重要性在于它将私人科技巨头带入公共市场，其估值和治理结构可能对更广泛的指数基金和机构投资者产生深远影响。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/12/business/dealbook/musks-spacex-ipo-playbook.html"
+          "url": "https://www.nytimes.com/2026/06/12/technology/elon-musk-trillionaire.html"
         },
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/12/business/dealbook/musks-spacex-ipo-playbook.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-elon-musk.html"
         },
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/spacex-ipo-hype-is-massive-and-especially-dangerous-for-investors-over-50-ae3edd10?mod=mw_rss_topstories"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/12/business/economy/spacex-openai-anthropic-billionaires-ipos.html"
         }
       ]
     },
     {
-      "title": "伊朗冲突升级致全球经济放缓，油价波动反映和平前景变化",
-      "summary": "世界银行警告，伊朗战争正在拖累全球经济增长，能源价格飙升引发新一轮通胀。英国经济在4月因冲突影响出现萎缩。与此同时，有报道称潜在的和平协议可能即将达成，导致油价下跌，股市上涨。中东地缘政治紧张局势对全球能源供应和经济稳定构成持续威胁，而和平谈判的进展将成为市场关注焦点。",
+      "title": "美国与伊朗达成和平协议，国际油价应声大幅下挫，地缘政治风险溢价减退",
+      "summary": "据巴基斯坦消息，美国与伊朗已达成一项和平协议，导致国际油价应声下跌，布伦特原油价格一度跌至伊朗冲突爆发以来的最低水平。这一进展的重要性在于它标志着关键产油地区的地缘政治紧张局势可能得到缓解，从而降低全球能源市场的不确定性，并有望缓解全球范围内的通胀压力。投资者需密切关注后续协议细节及对全球能源供需的长期影响。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/12/business/energy-environment/iran-war-oil-reserves.html"
-        },
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/oil-prices-extend-declines-on-possible-u-s-iran-peace-deal-to-reopen-strait-of-hormuz-6d2822bd?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "世界银行警告伊朗战争拖累全球经济增长，通胀压力再现",
+      "summary": "世界银行发布警告，指出伊朗战争正在导致全球经济增长放缓，同时能源价格上涨再次引发通胀。这一评估的重要性在于它从宏观层面揭示了地缘政治冲突对全球经济的广泛负面影响，不仅抑制了增长势头，还可能迫使各国央行在抗击通胀和支持经济增长之间做出艰难权衡，对全球资产配置策略产生指导意义。",
+      "sources": [
         {
           "name": "NYT Economy",
           "url": "https://www.nytimes.com/2026/06/11/business/economy/globa-economy-iran-war.html"
-        },
+        }
+      ]
+    },
+    {
+      "title": "英国经济受地缘政治冲突影响意外萎缩，欧洲增长前景承压",
+      "summary": "官方数据显示，受伊朗战争影响，英国经济在四月份出现轻微萎缩。这一区域性经济下滑的重要性在于，它具体印证了全球性地缘政治冲突对发达经济体的直接冲击，可能预示着更广泛的欧洲地区经济增长面临挑战。此数据将促使政策制定者重新评估经济前景，并可能影响英国央行的货币政策路径，投资者应关注其对英国及欧洲资产市场的影响。",
+      "sources": [
         {
           "name": "BBC Business",
           "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/global-oil-prices-drop-to-88-a-barrel-on-hopes-for-an-iran-peace-deal-as-early-as-this-weekend-6d2822bd?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "美联储与SEC发布重磅新规，旨在提升金融市场透明度与效率",
-      "summary": "美联储宣布最终规则，为特定信息收集建立数据标准，以提高金融体系的透明度和效率。同时，美国证券交易委员会（SEC）提议废除《国家市场系统条例》（Regulation NMS）中的611和610(e)条款，此举可能对市场流动性、交易成本和高频交易产生深远影响。这些监管行动旨在适应快速变化的市场环境，并对金融机构的运营和投资策略提出新要求。",
+      "title": "SEC提议废止Regulation NMS部分规则，旨在提高美国股市交易效率和公平性",
+      "summary": "美国证券交易委员会（SEC）提议废止Regulation NMS中的Rule 611和Rule 610(e)。SEC主席表示，在实施Rule 611二十年后，委员会必须审视其阻碍而非促进市场发展的意外后果。这项监管行动的重要性在于，它旨在消除可能限制市场竞争和效率的规则，有望简化市场结构，改善交易执行，从而对美国股票市场的微观结构和交易策略产生重大影响，值得专业投资者关注。",
       "sources": [
-        {
-          "name": "Federal Reserve Press",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm"
-        },
         {
           "name": "SEC Press",
           "url": "https://www.sec.gov/newsroom/press-releases/2026-54-sec-proposes-rescission-regulation-nms-rules-611-610e"
-        }
-      ]
-    },
-    {
-      "title": "AI浪潮颠覆传统研究模式，学术论文格式面临存亡挑战",
-      "summary": "一份由斯坦福、卡内基梅隆等顶尖大学37位作者合著的论文指出，在人工智能时代，沿用数百年的传统研究论文格式可能已过时。作者认为，现有格式带来了“无形税收”，阻碍了知识的有效传播和协作。这一观点预示着AI技术将深刻改变学术研究的生产、共享和消费方式，对科学知识体系和相关产业带来结构性变革。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/again-the-paper-format-will-be-dying-out.html?utm_source=rss&utm_medium=rss&utm_campaign=again-the-paper-format-will-be-dying-out"
-        }
-      ]
-    },
-    {
-      "title": "美国科学研究政策转向，联邦政府或加大对科研方向的干预",
-      "summary": "美国白宫管理和预算办公室（OMB）联合约40家联邦资助机构，提议全面修订联邦拨款规则，可能导致美国科学研究从“国家资助但不国家指导”的范式转向更具“国家指导”性质。自范内瓦·布什时代以来，联邦资金主要通过独立大学分配，但新规则可能增加政府对研究方向的控制，影响美国科技创新生态系统的长期发展和竞争力。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-nationalization-of-american-science.html?utm_source=rss&utm_medium=rss&utm_campaign=the-nationalization-of-american-science"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Ben Thompson / Ben Bajarin",
-      "title": "关于苹果、AI和计算的深度洞察",
-      "summary": "观点：原话：「苹果在人工智能和计算领域的战略定位至关重要。尽管苹果在AI方面看似步伐缓慢，但其集成度高的生态系统和自研芯片实力，使其在AI竞争中拥有独特优势，关键在于如何将AI无缝融入用户体验，而非追求纯粹的算力竞赛。」",
+      "name": "Elon Musk",
+      "title": "SpaceX IPO后晋升万亿富翁，但股权结构引发关注",
+      "summary": "原话：「SpaceX的IPO不仅使其成为全球市值最高的上市公司之一，也使我成为了世界首位万亿富翁。」同时，纽约时报指出SpaceX的股权结构似乎有利于马斯克，可能损害其他股东利益。观点：马斯克在SpaceX上市期间仍频繁参与政治和文化战争议题，其个人风格对公司治理和投资者情绪的影响值得关注。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/12/technology/elon-musk-trillionaire.html"
+        },
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/spacex-is-structured-in-a-way-that-appears-to-benefit-musk-at-the-expense-of-other-shareholders"
+        },
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/musk-posted-about-politics-race-and-the-culture-wars-even-as-he-took-spacex-public"
+        }
+      ]
+    },
+    {
+      "name": "Ben Thompson",
+      "title": "分析苹果的AI战略与计算产业现状",
+      "summary": "观点：Stratechery的Ben Thompson通过访谈Ben Bajarin等专家，在WWDC大会和苹果发布“Intelligence”后，深入探讨了苹果在AI领域，尤其是在AI计算产业中的策略与地位。他认为，苹果独特的生态系统和芯片设计能力，使其在设备端AI竞争中占据优势，但也面临云端AI模型的激烈竞争。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
@@ -97,30 +92,23 @@
     },
     {
       "name": "Tyler Cowen",
-      "title": "对美国科学研究国家化趋势的担忧",
-      "summary": "观点：原话：「美国科学研究的国家化趋势值得警惕。尽管联邦政府长期资助科研，但若从'资助但不指导'转向'国家指导'，可能扼杀独立研究精神，降低创新效率，对美国在全球科技竞争中的领导地位构成长期威胁。」",
+      "title": "预言AI时代研究论文形式的消亡与美国科学的“国有化”趋势",
+      "summary": "观点：经济学家Tyler Cowen援引一项研究指出，AI时代下持续了几个世纪的“研究论文”形式可能正在消亡，因为传统论文的“无形税负”正被AI颠覆。此外，他还评论称，美国科学资助规则的全面修改，预示着长期以来由国家资助但独立运作的美国科学模式正在向“国有化”转变，这将对科研创新和知识传播的未来产生深远影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-nationalization-of-american-science.html?utm_source=rss&utm_medium=rss&utm_campaign=the-nationalization-of-american-science"
-        }
-      ]
-    },
-    {
-      "name": "Donald Trump",
-      "title": "对美国通胀的争议性言论",
-      "summary": "观点：原话：「我喜欢通胀。当物价以三年来的最快速度上涨时，这表明经济正在增长，尽管我的本意是喜欢通胀没有更高。但通胀问题若不加以控制，将侵蚀民众购买力，影响生活水平。」此言论在经济界引起广泛关注，因为通胀对消费者购买力和企业成本有着直接影响，也可能预示着未来货币政策走向的政治干预风险。",
-      "sources": [
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/again-the-paper-format-will-be-dying-out.html"
+        },
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-nationalization-of-american-science.html"
         }
       ]
     },
     {
       "name": "Ben Carlson",
-      "title": "杠铃投资组合策略的分析",
-      "summary": "观点：原话：「在当前市场环境下，杠铃投资组合策略（Barbell Portfolio）可能比传统债券配置更具吸引力。持有大量现金而非长期债券，并在风险资产上进行集中投资，可以更好地应对不确定性和市场波动，同时保留抓住高增长机会的灵活性。」",
+      "title": "探讨杠铃投资组合在当前市场环境中的有效性",
+      "summary": "观点：知名投资博主Ben Carlson提出，在当前市场环境下，投资者是否应该考虑持有现金而非债券，并深入探讨了“杠铃投资组合”的策略。他分析了现金作为低风险资产在面对市场不确定性时的作用，以及债券在不同利率环境下的表现，为投资者提供了关于资产配置和风险管理的实用思考框架。",
       "sources": [
         {
           "name": "A Wealth of Common Sense (Ben Carlson)",
@@ -129,58 +117,48 @@
       ]
     },
     {
-      "name": "Brad Gerstner / Gavin Baker",
-      "title": "硅谷投资者揭示SpaceX最大潜在惊喜",
-      "summary": "观点：原话：「SpaceX最大的潜在惊喜在于其星链（Starlink）业务。星链的全球覆盖能力和不断增长的用户基础，可能远超市场预期，成为SpaceX估值持续增长的核心驱动力，并改变全球互联网连接的格局。」这一分析为投资者提供了理解SpaceX长期价值增长的新视角。",
+      "name": "Donald Trump",
+      "title": "对美国通胀的言论引发争议",
+      "summary": "原话：「我爱通胀。」美国前总统特朗普在CPI数据公布后对记者表示“我爱通胀”，引发广泛关注。随后他澄清称，他实际上是指他高兴通胀没有更高。这一言论虽然有解释，但其表述方式和对经济数据的高度关注，反映了政治人物对通胀议题的敏感性及其对民意和政策的潜在影响。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/heres-what-could-be-spacexs-biggest-upside-surprise-according-to-a-leading-silicon-valley-investor-e6cab034?mod=mw_rss_topstories"
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "全球能源储备消耗加剧，伊朗冲突促使和平谈判压力上升",
-      "summary": "自美国-以色列对伊朗开战以来，商业和政府持有的石油和燃料储备大幅下降，加剧了全球能源市场的紧张局势。这种消耗趋势不仅推高了能源价格，也给各国政府带来了寻求中东和平协议的更大压力，以稳定能源供应并遏制通胀。投资者需密切关注能源市场的供需变化及地缘政治动态。",
+      "title": "美联储公布数据标准最终规则，强化信息收集效率",
+      "summary": "美联储理事会宣布一项最终规则，旨在建立某些信息收集的数据标准。此举的重要性在于，它将通过标准化数据格式，提高金融机构向美联储报告信息的效率和准确性，有助于监管机构更有效地监测金融体系风险，并可能为未来的数据驱动型监管奠定基础。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/12/business/energy-environment/iran-war-oil-reserves.html"
-        },
+          "name": "Federal Reserve Press",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm"
+        }
+      ]
+    },
+    {
+      "title": "美伊和平协议后，美国银行建议的资产配置策略",
+      "summary": "美国银行分析师指出，如果美国与伊朗达成和平协议，投资者应关注特定资产类别。他们认为，随着地缘政治风险溢价的下降和油价的潜在稳定，一些此前承压的板块可能迎来机会，而另一些避险资产的吸引力则可能减弱。这为投资者提供了在地缘政治格局变化中调整投资组合的策略性参考。",
+      "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/global-oil-prices-drop-to-88-a-barrel-on-hopes-for-an-iran-peace-deal-as-early-as-this-weekend-6d2822bd?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "美国签证快车道项目启动，高净值人群可付费快速获签",
-      "summary": "美国推出一项新的快车道签证项目，允许符合条件的申请人支付750美元的额外费用，在10个工作日内获得面谈机会，从而避开长达12个月的常规等待期。此举旨在吸引国际商务旅行者和游客，为美国经济带来潜在的提振，但也引发了对签证公平性的讨论，并可能影响国际人才流动和商务往来效率。",
-      "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/06/10/travel/expedited-tourist-visa.html"
-        }
-      ]
-    },
-    {
-      "title": "美国农业高度依赖H-2A签证，劳工权益与食品供应链面临挑战",
-      "summary": "美国农场对H-2A季节性农业工人签证项目的依赖度日益增加，但该项目在保障劳工权益方面持续面临挑战。特朗普政府虽然增加了H-2A签证发放数量，但防止滥用仍困难重重，这不仅影响了移民工人的待遇，也对美国食品供应的稳定性和劳动力成本构成结构性影响，进而影响农业企业的运营成本和盈利能力。",
-      "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/06/04/business/economy/farms-h2a-visas-migrant-workers.html"
+          "url": "https://www.marketwatch.com/story/if-an-iran-peace-deal-is-agreed-these-are-the-assets-investors-should-buy-says-bank-of-america-9b3e9099?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "苹果在AI与计算领域面临战略考量",
-      "summary": "科技分析师Ben Thompson与Ben Bajarin就苹果在AI领域的战略及其计算能力进行了深入讨论，特别是在WWDC之后。他们探讨了苹果如何整合AI技术，以及其在AI芯片和数据处理方面的竞争态势。这对于理解苹果未来的产品路线图和其在日益激烈的AI军备竞赛中的定位至关重要，也影响着其供应商和竞争对手。",
+      "title": "苹果推出“Intelligence”功能，强化AI在个人设备端的应用",
+      "summary": "在近期举行的全球开发者大会（WWDC）上，苹果公司正式发布了名为“Intelligence”的AI功能集，旨在将人工智能深度集成到其各项产品和服务中。这一战略举措的重要性在于，它标志着苹果正全面拥抱AI，并试图通过其强大的硬件生态系统和用户基础，在个人设备端AI领域树立新的标杆，与云端AI巨头形成差异化竞争。",
       "sources": [
+        {
+          "name": "Stratechery (Ben Thompson)",
+          "url": "https://stratechery.com/2026/24/hey-siri-tell-me-a-fable/"
+        },
         {
           "name": "Stratechery (Ben Thompson)",
           "url": "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/"
@@ -188,150 +166,117 @@
       ]
     },
     {
-      "title": "家族理财办公室深挖太空经济投资机遇",
-      "summary": "随着SpaceX等巨头的崛起，超高净值人士的家族理财办公室对太空经济的投资兴趣日益浓厚。他们不仅关注像SpaceX这样的明星企业，更积极寻求在航天初创公司中的早期投资机会。这表明太空经济正从利基市场走向主流，成为未来数十年高增长的投资主题，涉及卫星通信、太空旅游和资源开采等多元领域。",
+      "title": "Anthropic的战略愿景与AI产业的未来发展寓言",
+      "summary": "Stratechery的Ben Thompson在最新文章中探讨了AI公司Anthropic的战略愿景，并将其描述为一个关于未来AI产业发展的“寓言”。文章深入分析了Anthropic在大型AI模型市场中可能扮演的角色、其面临的伦理挑战以及对经济政策的潜在影响，对于理解AI行业主要参与者的竞争态势、商业模式创新及社会治理考量具有战略意义。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/11/spacex-billionaire-investing.html"
+          "name": "Stratechery (Ben Thompson)",
+          "url": "https://stratechery.com/2026/hey-siri-tell-me-a-fable/"
+        },
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/thursday-assorted-links-556.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-556"
         }
       ]
     },
     {
-      "title": "AI时代论文格式变革：终结“人类书写”范式",
-      "summary": "斯坦福、CMU等多所顶尖大学的37位研究人员共同发表了一篇名为《最后一篇人类撰写论文》的文章，核心观点认为，AI时代将终结传统的学术论文格式。他们强调了现有格式所带来的“无形税”，并主张采用更适合AI协作和生成的新形式，这将对科研成果的发布、评估和知识传承产生颠覆性影响，并重塑科学传播生态系统。",
+      "title": "AMD在AI芯片领域取得突破性进展，获Meta巨额订单",
+      "summary": "花旗分析师指出，市场低估了Meta对AMD AI芯片的采购投入，表明AMD作为CPU供应商的传统认知正在被改变，其在AI加速器市场正迅速获得份额。这一进展的重要性在于，它表明AMD正在AI硬件生态系统中扮演越来越关键的角色，对英伟达的市场主导地位构成挑战，并为投资者提供了AI供应链多元化的信号，预示着市场竞争将更加激烈。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/again-the-paper-format-will-be-dying-out.html?utm_source=rss&utm_medium=rss&utm_campaign=again-the-paper-format-will-be-dying-out"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/amd-is-seen-as-a-cpu-stock-but-its-gaining-ground-here-too-69a55e0f?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "SpaceX IPO引爆投资狂潮，专家警示散户FOMO风险",
-      "summary": "埃隆·马斯克的SpaceX上市引发了前所未有的市场热潮，吸引了大量投资者关注。然而，市场观察家警告，这种“错失恐惧症”（FOMO）可能对散户投资者，尤其是接近退休年龄的投资者，构成巨大风险，过高的估值和市场波动性可能导致严重的投资损失。这凸显了在热门IPO中理性决策的重要性。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/spacex-ipo-hype-is-massive-and-especially-dangerous-for-investors-over-50-ae3edd10?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "华尔街银行受益于巨型IPO，摩根大通看好投行交易收入",
-      "summary": "摩根大通表示，投资者可能低估了SpaceX等巨型IPO给华尔街银行带来的潜在收益。大规模的IPO发行量和当前的市场波动性，预计将为高盛和摩根士丹利等顶级投资银行在第二季度带来强劲的交易收入，从而提振其业绩。这表明大型资本市场事件对金融服务行业具有直接而显著的积极影响。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/jpmorgan-says-investors-are-overlooking-the-upside-to-wall-street-banks-that-comes-from-spacex-and-other-mega-ipos-bcea99f4?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX能否“对抗”AI引力？估值质疑声渐起",
-      "summary": "随着SpaceX即将上市，市场对其高达万亿美元的估值以及能否在当前AI投资狂潮中保持吸引力，开始出现质疑。一些分析师认为，在AI领域投入巨额资金的背景下，SpaceX作为一家火箭和卫星公司，其高估值是否合理，以及其增长潜力能否持续，仍有待市场检验。这反映了市场对科技巨头估值的审慎态度。",
+      "title": "SpaceX IPO后员工财富激增，有望催生数千名百万富翁",
+      "summary": "随着SpaceX的成功上市，预计将有大约4,400名现任和前任员工通过股票期权和持股成为百万富翁，其中约20人可能晋升为亿万富翁。这一事件的重要性不仅在于其巨大的财富创造效应，也反映了高科技初创企业通过IPO实现员工股权价值释放的模式，对吸引和留住顶尖人才具有示范作用。",
       "sources": [
         {
           "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/11/business/dealbook/spacex-ipo-ai-spending.html"
+          "url": "https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html"
         }
       ]
     },
     {
-      "title": "标普500指数对SpaceX IPO持谨慎态度，指数投资者需关注",
-      "summary": "尽管SpaceX是史上最大的IPO，但标普500指数已明确表示不会立即将其纳入，这对于数万亿美元的指数基金投资者来说是一个重要信息。这意味着SpaceX的股票表现短期内不会直接影响到追踪标普500的基金，投资者应理解其对广泛市场投资组合的影响，并避免基于指数纳入的错误预期。",
+      "title": "分析师对SpaceX高达1.77万亿美元估值表示质疑",
+      "summary": "尽管SpaceX IPO表现强劲，但部分投资者和分析师对其高达1.77万亿美元的估值表示担忧，认为这可能是“空中楼阁”。估值争议的重要性在于，它提示投资者在追逐高增长科技股时需保持理性，警惕潜在的泡沫风险，并深入分析公司的基本面、盈利能力和竞争优势是否能支撑其高昂的市场预期。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html"
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/is-spacex-worth-1-77-trillion-its-a-pie-in-the-sky-some-investors-say"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX的股权结构被指偏袒马斯克，引发现有股东担忧",
+      "summary": "《纽约时报》报道指出，SpaceX的股权结构设计似乎在很大程度上偏袒了创始人埃隆·马斯克，可能导致其他股东的利益受损。这一结构性问题的重要性在于，它可能引发对公司治理、少数股东权益保护以及未来决策透明度的担忧，对于长期投资者而言，此类治理风险是评估投资价值的关键考量因素。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/spacex-is-structured-in-a-way-that-appears-to-benefit-musk-at-the-expense-of-other-shareholders"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX上市对401(k)养老金计划的潜在影响",
+      "summary": "随着SpaceX的成功IPO，拥有指数基金的401(k)养老金计划很可能很快包含SpaceX的股票。这一现象的重要性在于，它意味着即使是被动投资者，也将间接持有这家高风险、高增长的太空科技公司股票，从而改变了传统养老金投资组合的风险敞口和潜在回报，投资者应审视其养老金配置的隐含风险。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/12/upshot/spacex-stock-ipo.html"
+        },
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/spacex-is-about-to-be-in-your-401-k-whether-you-like-it-or-not"
         }
       ]
     }
   ],
-  "a_stocks": [
+  "a_stocks": [],
+  "business": [
     {
-      "title": "英国政府或阻止对中国敬业集团的赔偿支付",
-      "summary": "英国政府正考虑阻止向中国敬业集团（Jingye Group）支付赔偿金，此前英国政府决定将该集团旗下的英国钢铁公司国有化。此举引发了对外国投资保护和政府干预市场行为的担忧，可能影响中英两国的商业关系以及中国企业在英国的投资信心，为中国企业出海带来了新的不确定性。",
+      "title": "英国政府或阻止向中国公司支付英国钢铁国有化赔偿",
+      "summary": "英国政府表示，可能会阻止向中国公司敬业集团（Jingye）支付其在英国钢铁国有化后寻求的赔偿金。此举的重要性在于，它凸显了英国在关键战略性行业（如钢铁业）的国家安全考量和产业政策倾向，可能加剧与中国的贸易紧张关系，并对未来外资在英国的投资环境产生不确定性。",
       "sources": [
         {
           "name": "BBC Business",
           "url": "https://www.bbc.com/news/articles/c932gng1dglo?at_medium=RSS&at_campaign=rss"
         }
       ]
-    }
-  ],
-  "business": [
+    },
     {
-      "title": "2026年世界杯经济效应复杂，贸易战与高票价凸显全球经济变局",
-      "summary": "2026年世界杯的经济影响被认为是前所未有的复杂。贸易战、飙升的票价等因素，揭示了全球经济正在经历的深刻变化。此次赛事不仅是体育盛会，更是观察全球供应链、消费模式和地缘政治经济演变的一个窗口，其经济溢出效应远超传统体育赛事，对赞助商、媒体和旅游业都有重大影响。",
+      "title": "印度龙舌兰酒产业兴起，利用本土植物创造新市场",
+      "summary": "在印度，龙舌兰植物野外生长，新的酿酒商正利用这些本土资源创建起一个新兴的烈酒产业。这一现象的重要性在于，它展示了新兴市场如何利用当地特色农产品进行产业创新和价值创造，不仅可能带动当地经济发展，也为全球烈酒市场带来了新的竞争者和多元化产品，值得消费者和投资者关注。",
       "sources": [
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "政治广告支出创纪录，2026年中期选举驱动媒体市场",
-      "summary": "预计2026年中期选举的政治广告支出将达到创纪录水平，甚至超过总统选举年份。加州、德克萨斯州等关键州的高关注度选战，推动了本周期广告支出的提前增长。这对于媒体和广告行业而言是一个重大利好，将带来可观的收入，并可能影响媒体内容和公众舆论，值得投资者关注相关传媒公司。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/11/2026-elections-ad-spend-adimpact.html"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX造富效应显现，新晋百万富翁刺激高端消费市场",
-      "summary": "随着SpaceX上市在即，预计将有数千名员工一夜之间成为百万富翁。这些新获得财富的人群，正计划在购买豪宅、奢侈品手表和私人飞机旅行等高端消费领域大举支出。这将对奢侈品市场、高端房地产和高净值服务行业带来显著的提振效应，创造新的消费需求。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/11/spacex-millionaires-wealth-spending.html"
-        }
-      ]
-    },
-    {
-      "title": "世界杯旅游经济效应未达预期，区域差异显著",
-      "summary": "尽管对世界杯可能带来的旅游热潮抱有很高期望，但目前来看，这种旅游经济的提振效应尚未全面显现。旅游业的复苏和消费增长呈现出明显的城市和赛事差异，凸显出后疫情时代全球旅游市场的复杂性和不确定性。相关酒店、餐饮和交通企业需更精细化的定价策略和市场洞察。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/10/world-cup-travel.html"
+          "url": "https://www.bbc.com/news/articles/cdrpe4vly5mo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "FDA对新防晒霜审批延误多年，影响消费者健康与创新",
-      "summary": "尽管欧盟早在26年前就批准了新的高效防晒霜，美国食品药品监督管理局（FDA）的审批却迟滞了数十年，这使得美国消费者无法获得更先进的防晒产品。这种长期的监管惰性不仅影响了公共健康，也阻碍了相关产业的创新，凸显了监管机构效率低下的深层结构性问题，对生物医药和消费品行业带来启示。",
+      "title": "墨西哥安全与国家建设问题：毒品团伙控制大片领土，影响地区稳定",
+      "summary": "经济学家Tyler Cowen指出，墨西哥仍然不是一个成熟的民族国家，据估计，毒品团伙可能控制着其高达三分之一的领土。这一状况的重要性在于，它揭示了墨西哥深层次的结构性问题，即政治稳定性、法治和治理能力面临严峻挑战。对于投资者而言，这代表了在墨西哥投资时需要高度重视的政治风险和运营风险，可能影响供应链和市场进入策略。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/here-comes-the-sunscreen.html?utm_source=rss&utm_medium=rss&utm_campaign=here-comes-the-sunscreen"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/safety-and-nation-building-in-mexico.html?utm_source=rss&utm_medium=rss&utm_campaign=safety-and-nation-building-in-mexico"
         }
       ]
     },
     {
-      "title": "美国民众金融素养持续下降，警示长期经济风险",
-      "summary": "研究显示，美国民众的金融知识水平持续恶化，对基本财务概念的理解不佳。缺乏金融素养的人往往会在金钱事务上做出糟糕的决策，这不仅影响个人财富积累，也对整体经济稳定构成长期风险，可能加剧财富不平等并增加金融危机爆发的可能性。这提示了金融教育和咨询服务的重要性。",
+      "title": "美国科学研究资金体系的“国有化”趋势正在形成，可能影响创新生态",
+      "summary": "美国管理和预算办公室（OMB）联合约四十个联邦拨款机构，提议全面修改联邦资助规则，可能导致美国科学研究资金体系向“国有化”方向发展。这一结构性变化的重要性在于，长期以来美国科学由国家资助但独立运作的模式可能被打破，政府对研究方向的指导作用将增强，这可能影响基础研究的自由度、创新生态系统以及特定技术领域的发展速度。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/12/your-money/americans-financial-knowledge.html"
-        }
-      ]
-    },
-    {
-      "title": "印度龙舌兰酒产业兴起，新兴市场探索多元经济路径",
-      "summary": "印度野生龙舌兰植物资源丰富，一批新的酿酒商正利用这些资源创建本土的烈酒产业。这一趋势不仅为印度经济带来了新的增长点和就业机会，也展示了新兴市场在传统农业基础上，通过创新和地方特色，发展高附加值消费品产业的潜力。投资者可关注印度消费升级和地方品牌崛起的机遇。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cdrpe4vly5mo?at_medium=RSS&at_campaign=rss"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-nationalization-of-american-science.html"
         }
       ]
     }

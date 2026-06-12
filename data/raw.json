@@ -1,10 +1,31 @@
 [
   {
     "source": "Stratechery (Ben Thompson)",
+    "title": "2026.24: Hey Siri, Tell Me a Fable",
+    "link": "https://stratechery.com/2026/hey-siri-tell-me-a-fable/",
+    "summary": "The best Stratechery content from the week of June 8, 2026, including Apple finally shipping Intelligence, Anthropic's fable, and the future of European industry.",
+    "published": "Fri, 12 Jun 2026 17:00:00 +0000"
+  },
+  {
+    "source": "Stratechery (Ben Thompson)",
     "title": "An Interview with Ben Bajarin About Apple, AI, and Compute",
     "link": "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/",
     "summary": "An interview with Ben Bajarin about WWDC and the status of the AI compute industry.",
     "published": "Thu, 11 Jun 2026 10:00:00 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "Safety and nation-building in Mexico",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/06/safety-and-nation-building-in-mexico.html?utm_source=rss&utm_medium=rss&utm_campaign=safety-and-nation-building-in-mexico",
+    "summary": "<p>That is the topic of my latest Free Press column, here is one excerpt: Consider the special nature of Mexican politics. First and foremost, Mexico is still not a mature nation-state. By one estimate, drug gangs may control as much as one-third of its territory. That might sound bizarre, but from the standpoint of Mexican history, [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/safety-and-nation-building-in-mexico.html\">Safety and nation-building in Mexico</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Fri, 12 Jun 2026 17:20:30 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "Friday assorted links",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/06/friday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-576",
+    "summary": "<p>1. Is there too much free parking in NYC? (NYT) 2. New Malcolm Gladwell book forthcoming on violence in America.  Ready for pre-order. 3. Manufacturing requirements are killing gene and cell therapy. 4. &#8220;Long-term exposure to urban air pollution damages the heart even at the relatively low levels found in many developed countries, a cardiac [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/friday-assorted-links-576.html\">Friday assorted links</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Fri, 12 Jun 2026 15:37:44 +0000"
   },
   {
     "source": "Marginal Revolution (Tyler Cowen)",
@@ -49,13 +70,6 @@
     "published": "Thu, 11 Jun 2026 11:16:13 +0000"
   },
   {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "My excellent Conversation with Katja Hoyer",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/06/my-excellent-conversation-with-katja-hoyer.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-katja-hoyer",
-    "summary": "<p>Here is the audio, video, and transcript.  Here is part of the episode summary: Tyler and Katja discuss why communism made East Germans more loyal to the system while it bred dissidents in Poland and Hungary, how happy or unhappy life in the GDR actually was, Tyler’s own bleak day-trip to East Berlin in 1984, [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/my-excellent-conversation-with-katja-hoyer.html\">My excellent Conversation with Katja Hoyer</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Thu, 11 Jun 2026 05:15:39 +0000"
-  },
-  {
     "source": "A Wealth of Common Sense (Ben Carlson)",
     "title": "The Barbell Portfolio",
     "link": "https://awealthofcommonsense.com/2026/06/the-barbell-portfolio/",
@@ -71,6 +85,13 @@
   },
   {
     "source": "SEC Press",
+    "title": "SEC Appoints John Moses as Director of the Office of Investor Education and Assistance",
+    "link": "https://www.sec.gov/newsroom/press-releases/2026-55-sec-appoints-john-moses-director-office-investor-education-assistance",
+    "summary": "The Securities and Exchange Commission has appointed John Moses as Director of the agency’s Office of Investor Education and Assistance, which provides services and resources to help investors build their financial futures and protect against investment…",
+    "published": "Fri, 12 Jun 2026 12:30:00 -0400"
+  },
+  {
+    "source": "SEC Press",
     "title": "SEC Proposes Rescission of Regulation NMS Rules 611 and 610(e)",
     "link": "https://www.sec.gov/newsroom/press-releases/2026-54-sec-proposes-rescission-regulation-nms-rules-611-610e",
     "summary": "The Securities and Exchange Commission today proposed amendments to rescind Rules 611 and 610(e) of Regulation NMS.“After two decades of Rule 611, it is high time that the Commission review its unintended consequences that have hindered — rather than…",
@@ -78,73 +99,115 @@
   },
   {
     "source": "NYT Business",
-    "title": "The World Cup Could Be the Biggest Sports Gambling Event Ever",
-    "link": "https://www.nytimes.com/2026/06/12/business/world-cup-gambling.html",
-    "summary": "At a time of sluggish growth, betting sites like FanDuel and DraftKings are counting on the global soccer tournament to boost online sports gambling.",
-    "published": "Fri, 12 Jun 2026 13:46:06 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "When will SpaceX start trading?",
-    "link": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/when-will-spacex-start-trading",
+    "title": "SpaceX is structured in a way that appears to benefit Musk at the expense of other shareholders.",
+    "link": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/spacex-is-structured-in-a-way-that-appears-to-benefit-musk-at-the-expense-of-other-shareholders",
     "summary": "",
-    "published": "Fri, 12 Jun 2026 14:16:26 +0000"
+    "published": "Fri, 12 Jun 2026 18:30:06 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "Americans Aren’t Money Savvy, and They’re Only Getting Worse",
-    "link": "https://www.nytimes.com/2026/06/12/your-money/americans-financial-knowledge.html",
-    "summary": "Researchers say people with poor understanding of basic finances often make bad decisions on money matters.",
-    "published": "Fri, 12 Jun 2026 13:02:36 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/heres-the-latest",
+    "title": "Elon Musk laid out 602 goals. We counted how many he hit.",
+    "link": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/elon-musk-laid-out-602-goals-we-counted-how-many-he-hit",
     "summary": "",
-    "published": "Fri, 12 Jun 2026 13:13:35 +0000"
+    "published": "Fri, 12 Jun 2026 18:00:04 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "The Consequences of SpaceX’s Trillion-Dollar I.P.O.",
-    "link": "https://www.nytimes.com/2026/06/12/business/dealbook/musks-spacex-ipo-playbook.html",
-    "summary": "SpaceX’s trading debut is expected to smash records. Wall Street is watching to see what else it disrupts.",
-    "published": "Fri, 12 Jun 2026 11:54:20 +0000"
+    "title": "Elon Musk’s Big Bet for SpaceX",
+    "link": "https://www.nytimes.com/video/business/100000010953560/elon-musk-spacex-initial-public-offering.html",
+    "summary": "Elon Musk is taking SpaceX public and keeping almost all the power. Ryan Mac, a technology reporter for The Times, breaks down why the company’s record I.P.O. is both a big bet on Musk’s vision and a risk for investors.",
+    "published": "Fri, 12 Jun 2026 18:28:02 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "Risk Strait of Hormuz or Wait? Shipping Companies Face a Costly Dilemma.",
-    "link": "https://www.nytimes.com/2026/06/12/business/strait-hormuz-ships-iran.html",
-    "summary": "With more than 500 ships still stranded in the Persian Gulf, pressure on the shipowners and sailors is growing by the day.",
-    "published": "Fri, 12 Jun 2026 13:07:49 +0000"
+    "title": "If You Have a 401(k), How Much SpaceX Stock Will You Own?",
+    "link": "https://www.nytimes.com/2026/06/12/upshot/spacex-stock-ipo.html",
+    "summary": "If you have index funds — such as in a 401(k) — they may soon include shares of the mega company. Here’s a rough calculation.",
+    "published": "Fri, 12 Jun 2026 17:40:07 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "How SpaceX’s IPO Compares With Saudi Aramco, Uber and Others",
-    "link": "https://www.nytimes.com/2026/06/12/business/spacex-biggest-ipos-elon-musk.html",
-    "summary": "The previous record was set over six years ago. But SpaceX, whose stock begins trading on Friday, is on track to raise tens of billions of dollars more.",
-    "published": "Fri, 12 Jun 2026 09:08:14 +0000"
+    "title": "Musk posted about politics, race and the culture wars, even as he took SpaceX public.",
+    "link": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/musk-posted-about-politics-race-and-the-culture-wars-even-as-he-took-spacex-public",
+    "summary": "",
+    "published": "Fri, 12 Jun 2026 17:40:04 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "The World Is Draining Oil Reserves, Raising Pressure for a Peace Deal",
-    "link": "https://www.nytimes.com/2026/06/12/business/energy-environment/iran-war-oil-reserves.html",
-    "summary": "The amount of oil and fuel stored by businesses and governments has fallen sharply since the start of the U.S.-Israeli war against Iran.",
-    "published": "Fri, 12 Jun 2026 09:05:05 +0000"
+    "title": "SpaceX is about to be in your 401(k) whether you like it or not.",
+    "link": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/spacex-is-about-to-be-in-your-401-k-whether-you-like-it-or-not",
+    "summary": "",
+    "published": "Fri, 12 Jun 2026 19:16:23 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "A Guide to Chicago’s South Side, Home of the New Obama Center",
-    "link": "https://www.nytimes.com/2026/06/12/travel/chicago-south-side-obama-center.html",
-    "summary": "The Obama Presidential Center, opening on June 19, is poised to attract visitors to an often-overlooked area. Here’s what you’ll find in Hyde Park and beyond.",
-    "published": "Fri, 12 Jun 2026 09:00:52 +0000"
+    "title": "About 20 New Billionaires Could Be Minted by 3 Mega-I.P.O.s",
+    "link": "https://www.nytimes.com/2026/06/12/business/economy/spacex-openai-anthropic-billionaires-ipos.html",
+    "summary": "Anthropic and OpenAI could join SpaceX with their own initial public offerings, setting many employees up to become millionaires or billionaires.",
+    "published": "Fri, 12 Jun 2026 17:32:45 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "Oil Falls, Stocks Rise as Trump Signals Iran Peace Deal Takes Shape",
-    "link": "https://www.nytimes.com/2026/06/11/business/oil-gas-price-iran.html",
-    "summary": "Oil prices retreated and stocks rallied after President Trump called off plans for another day of strikes on Iran, saying that a peace deal could be within reach.",
-    "published": "Fri, 12 Jun 2026 14:08:51 +0000"
+    "title": "Blake Lively Awarded Legal Fees in Ruling After Justin Baldoni Settlement",
+    "link": "https://www.nytimes.com/2026/06/12/movies/blake-lively-legal-fees-ruling-justin-baldoni-settlement.html",
+    "summary": "The size of the award remains to be determined as it only involves the legal fees associated with part of her court battle with Mr. Baldoni, with whom she made a film.",
+    "published": "Fri, 12 Jun 2026 17:21:31 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Elon Musk Becomes World’s First Trillionaire as SpaceX Stock Begins Trading",
+    "link": "https://www.nytimes.com/2026/06/12/technology/elon-musk-trillionaire.html",
+    "summary": "With SpaceX shares soaring on their first day of trading, the world’s richest person crossed another milestone — one with 13 digits.",
+    "published": "Fri, 12 Jun 2026 16:50:26 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "SpaceX Stock Rises 11% in Largest IPO Ever",
+    "link": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-elon-musk.html",
+    "summary": "The stock market debut of Elon Musk’s rocket company paves the way for a wave of mega offerings that are coming from OpenAI and Anthropic.",
+    "published": "Fri, 12 Jun 2026 17:49:07 +0000"
+  },
+  {
+    "source": "NYT Economy",
+    "title": "SpaceX is structured in a way that appears to benefit Musk at the expense of other shareholders.",
+    "link": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/spacex-is-structured-in-a-way-that-appears-to-benefit-musk-at-the-expense-of-other-shareholders",
+    "summary": "",
+    "published": "Fri, 12 Jun 2026 18:30:06 +0000"
+  },
+  {
+    "source": "NYT Economy",
+    "title": "Elon Musk laid out 602 goals. We counted how many he hit.",
+    "link": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/elon-musk-laid-out-602-goals-we-counted-how-many-he-hit",
+    "summary": "",
+    "published": "Fri, 12 Jun 2026 18:00:04 +0000"
+  },
+  {
+    "source": "NYT Economy",
+    "title": "Musk posted about politics, race and the culture wars, even as he took SpaceX public.",
+    "link": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/musk-posted-about-politics-race-and-the-culture-wars-even-as-he-took-spacex-public",
+    "summary": "",
+    "published": "Fri, 12 Jun 2026 17:40:04 +0000"
+  },
+  {
+    "source": "NYT Economy",
+    "title": "SpaceX is about to be in your 401(k) whether you like it or not.",
+    "link": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/spacex-is-about-to-be-in-your-401-k-whether-you-like-it-or-not",
+    "summary": "",
+    "published": "Fri, 12 Jun 2026 19:16:23 +0000"
+  },
+  {
+    "source": "NYT Economy",
+    "title": "About 20 New Billionaires Could Be Minted by 3 Mega-I.P.O.s",
+    "link": "https://www.nytimes.com/2026/06/12/business/economy/spacex-openai-anthropic-billionaires-ipos.html",
+    "summary": "Anthropic and OpenAI could join SpaceX with their own initial public offerings, setting many employees up to become millionaires or billionaires.",
+    "published": "Fri, 12 Jun 2026 17:32:45 +0000"
+  },
+  {
+    "source": "NYT Economy",
+    "title": "Is SpaceX worth $1.77 trillion? It’s a pie in the sky, some investors say.",
+    "link": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/is-spacex-worth-1-77-trillion-its-a-pie-in-the-sky-some-investors-say",
+    "summary": "",
+    "published": "Fri, 12 Jun 2026 15:18:10 +0000"
   },
   {
     "source": "NYT Economy",
@@ -158,14 +221,14 @@
     "title": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/heres-the-latest",
     "summary": "",
-    "published": "Fri, 12 Jun 2026 13:13:35 +0000"
+    "published": "Fri, 12 Jun 2026 19:08:28 +0000"
   },
   {
     "source": "NYT Economy",
     "title": "SpaceX IPO: How Our Reporters Assess the Sky-High Valuation and Potential Economic Impact",
     "link": "https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html",
     "summary": "Two Times tech reporters and their editor talk about assessing the sky-high valuation of the rocket and satellite maker, the potential economic impact of its public debut and the role of the world’s richest man in it all.",
-    "published": "Thu, 11 Jun 2026 21:28:03 +0000"
+    "published": "Fri, 12 Jun 2026 17:12:53 +0000"
   },
   {
     "source": "NYT Economy",
@@ -173,20 +236,6 @@
     "link": "https://www.nytimes.com/2026/06/11/business/economy/globa-economy-iran-war.html",
     "summary": "The world economy is weakening as energy prices fuel a new bout of inflation.",
     "published": "Thu, 11 Jun 2026 17:42:23 +0000"
-  },
-  {
-    "source": "NYT Economy",
-    "title": "Need a U.S. Visa and Want to Skip a 12-Month Line? That’ll Be $750",
-    "link": "https://www.nytimes.com/2026/06/10/travel/expedited-tourist-visa.html",
-    "summary": "A new fast-track program will allow certain visa applicants to pay a premium and secure an interview within 10 business days.",
-    "published": "Thu, 11 Jun 2026 18:06:35 +0000"
-  },
-  {
-    "source": "NYT Economy",
-    "title": "American Farms Rely More Than Ever on the Troubled H-2A Visa Program",
-    "link": "https://www.nytimes.com/2026/06/04/business/economy/farms-h2a-visas-migrant-workers.html",
-    "summary": "The Trump administration is allowing in more agricultural guest workers under the H-2A program, but preventing abuses is proving difficult.",
-    "published": "Thu, 11 Jun 2026 15:43:04 +0000"
   },
   {
     "source": "NYT DealBook",
@@ -221,7 +270,7 @@
     "title": "SpaceX’s IPO Could Turn 4,400 Employees Into Millionaires",
     "link": "https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html",
     "summary": "While Elon Musk may soon become a trillionaire, his rocket company’s market debut is set to change the lives of its current and former employees, too.",
-    "published": "Thu, 11 Jun 2026 15:14:51 +0000"
+    "published": "Fri, 12 Jun 2026 15:50:11 +0000"
   },
   {
     "source": "NYT DealBook",
@@ -302,17 +351,66 @@
   },
   {
     "source": "MarketWatch Top Stories",
+    "title": "This hidden investing flaw is costing you money. Talking to political opponents fixes it.",
+    "link": "https://www.marketwatch.com/story/this-hidden-investing-flaw-is-costing-you-money-talking-to-political-opponents-fixes-it-fc1f7be3?mod=mw_rss_topstories",
+    "summary": "The stock market doesn’t care about your politics. Insisting on a portfolio that’s red or blue can forfeit a lot of green.",
+    "published": "Fri, 12 Jun 2026 18:15:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "U.S. oil prices drop to $84 a barrel after Pakistan says a U.S.-Iran peace deal has been reached",
+    "link": "https://www.marketwatch.com/story/oil-prices-extend-declines-on-possible-u-s-iran-peace-deal-to-reopen-strait-of-hormuz-6d2822bd?mod=mw_rss_topstories",
+    "summary": "Oil prices fell Friday, with the international benchmark Brent crude briefly sliding to its lowest levels since the early days of the Iran conflict, after Pakistan said a peace deal between the U.S. and Iran had been reached.",
+    "published": "Fri, 12 Jun 2026 16:55:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "I’m 55 and earn $100,000. Should I take a $2,900 monthly pension — or $2,200 with 3% annual hikes?",
+    "link": "https://www.marketwatch.com/story/im-55-and-earn-100-000-should-i-take-a-2-900-monthly-pension-or-2-200-with-3-annual-hikes-c02dc525?mod=mw_rss_topstories",
+    "summary": "“I plan to continue working until age 60.”",
+    "published": "Fri, 12 Jun 2026 16:30:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Here are all the red flags in the SpaceX IPO",
+    "link": "https://www.marketwatch.com/story/here-are-all-the-red-flags-in-the-spacex-ipo-7c55b31e?mod=mw_rss_topstories",
+    "summary": "You have to give Elon Musk credit for his vision  — and chutzpah.",
+    "published": "Fri, 12 Jun 2026 16:28:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "AMD is seen as a CPU stock — but it’s gaining ground here, too",
+    "link": "https://www.marketwatch.com/story/amd-is-seen-as-a-cpu-stock-but-its-gaining-ground-here-too-69a55e0f?mod=mw_rss_topstories",
+    "summary": "Wall Street is underestimating how much Meta will spend on AMD’s AI chips, a Citi analyst said.",
+    "published": "Fri, 12 Jun 2026 16:04:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "My company fired one manager and is doing an ‘organizational reshuffling.’ Am I in trouble?",
+    "link": "https://www.marketwatch.com/story/my-company-fired-one-manager-and-is-doing-an-organizational-reshuffling-am-i-in-trouble-6909eb40?mod=mw_rss_topstories",
+    "summary": "“They let go of a pretty high-up manager who they only hired a month ago.”",
+    "published": "Fri, 12 Jun 2026 15:18:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?",
+    "link": "https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories",
+    "summary": "“I generally withdraw money from my traditional 401(k) for projects, larger expenses and sometimes just to stay ahead on upcoming bills.”",
+    "published": "Fri, 12 Jun 2026 14:30:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "‘It seems too good to be true’: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
+    "link": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
+    "summary": "“He claimed that fixed-rate annuities are the sparkly, rainbow-fairyland of investments.”",
+    "published": "Fri, 12 Jun 2026 14:30:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
     "title": "‘I feel like he may be taking advantage of us’: Our adviser pushes annuities after we already said no. Do we fire him?",
     "link": "https://www.marketwatch.com/story/our-financial-adviser-keeps-pushing-annuities-even-after-we-said-no-should-we-fire-him-19188c98?mod=mw_rss_topstories",
     "summary": "“I feel like he may be taking advantage of us.”",
     "published": "Fri, 12 Jun 2026 13:59:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Global oil prices drop to $88 a barrel on hopes for an Iran peace deal as early as this weekend",
-    "link": "https://www.marketwatch.com/story/oil-prices-extend-declines-on-possible-u-s-iran-peace-deal-to-reopen-strait-of-hormuz-6d2822bd?mod=mw_rss_topstories",
-    "summary": "West Texas Intermediate and Brent crude fell on Friday on reports that a potential deal would lift oil sanctions on Iran.",
-    "published": "Fri, 12 Jun 2026 13:55:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
@@ -322,53 +420,11 @@
     "published": "Fri, 12 Jun 2026 13:51:00 GMT"
   },
   {
-    "source": "MarketWatch Top Stories",
-    "title": "SpaceX IPO hype is massive — and the FOMO can ruin your retirement",
-    "link": "https://www.marketwatch.com/story/spacex-ipo-hype-is-massive-and-especially-dangerous-for-investors-over-50-ae3edd10?mod=mw_rss_topstories",
-    "summary": "A stock that dips is a blip at 30. But for older investors in or near retirement, it’s a portfolio disaster.",
-    "published": "Fri, 12 Jun 2026 13:26:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "My plumber charged $160 to fix the cistern on my toilet — but created another problem. Do I pay again?",
-    "link": "https://www.marketwatch.com/story/my-plumber-charged-160-to-fix-a-problem-in-my-bathroom-but-appears-to-have-created-another-one-do-i-pay-again-f64903ae?mod=mw_rss_topstories",
-    "summary": "“The cistern on my toilet has been constantly refilling and making a hissing noise.”",
-    "published": "Fri, 12 Jun 2026 13:00:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Here’s what could be SpaceX’s biggest upside surprise, according to a leading Silicon Valley investor",
-    "link": "https://www.marketwatch.com/story/heres-what-could-be-spacexs-biggest-upside-surprise-according-to-a-leading-silicon-valley-investor-e6cab034?mod=mw_rss_topstories",
-    "summary": "Brad Gerstner and Gavin Baker discussed the SpaceX IPO as well as a possible pivot for Nvidia.",
-    "published": "Fri, 12 Jun 2026 12:16:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "My elderly mother and I own a home together. Will Medicaid force its sale?",
-    "link": "https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories",
-    "summary": "“My sister thinks Medicaid will take the house my mom and I own together.”",
-    "published": "Fri, 12 Jun 2026 12:00:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "We asked AI to predict the 2026 World Cup winner. It picked a country that’s never won.",
-    "link": "https://www.marketwatch.com/story/we-asked-ai-to-predict-the-2026-world-cup-winner-it-picked-something-that-has-never-happened-53231520?mod=mw_rss_topstories",
-    "summary": "Some 2026 World Cup predictions from AI models are going against tradition to pick the underdogs. Here’s why.",
-    "published": "Fri, 12 Jun 2026 11:32:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "JPMorgan says investors are overlooking the upside to Wall Street banks that comes from SpaceX and other mega IPOs",
-    "link": "https://www.marketwatch.com/story/jpmorgan-says-investors-are-overlooking-the-upside-to-wall-street-banks-that-comes-from-spacex-and-other-mega-ipos-bcea99f4?mod=mw_rss_topstories",
-    "summary": "Bumper IPO issuance and crazy market volatility should generate very straong trading income for the largst investment banks in the second quarter. JPMorgan makes a short-term trading call on both Goldman and Morgan Stanley",
-    "published": "Fri, 12 Jun 2026 11:14:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "‘I have no experience with investing’: I inherited $2,000. I’m 42 with two children. What should I do with this money?",
-    "link": "https://www.marketwatch.com/story/i-have-no-experience-with-investing-i-inherited-2-000-im-42-with-two-children-what-should-i-do-with-this-money-7b0de230?mod=mw_rss_topstories",
-    "summary": "“I would like the money to grow.”",
-    "published": "Fri, 12 Jun 2026 11:00:00 GMT"
+    "source": "CNBC Business",
+    "title": "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq",
+    "link": "https://www.cnbc.com/2026/06/12/elon-musk-trillionaire-spacex.html",
+    "summary": "Elon Musk's stake in SpaceX is worth more than $766 billion. Combined with his Tesla holdings, Musk's net worth as of Friday is roughly $1.05 trillion.",
+    "published": "Fri, 12 Jun 2026 18:15:31 GMT"
   },
   {
     "source": "CNBC Business",
@@ -389,7 +445,7 @@
     "title": "Beyond SpaceX: Here's where family offices see buying opportunities in the space economy",
     "link": "https://www.cnbc.com/2026/06/11/spacex-billionaire-investing.html",
     "summary": "Personal investment firms of the ultra-rich are interested in space startups even without Elon Musk's name attached.",
-    "published": "Thu, 11 Jun 2026 14:17:04 GMT"
+    "published": "Fri, 12 Jun 2026 14:50:08 GMT"
   },
   {
     "source": "CNBC Business",
@@ -403,7 +459,7 @@
     "title": "The S&P 500 already made a big call on SpaceX stock and index fund investors need to know it",
     "link": "https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html",
     "summary": "The S&amp;P 500 index, where trillions in retirement savings are invested, said no to the SpaceX IPO, the biggest in history. Here's what that means for portfolios.",
-    "published": "Fri, 12 Jun 2026 12:35:55 GMT"
+    "published": "Fri, 12 Jun 2026 15:59:09 GMT"
   },
   {
     "source": "CNBC Finance",
@@ -424,7 +480,7 @@
     "title": "SpaceX cuts retail IPO allocation to low 20% range, source says",
     "link": "https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html",
     "summary": "The Elon Musk-led company plans to direct a percentage in the low 20s of the offering to retail buyers, according to a person familiar with the matter.",
-    "published": "Thu, 11 Jun 2026 22:21:47 GMT"
+    "published": "Fri, 12 Jun 2026 14:50:28 GMT"
   },
   {
     "source": "CNBC Finance",
@@ -438,7 +494,7 @@
     "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
     "link": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
     "summary": "With SpaceX seeking an IPO valuation of nearly $1.8 trillion, early bets are poised to generate some of the biggest paper gains in venture capital history.",
-    "published": "Fri, 12 Jun 2026 13:33:00 GMT"
+    "published": "Fri, 12 Jun 2026 14:46:10 GMT"
   },
   {
     "source": "CNBC Finance",
@@ -456,13 +512,6 @@
   },
   {
     "source": "CNBC Finance",
-    "title": "KKR says AI productivity boom to keep on going — but warns of 'extreme' trend not seen since the 19th century",
-    "link": "https://www.cnbc.com/2026/06/11/ais-impact-on-economic-growth-kkr.html",
-    "summary": "KKR said in its mid-year outlook Thursday that AI will drive economic growth for years to come, but only in specific sectors.",
-    "published": "Thu, 11 Jun 2026 05:39:55 GMT"
-  },
-  {
-    "source": "CNBC Finance",
     "title": "Citigroup shares outperform down market after Trump endorsement",
     "link": "https://www.cnbc.com/2026/06/10/citigroup-shares-outperform-down-market-after-trump-endorsement.html",
     "summary": "Jane Fraser-led Citi fell 1%, less than the rest of the market and some other major banks, after Trump lauded its turnaround in a social media post.",
@@ -470,73 +519,80 @@
   },
   {
     "source": "Hacker News Top",
+    "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+    "link": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+    "summary": "<p>Article URL: <a href=\"https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/\">https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48505231\">https://news.ycombinator.com/item?id=48505231</a></p>\n<p>Points: 382</p>\n<p># Comments: 98</p>",
+    "published": "Fri, 12 Jun 2026 15:15:24 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "A Call to Action: Stop the FCC's KYC Regime",
+    "link": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
+    "summary": "<p>Article URL: <a href=\"https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/\">https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48504697\">https://news.ycombinator.com/item?id=48504697</a></p>\n<p>Points: 273</p>\n<p># Comments: 174</p>",
+    "published": "Fri, 12 Jun 2026 14:33:29 +0000"
+  },
+  {
+    "source": "Hacker News Top",
     "title": "AI agent bankrupted their operator while trying to scan DN42",
     "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-    "summary": "<p>Article URL: <a href=\"https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/\">https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48500012\">https://news.ycombinator.com/item?id=48500012</a></p>\n<p>Points: 1009</p>\n<p># Comments: 371</p>",
+    "summary": "<p>Article URL: <a href=\"https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/\">https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48500012\">https://news.ycombinator.com/item?id=48500012</a></p>\n<p>Points: 1321</p>\n<p># Comments: 475</p>",
     "published": "Fri, 12 Jun 2026 04:42:53 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Claude Fable is relentlessly proactive",
-    "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/\">https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48498573\">https://news.ycombinator.com/item?id=48498573</a></p>\n<p>Points: 594</p>\n<p># Comments: 466</p>",
-    "published": "Fri, 12 Jun 2026 01:06:51 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-    "link": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-    "summary": "<p>Article URL: <a href=\"https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf\">https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48498385\">https://news.ycombinator.com/item?id=48498385</a></p>\n<p>Points: 588</p>\n<p># Comments: 191</p>",
-    "published": "Fri, 12 Jun 2026 00:38:11 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "If you are asking for human attention, demonstrate human effort",
     "link": "https://tombedor.dev/human-attention-and-human-effort/",
-    "summary": "<p>Article URL: <a href=\"https://tombedor.dev/human-attention-and-human-effort/\">https://tombedor.dev/human-attention-and-human-effort/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48497609\">https://news.ycombinator.com/item?id=48497609</a></p>\n<p>Points: 1090</p>\n<p># Comments: 365</p>",
+    "summary": "<p>Article URL: <a href=\"https://tombedor.dev/human-attention-and-human-effort/\">https://tombedor.dev/human-attention-and-human-effort/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48497609\">https://news.ycombinator.com/item?id=48497609</a></p>\n<p>Points: 1394</p>\n<p># Comments: 440</p>",
     "published": "Thu, 11 Jun 2026 23:01:55 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
-    "link": "https://fablepool.com",
-    "summary": "<p>Article URL: <a href=\"https://fablepool.com\">https://fablepool.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48496539\">https://news.ycombinator.com/item?id=48496539</a></p>\n<p>Points: 456</p>\n<p># Comments: 247</p>",
-    "published": "Thu, 11 Jun 2026 21:17:30 +0000"
+    "source": "Ars Technica",
+    "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
+    "link": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
+    "summary": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots.",
+    "published": "Fri, 12 Jun 2026 18:03:29 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "Software is made between commits",
-    "link": "https://zed.dev/blog/introducing-deltadb",
-    "summary": "<p>Article URL: <a href=\"https://zed.dev/blog/introducing-deltadb\">https://zed.dev/blog/introducing-deltadb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48492533\">https://news.ycombinator.com/item?id=48492533</a></p>\n<p>Points: 294</p>\n<p># Comments: 201</p>",
-    "published": "Thu, 11 Jun 2026 16:28:24 +0000"
+    "source": "Ars Technica",
+    "title": "$130 billion in data center projects blocked by protests so far this year",
+    "link": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+    "summary": "Winning fight against AI data centers gives people a \"taste of political power.\"",
+    "published": "Fri, 12 Jun 2026 17:18:49 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "Claude Fable 5: mid-tier results on coding tasks",
-    "link": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-    "summary": "<p>Article URL: <a href=\"https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype\">https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48492210\">https://news.ycombinator.com/item?id=48492210</a></p>\n<p>Points: 364</p>\n<p># Comments: 206</p>",
-    "published": "Thu, 11 Jun 2026 16:03:21 +0000"
+    "source": "Ars Technica",
+    "title": "When it comes to total water use, AI data centers are a drop in the bucket",
+    "link": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+    "summary": "Even moderately sized data centers can have an outsized local impact.",
+    "published": "Fri, 12 Jun 2026 16:51:38 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "Petition to Withdraw Canada's Bill C-22",
-    "link": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-    "summary": "<p>Article URL: <a href=\"https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416\">https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48491830\">https://news.ycombinator.com/item?id=48491830</a></p>\n<p>Points: 463</p>\n<p># Comments: 147</p>",
-    "published": "Thu, 11 Jun 2026 15:37:23 +0000"
+    "source": "Ars Technica",
+    "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+    "link": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+    "summary": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites.",
+    "published": "Fri, 12 Jun 2026 16:34:36 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "MiMo Code is now released and open-source",
-    "link": "https://mimo.xiaomi.com/mimocode",
-    "summary": "<p>Article URL: <a href=\"https://mimo.xiaomi.com/mimocode\">https://mimo.xiaomi.com/mimocode</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48490826\">https://news.ycombinator.com/item?id=48490826</a></p>\n<p>Points: 524</p>\n<p># Comments: 289</p>",
-    "published": "Thu, 11 Jun 2026 14:27:19 +0000"
+    "source": "Ars Technica",
+    "title": "RFK Jr. melts down over NYT report, admits he blacklists reporters",
+    "link": "https://arstechnica.com/health/2026/06/rfk-jr-melts-down-over-nyt-report-admits-he-blacklists-reporters/",
+    "summary": "NYT reported Kennedy is disengaged. Kennedy's response seems to show NYT is right.",
+    "published": "Fri, 12 Jun 2026 16:19:44 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "Show HN: Homebrew 6.0.0",
-    "link": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-    "summary": "<p>Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default internal Homebrew JSON API, sandboxing on Linux, better defaults informed by our user survey, many brew bundle improvements, improved performance and initial support for macOS 27 (Golden Gate).<p>Happy to discuss any questions here!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48490024\">https://news.ycombinator.com/item?id=48490024</a></p>\n<p>Points: 1334</p>\n<p># Comments: 318</p>",
-    "published": "Thu, 11 Jun 2026 13:24:29 +0000"
+    "source": "Ars Technica",
+    "title": "The biggest race in the world? The 24 Hours of Le Mans is this weekend.",
+    "link": "https://arstechnica.com/cars/2026/06/the-biggest-race-in-the-world-the-24-hours-of-le-mans-is-this-weekend/",
+    "summary": "More than 350,000 spectators will watch 62 cars compete, day and night.",
+    "published": "Fri, 12 Jun 2026 15:34:37 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines",
+    "link": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
+    "summary": "Did chatbot abandon mental health guardrails when a vulnerable user pushed back?",
+    "published": "Fri, 12 Jun 2026 15:03:52 +0000"
   },
   {
     "source": "Ars Technica",
@@ -558,55 +614,6 @@
     "link": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
     "summary": "The repurposing of <em>Pokémon Go</em> data for AI training continues to draw scrutiny.",
     "published": "Fri, 12 Jun 2026 11:15:41 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Verizon sent man a refurbished phone with MDM, then deleted his data remotely",
-    "link": "https://arstechnica.com/tech-policy/2026/06/verizon-sent-man-a-refurbished-phone-with-mdm-then-deleted-his-data-remotely/",
-    "summary": "Failure raises questions about how Verizon prepares refurbished phones for new users.",
-    "published": "Fri, 12 Jun 2026 11:00:41 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Rocket Report: Nova moving through test campaign; SpaceX IPO launches Friday",
-    "link": "https://arstechnica.com/space/2026/06/rocket-report-nova-moving-through-test-campaign-spacex-ipo-launches-friday/",
-    "summary": "\"If I needed to fly on another vehicle, what would that look like?\"",
-    "published": "Fri, 12 Jun 2026 11:00:13 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act",
-    "link": "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
-    "summary": "Cruz/Wyden bill would help Americans sue federal officials over censorship.",
-    "published": "Thu, 11 Jun 2026 19:31:37 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "AcuRite admits new app falls short, delays old app’s May shutdown to fix problems",
-    "link": "https://arstechnica.com/gadgets/2026/06/iot-gadget-firm-acurite-delays-forced-app-migration-due-to-new-apps-shortfalls/",
-    "summary": "The old app \"still needs to be retired,\" AcuRite tells us.",
-    "published": "Thu, 11 Jun 2026 19:08:54 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "After nearly breaking, NASA's Deep Space Network \"worked well\" on Artemis II",
-    "link": "https://arstechnica.com/space/2026/06/after-nearly-breaking-nasas-deep-space-network-worked-well-on-artemis-ii/",
-    "summary": "\"Some missions are using more than what their paperwork would say.\"",
-    "published": "Thu, 11 Jun 2026 18:34:01 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "F1 teams spend millions on their simulators—what makes them different?",
-    "link": "https://arstechnica.com/cars/2026/06/whats-so-special-about-a-formula-1-driver-in-the-loop-simulator/",
-    "summary": "Latency, bandwidth, and fidelity all matter when you're chasing milliseconds.",
-    "published": "Thu, 11 Jun 2026 18:18:12 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Did Iron Age Britons remove brains of the dead?",
-    "link": "https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/",
-    "summary": "Archaeologists found apparent scrape marks inside a skull; long bones may have been sharpened into tools.",
-    "published": "Thu, 11 Jun 2026 17:21:53 +0000"
   },
   {
     "source": "MIT Tech Review",
