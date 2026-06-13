@@ -1,16 +1,16 @@
 {
   "top5": [
     {
-      "title": "SpaceX创纪录上市，马斯克成为全球首位万亿富翁",
-      "summary": "埃隆·马斯克的SpaceX公司在纳斯达克成功上市，估值高达2.2万亿美元，通过首次公开募股筹集了750亿美元，创下历史纪录。受此推动，马斯克的个人净资产飙升至约1.05万亿美元，使其成为全球首位万亿富翁。这不仅是金融史上的里程碑事件，也预示着私营航天产业的巨大潜力。同时，高达1.77万亿美元的估值引发了部分投资者的泡沫担忧，并可能对整体科技股市场情绪产生影响。",
+      "title": "马斯克身价突破万亿美元，SpaceX 首次公开募股估值达2.2万亿美元",
+      "summary": "埃隆·马斯克凭借旗下太空探索技术公司SpaceX在纳斯达克上市后的强劲表现，成为全球首位万亿富翁，其净资产达到约1.05万亿美元。SpaceX的首次公开募股（IPO）以2.2万亿美元的估值创下历史纪录，吸引了巨大关注。此次IPO不仅改变了数千名员工的财富状况，也反映了市场对太空经济和尖端科技公司的高度热情。为什么重要：这不仅是个人财富史上的里程碑，也标志着太空经济的巨大潜力和资本市场对创新科技的极度追捧。其万亿估值将对科技股估值产生深远影响，并可能引发对市场泡沫化的担忧。",
       "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss"
-        },
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "CNBC Business",
@@ -20,7 +20,7 @@
     },
     {
       "title": "美国司法部批准派拉蒙-华纳兄弟1110亿美元合并案",
-      "summary": "美国司法部已批准派拉蒙与华纳兄弟探索公司（Warner Bros. Discovery）之间价值1110亿美元的合并案。此项交易将整合两大电影工作室，并使CNN与CBS新闻置于同一屋檐下，尽管仍可能面临州检察长的法律挑战。这笔超级合并将催生一个娱乐巨头，深刻改变全球媒体和内容分发格局，对行业竞争、市场份额以及未来内容战略产生深远影响。",
+      "summary": "美国司法部已批准派拉蒙全球（Paramount Global）与华纳兄弟探索（Warner Bros. Discovery）之间高达1110亿美元的合并交易。此项协议将把两大主要电影工作室整合，并可能使CNN和CBS新闻归于同一屋檐下。此举有望重塑媒体格局，提高行业集中度。为什么重要：这笔巨额合并案将对全球媒体和娱乐行业产生深远影响，增强合并后公司在流媒体竞争中的地位，并可能引发更多行业整合。投资者需关注其对内容制作、分发及广告市场的长期影响。",
       "sources": [
         {
           "name": "NYT Business",
@@ -33,40 +33,36 @@
       ]
     },
     {
-      "title": "英国经济因地缘冲突影响萎缩，能源进口面临转型",
-      "summary": "官方数据显示，受伊朗战争影响，英国经济在4月份出现轻微萎缩。与此同时，英国政府承诺在新年前逐步停止从俄罗斯进口柴油和航空燃料，作为对莫斯科制裁措施的一部分。这表明地缘政治冲突正对主要经济体的宏观表现产生直接负面影响，同时也凸显了全球能源供应链的脆弱性，促使各国加速能源来源多元化，可能推高相关能源商品价格。",
+      "title": "美国发布出口管制指令，限制外国获取Fable 5和Mythos 5等先进AI模型",
+      "summary": "美国政府以国家安全为由，发布了一项出口管制指令，暂停所有外国公民（包括在美国境内或境外的外国Anthropic员工）访问Fable 5和Mythos 5等先进AI模型的权限。此举旨在限制敏感AI技术向外部的传播，引发了对全球AI研发合作和人才流动的担忧。为什么重要：这是美国在AI领域收紧技术管制的重大举措，预示着AI“技术冷战”的升级。它将直接影响全球AI公司的研发策略、国际合作及人才招募，尤其对那些依赖美国AI基础模型进行开发的国家和企业构成挑战。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/sometimes-it-is-hard-to-solve-for-the-equilibrium.html?utm_source=rss&utm_medium=rss&utm_campaign=sometimes-it-is-hard-to-solve-for-the-equilibrium"
+        }
+      ]
+    },
+    {
+      "title": "英国经济因伊朗战争影响收缩，面临能源与供应链挑战",
+      "summary": "官方数据显示，受伊朗战争影响，英国经济在4月份出现小幅收缩。这场地缘冲突对全球能源价格和供应链造成冲击，导致英国商业活动放缓，消费者信心下降。为什么重要：英国经济的收缩是地缘政治冲突对全球宏观经济产生直接负面影响的又一例证。投资者应关注此类事件对全球供应链、通胀压力以及各国央行货币政策的潜在影响，特别是对欧洲经济增长前景的担忧。",
       "sources": [
         {
           "name": "BBC Business",
           "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "美国财富不平等加剧，薪资停滞与AI就业担忧并行",
-      "summary": "随着埃隆·马斯克等超级富豪的财富飙升至万亿级别，美国普通民众却面临薪资增长停滞和日益上升的物价压力，同时对人工智能引发的失业潮感到担忧。财富的极端集中与中产阶级的萎缩形成鲜明对比。这种日益扩大的财富差距是当前宏观经济和社会结构面临的核心挑战，可能影响消费支出、社会稳定，并促使政府在税收、劳工政策等方面寻求干预，对长期投资环境构成复杂影响。",
+      "title": "市场担忧大型IPO热潮预示股市泡沫风险",
+      "summary": "随着SpaceX等科技巨头以天价估值进行IPO，市场普遍弥漫着一种狂热情绪，将科技股推向了前所未有的高位。评论员指出，这种过度乐观的氛围可能预示着股市泡沫正在形成，并提醒投资者需保持谨慎。为什么重要：创纪录的IPO估值和市场热情，既反映了对新经济增长点的追捧，也引发了对资产估值过高、市场可能面临调整的担忧。投资者需评估风险，警惕历史泡沫重演的可能性，并关注资金流向的变化。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html"
+          "url": "https://www.nytimes.com/2026/06/13/business/spacex-ipo-musk-stock-bubble.html"
         },
         {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/06/1-trillion-etfs-wealth-inequality-and-the-shrinking-middle-class/"
-        }
-      ]
-    },
-    {
-      "title": "Ben Thompson：Apple Intelligence标志AI新阶段，欧洲产业面临结构性挑战",
-      "summary": "著名科技分析师本·汤普森（Ben Thompson）指出，苹果公司终于发布“Apple Intelligence”标志着消费者级AI的新阶段。他同时提及Anthropic的“寓言”以及欧洲工业的未来，暗示欧洲在全球科技竞争中可能面临结构性劣势。汤普森的分析为高净值投资者提供了关于全球科技战略和地缘经济竞争的关键洞察，揭示了AI如何重塑科技巨头格局以及不同区域经济体在新兴技术浪潮中的机遇与挑战。",
-      "sources": [
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/hey-siri-tell-me-a-fable/"
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/is-spacex-worth-1-77-trillion-its-a-pie-in-the-sky-some-investors-say"
         }
       ]
     }
@@ -74,27 +70,23 @@
   "people": [
     {
       "name": "Elon Musk",
-      "title": "成为全球首位万亿富翁，SpaceX上市策略引发关注",
-      "summary": "马斯克在SpaceX成功上市后，个人净资产突破万亿大关，创造了历史。SpaceX的上市策略和其在公司架构中对马斯克权力的巩固，以及他对政治和文化战争的公开参与，都成为市场和投资者关注的焦点。",
+      "title": "SpaceX IPO推动其成为全球首位万亿富翁，但公司结构引发股权争议",
+      "summary": "原话：「我最初认为SpaceX成功的几率不到10%。」马斯克对SpaceX的成功表示惊讶。虽然SpaceX的IPO使其成为全球首位万亿富翁，并创下高达2.2万亿美元的估值，但有报道指出，SpaceX的公司结构似乎有利于马斯克本人，而牺牲了其他股东的利益，引发了公司治理和少数股东权益的关注。为什么重要：马斯克的财富里程碑与其公司治理结构争议并存，提醒投资者在追逐高增长公司时需审慎评估内部风险。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html"
         },
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html"
-        },
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/12/elon-musk-trillionaire-spacex.html"
+          "url": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/spacex-is-structured-in-a-way-that-appears-to-benefit-musk-at-the-expense-of-other-shareholders"
         }
       ]
     },
     {
       "name": "Ben Thompson",
-      "title": "观点：Apple Intelligence开启AI新篇章，欧洲产业战略需警惕",
-      "summary": "原话：「苹果终于推出了 Intelligence，这开启了消费者AI的新阶段。」他强调了这一发布对科技生态系统的影响，并进一步讨论了大型语言模型公司Anthropic的策略及未来欧洲工业可能面临的结构性挑战，认为欧洲需要审视其在全球科技竞争中的定位。",
+      "title": "观点：苹果“智能（Intelligence）”的发布与Anthropic的AI寓言揭示行业趋势",
+      "summary": "观点：Ben Thompson 在 Stratechery 中评论了苹果公司终于发布其“智能”功能，认为这标志着AI技术在主流消费级产品中的落地。他还提到了Anthropic的AI寓言，可能暗示了AI公司在发展过程中面临的伦理、监管和地缘政治挑战，以及欧洲工业在AI时代的未来地位。为什么重要：Thompson的分析为投资者提供了理解AI技术如何从底层创新走向实际应用，以及其所面临的宏观环境挑战的视角，对判断科技巨头的长期战略布局至关重要。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
@@ -104,23 +96,19 @@
     },
     {
       "name": "Tyler Cowen",
-      "title": "观点：AI将终结传统研究论文形式，美国社会服务模式正在改变",
-      "summary": "观点：科文教授指出，AI时代将导致传统研究论文格式的消亡，因为AI能更高效地生成和整合知识，从而改变学术和信息传播范式。他还观察到，美国作为一个24/7运作的社会，其便利性相比十年前有所下降，反映出深刻的社会经济结构变化。",
+      "title": "观点：美国政府对AI模型的出口管制措施恐难实现平衡，警示地缘政治对技术发展的冲击",
+      "summary": "观点：Tyler Cowen 在 Marginal Revolution 中指出，美国政府以国家安全为由，对Fable 5和Mythos 5等先进AI模型实施出口管制，暂停外国公民访问权限。他暗示此类政策往往难以实现预期的“平衡”效果，可能在抑制潜在威胁的同时，也阻碍了全球AI创新和技术交流，对全球技术生态系统造成深远冲击。为什么重要：作为经济学家，Cowen的观点强调了政府干预对前沿科技领域可能产生的复杂影响，提醒投资者关注政策风险及其对全球化技术供应链的长期扭曲效应。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/again-the-paper-format-will-be-dying-out.html?utm_source=rss&utm_medium=rss&utm_campaign=again-the-paper-format-will-be-dying-out"
-        },
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/why-is-america-less-of-a-24-7-society.html?utm_source=rss&utm_medium=rss&utm_campaign=why-is-america-less-of-a-24-7-society"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/sometimes-it-is-hard-to-solve-for-the-equilibrium.html?utm_source=rss&utm_medium=rss&utm_campaign=sometimes-it-is-hard-to-solve-for-the-equilibrium"
         }
       ]
     },
     {
       "name": "Ben Carlson",
-      "title": "观点：万亿美元ETF与财富不平等加剧中产阶级萎缩",
-      "summary": "观点：本·卡尔森探讨了万亿美元级ETF的兴起对投资和财富分配的影响。他认为，在超级富豪财富 surging 的同时，美国中产阶级正在萎缩，财富不平等问题日益严重。他警示这种结构性变化将对社会经济稳定和长期投资趋势造成影响。",
+      "title": "观点：万亿美元ETF与财富不均加剧，美国中产阶级面临缩水困境",
+      "summary": "观点：Ben Carlson 在 A Wealth of Common Sense 中探讨了投资和财富领域同时发生的两个现象：万亿美元规模ETF的兴起，以及日益加剧的财富不均和中产阶级缩水。他认为，在工资停滞、物价上涨以及AI可能导致失业的背景下，普通美国人的不满情绪加剧。为什么重要：Carlson的分析揭示了宏观经济中财富分配的深层结构性问题，这不仅影响社会稳定，也可能对消费模式、政治决策以及未来的投资回报产生长期影响。",
       "sources": [
         {
           "name": "A Wealth of Common Sense (Ben Carlson)",
@@ -135,116 +123,52 @@
   ],
   "macro": [
     {
-      "title": "英国经济受地缘政治冲击，能源转型加速",
-      "summary": "英国国家统计局数据显示，受伊朗战争影响，英国经济在四月份出现小幅收缩。为应对地缘政治风险，英国政府宣布计划在年底前逐步停止所有俄罗斯柴油和航空燃料的进口，此举将重塑其能源供应链，并可能导致能源价格波动。经济数据下滑直接反映了地缘冲突对发达经济体的冲击，而能源政策的重大调整则预示着全球能源市场的进一步重构和相关行业的投资机遇与风险。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "美国财富不平等与中产阶级萎缩问题突出",
-      "summary": "随着顶级富豪财富的不断累积，美国工薪阶层面临薪资下降和物价上涨的双重压力，同时对AI带来的失业风险感到焦虑。这种财富分配的严重失衡导致中产阶级规模持续缩小，引发广泛的社会和经济担忧。财富不平等加剧是影响美国经济长期增长潜力的结构性问题，可能制约消费需求，加剧社会矛盾，并促使政策制定者寻求收入再分配或劳动力市场干预措施。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html"
-        },
-        {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/06/1-trillion-etfs-wealth-inequality-and-the-shrinking-middle-class/"
-        }
-      ]
-    },
-    {
-      "title": "霍尔木兹海峡石油运输依然受限，全球能源安全承压",
-      "summary": "尽管美国提供了援助，但霍尔木兹海峡的商业船只石油运输量远低于战争爆发前的水平。这条关键航运通道的持续不畅，对全球石油供应稳定性构成威胁。霍尔木兹海峡是全球重要的石油运输咽喉，其受阻直接影响原油价格和能源市场预期，增加全球经济的不确定性，并迫使各国寻求替代能源和运输路线。",
+      "title": "美国对霍尔木兹海峡石油运输援助效果有限",
+      "summary": "尽管美国政府提供了援助，但通过霍尔木兹海峡的商业船只运输的石油量仍远低于战前水平。特朗普总统称有超过200艘商船安全通过海峡，但这相对于战争爆发前的数量仍显著偏低。为什么重要：这表明地缘政治紧张局势对关键能源运输通道的长期影响，即使有外部干预也难以完全恢复。这对全球石油供应和价格稳定构成潜在风险，投资者需密切关注该地区的动态。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/06/13/business/oil-strait-of-hormuz.html"
         }
       ]
+    },
+    {
+      "title": "英国承诺在年底前逐步淘汰俄罗斯柴油和航空燃料进口",
+      "summary": "作为对俄罗斯与乌克兰战争制裁方案的一部分，英国政府宣布承诺在今年年底前逐步停止从俄罗斯进口柴油和航空燃料。此举旨在进一步切断俄罗斯的能源收入来源，加大对其经济的压力。为什么重要：这反映了西方国家继续利用能源制裁作为地缘政治工具，可能导致全球能源市场供应链重组和价格波动。对英国而言，这要求其寻找新的能源供应来源，并可能影响其能源成本和工业竞争力。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
     }
   ],
   "tech": [
     {
-      "title": "Apple Intelligence正式发布，开启消费者AI新阶段",
-      "summary": "苹果公司终于推出了备受期待的“Apple Intelligence”功能，标志着这家科技巨头正式全面进军人工智能领域。这一举措预计将重新定义用户与设备的交互方式，并在智能手机生态系统中引发新一轮的AI创新竞争。作为全球最大的消费电子公司之一，苹果的深度参与将加速AI技术的普及和应用，推动整个科技行业向更加智能化、个性化的方向发展，对相关产业链和竞争格局产生深远影响。",
+      "title": "基因和细胞疗法因生产要求面临发展瓶颈",
+      "summary": "尽管基因和细胞疗法具有巨大潜力，但严格的生产要求正在阻碍其大规模发展和商业化。从研发到临床应用，这些疗法对生产环境、质量控制和合规性有着极高的标准，导致成本高昂且效率低下。为什么重要：这揭示了生物科技领域从实验室走向市场的关键挑战。对于投资者而言，理解这一瓶颈对于评估相关公司的投资价值至关重要，特别是那些能够创新生产工艺或提供关键基础设施的玩家。",
       "sources": [
         {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/hey-siri-tell-me-a-fable/"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/friday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-576"
         }
       ]
     },
     {
-      "title": "AI技术或将终结传统研究论文形式",
-      "summary": "一项由斯坦福、卡内基梅隆等大学学者合著的论文指出，在AI时代，我们沿用了几个世纪的传统研究论文格式可能已过时。AI能够更高效地处理、分析和整合信息，将改变知识的生产和传播方式。这项前瞻性观点揭示了AI对知识创造和学术生态的颠覆性影响，预示着未来研究范式、信息产业以及高等教育可能发生的根本性变革，对投资者评估相关领域的长期趋势至关重要。",
+      "title": "AI时代研究论文形式面临淘汰，传统学术传播模式受挑战",
+      "summary": "有学者提出，随着人工智能技术的发展，我们沿用了几个世纪的研究论文格式可能在AI时代变得过时。论文作者指出，传统的论文模式存在“隐性成本”，AI技术将改变知识生产和传播的方式，预示着学术交流和知识产业的结构性变革。为什么重要：这一观点触及了AI对知识经济和信息产业深层结构的影响，可能改变学术出版、研究评估甚至教育模式。对于长期投资者而言，这代表了信息消费和内容生产领域潜在的范式转移。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
           "url": "https://marginalrevolution.com/marginalrevolution/2026/06/again-the-paper-format-will-be-dying-out.html?utm_source=rss&utm_medium=rss&utm_campaign=again-the-paper-format-will-be-dying-out"
         }
       ]
-    },
-    {
-      "title": "欧洲工业面临全球科技竞争的结构性挑战",
-      "summary": "科技评论员Ben Thompson在分析中提及欧洲工业的未来，暗示其在全球科技竞争，特别是AI浪潮中，可能面临结构性劣势和挑战。这促使人们重新审视欧洲在数字经济时代的核心竞争力。欧洲传统工业在全球市场中的地位正受到新兴技术和地缘政治格局的冲击，这对于关注全球产业链布局、区域经济发展和跨国投资的投资者而言，是一个需要警惕的长期结构性风险。",
-      "sources": [
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/24/hey-siri-tell-me-a-fable/"
-        }
-      ]
     }
   ],
   "us_stocks": [
     {
-      "title": "SpaceX创纪录IPO引发估值争议与市场狂热",
-      "summary": "埃隆·马斯克的SpaceX公司以2.2万亿美元的估值在纳斯达克上市，并筹集了750亿美元，成为史上规模最大的IPO。然而，一些投资者对1.77万亿美元的“天价”估值表示质疑，认为市场存在泡沫。同时，此举可能催生约20位新亿万富翁，凸显了科技IPO的财富创造效应。此次IPO不仅刷新了市场纪录，也反映出投资者对颠覆性技术的狂热追捧。估值争议和财富效应预示着当前美股市场的高风险与高回报并存，值得投资者审慎评估。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/is-spacex-worth-1-77-trillion-its-a-pie-in-the-sky-some-investors-say"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/how-elon-musk-nailed-the-spacex-ipo-im-not-sure-that-this-could-have-gone-much-better-8149d479?mod=mw_rss_topstories"
-        },
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/11/spacex-millionaires-wealth-spending.html"
-        }
-      ]
-    },
-    {
-      "title": "派拉蒙-华纳兄弟巨额合并案获美国司法部批准",
-      "summary": "美国司法部已通过了派拉蒙和华纳兄弟探索公司（Warner Bros. Discovery）之间高达1110亿美元的合并交易。此项合并有望在娱乐行业打造一个巨无霸，将包括好莱坞的两大主要电影工作室以及CNN、CBS新闻等重要媒体资产。这笔交易是媒体行业近年来的最大并购之一，将显著改变市场竞争格局、内容制作与分发策略，并可能对其他媒体公司的估值和战略选择产生连锁反应，值得投资者密切关注。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html"
-        },
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/12/paramount-wbd-merger-approval-doj.html"
-        }
-      ]
-    },
-    {
-      "title": "价值股表现强劲，跑赢成长股",
-      "summary": "近期市场数据显示，价值股正以显著优势跑赢成长股，并录得可观涨幅。投资者对科技股以外的更广泛盈利增长前景持乐观态度，推动了这一趋势。这一市场轮动迹象对投资组合配置具有重要指导意义。如果价值股的强势并非昙花一现，可能意味着市场风险偏好的转变，投资者需要重新评估成长型与价值型投资的相对吸引力。",
+      "title": "价值股表现显著优于成长股，市场关注盈利增长多元化",
+      "summary": "今年以来，价值股表现出强劲涨势，大幅跑赢成长股。投资者似乎对科技股以外的盈利增长前景持乐观态度，推动了市场风格的转变。分析认为，这并非“昙花一现”的现象，表明市场正在寻找更广泛的增长动力。为什么重要：这是市场结构性变化的信号，可能预示着资金从长期以来由科技巨头主导的成长股转向更广泛的经济领域。投资者应重新评估其投资组合的风格配置，关注传统行业的盈利改善和估值优势。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -253,13 +177,9 @@
       ]
     },
     {
-      "title": "SpaceX通过指数基金进入401(k)退休账户",
-      "summary": "尽管SpaceX是新上市的巨头，但数万亿美元的退休储蓄，尤其是投资于S&P 500指数基金的资金，都将自动配置SpaceX的股票。这意味着许多投资者无论是否主动选择，都将被动持有这家高估值公司。这种被动投资带来的影响是巨大的，它将SpaceX的风险敞口引入了广阔的退休金市场。投资者需要了解其401(k)或其他指数基金可能存在的集中风险和高估值敞口。",
+      "title": "标普500指数未将SpaceX纳入，对指数基金投资者产生影响",
+      "summary": "尽管SpaceX进行了史上最大规模的IPO，但标普500指数决定暂时不将其纳入指数。这一决定对追踪标普500的万亿美元规模指数基金和退休金投资者意味着，他们将不会通过被动投资立即持有SpaceX股票。为什么重要：这一决策凸显了大型IPO在指数纳入上的复杂性，以及指数委员会对公司治理、流动性等因素的考量。对于依赖指数基金的被动投资者而言，这意味着他们可能错过某些高增长潜力的新上市公司，也提示了指数构成对投资组合的影响。",
       "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/spacex-is-about-to-be-in-your-401-k-whether-you-like-it-or-not"
-        },
         {
           "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html"
@@ -270,18 +190,8 @@
   "a_stocks": [],
   "business": [
     {
-      "title": "霍尔木兹海峡石油运输仍受阻，全球油市承压",
-      "summary": "尽管美国已介入协助，但通过霍尔木兹海峡的商业油轮数量仍远低于冲突前的水平。这一关键航道的持续受阻，导致全球石油供应面临不确定性，可能推高国际油价。霍尔木兹海峡是全球20%以上石油贸易的必经之路，其运输效率和安全性直接影响全球能源市场。对能源企业、依赖石油进口的国家以及物流行业而言，这都是一个不容忽视的运营和成本风险。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/13/business/oil-strait-of-hormuz.html"
-        }
-      ]
-    },
-    {
-      "title": "英国政府或阻止对中国钢铁企业进行赔付",
-      "summary": "英国政府正在权衡是否阻止向英国钢铁（British Steel）的中国所有者敬业集团支付赔偿。此前，英国政府决定将该公司国有化，引发了敬业集团的索赔要求。这一事件凸显了外国投资在特定行业可能面临的政治风险，尤其是在战略性或受困行业。它可能影响未来中国企业对英投资意愿，并对英国的营商环境声誉造成损害。",
+      "title": "英国政府或阻止向英国钢铁所有者支付赔偿",
+      "summary": "英国政府暗示可能阻止向中国敬业集团旗下的英国钢铁公司（British Steel）所有者支付赔偿。此前，英国政府决定将该公司国有化，而敬业集团正寻求赔偿。此举凸显了政府在关键工业资产处置上的复杂性和不确定性。为什么重要：这可能影响外国投资者在英国投资的信心，并引发对政府干预市场边界的讨论。对于投资者而言，需关注此类事件对国际投资条约和商业环境的影响。",
       "sources": [
         {
           "name": "BBC Business",
@@ -292,8 +202,8 @@
   ],
   "overlooked": [
     {
-      "title": "美国社会24/7便利模式的衰退",
-      "summary": "经济学家泰勒·科文（Tyler Cowen）观察到，与十年前甚至三十年前相比，美国社会提供24/7服务的场所和便利程度显著下降。他认为，这种变化反映了更深层次的社会和劳动力市场结构性转变。这种趋势可能影响消费行为、零售业运营模式、城市规划以及居民生活方式，对实体经济和服务业的长期投资策略具有参考价值。它也可能反映出劳动力成本上升和消费者偏好改变等因素。",
+      "title": "美国社会24小时运营程度下降，生活方式与商业模式面临转变",
+      "summary": "Tyler Cowen 观察到，与10、20甚至30年前相比，美国社会24小时不间断运营的程度显著下降。过去随处可见的24小时超市和便利店变得稀少，这可能反映了劳动力市场变化、消费者行为转变或技术进步对服务模式的影响。为什么重要：这种社会生活方式的结构性变化可能会影响零售、服务、物流等多个行业的商业模式和投资机会。投资者可以关注消费者习惯的演变以及企业如何调整其运营策略以适应这一趋势。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -302,22 +212,12 @@
       ]
     },
     {
-      "title": "墨西哥面临毒品帮派控制三分之一领土的国家建设挑战",
-      "summary": "泰勒·科文在其专栏中指出，墨西哥作为一个尚未完全成熟的民族国家，其领土高达三分之一可能受到毒品帮派的控制。这种局势对墨西哥的国家安全、法治以及经济发展构成严峻挑战。墨西哥的内部不稳定对其“近岸外包”（nearshoring）的吸引力、区域供应链的可靠性以及与美国之间的贸易和移民政策都将产生重大影响。对于寻求在拉美投资或关注北美自贸区的投资者而言，这是一个重要的风险因素。",
+      "title": "墨西哥安全与国家建设面临挑战，毒品帮派控制大片领土",
+      "summary": "墨西哥作为一个新兴市场国家，其安全和国家建设面临严峻挑战。据估计，毒品帮派可能控制了该国多达三分之一的领土。这种内部不稳定性长期存在，并对墨西哥的经济发展、法治环境和外部投资构成显著风险。为什么重要：对于关注新兴市场的投资者而言，理解墨西哥内部的结构性问题至关重要。毒品帮派的广泛控制不仅影响当地社会秩序，也可能阻碍基础设施建设、资源开发和长期经济增长，对投资决策带来不确定性。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
           "url": "https://marginalrevolution.com/marginalrevolution/2026/06/safety-and-nation-building-in-mexico.html?utm_source=rss&utm_medium=rss&utm_campaign=safety-and-nation-building-in-mexico"
-        }
-      ]
-    },
-    {
-      "title": "家族办公室积极布局SpaceX以外的太空经济",
-      "summary": "超高净值人群的家族办公室正在积极寻求SpaceX之外的太空经济投资机会，尤其关注各类太空初创企业。这表明太空产业的投资热潮不仅限于明星公司，更广泛的生态系统正在吸引资本关注。家族办公室的投资偏好往往能预示未来趋势，其对多元化太空资产的兴趣表明，太空经济已成为一个独立且高增长的投资主题，涵盖卫星通信、太空旅游、资源开采等多个细分领域，为早期和风险投资者提供了丰富机会。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/11/spacex-billionaire-investing.html"
         }
       ]
     }
