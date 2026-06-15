@@ -1,5 +1,47 @@
 [
   {
+    "source": "Stratechery (Ben Thompson)",
+    "title": "Anthropic’s Safety Superpower",
+    "link": "https://stratechery.com/2026/anthropics-safety-superpower/",
+    "summary": "Anthropic's belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
+    "published": "Mon, 15 Jun 2026 10:00:00 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "Monday assorted links",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/06/monday-assorted-links-564.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-564",
+    "summary": "<p>1. A survey on slow Mexican economic growth. 2. Jason Furman on Social Security (NYT). 3. Markets in everything, customized water edition. 4. AI progress in Rio de Janeiro. 5. Satya Nadella does Oliver Williamson. 6. A shared feed of my guest appearances. 7. Results on the Great Recession and U.S. fertility. 8. Nice words [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/monday-assorted-links-564.html\">Monday assorted links</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Mon, 15 Jun 2026 15:38:44 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "Republic of Ireland (China) fact of the day",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/06/republic-of-ireland-china-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=republic-of-ireland-china-fact-of-the-day",
+    "summary": "<p>Sam Enright emails me: In the most recent census (2022), 1,017,437 people in Ireland were born abroad. Even if you classify people from Taiwan as &#8220;foreigners&#8221;, there are 845,697 + 157,886 = 1,003,583 immigrants to China. There are now more foreigners in Ireland than in China in absolute terms, despite having a population that is 260 times smaller.</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/republic-of-ireland-china-fact-of-the-day.html\">Republic of Ireland (China) fact of the day</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Mon, 15 Jun 2026 11:54:45 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "Who Leads? Relative Age Effects on Social Capital",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/06/who-leads-relative-age-effects-on-social-capital.html?utm_source=rss&utm_medium=rss&utm_campaign=who-leads-relative-age-effects-on-social-capital",
+    "summary": "<p>A fascinating paper and result: This paper studies the causal effect of being the oldest within a school cohort on social capital. Using a fuzzy regression discontinuity design and data from Facebook, we find that boys who are older than their classmates make 11% more friends in high school. This social advantage is associated with [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/who-leads-relative-age-effects-on-social-capital.html\">Who Leads? Relative Age Effects on Social Capital</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Mon, 15 Jun 2026 06:12:08 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/06/general-purpose-large-language-models-outperform-specialized-clinical-ai-tools-on-medical-benchmarks.html?utm_source=rss&utm_medium=rss&utm_campaign=general-purpose-large-language-models-outperform-specialized-clinical-ai-tools-on-medical-benchmarks",
+    "summary": "<p>This result does not surprise me at all.  Here is part of the abstract: Frontier LLMs outperformed clinical AI tools in all three evaluations. Clinical AI tools performed comparably to auto-enabled Google Search AI Overview on the RCQ. These findings highlight the need for independent, real-world evaluation of AI tools before they enter clinical settings. [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/general-purpose-large-language-models-outperform-specialized-clinical-ai-tools-on-medical-benchmarks.html\">General-purpose large language models outperform specialized clinical AI tools on medical benchmarks</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Mon, 15 Jun 2026 05:16:01 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "*The Pressure* (no spoilers)",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/06/the-pressure-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pressure-no-spoilers",
+    "summary": "<p>A truly excellent movie, one of the best of the year.  Specifically, it concerns the meteorological forecasts (!) leading up to the D-Day invasion.  Thematically, it is about the differences between Americans and Brits, how bureaucracy operates, the nature of leadership, and the proper role of science in government.  It is like an old-style Hollywood [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/the-pressure-no-spoilers.html\">*The Pressure* (no spoilers)</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Sun, 14 Jun 2026 22:49:29 +0000"
+  },
+  {
     "source": "Marginal Revolution (Tyler Cowen)",
     "title": "Sunday assorted links",
     "link": "https://marginalrevolution.com/marginalrevolution/2026/06/sunday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-571",
@@ -14,32 +56,11 @@
     "published": "Sun, 14 Jun 2026 11:18:35 +0000"
   },
   {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "The bullish case for Brazil",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/06/the-bullish-case-for-brazil.html?utm_source=rss&utm_medium=rss&utm_campaign=the-bullish-case-for-brazil",
-    "summary": "<p>From Drew Crawford: Start with the most important number in economics, even though no one on Wall Street talks about it: calories per acre. Human civilization runs on food. Ten billion people will inhabit this planet by 2050. The amount of arable land is not growing. It is shrinking, every year, to urbanization, desertification, salinization, [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/the-bullish-case-for-brazil.html\">The bullish case for Brazil</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Sun, 14 Jun 2026 04:23:30 +0000"
-  },
-  {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "Saturday assorted links",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/06/saturday-assorted-links-565.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-565",
-    "summary": "<p>1. Soccer and economic growth. 2. The AI scenario for Europe? 3. The smart version of the AI is a bubble argument. 4. Ken Opalo reviews Studwell on Africa. 5. The influence of AI on non-fiction books? 6. The economics behind the San Antonio Spurs. 7. On the new Macca album.</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/saturday-assorted-links-565.html\">Saturday assorted links</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Sat, 13 Jun 2026 17:26:54 +0000"
-  },
-  {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "Sometimes it is hard to solve for the equilibrium",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/06/sometimes-it-is-hard-to-solve-for-the-equilibrium.html?utm_source=rss&utm_medium=rss&utm_campaign=sometimes-it-is-hard-to-solve-for-the-equilibrium",
-    "summary": "<p>Probably you all know about this: The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/sometimes-it-is-hard-to-solve-for-the-equilibrium.html\">Sometimes it is hard to solve for the equilibrium</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Sat, 13 Jun 2026 11:02:42 +0000"
-  },
-  {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "How did Stanislaw Lem imagine advanced computer intelligence?",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/06/how-did-stanislaw-lem-imagine-advanced-computer-intelligence.html?utm_source=rss&utm_medium=rss&utm_campaign=how-did-stanislaw-lem-imagine-advanced-computer-intelligence",
-    "summary": "<p>&#8230;GOLEM&#8217;s behavior is unpredictable.  Sometimes it converses courteously with people, whereas on other occasions any attempt at contact misfires.  GOLEM sometimes cracks jokes, too, though its sense of humor is fundamentally different from man&#8217;s.  Much depends on its interlocutors.  In exceptional casese GOLEM will show a certain interest in people who are talented in a [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/how-did-stanislaw-lem-imagine-advanced-computer-intelligence.html\">How did Stanislaw Lem imagine advanced computer intelligence?</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Sat, 13 Jun 2026 07:22:02 +0000"
+    "source": "A Wealth of Common Sense (Ben Carlson)",
+    "title": "Talk Your Book: The Case For Investing in Emerging Market Bonds",
+    "link": "https://awealthofcommonsense.com/2026/06/talk-your-book-the-case-for-investing-in-emerging-market-bonds/",
+    "summary": "<figure><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"580\" src=\"https://awealthofcommonsense.com/wp-content/uploads/2026/06/Screenshot-2026-06-12-162637.png\" width=\"967\" /></figure>On today's Talk Your Book we speak with Eric Fine from VanEck about how emerging markets have changed, geopolitical risk, currencies, AI and more. \nThe post Talk Your Book: The Case For Investing in Emerging Market Bonds appeared first on A Wealth of Common Sense.\n...",
+    "published": "Mon, 15 Jun 2026 11:15:02 +0000"
   },
   {
     "source": "A Wealth of Common Sense (Ben Carlson)",
@@ -50,185 +71,241 @@
   },
   {
     "source": "NYT Business",
-    "title": "Merger Cleared, David Ellison to Join Trump at U.F.C. Bouts",
-    "link": "https://www.nytimes.com/2026/06/14/business/media/trump-ufc-david-ellison.html",
-    "summary": "A U.F.C. fight on President Trump’s birthday will now double as a capstone for Paramount’s successful effort to secure Justice Department approval for a mega media merger.",
-    "published": "Sun, 14 Jun 2026 16:13:43 +0000"
+    "title": "Will SpaceX Fortunes Trickle Down to This Texas Town?",
+    "link": "https://www.nytimes.com/2026/06/15/business/spacex-ipo-trickle-down-bastrop.html",
+    "summary": "Elon Musk built a huge complex outside the city of Bastrop, population 14,000. Its residents now wonder what the historic SpaceX initial public offering might mean for them.",
+    "published": "Mon, 15 Jun 2026 17:03:00 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "The G7 Summit Is Dogged by Chaos and Divided by Trump",
-    "link": "https://www.nytimes.com/2026/06/14/world/europe/g7-summit-evian-trump.html",
-    "summary": "Group of 7 meetings once embodied the effort to sustain the global diplomatic order. This year’s gathering, starting on Monday, symbolizes its fragmentation.",
-    "published": "Sun, 14 Jun 2026 10:29:12 +0000"
+    "title": "Deal to Reopen Hormuz Kicks Off Long Effort to Ease Energy Crisis",
+    "link": "https://www.nytimes.com/2026/06/15/business/energy-environment/iran-deal-oil-natural-gas.html",
+    "summary": "The pace of the recovery will depend on how confident companies are that the deal between the United States and Iran will hold and be extended.",
+    "published": "Mon, 15 Jun 2026 15:52:14 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "How to Run a News Company in the Age of Polarization and A.I. Slop",
-    "link": "https://www.nytimes.com/2026/06/14/business/nbc-news-cesar-conde.html",
-    "summary": "Cesar Conde of NBCUniversal News thinks that the “pendulum will eventually swing back” to mainstream media brands.",
-    "published": "Sun, 14 Jun 2026 09:00:46 +0000"
+    "title": "SpaceX’s Stock Surges on First Full Day of Trading",
+    "link": "https://www.nytimes.com/2026/06/15/business/spacex-stock.html",
+    "summary": "The company’s shares jumped on Monday, and executives announced that they had raised even more money in an already record-breaking initial offering.",
+    "published": "Mon, 15 Jun 2026 17:09:52 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "Kash Patel Keeps Suing the Press",
-    "link": "https://www.nytimes.com/2026/06/14/business/media/kash-patel-defamation-lawsuits.html",
-    "summary": "The F.B.I. director, following a strategy from President Trump, has filed six defamation lawsuits against news media companies and commentators in nearly seven years.",
-    "published": "Sun, 14 Jun 2026 09:00:33 +0000"
+    "title": "Fox to Acquire Roku, Joining the Battle for the Living Room",
+    "link": "https://www.nytimes.com/2026/06/15/business/fox-roku-acquisition-streaming-media.html",
+    "summary": "The $22 billion deal is one of the biggest moves yet by Lachlan Murdoch, who took over for his father as chairman of Fox in 2023.",
+    "published": "Mon, 15 Jun 2026 16:41:20 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "Medicare Enrollment 101: What You Need to Know",
-    "link": "https://www.nytimes.com/2026/06/14/business/medicare-enrollment.html",
-    "summary": "The federal health insurance program can be complicated. Here’s how to start, and where to find help.",
-    "published": "Sun, 14 Jun 2026 09:00:17 +0000"
+    "title": "Global Markets Rally on Iran Peace Hopes",
+    "link": "https://www.nytimes.com/2026/06/15/business/dealbook/trump-iran-peace-rally.html",
+    "summary": "A framework agreement could be signed later this week, but details are scarce. Still, investors are cheering the potential breakthrough.",
+    "published": "Mon, 15 Jun 2026 12:14:24 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "Everyone Wants to Tax A.I. The Big Disagreement: How?",
-    "link": "https://www.nytimes.com/2026/06/13/business/dealbook/ai-tax-proposals.html",
-    "summary": "Bernie Sanders, President Trump and even A.I. companies say they would like the public to share the wealth. But their solutions are very different.",
-    "published": "Sat, 13 Jun 2026 22:57:49 +0000"
+    "title": "Cautious of U.S.-Iran Deal, Shipping Firms Await Strait to Reopen",
+    "link": "https://www.nytimes.com/2026/06/15/business/us-iran-deal-shipping-companies-strait-of-hormuz.html",
+    "summary": "Shipowners welcomed the agreement to reopen the Strait of Hormuz, but said they would need more security guarantees before resuming transits.",
+    "published": "Mon, 15 Jun 2026 15:18:14 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "Wages Are Falling. Wealth Is Surging. No Wonder Americans Are Unhappy.",
-    "link": "https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html",
-    "summary": "As Elon Musk became the world’s first trillionaire, workers are facing higher prices and fears of A.I.-driven job losses.",
-    "published": "Sat, 13 Jun 2026 12:28:36 +0000"
+    "title": "What to Know About Planned Social Media Bans in Australia, the U.K. and Beyond",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/social-media-bans-worldwide.html",
+    "summary": "Britain said it would ban social media access for children under 16 starting in 2027, joining several other countries introducing similar measures.",
+    "published": "Mon, 15 Jun 2026 11:19:17 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "Mega I.P.O. Frenzy Could Be a Harbinger of a Stock Bubble",
-    "link": "https://www.nytimes.com/2026/06/13/business/spacex-ipo-musk-stock-bubble.html",
-    "summary": "Rampant enthusiasm is buoying tech shares to levels that defy gravity. Invest with caution, our columnist says.",
-    "published": "Sat, 13 Jun 2026 09:01:43 +0000"
+    "title": "China Moves the Price of Oil, Even When It Buys Less",
+    "link": "https://www.nytimes.com/2026/06/15/business/china-oil-iran.html",
+    "summary": "China is the world’s largest purchaser of oil. But three months after the war with Iran began, it cut its imports, cushioning the global market.",
+    "published": "Mon, 15 Jun 2026 12:28:23 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "Despite US Help, Little Oil Has Gone Through Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/06/13/business/oil-strait-of-hormuz.html",
-    "summary": "President Trump said more than 200 commercial vessels had safely traveled through the strait. That’s still far fewer than before the start of the war.",
-    "published": "Sat, 13 Jun 2026 09:00:56 +0000"
+    "title": "To Toast America’s Birthday, They Blended Bourbon From Every State",
+    "link": "https://www.nytimes.com/2026/06/15/dining/drinks/united-states-of-bourbon-blend-lost-lantern.html",
+    "summary": "United States of Bourbon, the result of a Vermont couple’s many road trips, is just one of several special whiskeys marking the 250th.",
+    "published": "Mon, 15 Jun 2026 09:00:51 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
-    "link": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html",
-    "summary": "No longer content with being just “Hollywood North,” the Canadian screen industry is asserting itself and telling its own stories.",
-    "published": "Sat, 13 Jun 2026 17:16:45 +0000"
-  },
-  {
-    "source": "NYT Economy",
-    "title": "Billionaires’ Billions Are Increasing Faster Than Ever",
-    "link": "https://www.nytimes.com/2026/06/09/business/economy/billionaires-musk-gabriel-zucman.html",
-    "summary": "Elon Musk’s potential new status as a trillionaire demonstrates in real time why there has been such a rapid rise in the concentration of wealth at the top.",
-    "published": "Sat, 13 Jun 2026 22:10:01 +0000"
+    "title": "Taking on Neo-Nazis, One Trademark at a Time",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/neo-nazi-trademark-germany.html",
+    "summary": "In Germany, a campaign called Rights Against the Right is securing trademarks for right-wing symbols and phrases, aiming to cut into a revenue stream that sustains hate groups.",
+    "published": "Mon, 15 Jun 2026 15:08:29 +0000"
   },
   {
     "source": "NYT DealBook",
-    "title": "Everyone Wants to Tax A.I. The Big Disagreement: How?",
-    "link": "https://www.nytimes.com/2026/06/13/business/dealbook/ai-tax-proposals.html",
-    "summary": "Bernie Sanders, President Trump and even A.I. companies say they would like the public to share the wealth. But their solutions are very different.",
-    "published": "Sat, 13 Jun 2026 22:57:49 +0000"
+    "title": "Global Markets Rally on Iran Peace Hopes",
+    "link": "https://www.nytimes.com/2026/06/15/business/dealbook/trump-iran-peace-rally.html",
+    "summary": "A framework agreement could be signed later this week, but details are scarce. Still, investors are cheering the potential breakthrough.",
+    "published": "Mon, 15 Jun 2026 12:14:24 +0000"
   },
   {
     "source": "NYT DealBook",
     "title": "Sign Up for DealBook",
     "link": "https://www.nytimes.com/newsletters/signup/DK",
     "summary": "Make sense of the latest business and policy headlines with our daily newsletter.",
-    "published": "Sat, 13 Jun 2026 14:19:50 +0000"
+    "published": "Mon, 15 Jun 2026 12:16:34 +0000"
   },
   {
     "source": "BBC Business",
-    "title": "UK and Japan agree £18bn investment deal",
-    "link": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
-    "summary": "Japanese firms will spend billions on UK infrastructure and offshore wind, Downing Street says.",
-    "published": "Sun, 14 Jun 2026 15:25:33 GMT"
+    "title": "How could the US-Iran deal affect oil prices and the cost of food?",
+    "link": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss",
+    "summary": "Experts warn the impact of the war will continue to affect the global economy for months to come.",
+    "published": "Mon, 15 Jun 2026 15:20:09 GMT"
   },
   {
     "source": "BBC Business",
-    "title": "Why the US economy keeps defying the odds",
-    "link": "https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&at_campaign=rss",
-    "summary": "Why has the American economy continued to outperform so many of its peers, despite facing the same global shocks?",
-    "published": "Sun, 14 Jun 2026 05:14:17 GMT"
+    "title": "Oil prices fall and shares jump after US-Iran deal announced",
+    "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+    "summary": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
+    "published": "Mon, 15 Jun 2026 14:21:22 GMT"
   },
   {
     "source": "BBC Business",
-    "title": "Anthropic suspends new AI tools over US government security concerns",
-    "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
-    "summary": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
-    "published": "Sat, 13 Jun 2026 16:28:38 GMT"
+    "title": "What's happening to UK petrol and diesel prices now the US and Iran have a deal?",
+    "link": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    "summary": "When the conflict began on 28 February, fuel costs jumped as the war disrupted the production and transportation of energy across the Middle East.",
+    "published": "Mon, 15 Jun 2026 11:28:39 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Anthropic to meet with White House over AI tool suspension",
+    "link": "https://www.bbc.com/news/articles/c9w2p7ykp8yo?at_medium=RSS&at_campaign=rss",
+    "summary": "The sudden meeting was called after Anthropic had to block users from just-released AI models.",
+    "published": "Mon, 15 Jun 2026 17:46:41 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Is the convertible heading into the sunset?",
+    "link": "https://www.bbc.com/news/articles/cx212yy4er0o?at_medium=RSS&at_campaign=rss",
+    "summary": "UK drivers have taken a shine to the SUV but could the fate of the convertible be reversed?",
+    "published": "Sun, 14 Jun 2026 23:25:00 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Why I sold my business to my staff",
+    "link": "https://www.bbc.com/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss",
+    "summary": "As more US company owners reach retirement age many are selling up to their employees.",
+    "published": "Sun, 14 Jun 2026 23:26:01 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Millions of people can get discounts on their bills - here's how",
+    "link": "https://www.bbc.com/news/articles/c4gyplpyj00o?at_medium=RSS&at_campaign=rss",
+    "summary": "Lower social tariffs allow many people on benefits to get cheaper deals for water, broadband and phone.",
+    "published": "Sun, 14 Jun 2026 23:25:30 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Financial losses from scams hit £1.3bn a year as criminals turn to AI",
+    "link": "https://www.bbc.com/news/articles/cwykp9ygxlvo?at_medium=RSS&at_campaign=rss",
+    "summary": "On average, nearly eight cases of fraud in which money is stolen are reported in the UK every minute.",
+    "published": "Sun, 14 Jun 2026 23:25:15 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Fox to buy Roku streaming firm in $22bn deal",
+    "link": "https://www.bbc.com/news/articles/cql1yew3vezo?at_medium=RSS&at_campaign=rss",
+    "summary": "The move is seen as a bet that combining streaming with its news and sport offering will boost Fox as TV audiences move online.",
+    "published": "Mon, 15 Jun 2026 14:28:12 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "UK electric car sales target set to be weakened",
+    "link": "https://www.bbc.com/news/articles/cx2dmwmj4dmo?at_medium=RSS&at_campaign=rss",
+    "summary": "The new target hasn't yet been decided, with different numbers under consideration, the BBC understands.",
+    "published": "Sun, 14 Jun 2026 17:56:07 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "We thought we found the perfect luxury retirement community, but it’s millions of dollars in debt. Are we trapped?",
-    "link": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories",
-    "summary": "“If we were to leave, we would lose a portion of our buy-in — about $80,000.”",
-    "published": "Sun, 14 Jun 2026 14:26:00 GMT"
+    "title": "I’m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?",
+    "link": "https://www.marketwatch.com/story/im-spending-170-000-to-upgrade-my-home-for-my-aging-parents-can-i-get-tax-breaks-3adf0236?mod=mw_rss_topstories",
+    "summary": "“Given that at least half of the remodeling cost is to accommodate my disabled mother, I’m wondering if some of this may be tax deductible.”",
+    "published": "Mon, 15 Jun 2026 18:00:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?",
-    "link": "https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories",
-    "summary": "“I generally withdraw money from my traditional 401(k) for projects, larger expenses and sometimes just to stay ahead on upcoming bills.”",
-    "published": "Sun, 14 Jun 2026 13:26:00 GMT"
+    "title": "Social Security gave me conflicting answers about my cheating ex-husband’s record. What should I do?",
+    "link": "https://www.marketwatch.com/story/social-security-gave-me-conflicting-answers-about-my-cheating-former-husbands-record-what-should-i-do-ee7f1e56?mod=mw_rss_topstories",
+    "summary": "“I was married to my former husband for 23 years. After repeated instances of infidelity, we divorced.”",
+    "published": "Mon, 15 Jun 2026 17:38:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.",
-    "link": "https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories",
-    "summary": "Investors should increasingly seek out fixed income to anchor portfolios as equity valuations look stretched, says Pimco.",
-    "published": "Sun, 14 Jun 2026 13:24:00 GMT"
+    "title": "My elderly mother and I own a home together. Will Medicaid force its sale?",
+    "link": "https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories",
+    "summary": "“My sister thinks Medicaid will take the house my mom and I own together.”",
+    "published": "Mon, 15 Jun 2026 17:37:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "SpaceX shows investors still want moonshots. The Fed may test that theory this week.",
-    "link": "https://www.marketwatch.com/story/spacex-shows-investors-still-want-moonshots-the-fed-may-test-that-theory-this-week-d7771f3a?mod=mw_rss_topstories",
-    "summary": "Higher interest rates could make the AI growth story that’s been powering the bull market harder to justify.",
-    "published": "Sun, 14 Jun 2026 13:00:00 GMT"
+    "title": "Social Security’s woes are well known, but Medicare is also facing a fiscal crisis — in just 7 years",
+    "link": "https://www.marketwatch.com/story/social-securitys-woes-are-well-known-but-medicare-is-also-facing-a-fiscal-crisis-in-just-7-years-a5915c6d?mod=mw_rss_topstories",
+    "summary": "Medicare Part A, which pays for inpatient hospital stays, would see an 11% payment cut.",
+    "published": "Mon, 15 Jun 2026 17:22:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "My husband won’t sell his home so we can live together full time. Is this a red flag after a decade of marriage?",
-    "link": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
-    "summary": "“Our homes are 20 miles apart, and he still drives back and forth almost daily.”",
-    "published": "Sun, 14 Jun 2026 12:25:00 GMT"
+    "title": "The chip-stock rally is back in full force — thanks to two big geopolitical developments",
+    "link": "https://www.marketwatch.com/story/the-chip-stock-rally-is-back-in-full-force-thanks-to-two-big-geopolitical-developments-4e3ec21d?mod=mw_rss_topstories",
+    "summary": "Iran peace prospects are spurring gains for riskier stocks, and Anthropic’s battle with the U.S. government could prompt a broadening of the AI buildout.",
+    "published": "Mon, 15 Jun 2026 16:33:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "I’m 60, retired with $3 million. My fiancée, 55, only has $1 million and plans to keep working. Are we compatible?",
-    "link": "https://www.marketwatch.com/story/im-60-retired-with-3-million-my-fiancee-55-has-1-million-but-plans-to-work-for-the-next-10-years-are-we-compatible-2ee04cf9?mod=mw_rss_topstories",
-    "summary": "“Although she is quite frugal, she has not been particularly diligent with investing.”",
-    "published": "Sun, 14 Jun 2026 11:25:00 GMT"
+    "title": "Fiserv CEO flees after presiding over 71% stock drop in his short tenure",
+    "link": "https://www.marketwatch.com/story/fiserv-ceo-flees-after-presiding-over-71-stock-drop-in-his-short-tenure-b92b9270?mod=mw_rss_topstories",
+    "summary": "The financial-services company “continues to look strategically adrift,” an analyst says, as the stock falls further.",
+    "published": "Mon, 15 Jun 2026 16:25:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "My plumber charged $160 to fix the cistern on my toilet — but created another problem. Do I pay again?",
-    "link": "https://www.marketwatch.com/story/my-plumber-charged-160-to-fix-a-problem-in-my-bathroom-but-appears-to-have-created-another-one-do-i-pay-again-f64903ae?mod=mw_rss_topstories",
-    "summary": "“The cistern on my toilet has been constantly refilling and making a hissing noise.”",
-    "published": "Sun, 14 Jun 2026 00:30:00 GMT"
+    "title": "Here are 20 growth stocks you can buy at ‘value’ prices",
+    "link": "https://www.marketwatch.com/story/20-growth-stocks-priced-as-value-stocks-c0f72ad4?mod=mw_rss_topstories",
+    "summary": "These stocks trade at or lower than half the P/E valuation of the S&amp;P 500, while having much higher projected revenue growth rates than that of the index.",
+    "published": "Mon, 15 Jun 2026 15:59:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "‘I feel like he may be taking advantage of us’: Our adviser pushes annuities after we already said no. Do we fire him?",
-    "link": "https://www.marketwatch.com/story/our-financial-adviser-keeps-pushing-annuities-even-after-we-said-no-should-we-fire-him-19188c98?mod=mw_rss_topstories",
-    "summary": "“I feel like he may be taking advantage of us.”",
-    "published": "Sun, 14 Jun 2026 00:00:00 GMT"
+    "title": "Roku’s sale to Fox for $22 billion raises a big question",
+    "link": "https://www.marketwatch.com/story/rokus-sale-to-fox-for-22-billion-raises-a-big-question-aecb5346?mod=mw_rss_topstories",
+    "summary": "Roku’s stock is rallying to a four-year high after agreeing to be bought by Fox in a deal valued at $22 billion.",
+    "published": "Mon, 15 Jun 2026 15:40:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "‘We are comfortable financially’: My husband is in his 60s and has $500,000 life insurance. Is this a good time to cancel?",
-    "link": "https://www.marketwatch.com/story/we-pay-100-per-month-my-husband-is-in-his-mid-60s-and-has-a-500-000-life-insurance-policy-is-it-time-to-cancel-it-4cc49ffe?mod=mw_rss_topstories",
-    "summary": "“Our kids are grown and independent.”",
-    "published": "Sat, 13 Jun 2026 23:23:00 GMT"
+    "title": "SpaceX’s stock jumps as the company reveals its IPO has raised another $10.7 billion",
+    "link": "https://www.marketwatch.com/story/spacexs-stock-jumps-as-the-company-reveals-its-ipo-has-raised-another-10-7-billion-fc7eaca1?mod=mw_rss_topstories",
+    "summary": "Underwriters on the already record-breaking IPO exercised the option to buy another 83 million shares.",
+    "published": "Mon, 15 Jun 2026 15:38:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "‘It seems too good to be true’: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
-    "link": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
-    "summary": "“He claimed that fixed-rate annuities are the sparkly, rainbow-fairyland of investments.”",
-    "published": "Sat, 13 Jun 2026 23:22:00 GMT"
+    "title": "Even Nvidia is joining the AI borrowing spree, with a historic $20 billion bond deal",
+    "link": "https://www.marketwatch.com/story/even-nvidia-is-joining-the-ai-borrowing-spree-with-a-historic-20-billion-bond-deal-a054cff4?mod=mw_rss_topstories",
+    "summary": "Nvidia is launching a seven-tranche debt offering to refinance its existing debt, as investor appetite for AI credit surges.",
+    "published": "Mon, 15 Jun 2026 15:23:00 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "Fox to buy streaming device maker Roku for $22 billion",
+    "link": "https://www.cnbc.com/2026/06/15/fox-to-buy-roku.html",
+    "summary": "Fox, the owner of the news and sports networks, said it has reached a deal to acquire Roku for about $22 billion in enterprise value.",
+    "published": "Mon, 15 Jun 2026 13:58:38 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "KFC leans into boneless chicken, new drinks as chain tries to regain market share",
+    "link": "https://www.cnbc.com/2026/06/15/kfc-menu-chicken.html",
+    "summary": "KFC is facing more competition from legacy giants and upstarts alike, thanks to the growing global popularity of chicken.",
+    "published": "Mon, 15 Jun 2026 13:32:06 GMT"
   },
   {
     "source": "CNBC Business",
@@ -238,18 +315,46 @@
     "published": "Sun, 14 Jun 2026 12:00:02 GMT"
   },
   {
-    "source": "CNBC Business",
-    "title": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company",
-    "link": "https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html",
-    "summary": "Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion.",
-    "published": "Sat, 13 Jun 2026 12:00:01 GMT"
+    "source": "CNBC Finance",
+    "title": "SpaceX IPO leaves retail investors with too few shares and a tough hold-or-sell decision",
+    "link": "https://www.cnbc.com/2026/06/15/spacex-ipo-leaves-retail-investors-with-too-few-shares-and-a-tough-hold-or-sell-decision.html",
+    "summary": "Those who did receive stock are taking different approaches, with some selling into the company's market debut while others are holding for the long haul.",
+    "published": "Mon, 15 Jun 2026 17:24:18 GMT"
   },
   {
-    "source": "CNBC Business",
-    "title": "Drugmakers race to find a place in the next wave of obesity drugs",
-    "link": "https://www.cnbc.com/2026/06/13/glp-1s-lilly-novo-pfizer-look-to-new-weight-loss-drugs.html",
-    "summary": "Drugmakers are betting they can crack into the obesity drug market that Novo Nordisk and Eli Lilly currently dominate.",
-    "published": "Sat, 13 Jun 2026 12:00:01 GMT"
+    "source": "CNBC Finance",
+    "title": "Stocks making the biggest moves midday: SpaceX, Roku, Tripadvisor, Ferrari & more",
+    "link": "https://www.cnbc.com/2026/06/15/stocks-making-the-biggest-moves-midday-spcx-roku-trip-race-more.html",
+    "summary": "These are the stocks posting the largest moves in midday trading.",
+    "published": "Mon, 15 Jun 2026 17:48:24 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "SpaceX doesn't have a timeline for its human missions to Mars. Kalshi traders say don't expect it this decade",
+    "link": "https://www.cnbc.com/2026/06/15/kalshi-traders-say-spacex-wont-get-to-mars-this-decade.html",
+    "summary": "Traders on prediction market platform Kalshi see only an 18% chance the Elon Musk-led company gets to Earth's neighbor by 2030.",
+    "published": "Mon, 15 Jun 2026 14:38:19 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Ron Baron bought $1 billion of SpaceX shares in IPO, lifting stake to $25 billion",
+    "link": "https://www.cnbc.com/2026/06/15/ron-baron-bought-1-billion-of-spacex-shares-in-ipo-lifting-stake-to-25-billion.html",
+    "summary": "\"I think we're gonna make hundreds of billions of dollars,\" Baron said Monday on CNBC's \"Squawk Box.\"",
+    "published": "Mon, 15 Jun 2026 15:27:00 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Stocks making the biggest moves premarket: SpaceX, United Airlines, Roku & more",
+    "link": "https://www.cnbc.com/2026/06/15/stocks-making-the-biggest-moves-premarket-spcx-ual-foxa.html",
+    "summary": "These are the stocks posting the largest moves premarket.",
+    "published": "Mon, 15 Jun 2026 11:57:08 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Charlie Javice reportedly seeking a pardon from Trump",
+    "link": "https://www.cnbc.com/2026/06/14/charlie-javice-reportedly-seeking-a-pardon-from-trump-.html",
+    "summary": "Javice founded a startup called Frank that JPMorgan acquired in 2021 for $175 million.",
+    "published": "Sun, 14 Jun 2026 20:29:12 GMT"
   },
   {
     "source": "CNBC Finance",
@@ -259,67 +364,165 @@
     "published": "Sun, 14 Jun 2026 12:35:26 GMT"
   },
   {
-    "source": "CNBC Finance",
-    "title": "Why TD Securities anticipates even bigger days ahead for SpaceX",
-    "link": "https://www.cnbc.com/2026/06/13/spacex-surges-but-bigger-days-are-ahead-td-securities-.html",
-    "summary": "Peter Haynes, TD Securities' head of index and market structure, suggests SpaceX's public debut is only a small part of the larger SpaceX timeline.",
-    "published": "Sat, 13 Jun 2026 15:00:01 GMT"
+    "source": "Hacker News Top",
+    "title": "Iroh 1.0",
+    "link": "https://www.iroh.computer/blog/v1",
+    "summary": "<p>Article URL: <a href=\"https://www.iroh.computer/blog/v1\">https://www.iroh.computer/blog/v1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48542480\">https://news.ycombinator.com/item?id=48542480</a></p>\n<p>Points: 436</p>\n<p># Comments: 151</p>",
+    "published": "Mon, 15 Jun 2026 15:13:06 +0000"
   },
   {
     "source": "Hacker News Top",
-    "title": "No, everyone is not using AI for everything",
-    "link": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-    "summary": "<p>Article URL: <a href=\"https://gabrielweinberg.com/p/people-are-consuming-ai-like-they\">https://gabrielweinberg.com/p/people-are-consuming-ai-like-they</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48527700\">https://news.ycombinator.com/item?id=48527700</a></p>\n<p>Points: 200</p>\n<p># Comments: 191</p>",
-    "published": "Sun, 14 Jun 2026 14:44:29 +0000"
+    "title": "CrankGPT",
+    "link": "https://crankgpt.com",
+    "summary": "<p>Article URL: <a href=\"https://crankgpt.com\">https://crankgpt.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48540854\">https://news.ycombinator.com/item?id=48540854</a></p>\n<p>Points: 435</p>\n<p># Comments: 172</p>",
+    "published": "Mon, 15 Jun 2026 13:20:13 +0000"
   },
   {
     "source": "Hacker News Top",
-    "title": "How to Earn a Billion Dollars",
-    "link": "https://paulgraham.com/earn.html",
-    "summary": "<p>Article URL: <a href=\"https://paulgraham.com/earn.html\">https://paulgraham.com/earn.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48526360\">https://news.ycombinator.com/item?id=48526360</a></p>\n<p>Points: 221</p>\n<p># Comments: 583</p>",
-    "published": "Sun, 14 Jun 2026 11:50:48 +0000"
+    "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
+    "link": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+    "summary": "<p>Article URL: <a href=\"https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL\">https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48540126\">https://news.ycombinator.com/item?id=48540126</a></p>\n<p>Points: 222</p>\n<p># Comments: 180</p>",
+    "published": "Mon, 15 Jun 2026 12:08:59 +0000"
   },
   {
     "source": "Hacker News Top",
-    "title": "Don't trust large context windows",
-    "link": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
-    "summary": "<p>Article URL: <a href=\"https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows\">https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48524620\">https://news.ycombinator.com/item?id=48524620</a></p>\n<p>Points: 214</p>\n<p># Comments: 151</p>",
-    "published": "Sun, 14 Jun 2026 06:07:09 +0000"
+    "title": "What happened to nerds?",
+    "link": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
+    "summary": "<p>Article URL: <a href=\"https://mrmarket.lol/what-the-fuck-happened-to-nerds/\">https://mrmarket.lol/what-the-fuck-happened-to-nerds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48538229\">https://news.ycombinator.com/item?id=48538229</a></p>\n<p>Points: 641</p>\n<p># Comments: 436</p>",
+    "published": "Mon, 15 Jun 2026 08:23:52 +0000"
   },
   {
     "source": "Hacker News Top",
-    "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
-    "link": "https://sqltoerdiagram.com/",
-    "summary": "<p>Article URL: <a href=\"https://sqltoerdiagram.com/\">https://sqltoerdiagram.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48523992\">https://news.ycombinator.com/item?id=48523992</a></p>\n<p>Points: 305</p>\n<p># Comments: 58</p>",
-    "published": "Sun, 14 Jun 2026 03:43:30 +0000"
+    "title": "Apple Foundation Models",
+    "link": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+    "summary": "<p>Article URL: <a href=\"https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models\">https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48536776\">https://news.ycombinator.com/item?id=48536776</a></p>\n<p>Points: 399</p>\n<p># Comments: 191</p>",
+    "published": "Mon, 15 Jun 2026 04:55:34 +0000"
   },
   {
     "source": "Hacker News Top",
-    "title": "Honda Civics and the Evil Valet",
-    "link": "https://juniperspring.org/posts/honda-evil-valet/",
-    "summary": "<p>Previously: <i>Show HN: Honda Civic Infotainment Reverse-Engineering</i> - <a href=\"https://news.ycombinator.com/item?id=36052753\">https://news.ycombinator.com/item?id=36052753</a> - May 2023 (43 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48523080\">https://news.ycombinator.com/item?id=48523080</a></p>\n<p>Points: 359</p>\n<p># Comments: 85</p>",
-    "published": "Sun, 14 Jun 2026 00:49:46 +0000"
+    "title": "Even more batteries included with Emacs",
+    "link": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+    "summary": "<p>Article URL: <a href=\"https://karthinks.com/software/even-more-batteries-included-with-emacs/\">https://karthinks.com/software/even-more-batteries-included-with-emacs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48535886\">https://news.ycombinator.com/item?id=48535886</a></p>\n<p>Points: 315</p>\n<p># Comments: 112</p>",
+    "published": "Mon, 15 Jun 2026 02:30:25 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Your ePub Is fine",
+    "link": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+    "summary": "<p>Article URL: <a href=\"https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/\">https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48533848\">https://news.ycombinator.com/item?id=48533848</a></p>\n<p>Points: 832</p>\n<p># Comments: 278</p>",
+    "published": "Sun, 14 Jun 2026 22:54:55 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+    "link": "https://github.com/tamnd/kage",
+    "summary": "<p>Article URL: <a href=\"https://github.com/tamnd/kage\">https://github.com/tamnd/kage</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48529990\">https://news.ycombinator.com/item?id=48529990</a></p>\n<p>Points: 655</p>\n<p># Comments: 128</p>",
+    "published": "Sun, 14 Jun 2026 17:25:38 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
+    "link": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
+    "summary": "Remembering the ups and downs of the Intel Mac era as it finally winds down.",
+    "published": "Mon, 15 Jun 2026 16:32:14 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "Good news—we have extra time before the Sun ends life on Earth",
+    "link": "https://arstechnica.com/science/2026/06/good-news-we-have-extra-time-before-the-sun-ends-life-on-earth/",
+    "summary": "Will the Sun roast Earth’s plants or starve them?",
+    "published": "Mon, 15 Jun 2026 16:28:17 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "F1 in Spain: An old-fashioned strategy fight can still be thrilling",
+    "link": "https://arstechnica.com/cars/2026/06/f1-in-spain-an-old-fashioned-strategy-fight-can-still-be-thrilling/",
+    "summary": "Armed with a ton of new upgrades, Ferrari came to Spain full of confidence.",
+    "published": "Mon, 15 Jun 2026 15:25:17 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "Russia appears set to finally address long-term, serious space station cracks",
+    "link": "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/",
+    "summary": "This has been a persistent, behind-the-scenes dispute between NASA and Roscosmos.",
+    "published": "Mon, 15 Jun 2026 13:54:02 +0000"
   },
   {
     "source": "Ars Technica",
     "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
     "link": "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/",
-    "summary": "University of Leicester historian thinks Eilmer of Malmesbury saw two different comets: in 1018 and 1066",
+    "summary": "University of Leicester historian thinks Eilmer of Malmesbury saw two different comets: in 1018 and 1066.",
     "published": "Sun, 14 Jun 2026 16:02:53 +0000"
   },
   {
-    "source": "Ars Technica",
-    "title": "Review: Disclosure Day is big on action, light on ideas",
-    "link": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
-    "summary": "There's nothing new or surprising, but it's still an entertaining film from one of our greatest directors.",
-    "published": "Sat, 13 Jun 2026 17:17:44 +0000"
+    "source": "MIT Tech Review",
+    "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+    "link": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+    "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked thousands of hours of use. He&#8230;",
+    "published": "Mon, 15 Jun 2026 15:12:28 +0000"
   },
   {
-    "source": "Ars Technica",
-    "title": "Threads of underground fungal networks are long enough to reach beyond the Solar System",
-    "link": "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/",
-    "summary": "Researchers have quantified the length and mass of arbuscular mycorrhizal fungal networks globally.",
-    "published": "Sat, 13 Jun 2026 11:18:42 +0000"
+    "source": "MIT Tech Review",
+    "title": "The Download: cutting AC emissions, and nature’s drug designer",
+    "link": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure. After three years of record-­breaking heat and another scorcher underway, air-conditioning isn’t going anywhere. That’s good for our health,&#8230;",
+    "published": "Mon, 15 Jun 2026 12:10:00 +0000"
+  },
+  {
+    "source": "MIT Tech Review",
+    "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+    "link": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+    "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 premature deaths in 2019 alone—but bad for the planet.&#8230;",
+    "published": "Mon, 15 Jun 2026 09:00:00 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "China Evergrande liquidators seek judicial review of SFC agreement with PwC Hong Kong",
+    "link": "https://www.scmp.com/business/china-business/article/3357194/china-evergrande-liquidators-seek-judicial-review-sfc-agreement-pwc-hong-kong?utm_source=rss_feed",
+    "summary": "The liquidators of China Evergrande Group are in a legal battle with the city’s market regulator over its settlement agreement with PricewaterhouseCoopers (PwC) Hong Kong, claiming that the agreement leaves creditors HK$1 billion (US$128 million) worse off, according to a court document released on Monday.\nThe writ filed with Hong Kong’s High Court seeks leave to apply for a judicial review of the Securities and Futures Commission’s (SFC) agreement with PwC Hong Kong and an order preventing the...",
+    "published": "Mon, 15 Jun 2026 12:26:13 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Hong Kong developer Lai Sun seeks note swap in bid to ease liquidity pressure",
+    "link": "https://www.scmp.com/business/article/3357134/hong-kong-developer-lai-sun-seeks-note-swap-bid-ease-liquidity-pressure?utm_source=rss_feed",
+    "summary": "Hong Kong developer Lai Sun Development, chaired by businessman Peter Lam Kin-ngok, who also chairs the city’s Tourism Board, has launched an exchange offer for its outstanding US$493 million worth of 5 per cent guaranteed notes due July 2026, in an effort to relieve short-term liquidity pressures, the company said Monday in a filing to the Hong Kong stock exchange.\nEligible noteholders can swap their existing holdings for new, US dollar-denominated senior guaranteed notes carrying an 8 per cent...",
+    "published": "Mon, 15 Jun 2026 06:33:02 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "AI and global connectivity key to prosperity in an age of change",
+    "link": "https://www.scmp.com/native/business/topics/future-wealth/article/3356448/ai-and-global-connectivity-key-prosperity-age-change?utm_source=rss_feed",
+    "summary": "Rapid technological advances and the ever-changing geopolitical landscape and trade relations between nations are transforming economies around the world – while creating unprecedented opportunities and challenges for businesses and investors.\nThese changes – and their implications for markets, public policies and long-term investment – were the focus of last month’s 29th edition of the Asian Investment Conference (AIC), which featured a week-long series of discussions and curated activities...",
+    "published": "Mon, 15 Jun 2026 03:00:06 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "HSBC, Hang Seng mobile apps restored after glitches locked out Hong Kong customers for hours",
+    "link": "https://www.scmp.com/business/article/3357094/hsbc-mobile-app-glitch-locks-out-hong-kong-customers-monday-morning?utm_source=rss_feed",
+    "summary": "HSBC and its subsidiary Hang Seng Bank had resumed mobile phone service operations by early Monday afternoon after an outage in the morning locked customers out of their accounts for several hours.\nHSBC, the biggest lender in the city with over 7 million customers in Hong Kong, had its mobile banking service interrupted, with many customers complaining they could not log on to the system on Monday morning.\nMore than 10 HSBC customers contacted the South China Morning Post, saying they were...",
+    "published": "Mon, 15 Jun 2026 02:26:17 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Hong Kong, mainland China stocks surge as US-Iran deal drives crude to 3-month low",
+    "link": "https://www.scmp.com/business/china-business/article/3357092/hong-kong-stocks-rally-after-us-says-it-reaches-deal-iran-over-oil-flow?utm_source=rss_feed",
+    "summary": "Hong Kong stocks kicked off the week’s trading on a strong note on Monday after the US said that it sealed a deal with Iran to reopen the Strait of Hormuz and lift the US Navy blockade, sparking “risk-on” sentiment across asset classes.\nThe Hang Seng Index rose 0.5 per cent to 24,842.67 at the close. The Hang Seng Tech Index gained 1.3 per cent. On the mainland, the CSI 300 Index climbed 2.4 per cent.\nAsian stocks also rallied. South Korea’s Kospi index, at the centre of the artificial...",
+    "published": "Mon, 15 Jun 2026 01:44:11 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Abu Dhabi to tap Chinese tech to scale up green economy, energy chief says",
+    "link": "https://www.scmp.com/business/china-business/article/3357071/abu-dhabi-tap-chinese-tech-scale-green-economy-says-energy-chief?utm_source=rss_feed",
+    "summary": "The Abu Dhabi government is fast-tracking its push to extensively tap into China’s technologies, from renewable energy and electric vehicles (EVs) to robotics, as it pursues a greener economy, according to its energy chief.\nAbdulla Humaid Al Jarwan, chairman of the Abu Dhabi department of energy, told the SCMP that his department was in talks with 22 Chinese firms, including Contemporary Amperex Technology Ltd (CATL), during a recent visit to Shanghai, and expected a deepened tie-up with China’s...",
+    "published": "Mon, 15 Jun 2026 00:00:17 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Lower bar to entry for innovative companies to list in Hong Kong, chamber says",
+    "link": "https://www.scmp.com/business/article/3357063/lower-bar-entry-innovative-companies-list-hong-kong-says-chamber?utm_source=rss_feed",
+    "summary": "The Chamber of Hong Kong Listed Companies (CHKLC) is urging Hong Kong to further lower the bar for innovative companies to go public in the city, so as to encourage more technology firms to raise funds here, according to the chamber’s chairman.\nThe Hong Kong Exchanges and Clearing (HKEX) unveiled its biggest listing reforms since 2018 in March, expanding the scope of businesses eligible for listing under a weighted-voting rights regime and redefining its classification for innovative companies,...",
+    "published": "Sun, 14 Jun 2026 23:00:17 +0000"
   },
   {
     "source": "SCMP Business",
@@ -341,47 +544,5 @@
     "link": "https://www.scmp.com/business/article/3357053/hong-kong-commercial-landlords-may-bet-investment-curb-tenant-loss-ai-analysts?utm_source=rss_feed",
     "summary": "Hong Kong’s older office assets and their struggling landlords could face more challenges as the wider adoption of artificial intelligence (AI) by firms in the city leads companies to relocate to newer buildings that better support their requirements, according to real estate consultancy Knight Frank.\nAI is poised to usher in more changes in Hong Kong’s commercial office space, and landlords may have to act fast to either refurbish their assets or convert them for new uses, said Lee Elliott,...",
     "published": "Sun, 14 Jun 2026 08:22:52 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "From stadium seats to hotel suites, World Cup fever sweeps Chinese travellers",
-    "link": "https://www.scmp.com/business/article/3357038/stadium-seats-hotel-suites-world-cup-fever-sweeps-chinese-travellers?utm_source=rss_feed",
-    "summary": "Sarah Li, from eastern Jiangsu province, said her son – a devoted Cristiano Ronaldo fan – had just completed China’s gaokao, the national university entrance examination. To celebrate the milestone, the family will travel to Houston later this month to watch Portugal take on Uzbekistan in a World Cup group-stage match.\nLi said she had purchased a private-box ticket for her son costing more than 10,000 yuan (US$1,479).\n“It doesn’t come cheap, but our son’s happiness comes first,” she said. “I’m...",
-    "published": "Sun, 14 Jun 2026 08:00:20 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "European wealth turns to Hong Kong as 30 family offices eye operations in the city",
-    "link": "https://www.scmp.com/business/banking-finance/article/3356945/european-wealth-turns-hong-kong-30-family-offices-eye-operations-city?utm_source=rss_feed",
-    "summary": "Around 30 European family offices have expressed interest in establishing operations in Hong Kong, drawn by the city’s tax incentives and growing optimism about the prospects for China’s technology sector and Hong Kong’s property market, according to InvestHK and industry participants.\nJason Fong, InvestHK’s global head of family office, said the government agency was assisting 30 European family offices that had indicated plans to set up in the city, accounting for about 19 per cent of the 160...",
-    "published": "Sun, 14 Jun 2026 08:00:12 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "China’s AI ‘hundred model’ war shifts to enterprise value, JPMorgan says",
-    "link": "https://www.scmp.com/tech/big-tech/article/3357008/chinas-ai-hundred-model-war-shifts-enterprise-value-jpmorgan-says?utm_source=rss_feed",
-    "summary": "The drive for AI monetisation among Chinese tech companies has become a battle over “delivering measurable business value” rather than raw technical performance, according to Alex Yao, head of China equity research at JPMorgan.\nChina’s AI landscape was rapidly consolidating from a fragmented “hundred-model” battle down to a smaller group of globally competitive leading players, particularly those that could transform consumer-facing features into reliable enterprise-grade infrastructure, Yao...",
-    "published": "Sun, 14 Jun 2026 04:00:17 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Natural diamond firms turn to blockchain traceability amid lab-grown competition",
-    "link": "https://www.scmp.com/business/commodities/article/3356999/natural-diamond-firms-turn-blockchain-traceability-amid-lab-grown-competition?utm_source=rss_feed",
-    "summary": "Hit by competition from lab-grown diamonds and declines in pricing, the natural diamond industry is launching a large-scale traceability system to further build customer trust and establish provenance of the consumer jewels, in a move that industry observers say will boost sales.\nDe Beers Group, the world’s largest diamond producer and distributor, recently announced that the Gemological Institute of America (GIA) will acquire a 30 per cent stake in Tracr, a De Beers-backed firm that has...",
-    "published": "Sun, 14 Jun 2026 01:30:12 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "China’s Geely Auto to slash excess capacity amid overhaul to boost carmaker’s global edge",
-    "link": "https://www.scmp.com/business/china-business/article/3357014/chinas-geely-auto-slash-excess-capacity-amid-overhaul-boost-carmakers-global-edge?utm_source=rss_feed",
-    "summary": "Geely Auto, which is locked in a fierce battle for dominance against BYD in China’s crowded automotive market, has pledged to purge excess capacity through an asset restructuring while ramping up its go-global drive with an eye on greater international competitiveness.\nChairman Li Shufu said during the Chongqing Auto Show on Friday that the Hong Kong-listed carmaker would assess the oversupply of capacity across all units to determine whether to close, suspend, merge or sell redundant production...",
-    "published": "Sun, 14 Jun 2026 00:00:10 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "US blocks foreign access to Anthropic’s newest AI models over security risks",
-    "link": "https://www.scmp.com/tech/article/3356990/us-blocks-foreign-access-anthropics-newest-ai-models-over-security-risks?utm_source=rss_feed",
-    "summary": "Washington has ordered Anthropic – a leading entity in America’s AI sector – to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns, according to the Silicon Valley-based firm.\nThe unprecedented export-control measure – the first to target specific AI models – came just days after Anthropic released the models, underscoring Washington’s increasingly hands-on approach to regulating frontier artificial intelligence...",
-    "published": "Sat, 13 Jun 2026 05:06:27 +0000"
   }
 ]
