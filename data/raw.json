@@ -1,6 +1,13 @@
 [
   {
     "source": "Stratechery (Ben Thompson)",
+    "title": "2026.25: The Stuff of Myth(os)",
+    "link": "https://stratechery.com/2026/the-stuff-of-mythos/",
+    "summary": "The best Stratechery content from the week of June 15, 2026, including Anthropic, e-commerce in the age of AI, and the NBA Finals being a perfect 10.",
+    "published": "Fri, 19 Jun 2026 17:00:00 +0000"
+  },
+  {
+    "source": "Stratechery (Ben Thompson)",
     "title": "An Interview with Michael Morton About E-Commerce in the Age of AI",
     "link": "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/",
     "summary": "An interview with Michael Morton about e-commerce and AI, including the challenges of unfalsifiable bear cases, distribution versus referal models, grocery, and autonomous vehicles.",
@@ -54,13 +61,6 @@
     "link": "https://marginalrevolution.com/marginalrevolution/2026/06/ai-native-firms.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-native-firms",
     "summary": "<p>Very important work from Hyunjin Kim and Rembrand Koning. Insead and HBS respectively: We study how firms built around AI capabilities-&#8220;AI-native&#8221; firms-are organized. Drawing on Y Combinator batches W20-F24 and U.S. venture-backed startups whose first financing closed between 2020 and 2024, we classify each firm&#8217;s AI-native status and link it to workforce microdata on team [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/ai-native-firms.html\">AI-Native Firms</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
     "published": "Thu, 18 Jun 2026 08:55:30 +0000"
-  },
-  {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "My Conversation with Dave Baszucki",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/06/my-conversation-with-dave-baszucki.html?utm_source=rss&utm_medium=rss&utm_campaign=my-conversation-with-dave-baszucki",
-    "summary": "<p>Dave is CEO and co-founder of Roblox, and here is the audio, video, and transcript.  From the episode summary: With over 100 million daily active users and projected revenue bookings of $7 billion this year, it is one of the largest gaming economies in the world—and one that has made millionaires out of teenage developers [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/my-conversation-with-dave-baszucki.html\">My Conversation with Dave Baszucki</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Thu, 18 Jun 2026 04:51:32 +0000"
   },
   {
     "source": "Aswath Damodaran",
@@ -127,17 +127,17 @@
   },
   {
     "source": "NYT Business",
-    "title": "Oil Prices Wobble as U.S.-Iran Deal Faces Tests",
+    "title": "Oil Prices Rise as U.S.-Iran Deal Faces Tests",
     "link": "https://www.nytimes.com/2026/06/19/business/oil-gas-prices-iran.html",
     "summary": "Oil remains on track for a second straight weekly decline, but signs of cracks in the agreement to end the war have given traders pause.",
-    "published": "Fri, 19 Jun 2026 14:18:13 +0000"
+    "published": "Fri, 19 Jun 2026 17:15:17 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "In a Still Turbulent Strait of Hormuz, Stranded Ships Wait for Clarity",
+    "title": "Stranded Ships Hoping for Escape Find a Turbulent Strait of Hormuz",
     "link": "https://www.nytimes.com/2026/06/19/business/iran-us-hormuz-shipping.html",
-    "summary": "Shipping companies had hoped to get their stranded vessels out, but faced uncertainty as violence flared again in the region.",
-    "published": "Fri, 19 Jun 2026 14:05:02 +0000"
+    "summary": "Shipping companies had hoped to get their vessels out after this week’s U.S.-Iran deal but faced uncertainty on Friday as violence flared again in the region.",
+    "published": "Fri, 19 Jun 2026 16:55:03 +0000"
   },
   {
     "source": "NYT Business",
@@ -288,7 +288,42 @@
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Oil prices under new wave of pressure amid lingering questions over a Strait of Hormuz reopening",
+    "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
+    "link": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
+    "summary": "“I’m afraid I’m in a bad place.”",
+    "published": "Fri, 19 Jun 2026 18:00:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Warsh’s new task forces give the Fed wiggle room to put off changing rates until December",
+    "link": "https://www.marketwatch.com/story/warshs-task-forces-give-the-fed-wiggle-room-to-put-off-changing-rates-until-december-364fc1fc?mod=mw_rss_topstories",
+    "summary": "During his first press conference as Fed chair Wednesday, Kevin Warsh repeated one refrain in his answers to many reporters’ questions: A task force is looking into it.",
+    "published": "Fri, 19 Jun 2026 17:25:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Trump picked Kevin Warsh to cut rates. The new Fed chief just told us he has other plans.",
+    "link": "https://www.marketwatch.com/story/trump-picked-kevin-warsh-to-cut-rates-the-new-fed-chief-just-told-us-he-has-other-plans-096bba56?mod=mw_rss_topstories",
+    "summary": "Here’s what the central bank’s hawkish agenda means for your money.",
+    "published": "Fri, 19 Jun 2026 17:08:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Fed watching is looking very different now. Two charts can help you in the Warsh era.",
+    "link": "https://www.marketwatch.com/story/fed-watching-is-looking-very-different-now-two-charts-can-help-you-in-the-warsh-era-d2372c15?mod=mw_rss_topstories",
+    "summary": "Kevin Warsh is forcing Wall Street to do the heavy lifting. Use these benchmarks to find your footing.",
+    "published": "Fri, 19 Jun 2026 16:59:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Is the stock market closed today for Juneteenth? Will the post office deliver mail?",
+    "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-juneteenth-will-the-post-office-deliver-mail-0569e453?mod=mw_rss_topstories",
+    "summary": "The June 19 federal holiday falls on a Friday this year. Here’s how trading hours and other services are affected.",
+    "published": "Fri, 19 Jun 2026 16:41:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Oil prices face fresh wave of volatility amid conflicting reports about Strait of Hormuz reopening and ongoing regional strife",
     "link": "https://www.marketwatch.com/story/oil-prices-under-new-wave-of-pressure-amid-lingering-questions-over-a-strait-of-hormuz-reopening-c58fc9e8?mod=mw_rss_topstories",
     "summary": "A flurry of headlines on Friday point to an increasingly fragile deal between the U.S. and Iran.",
     "published": "Fri, 19 Jun 2026 16:05:00 GMT"
@@ -320,41 +355,6 @@
     "link": "https://www.marketwatch.com/story/chip-stocks-are-setting-records-but-this-hidden-chart-pattern-says-momentum-favors-the-bears-5ba98c10?mod=mw_rss_topstories",
     "summary": "The SOXX’s RSI indicator has fallen further below the overbought threshold despite prices making record highs. History suggests that’s a bad sign.",
     "published": "Fri, 19 Jun 2026 13:56:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
-    "link": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-    "summary": "“I’m afraid I’m in a bad place.”",
-    "published": "Fri, 19 Jun 2026 13:11:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "‘I’m a realist’: I’m 50 with $6.5 million saved. Should I quit my $200,000 job and retire early?",
-    "link": "https://www.marketwatch.com/story/im-a-realist-im-50-with-6-5-million-saved-should-i-quit-my-200-000-job-and-retire-early-a89624fa?mod=mw_rss_topstories",
-    "summary": "“I have been considering leaving my job so that I can focus on my trading activities full time.”",
-    "published": "Fri, 19 Jun 2026 13:08:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Trading in French server company suspended after short seller’s accusations trigger stock collapse",
-    "link": "https://www.marketwatch.com/story/trading-in-french-server-company-suspended-after-short-sellers-accusations-trigger-stock-collapse-861135d2?mod=mw_rss_topstories",
-    "summary": "2CRSi shares suspended from trade on the Paris exchange “until further notice.”",
-    "published": "Fri, 19 Jun 2026 12:33:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Fed watching is looking very different now. Two charts can help you in the Warsh era.",
-    "link": "https://www.marketwatch.com/story/fed-watching-is-looking-very-different-now-two-charts-can-help-you-in-the-warsh-era-d2372c15?mod=mw_rss_topstories",
-    "summary": "Kevin Warsh is forcing Wall Street to do the heavy lifting. Use these benchmarks to find your footing.",
-    "published": "Fri, 19 Jun 2026 12:10:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "‘I became invisible when I turned 60’: The hidden crisis of late-career unemployment",
-    "link": "https://www.marketwatch.com/story/i-became-invisible-when-i-turned-60-the-hidden-crisis-of-late-career-unemployment-5bf76c00?mod=mw_rss_topstories",
-    "summary": "A job loss is devastating at any age. After 50, it can completely shatter your finances.",
-    "published": "Fri, 19 Jun 2026 12:00:00 GMT"
   },
   {
     "source": "CNBC Business",
@@ -423,70 +423,49 @@
     "source": "Hacker News Top",
     "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
     "link": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-    "summary": "<p>Article URL: <a href=\"https://www.jvm-weekly.com/p/project-valhalla-explained-how-a\">https://www.jvm-weekly.com/p/project-valhalla-explained-how-a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48595511\">https://news.ycombinator.com/item?id=48595511</a></p>\n<p>Points: 382</p>\n<p># Comments: 221</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.jvm-weekly.com/p/project-valhalla-explained-how-a\">https://www.jvm-weekly.com/p/project-valhalla-explained-how-a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48595511\">https://news.ycombinator.com/item?id=48595511</a></p>\n<p>Points: 455</p>\n<p># Comments: 261</p>",
     "published": "Fri, 19 Jun 2026 06:35:57 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "The AirPods Effect",
     "link": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-    "summary": "<p>Article URL: <a href=\"https://www.theescapenewsletter.com/p/the-airpods-effect\">https://www.theescapenewsletter.com/p/the-airpods-effect</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48592832\">https://news.ycombinator.com/item?id=48592832</a></p>\n<p>Points: 255</p>\n<p># Comments: 454</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.theescapenewsletter.com/p/the-airpods-effect\">https://www.theescapenewsletter.com/p/the-airpods-effect</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48592832\">https://news.ycombinator.com/item?id=48592832</a></p>\n<p>Points: 315</p>\n<p># Comments: 549</p>",
     "published": "Thu, 18 Jun 2026 23:08:35 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Zero-Touch OAuth for MCP",
     "link": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-    "summary": "<p>Article URL: <a href=\"https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/\">https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48592163\">https://news.ycombinator.com/item?id=48592163</a></p>\n<p>Points: 226</p>\n<p># Comments: 87</p>",
+    "summary": "<p>Article URL: <a href=\"https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/\">https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48592163\">https://news.ycombinator.com/item?id=48592163</a></p>\n<p>Points: 241</p>\n<p># Comments: 95</p>",
     "published": "Thu, 18 Jun 2026 21:54:10 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
     "link": "https://blog.ui.com/article/introducing-enterprise-nas",
-    "summary": "<p>Article URL: <a href=\"https://blog.ui.com/article/introducing-enterprise-nas\">https://blog.ui.com/article/introducing-enterprise-nas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48585866\">https://news.ycombinator.com/item?id=48585866</a></p>\n<p>Points: 380</p>\n<p># Comments: 317</p>",
+    "summary": "<p>Article URL: <a href=\"https://blog.ui.com/article/introducing-enterprise-nas\">https://blog.ui.com/article/introducing-enterprise-nas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48585866\">https://news.ycombinator.com/item?id=48585866</a></p>\n<p>Points: 390</p>\n<p># Comments: 327</p>",
     "published": "Thu, 18 Jun 2026 14:24:30 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "W Social, public institutions and the theater of European digital sovereignty",
-    "link": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
-    "summary": "<p>Article URL: <a href=\"https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/\">https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48584497\">https://news.ycombinator.com/item?id=48584497</a></p>\n<p>Points: 243</p>\n<p># Comments: 150</p>",
-    "published": "Thu, 18 Jun 2026 12:46:04 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "I found 10k GitHub repositories distributing Trojan malware",
     "link": "https://orchidfiles.com/github-repositories-distributing-malware/",
-    "summary": "<p>Article URL: <a href=\"https://orchidfiles.com/github-repositories-distributing-malware/\">https://orchidfiles.com/github-repositories-distributing-malware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48583928\">https://news.ycombinator.com/item?id=48583928</a></p>\n<p>Points: 886</p>\n<p># Comments: 233</p>",
+    "summary": "<p>Article URL: <a href=\"https://orchidfiles.com/github-repositories-distributing-malware/\">https://orchidfiles.com/github-repositories-distributing-malware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48583928\">https://news.ycombinator.com/item?id=48583928</a></p>\n<p>Points: 906</p>\n<p># Comments: 238</p>",
     "published": "Thu, 18 Jun 2026 11:45:43 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Modos Color Monitor Pushes E-Paper Displays Further",
-    "link": "https://spectrum.ieee.org/modos-e-paper-monitor",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/modos-e-paper-monitor\">https://spectrum.ieee.org/modos-e-paper-monitor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48583897\">https://news.ycombinator.com/item?id=48583897</a></p>\n<p>Points: 319</p>\n<p># Comments: 73</p>",
-    "published": "Thu, 18 Jun 2026 11:41:21 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
     "link": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
-    "summary": "<p>Article URL: <a href=\"https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/\">https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48583606\">https://news.ycombinator.com/item?id=48583606</a></p>\n<p>Points: 405</p>\n<p># Comments: 57</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/\">https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48583606\">https://news.ycombinator.com/item?id=48583606</a></p>\n<p>Points: 414</p>\n<p># Comments: 59</p>",
     "published": "Thu, 18 Jun 2026 11:04:31 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Hospitals and universities repurposing drugs at lower cost",
-    "link": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
-    "summary": "<p>Article URL: <a href=\"https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost\">https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48583386\">https://news.ycombinator.com/item?id=48583386</a></p>\n<p>Points: 321</p>\n<p># Comments: 150</p>",
-    "published": "Thu, 18 Jun 2026 10:33:22 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": ".gitignore Isn't the only way to ignore files in Git",
     "link": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-    "summary": "<p>Article URL: <a href=\"https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/\">https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48583356\">https://news.ycombinator.com/item?id=48583356</a></p>\n<p>Points: 484</p>\n<p># Comments: 150</p>",
+    "summary": "<p>Article URL: <a href=\"https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/\">https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48583356\">https://news.ycombinator.com/item?id=48583356</a></p>\n<p>Points: 530</p>\n<p># Comments: 159</p>",
     "published": "Thu, 18 Jun 2026 10:29:20 +0000"
   },
   {
