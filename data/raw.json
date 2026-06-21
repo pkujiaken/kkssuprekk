@@ -50,10 +50,45 @@
   },
   {
     "source": "NYT Business",
+    "title": "While the World Scrambles for Oil, China Sits on Full Tanks",
+    "link": "https://www.nytimes.com/2026/06/21/business/china-oil-iran.html",
+    "summary": "The possible reopening of the Strait of Hormuz may not prompt China to return quickly to prewar levels of oil purchases from the Persian Gulf.",
+    "published": "Sun, 21 Jun 2026 09:01:52 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "When a Job Goes From Dreamy to Dreary",
+    "link": "https://www.nytimes.com/2026/06/21/business/when-a-job-goes-from-dreamy-to-dreary.html",
+    "summary": "Plus, should I follow through on complaints about one workplace after I’ve moved on to another?",
+    "published": "Sun, 21 Jun 2026 09:01:44 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Is Your Vibe ‘High-Signal’ or ‘Anti-Signal’?",
+    "link": "https://www.nytimes.com/2026/06/21/business/signal-tech-silicon-valley.html",
+    "summary": "Subtle cues are shaping notions of what’s hot and what’s not in the tech world.",
+    "published": "Sun, 21 Jun 2026 11:00:22 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Ina Garten to Start a Podcast With Vox Media",
+    "link": "https://www.nytimes.com/2026/06/21/business/ina-garten-podcast.html",
+    "summary": "A new show from Ina Garten, a longtime Food Network star, spurred a bidding war, as the lines between video podcasts and talk shows blur.",
+    "published": "Sun, 21 Jun 2026 09:00:50 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "The Latest in College Pricing: Tuition at 10 Percent of Your Income",
+    "link": "https://www.nytimes.com/2026/06/21/business/whitman-college-tuition-pricing.html",
+    "summary": "Whitman College is trying to keep it simple: Tell us your adjusted gross income, and we won’t make you apply and get in just to receive a price quote.",
+    "published": "Sun, 21 Jun 2026 09:00:49 +0000"
+  },
+  {
+    "source": "NYT Business",
     "title": "How Remote Work Has Helped a Generation of Working Parents",
     "link": "https://www.nytimes.com/2026/06/21/upshot/remote-work-parents-mothers.html",
     "summary": "Post-pandemic, a new openness to accommodating family needs has made it possible for more mothers and fathers to balance work and parenting — particularly mothers of young children.",
-    "published": "Sun, 21 Jun 2026 07:00:08 +0000"
+    "published": "Sun, 21 Jun 2026 13:50:03 +0000"
   },
   {
     "source": "NYT Business",
@@ -84,41 +119,6 @@
     "published": "Sat, 20 Jun 2026 19:02:35 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "A Humble 3-Wheel Electric Vehicle Lands Toyota in Federal Court",
-    "link": "https://www.nytimes.com/2026/06/20/business/toyota-africa-electric-vehicles-lawsuit.html",
-    "summary": "A lawsuit filed in California claims the automaker’s philanthropic arm stole technology intended to help poor farmers, but it is not clear to what end.",
-    "published": "Sat, 20 Jun 2026 15:58:09 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "For New Car Brands, the Path to Success Is Littered With Flops",
-    "link": "https://www.nytimes.com/2026/06/20/business/afeela-automakers-spinoffs-brands.html",
-    "summary": "Honda and Sony have bailed on Afeela, their joint E.V. project, without selling a single car. Subbrands from big automakers have a shaky track record, but leaning into luxury can help.",
-    "published": "Sat, 20 Jun 2026 09:00:07 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Amazon’s Movie Arm Abandons Film About OpenAI",
-    "link": "https://www.nytimes.com/2026/06/19/business/media/amazon-openai-artificial-movie-sam-altman.html",
-    "summary": "The company, which invested $50 billion in the artificial intelligence start-up this year, will let the team behind the film, “Artificial,” try to sell the project to another studio.",
-    "published": "Sat, 20 Jun 2026 00:11:02 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Oil Prices Rise as U.S.-Iran Deal Faces Tests",
-    "link": "https://www.nytimes.com/2026/06/19/business/oil-gas-prices-iran.html",
-    "summary": "Oil remains on track for a second straight weekly decline, but signs of cracks in the agreement to end the war have given traders pause.",
-    "published": "Fri, 19 Jun 2026 23:51:26 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Stranded Ships Hoping for Escape Find a Turbulent Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/06/19/business/iran-us-hormuz-shipping.html",
-    "summary": "Shipping companies had hoped to get their vessels out after this week’s U.S.-Iran deal but faced uncertainty on Friday as violence flared again in the region.",
-    "published": "Fri, 19 Jun 2026 21:37:27 +0000"
-  },
-  {
     "source": "NYT Economy",
     "title": "How Deal With U.S. Could Reconnect Iran to the Global Economy",
     "link": "https://www.nytimes.com/2026/06/19/business/economy/iran-sanctions-oil.html",
@@ -127,10 +127,52 @@
   },
   {
     "source": "MarketWatch Top Stories",
+    "title": "My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?",
+    "link": "https://www.marketwatch.com/story/my-two-sons-will-inherit-a-30-000-annuity-from-their-grandmother-what-should-i-do-with-the-money-8882f396?mod=mw_rss_topstories",
+    "summary": "“My understanding is that they have five years to withdraw the money.”",
+    "published": "Sun, 21 Jun 2026 14:00:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Micron’s earnings are a must-watch market event — with profit growth approaching 1,000%",
+    "link": "https://www.marketwatch.com/story/microns-earnings-are-a-must-watch-market-event-with-profit-growth-approaching-1-000-78ec4549?mod=mw_rss_topstories",
+    "summary": "Micron’s massive growth is “coming at nearly pure profit,” and that’s starting to have real implications for the S&amp;P 500.",
+    "published": "Sun, 21 Jun 2026 14:00:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
+    "link": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
+    "summary": "Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does, and past rate-hike cycles can be a guide.",
+    "published": "Sun, 21 Jun 2026 13:00:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "‘We are habitually frugal’: My wife and I have money. How do we help our children without ruining their independence?",
+    "link": "https://www.marketwatch.com/story/we-are-habitually-frugal-my-wife-and-i-have-money-how-do-we-help-our-children-without-ruining-their-independence-a1e30cec?mod=mw_rss_topstories",
+    "summary": "“Partly due to some mental-health issues, they may continue to go through life living paycheck to paycheck, or worse.”",
+    "published": "Sun, 21 Jun 2026 12:45:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
     "title": "‘Money can make you happy’: My wife and I have no heirs, but we’re making the world a better place by giving it away",
     "link": "https://www.marketwatch.com/story/money-can-make-you-happy-my-wife-and-i-have-no-heirs-but-were-making-the-world-a-better-place-by-giving-it-away-f61fad98?mod=mw_rss_topstories",
     "summary": "“If you find a need in your community, there’s likely an organization that will help you get involved.”",
-    "published": "Sat, 20 Jun 2026 20:00:00 GMT"
+    "published": "Sun, 21 Jun 2026 12:10:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
+    "link": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
+    "summary": "“I’m afraid I’m in a bad place.”",
+    "published": "Sun, 21 Jun 2026 12:09:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "The secret to wellness is simple: Eat this breakfast and work out at the right time",
+    "link": "https://www.marketwatch.com/story/the-secret-to-wellness-is-simple-eat-this-breakfast-and-work-out-at-the-right-time-43c696b9?mod=mw_rss_topstories",
+    "summary": "The key to a healthy breakfast is less about when you eat it and more about what you eat.",
+    "published": "Sun, 21 Jun 2026 12:00:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
@@ -154,48 +196,6 @@
     "published": "Sat, 20 Jun 2026 18:36:00 GMT"
   },
   {
-    "source": "MarketWatch Top Stories",
-    "title": "Inside the push to weaken Washington’s toughest financial watchdog",
-    "link": "https://www.marketwatch.com/story/fewer-dollars-and-fuzzier-standards-inside-the-push-to-weaken-washingtons-toughest-financial-watchdog-2601a0ee?mod=mw_rss_topstories",
-    "summary": "The SEC used to intimidate corporate wrongdoers. Now its own commissioners are gutting its leverage.",
-    "published": "Sat, 20 Jun 2026 18:28:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "We read the Social Security and Medicare trustees reports. If you’re not worried, you should be.",
-    "link": "https://www.marketwatch.com/story/we-read-the-social-security-and-medicare-trustees-reports-if-youre-not-worried-you-should-be-ee1293e2?mod=mw_rss_topstories",
-    "summary": "The truth about “DOGE” savings, no tax on Social Security, immigration — and more.",
-    "published": "Sat, 20 Jun 2026 18:20:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Want to splurge on travel in retirement? Here’s how to plan for it.",
-    "link": "https://www.marketwatch.com/story/want-to-splurge-on-travel-in-retirement-heres-how-to-plan-for-it-40bb26f2?mod=mw_rss_topstories",
-    "summary": "A lot of people wait until retirement to take big trips. Plan ahead, and don’t wait too long.",
-    "published": "Sat, 20 Jun 2026 18:17:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "I’m 73 and living 100% off dividends from my stocks. How can I create even more income?",
-    "link": "https://www.marketwatch.com/story/im-73-and-living-100-off-dividends-from-my-stocks-how-can-i-create-even-more-income-74b372f1?mod=mw_rss_topstories",
-    "summary": "A “bulletproof” portfolio may be impossible, but you can try to get close if you have enough money invested",
-    "published": "Sat, 20 Jun 2026 18:02:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "The one-page pledge that forces your financial adviser to put you first",
-    "link": "https://www.marketwatch.com/story/the-one-page-pledge-that-forces-your-financial-adviser-to-put-you-first-6e88ba07?mod=mw_rss_topstories",
-    "summary": "Most investors ignore this abstract legal rule — and it’s fueling a massive wave of fraud.",
-    "published": "Sat, 20 Jun 2026 17:50:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
-    "link": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
-    "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
-    "published": "Sat, 20 Jun 2026 17:42:00 GMT"
-  },
-  {
     "source": "CNBC Business",
     "title": "SNAP restrictions could change what shoppers buy — and food giants are watching",
     "link": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html",
@@ -204,10 +204,17 @@
   },
   {
     "source": "CNBC Finance",
-    "title": "Vance arrives in Switzerland for talks with Iranian negotiators amid rising Strait of Hormuz tensions",
+    "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
+    "link": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
+    "summary": "The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.",
+    "published": "Sun, 21 Jun 2026 11:14:02 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "U.S. and Iran begin peace talks amid conflicting claims over Strait of Hormuz",
     "link": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
     "summary": "Iran's military said it had closed the Strait of Hormuz in response to continued Israeli military strikes in Lebanon; the U.S. said it remains open.",
-    "published": "Sun, 21 Jun 2026 07:19:43 GMT"
+    "published": "Sun, 21 Jun 2026 12:16:26 GMT"
   },
   {
     "source": "CNBC Finance",
@@ -218,45 +225,73 @@
   },
   {
     "source": "Hacker News Top",
+    "title": "Google Hits 50% IPv6",
+    "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+    "summary": "<p>Article URL: <a href=\"https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/\">https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48616800\">https://news.ycombinator.com/item?id=48616800</a></p>\n<p>Points: 252</p>\n<p># Comments: 248</p>",
+    "published": "Sun, 21 Jun 2026 08:21:22 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Developers don't understand CORS (2019)",
+    "link": "https://fosterelli.co/developers-dont-understand-cors",
+    "summary": "<p>Article URL: <a href=\"https://fosterelli.co/developers-dont-understand-cors\">https://fosterelli.co/developers-dont-understand-cors</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48614844\">https://news.ycombinator.com/item?id=48614844</a></p>\n<p>Points: 258</p>\n<p># Comments: 194</p>",
+    "published": "Sun, 21 Jun 2026 01:35:40 +0000"
+  },
+  {
+    "source": "Hacker News Top",
     "title": "Renting a sewing machine from the library",
     "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland\">https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613755\">https://news.ycombinator.com/item?id=48613755</a></p>\n<p>Points: 216</p>\n<p># Comments: 107</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland\">https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613755\">https://news.ycombinator.com/item?id=48613755</a></p>\n<p>Points: 275</p>\n<p># Comments: 157</p>",
     "published": "Sat, 20 Jun 2026 22:54:11 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Slow breathing modulates brain function and risk behavior",
+    "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+    "summary": "<p>Article URL: <a href=\"https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9\">https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613555\">https://news.ycombinator.com/item?id=48613555</a></p>\n<p>Points: 272</p>\n<p># Comments: 78</p>",
+    "published": "Sat, 20 Jun 2026 22:22:52 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
     "link": "https://www.lispm.net/apps/uhf-x11/",
-    "summary": "<p>Article URL: <a href=\"https://www.lispm.net/apps/uhf-x11/\">https://www.lispm.net/apps/uhf-x11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610853\">https://news.ycombinator.com/item?id=48610853</a></p>\n<p>Points: 202</p>\n<p># Comments: 37</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.lispm.net/apps/uhf-x11/\">https://www.lispm.net/apps/uhf-x11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610853\">https://news.ycombinator.com/item?id=48610853</a></p>\n<p>Points: 213</p>\n<p># Comments: 48</p>",
     "published": "Sat, 20 Jun 2026 17:04:24 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "SMPTE Makes Its Standards Freely Accessible",
     "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-    "summary": "<p>Article URL: <a href=\"https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community\">https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610827\">https://news.ycombinator.com/item?id=48610827</a></p>\n<p>Points: 255</p>\n<p># Comments: 76</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community\">https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610827\">https://news.ycombinator.com/item?id=48610827</a></p>\n<p>Points: 272</p>\n<p># Comments: 93</p>",
     "published": "Sat, 20 Jun 2026 17:01:36 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
     "link": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-    "summary": "<p>Article URL: <a href=\"https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html\">https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48609766\">https://news.ycombinator.com/item?id=48609766</a></p>\n<p>Points: 246</p>\n<p># Comments: 64</p>",
+    "summary": "<p>Article URL: <a href=\"https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html\">https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48609766\">https://news.ycombinator.com/item?id=48609766</a></p>\n<p>Points: 266</p>\n<p># Comments: 68</p>",
     "published": "Sat, 20 Jun 2026 15:10:03 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Loupe – A iOS app that raises awareness about what native apps can see",
     "link": "https://github.com/mysk-research/loupe",
-    "summary": "<p>Article URL: <a href=\"https://github.com/mysk-research/loupe\">https://github.com/mysk-research/loupe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608645\">https://news.ycombinator.com/item?id=48608645</a></p>\n<p>Points: 257</p>\n<p># Comments: 84</p>",
+    "summary": "<p>Article URL: <a href=\"https://github.com/mysk-research/loupe\">https://github.com/mysk-research/loupe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608645\">https://news.ycombinator.com/item?id=48608645</a></p>\n<p>Points: 388</p>\n<p># Comments: 154</p>",
     "published": "Sat, 20 Jun 2026 12:08:23 +0000"
   },
   {
     "source": "Hacker News Top",
-    "title": "Temporary Cloudflare accounts for AI agents",
-    "link": "https://blog.cloudflare.com/temporary-accounts/",
-    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/temporary-accounts/\">https://blog.cloudflare.com/temporary-accounts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608394\">https://news.ycombinator.com/item?id=48608394</a></p>\n<p>Points: 206</p>\n<p># Comments: 109</p>",
-    "published": "Sat, 20 Jun 2026 11:19:05 +0000"
+    "title": "Show HN: TownSquare, a tiny presence layer for websites",
+    "link": "https://townsquare.cauenapier.com/",
+    "summary": "<p><a href=\"https://cauenapier.com/blog/townsquare_release/\" rel=\"nofollow\">https://cauenapier.com/blog/townsquare_release/</a><p><a href=\"https://cauenapier.com/blog/townsquare/\" rel=\"nofollow\">https://cauenapier.com/blog/townsquare/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608570\">https://news.ycombinator.com/item?id=48608570</a></p>\n<p>Points: 212</p>\n<p># Comments: 118</p>",
+    "published": "Sat, 20 Jun 2026 11:55:03 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "Review: Widow's Bay is a boldly original take on comedic horror",
+    "link": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
+    "summary": "An eminently binge-able series that honors classic horror tropes while reinventing them in surprising ways",
+    "published": "Sun, 21 Jun 2026 10:00:11 +0000"
   },
   {
     "source": "Ars Technica",
@@ -292,12 +327,5 @@
     "link": "https://www.scmp.com/business/china-business/article/3357698/alo-texas-chicken-foreign-brands-bet-china-despite-stiff-rivalry?utm_source=rss_feed",
     "summary": "Premium and niche foreign brands are entering or returning to China as they seek to unlock growth in the country’s vast consumer market just as many international companies are either pulling out or closing shop amid fierce competition in a fast-changing environment.\nForeign companies including American firms Alo Yoga and Church’s Texas Chicken (operating as Texas Chicken internationally), German supermarket chain Müller and British perfume brand Clive Christian have all either entered the...",
     "published": "Sat, 20 Jun 2026 04:00:06 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Energy storage: China’s battery power sets stage for global leadership",
-    "link": "https://www.scmp.com/business/china-business/article/3357558/energy-storage-chinas-battery-power-sets-stage-global-leadership?utm_source=rss_feed",
-    "summary": "On a sunny morning in late May, a massive laboratory designed to create extreme conditions – from melting heat to bone-cracking cold, howling sandstorms, corrosive ocean spray and even fire – officially opened in the coastal city of Xiamen, in eastern China’s Fujian province.\nEquivalent in size to 14 football pitches, the 3 billion yuan (US$444 million) facility will throw everything it has at battery-based energy-storage systems built by Chinese manufacturers, testing the equipment’s mettle...",
-    "published": "Fri, 19 Jun 2026 22:00:12 +0000"
   }
 ]
