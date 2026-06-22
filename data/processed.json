@@ -1,52 +1,92 @@
 {
   "top5": [
     {
-      "title": "美国-伊朗会谈取得进展，国际油价应声下跌",
-      "summary": "在美国与伊朗进行的高级别会谈中，伊朗外交部长表示在结束黎巴嫩冲突方面取得了“重大进展”，推动国际油价下跌。此前，市场因霍尔木兹海峡的不确定性而波动。此次会谈的积极信号有望缓解中东地区的地缘政治紧张，对全球能源供应和价格稳定具有重要影响，降低了原油市场溢价，利好全球经济成本端。",
+      "title": "美联储前主席格林斯潘逝世，其政策遗产引发反思",
+      "summary": "前美联储主席艾伦·格林斯潘在百岁高龄去世。他执掌美联储19年，对现代美国经济产生深远影响，其“格林斯潘看跌期权”策略（在市场下跌时降息救市）被认为在危机中稳定了市场，但也可能导致了过度冒险和资产泡沫。他的离世促使市场和经济学家重新审视央行在市场干预中的作用和长期影响。",
+      "sources": [
+        {
+          "name": "Federal Reserve Press",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm"
+        },
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/alan-greenspan-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=alan-greenspan-rip"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/alan-greenspans-legacy-as-fed-chair-the-greenspan-put-and-a-shift-to-overprotecting-markets-a7a4030d?mod=mw_rss_topstories"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html"
+        }
+      ]
+    },
+    {
+      "title": "苹果因欧盟法规限制，暂不在欧盟推出部分“Apple Intelligence”功能",
+      "summary": "苹果公司宣布，由于欧盟《数字市场法案》（DMA）带来的监管不确定性，将暂缓在欧盟地区推出其全新的“Apple Intelligence”人工智能功能，包括iPhone镜像和SharePlay屏幕共享。此举凸显了大型科技公司在遵守全球各地日益收紧的数字市场法规时面临的挑战，可能影响苹果在关键市场的AI战略部署和用户体验，并引发对其他科技巨头类似合规问题的关注。",
+      "sources": [
+        {
+          "name": "Stratechery (Ben Thompson)",
+          "url": "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e.u/"
+        }
+      ]
+    },
+    {
+      "title": "中国AI技术发展提速，同时收紧对稀土出口的控制",
+      "summary": "报告显示，中国在人工智能领域正以超预期速度缩小与西方的差距，硅谷和美国企业日益转向中国开发的廉价开源AI模型。与此同时，中国加强了对美国关键磁铁制造商的稀土出口控制，此举旨在重建国内关键供应链，并可能加剧中美贸易和科技冲突。这两方面动态表明中国在技术和战略资源上的影响力均在增强，对全球科技格局和供应链安全构成重要影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/22/business/dealbook/china-closing-ai-gap.html"
+        },
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/22/business/china-rare-earths.html"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/06/22/business/dealbook/china-closing-ai-gap.html"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/big-tech-is-splitting-into-two-artificial-intelligence-camps-here-is-the-better-bet-e75c9876?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "谷歌母公司Alphabet面临AI人才流失，市值蒸发近2700亿美元",
+      "summary": "谷歌母公司Alphabet因两名顶尖AI研究员（包括一名诺贝尔奖得主）离职加入竞争对手实验室的消息，导致市值单日蒸发高达2690亿美元。这一事件引发投资者对Alphabet在激烈的人工智能人才争夺战中是否处于劣势的担忧，凸显了AI领域顶级人才对公司估值和未来竞争力的巨大影响力。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/alphabet-sees-269-billion-market-cap-wipeout-as-investors-fear-its-losing-the-war-for-ai-talent-497aa378?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "伊朗核谈判进展与中东局势缓解推动油价下跌",
+      "summary": "随着美国与伊朗在瑞士举行高级别会谈，伊朗外交部长表示在结束黎巴嫩冲突方面取得“重大进展”，国际油价应声下跌至每桶74美元以下。会谈旨在促成临时停火永久化，并可能解除对伊朗石油的制裁。这一进展缓解了对霍尔木兹海峡石油供应中断的担忧，但若未来谈判出现波折，油价仍可能剧烈波动，全球能源市场持续关注中东地缘政治风险。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/06/22/business/oil-gas-price-iran.html"
-        }
-      ]
-    },
-    {
-      "title": "英国首相宣布辞职，市场关注政治过渡对经济的影响",
-      "summary": "英国首相斯塔默（Starmer）宣布辞职，引发市场对英国政治未来走向的关注。分析师普遍预计，如果工党新领袖安迪·伯纳姆（Andy Burnham）上任，英国长期借贷成本可能会上升。此次政治变动为英国经济和市场带来了新的不确定性，投资者将密切关注新政府的财政和经济政策走向，可能影响英镑汇率及英国资产吸引力。",
-      "sources": [
+        },
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/21/business/oil-rises-amid-uncertainty-over-strait-of-hormuz.html"
+        },
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/starmer-says-hes-resigning-as-u-k-prime-minister-heres-what-it-means-for-markets-f27a70e5?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "中国放宽外资企业上市限制，扩大资本市场开放",
-      "summary": "中国宣布支持符合条件的外资企业在境内股票市场上市，此举是中国政府进一步开放内地资本市场、吸引外国直接投资（FDI）的重要举措。财政部、商务部等三部门联合发文，要求证券交易所优化上市沟通服务。这一政策变化旨在提振外资信心，深化资本市场改革，为国际投资者提供了更多参与中国经济增长的渠道。",
-      "sources": [
+          "url": "https://www.marketwatch.com/story/u-s-oil-prices-fall-below-74-a-barrel-on-60-day-pause-on-iranian-oil-sanctions-0b7c7130?mod=mw_rss_topstories"
+        },
         {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/markets/article/3357888/china-back-qualified-foreign-firms-listing-domestic-markets?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "中国智谱AI市值突破万亿港元，AI板块受投资者追捧",
-      "summary": "香港上市的人工智能先驱智谱AI（Zhipu AI，交易名称为Knowledge Atlas Technology）市值周一飙升突破1万亿港元（约1280亿美元），盘中股价一度大涨42%。这一表现反映了投资者对中国AI领域领先企业的强劲信心，并预示着亚洲AI市场在全球竞争中日益重要的地位。智谱AI的增长有望带动相关产业链及AI概念股的关注度。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/tech/article/3357858/zhipu-ai-market-cap-tops-hk1-trillion-shares-glm-52-developer-soar?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "苹果在欧盟推出AI功能受阻，但上调部分服务价格",
-      "summary": "据Stratechery分析，苹果公司正对其服务进行价格调整，但其核心AI功能“Apple Intelligence”却无法在欧盟市场推出，原因是《数字市场法案》（DMA）等监管政策带来的不确定性。这一情况凸显了科技巨头在全球市场面临的日益复杂的监管挑战，可能导致不同地区用户体验差异化，并迫使公司重新评估全球产品发布和定价策略。",
-      "sources": [
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html"
         }
       ]
     }
@@ -54,121 +94,118 @@
   "people": [
     {
       "name": "Ben Thompson",
-      "title": "苹果策略分析：AI监管挑战与服务定价权",
-      "summary": "观点：苹果公司正在提高服务价格，这体现了其在生态系统中的强大定价能力。然而，其最新的AI功能“Apple Intelligence”无法在欧盟推出，主要受制于欧盟的《数字市场法案》（DMA）。这表明监管环境正日益成为科技巨头全球扩张的重要障碍，迫使公司在不同市场采取差异化策略。",
+      "title": "欧盟DMA法规正迫使苹果在AI战略上做出权衡",
+      "summary": "观点：Ben Thompson指出，苹果在欧盟暂停部分“Apple Intelligence”功能，是因欧盟《数字市场法案》(DMA)带来的监管不确定性。这迫使苹果在用户体验和隐私保护之间进行权衡，尤其是在可能需要第三方开放接口以实现互操作性的背景下。他认为，此举揭示了监管对科技巨头全球产品发布策略的深远影响。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/"
+          "url": "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e.u/"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Ankur Crawford",
+      "title": "AI并非泡沫，其独特之处在于变革性潜力",
+      "summary": "原话：「许多人对AI的理解存在误区，认为其是又一个市场泡沫。但她强调，AI技术与以往不同，其变革性潜力远超预期，正处于早期阶段，将从根本上改变各行各业。」Dr. Ankur Crawford在“Talk Your Book”节目中表示，市场最终会证明AI投资的价值，并建议投资者关注那些能利用AI进行创新和扩大规模的公司。",
+      "sources": [
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/06/talk-your-book-ai-is-not-a-bubble/"
         }
       ]
     },
     {
       "name": "Tyler Cowen",
-      "title": "美国2017年税改对劳动力市场的影响分析",
-      "summary": "观点：2017年的《减税与就业法案》（TCJA）是自1986年以来美国所得税法最重大的改革。通过利用税法实施后的异质性变化进行分析，该法案对美国劳动力市场，包括就业率和工资水平，产生了可观察到的结构性影响，而非仅是短期波动。这为评估大规模财政政策的长期效应提供了重要参考。",
+      "title": "AI将重塑知识体系的更新与连接方式",
+      "summary": "观点：Tyler Cowen引用John Horton的观点，认为“文献”（学术和知识体系）将演变为一个由节点/论文构成的计算暂停集合，而“引用”则是描述新数据、优化模型和方法论如何通过AI代理自主添加边缘、触发知识图谱更新的条件性连接。他指出，AI不仅是工具，更将成为知识生产和迭代的核心机制，预示着未来研究和信息传播模式的根本性变革。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/labor-market-effects-of-the-tax-cuts-and-jobs-act.html?utm_source=rss&utm_medium=rss&utm_campaign=labor-market-effects-of-the-tax-cuts-and-jobs-act"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/monday-assorted-links-565.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-565"
         }
       ]
     },
     {
-      "name": "Ben Carlson",
-      "title": "市场泡沫与顶部预测的挑战",
-      "summary": "观点：预测市场顶部和识别泡沫是一项极具挑战性的任务。过去的市场周期表明，在狂热情绪下，估值可能长时间偏离基本面，而精确判断何时反转几乎不可能。投资者应警惕过度自信，专注于长期价值投资而非短期市场时机判断，以避免错失良机或陷入过度投机。",
+      "name": "Alan Greenspan",
+      "title": "其“格林斯潘看跌期权”遗产与市场过度保护",
+      "summary": "观点：艾伦·格林斯潘的离世引发对其作为美联储主席长达19年的遗产的讨论。他的“格林斯潘看跌期权”策略（即在市场出现严重下跌时迅速降息，被认为过度保护了市场）被指出为美联储带来了长期问题，可能助长了风险偏好和资产泡沫。这一争议性的遗产促使人们反思央行在稳定市场和防止过度投机之间的平衡。",
       "sources": [
         {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/06/spotting-bubbles-and-calling-tops/"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/alan-greenspans-legacy-as-fed-chair-the-greenspan-put-and-a-shift-to-overprotecting-markets-a7a4030d?mod=mw_rss_topstories"
         }
       ]
     },
     {
       "name": "Kevin Warsh",
-      "title": "前美联储理事Warsh或将“天鹅绒革命”重塑美联储",
-      "summary": "观点：前美联储理事凯文·沃什（Kevin Warsh）正试图通过其被特朗普任命后的行动，以“天鹅绒手套里的政权更迭”方式重塑美联储。最初宣布的重大变革指向一场悄然的革命，他设立了多个工作组，旨在重新思考美联储的几乎所有运作方式。这预示着美联储未来可能在货币政策制定、监管方法和内部管理上出现深刻变革，对全球金融市场产生深远影响。",
+      "title": "正推动美联储进行“天鹅绒手套”式改革",
+      "summary": "观点：前美联储理事凯文·沃什正致力于对美联储进行“静默革命式”的改革，通过设立特别工作组，重新审视美联储几乎所有的运作方式。这种“天鹅绒手套下的政权更迭”旨在优化决策流程、提升透明度，并更好地适应当前复杂的经济环境。他的举措预示着美联储内部可能迎来结构性和战略性的大调整。",
       "sources": [
         {
           "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "美国2017年税改对劳动力市场产生显著影响",
-      "summary": "对2017年《减税与就业法案》（TCJA）的最新研究表明，该法案对美国劳动力市场产生了结构性影响。研究通过利用该立法生效后劳动力市场的实际数据，提供了比先前基于预估数据分析更为精确的洞察。这对于理解大型财政政策如何长期重塑经济结构，以及未来税改的方向具有重要参考价值。",
+      "title": "英国首相辞职后市场反应平静，经济不确定性仍存",
+      "summary": "英国首相斯塔默宣布辞职并公布继任时间表后，英国市场表现平静，未出现剧烈波动。然而，新政府的经济政策走向仍不明朗，脱欧后的经济挑战、通胀压力及财政前景等不确定因素依然存在，投资者正密切关注未来领导层将如何应对这些结构性问题。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/22/business/starmer-burnham-chancellor.html"
+        }
+      ]
+    },
+    {
+      "title": "美国2017年减税与就业法案对劳动力市场的影响研究",
+      "summary": "一项研究利用税收政策中看似外生的变动，评估了2017年《减税与就业法案》（TCJA）对美国劳动力市场的影响。该法案是自1986年以来美国税法最重大的改革。此研究旨在提供基于立法后数据的实证分析，对理解税改如何影响就业、工资和企业投资决策具有重要参考价值，并为未来的财政政策制定提供依据。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
           "url": "https://marginalrevolution.com/marginalrevolution/2026/06/labor-market-effects-of-the-tax-cuts-and-jobs-act.html?utm_source=rss&utm_medium=rss&utm_campaign=labor-market-effects-of-the-tax-cuts-and-jobs-act"
         }
       ]
-    },
-    {
-      "title": "中国坐拥大量石油储备，在全球能源争夺中占据战略优势",
-      "summary": "在全球各国为争夺石油供应而焦头烂额之际，中国却拥有充裕的石油储备。尽管霍尔木兹海峡可能重新开放，中国可能不会迅速恢复到战前从波斯湾地区购买石油的水平。这表明中国在能源安全方面具有较强的战略韧性，能够在全球能源市场波动中保持相对稳定，为其经济发展提供缓冲。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/21/business/china-oil-iran.html"
-        }
-      ]
-    },
-    {
-      "title": "乌克兰袭击导致克里米亚燃料销售暂停，区域能源供应受影响",
-      "summary": "由于乌克兰持续袭击俄罗斯占领区的补给路线和石油设施，克里米亚地区的燃料销售已被暂停。此前，由于基辅的打击，燃料已经实行配给制。这一事件凸显了地缘政治冲突对区域能源基础设施和供应稳定的直接影响，可能加剧当地的经济困难，并对黑海地区的航运和贸易产生连锁反应。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
     }
   ],
   "tech": [
     {
-      "title": "AI计算力商品化，有望成为“新石油”",
-      "summary": "有观点认为，AI计算力正迅速成为一种可交易的商品，未来其市场规模可能与全球最大的大宗商品市场相媲美。硅谷数据公司Silicon Data的Carmen Li指出，AI算力期货有望成为下一个“新石油”。这一趋势意味着AI基础设施将成为关键经济资源，推动数据中心、芯片制造等相关产业的投资，并可能引发新的金融衍生品市场。",
+      "title": "超级微电脑(Super Micro)股价飙升，得益于与英伟达的合作",
+      "summary": "超级微电脑（Super Micro）的股价近期迎来一年内最佳表现，主要得益于其与英伟达（Nvidia）在人工智能硬件供应方面的紧密合作。作为AI服务器和存储解决方案提供商，Super Micro在英伟达主导的AI芯片生态系统中扮演关键角色，其业绩增长反映了AI基础设施建设的强劲需求，也预示着AI硬件供应链上的合作将是未来科技投资的重要主题。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/super-micros-stock-is-seeing-its-best-run-in-a-year-thanks-to-nvidia-partnership-f619e58e?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "Apertus推出开放基础模型，推动“主权AI”发展",
-      "summary": "Apertus推出了一个专注于“主权AI”的开放基础模型。主权AI旨在确保国家或地区能够控制其AI技术和数据，符合本地价值观和法规。这一举措反映了全球对AI数据主权和技术自主性的日益增长的需求，可能推动各国对本土AI能力建设的投入，并在地缘政治背景下，影响AI技术在全球范围内的部署和合作模式。",
+      "title": "大型科技公司AI战略分化：智能资金不追逐下一个OpenAI",
+      "summary": "当前大型科技公司在人工智能领域已分化为两大阵营，但“智能资金”并未盲目追逐下一个OpenAI式的独角兽。分析指出，Alphabet和微软等科技巨头因其在AI基础设施、研发能力和市场份额上的优势，被认为是AI竞赛中更稳妥的选择。这表明投资者对AI投资已趋于理性，更看重巨头的长期战略布局和生态系统优势而非短期炒作。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/big-tech-is-splitting-into-two-artificial-intelligence-camps-here-is-the-better-bet-e75c9876?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "Apertus推出“主权AI”开源基础模型，旨在构建可信赖AI生态",
+      "summary": "Apertus项目发布了其“主权AI”开源基础模型，旨在为各国和机构提供更安全、可控的人工智能解决方案。这一举措响应了全球对数据主权和AI伦理的日益关注，通过开源模式，允许开发者和国家根据自身需求定制和管理AI系统，从而降低对少数科技巨头的依赖，促进更广泛的AI创新和信任。",
       "sources": [
         {
           "name": "Hacker News Top",
           "url": "https://apertvs.ai/"
         }
       ]
-    },
-    {
-      "title": "分析认为转向开源AI模型具有最小下行风险",
-      "summary": "一份分析指出，企业转向使用开源AI模型所面临的下行风险极小。随着开源社区在AI领域快速发展，许多开源模型在性能上已接近甚至超越专有模型，同时提供了更大的灵活性、透明度和成本效益。这一趋势鼓励更多企业采用开源AI解决方案，降低了技术壁垒，加速了AI创新，并可能改变AI软件市场的竞争格局。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://www.marble.onl/posts/cancel_claude.html"
-        }
-      ]
     }
   ],
   "us_stocks": [
     {
-      "title": "EasyJet拒绝美国投资公司47亿英镑收购要约",
-      "summary": "英国航空公司EasyJet拒绝了美国投资公司Castlelake提出的约47亿英镑（59.6亿美元）的收购要约。EasyJet将此次出价形容为“高度投机”。这一并购事件反映了国际航空业在疫情后整合的趋势，以及私募股权对优质资产的兴趣。对投资者而言，这可能意味着EasyJet股价短期内仍有波动，但长期看其战略价值获得认可。",
+      "title": "EasyJet拒绝美国Castlelake 47亿英镑收购要约，称其“高度投机”",
+      "summary": "英国廉价航空公司EasyJet拒绝了美国私募股权公司Castlelake提出的47亿英镑收购要约，称该报价“高度投机”且低估了公司价值。此举显示出航空业在后疫情时代估值分歧，以及私募股权基金对受疫情冲击行业进行整合的兴趣。EasyJet管理层对公司的未来增长潜力持乐观态度，此次拒绝可能预示着更激烈的竞购战或独立发展策略。",
       "sources": [
         {
           "name": "BBC Business",
@@ -177,98 +214,94 @@
       ]
     },
     {
-      "title": "《玩具总动员5》票房表现强劲，推动好莱坞夏季市场复苏",
-      "summary": "迪士尼-皮克斯的续集电影《玩具总动员5》周末北美票房预计达到1.6亿美元，使今年夏季北美票房总额达到18.5亿美元，成为自2019年以来好莱坞最火热的夏季。这部电影的成功标志着迪士尼和皮克斯在近年来面临挑战后的回归，也提振了整个电影行业的信心，预示着流媒体与院线发行平衡下，传统影院业务的强劲复苏潜力。",
+      "title": "Lucid Group裁员18%并更换首席运营官，电动汽车市场竞争加剧",
+      "summary": "豪华电动汽车制造商Lucid Group宣布裁减约18%的美国员工，同时首席运营官Marc Winterhoff立即离职。此举是公司削减成本计划的一部分，反映出电动汽车市场在激烈竞争和宏观经济逆风下面临的挑战。Lucid的结构调整旨在提升运营效率，以应对交付瓶颈和盈利压力，但同时也凸显了新兴EV品牌在扩张期的严峻考验。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/21/business/media/toy-story-5-box-office-hollywood-summer.html"
-        },
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/22/lucid-layoffs-evs.html"
+        }
+      ]
+    },
+    {
+      "title": "UPS斥资4800万美元投资温控设施，响应医疗保健物流增长",
+      "summary": "联合包裹服务公司（UPS）宣布将投资4800万美元扩建其温控物流设施，以应对全球医疗保健行业对专业运输服务日益增长的需求。这一战略投资旨在巩固UPS在冷链物流领域的领导地位，特别是在疫苗、生物制剂等高价值、时间敏感的医疗产品运输方面。此举突显了医疗保健物流作为关键增长领域的重要性，也反映了疫情后供应链韧性的需求。",
+      "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.com/news/articles/cx2kqg958v1o?at_medium=RSS&at_campaign=rss"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/22/ups-healthcare-logistics-investment.html"
+        }
+      ]
+    },
+    {
+      "title": "Target董事长兼CEO科内尔投资者支持率跌至历史最低",
+      "summary": "尽管Target董事长兼首席执行官布赖恩·科内尔曾将公司打造成千亿美元零售巨头，但近期业绩下滑和市场表现不佳导致其投资者支持率降至历史最低点。这表明投资者对公司当前战略和领导层表现存在严重不满，可能引发对公司治理结构和未来发展方向的质疑，也反映出零售业在消费者行为变化和经济压力下的巨大挑战。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/22/target-brian-cornell-shareholder-support.html"
+        }
+      ]
+    },
+    {
+      "title": "卡特彼勒股价创里程碑，工业股上涨助力华尔街牛市",
+      "summary": "重型机械制造商卡特彼勒（Caterpillar）的股价达到新高，成为道琼斯指数中今年表现最好的股票，且是指数中仅有的两支股价超过1000美元的股票之一。这一表现反映了美国工业板块的强劲上涨势头，预示着市场对基础设施建设和全球经济复苏的乐观预期。卡特彼勒作为工业晴雨表，其股价飙升进一步支撑了华尔街的整体牛市情绪。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/caterpillars-stock-hits-a-milestone-as-roaring-industrials-rally-sweeps-up-wall-street-391057f7?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "a_stocks": [
     {
-      "title": "中国可再生能源巨头恩威集团计划在欧洲实现大部分本土化运营",
-      "summary": "中国可再生能源巨头恩威集团（Envision）正计划进一步深化在欧洲的本土化战略，目标是最终在欧洲市场实现超过一半的供应链本土采购。恩威集团储能首席技术官Kotub Uddin表示，公司致力于“在欧洲体系内，与欧洲人合作，为欧洲制造”。此举旨在应对欧洲日益增长的绿色转型需求和本土化生产压力，对中国企业出海战略具有示范意义。",
+      "title": "中国收紧稀土对美出口，威胁贸易冲突",
+      "summary": "中国再次收紧对两家美国关键磁铁制造商的稀土出口控制，此举直接针对特朗普政府重建国内关键供应链的努力。此举不仅可能加剧中美之间的贸易和科技紧张局势，也凸显了稀土作为战略性资源的全球供应链脆弱性。对于寻求供应链多元化和去风险的美国企业而言，这将带来新的挑战和成本。",
       "sources": [
         {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3357855/why-chinese-renewables-giant-wants-put-over-50-operations-europe?utm_source=rss_feed"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/22/business/china-rare-earths.html"
         }
       ]
     },
     {
-      "title": "苹果供应商凌亿科技寻求11亿美元香港IPO，发力AI和机器人",
-      "summary": "苹果供应商凌亿科技（Lingyi iTech）正在寻求通过香港首次公开募股（IPO）融资至多11亿美元，以支持其在人工智能硬件和人形机器人领域的扩张。这家在深圳上市的电子元件制造商预计将于周五在港交所首次亮相。此次IPO表明中国科技公司正积极从智能手机业务向AI和机器人等前沿领域转型，寻求新的增长点，也为香港市场注入新的活力。",
+      "title": "中国经济新现象：年轻人“购买情绪”以应对房地产市场低迷",
+      "summary": "在中国房地产市场持续低迷的背景下，一种新的消费趋势正在兴起，即年轻人通过购买“情绪产品”（如悲伤的精灵玩具或机器人警察）来应对经济压力和不确定性。这一现象被视为中国经济“怪异”的新增长点，反映出消费信心受挫后，人们转向精神慰藉而非传统消费的深层社会经济变化。这可能对消费市场结构产生长期影响。",
       "sources": [
         {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/tech/article/3357705/apple-supplier-lingyi-seeks-us11-billion-hong-kong-ipo-fund-ai-and-robotics-push?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "中国主要城市楼市现筑底迹象，购房者积极入市寻求机会",
-      "summary": "在经历六年房地产低迷后，上海等中国主要城市的房价出现筑底迹象，随着近期政策宽松，意向购房者正积极寻找抄底机会。活跃的交易也提振了经纪人对市场的信心，部分二手房价格已较峰值下降近一半。虽然多数买家并非押注市场快速反转，但普遍认为当前房价更具吸引力，这可能预示着中国房地产市场正在经历结构性调整和预期修复。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/banking-finance/article/3357835/buyers-hunt-bargains-amid-signs-chinas-home-prices-are-bottoming-out?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "韩国投资者通过香港平台加杠杆投资AI和芯片股",
-      "summary": "分析人士指出，“错失恐惧症”（FOMO）促使部分韩国散户投资者转向香港平台，利用杠杆投资人工智能（AI）和芯片股票。这种资金流向香港的现象，归因于香港金融机构提供的杠杆产品、货币优势、便捷的访问途径以及监管套利空间。此趋势反映了全球投资者对AI和半导体领域高增长的强烈兴趣，以及香港作为区域金融中心的独特吸引力。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/banking-finance/article/3357851/south-korean-investors-leverage-hong-kong-cash-ai-and-chips-boom?utm_source=rss_feed"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/chinas-new-economic-drivers-a-sad-toy-elf-and-a-robot-police-force-8759daf9?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "business": [
     {
-      "title": "全球能源安全担忧推动中国储能企业海外订单激增",
-      "summary": "中东冲突导致的油气供应链中断，以及发达市场升级老旧电网的迫切需求，共同推动了全球对能源储存设施的强劲需求。这使得中国储能企业获得了大量海外订单，预计将在美国和欧洲等国家建设超过25千兆瓦时的储能容量。这一趋势不仅凸显了中国在清洁能源技术领域的竞争力，也反映了全球能源结构转型的加速，以及对能源韧性的日益重视。",
+      "title": "美国石油公司面对不确定市场，增产意愿保守",
+      "summary": "尽管中东地缘政治紧张可能为美国石油公司提供争夺市场份额的机会，但多数公司预计明年石油产量仅会温和增长。在不确定的市场环境下，美国石油公司对增加资本支出持谨慎态度，优先考虑股东回报而非激进扩张。这表明美国页岩油生产商正在经历从“增长优先”到“回报优先”的战略转变，可能限制全球石油供应的快速响应能力。",
       "sources": [
         {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/climate-and-energy/article/3357768/energy-security-fears-drive-global-surge-orders-chinese-storage-firms?utm_source=rss_feed"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/22/business/energy-environment/iran-war-us-oil-companies.html"
         }
       ]
     },
     {
-      "title": "德国考虑重启燃煤发电以应对天然气成本飙升",
-      "summary": "德国曾计划逐步淘汰燃煤发电，但由于天然气成本飙升，该国可能重新考虑这一战略。能源价格的波动和地缘政治因素正在迫使德国权衡其气候目标与能源安全及经济成本之间的关系。这一潜在政策转向将对欧洲的能源转型进程和碳排放目标产生影响，也可能为煤炭行业带来短期机遇。",
+      "title": "德国考虑重拾燃煤发电，应对天然气价格上涨",
+      "summary": "德国曾计划逐步淘汰燃煤发电，但由于天然气价格持续上涨，该国正在重新考虑其能源政策。为了确保能源供应稳定并控制成本，德国可能不得不暂时延长部分燃煤电厂的运营时间或提高其利用率。这一潜在的政策转向反映了欧洲在能源转型过程中面临的现实挑战，即在气候目标与能源安全、经济成本之间寻求平衡。",
       "sources": [
         {
           "name": "BBC Business",
           "url": "https://www.bbc.com/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss"
         }
       ]
-    },
-    {
-      "title": "特朗普政府的煤炭投资被指支持屡次违规发电厂",
-      "summary": "据报道，特朗普政府对煤炭行业的投资被指支持了至少三家屡次违反环境法规的燃煤发电厂。尽管这些工厂因环境污染问题多次被引用，政府的投资决策仍倾向于支持传统能源。这反映了环保政策与经济发展、就业等因素之间的持续紧张关系，也可能引发关于环境责任和政府补贴有效性的争议，对相关能源企业的ESG评级构成风险。",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/"
-        }
-      ]
     }
   ],
   "overlooked": [
     {
-      "title": "古巴启动数十年来最大改革，向资本主义开放，寻求经济转型",
-      "summary": "古巴正在实施数十年来最重大的经济改革，包括开放私人银行、建立外汇市场以及逐步取消补贴，标志着该国向资本主义经济模式迈进。这些改革旨在刺激经济增长，改善民生，但也将面临转型期的挑战。对于新兴市场投资者而言，古巴的开放可能带来新的投资机会，但同时也伴随着较高的政治和经济风险。",
+      "title": "古巴向资本主义开放，批准数十年来最大改革",
+      "summary": "古巴正在向资本主义开放，批准了数十年来最大规模的经济改革，包括允许私人银行、外汇市场以及逐步取消补贴。这一历史性转变旨在重振该国经济，吸引外国投资，并改善民众生活水平。对于投资者而言，这可能意味着一个新的新兴市场机遇，但也伴随着政治风险和政策不确定性，值得长期关注其转型进展。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -277,12 +310,22 @@
       ]
     },
     {
-      "title": "全球音乐市场持续去全球化，本土内容消费增长",
-      "summary": "在一个全球明星云集的时代，全球音乐市场正呈现出“去全球化”趋势。例如，丹麦（多数人口能流利使用英语）的听众越来越多地消费本土音乐：2019年丹麦前20名歌曲中只有5首是丹麦语，而去年这一数字已升至18首。这种趋势反映了文化认同和本土内容生产力的增强，对全球音乐产业的商业模式、本地艺人培养和市场投资策略产生深远影响。",
+      "title": "AI将把“文献”转化为可迭代、自更新的知识图谱",
+      "summary": "专家预测，未来的“文献”（包括学术论文、研究成果等）将不再是静态文本集合，而是由AI代理自主添加、更新的节点和边缘构成的动态知识图谱。新的数据、更优的模型和方法论将像Makefike一样，通过AI驱动的级联更新，使整个知识网络不断迭代。这种范式转变将彻底改变信息传播、知识生产和科学研究的方式，具有深远影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/music-markets-remain-deglobalized.html?utm_source=rss&utm_medium=rss&utm_campaign=music-markets-remain-deglobalized"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/monday-assorted-links-565.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-565"
+        }
+      ]
+    },
+    {
+      "title": "中国年轻人通过“情绪消费”应对经济压力",
+      "summary": "在中国经济面临结构性调整（特别是房地产市场下行）的背景下，出现了年轻人转向购买“情绪产品”以应对生活压力的趋势。这种非传统消费模式，如购买能带来情感共鸣的玩具，反映了深层的社会经济焦虑和消费观念的转变。这不仅可能影响未来的消费市场结构，也提示了关注宏观经济数据之外的社会心理变化。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/chinas-new-economic-drivers-a-sad-toy-elf-and-a-robot-police-force-8759daf9?mod=mw_rss_topstories"
         }
       ]
     }
