@@ -1,179 +1,54 @@
 {
   "top5": [
     {
-      "title": "OpenAI IPO计划推迟至明年，凸显AI行业估值泡沫与上市谨慎",
-      "summary": "有消息指出，AI巨头OpenAI的上市计划被顾问推迟至明年，此举是在SpaceX股票波动以及公司面临财务挑战背景下作出的审慎决定。这一延迟反映出当前AI领域估值过热的担忧，也表明大型科技独角兽公司在进入公开市场时，对市场条件和投资者情绪愈发谨慎，可能影响整个科技IPO市场的节奏和预期。",
+      "title": "全球科技股因AI不确定性承压，OpenAI推迟IPO",
+      "summary": "亚洲股市因投资者对人工智能支出繁荣的疑虑而大跌，科技股首当其冲。与此同时，OpenAI正考虑将IPO推迟至明年，其顾问团队建议在SpaceX股价波动和自身财务挑战背景下谨慎行事。这反映了市场对AI估值的重新审视，并预示主要AI公司在资本市场策略上的审慎，对全球科技投资情绪具有重要影响。",
       "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/26/business/oil-price-gas-iran.html"
+        },
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html"
         },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html"
-        }
-      ]
-    },
-    {
-      "title": "霍尔木兹海峡货船遇袭致交通中断，全球能源市场面临供应链风险",
-      "summary": "一艘货船在阿曼海岸附近遭到袭击后，全球关键航运通道霍尔木兹海峡的交通被暂停。此次事件直接加剧了中东地缘政治紧张局势，对全球能源供应和贸易运输链构成重大威胁。虽然油价随后有所回落，但此类事件的频发可能导致能源成本长期波动，并对全球通胀产生持续的推升作用，值得投资者高度关注。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/25/business/hormuz-ship-attack-iran.html"
-        },
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html"
-        }
-      ]
-    },
-    {
-      "title": "美联储年度银行压力测试结果积极，大型银行展现强大韧性",
-      "summary": "美联储发布的年度银行压力测试报告显示，美国大型银行在应对严重经济衰退情景下，仍能保持充足的资本水平，并能持续向家庭和企业提供贷款。这一结果增强了市场对美国金融系统稳定性的信心，为银行后续的资本分配决策（如股票回购和股息发放）提供了基础，也缓解了市场对潜在经济冲击下银行体系健康状况的担忧。",
-      "sources": [
-        {
-          "name": "Federal Reserve Press",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm"
-        },
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html"
-        }
-      ]
-    },
-    {
-      "title": "美国担忧对中国先进技术依赖加深，中美科技竞争升级",
-      "summary": "随着中国企业在多个高科技领域取得领先，美国官员表达了对未来技术依赖中国可能带来的负面影响的担忧。这不仅是中美两国在高科技领域战略竞争的最新体现，也凸显了全球供应链去风险化和技术自主可控的重要性。投资者需密切关注两国在半导体、AI等关键领域的政策走向，以及这可能对全球科技产业格局和资本流向产生的影响。",
-      "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/06/23/business/economy/china-megafactory-us-tech-race.html"
-        }
-      ]
-    },
-    {
-      "title": "美联储官员对通胀前景表态不一，未来货币政策路径添不确定性",
-      "summary": "芝加哥联储主席奥斯坦·古尔斯比表示通胀水平仍然“过高”，而纽约联储主席约翰·威廉姆斯则认为价格压力正在缓解。两位重量级美联储官员对通胀前景的不同解读，向市场释放了复杂信号。这种分歧增加了投资者对美联储未来利率路径和货币政策走向的判断难度，可能导致市场对降息时机和幅度的预期进一步波动。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html"
-        }
-      ]
-    }
-  ],
-  "people": [
-    {
-      "name": "Dylan Field",
-      "title": "Figma CEO迪伦·菲尔德：AI是设计行业的强劲顺风",
-      "summary": "观点：在接受Stratechery的采访时，Figma CEO迪伦·菲尔德强调，人工智能不仅不会取代设计师，反而将极大地赋能设计过程，为Figma等协作设计平台带来显著增长机遇。他认为AI工具能提升效率，让设计师专注于更高级别的创意工作，从而驱动整个设计产业向前发展。",
-      "sources": [
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/"
-        }
-      ]
-    },
-    {
-      "name": "Tyler Cowen",
-      "title": "经济学家泰勒·考恩指出新企业成立潮再次涌现，AI正变革学术研究",
-      "summary": "观点：考恩观察到美国新企业成立数量在疫情后持续处于历史高位，并在过去18个月再次激增，表明经济活力增强。他另提及如CoPaper.AI等AI工具正在“大规模终结传统经验论文的人工劳动”，预示AI对学术界研究范式带来深刻变革，可能提高研究效率，但也引发伦理和质量的考量。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/more-firms-more-dynamism.html"
-        },
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/translated-from-the-chinese.html"
-        }
-      ]
-    },
-    {
-      "name": "Robert Shiller",
-      "title": "诺贝尔经济学奖得主罗伯特·席勒反对对AI的过度悲观论调",
-      "summary": "观点：席勒在《纽约时报》的文章中表达了他对人工智能的积极看法，认为不应过度渲染AI的负面影响或对其未来发展持悲观态度。他可能认为AI的创新潜力远大于其潜在风险，呼吁人们对这项颠覆性技术保持更平衡和客观的视角，避免不必要的恐慌，从而更好地利用其发展红利。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/wednesday-assorted-links-559.html"
-        }
-      ]
-    },
-    {
-      "name": "Ben Carlson",
-      "title": "投资博主本·卡尔森分享一次性投资、多样化与退休规划观点",
-      "summary": "观点：卡尔森在其博客中探讨了一次性投资、资产多样化、满足退休需求和风险管理等核心投资议题。他通过分析不同金额（如15万、150万、500万）的财务规划，强调了在不同财富水平下，投资者需如何平衡风险与回报以实现长期财务目标，对于高净值投资者在资产配置方面具有参考价值。",
-      "sources": [
-        {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/06/150000-or-1-5-million-or-5-million/"
-        }
-      ]
-    },
-    {
-      "name": "美联储官员 (Goolsbee, Williams)",
-      "title": "美联储芝加哥和纽约联储主席对通胀前景持有不同看法",
-      "summary": "观点：芝加哥联储主席奥斯坦·古尔斯比明确表示当前通胀水平依然“过高”，暗示可能需要更长时间的限制性货币政策。而纽约联储主席约翰·威廉姆斯则认为价格压力正在缓解，预示通胀可能已步入下行通道。两位关键官员的差异化表态，为市场对美联储未来利率路径和货币政策走向的判断增加了复杂性。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "title": "5月美国通胀加速上升，伊朗冲突推动能源价格上涨",
-      "summary": "美国5月份通胀加速，这一关键指标的上升主要归因于中东冲突推高了能源价格。通胀压力的持续存在可能会影响美联储的货币政策决策，加剧市场对经济走向的担忧，并对消费者购买力和企业运营成本造成影响。这表明地缘政治事件仍是影响宏观经济稳定的重要因素。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/25/business/inflation-iran-war-prices.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/25/business/inflation-iran-war-prices.html"
-        }
-      ]
-    },
-    {
-      "title": "油价跌回伊朗冲突前水平，霍尔木兹海峡交通有望逐步恢复",
-      "summary": "随着霍尔木兹海峡关键航运线路交通有望逐步恢复的迹象出现，国际油价已回落至伊朗冲突前的水平。这表明市场对地缘政治紧张局势可能造成的供应中断担忧有所缓解。油价的稳定对全球经济通胀压力有积极作用，但也提醒投资者需警惕中东地区局势的潜在反复对能源市场的冲击。",
-      "sources": [
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "OPEC控制力或减弱，伊拉克暗示可能退出，油价面临下行压力",
-      "summary": "伊拉克暗示可能退出欧佩克，这为全球石油市场带来了新的不确定性。若伊拉克果真退出，可能进一步削弱欧佩克对全球原油供应和价格的控制力，导致市场供应增加。分析师预测，一个摆脱欧佩克控制的世界可能会促使油价跌至每桶50美元以下，这对能源生产国和依赖石油进口的国家经济产生深远影响。",
-      "sources": [
+          "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss"
+        },
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/a-world-rejecting-opec-controls-could-usher-in-oil-below-50-a-barrel-3d7eda1b?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/spacex-fomo-is-officially-over-space-stocks-across-the-board-are-getting-punished-77234fe8?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "美国新企业成立数量再次激增，预示经济活力与韧性",
-      "summary": "美国新企业成立数量继2020年疫情后首次跃升以来，在过去18个月再次出现激增。尽管疫情结束，但新企业成立率并未回落至旧有水平，反而持续高企。这一趋势表明美国经济的结构性变化和企业家精神的活跃，可能预示着未来的创新和就业增长，是经济韧性的重要体现，值得关注。",
+      "title": "伊朗战争推高能源价格，五月通胀加速",
+      "summary": "受中东地区冲突影响，全球原油价格上涨，导致美国五月份通胀加速。这一宏观经济发展引发了市场对通胀持续性的担忧。如果地缘政治紧张局势继续影响能源供应，中央银行可能面临更大的压力，需在抑制通胀和支持经济增长之间权衡，从而影响全球利率走向和资产配置策略。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/more-firms-more-dynamism.html"
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/06/25/business/inflation-iran-war-prices.html"
         }
       ]
-    }
-  ],
-  "tech": [
+    },
     {
-      "title": "苹果提高Mac和iPad价格，因内存和存储芯片成本飙升",
-      "summary": "苹果公司上调了部分Mac电脑和iPad的价格，涨幅超过200美元，理由是内存和存储芯片成本急剧上涨。苹果表示从未见过零部件价格如此之快地大幅上涨。此举反映了全球半导体供应链面临的成本压力，以及AI技术对高性能芯片需求激增可能带来的连锁反应，可能影响消费电子产品的定价策略和市场需求。",
+      "title": "芯片行业迎来重要进展：Intel复苏迹象与IBM亚纳米突破",
+      "summary": "英特尔的芯片业务在多年挣扎后显示出复苏迹象，这对于美国本土芯片制造战略至关重要。同时，IBM宣布在低于1纳米的芯片技术上取得突破性设计，尽管距离商业生产尚远。这些进展表明半导体技术创新竞赛日益激烈，对未来AI计算能力和全球科技格局具有深远战略意义。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "芯片成本飙升促使苹果上调Mac和iPad价格",
+      "summary": "苹果公司宣布上调部分Mac和iPad产品的售价，理由是内存和存储芯片成本出现“前所未有的快速上涨”。这一举措直接体现了由AI需求激增导致的半导体供应链紧张，高昂的组件成本正传导至终端消费电子产品，可能影响消费者购买力，并对科技硬件制造商的盈利能力构成挑战。",
       "sources": [
         {
           "name": "NYT Business",
@@ -190,8 +65,152 @@
       ]
     },
     {
-      "title": "微软股价因AI巨额投入遭遇历史性下跌，投资者担忧资本支出",
-      "summary": "微软股价在6月遭遇了历史性下跌，投资者对其在人工智能领域的大量资本投入表示担忧。分析师指出，此前看重微软自由现金流的投资者，现在被要求为公司进入高资本密集度周期买单。这表明市场在平衡AI带来的长期增长潜力与短期内高昂的研发和基础设施成本之间存在分歧，对其他AI领跑者可能产生警示作用。",
+      "title": "美国新业务成立持续激增，经济活力显现",
+      "summary": "美国新企业注册数量再次激增，维持在历史高位。这一趋势始于2020年，疫情期间重塑了工作、购物和物流模式后，新业务成立量不降反升，并在过去18个月中再次加速。新业务的蓬勃发展是经济活力的重要标志，预示着创新、就业增长和市场适应能力，为投资者观察经济韧性提供积极信号。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/more-firms-more-dynamism.html?utm_source=rss&utm_medium=rss&utm_campaign=more-firms-more-dynamism"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "name": "Dylan Field",
+      "title": "Figma CEO认为AI为设计行业带来巨大顺风",
+      "summary": "观点：Figma CEO Dylan Field表示，AI将为设计公司带来巨大的发展机遇。原话：「AI is going to give us an incredible tailwind. There’s a lot of things that we do in design that are rote, that are repetitive, that are about producing a lot of permutations. And AI is going to make it much faster to do all of those things.」",
+      "sources": [
+        {
+          "name": "Stratechery (Ben Thompson)",
+          "url": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/"
+        }
+      ]
+    },
+    {
+      "name": "Aaron Levie",
+      "title": "Box CEO指出AI法规已实际存在",
+      "summary": "观点：Box CEO Aaron Levie认为，事实上的AI监管已经出现，随着AI模型功能日益强大，政府对模型的审查将不可避免。原话：「We now have de facto AI regulation. It’s not obvious why from here on out models that have certain levels of capability or are trained on certain compute sizes won’t have to be reviewed by the government before release. Realistically, as AI models became more and more powerful this was going to be inevitable.」",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/aaron-levie-on-current-implicit-ai-regulation.html?utm_source=rss&utm_medium=rss&utm_campaign=aaron-levie-on-current-implicit-ai-regulation"
+        }
+      ]
+    },
+    {
+      "name": "Tyler Cowen",
+      "title": "新业务成立激增预示经济活力",
+      "summary": "观点：经济学家Tyler Cowen通过博客指出，美国新业务的成立数量再次激增，这一持续的高增长是经济活力的重要指标。这表明经济在经历疫情重塑后，展现出强劲的适应性和创新能力，对长期经济增长前景持乐观态度。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/more-firms-more-dynamism.html?utm_source=rss&utm_medium=rss&utm_campaign=more-firms-more-dynamism"
+        }
+      ]
+    },
+    {
+      "name": "Ben Carlson",
+      "title": "在不确定时期构建稳健投资策略",
+      "summary": "观点：投资策略师Ben Carlson分享了对一次性投资、多元化、退休需求和风险管理的深刻见解。他强调在高净值投资者面临市场不确定性时，需要综合考量这些因素，以构建一个平衡且具有韧性的投资组合，确保长期财务目标的实现。",
+      "sources": [
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/06/150000-or-1-5-million-or-5-million/"
+        }
+      ]
+    },
+    {
+      "name": "联储官员Goolsbee与Williams",
+      "title": "美联储内部对通胀前景存在分歧",
+      "summary": "观点：芝加哥联储主席Goolsbee明确表示通胀“过高”，而纽约联储主席Williams则认为价格压力正在逐步缓解。这种分歧表明美联储内部对当前经济状况和未来货币政策路径存在不同看法，将影响市场对加息或降息时机的预期。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html"
+        }
+      ]
+    },
+    {
+      "name": "市场分析师",
+      "title": "SpaceX IPO预示过度炒作，但非牛市终结",
+      "summary": "观点：有分析师指出，像SpaceX这样过度炒作的IPO在短期内往往难以带来可观回报。然而，这并非牛市即将结束的信号，而是投资者需要更具选择性，避免盲目追逐高估值和短期热点。此观点提醒投资者审慎评估新上市公司的真实价值和长期潜力。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/spacex-stock-is-a-terrible-buy-what-that-actually-means-for-the-bull-market-2448ea73?mod=mw_rss_topstories"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "寻求收益促使债券ETF资金激增",
+      "summary": "随着投资者积极寻求更高收益，债券ETF的资金流入大幅增加，尤其是在传统聚合基准之外的多元化固定收益产品。这表明市场正在捕捉潜在的利率环境变化或经济前景信号，预示着投资者对固定收益策略的重新配置。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/06/25/inflation-fed-bond-etf-flows-surge-blackrock.html"
+        }
+      ]
+    },
+    {
+      "title": "美国银行系统通过美联储压力测试",
+      "summary": "美联储公布的年度压力测试结果显示，美国32家大型银行均能承受7080亿美元的假设损失，证实了其在资本规则改革背景下的强大韧性。这一结果有助于提振市场对美国金融体系稳定性的信心，并可能促使更多银行回购股票或提高分红。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html"
+        }
+      ]
+    },
+    {
+      "title": "伊拉克或退出OPEC，油价恐跌破50美元",
+      "summary": "伊拉克暗示可能退出石油输出国组织（OPEC），这为2026年全球石油市场带来了新的不确定性。如果伊拉克退出并大幅增产，全球原油供应可能增加，从而导致油价下跌至每桶50美元以下，对全球能源市场和产油国收入产生重大影响。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/a-world-rejecting-opec-controls-could-usher-in-oil-below-50-a-barrel-3d7eda1b?mod=mw_rss_topstories"
+        }
+      ]
+    }
+  ],
+  "tech": [
+    {
+      "title": "韩国培养高中生进入芯片制造行业",
+      "summary": "为满足全球AI热潮带来的巨大内存芯片需求，韩国正通过高中教育体系培养学生直接进入半导体工厂工作。然而，尽管行业前景看好，这些新入职者的就业前景仍存在不确定性，凸显了全球半导体人才供应链的紧张及其结构性挑战。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/26/business/korea-chip-high-school.html"
+        }
+      ]
+    },
+    {
+      "title": "大型科技公司合力培训美国工人应对AI转型",
+      "summary": "OpenAI、Anthropic、亚马逊和微软等主要科技公司正在合作推动一项由前商务部长领导的计划，旨在培训美国工人以适应人工智能带来的职业转型。这项努力旨在缓解AI可能造成的就业冲击，确保美国劳动力能够在新兴AI经济中保持竞争力，是应对技术变革社会影响的重要战略举措。",
+      "sources": [
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/06/25/business/economy/ai-work-force-training-job-losses.html"
+        }
+      ]
+    },
+    {
+      "title": "AI在学术研究中的应用引发关注",
+      "summary": "一款名为CoPaper.AI的新工具正在通过大型语言模型，大规模自动化传统实证学术论文中的手动工作。这一进展被誉为学术界的“Cursor时刻”，预示着人工智能将深刻变革学术研究的范式和效率，对科研人员的工作流程和产出方式产生颠覆性影响。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/translated-from-the-chinese.html?utm_source=rss&utm_medium=rss&utm_campaign=translated-from-the-chinese"
+        }
+      ]
+    }
+  ],
+  "us_stocks": [
+    {
+      "title": "微软股价因AI巨额投入遭遇历史性下跌",
+      "summary": "微软股价在六月遭遇历史性暴跌，原因是投资者对其在人工智能领域投入的巨额资金表示担忧。市场分析师指出，那些看重微软自由现金流的投资者，现在被要求支持一个资本密集型周期，这引发了对AI投资回报率和公司未来盈利模式的重新评估。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -200,40 +219,18 @@
       ]
     },
     {
-      "title": "高通大胆进军数据中心，获Meta支持挑战英伟达AI霸主地位",
-      "summary": "高通正积极布局价值400亿美元的数据中心市场，其大胆的战略转型旨在与AI芯片巨头英伟达展开竞争。Meta等大客户已开始采购高通的芯片，显示出市场对英伟达主导地位的替代选择需求。这场竞争将影响AI硬件的未来格局，为投资者提供在半导体领域多元化投资的机会。",
+      "title": "SpaceX IPO凸显公共投资者权力削弱趋势",
+      "summary": "SpaceX的IPO模式揭示了当前企业治理的趋势，即越来越多的公司采用双层股权结构，导致多数股东在公司运营中话语权甚微。这一现象引发了对公共投资者权利受损的担忧，对长期投资者而言，了解并评估这种治理结构对投资回报和风险的影响至关重要。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/can-qualcomm-actually-compete-with-nvidia-inside-its-bold-data-center-gamble-38ac48b3?mod=mw_rss_topstories"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/25/business/spacex-shares-ipo.html"
         }
       ]
     },
     {
-      "title": "美光科技因AI内存需求激增，跃升为全球重要股票",
-      "summary": "美光科技公司（Micron）在最近的财报发布后，被分析师评价为“全球最重要的股票之一”。这一转变主要得益于人工智能对高带宽内存和存储芯片的巨大需求，使其产品成为AI基础设施的关键组成部分。美光的崛起凸显了半导体行业在AI浪潮中的核心地位，以及存储芯片在AI算力体系中的战略价值。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/micron-has-suddenly-become-one-of-the-worlds-most-important-stocks-e6f4c517?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "大型科技公司联手政府，共同应对AI对劳动力市场转型挑战",
-      "summary": "OpenAI、Anthropic、亚马逊和微软等科技巨头已签署协议，参与由前商务部长吉娜·雷蒙多牵头的倡议，旨在帮助美国工人适应AI带来的就业转型。这项合作表明科技公司和政府正积极面对AI对就业市场可能造成的结构性影响，寻求通过培训和再教育来缓解冲击，对于社会稳定和经济转型至关重要。",
-      "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/06/25/business/economy/ai-work-force-training-job-losses.html"
-        }
-      ]
-    }
-  ],
-  "us_stocks": [
-    {
-      "title": "摩根大通宣布500亿美元股票回购，高盛提高股息，受惠于美联储压力测试",
-      "summary": "在美联储年度压力测试确认大型银行资本充足后，摩根大通宣布了高达500亿美元的股票回购计划，而高盛也提高了季度股息。这些举措体现了美国大型银行在金融稳定背景下，通过向股东返还资本以提升回报的信心。对于投资者而言，这传递出银行业健康发展的积极信号，并可能吸引更多寻求稳定回报的资金流入。",
+      "title": "摩根大通启动500亿美元回购，高盛上调股息",
+      "summary": "在通过美联储年度压力测试后，摩根大通宣布了500亿美元的股票回购计划，而高盛则提高了股息。这些举措表明美国大型银行财务状况稳健，资本充足，并获得监管机构的批准向股东返还资本，对银行板块的投资者而言是积极信号。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -242,46 +239,12 @@
       ]
     },
     {
-      "title": "摩根大通高管团队变动：潜在接班人离职，任命新联席总裁",
-      "summary": "摩根大通潜在首席执行官接班人之一的玛丽安娜·莱克（Marianne Lake）已离职，公司同时任命了道格·佩特诺（Doug Petno）和特洛伊·罗尔鲍格（Troy Rohrbaugh）为联席总裁。这一高层变动可能重塑摩根大通未来的领导格局和战略方向，对于关注金融巨头领导力与长期发展的投资者而言，是重要的观察点。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/25/business/jamie-dimon-jpmorgan-succession-petno-rohrbaugh.html"
-        },
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html"
-        }
-      ]
-    },
-    {
-      "title": "S&P 500指数位于关键支撑位，技术分析预警潜在下跌风险",
-      "summary": "S&P 500指数周四收盘恰好处于一个关键支撑线的边缘，技术分析师指出，一旦该支撑位被跌破，可能预示着未来数日或数周内股市将面临更多的损失。这一信号对短线交易者和关注市场波动的投资者尤为重要，建议密切关注指数走势，以评估市场情绪和潜在的风险调整。",
+      "title": "标普500指数面临关键节点，或预示更多下跌",
+      "summary": "标普500指数周四收盘恰好触及关键支撑线，技术分析师指出，若该支撑位被跌破，可能预示未来几天或几周内股市将面临更多损失。投资者需密切关注这一关键技术水平，以评估市场近期走势和潜在的风险调整。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/the-s-p-500-is-at-a-critical-crossroads-a-break-lower-could-signal-more-losses-ahead-f425063c?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "达登餐饮财报喜忧参半，Olive Garden增长放缓凸显消费者餐饮支出变化",
-      "summary": "达登餐饮（Darden Restaurants）公布的财报超出预期，但其旗下重要品牌Olive Garden的同店销售增长不及预期，而高端餐饮部门的增长也有所减弱。这一表现反映了消费者在餐饮支出上的结构性变化，尤其是在通胀环境下对日常用餐选择更为谨慎，而高端体验消费仍有韧性。投资者可从中窥见美国消费者 discretionary spending 的最新趋势。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/25/darden-restaurants-dri-q4-2026-earnings.html"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX IPO模式揭示公共市场投资者权力削弱趋势",
-      "summary": "SpaceX的上市方式揭示了一种日益增长的趋势，即通过双重股权结构等方式，确保公司创始人和内部人对企业拥有绝对控制权，从而削弱公共市场投资者的投票权和话语权。这种模式正在改变上市公司治理的传统，对于寻求参与高增长科技公司的投资者而言，意味着可能需要接受较低的股东影响力。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/25/business/spacex-shares-ipo.html"
         }
       ]
     }
@@ -289,8 +252,38 @@
   "a_stocks": [],
   "business": [
     {
-      "title": "通用汽车发布2027款GMC Sierra皮卡，强化核心盈利产品线",
-      "summary": "通用汽车（GM）发布了2027款GMC Sierra皮卡系列，该车型将配备新型V-8发动机并采用重新设计的外观。Sierra系列，尤其是高利润的豪华Denali和越野AT4车型，对通用汽车的销量和盈利能力至关重要。此次更新旨在巩固其在竞争激烈的皮卡市场的份额，并支撑公司整体业绩。",
+      "title": "荷姆兹海峡航运中断，全球能源供应面临风险",
+      "summary": "一艘货船在阿曼海岸附近遭到袭击，导致全球重要的石油运输要道霍尔木兹海峡的航运中断。这一事件促使联合国机构暂停了波斯湾的船舶疏散行动，严重影响了全球能源市场的稳定性和供应链安全，可能导致原油价格进一步波动。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/25/business/hormuz-ship-attack-iran.html"
+        }
+      ]
+    },
+    {
+      "title": "Chemours支付4.5亿美元和解PFAS污染指控",
+      "summary": "Chemours公司将支付4.5亿美元，作为首个联邦PFAS“永久化学品”污染和解协议的一部分。该和解协议旨在解决Chemours在多个州倾倒PFAS化学品的问题，这些化学品与癌症及其他健康风险相关。这一判决为其他涉及类似环境污染的化学公司树立了先例，预示着更严格的监管和潜在的巨额赔偿。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/25/climate/trump-pfas-forever-chemical-settlement-chemours.html"
+        }
+      ]
+    },
+    {
+      "title": "最高法院驳回孟山都“农达”除草剂致癌诉讼",
+      "summary": "美国最高法院驳回了针对拜耳公司旗下孟山都“农达”（Roundup）除草剂致癌的诉讼。这一裁决可能将决定拜耳面临的数千起类似索赔诉讼的未来走向，对该公司及其在农业化学品市场的法律风险和商业前景具有重大影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-weedkiller-roundup-bayer.html"
+        }
+      ]
+    },
+    {
+      "title": "GM推出新款GMC Sierra皮卡以提振销量盈利",
+      "summary": "通用汽车（GM）发布了2027款GMC Sierra皮卡，新车将搭载新型V-8发动机并进行重新设计。GMC Sierra系列卡车，特别是高利润的豪华版Denali和越野版AT4车型，对通用汽车的销量和盈利能力至关重要。此次更新旨在增强其在竞争激烈的皮卡市场的竞争力。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -299,30 +292,20 @@
       ]
     },
     {
-      "title": "微软旗下Xbox提高游戏主机价格，反映硬件成本压力",
-      "summary": "继苹果上调部分产品价格之后，微软旗下Xbox也提高了游戏主机的售价。此举反映了全球供应链成本，特别是关键硬件零部件价格的普遍上涨压力。消费者需面对更高昂的电子产品价格，而对于科技公司而言，如何在成本控制和市场竞争力之间取得平衡将是重要挑战。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "丰田在美国销量预测中超越通用汽车，混合动力战略显成效",
-      "summary": "最新的美国汽车销量预测显示，丰田汽车正在超越通用汽车。这主要得益于丰田在混合动力车型上的持续投入和市场接受度，而通用汽车及其他厂商大力押注的纯电动汽车市场增长不如预期。这一变化揭示了汽车行业在向新能源转型过程中，不同技术路线的竞争态势和市场策略的有效性，值得关注。",
+      "title": "奢华消费转向体验式消费和“继承旅游”",
+      "summary": "最新报告显示，奢侈品消费正日益从实物商品转向体验式消费和“继承旅游”（inheritourism）。今年，奢侈体验的增长预计将超过商品销售，这一趋势表明高净值人群的消费偏好正在发生结构性变化，对高端服务、酒店和旅游行业带来显著机遇与挑战。",
       "sources": [
         {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/24/toyota-gm-us-sales.html"
+          "url": "https://www.cnbc.com/2026/06/25/luxury-spending-now-driven-by-experiences-and-inheritourism.html"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "日本股市表现强劲，创1989年以来最快新高纪录",
-      "summary": "日本股市近期表现异常火爆，以自1989年以来最快的速度创下历史新高。这一强劲势头主要得益于日本企业治理改革的推进、日元贬值利好出口企业以及全球对日本半导体等高科技产品的需求。对于寻求全球资产配置的投资者，日本市场提供了一个值得关注的多元化投资机会，其结构性变化可能带来持续的增长潜力。",
+      "title": "日本股市表现强劲创历史新高",
+      "summary": "日本股市正以自1989年以来前所未有的速度创下历史新高。这一强劲表现主要得益于企业治理改革、强劲的企业盈利以及日元走软带来的出口优势。在全球科技股承压之际，日本市场的独特驱动因素使其成为投资者寻求多样化和增长机会的重要关注点。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -331,22 +314,22 @@
       ]
     },
     {
-      "title": "奢侈品消费趋势转向“体验式消费”和“遗产旅游”，反映财富人群偏好转变",
-      "summary": "全球奢侈品消费的增长驱动力正从传统实物商品转向“体验式消费”和“遗产旅游”。虽然奢侈品销售预计增长1%至4%，但体验式消费的增长率预计达到3%至7%。这一趋势反映了高净值人群消费偏好的结构性转变，他们更倾向于投资独特的经历和文化价值，而非仅仅物质占有。对于奢侈品行业和旅游业的投资者，需调整策略以适应这一变化。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/25/luxury-spending-now-driven-by-experiences-and-inheritourism.html"
-        }
-      ]
-    },
-    {
-      "title": "地热能初创企业寻求突破，但高昂经济成本仍是商业化挑战",
-      "summary": "地热能这一丰富的地下能源正在通过新型初创公司获得新的发展机遇。这些企业采取创新方法来开采地热，以期将其打造成重要的可再生能源。然而，地热能技术的高昂经济成本仍然是其大规模商业化应用的主要挑战。对于关注清洁能源和长期结构性变化的投资者，这提示了新兴能源技术在发展初期面临的投资风险与机遇并存。",
+      "title": "地热能技术创新但成本高昂",
+      "summary": "地热能作为一种蕴藏丰富但开采成本高昂的能源，正吸引初创企业以新颖方法进行探索。尽管技术创新带来了新的希望，但其经济可行性仍是能否大规模商业化的关键挑战。对于关注长期清洁能源投资的投资者而言，地热能技术的发展及其成本效益突破值得持续关注。",
       "sources": [
         {
           "name": "BBC Business",
           "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "TikTok和YouTube重塑体育赛事观看体验",
+      "summary": "社交媒体平台如TikTok和YouTube正在颠覆传统的体育赛事观看模式，尤其是在吸引年轻观众方面。体育联盟、球队和媒体网络正日益在这些平台上与年轻粉丝互动，这迫使传统广播公司重新思考其内容分发和观众参与策略，预示着体育媒体行业的深刻变革。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/25/tiktok-youtube-sports-viewership.html"
         }
       ]
     }
