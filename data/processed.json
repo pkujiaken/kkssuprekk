@@ -1,32 +1,8 @@
 {
   "top5": [
     {
-      "title": "美国前总统特朗普威胁对欧洲征收100%关税，贸易紧张局势升级",
-      "summary": "美国前总统特朗普声称将对欧洲国家征收100%关税，以回应其计划实施的科技公司数字服务税。此举发生在欧洲官员刚敲定与欧盟的贸易协议几天后，若付诸实施，将严重加剧跨大西洋贸易紧张局势，对全球贸易关系和科技企业在欧洲的运营模式产生重大影响，并可能引发欧盟的反制措施，投资者需警惕潜在的国际贸易冲突风险。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/26/business/economy/trump-tariffs-europe.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "美联储官员Kashkari预测今年将加息，以应对高通胀对经济的影响",
-      "summary": "明尼阿波利斯联储主席Neel Kashkari表示，鉴于当前高企的通胀对经济持续造成冲击，他预计美联储今年很可能进行一次加息。这一表态为市场提供了关于未来货币政策走向的重要信号，可能影响债券收益率、股市估值以及企业融资成本，投资者应密切关注美联储的后续行动及经济数据表现。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX即将纳入纳斯达克100指数，或引发ETF大规模买入需求",
-      "summary": "埃隆·马斯克旗下的太空探索公司SpaceX将通过快速通道被纳入纳斯达克100指数。这一快速纳入机制是纳斯达克近期采纳的新规，意味着SpaceX将成为首批受益者之一。作为市值巨大的私营科技巨头，其被纳入这一重要指数预计将引发追踪纳斯达克100的ETF大规模买入需求，对指数成分股的配置和市场流动性产生显著影响。",
+      "title": "SpaceX获准快速纳入纳斯达克100指数，有望引发大量ETF买盘",
+      "summary": "埃隆·马斯克的SpaceX公司已获准快速纳入纳斯达克100指数，这是该指数近期采纳的快速纳入框架的首批受益者之一。此举预计将引发追踪该指数的ETF的大量买盘，对市场产生显著影响。这一决定突显了SpaceX在科技和商业领域日益增长的重要性及其对资本市场的影响力，可能重塑相关基金的投资组合。",
       "sources": [
         {
           "name": "CNBC Finance",
@@ -35,46 +11,55 @@
       ]
     },
     {
-      "title": "油价回落至冲突前水平，但霍尔木兹海峡袭击事件构成新威胁",
-      "summary": "在全球关注下，油价在四个月后终于回落至伊朗战争爆发前的水平，这曾被视为衡量地区冲突对全球经济影响的实时晴雨表。然而，霍尔木兹海峡近期再次发生袭击事件，威胁到航运复苏进程。这一关键航道的安全问题可能再次扰乱全球能源供应和贸易路线，为原已复杂的能源市场增添新的不确定性，投资者需警惕地缘政治风险对大宗商品价格的潜在冲击。",
+      "title": "《纽约时报》指控微软为OpenAI建设的超级计算机侵犯版权",
+      "summary": "《纽约时报》指控微软为OpenAI建设的超级计算机涉嫌侵犯版权。这一指控是在美国最高法院对索尼不利的裁决后提出的，并可能对人工智能领域的版权法和大型科技公司在AI发展中的角色产生深远影响。此案将测试现有版权框架如何适用于AI训练数据的使用，对整个AI行业未来发展具有里程碑意义。",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/"
+        }
+      ]
+    },
+    {
+      "title": "霍尔木兹海峡再次发生袭击事件，原油价格回升至战前水平",
+      "summary": "在霍尔木兹海峡发生新的袭击事件后，原油价格已回升至伊朗战争前的水平。尽管此前交通量达到战后高点，但此次袭击再次加剧了航运受阻的威胁。这表明地缘政治风险对全球能源市场的影响仍在持续，油价波动成为衡量地区冲突对全球经济冲击的实时晴雨表，对全球供应链和通胀预期构成潜在风险。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html"
         },
         {
-          "name": "NYT DealBook",
+          "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html"
         }
       ]
     },
     {
-      "title": "OpenAI推迟IPO计划，市场对主要AI公司上市时间存在分歧",
-      "summary": "有报道称人工智能巨头OpenAI的首次公开募股（IPO）计划被推迟。尽管市场投机者预计IPO可能在明年年初进行，但在2026年完成的几率仅为三分之一，但到2027年6月前完成的可能性很高。这一延迟反映了私营AI巨头在估值、监管和市场成熟度方面的考量，可能影响其他AI初创公司的融资和上市预期，值得投资者密切关注。",
+      "title": "特朗普威胁对欧洲国家征收100%关税，以回应其科技税提案",
+      "summary": "美国总统特朗普威胁称，如果欧洲国家推行其正在讨论的科技税，美国将对其征收100%的关税。这一强硬表态预示着跨大西洋贸易关系可能进一步紧张，对全球贸易格局和科技公司的运营模式带来不确定性。此举反映了对数字服务税的国际分歧，并可能引发新一轮的贸易保护主义措施。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "亚洲AI初创公司推出类Mythos模型，因Anthropic出口禁令持续",
+      "summary": "随着美国AI公司Anthropic的出口禁令持续，亚洲AI初创公司正积极推出自己的类Mythos模型。这表明全球AI竞争加剧，尤其是在地缘政治背景下，各国及区域都在寻求建立独立的AI能力。此发展将加速亚洲AI生态系统的成熟，并可能改变全球AI技术格局，为投资者带来新的机会和挑战。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Neel Kashkari",
-      "title": "明尼阿波利斯联储主席预计今年将加息",
-      "summary": "观点：明尼阿波利斯联储主席Neel Kashkari表示，鉴于高通胀持续对经济产生影响，他预计美联储今年很可能需要进行一次加息。这一前瞻性言论为市场带来了对货币政策收紧的明确预期，对利率敏感型资产构成影响。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html"
-        }
-      ]
-    },
-    {
       "name": "Jeremy Grantham",
-      "title": "警告美国股市估值已达历史最高水平",
-      "summary": "原话：「这是美国历史上最昂贵的市场。」知名投资人Jeremy Grantham指出，受人工智能领域飙升的估值推动，美国股市目前的估值水平已达到历史高位。他的观点强调了当前市场泡沫的风险，对于依赖AI叙事支撑的科技股尤其值得深思。",
+      "title": "他认为当前美股是美国历史上估值最高的市场",
+      "summary": "原话：「这是美国历史上估值最高的市场。」著名投资者杰里米·格兰瑟姆表示，围绕人工智能的估值飙升使得美国股市达到了历史性高位。他的观点警示投资者关注当前市场的泡沫风险，尤其是在科技股带动下，可能存在非理性繁荣。",
       "sources": [
         {
           "name": "CNBC Finance",
@@ -83,9 +68,31 @@
       ]
     },
     {
+      "name": "Tyler Cowen",
+      "title": "他认为AI不会让所有人都失业",
+      "summary": "观点：经济学家泰勒·科恩在其ARC演讲中指出，人工智能不会导致普遍失业。他认为AI将创造新的工作机会并提高生产力，而不是完全取代人类劳动力。这一观点为关于AI对劳动力市场影响的担忧提供了更积极的视角，对长期经济规划和投资方向具有参考价值。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/my-arc-talk-on-ai-and-jobs.html?utm_source=rss&utm_medium=rss&utm_campaign=my-arc-talk-on-ai-and-jobs"
+        }
+      ]
+    },
+    {
+      "name": "Tyler Cowen",
+      "title": "他不支持英国公用事业国有化",
+      "summary": "观点：泰勒·科恩对英国重新将公用事业国有化的讨论持反对态度。他承认并非所有私有化都成功，且美国数据显示国有和私有公用事业在经济效率上差异不大，但他仍不建议推行国有化。他的立场为当前英国潜在的政策转向提供了重要的经济学视角。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/renationalising-british-utilities.html?utm_source=rss&utm_medium=rss&utm_campaign=renationalising-british-utilities"
+        }
+      ]
+    },
+    {
       "name": "Ben Carlson",
-      "title": "分析投资者持有更多现金的深层原因",
-      "summary": "观点：A Wealth of Common Sense的Ben Carlson深入分析了当前投资者，尤其是散户，持有更多现金的原因。他的文章揭示了在2020年代零售交易繁荣背景下，资金配置行为的潜在驱动因素，这对于理解市场流动性和风险偏好的变化具有重要参考价值。",
+      "title": "他分析了投资者持有更多现金的原因",
+      "summary": "观点：本·卡尔森对投资者持有更多现金的现象进行了分析，并审视了2020年代零售交易的繁荣。他的洞察有助于理解当前市场情绪和资金流向，尤其是在经济不确定性增加时，现金作为避险资产的吸引力。这对于评估市场流动性和投资者风险偏好至关重要。",
       "sources": [
         {
           "name": "A Wealth of Common Sense (Ben Carlson)",
@@ -96,7 +103,7 @@
     {
       "name": "Allspring Global Investments",
       "title": "建议投资者优先考虑美国以外的债券市场",
-      "summary": "观点：Allspring Global Investments建议客户关注美国以外的债券市场。该机构认为，鉴于不同国家央行加息周期和通胀动态的差异，投资于海外债券市场能提供更好的收益机会和分散风险的潜力，这反映了全球宏观经济环境下的资产配置策略转变。",
+      "summary": "观点：Allspring Global Investments建议客户优先考虑美国以外的债券市场，特别是那些央行正在加息或通胀动态不同的国家。这一投资策略基于对全球利率和通胀差异的判断，旨在为高净值投资者提供多元化和优化收益的机会，尤其是在当前复杂的宏观经济环境下。",
       "sources": [
         {
           "name": "CNBC Finance",
@@ -107,18 +114,8 @@
   ],
   "macro": [
     {
-      "title": "美国消费者信心指数回升，经济前景有所改善",
-      "summary": "最新消费者调查显示，近期美国消费者对经济的信心有所增强，扭转了今年早些时候因能源成本飙升而大幅下降的趋势。消费者信心的改善通常预示着未来消费支出的增加，可能为经济增长提供支撑，但其持续性仍需观察。",
-      "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/06/26/business/economy/consumer-sentiment.html"
-        }
-      ]
-    },
-    {
-      "title": "德国考虑将退休年龄逐步提高至70岁",
-      "summary": "德国正考虑一项提案，计划到2092年逐步将退休年龄提高到70岁。此举旨在应对人口老龄化带来的社会保障系统压力。如果实施，这将是欧洲主要经济体为解决长期财政可持续性问题而采取的重大政策调整，对劳动力市场和社会福利体系产生深远影响，并可能引发其他发达国家的效仿。",
+      "title": "德国考虑将退休年龄提高到70岁，或为美国提供参考",
+      "summary": "德国正在考虑逐步将其退休年龄提高到70岁。此举旨在应对人口老龄化和养老金体系的财政压力，如果实现，将是全球范围内应对人口结构变化的重大政策调整。这一讨论也引发了美国是否会效仿的思考，可能对未来的劳动力市场、社会保障体系和宏观经济政策产生深远影响。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -127,30 +124,30 @@
       ]
     },
     {
-      "title": "英国脱欧十年后，季节性农工来源转向中亚国家",
-      "summary": "在英国脱欧十年后，英国大部分季节性农工已从欧洲国家转向吉尔吉斯斯坦和塔吉克斯坦等中亚国家。农业领袖表示，如果没有这些工人，许多农场将难以为继。这一变化揭示了脱欧对英国劳动力市场造成的结构性影响，以及其如何重塑了农业部门的全球供应链和劳务关系，对长期经济效率和劳工政策具有重要启示。",
+      "title": "新法案提议将美国医疗保险年支出上限设为5000美元，政府成本或达数百亿",
+      "summary": "一项新的法案提议将美国医疗保险参保者的年度自付费用上限设定为5000美元。尽管该提案获得通过的可能性不高，但如果实施，预计将使政府承担“数百亿美元”的额外成本。这反映了美国在控制医疗成本和保障国民医疗福利之间的持续拉锯，对联邦预算和医疗行业产生重大影响。",
       "sources": [
         {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/06/23/world/europe/uk-brexit-seasonal-farm-workers-central-asia.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/a-new-bill-would-cap-medicare-enrollees-annual-expenses-at-5-000-and-could-cost-the-government-tens-of-billions-d370bb37?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "香港金融管理局推动改革，加强交易所并推出新产品",
+      "summary": "香港副财政司司长表示，香港正推进上市规则改革，并计划推出新的产品，包括债券期货和黄金业务，以加强其作为全球金融中心的地位。这些改革旨在优化加权投票权、放宽海外发行人二次上市条件，并增加灵活性，有望吸引更多国际资本和公司，提升香港市场的竞争力和流动性。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3358546/growth-agenda-hong-kong-vows-stronger-exchange-reforms-bond-futures-and-gold-push?utm_source=rss_feed"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "Azeem Azhar等专家发布人工智能经济现状详细报告",
-      "summary": "由Azeem Azhar等专家撰写的一份详细报告，深入探讨了当前人工智能经济的发展状况。尽管报告内容尚未完全公开，但已获得广泛好评。这份报告预计将提供对AI行业趋势、投资机会和潜在挑战的权威洞察，对于关注AI领域发展的投资者和决策者具有重要参考价值。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/azeem-azhar-and-others-on-the-state-of-the-ai-economy.html?utm_source=rss&utm_medium=rss&utm_campaign=azeem-azhar-and-others-on-the-state-of-the-ai-economy"
-        }
-      ]
-    },
-    {
-      "title": "Deepseek AI发布DSpark技术，显著加速大语言模型推理",
-      "summary": "Deepseek AI公司推出了一项名为DSpark的新技术，旨在通过“推测解码”（speculative decoding）大幅加速大型语言模型的推理速度。这项技术突破有望降低AI模型运行成本、提高响应效率，对AI基础设施建设、云服务提供商以及依赖大模型进行创新的企业产生积极影响，推动AI应用更广泛的商业化落地。",
+      "title": "DSpark：推测性解码技术加速大型语言模型推理",
+      "summary": "Deepseek AI发布了一篇关于DSpark技术的论文，该技术通过推测性解码（Speculative Decoding）显著加速了大型语言模型（LLM）的推理过程。这项技术对于提高AI应用的效率和降低计算成本至关重要，有望推动LLM在商业和研究领域的更广泛部署，为AI基础设施带来效率革新。",
       "sources": [
         {
           "name": "Hacker News Top",
@@ -159,73 +156,18 @@
       ]
     },
     {
-      "title": "美国CFTC对加密预测市场Polymarket展开调查",
-      "summary": "美国商品期货交易委员会（CFTC）正在对加密货币预测平台Polymarket进行调查。此前，CFTC和司法部已于去年7月放弃了对Polymarket的初步调查。此次重启调查表明监管机构对新兴加密市场，尤其是涉及预测和衍生品领域的持续关注，可能对加密货币行业的合规性要求和未来发展路径产生重要影响。",
+      "title": "俄罗斯公民被告知改用安卓手机，因苹果限制关键应用",
+      "summary": "在苹果公司屏蔽了俄罗斯境内的关键应用程序后，俄罗斯公民被建议改用安卓手机。此举反映了地缘政治紧张局势对全球科技公司运营和消费者选择的直接影响。俄罗斯政府对此表示强烈不满，凸显了科技产品在地缘政治冲突中日益增长的战略重要性。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/26/cftc-is-conducting-an-investigation-into-polymarket-source-says.html"
-        }
-      ]
-    }
-  ],
-  "us_stocks": [
-    {
-      "title": "Saks走出破产重组，更名为Exemplar Luxury Group专注高端业务",
-      "summary": "奢侈品零售商Saks成功走出破产程序，并更名为Exemplar Luxury Group。公司计划剥离所有非高端百货商店购物相关业务，专注于高净值客户。这一重组标志着公司战略方向的重大转变，旨在通过聚焦核心奢侈品市场来提升盈利能力和品牌价值，对美国高端零售行业产生示范效应。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/26/business/saks-bankruptcy-exemplar-luxury-group.html"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/"
         }
       ]
     },
     {
-      "title": "百货连锁Kohl's寻求重振业务，扭转市场颓势",
-      "summary": "曾经的家喻户晓的百货连锁Kohl's正面临股价下跌和市场相关性丧失的困境，公司目前正努力通过一系列战略调整来寻求业务复苏。Kohl's的挣扎是传统零售业面临电商冲击和消费者习惯变化的缩影，其转型努力的结果将是评估该行业未来发展趋势的重要风向标。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/27/how-kohls-lost-its-way-and-is-trying-to-become-relevant-again.html"
-        }
-      ]
-    },
-    {
-      "title": "CNN与CBS新闻整合，媒体行业并购加速",
-      "summary": "科技巨头后裔David Ellison正接近完成一项并购案，该交易将使老牌广播公司CBS与24小时有线新闻网络CNN归于同一屋檐下。此举代表了媒体行业的进一步整合，旨在应对传统媒体营收压力和数字内容竞争加剧的挑战，对美国媒体格局和未来新闻生产模式将产生深远影响。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/27/business/media/cnn-bari-weiss-david-ellison.html"
-        }
-      ]
-    }
-  ],
-  "a_stocks": [],
-  "business": [
-    {
-      "title": "航空票价受高企燃油成本影响，目的地差异显著",
-      "summary": "尽管整体航空票价因高企的喷气燃料成本而上涨，但不同目的地的票价涨幅呈现出令人惊讶的差异模式。这一现象表明，燃油价格对航空公司的成本结构和定价策略有复杂影响，并可能通过竞争程度和航线需求弹性体现在消费者票价上，为航空业投资者提供了市场细分的洞察。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/27/upshot/airfares-jet-fuel-prices.html"
-        }
-      ]
-    },
-    {
-      "title": "夏季电影票房强劲，好莱坞有望实现疫情后首次百亿美元年度票房",
-      "summary": "好莱坞在夏季档期表现出人意料地强劲，使得年度票房有望达到100亿美元，这将是疫情爆发七年来的首次。这一积极趋势表明电影院线业务正在强劲复苏，消费者对线下娱乐的需求回归。对于娱乐产业及相关投资而言，这是一个重要的利好信号，预示着行业营收和估值可能得到提振。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/27/strong-summer-box-office.html"
-        }
-      ]
-    },
-    {
-      "title": "广告商积极应对AI时代，寻求在聊天机器人中脱颖而出",
-      "summary": "在戛纳国际创意节上，营销人员正努力解决如何在人工智能聊天机器人日益普及的时代中，让广告内容有效触达并影响消费者。随着AI在内容生成和信息筛选中扮演更重要角色，广告商必须调整策略，探索新的AI可见性方法，这预示着营销和广告行业的深刻变革，以及对AI技术融合能力的新需求。",
+      "title": "广告商努力让AI理解其信息，以应对新挑战",
+      "summary": "在戛纳国际创意节上，营销人员正努力解决如何让广告信息在AI聊天机器人中脱颖而出的挑战。随着AI在内容消费中扮演越来越重要的角色，广告行业必须调整策略，以确保其信息能够被AI有效识别和传达。这标志着广告传播进入了一个新时代，对广告技术和消费者触达方式提出更高要求。",
       "sources": [
         {
           "name": "NYT Business",
@@ -236,26 +178,112 @@
           "url": "https://www.nytimes.com/2026/06/27/business/dealbook/ai-visibility.html"
         }
       ]
-    }
-  ],
-  "overlooked": [
+    },
     {
-      "title": "韩国计划将全军训练成“无人机战士”，军事科技战略重大转型",
-      "summary": "韩国正计划将其五十万大军全部训练成“无人机战士”，将无人机视为“通用作战工具”。这一雄心勃勃的军事战略转型旨在应对未来战争模式的变化，并将大幅推动韩国在无人机技术研发和军事应用方面的投入。此举不仅对国防工业产生巨大需求，也预示着全球军事科技竞争的加剧和未来地缘政治冲突形态的演变，值得关注国防科技领域的投资者留意。",
+      "title": "AI推动数据中心达到临界点，中国芯片制造商押注碳化硅技术",
+      "summary": "随着全球人工智能热潮使数据中心面临巨大的能源压力，部分中国芯片制造商正押注高效的碳化硅（SiC）半导体技术来解决科技行业的电力问题。深圳基本半导体公司正寻求在香港IPO。此举显示中国在AI基础设施关键领域寻求技术突破，并可能重塑全球半导体供应链竞争格局。",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/tech/tech-war/article/3358492/ai-pushes-data-centres-breaking-point-some-chinese-chipmakers-bet-sic?utm_source=rss_feed"
+        }
+      ]
+    }
+  ],
+  "us_stocks": [
+    {
+      "title": "CNN与CBS即将合并，媒体行业面临变革",
+      "summary": "科技新贵大卫·埃里森（David Ellison）即将完成一项合并交易，将使传统广播公司CBS与24小时有线新闻网络CNN归于同一屋檐下。这一潜在的媒体巨头合并将改变美国新闻媒体格局，带来内容制作、分发和营收模式的战略调整，对现有媒体公司构成竞争压力。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/27/business/media/cnn-bari-weiss-david-ellison.html"
         }
       ]
     },
     {
-      "title": "特定疾病医疗开销超癌症与心脏病总和，预示长期社会经济负担",
-      "summary": "一份报告指出，某特定疾病的治疗费用已超过癌症和心脏病治疗费用之和，且这一趋势还在恶化。这一发现揭示了医疗保健系统面临的巨大长期财政压力，不仅对家庭构成沉重负担，也对政府预算和社会保障体系提出严峻挑战。投资者应关注医疗保健行业结构性成本上升的风险，以及相关创新解决方案的潜在投资机会。",
+      "title": "奢侈品零售商Saks走出破产，更名并专注于高端市场",
+      "summary": "Saks百货公司已走出破产，更名为Exemplar Luxury Group，并计划剥离非高端百货零售业务，专注于高净值客户群体。这一战略转型旨在精简业务，提升品牌价值，以应对零售行业不断变化的市场环境。此举对其在高端零售市场的未来表现具有关键意义。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/26/business/saks-bankruptcy-exemplar-luxury-group.html"
+        }
+      ]
+    },
+    {
+      "title": "Kohl's百货挣扎求生，寻求重获市场相关性",
+      "summary": "Kohl's百货曾是家喻户晓的品牌，但因失去市场相关性和核心客户群而股价暴跌。目前公司正努力进行转型以重新获得市场竞争力。Kohl's的困境和转型努力反映了传统百货业在电商冲击下的挑战，其能否成功逆袭将是零售业值得关注的案例。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/27/how-kohls-lost-its-way-and-is-trying-to-become-relevant-again.html"
+        }
+      ]
+    }
+  ],
+  "a_stocks": [
+    {
+      "title": "中国电动重型卡车走向全球市场，受益于补贴和出口战略",
+      "summary": "随着中国道路电气化的加速，国内重型卡车制造商正成为最新受益者，技术进步和更低的拥有成本正推动海外销售增长。东南亚和非洲地区，已成为中国制造商如一汽解放和福田商用车的新的增长引擎。在政府补贴的助力下，中国正通过电动化战略提升其在全球货运市场的份额。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-business/article/3358516/chinas-big-trucks-go-electric-and-abroad-subsidies-help-pave-road-net-zero-freight?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "韩国零售巨头CU在华采用“线上优先”战略试水市场",
+      "summary": "韩国便利店巨头CU正在中国进行有限的线上试运营，与大多数直接押注实体店的跨国品牌采取了不同的策略。CU与中国合作伙伴目前仅在天猫平台上销售11种产品，显示其对中国市场的谨慎态度。这种“线上优先”的策略，将测试数字渠道在中国零售市场的潜力，对其他寻求进入中国市场的品牌具有借鉴意义。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/companies/article/3358510/cu-china-why-south-korean-retail-giant-adopting-online-first-strategy?utm_source=rss_feed"
+        }
+      ]
+    }
+  ],
+  "business": [
+    {
+      "title": "好莱坞夏季票房表现强劲，有望实现疫情后首次百亿美元年度总票房",
+      "summary": "今年好莱坞夏季票房表现出人意料地强劲，这可能意味着电影年度总票房将自疫情以来首次突破100亿美元大关。这一复苏迹象对电影制片公司、影院运营商及相关娱乐产业而言是利好消息，表明消费者对线下娱乐的需求正在回归，为媒体和娱乐板块带来积极预期。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/27/strong-summer-box-office.html"
+        }
+      ]
+    },
+    {
+      "title": "美国医疗保险将首次覆盖GLP-1类减肥药，影响数百万老年人",
+      "summary": "从7月1日起，数百万符合条件的老年美国人将首次通过医疗保险获得GLP-1类减肥药，每月费用约为50美元。这一政策变化将显著扩大减肥药的市场规模，对制药公司（特别是生产GLP-1的巨头）的营收构成重大利好，同时也可能对公共卫生支出和老年人健康管理产生结构性影响。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/millions-of-older-americans-will-soon-have-mediccare-access-to-glp-1s-for-weight-loss-heres-what-they-need-to-know-758efe4c?mod=mw_rss_topstories"
+        }
+      ]
+    }
+  ],
+  "overlooked": [
+    {
+      "title": "某种疾病的医疗成本高于癌症和心脏病总和，且将继续恶化",
+      "summary": "报告指出，某种疾病的医疗成本已超过癌症和心脏病的总和，并且情况只会越来越糟。这一健康危机不仅对受影响的家庭构成经济负担，也对政府财政构成巨大压力。这暗示了未被充分关注的医疗支出增长趋势，可能成为未来公共财政和健康保险系统面临的结构性挑战。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/this-disease-is-more-expensive-than-cancer-and-heart-disease-combined-and-its-only-going-to-get-worse-797b72d9?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "日本旅游签证费和利率政策调整可能影响其房产市场",
+      "summary": "随着日本从7月起提高旅游签证费用，并逐步摆脱超宽松货币政策，海外投资者需警惕其房地产资产可能受到的直接和间接影响。尽管非居民在日本购房数据有限，但签证费上涨可能削弱部分投资者以旅游为目的的购房需求，而利率政策转向则可能提高融资成本，对日本火热的房产市场带来结构性变化。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/article/3358584/will-japans-tourist-visa-fees-interest-rate-policy-impact-its-booming-property-market?utm_source=rss_feed"
         }
       ]
     }
