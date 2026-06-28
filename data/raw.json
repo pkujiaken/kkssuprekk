@@ -1,6 +1,13 @@
 [
   {
     "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "Chloe vs. History",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/06/chloe-vs-history.html?utm_source=rss&utm_medium=rss&utm_campaign=chloe-vs-history",
+    "summary": "<p>Excellent use of AI to create relatively accurate and realistic tours through history. Chloe is an engaging and personable guide&#8211;a fact of some importance. Hat tip: Kevin Bryan.</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/chloe-vs-history.html\">Chloe vs. History</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Sun, 28 Jun 2026 11:16:41 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
     "title": "My ARC talk on AI and jobs",
     "link": "https://marginalrevolution.com/marginalrevolution/2026/06/my-arc-talk-on-ai-and-jobs.html?utm_source=rss&utm_medium=rss&utm_campaign=my-arc-talk-on-ai-and-jobs",
     "summary": "<p>Twelve minutes long: &#8220;One stop shopping&#8221; for why AI will not put everyone out of work.</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/my-arc-talk-on-ai-and-jobs.html\">My ARC talk on AI and jobs</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
@@ -42,11 +49,11 @@
     "published": "Sat, 27 Jun 2026 05:15:23 +0000"
   },
   {
-    "source": "A Wealth of Common Sense (Ben Carlson)",
-    "title": "Why Are Investors Holding More Cash?",
-    "link": "https://awealthofcommonsense.com/2026/06/why-are-investors-holding-more-cash/",
-    "summary": "<figure><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"556\" src=\"https://awealthofcommonsense.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-105239.png\" width=\"888\" /></figure>A closer look at the retail trading boom in the 2020s.\nThe post Why Are Investors Holding More Cash? appeared first on A Wealth of Common Sense.\n...",
-    "published": "Fri, 26 Jun 2026 20:30:00 +0000"
+    "source": "NYT Business",
+    "title": "How Polymarket Traders Revolted Over One Silly Syllable",
+    "link": "https://www.nytimes.com/2026/06/28/business/donk-polymarket-prediction-markets.html",
+    "summary": "How one silly syllable ignited a bitter dispute over the nature of reality on Polymarket.",
+    "published": "Sun, 28 Jun 2026 11:19:37 +0000"
   },
   {
     "source": "NYT Business",
@@ -91,34 +98,6 @@
     "published": "Sat, 27 Jun 2026 12:40:09 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "Saks Emerges From Bankruptcy With a New Plan and Corporate Name",
-    "link": "https://www.nytimes.com/2026/06/26/business/saks-bankruptcy-exemplar-luxury-group.html",
-    "summary": "The retailer, renamed Exemplar Luxury Group, is ditching anything that isn’t focused on high-end department store shopping.",
-    "published": "Fri, 26 Jun 2026 20:46:56 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Congressional Panel Investigating Epstein Subpoenas Leon Black in Unusual Escalation",
-    "link": "https://www.nytimes.com/2026/06/26/business/leon-black-jeffrey-epstein-hearing.html",
-    "summary": "The panel’s Republican chairman said he was moved to act after the private equity mogul repeatedly declined to discuss nondisclosure agreements at a closed-door hearing.",
-    "published": "Sat, 27 Jun 2026 00:46:15 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Oil Prices Return to Prewar Levels After Four Months",
-    "link": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html",
-    "summary": "The cost of crude has become a real-time barometer of the Iran war’s toll on the global economy.",
-    "published": "Fri, 26 Jun 2026 21:23:33 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Small Plane Crashes Into Tallest Building in Beijing",
-    "link": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
-    "summary": "Crowds in the capital’s central business district fled as the crash sent debris falling into the streets below.",
-    "published": "Fri, 26 Jun 2026 20:32:02 +0000"
-  },
-  {
     "source": "NYT DealBook",
     "title": "Advertisers Are Good at Getting Human Attention. Can They Stand Out to A.I.?",
     "link": "https://www.nytimes.com/2026/06/27/business/dealbook/ai-visibility.html",
@@ -133,32 +112,46 @@
     "published": "Sat, 27 Jun 2026 13:43:08 +0000"
   },
   {
-    "source": "NYT DealBook",
-    "title": "Oil Prices Return to Prewar Levels After Four Months",
-    "link": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html",
-    "summary": "The cost of crude has become a real-time barometer of the Iran war’s toll on the global economy.",
-    "published": "Fri, 26 Jun 2026 21:23:33 +0000"
+    "source": "MarketWatch Top Stories",
+    "title": "Your health insurer shouldn’t decide your treatment plan. That’s what your doctor — and AI — should be doing.",
+    "link": "https://www.marketwatch.com/story/your-health-insurer-shouldnt-decide-your-treatment-plan-thats-what-your-doctor-and-possibly-ai-should-be-doing-45152d6a?mod=mw_rss_topstories",
+    "summary": "With a digital health record, clinicians and AI-driven diagnostic tools would be able to see your full health history, and then make better decisions.",
+    "published": "Sun, 28 Jun 2026 14:03:00 GMT"
   },
   {
-    "source": "BBC Business",
-    "title": "Trump threatens 100% tariff on European nations over tech tax",
-    "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
-    "summary": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
-    "published": "Sat, 27 Jun 2026 01:37:18 GMT"
+    "source": "MarketWatch Top Stories",
+    "title": "‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
+    "link": "https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories",
+    "summary": "“This medication was generic.”",
+    "published": "Sun, 28 Jun 2026 14:00:00 GMT"
   },
   {
-    "source": "BBC Business",
-    "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
-    "link": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss",
-    "summary": "Some analysts say the first non-stop London to Sydney flight is a major milestone - but would you buy a ticket?",
-    "published": "Fri, 26 Jun 2026 23:02:15 GMT"
+    "source": "MarketWatch Top Stories",
+    "title": "Micron is about to be more profitable than any U.S. company except Nvidia and Google",
+    "link": "https://www.marketwatch.com/story/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google-3a83e343?mod=mw_rss_topstories",
+    "summary": "Big Tech companies are willing to pay astronomical prices for AI memory components, helping spark a dramatic turnaround in Micron’s finances.",
+    "published": "Sun, 28 Jun 2026 14:00:00 GMT"
   },
   {
-    "source": "BBC Business",
-    "title": "Three unusual things about the King's tax bill",
-    "link": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss",
-    "summary": "King Charles paid £12.9m in tax for 2024-2025 - here's what we know about his unique tax situation.",
-    "published": "Fri, 26 Jun 2026 23:00:30 GMT"
+    "source": "MarketWatch Top Stories",
+    "title": "Forget the ‘Sell America’ trade: Why U.S. markets keep proving the naysayers wrong",
+    "link": "https://www.marketwatch.com/story/forget-the-sell-america-trade-why-u-s-markets-keep-proving-the-naysayers-wrong-03a0ab10?mod=mw_rss_topstories",
+    "summary": "Foreign investors are still pouring money into U.S. assets, and the dollar remains the undisputed global reserve currency.",
+    "published": "Sun, 28 Jun 2026 13:00:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "‘She is retired’: Do I dip into my 401(k) to pay my mother’s $30,000 credit-card debt?",
+    "link": "https://www.marketwatch.com/story/she-is-retired-do-i-dip-into-my-401-k-to-pay-my-mothers-30-000-credit-card-debt-dc97569b?mod=mw_rss_topstories",
+    "summary": "“I want her to live on her Social Security instead of using it to pay off her credit-card debt.”",
+    "published": "Sun, 28 Jun 2026 12:00:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "‘I’ll happily wait’: Does delaying Social Security make sense for high earners like me?",
+    "link": "https://www.marketwatch.com/story/ill-happily-wait-does-delaying-social-security-make-sense-for-high-earners-like-me-17dca69b?mod=mw_rss_topstories",
+    "summary": "“In many states, Social Security benefits are exempt from state income tax.”",
+    "published": "Sun, 28 Jun 2026 11:00:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
@@ -189,46 +182,18 @@
     "published": "Sat, 27 Jun 2026 19:30:00 GMT"
   },
   {
-    "source": "MarketWatch Top Stories",
-    "title": "Older Americans will soon have Medicare access to GLP-1s for weight loss for the first time. Here’s what they need to know.",
-    "link": "https://www.marketwatch.com/story/millions-of-older-americans-will-soon-have-medicare-access-to-glp-1s-for-weight-loss-heres-what-they-need-to-know-758efe4c?mod=mw_rss_topstories",
-    "summary": "Starting July 1, Medicare beneficiaries who qualify can get weight-loss drugs for $50 a month. They should consider the side effects and muscle loss.",
-    "published": "Sat, 27 Jun 2026 19:30:00 GMT"
+    "source": "CNBC Business",
+    "title": "Seniors in Medicare are about to get landmark obesity drug coverage — but many may not know it yet",
+    "link": "https://www.cnbc.com/2026/06/28/medicare-will-soon-cover-obesity-drugs-but-many-seniors-may-not-know.html",
+    "summary": "Many seniors may be unaware of the landmark coverage shift starting on July 1, with limited advertising seen from the government or Eli Lilly and Novo.",
+    "published": "Sun, 28 Jun 2026 12:00:01 GMT"
   },
   {
-    "source": "MarketWatch Top Stories",
-    "title": "Germany is considering raising its retirement age to 70. Could the U.S. follow?",
-    "link": "https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories",
-    "summary": "Germany may gradually raise its retirement age to 70 by 2092 — but such a move would fix only part of Social Security’s funding gap.",
-    "published": "Sat, 27 Jun 2026 19:30:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Take a cue from the rich: Do a midyear financial check-in",
-    "link": "https://www.marketwatch.com/story/take-a-cue-from-the-rich-do-a-midyear-financial-check-in-028a60e8?mod=mw_rss_topstories",
-    "summary": "Financial advisers would tell you to rebalance your portfolio at a midyear check-in. Make these 4 money moves instead.",
-    "published": "Sat, 27 Jun 2026 19:30:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "A new bill would cap Medicare enrollees’ annual expenses at $5,000 — and could cost the government ‘tens of billions’",
-    "link": "https://www.marketwatch.com/story/a-new-bill-would-cap-medicare-enrollees-annual-expenses-at-5-000-and-could-cost-the-government-tens-of-billions-d370bb37?mod=mw_rss_topstories",
-    "summary": "The long-shot proposal would guarantee some cost protection to all people with Medicare.",
-    "published": "Sat, 27 Jun 2026 19:30:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Discounted bond funds, especially at scandal-hit Wamco, may offer an investment opportunity",
-    "link": "https://www.marketwatch.com/story/discounted-bond-funds-especially-at-scandal-hit-wamco-may-offer-an-investment-opportunity-2afa77e8?mod=mw_rss_topstories",
-    "summary": "Professional investment advisers wear handcuffs when they manage clients’ money — but you don’t.",
-    "published": "Sat, 27 Jun 2026 19:30:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Annuities are coming to more 401(k) plans. Should workers embrace them?",
-    "link": "https://www.marketwatch.com/story/annuities-are-coming-to-more-401-k-plans-should-workers-embrace-them-78f014e9?mod=mw_rss_topstories",
-    "summary": "The Trump administration wants more annuities in your 401(k). Here is why it might be a mixed bag.",
-    "published": "Sat, 27 Jun 2026 19:30:00 GMT"
+    "source": "CNBC Business",
+    "title": "A 'perfect storm' points to a much smaller U.S. auto market by 2040",
+    "link": "https://www.cnbc.com/2026/06/28/us-auto-market.html",
+    "summary": "The auto industry is selling fewer cars--one forecaster says this is a fundamental change, and it is going to get worse.",
+    "published": "Sun, 28 Jun 2026 11:00:01 GMT"
   },
   {
     "source": "CNBC Business",
@@ -245,11 +210,11 @@
     "published": "Sat, 27 Jun 2026 12:00:01 GMT"
   },
   {
-    "source": "CNBC Business",
-    "title": "Walmart heir Lukas Walton buys minority stake in the Chicago Bulls and United Center",
-    "link": "https://www.cnbc.com/2026/06/26/walmart-heir-lukas-walton-chicago-bulls.html",
-    "summary": "Lukas Walton is the 39-year-old grandson of Walmart founder Sam Walton. He and his wife, Samantha, are residents of Chicago.",
-    "published": "Fri, 26 Jun 2026 21:07:22 GMT"
+    "source": "CNBC Finance",
+    "title": "These 10 Chinese stocks are powering U.S. data centers",
+    "link": "https://www.cnbc.com/2026/06/28/these-10-chinese-stocks-are-powering-us-data-centers.html",
+    "summary": "Many of the top-performing mainland Chinese stocks this year make components used in data centers globally, according to 22V Research.",
+    "published": "Sun, 28 Jun 2026 12:23:56 GMT"
   },
   {
     "source": "CNBC Finance",
@@ -274,59 +239,38 @@
   },
   {
     "source": "Hacker News Top",
+    "title": "Marfa Public Radio Puts You to Sleep",
+    "link": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+    "summary": "<p>Article URL: <a href=\"https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep\">https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48703759\">https://news.ycombinator.com/item?id=48703759</a></p>\n<p>Points: 310</p>\n<p># Comments: 83</p>",
+    "published": "Sun, 28 Jun 2026 02:23:08 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Choosing a Public DNS Resolver",
+    "link": "https://evilbit.de/dns-resolver-guide.html",
+    "summary": "<p>Article URL: <a href=\"https://evilbit.de/dns-resolver-guide.html\">https://evilbit.de/dns-resolver-guide.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48702273\">https://news.ycombinator.com/item?id=48702273</a></p>\n<p>Points: 212</p>\n<p># Comments: 89</p>",
+    "published": "Sat, 27 Jun 2026 22:11:28 +0000"
+  },
+  {
+    "source": "Hacker News Top",
     "title": "Turn your site into a place people can bump into each other",
     "link": "https://cauenapier.com/blog/townsquare_release/",
-    "summary": "<p>Related: <i>Show HN: TownSquare, a tiny presence layer for websites</i> - https://news.ycombinator.com/item?id=48608570 - June 2026 (166 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48699928\">https://news.ycombinator.com/item?id=48699928</a></p>\n<p>Points: 214</p>\n<p># Comments: 89</p>",
+    "summary": "<p>Related: <i>Show HN: TownSquare, a tiny presence layer for websites</i> - https://news.ycombinator.com/item?id=48608570 - June 2026 (166 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48699928\">https://news.ycombinator.com/item?id=48699928</a></p>\n<p>Points: 270</p>\n<p># Comments: 119</p>",
     "published": "Sat, 27 Jun 2026 17:11:20 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
     "link": "https://github.com/bikini/exploitarium",
-    "summary": "<p>Article URL: <a href=\"https://github.com/bikini/exploitarium\">https://github.com/bikini/exploitarium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698617\">https://news.ycombinator.com/item?id=48698617</a></p>\n<p>Points: 784</p>\n<p># Comments: 305</p>",
+    "summary": "<p>Article URL: <a href=\"https://github.com/bikini/exploitarium\">https://github.com/bikini/exploitarium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698617\">https://news.ycombinator.com/item?id=48698617</a></p>\n<p>Points: 878</p>\n<p># Comments: 339</p>",
     "published": "Sat, 27 Jun 2026 14:31:00 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Suspicious Discontinuities (2020)",
-    "link": "https://danluu.com/discontinuities/",
-    "summary": "<p>Article URL: <a href=\"https://danluu.com/discontinuities/\">https://danluu.com/discontinuities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698151\">https://news.ycombinator.com/item?id=48698151</a></p>\n<p>Points: 232</p>\n<p># Comments: 74</p>",
-    "published": "Sat, 27 Jun 2026 13:32:20 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Asian AI startups launch Mythos-like models",
-    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\">https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697958\">https://news.ycombinator.com/item?id=48697958</a></p>\n<p>Points: 218</p>\n<p># Comments: 167</p>",
-    "published": "Sat, 27 Jun 2026 13:10:21 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "OpenRA",
     "link": "https://www.openra.net/",
-    "summary": "<p>Article URL: <a href=\"https://www.openra.net/\">https://www.openra.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697560\">https://news.ycombinator.com/item?id=48697560</a></p>\n<p>Points: 677</p>\n<p># Comments: 131</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.openra.net/\">https://www.openra.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697560\">https://news.ycombinator.com/item?id=48697560</a></p>\n<p>Points: 760</p>\n<p># Comments: 142</p>",
     "published": "Sat, 27 Jun 2026 12:10:27 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "The case for physical media ownership",
-    "link": "https://dervis.de/physical/",
-    "summary": "<p>Article URL: <a href=\"https://dervis.de/physical/\">https://dervis.de/physical/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697335\">https://news.ycombinator.com/item?id=48697335</a></p>\n<p>Points: 423</p>\n<p># Comments: 272</p>",
-    "published": "Sat, 27 Jun 2026 11:32:10 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Fintech Engineering Handbook",
-    "link": "https://w.pitula.me/fintech-engineering-handbook/",
-    "summary": "<p>Article URL: <a href=\"https://w.pitula.me/fintech-engineering-handbook/\">https://w.pitula.me/fintech-engineering-handbook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48696982\">https://news.ycombinator.com/item?id=48696982</a></p>\n<p>Points: 543</p>\n<p># Comments: 171</p>",
-    "published": "Sat, 27 Jun 2026 10:28:53 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-    "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-    "summary": "<p>Article URL: <a href=\"https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf\">https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48696585\">https://news.ycombinator.com/item?id=48696585</a></p>\n<p>Points: 755</p>\n<p># Comments: 317</p>",
-    "published": "Sat, 27 Jun 2026 09:18:52 +0000"
   },
   {
     "source": "Ars Technica",
@@ -336,39 +280,18 @@
     "published": "Sat, 27 Jun 2026 11:07:05 +0000"
   },
   {
-    "source": "Ars Technica",
-    "title": "South Korea plans to train entire military as \"drone warriors\"",
-    "link": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
-    "summary": "Half-million strong military will train on drones as “universal combat tool.”",
-    "published": "Fri, 26 Jun 2026 22:19:05 +0000"
+    "source": "SCMP Business",
+    "title": "Faster AI, lower costs: DSpark eases inference bottlenecks and chip strain, says DeepSeek",
+    "link": "https://www.scmp.com/tech/big-tech/article/3358647/faster-ai-lower-costs-dspark-eases-inference-bottlenecks-and-chip-strain-says-deepseek?utm_source=rss_feed",
+    "summary": "Chinese artificial intelligence start-up DeepSeek has rolled out a major upgrade to its flagship V4 model aimed at sharply accelerating AI response generation, as competition among Chinese developers increasingly shifts to reducing serving costs and enhancing user experience.\nDeepSeek, by adopting what it called a speculative decoding framework, DSpark, said it increased per-user response speeds by up to 85 per cent, an efficiency gain that could reduce AI systems’ reliance on larger, more...",
+    "published": "Sun, 28 Jun 2026 11:00:08 +0000"
   },
   {
-    "source": "Ars Technica",
-    "title": "Doctors suspected man had brain cancer. He actually had worms.",
-    "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
-    "summary": "His doctors went looking for cancer, then they saw the worms' heads.",
-    "published": "Fri, 26 Jun 2026 21:43:57 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
-    "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-    "summary": "Illinois passed a similar law, giving services more incentive to make ads less booming.",
-    "published": "Fri, 26 Jun 2026 21:12:07 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
-    "link": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
-    "summary": "Russian government lashes out at Apple's \"bizarre\" decisions.",
-    "published": "Fri, 26 Jun 2026 20:58:02 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-    "link": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-    "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
-    "published": "Fri, 26 Jun 2026 20:04:55 +0000"
+    "source": "SCMP Business",
+    "title": "How the AI boom exposes investors to risk, while a downturn could see a sharp crash: BIS",
+    "link": "https://www.scmp.com/business/banking-finance/article/3357993/how-ai-boom-exposes-investors-risk-while-downturn-could-see-sharp-crash-bis?utm_source=rss_feed",
+    "summary": "As the global financial system struggles to keep pace with the artificial intelligence investment boom and capital flows surge through loosely regulated, non-bank channels, a key international organisation has warned that an AI downturn could develop into a sharper, faster crash than a traditional banking crisis.\nIn its annual economic report released on Sunday, the Bank for International Settlements (BIS) said funding for AI was increasingly channelled through hedge funds, private credit...",
+    "published": "Sun, 28 Jun 2026 09:00:05 +0000"
   },
   {
     "source": "SCMP Business",
@@ -390,19 +313,5 @@
     "link": "https://www.scmp.com/business/article/3358584/will-japans-tourist-visa-fees-interest-rate-policy-impact-its-booming-property-market?utm_source=rss_feed",
     "summary": "With Japan imposing higher visa fees for tourists from July while moving away from an ultra-loose monetary policy, foreign investors must prepare themselves for both direct and indirect impacts on their real estate assets, according to agents and analysts.\nThere is a dearth of data on the total number of homes bought by non-residents in Japan, but agents said the two main reasons for purchasing were to either use them as a primary base while they explored the country’s tourist destinations, or...",
     "published": "Sun, 28 Jun 2026 01:00:08 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "CU in China: Why South Korean retail giant is adopting ‘online first’ strategy",
-    "link": "https://www.scmp.com/business/companies/article/3358510/cu-china-why-south-korean-retail-giant-adopting-online-first-strategy?utm_source=rss_feed",
-    "summary": "South Korean convenience store giant CU has been testing the waters in China with a limited online trial operation, marking a different approach from other multinational brands that bet big on physical outlets.\nThe brand, operated by BGF Retail which has around 18,600 stores in South Korea, is being cautious to start with. Together with its Chinese partner Ningshing Ubay, it is only selling 11 products on e-commerce platform Tmall under Alibaba Group, which also owns the South China Morning...",
-    "published": "Sat, 27 Jun 2026 02:00:06 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Growth agenda: Hong Kong vows stronger exchange with reforms, bond futures and gold push",
-    "link": "https://www.scmp.com/business/banking-finance/article/3358546/growth-agenda-hong-kong-vows-stronger-exchange-reforms-bond-futures-and-gold-push?utm_source=rss_feed",
-    "summary": "Hong Kong is pressing ahead with an overhaul of listing rules and the launch of new product initiatives, the city’s deputy finance chief said on Friday as the bourse operator marked 26 years as a publicly traded company.\nSpeaking at the anniversary ceremony of Hong Kong Exchanges and Clearing (HKEX), Deputy Financial Secretary Michael Wong Wai-lun outlined reforms under review, including optimising weighted voting rights, easing secondary listings by overseas issuers, and expanding flexibility...",
-    "published": "Sat, 27 Jun 2026 00:00:14 +0000"
   }
 ]
