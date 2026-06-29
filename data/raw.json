@@ -1,5 +1,26 @@
 [
   {
+    "source": "Stratechery (Ben Thompson)",
+    "title": "Summer Break: Week of June 29",
+    "link": "https://stratechery.com/2026/summer-break-week-of-june-29/",
+    "summary": "Stratechery is on summer break the week of June 29. There will be no Weekly Article or Updates. The next Update will be on Monday, July 6. Dithering,&#160;Sharp Tech, and&#160;Sharp China&#160;will also return the week of July 6.&#160;Greatest of All Talk&#160;and&#160;Asianometry&#160;will continue to publish. The full Stratechery posting schedule is&#160;here.",
+    "published": "Mon, 29 Jun 2026 10:00:00 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "AI cheating on math econ at Brown",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/06/ai-cheating-on-math-econ.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-cheating-on-math-econ",
+    "summary": "<p>The temptation to use artificial intelligence (AI) to cheat is shaking up elite universities in the United States. Professor Roberto Serrano, who is the Harrison S. Kravis University Professor of Economics at Brown University, has detected a massive fraud in one of the classes he teaches, ECON 1170, an advanced undergraduate course in mathematical economics. He has [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/ai-cheating-on-math-econ.html\">AI cheating on math econ at Brown</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Mon, 29 Jun 2026 16:00:50 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "Politically Incorrect Paper of the Day: The US Racial Wealth Gap",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/06/politically-incorrect-paper-of-the-day-the-us-racial-wealth-gap.html?utm_source=rss&utm_medium=rss&utm_campaign=politically-incorrect-paper-of-the-day-the-us-racial-wealth-gap",
+    "summary": "<p>Writing in the QJE, Derenoncourt, Kim, Kuhn, &#38; Schularick argue that today&#8217;s black-white wealth gap can be explained by differences in initial conditions from over a hundred and fifty years ago, i.e. slavery. But there is an important, and glaring objection: in the age of immigration (1850–1924) millions of whites immigrated to the United States [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/politically-incorrect-paper-of-the-day-the-us-racial-wealth-gap.html\">Politically Incorrect Paper of the Day: The US Racial Wealth Gap</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Mon, 29 Jun 2026 11:17:37 +0000"
+  },
+  {
     "source": "Marginal Revolution (Tyler Cowen)",
     "title": "Will future biomedical advances be low marginal cost?",
     "link": "https://marginalrevolution.com/marginalrevolution/2026/06/will-future-biomedical-advances-be-low-marginal-cost.html?utm_source=rss&utm_medium=rss&utm_campaign=will-future-biomedical-advances-be-low-marginal-cost",
@@ -42,25 +63,81 @@
     "published": "Sun, 28 Jun 2026 04:47:14 +0000"
   },
   {
+    "source": "A Wealth of Common Sense (Ben Carlson)",
+    "title": "Chauffeur Knowledge",
+    "link": "https://awealthofcommonsense.com/2026/06/chauffeur-knowledge/",
+    "summary": "<figure><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"1024\" src=\"https://awealthofcommonsense.com/wp-content/uploads/2026/06/IMG_1605-943x1024.jpeg\" width=\"943\" /></figure>Charlie Munger on Max Planck.\nThe post Chauffeur Knowledge appeared first on A Wealth of Common Sense.\n...",
+    "published": "Mon, 29 Jun 2026 13:48:04 +0000"
+  },
+  {
+    "source": "A Wealth of Common Sense (Ben Carlson)",
+    "title": "Talk Your Book: Investing in the Power Grid",
+    "link": "https://awealthofcommonsense.com/2026/06/talk-your-book-investing-in-the-power-grid/",
+    "summary": "<figure><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"490\" src=\"https://awealthofcommonsense.com/wp-content/uploads/2026/06/Screenshot-2026-06-28-183653-1024x490.png\" width=\"1024\" /></figure>On today's Talk Your Book, we speak with Ryan Issakainen fro, First Trust about investing in the buildout of a new power grid, AI bottlenecks, data centers, thematic ETFs and more. \nThe post Talk Your Book: Investing in the Power Grid appeared first on A Wealth of Common Sense.\n...",
+    "published": "Mon, 29 Jun 2026 11:15:12 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Trump Renews Threat to Fire Fed Governor in Wake of Court Loss",
+    "link": "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html",
+    "summary": "The president promised to “take appropriate action immediately” against Lisa D. Cook, a Fed governor.",
+    "published": "Mon, 29 Jun 2026 16:19:31 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough",
+    "link": "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html",
+    "summary": "As OpenAI and Anthropic prepare to go public, tech workers making six figures are grousing that they cannot compete with the new A.I. elite. Some doubt they can afford to stay.",
+    "published": "Mon, 29 Jun 2026 16:00:07 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Les Mills, Olympian Who Founded Fitness Chain, Dies at 91",
+    "link": "https://www.nytimes.com/2026/06/29/world/les-mills-dead.html",
+    "summary": "A New Zealand Olympian, his small gym in Auckland grew into a worldwide chain.",
+    "published": "Mon, 29 Jun 2026 15:21:47 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Could Comcast and NBCUniversal Do Deals After They Break Up?",
+    "link": "https://www.nytimes.com/2026/06/29/business/dealbook/comcast-nbcuniversal-deals.html",
+    "summary": "Comcast said it plans to spin off its big media division from its core broadband operations. That could lead to some big-ticket deal-making.",
+    "published": "Mon, 29 Jun 2026 12:30:34 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Ships Pull Back Amid Heightened Risk From U.S.-Iran Strikes",
+    "link": "https://www.nytimes.com/2026/06/29/business/iran-strait-hormuz-shipping-traffic.html",
+    "summary": "Four days of attacks by both countries forced a sharp decline in the number of vessels navigating through the Strait of Hormuz.",
+    "published": "Mon, 29 Jun 2026 14:34:34 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Comcast to Spin Off NBCUniversal, Ending a Long Union of Cable and Media",
+    "link": "https://www.nytimes.com/2026/06/29/business/comcast-nbcuniversal-spinoff.html",
+    "summary": "The media business, which owns NBC News and Universal Pictures, will be separated from Comcast’s cable and internet business, following a trend in the media industry.",
+    "published": "Mon, 29 Jun 2026 15:44:24 +0000"
+  },
+  {
     "source": "NYT Business",
     "title": "How Warsh Has Begun to Change the Fed",
     "link": "https://www.nytimes.com/2026/06/29/business/kevin-warsh-federal-reserve-reforms.html",
-    "summary": "Just weeks into his job as chairman of the Federal Reserve, Kevin M. Warsh has embraced some of the central bank’s conventions while signaling seismic shifts ahead.",
-    "published": "Mon, 29 Jun 2026 09:03:22 +0000"
+    "summary": "Just over a month into his job as chairman of the Federal Reserve, Kevin M. Warsh has embraced some conventions while signaling seismic shifts ahead.",
+    "published": "Mon, 29 Jun 2026 11:42:59 +0000"
   },
   {
     "source": "NYT Business",
     "title": "China Emerges as a Relative Winner From Strait of Hormuz Crisis",
     "link": "https://www.nytimes.com/2026/06/29/business/economy/china-iran-strait-of-hormuz.html",
     "summary": "A report examines how the war in Iran has weighed on Asian economies, but left China in a more advantageous position.",
-    "published": "Mon, 29 Jun 2026 09:03:09 +0000"
+    "published": "Mon, 29 Jun 2026 12:21:55 +0000"
   },
   {
     "source": "NYT Business",
     "title": "A.I. ‘Employees’ Might Disrupt Work in Unexpected Ways",
     "link": "https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html",
     "summary": "Scholars say the “unknown unknowns” of using artificial intelligence in the workplace may be undermining the technology’s advertised benefits.",
-    "published": "Mon, 29 Jun 2026 09:00:51 +0000"
+    "published": "Mon, 29 Jun 2026 09:00:52 +0000"
   },
   {
     "source": "NYT Business",
@@ -70,53 +147,18 @@
     "published": "Mon, 29 Jun 2026 09:00:07 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "Oil Prices Rise on Possible Deal to Suspend Attacks in Gulf",
-    "link": "https://www.nytimes.com/2026/06/29/business/oil-gas-price-iran.html",
-    "summary": "Oil prices edged higher after an American official said the U.S. and Iran had agreed to halt attacks in a key shipping lane, raising hopes that hostilities would not escalate.",
-    "published": "Mon, 29 Jun 2026 08:28:49 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Oil Markets Edge Higher After Days of Attacks in Persian Gulf",
-    "link": "https://www.nytimes.com/2026/06/28/business/oil-markets-edge-higher-after-days-of-attacks-in-persian-gulf.html",
-    "summary": "Oil prices inched up on Sunday evening, while the S&amp;P 500 futures market was little changed.",
-    "published": "Sun, 28 Jun 2026 22:45:27 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Philippe Stern, Heir to the Patek Philippe Watch Brand, Dies at 88",
-    "link": "https://www.nytimes.com/2026/06/28/obituaries/phillipe-stern-dead.html",
-    "summary": "In an era of electronic timepieces, he marketed $40,000 handmade watches as status symbols, breathing new life into a struggling industry.",
-    "published": "Sun, 28 Jun 2026 21:59:28 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "‘Supergirl’ Falters at the Box Office, Testing DC Studios’ Reboot",
-    "link": "https://www.nytimes.com/2026/06/28/business/media/supergirl-box-office.html",
-    "summary": "Overall, ticket sales for the weekend were up 21 percent from last year. But the expensive “Supergirl” debuted as a disappointing second, with an estimated $38 million.",
-    "published": "Sun, 28 Jun 2026 19:52:50 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "How Polymarket Traders Revolted Over One Silly Syllable",
-    "link": "https://www.nytimes.com/2026/06/28/business/donk-polymarket-prediction-markets.html",
-    "summary": "How one silly syllable ignited a bitter dispute over the nature of reality on Polymarket.",
-    "published": "Sun, 28 Jun 2026 11:19:37 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Advertisers Are Good at Getting Human Attention. Can They Stand Out to A.I.?",
-    "link": "https://www.nytimes.com/2026/06/27/business/dealbook/ai-visibility.html",
-    "summary": "At Cannes Lions, marketers grappled with how to influence A.I. chatbots.",
-    "published": "Sun, 28 Jun 2026 16:11:21 +0000"
-  },
-  {
     "source": "NYT Economy",
     "title": "China Emerges as a Relative Winner From Strait of Hormuz Crisis",
     "link": "https://www.nytimes.com/2026/06/29/business/economy/china-iran-strait-of-hormuz.html",
     "summary": "A report examines how the war in Iran has weighed on Asian economies, but left China in a more advantageous position.",
-    "published": "Mon, 29 Jun 2026 09:03:09 +0000"
+    "published": "Mon, 29 Jun 2026 12:21:55 +0000"
+  },
+  {
+    "source": "NYT DealBook",
+    "title": "Could Comcast and NBCUniversal Do Deals After They Break Up?",
+    "link": "https://www.nytimes.com/2026/06/29/business/dealbook/comcast-nbcuniversal-deals.html",
+    "summary": "Comcast said it plans to spin off its big media division from its core broadband operations. That could lead to some big-ticket deal-making.",
+    "published": "Mon, 29 Jun 2026 12:30:34 +0000"
   },
   {
     "source": "NYT DealBook",
@@ -124,6 +166,41 @@
     "link": "https://www.nytimes.com/2026/06/27/business/dealbook/ai-visibility.html",
     "summary": "At Cannes Lions, marketers grappled with how to influence A.I. chatbots.",
     "published": "Sun, 28 Jun 2026 16:11:21 +0000"
+  },
+  {
+    "source": "NYT DealBook",
+    "title": "Sign Up for DealBook",
+    "link": "https://www.nytimes.com/newsletters/signup/DK",
+    "summary": "Make sense of the latest business and policy headlines with our daily newsletter.",
+    "published": "Mon, 29 Jun 2026 12:28:21 +0000"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Burnham's 'Manchesterism' could change the UK, but is not yet a full economic plan",
+    "link": "https://www.bbc.co.uk/news/articles/cpq3yxdyx9do?at_medium=RSS&at_campaign=rss",
+    "summary": "Andy Burnham's speech depicted a different way of seeing and running the UK, though there are many other questions about the detail.",
+    "published": "Mon, 29 Jun 2026 15:41:04 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook",
+    "link": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+    "summary": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
+    "published": "Mon, 29 Jun 2026 14:33:16 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "British American Tobacco to cut 9,000 jobs",
+    "link": "https://www.bbc.co.uk/news/articles/c3vyen243dno?at_medium=RSS&at_campaign=rss",
+    "summary": "The company had said earlier this year it was planning savings to make it  \"more digital and AI-focused\".",
+    "published": "Mon, 29 Jun 2026 12:58:22 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Ford rehires human engineers after AI fails to match quality checks",
+    "link": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
+    "summary": "The car-maker found AI quality checks failed to match the skill of veteran technicians.",
+    "published": "Mon, 29 Jun 2026 11:58:01 GMT"
   },
   {
     "source": "BBC Business",
@@ -134,10 +211,10 @@
   },
   {
     "source": "BBC Business",
-    "title": "Got the tennis bug? How to play sport without paying",
+    "title": "Inspired by Wimbledon and the World Cup? Here's how to play sport for free",
     "link": "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o?at_medium=RSS&at_campaign=rss",
     "summary": "As the world's best players begin play at Wimbledon, how can you get into sport on a budget.",
-    "published": "Sun, 28 Jun 2026 23:06:00 GMT"
+    "published": "Mon, 29 Jun 2026 13:00:12 GMT"
   },
   {
     "source": "BBC Business",
@@ -148,73 +225,73 @@
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "The central bank of central  banks warns AI frenzy could trigger stock-market slump and jeopardize economy",
-    "link": "https://www.marketwatch.com/story/the-central-bank-of-central-banks-warns-ai-frenzy-could-trigger-stock-market-slump-and-jeopardize-economy-4d24b0a1?mod=mw_rss_topstories",
-    "summary": "Rich stock market valuations, investor complacency, circular financing, and the potential knock-on effects in credit markets are a clear warning in the BIS annual report",
-    "published": "Mon, 29 Jun 2026 09:13:00 GMT"
+    "title": "Fed’s Lisa Cook can stay on at central bank while challenging Trump’s attempt to fire her, Supreme Court rules",
+    "link": "https://www.marketwatch.com/story/supreme-court-allows-lisa-cook-to-stay-on-at-fed-for-now-whats-next-as-trump-tries-to-fire-her-06bfb9ee?mod=mw_rss_topstories",
+    "summary": "The Supreme Court has refused to allow President Donald Trump to fire Federal Reserve governor Lisa Cook, in a move that strengthens the independence of the central bank.",
+    "published": "Mon, 29 Jun 2026 16:05:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Why ‘permabear’ Jeremy Grantham is steering his own cash into high-flying tech stocks",
-    "link": "https://www.marketwatch.com/story/why-permabear-jeremy-grantham-is-steering-his-own-cash-into-high-flying-tech-stocks-911cb30f?mod=mw_rss_topstories",
-    "summary": "A  viral social-media post this weekend took Jeremy Grantham bashing a step further by looking at the investing legend’s own investments.",
-    "published": "Mon, 29 Jun 2026 09:05:00 GMT"
+    "title": "I’m a CPA and tell my clients to claim Social Security early. Am I giving them bad advice?",
+    "link": "https://www.marketwatch.com/story/take-the-money-while-you-can-im-a-cpa-and-tell-my-clients-to-take-their-social-security-early-am-i-wrong-a50e55e8?mod=mw_rss_topstories",
+    "summary": "“Only 8% to 10% of people wait until age 70 to claim.”",
+    "published": "Mon, 29 Jun 2026 16:00:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "After her return to the spotlight, ‘Every Year After’ star Elisha Cuthbert relists her Hollywood Hills home for $2.1 million",
-    "link": "https://www.marketwatch.com/story/after-her-return-to-the-spotlight-every-year-after-star-elisha-cuthbert-relists-her-hollywood-hills-home-for-2-1-million-d1c294ea?mod=mw_rss_topstories",
-    "summary": "Actress Elisha Cuthbert is again trying to sell her luxurious L.A. pad for nearly $2.1 million— weeks after making a sudden return to acting following a long hiatus.",
-    "published": "Mon, 29 Jun 2026 09:04:00 GMT"
+    "title": "Wall Street is bracing for a wave of Fed rate hikes that may never come. These sectors stand to gain.",
+    "link": "https://www.marketwatch.com/story/wall-street-is-bracing-for-a-wave-of-fed-rate-hikes-that-may-never-come-these-sectors-stand-to-gain-63229922?mod=mw_rss_topstories",
+    "summary": "Inflation isn’t as high as you think — and Fed Chair Kevin Warsh looks less hawkish than advertised.",
+    "published": "Mon, 29 Jun 2026 15:34:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Ryan Seacrest sells 40-acre Napa Valley estate for $18.5 million",
-    "link": "https://www.marketwatch.com/story/ryan-seacrest-sells-40-acre-napa-valley-estate-for-18-5-million-20786aa9?mod=mw_rss_topstories",
-    "summary": "Ryan Seacrest has officially offloaded his 40-acre California estate for $18.5 million—two years after listing the stunning Napa Valley property for the much higher price of $22 million.",
-    "published": "Mon, 29 Jun 2026 08:59:00 GMT"
+    "title": "There’s a ‘Trump account’ hack that can unlock decades of wealth-building for your kid",
+    "link": "https://www.marketwatch.com/story/theres-a-trump-account-hack-that-can-unlock-decades-of-wealth-building-for-your-kid-b84188b6?mod=mw_rss_topstories",
+    "summary": "“The only reason” to use these accounts is “if you’re planning to do the Roth strategy,” says one financial planner.",
+    "published": "Mon, 29 Jun 2026 15:07:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Oil prices, stock futures inch higher as U.S. and Iran reportedly agree to halt attacks",
-    "link": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-inch-higher-as-u-s-and-iran-trade-more-airstrikes-3fc66beb?mod=mw_rss_topstories",
-    "summary": "Oil prices rose Sunday and U.S. stock-index futures advanced, after the U.S. and Iran reportedly agreed to halt attacks after repeatedly exchanging fire in the Persian Gulf over the weekend.",
-    "published": "Mon, 29 Jun 2026 03:02:00 GMT"
+    "title": "Strategy can now sell bitcoin to buy back stock — the opposite of what it’s been doing",
+    "link": "https://www.marketwatch.com/story/strategy-can-now-sell-bitcoin-to-buy-back-stock-the-opposite-of-what-its-been-doing-db506fdb?mod=mw_rss_topstories",
+    "summary": "Strategy disclosed a program to sell bitcoin “from time to time” to fund its U.S. dollar reserve and share repurchases.",
+    "published": "Mon, 29 Jun 2026 15:07:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "I had gallbladder surgery. After I got home, the hospital asked me for a financial donation. Is this ethical?",
-    "link": "https://www.marketwatch.com/story/i-had-my-gallbladder-removed-after-i-got-home-the-hospital-asked-me-for-a-donation-is-this-ethical-ad12a8e1?mod=mw_rss_topstories",
-    "summary": "“The letter asked whether I had a favorite caregiver and if I would like to make a contribution in their honor.”",
-    "published": "Sun, 28 Jun 2026 15:00:00 GMT"
+    "title": "Going back to the office may actually be better for you than working from home",
+    "link": "https://www.marketwatch.com/story/going-back-to-the-office-may-actually-be-better-for-you-than-working-from-home-18126286?mod=mw_rss_topstories",
+    "summary": "Returning to the office — even just a few days a week — might be what fully remote workers actually need.",
+    "published": "Mon, 29 Jun 2026 15:05:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Your health insurer shouldn’t decide your treatment plan. That’s what your doctor — and AI — should be doing.",
-    "link": "https://www.marketwatch.com/story/your-health-insurer-shouldnt-decide-your-treatment-plan-thats-what-your-doctor-and-possibly-ai-should-be-doing-45152d6a?mod=mw_rss_topstories",
-    "summary": "With a digital health record, clinicians and AI-driven diagnostic tools would be able to see your full health history, and then make better decisions.",
-    "published": "Sun, 28 Jun 2026 14:03:00 GMT"
+    "title": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule — just in time for hail and hurricane season",
+    "link": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
+    "summary": "Those who find extensive damage to their roofs might be stuck between two options: File an insurance claim, which could trigger a premium increase, or cough up the cash for the necessary repairs or replacement.",
+    "published": "Mon, 29 Jun 2026 15:04:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
-    "link": "https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories",
-    "summary": "“This medication was generic.”",
-    "published": "Sun, 28 Jun 2026 14:00:00 GMT"
+    "title": "‘She is retired’: Do I dip into my 401(k) to pay my mother’s $30,000 credit-card debt?",
+    "link": "https://www.marketwatch.com/story/she-is-retired-do-i-dip-into-my-401-k-to-pay-my-mothers-30-000-credit-card-debt-dc97569b?mod=mw_rss_topstories",
+    "summary": "“I want her to live on her Social Security instead of using it to pay off her credit-card debt.”",
+    "published": "Mon, 29 Jun 2026 15:00:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Micron is about to be more profitable than any U.S. company except Nvidia and Google",
-    "link": "https://www.marketwatch.com/story/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google-3a83e343?mod=mw_rss_topstories",
-    "summary": "Big Tech companies are willing to pay astronomical prices for AI memory components, helping spark a dramatic turnaround in Micron’s finances.",
-    "published": "Sun, 28 Jun 2026 14:00:00 GMT"
+    "title": "Rocket Lab to take on SpaceX’s Starlink with $8 billion acquisition",
+    "link": "https://www.marketwatch.com/story/rocket-lab-to-take-on-spacexs-starlink-with-8-billion-acquisition-bf7ef649?mod=mw_rss_topstories",
+    "summary": "Rocket Lab said it is buying Iridium as a “shortcut” to expanding its growing capabilities.",
+    "published": "Mon, 29 Jun 2026 14:07:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Forget the ‘Sell America’ trade: Why U.S. markets keep proving the naysayers wrong",
-    "link": "https://www.marketwatch.com/story/forget-the-sell-america-trade-why-u-s-markets-keep-proving-the-naysayers-wrong-03a0ab10?mod=mw_rss_topstories",
-    "summary": "Foreign investors are still pouring money into U.S. assets, and the dollar remains the undisputed global reserve currency.",
-    "published": "Sun, 28 Jun 2026 13:00:00 GMT"
+    "title": "I’m 53 and want to retire in 12 years. Is 5% enough to put in my 401(k)?",
+    "link": "https://www.marketwatch.com/story/im-53-and-want-to-retire-in-12-years-is-5-enough-to-put-in-my-401-k-6f39fc6e?mod=mw_rss_topstories",
+    "summary": "If you want to have enough for retirement, you need to push your savings limits today.",
+    "published": "Mon, 29 Jun 2026 14:00:00 GMT"
   },
   {
     "source": "CNBC Business",
@@ -232,6 +309,27 @@
   },
   {
     "source": "CNBC Finance",
+    "title": "Stocks making the biggest moves midday: Comcast, Charter Communications, Rocket Lab, Alphabet, Verizon & more",
+    "link": "https://www.cnbc.com/2026/06/29/stocks-making-the-biggest-moves-midday-mu-cmcsa-rklb-googl-vz.html",
+    "summary": "These are the stocks posting the largest moves midday.",
+    "published": "Mon, 29 Jun 2026 16:19:09 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Stocks making the biggest moves premarket: Comcast, Rocket Lab, Charter Communications & more",
+    "link": "https://www.cnbc.com/2026/06/29/stocks-making-the-biggest-moves-premarket-cmcsa-spcx-chtr.html",
+    "summary": "These are the stocks posting the largest moves premarket.",
+    "published": "Mon, 29 Jun 2026 11:40:19 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "China's economy picks up in June on rebounding U.S. exports, analysts say",
+    "link": "https://www.cnbc.com/2026/06/29/china-economy-june-trade-exports-manufacturing-tariffs-iran-war-consumption-ai-technology-.html",
+    "summary": "China's economy is showing signs of picking up after a sluggish few months — thanks in part to a rebound in shipments to the U.S.",
+    "published": "Mon, 29 Jun 2026 10:00:02 GMT"
+  },
+  {
+    "source": "CNBC Finance",
     "title": "These 10 Chinese stocks are powering U.S. data centers",
     "link": "https://www.cnbc.com/2026/06/28/these-10-chinese-stocks-are-powering-us-data-centers.html",
     "summary": "Many of the top-performing mainland Chinese stocks this year make components used in data centers globally, according to 22V Research.",
@@ -242,77 +340,98 @@
     "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
     "link": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
     "summary": "Adding SpaceX this quickly would make the Elon Musk company one of the first beneficiaries of Nasdaq's recently adopted fast-track inclusion framework.",
-    "published": "Sat, 27 Jun 2026 21:34:59 GMT"
+    "published": "Mon, 29 Jun 2026 13:50:19 GMT"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Pollen tried to remove my article and Google is assisting with it",
+    "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+    "summary": "<p>Article URL: <a href=\"https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/\">https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48716902\">https://news.ycombinator.com/item?id=48716902</a></p>\n<p>Points: 648</p>\n<p># Comments: 95</p>",
+    "published": "Mon, 29 Jun 2026 09:28:08 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Age verification is just a precursor to automated attribution of speech",
     "link": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-    "summary": "<p>Article URL: <a href=\"https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026\">https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48714529\">https://news.ycombinator.com/item?id=48714529</a></p>\n<p>Points: 432</p>\n<p># Comments: 238</p>",
+    "summary": "<p>Article URL: <a href=\"https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026\">https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48714529\">https://news.ycombinator.com/item?id=48714529</a></p>\n<p>Points: 820</p>\n<p># Comments: 494</p>",
     "published": "Mon, 29 Jun 2026 03:42:07 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
     "link": "https://danunparsed.com/p/hackerrank-open-source-ats",
-    "summary": "<p>Article URL: <a href=\"https://danunparsed.com/p/hackerrank-open-source-ats\">https://danunparsed.com/p/hackerrank-open-source-ats</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48713832\">https://news.ycombinator.com/item?id=48713832</a></p>\n<p>Points: 389</p>\n<p># Comments: 133</p>",
+    "summary": "<p>Article URL: <a href=\"https://danunparsed.com/p/hackerrank-open-source-ats\">https://danunparsed.com/p/hackerrank-open-source-ats</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48713832\">https://news.ycombinator.com/item?id=48713832</a></p>\n<p>Points: 797</p>\n<p># Comments: 338</p>",
     "published": "Mon, 29 Jun 2026 01:44:40 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Librepods: AirPods liberated",
-    "link": "https://github.com/librepods-org/librepods",
-    "summary": "<p>Article URL: <a href=\"https://github.com/librepods-org/librepods\">https://github.com/librepods-org/librepods</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710232\">https://news.ycombinator.com/item?id=48710232</a></p>\n<p>Points: 379</p>\n<p># Comments: 127</p>",
-    "published": "Sun, 28 Jun 2026 18:48:53 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Historical memory prices 1960-2026",
     "link": "https://dam.stanford.edu/memory-prices.html",
-    "summary": "<p>Article URL: <a href=\"https://dam.stanford.edu/memory-prices.html\">https://dam.stanford.edu/memory-prices.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710092\">https://news.ycombinator.com/item?id=48710092</a></p>\n<p>Points: 295</p>\n<p># Comments: 106</p>",
+    "summary": "<p>Article URL: <a href=\"https://dam.stanford.edu/memory-prices.html\">https://dam.stanford.edu/memory-prices.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710092\">https://news.ycombinator.com/item?id=48710092</a></p>\n<p>Points: 379</p>\n<p># Comments: 144</p>",
     "published": "Sun, 28 Jun 2026 18:32:53 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "GLM 5.2 beats Claude in our benchmarks",
     "link": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "summary": "<p>Article URL: <a href=\"https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/\">https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48709670\">https://news.ycombinator.com/item?id=48709670</a></p>\n<p>Points: 823</p>\n<p># Comments: 384</p>",
+    "summary": "<p>Article URL: <a href=\"https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/\">https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48709670\">https://news.ycombinator.com/item?id=48709670</a></p>\n<p>Points: 1034</p>\n<p># Comments: 473</p>",
     "published": "Sun, 28 Jun 2026 17:50:47 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Professor denounces mass AI fraud on an exam at Brown",
-    "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-    "summary": "<p>Article URL: <a href=\"https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html\">https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708991\">https://news.ycombinator.com/item?id=48708991</a></p>\n<p>Points: 401</p>\n<p># Comments: 532</p>",
-    "published": "Sun, 28 Jun 2026 16:41:12 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "I used Claude Code to get a second opinion on my MRI",
     "link": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-    "summary": "<p>Article URL: <a href=\"https://antoine.fi/mri-analysis-using-claude-code-opus\">https://antoine.fi/mri-analysis-using-claude-code-opus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708941\">https://news.ycombinator.com/item?id=48708941</a></p>\n<p>Points: 426</p>\n<p># Comments: 561</p>",
+    "summary": "<p>Article URL: <a href=\"https://antoine.fi/mri-analysis-using-claude-code-opus\">https://antoine.fi/mri-analysis-using-claude-code-opus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708941\">https://news.ycombinator.com/item?id=48708941</a></p>\n<p>Points: 528</p>\n<p># Comments: 651</p>",
     "published": "Sun, 28 Jun 2026 16:35:19 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Show HN: Zanagrams",
-    "link": "https://zanagrams.com/",
-    "summary": "<p>Article URL: <a href=\"https://zanagrams.com/\">https://zanagrams.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708182\">https://news.ycombinator.com/item?id=48708182</a></p>\n<p>Points: 278</p>\n<p># Comments: 62</p>",
-    "published": "Sun, 28 Jun 2026 15:26:14 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
     "link": "https://pudding.cool/2026/06/menu-story/",
-    "summary": "<p><a href=\"https://pudding.cool/2026/06/menu-collection/\" rel=\"nofollow\">https://pudding.cool/2026/06/menu-collection/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48707763\">https://news.ycombinator.com/item?id=48707763</a></p>\n<p>Points: 365</p>\n<p># Comments: 95</p>",
+    "summary": "<p><a href=\"https://pudding.cool/2026/06/menu-collection/\" rel=\"nofollow\">https://pudding.cool/2026/06/menu-collection/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48707763\">https://news.ycombinator.com/item?id=48707763</a></p>\n<p>Points: 395</p>\n<p># Comments: 106</p>",
     "published": "Sun, 28 Jun 2026 14:44:56 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "The curious case of the disappearing Polish S (2015)",
-    "link": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
-    "summary": "<p>Article URL: <a href=\"https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/\">https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48706814\">https://news.ycombinator.com/item?id=48706814</a></p>\n<p>Points: 238</p>\n<p># Comments: 94</p>",
-    "published": "Sun, 28 Jun 2026 12:44:24 +0000"
+    "source": "Ars Technica",
+    "title": "F1 in Austria: Starts off exciting, then goes the opposite way",
+    "link": "https://arstechnica.com/cars/2026/06/f1-in-austria-starts-off-exciting-then-does-the-opposite/",
+    "summary": "A heatwave, engine upgrades, plus power levels for the next two seasons.",
+    "published": "Mon, 29 Jun 2026 16:04:52 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "Wildwood featurette lifts the veil on building its stop-motion world",
+    "link": "https://arstechnica.com/culture/2026/06/wildwood-featurette-lifts-the-veil-on-building-its-stop-motion-world/",
+    "summary": "Director Travis Knight is also the creative mind behind 2016's Oscar-nominated <em>Kubo and the Two Strings</em>.",
+    "published": "Mon, 29 Jun 2026 15:43:50 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "In a bold move, Rocket Lab acquires Iridium Communications",
+    "link": "https://arstechnica.com/space/2026/06/in-a-bold-move-rocket-lab-acquires-iridium-communications/",
+    "summary": "\"We believe this will be one of the most transformative deals in the space industry.\"",
+    "published": "Mon, 29 Jun 2026 15:33:54 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "Think tank games out how to respond to disaster scenarios in space warfare",
+    "link": "https://arstechnica.com/space/2026/06/think-tank-games-out-how-to-respond-to-disaster-scenarios-in-space-warfare/",
+    "summary": "\"Where does the threshold live that an action necessitates some proportional reaction?\"",
+    "published": "Mon, 29 Jun 2026 15:21:40 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "Comcast is splitting its media and broadband properties",
+    "link": "https://arstechnica.com/tech-policy/2026/06/comcast-is-splitting-its-media-and-broadband-properties/",
+    "summary": "NBCUniversal and Sky will be spun off into separate companies.",
+    "published": "Mon, 29 Jun 2026 13:25:41 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "NASA's X-59 \"frankenjet\" tests supersonic flight without the sonic boom",
+    "link": "https://arstechnica.com/gadgets/2026/06/nasas-x-59-frankenjet-tests-supersonic-flight-without-the-sonic-boom/",
+    "summary": "NASA’s quiet supersonic flight tests could eventually go on a national tour.",
+    "published": "Mon, 29 Jun 2026 10:30:36 +0000"
   },
   {
     "source": "Ars Technica",
@@ -320,6 +439,27 @@
     "link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
     "summary": "Clicking on the links now reveals blank pages and empty PDFs. \"Intellectually, it’s not acceptable.”",
     "published": "Sun, 28 Jun 2026 18:49:21 +0000"
+  },
+  {
+    "source": "MIT Tech Review",
+    "title": "Agent confidence on the technical frontier",
+    "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+    "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
+    "published": "Mon, 29 Jun 2026 14:44:01 +0000"
+  },
+  {
+    "source": "MIT Tech Review",
+    "title": "The Download: metric weaknesses and AI elephant warnings",
+    "link": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of people bitten&#8230;",
+    "published": "Mon, 29 Jun 2026 12:10:00 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Fosun breaks ground at Shaw Brothers Movietown residential project",
+    "link": "https://www.scmp.com/property/hong-kong-china/article/3358772/fosun-breaks-ground-shaw-brothers-movietown-residential-project?utm_source=rss_feed",
+    "summary": "China’s Fosun Group began construction of its first residential project in Hong Kong, encapsulating the recovery of the city’s property sector as it transforms the Shaw Brothers’ Movietown studio complex in Clear Water Bay.\nAt the groundbreaking ceremony, Guo Guangchang, chairman of Fosun International, described the 12-year-old project as a vote of confidence in Hong Kong’s development, with the move taking forward the birthplace of Chinese kung fu films – once dubbed Asia’s Hollywood.\n“We must...",
+    "published": "Mon, 29 Jun 2026 10:21:26 +0000"
   },
   {
     "source": "SCMP Business",
@@ -383,12 +523,5 @@
     "link": "https://www.scmp.com/business/article/3358482/will-chinas-new-northern-tech-bases-hebei-and-tianjin-spark-local-housing-demand?utm_source=rss_feed",
     "summary": "Chinese technology companies establishing new headquarters and offices in northern cities around Beijing are expected to boost local rental demand, but analysts say home sales growth will be far milder than the surges delivered by traditional tech firms in previous years.\nLocal governments hoping that red-hot artificial intelligence or chip companies setting up headquarters or research and development centres would lift slumping property markets as in the previous cycle were likely to be...",
     "published": "Sun, 28 Jun 2026 23:00:10 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Faster AI, lower costs: DSpark eases inference bottlenecks and chip strain, says DeepSeek",
-    "link": "https://www.scmp.com/tech/big-tech/article/3358647/faster-ai-lower-costs-dspark-eases-inference-bottlenecks-and-chip-strain-says-deepseek?utm_source=rss_feed",
-    "summary": "Chinese artificial intelligence start-up DeepSeek has rolled out a major upgrade to its flagship V4 model aimed at sharply accelerating AI response generation, as competition among Chinese developers increasingly shifts to reducing serving costs and enhancing user experience.\nDeepSeek, by adopting what it called a speculative decoding framework, DSpark, said it increased per-user response speeds by up to 85 per cent, an efficiency gain that could reduce AI systems’ reliance on larger, more...",
-    "published": "Sun, 28 Jun 2026 11:00:08 +0000"
   }
 ]
