@@ -1,8 +1,8 @@
 {
   "top5": [
     {
-      "title": "美最高法院裁定限制特朗普解雇美联储理事库克，维护央行独立性",
-      "summary": "美国最高法院驳回了前总统特朗普解雇美联储理事丽莎·库克（Lisa Cook）的企图，裁定她可以在就职期间挑战解雇决定，并将案件发回下级法院审理。这一裁决是美联储独立性的重大胜利，避免了政治干预对货币政策决策可能产生的不确定性，对投资者理解美国经济政策的稳定性至关重要。",
+      "title": "美国最高法院限制总统解雇美联储官员权力，特朗普再威胁罢免联储理事",
+      "summary": "美国最高法院裁定，总统解雇美联储理事必须有正当理由。然而，前总统特朗普仍再次威胁要在胜选后立即罢免现任美联储理事丽莎·库克。这一裁决及其后续的政治表态，突显了白宫与中央银行在货币政策独立性上的持续张力。对于投资者而言，美联储的独立性是维护市场稳定和政策可预测性的基石，任何可能削弱其独立性的行为都将增加宏观经济政策的不确定性，从而影响市场情绪和长期投资规划。",
       "sources": [
         {
           "name": "NYT Business",
@@ -11,62 +11,62 @@
         {
           "name": "BBC Business",
           "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/supreme-court-allows-lisa-cook-to-stay-on-at-fed-for-now-whats-next-as-trump-tries-to-fire-her-06bfb9ee?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "康卡斯特计划分拆NBCUniversal，媒体行业或迎新一轮整合",
-      "summary": "康卡斯特（Comcast）宣布计划将其大型媒体部门NBCUniversal从核心宽带业务中分拆出来，结束了有线电视和媒体业务的长期结合。此举顺应了媒体行业专业化的趋势，可能为NBCUniversal带来新的并购机会和战略灵活性，对投资者分析媒体和电信板块的未来格局具有重要意义。",
+      "title": "康卡斯特宣布分拆NBC环球，媒体行业或迎新一轮整合",
+      "summary": "美国电信巨头康卡斯特（Comcast）计划将其旗下媒体业务NBC环球（NBCUniversal）从核心宽带业务中剥离。这一战略重组，旨在使两部分业务能更灵活地寻求各自的增长机会和潜在交易。此举反映了传统媒体集团在流媒体时代面临的转型压力，以及行业对内容与分发渠道关系的重新审视。对于投资者而言，此次分拆可能催生媒体和科技行业的重大并购交易，为相关公司带来新的估值逻辑和投资机会。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/06/29/business/comcast-nbcuniversal-spinoff.html"
         },
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/29/business/dealbook/comcast-nbcuniversal-deals.html"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/29/comcast-nbcu-spinoff-m-and-a.html"
         }
       ]
     },
     {
-      "title": "韩国公布8800亿美元芯片与AI投资计划，加速全球科技竞赛",
-      "summary": "韩国政府公布了一项高达8800亿美元的芯片和人工智能（AI）投资计划，旨在提升其在全球半导体和AI领域的竞争力。这项庞大的国家战略投资将进一步加剧全球主要经济体在关键技术领域的军备竞赛，对半导体供应链、AI技术发展以及相关上市公司的未来表现构成深远影响。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Rocket Lab斥资80亿美元收购Iridium，挑战SpaceX星链霸主地位",
-      "summary": "太空技术公司Rocket Lab宣布以80亿美元收购Iridium Communications，此举旨在快速扩展其在卫星互联网领域的实力，直接挑战SpaceX的星链（Starlink）业务。这笔被视为太空行业最具变革性的交易之一，预示着低轨卫星通信市场的竞争将白热化，为投资者提供了关注太空经济新格局的窗口。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/rocket-lab-to-take-on-spacexs-starlink-with-8-billion-acquisition-bf7ef649?mod=mw_rss_topstories"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/06/in-a-bold-move-rocket-lab-acquires-iridium-communications/"
-        }
-      ]
-    },
-    {
-      "title": "霍尔木兹海峡局势紧张加剧，航运风险上升中国相对受益",
-      "summary": "美国与伊朗之间持续四天的军事行动导致霍尔木兹海峡的航运活动急剧下降，提高了全球能源供应链的风险。一份报告指出，尽管冲突对亚洲经济体造成压力，但中国在此次危机中处于相对有利的地位。这凸显了地缘政治冲突对全球贸易流向和能源价格的直接影响，投资者需密切关注其对大宗商品和全球经济稳定的潜在冲击。",
+      "title": "霍尔木兹海峡冲突升级，中国经济或相对受益",
+      "summary": "美国与伊朗在霍尔木兹海峡的军事冲突风险加剧，导致该关键航道的船舶通行量急剧下降，给全球能源供应和贸易链带来巨大不确定性。然而，一份报告指出，在当前危机中，中国凭借其与伊朗的紧密关系及更强的国内韧性，在亚洲经济体中可能处于相对有利的地位。这表明地缘政治紧张局势不仅带来风险，也可能重塑全球经济格局和贸易流向，投资者需关注其对能源价格、航运成本及区域经济竞争力的长远影响。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/06/29/business/iran-strait-hormuz-shipping-traffic.html"
         },
         {
-          "name": "NYT Economy",
+          "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/06/29/business/economy/china-iran-strait-of-hormuz.html"
+        }
+      ]
+    },
+    {
+      "title": "韩国宣布万亿美元级芯片与AI投资计划，加速全球科技军备竞赛",
+      "summary": "韩国政府公布了一项高达8800亿美元至1万亿美元的庞大投资计划，旨在大幅提升其在内存芯片生产和人形机器人技术领域的领导地位。此举是应对全球半导体和人工智能竞争日益加剧的战略举措，意在巩固韩国在全球科技供应链中的核心地位。这项大规模投资不仅将推动相关产业的技术创新和产能扩张，也将加剧各国在关键技术领域的竞争，对全球科技股和供应链的投资布局产生深远影响。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/"
+        }
+      ]
+    },
+    {
+      "title": "火箭实验室80亿美元收购铱星公司，挑战SpaceX星链网络",
+      "summary": "太空技术公司火箭实验室（Rocket Lab）宣布以80亿美元收购卫星通信巨头铱星公司（Iridium），旨在迅速扩张其在卫星互联网领域的服务能力，直接挑战埃隆·马斯克旗下的SpaceX星链（Starlink）业务。此次重大并购标志着商业航天领域竞争的进一步白热化，将推动卫星通信技术的创新与商业化进程。对于关注太空经济和高科技创新的投资者，这笔交易预示着行业格局的潜在变化，并可能带来新的投资机遇与风险。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/rocket-lab-to-take-on-spacexs-starlink-with-8-billion-acquisition-bf7ef649?mod=mw_rss_topstories"
+        },
+        {
+          "name": "Hacker News Top",
+          "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully"
         }
       ]
     }
@@ -74,8 +74,8 @@
   "people": [
     {
       "name": "Tyler Cowen",
-      "title": "人工智能对教育与就业市场的冲击及其低边际成本生物医学的潜力",
-      "summary": "观点：经济学家Tyler Cowen关注到人工智能对美国精英大学的学术诚信构成挑战，并认为AI正重塑就业市场。他还提出未来生物医学的进步可能具有高前期成本和极低边际成本的特点，这将影响医疗系统的支付结构和效率，尤其对像英国这样试图降低服务费用的医疗系统有利。",
+      "title": "AI作弊现象凸显教育挑战，生物医药未来成本结构引深思",
+      "summary": "观点：著名经济学家泰勒·考恩指出，布朗大学数学经济学课程中出现AI作弊现象，反映了人工智能对精英教育体系的冲击和未来劳动力技能评估的挑战。此外，他还探讨了未来生物医药研发可能呈现的“高前期投入、低边际成本”结构，这将对医疗体系的定价策略和药品可及性产生深远影响，值得投资者关注医疗健康行业的长期发展模式。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -84,54 +84,24 @@
         {
           "name": "Marginal Revolution (Tyler Cowen)",
           "url": "https://marginalrevolution.com/marginalrevolution/2026/06/will-future-biomedical-advances-be-low-marginal-cost.html?utm_source=rss&utm_medium=rss&utm_campaign=will-future-biomedical-advances-be-low-marginal-cost"
-        },
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/my-arc-talk-on-ai-and-jobs.html?utm_source=rss&utm_medium=rss&utm_campaign=my-arc-talk-on-ai-and-jobs"
         }
       ]
     },
     {
-      "name": "Charlie Munger",
-      "title": "查理·芒格关于“司机知识”的警示",
-      "summary": "原话：「芒格曾警示人们区分“司机知识”（Chauffeur Knowledge）和真正拥有专业洞察力。前者是指那些能够通过死记硬背或模仿言行显得博学，但实际上不理解其深层原理的人，例如那些仅仅在媒体上谈论自己领域的专业术语但缺乏独立思考的评论员。这提醒投资者在寻求建议时，应识别真正的专家，而非仅靠表象迷惑的“司机”。",
+      "name": "Ryan Issakainen (First Trust)",
+      "title": "投资电力电网以应对AI和数据中心需求",
+      "summary": "观点：First Trust的Ryan Issakainen认为，随着人工智能的快速发展和数据中心的激增，电力电网的扩建和升级成为重要的投资主题。他强调，AI技术的瓶颈将不仅仅在于计算能力，更在于支撑其运行的能源基础设施。这为投资者提供了新的视角，即关注传统能源基建在数字化转型中的关键作用，以及围绕数据中心和AI电力需求的产业链投资机会。",
       "sources": [
         {
           "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/06/chauffeur-knowledge/"
+          "url": "https://awealthofcommonsense.com/2026/06/talk-your-book-investing-in-the-power-grid/"
         }
       ]
     },
     {
-      "name": "Kevin Warsh (美联储主席)",
-      "title": "新任美联储主席Warsh已开始转变政策方向",
-      "summary": "观点：就任美联储主席一个多月以来，Kevin M. Warsh在遵循传统的同时，已开始发出重大转变的信号。市场观察人士认为，他可能不像此前市场普遍预期的那样鹰派，这可能导致华尔街对未来美联储加息的预期出现调整，影响利率走向和市场情绪。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/29/business/kevin-warsh-federal-reserve-reforms.html"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/wall-street-is-bracing-for-a-wave-of-fed-rate-hikes-that-may-never-come-these-sectors-stand-to-gain-63229922?mod=mw_rss_topstories"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "title": "市场对美联储加息预期或过高，新主席立场偏温和",
-      "summary": "市场分析认为，华尔街对美联储未来可能采取的加息幅度预估可能过高。新任美联储主席Kevin Warsh的立场被解读为不那么鹰派，这意味着未来的货币政策路径可能比市场目前定价的更为温和。这一预期修正将对债券收益率、美元汇率以及股市表现产生重要影响。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/wall-street-is-bracing-for-a-wave-of-fed-rate-hikes-that-may-never-come-these-sectors-stand-to-gain-63229922?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "中国经济6月受益于美国出口回暖，增长势头显现",
-      "summary": "分析师指出，在经历了数月的疲软之后，中国经济在6月显示出复苏迹象，部分原因得益于对美国出口的反弹。这一趋势表明全球贸易关系正在发生变化，并且出口对中国经济增长仍具有显著推动作用，对全球供应链和市场投资情绪构成积极信号。",
+      "name": "分析师 (匿名)",
+      "title": "美国出口反弹推动中国经济在6月回升",
+      "summary": "观点：多位分析师指出，中国经济在经历数月低迷后，于6月呈现回升迹象，部分原因归结于对美国出口的反弹。这表明尽管存在地缘政治和贸易摩擦，中美之间的经济联系仍是全球贸易的重要驱动力。对于投资者而言，这一趋势暗示着全球供应链的韧性及中国经济的外部需求驱动力，对A股市场和相关出口导向型企业构成积极信号。",
       "sources": [
         {
           "name": "CNBC Finance",
@@ -140,30 +110,53 @@
       ]
     },
     {
-      "title": "美国种族财富差距研究揭示历史深层根源",
-      "summary": "一项在《经济学季刊》上发表的研究指出，当前美国黑白财富差距的形成可追溯到150多年前的初始条件，例如奴隶制。这一发现强调了历史遗留问题对当代经济结构和财富分配的深远影响，对于理解长期社会经济不平等及其对消费者行为、劳动力市场稳定性的影响具有重要借鉴意义。",
+      "name": "英美烟草公司管理层",
+      "title": "英美烟草裁员9000人，加速向数字化和AI转型",
+      "summary": "观点：英美烟草公司（British American Tobacco）宣布将裁员9000人，并明确表示此举是其战略调整的一部分，旨在使公司“更趋向数字化和以AI为中心”。这一决策反映了传统行业巨头在面对消费趋势变化和技术进步时，通过大规模重组和投资新技术来提升效率和寻找新增长点的决心。投资者应关注此类公司在转型过程中可能带来的成本节约和新业务拓展潜力。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/politically-incorrect-paper-of-the-day-the-us-racial-wealth-gap.html?utm_source=rss&utm_medium=rss&utm_campaign=politically-incorrect-paper-of-the-day-the-us-racial-wealth-gap"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c3vyen243dno?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "英国房地产市场承压，高抵押贷款利率抑制买家需求",
+      "summary": "据英国房地产门户网站Zoopla数据，自今年1月以来，近五分之三挂牌出售的房屋仍滞留在市场。高企的抵押贷款利率是导致买家犹豫不决的主要原因，这使得房屋更难出售。这一趋势预示着英国房地产市场可能面临持续调整，高利率环境对消费者购买力和市场流动性构成压力，投资者需警惕房地产相关资产的风险。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "中东紧张局势影响市场情绪，地缘政治风险驱动股市波动",
+      "summary": "美国与伊朗在中东的军事行动导致地区紧张局势升级，尽管地缘政治冲突通常会带来市场不确定性，但数据显示，特朗普政府时期的伊朗空袭事件反而多次引发了周一美股的反弹。这一反常现象可能与投资者对特定风险事件的短期消化和随后的‘逢低买入’心理有关，但长期来看，中东地区的不稳定仍是影响全球石油价格和市场信心的重要宏观风险因素。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/trumps-weekend-iran-strikes-keep-sparking-monday-stock-rallies-heres-what-the-data-shows-us-f22da0ea?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "AI在职场中的“未知未知数”可能削弱其效用",
-      "summary": "学者警告，将人工智能（AI）引入职场可能带来一系列“未知未知数”，这些潜在的负面影响可能会意外地削弱AI所宣传的优势。这提示企业在部署AI技术时需审慎评估其长期影响，而投资者则应关注AI技术落地中的潜在风险和不确定性，而非仅关注其表面效益。",
+      "title": "旧金山AI热潮推高生活成本，18万美元年薪不再是高薪象征",
+      "summary": "随着OpenAI和Anthropic等人工智能巨头准备上市，旧金山的科技行业再次迎来财富激增，但与此同时，即便年薪高达18万美元的科技工作者也开始抱怨他们难以与新晋的AI精英竞争，甚至难以负担当地生活成本。这反映了AI热潮正在加剧财富分化和人才争夺，尤其是在科技中心城市。对于投资者而言，这揭示了AI繁荣背后的社会经济成本，以及对劳动力市场和区域经济结构带来的长期影响。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html"
+          "url": "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html"
         }
       ]
     },
     {
-      "title": "福特汽车重新聘用人工工程师：AI质量检测遭遇瓶颈",
-      "summary": "福特汽车公司在发现AI质量检测未能达到经验丰富的技术人员水平后，决定重新聘用人工工程师。这一案例凸显了人工智能在处理复杂、细致且需要人类直觉的任务时所面临的局限性，对AI技术的实际应用边界和企业对人机协作的需求提供了宝贵见解。",
+      "title": "福特汽车重新启用人工工程师，AI质检未能达到预期",
+      "summary": "福特汽车公司在其质量检查流程中尝试引入人工智能后，发现AI未能匹配资深技术人员的技能水平，因此决定重新雇用人类工程师。这一案例为过度炒作的AI技术泼了一盆冷水，提醒业界AI在某些复杂或需要高度精细判断的领域仍有局限性。对于投资者而言，这强调了在评估AI应用前景时需要保持理性，认识到AI落地并非一蹴而就，部分人工岗位短期内仍不可替代。",
       "sources": [
         {
           "name": "BBC Business",
@@ -172,110 +165,110 @@
       ]
     },
     {
-      "title": "AI模型GLM 5.2在网络安全基准测试中表现优于Claude",
-      "summary": "最新报告显示，人工智能模型GLM 5.2在网络安全基准测试中超越了Anthropic的Claude模型。这一进展表明AI模型间的性能竞争日益激烈，并预示着网络安全领域的AI应用可能迎来新的突破。对投资者而言，应关注不同AI模型在特定应用场景下的性能差异及其对市场竞争格局的影响。",
+      "title": "广告商积极探索如何让AI聊天机器人关注其品牌信息",
+      "summary": "在戛纳国际创意节（Cannes Lions）上，营销人员普遍关注如何让广告在人工智能驱动的聊天机器人和内容生成平台中脱颖而出，从而吸引人类用户的注意力。随着AI在内容消费中的角色日益重要，传统广告策略面临挑战，品牌需思考如何与AI互动以保持“可见性”。这预示着营销和广告行业将迎来深刻变革，催生新的技术和商业模式，为相关技术和数据分析公司带来潜在机遇。",
       "sources": [
         {
-          "name": "Hacker News Top",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/"
-        }
-      ]
-    },
-    {
-      "title": "AI时代下旧金山科技行业薪资困境：高薪不再足以负担生活",
-      "summary": "在旧金山的AI时代，即使是高达18万美元的科技行业年薪，也已不足以让许多科技工作者负担当地高昂的生活成本。随着OpenAI和Anthropic等AI巨头崛起，新的AI精英阶层形成，进一步推高了生活成本，导致非AI领域的科技人才面临财务压力，甚至可能被迫离开，这反映了AI热潮对区域经济和人才流动产生的结构性影响。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html"
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/06/27/business/dealbook/ai-visibility.html"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "MicroStrategy调整比特币策略，计划出售比特币以回购股票",
-      "summary": "MicroStrategy披露了一项新的策略，将“不时”出售其持有的比特币，以用于补充其美元储备和回购公司股票。这一转变与该公司此前持续购买比特币的策略形成对比，显示出其在利用加密资产进行资本配置方面的灵活性。投资者应关注这一策略变化对MicroStrategy股价以及更广泛的加密货币市场情绪的影响。",
+      "title": "SpaceX获批快速纳入纳斯达克100指数，有望带动大量ETF资金流入",
+      "summary": "埃隆·马斯克旗下太空探索技术公司SpaceX有望通过纳斯达克近期通过的快速纳入框架，被迅速加入纳斯达克100指数。这一举动将引发追踪该指数的ETF（交易所交易基金）大量被动买入SpaceX股票的需求，对其股价构成强劲支撑。对于投资者而言，指数的快速纳入机制正在改变市场资金流动的速度和规模，特别是对大型科技成长股的影响尤为显著。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/strategy-can-now-sell-bitcoin-to-buy-back-stock-the-opposite-of-what-its-been-doing-db506fdb?mod=mw_rss_topstories"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html"
         }
       ]
     },
     {
-      "title": "投资电力电网基础设施与数据中心成为新兴主题",
-      "summary": "随着AI技术的发展对电力和数据处理能力提出更高要求，投资电力电网的升级改造、解决AI瓶颈和建设新的数据中心正成为一个重要的主题。First Trust等机构指出，围绕这些领域的创新和基础设施建设，正催生出新的投资机会和相关主题ETF，值得高净值投资者关注。",
+      "title": "Charter Communications与SpaceX或达成合作，股价大幅上涨",
+      "summary": "有线电视运营商Charter Communications的股价大幅上涨，此前市场猜测其可能与SpaceX的星链（Starlink）卫星互联网服务达成合作。鉴于SpaceX星链正在进军无线市场，与现有电信运营商的合作将对其市场拓展具有战略意义。这一潜在的合作关系揭示了传统电信业与新兴太空科技公司之间复杂的“竞合”关系，可能重塑宽带服务市场的竞争格局，对两家公司的未来发展至关重要。",
       "sources": [
         {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/06/talk-your-book-investing-in-the-power-grid/"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/charter-may-be-making-frenemies-with-spacex-and-its-stock-is-soaring-e300eb21?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "特斯拉股价因自动驾驶技术更新大涨，但月度表现仍承压",
+      "summary": "在期待已久的自动驾驶技术更新后，特斯拉（Tesla）股价大幅上涨，创下一年多以来的最佳单日表现。此次更新被市场视为该公司在自动驾驶领域取得进展的关键信号。然而，尽管有此利好，特斯拉股价在本月整体仍处于下跌态势。这表明市场对特定技术突破的反应可能迅速且强烈，但宏观环境和长期基本面仍对股价走势构成重要影响，投资者需平衡短期催化剂和长期趋势。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/teslas-stock-rips-higher-after-a-long-awaited-update-to-self-driving-technology-10565662?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "a_stocks": [
     {
-      "title": "中国股票在美数据中心组件市场表现强劲",
-      "summary": "根据22V Research的研究，今年表现最佳的中国A股公司中，许多都专注于生产全球数据中心使用的关键组件。这表明中国企业在全球科技供应链中扮演着日益重要的角色，尤其是在支持美国数据中心建设方面，值得关注中美科技合作与竞争背景下的投资机会。",
+      "title": "中国6月经济受益于美国出口回暖，前景改善",
+      "summary": "分析师指出，得益于对美国出口的回暖，中国经济在6月份呈现出企稳回升的迹象。尽管地缘政治紧张，但强劲的外部需求，特别是来自美国的订单，为中国制造业和整体经济注入了动力。这一积极数据有助于提振市场对中国经济增长的信心，对于关注A股市场的投资者而言，这预示着经济基本面的改善，尤其是出口导向型行业可能迎来利好。",
       "sources": [
         {
           "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/28/these-10-chinese-stocks-are-powering-us-data-centers.html"
+          "url": "https://www.cnbc.com/2026/06/29/china-economy-june-trade-exports-manufacturing-tariffs-iran-war-consumption-ai-technology-.html"
         }
       ]
     }
   ],
   "business": [
     {
-      "title": "英美烟草因“数字化和AI转型”计划裁员9000人",
-      "summary": "全球烟草巨头英美烟草公司（British American Tobacco）宣布将裁员9000人，以实现“更数字化和AI导向”的运营目标。这一大规模裁员凸显了传统行业在面对数字化和人工智能浪潮时的转型压力，以及企业为提升效率、优化结构而采取的激进措施，对劳动力市场和传统消费品行业未来发展具有警示意义。",
+      "title": "礼来和再生元等药企入选FDA快速审查计划，有望加速新药生产设施审批",
+      "summary": "美国食品药品监督管理局（FDA）已选择礼来（Eli Lilly）和再生元（Regeneron）等七家公司，参与其“预检查试点项目”（PreCheck Pilot Program）。该项目旨在加快对新药生产设施的审查流程，从而可能加速新药的上市和供应。此举对于生物制药行业具有重要意义，它能有效缩短药物从研发到患者手中的时间，为相关制药公司带来竞争优势和市场潜力，是投资者关注的重要监管动态。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c3vyen243dno?at_medium=RSS&at_campaign=rss"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/29/eli-lilly-regeneron-in-fda-precheck-manufacturing-program.html"
         }
       ]
     },
     {
-      "title": "到2040年美国汽车市场预计将显著萎缩",
-      "summary": "一份预测显示，到2040年美国汽车市场将大幅萎缩，原因在于根本性的结构性变化。汽车行业正经历一场深度变革，销售量下降可能预示着消费者行为、交通模式和能源结构的长远变化。投资者应警惕汽车行业可能面临的长期挑战，并重新评估其在该领域的投资策略。",
+      "title": "MicroStrategy调整比特币策略，计划出售比特币回购股票",
+      "summary": "以重仓比特币而闻名的MicroStrategy公司披露了一项新计划，表示将“不时”出售部分比特币以补充其美元储备，并用于股票回购。这一策略转变打破了其此前“只买不卖”（HODL）的传统，对加密货币市场情绪和MicroStrategy的投资逻辑产生了重大影响。对于加密资产投资者，这预示着即便最坚定的比特币支持者也可能调整策略以优化企业资本结构，反映出市场对灵活性的追求。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/28/us-auto-market.html"
-        }
-      ]
-    },
-    {
-      "title": "美国医保将首次覆盖老年人肥胖症药物，利好医药巨头",
-      "summary": "从7月1日起，美国医疗保险（Medicare）将首次为老年人提供肥胖症药物的覆盖。这一里程碑式的政策转变预计将大幅增加对减肥药物的需求，尤其是Eli Lilly和Novo Nordisk等主要生产商将直接受益。此举不仅将深刻影响美国医疗健康支出结构，也为医药行业带来了巨大的市场增长潜力。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/28/medicare-will-soon-cover-obesity-drugs-but-many-seniors-may-not-know.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/strategy-can-now-sell-bitcoin-to-buy-back-stock-the-opposite-of-what-its-been-doing-db506fdb?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "英国公用事业国有化讨论升温，或影响基础设施资产所有权",
-      "summary": "随着英国首相更迭的临近，关于公用事业国有化的讨论再次升温，尤其是水务等领域。尽管并非所有私有化都进展顺利，且美国数据显示国有和私有公用事业的效率差异不显著，但潜在的政策转变可能对英国的基础设施资产所有权和运营模式带来不确定性。投资者需密切关注英国政治动向及其对公用事业和基础设施板块的潜在影响。",
+      "title": "美国可再生能源发展突破关键里程碑，小规模太阳能贡献突出",
+      "summary": "今年4月，美国的可再生能源发电量达到关键里程碑，其中小规模太阳能发电量功不可没，使得可再生能源的总发电量几乎是煤炭发电量的三倍。尽管电网总发电量尚未完全体现这一优势，但这表明清洁能源转型正以超预期速度推进。对于投资者而言，这一趋势预示着能源结构性变化的加速，为太阳能、储能及智能电网等领域的长期投资带来巨大潜力，但传统能源转型挑战仍存。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/renationalising-british-utilities.html?utm_source=rss&utm_medium=rss&utm_campaign=renationalising-british-utilities"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/"
         }
       ]
     },
     {
-      "title": "智库模拟太空战灾难情景，探讨冲突升级与反应阈值",
-      "summary": "一家智库正在模拟太空战灾难情景及其应对策略，旨在界定太空冲突中行动升级的“门槛”以及相应的“相称反应”。这一研究超越了当前的军事对抗，深入探讨了未来太空地缘政治的复杂性，对国防工业、卫星运营以及国际安全格局将产生长远而深刻的影响，值得关注全球战略风险的投资者深入思考。",
+      "title": "未来生物医药研发成本结构变化，高前期投入低边际成本成趋势",
+      "summary": "未来的生物医药领域可能呈现出“高昂前期研发成本，但极低边际生产成本”的结构性变化。这意味着新药的发现和测试需要巨额投入，但一旦成功，后续每剂药物的生产成本将微乎其微。这种成本结构对全球医疗系统和药企的盈利模式将产生深远影响，尤其是有利于那些寻求以较低价格获取服务的医疗体系。投资者需关注这种趋势如何重塑制药行业的竞争格局和估值模型。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/will-future-biomedical-advances-be-low-marginal-cost.html?utm_source=rss&utm_medium=rss&utm_campaign=will-future-biomedical-advances-be-low-marginal-cost"
+        }
+      ]
+    },
+    {
+      "title": "美国悬赏千万美元通缉Signal/WhatsApp黑客组织，网络安全威胁升级",
+      "summary": "美国政府悬赏1000万美元，寻求有关一个涉及Signal和WhatsApp等通信应用的大规模黑客行动背后组织的线索。这一由两个俄罗斯国家支持的组织自3月以来一直活跃。此举凸显了国家级网络攻击对全球数字通信基础设施和用户隐私的严重威胁。对于投资者而言，不断升级的网络安全风险意味着相关安全技术和防御解决方案的需求将持续增长，而关键基础设施和数据安全也成为衡量企业价值的重要因素。",
       "sources": [
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/06/think-tank-games-out-how-to-respond-to-disaster-scenarios-in-space-warfare/"
+          "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/"
         }
       ]
     }
