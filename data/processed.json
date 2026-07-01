@@ -1,186 +1,155 @@
 {
   "top5": [
     {
-      "title": "美国最高法院裁决影响监管机构独立性，前总统特朗普威胁解雇美联储官员",
-      "summary": "美国最高法院近日的裁决虽确认了美联储的政治独立性，但赋予总统对数十个联邦监管机构更大的控制权。前总统特朗普随即重申将采取“适当行动”，解雇美联储理事丽莎·库克。为什么重要：这一系列事件严重冲击美国监管机构的独立性，尤其对美联储的政治中立性构成潜在威胁，可能引发政策不确定性，并影响市场对美国治理和宏观经济稳定性的信心。",
+      "title": "AI巨头Anthropic获美国解除部分AI工具出口管制，中美科技竞争加剧",
+      "summary": "美国商务部解除了对AI公司Anthropic旗下先进AI工具Fable 5和Mythos 5的出口禁令。此前，这些工具因担忧可能被黑客利用而一度暂停出口。此举被视为美国在与中国AI竞争中调整政策的信号，旨在平衡技术发展与国家安全。与此同时，有报告指出，与中国相关的网络攻击正在加剧，不仅限于特定技术，而是针对更广泛的领域，凸显中美在AI领域的竞争已进入全面对抗阶段。此事件对全球AI技术流向、相关公司估值以及中美科技企业的未来合作与竞争格局具有深远影响。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/30/business/dealbook/supreme-court-fed-ftc-regulatory-agencies.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html"
-        }
-      ]
-    },
-    {
-      "title": "新任美联储主席Kevin Warsh誓言坚决打击通胀",
-      "summary": "新任美联储主席Kevin Warsh表示，他决心彻底遏制通国通胀，但投资者仍需观察他是否会言行一致。市场此前对通胀的担忧可能被夸大，一些观点认为美联储的加息立场可能不如预期鹰派。为什么重要：美联储领导层的变动及其对通胀的明确立场，预示着未来货币政策可能更趋鹰派，将直接影响利率路径、市场预期和资产价格，对投资者决策至关重要。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/warsh-says-hes-determined-to-slay-inflation-investors-want-to-know-if-he-really-means-it-2ada8360?mod=mw_rss_topstories"
+          "name": "Hacker News Top",
+          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341"
         },
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/wall-street-is-bracing-for-a-wave-of-fed-rate-hikes-that-may-never-come-these-sectors-stand-to-gain-63229922?mod=mw_rss_topstories"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html"
         }
       ]
     },
     {
-      "title": "日元跌至40年新低，日本当局可能采取干预措施",
-      "summary": "日元汇率已跌至40年来的最低水平。分析人士指出，日本央行可能会利用美国独立日假期期间较低的市场交易量，采取干预措施推高日元汇率。为什么重要：日元持续疲软对全球外汇市场构成显著风险，日本政府若实施干预，将引发全球货币政策和贸易动态的连锁反应，影响国际资本流动和投资策略。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/with-the-yen-at-a-40-year-low-heres-when-japan-could-intervene-to-catch-the-market-off-balance-63a446c8?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX获准快速纳入纳斯达克100指数，有望引发大量ETF买盘",
-      "summary": "埃隆·马斯克的公司SpaceX将根据纳斯达克新采用的快速纳入框架，迅速加入纳斯达克100指数。这一举动有望带来大量ETF的被动买入需求。为什么重要：作为一家尚未上市的巨头，SpaceX的快速纳入将改变指数权重，为未来更多私有科技巨头进入公共市场设立先例，并对相关指数基金和市场流动性产生重大影响。",
+      "title": "美联储官员警告AI可能推高通胀，暗示或需进一步加息",
+      "summary": "克利夫兰联储主席Beth Hammack表示，人工智能技术的快速发展可能成为未来通胀的助推器，并暗示为了控制持续偏高的通胀，美联储可能需要采取进一步加息措施。她指出过去五年通胀一直过高，AI对经济结构的影响或加剧价格压力。这一观点对市场对美联储未来货币政策走向的预期构成影响，也促使投资者重新评估AI技术在经济中扮演的角色，其对劳动力市场和物价的潜在冲击将是宏观经济关注的焦点。",
       "sources": [
         {
           "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html"
+          "url": "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html"
         }
       ]
     },
     {
-      "title": "霍尔木兹海峡航运活动回升但局势不稳，中国被视为地缘冲突的相对赢家",
-      "summary": "在伊朗和美国交火后，霍尔木兹海峡的航运活动虽有回升，但仍有许多船只撤离，局势充满不确定性。一份报告指出，伊朗战争虽然对亚洲经济体造成压力，但中国在此次危机中处于相对有利地位。为什么重要：能源供应和全球贸易的关键航道面临持续地缘政治风险，油价波动加剧；中国在该地区战略地位的提升可能重塑全球能源格局和地缘经济力量平衡，影响全球供应链和投资者的风险评估。",
+      "title": "特朗普2025年财务披露显示收入超22亿美元，加密货币贡献显著",
+      "summary": "前美国总统特朗普提交的2025年强制性财务披露报告显示，其家族资产（尤其是加密货币业务）带来了惊人的巨额收入，总计至少22亿美元。报告详细列出了其加密货币持有和相关业务的收益，远超预期。这不仅凸显了加密货币市场在财富创造方面的巨大潜力及其日益增长的主流影响力，也为政治人物的资产透明度带来了新的讨论。对于投资者而言，这进一步证实了加密资产作为一种投资类别不可忽视的地位。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/30/business/strait-hormuz-ships-iran-war.html"
+          "url": "https://www.nytimes.com/2026/06/30/us/politics/trump-financial-disclosure-crypto-windfall.html"
         },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/trump-discloses-expanding-financial-empire-including-apple-stock-celebration-coins-and-crypto-8786ef64?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "康卡斯特拆分NBC环球引发并购重组猜想，媒体行业面临变革",
+      "summary": "康卡斯特(Comcast)宣布计划在未来一年内拆分其有线电视和NBC环球媒体业务。此举立即引发了市场对两家公司未来潜在并购与战略重组的广泛猜测。分析师普遍认为，拆分旨在为各自业务释放价值，但同时指出媒体行业近年来的并购案结果喜忧参半，新的独立实体如何应对流媒体竞争和传统媒体衰退，将是其面临的关键挑战。这一变化预示着媒体行业的进一步整合和战略调整，对相关企业的投资前景产生影响。",
+      "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html"
+          "url": "https://www.nytimes.com/2026/06/30/business/media/comcast-nbcuniversal-merger-acquisition-charter-netflix.html"
         },
         {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/06/29/business/economy/china-iran-strait-of-hormuz.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/will-the-comcast-nbcu-spinoff-pay-off-for-investors-heres-what-history-has-to-say-f40ca340?mod=mw_rss_topstories"
+        },
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/29/comcast-nbcu-spinoff-m-and-a.html"
+        }
+      ]
+    },
+    {
+      "title": "AI热潮驱动美股小盘股创35年最佳上半年表现，ETF资金加速流入",
+      "summary": "在人工智能主题的强劲推动下，美国小盘股在2026年上半年表现优异，录得近35年来最佳同期涨幅，扭转了此前多年跑输大盘股的局面。市场资金正以创纪录的速度涌入交易型开放式指数基金（ETF），尤其偏爱与AI主题相关的股票，显示出投资者对AI概念的持续追捧。这一趋势表明AI投资热潮正从大型科技股向更广泛的市场蔓延，为寻求高增长潜力的小盘股带来机会，但同时也提示投资者关注估值风险。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/investors-piled-into-etfs-at-a-record-pace-in-the-first-half-of-2026-heres-where-their-money-is-flowing-92a50cf5?mod=mw_rss_topstories"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Tyler Cowen",
-      "title": "将与Daron Acemoglu探讨AI对社会经济的影响及民主未来",
-      "summary": "观点：著名经济学家Tyler Cowen将与Daron Acemoglu进行对话，重点讨论AI的近期发展及其对社会经济的影响，以及Acemoglu即将出版的关于自由民主未来的书籍。为什么重要：两位顶尖经济学家的对话将为高净值投资者提供对AI长期社会经济影响及政治风险的深刻洞察，帮助理解宏观趋势。",
+      "name": "Beth Hammack (克利夫兰联储主席)",
+      "title": "观点：AI可能推高通胀，或需进一步加息",
+      "summary": "克利夫兰联储主席Beth Hammack在接受CNBC采访时表示，她认为人工智能的扩张可能成为通胀的新驱动力，并指出在过去五年里通胀一直过高。她强调，为了有效应对这种结构性通胀压力，美联储可能需要采取进一步的加息措施。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html"
+        }
+      ]
+    },
+    {
+      "name": "Michael Burry (知名对冲基金经理)",
+      "title": "观点：首次做空卡特彼勒，因其在AI热潮中股价翻倍",
+      "summary": "知名对冲基金经理迈克尔·布瑞(Michael Burry)透露，他有史以来第一次做空卡特彼勒(Caterpillar)。他指出，卡特彼勒的股价在2026年的AI驱动涨势中几乎翻了一番，这促使他采取了看跌立场。尽管他过去曾长期持有卡特彼勒并从中获益，但当前的估值让他认为风险过高。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html"
+        }
+      ]
+    },
+    {
+      "name": "Tyler Cowen (经济学家)",
+      "title": "观点：将就AI未来等议题访谈著名经济学家Acemoglu",
+      "summary": "经济学家Tyler Cowen宣布将访谈著名经济学家Daron Acemoglu，讨论AI对劳动力市场和经济不平等的影响，以及Acemoglu即将出版的新书《自由民主发生了什么？重建共享繁荣的政治》。这次对话预计将深入探讨AI对社会经济结构的深层挑战。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/what-should-i-ask-daron-acemoglu-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-daron-acemoglu-2"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/what-should-i-ask-daron-acemoglu-2.html"
         }
       ]
     },
     {
-      "name": "George Arison",
-      "title": "Grindr CEO强推AI，目标实现代码全由AI编写",
-      "summary": "原话：「我就是强行推行了它（AI）。」观点：同性恋约会应用Grindr的首席执行官George Arison致力于让公司所有代码最终都由人工智能编写，旨在使公司“更精简”。为什么重要：展现了部分科技公司CEO在AI整合上的激进策略，预示着AI可能带来的大规模效率提升和行业结构变化，尤其对软件开发和人力资源管理产生影响。",
+      "name": "Ben Carlson (投资专家)",
+      "title": "观点：关注股市保证金债务是否构成风险",
+      "summary": "投资专家Ben Carlson在其博客中探讨了当前股市中的保证金债务问题，并提出疑问：不断增长的保证金债务是否会对股市构成潜在的风险？他分析了保证金交易的历史数据和市场情绪，提醒投资者注意杠杆在市场波动中可能带来的放大效应。",
+      "sources": [
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/06/leverage-in-the-stock-market/"
+        }
+      ]
+    },
+    {
+      "name": "唐纳德·特朗普 (前美国总统)",
+      "title": "财务披露显示加密货币为其带来巨额财富",
+      "summary": "最新财务披露文件显示，前美国总统唐纳德·特朗普在2025年获得了至少22亿美元的收入，其中很大一部分来自其加密货币业务。他的加密货币资产和相关交易带来了数亿美元的收益，凸显了加密资产日益增长的财富效应，也引发了关于其政治与商业利益之间关系的讨论。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/30/business/grindr-ceo-george-arison-ai.html"
-        }
-      ]
-    },
-    {
-      "name": "Allan Swaringen",
-      "title": "JLL IPT CEO看好工业房地产投资，受益于AI对数据中心的需求",
-      "summary": "观点：JLL投资部门（JLL IPT）的首席执行官Allan Swaringen表示，他看好工业房地产领域，认为新机会不断涌现，且回报率已优于多户住宅。尤其强调了AI发展驱动数据中心等基础设施建设带来的需求。为什么重要：揭示了AI发展如何驱动实体经济中的特定资产类别投资，为投资者指明了AI相关产业链中的潜在机会，例如对工业地产和数据中心的需求。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/30/jll-investment-arm-industrial-real-estate.html"
-        }
-      ]
-    },
-    {
-      "name": "HSBC策略师",
-      "title": "预测AI相关股票在下半年可能再次走高",
-      "summary": "观点：汇丰银行的策略师表示，对人工智能（AI）交易的持续审视在今年下半年可能会迎来惊喜，如果这些股票的估值再次开始攀升。为什么重要：提供对当前市场热点AI投资的专业判断，指出市场可能低估了AI股的持续增长潜力，对高净值投资者把握下半年科技股走势和配置策略有参考价值。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/the-big-surprise-for-the-second-half-could-be-the-ai-trade-powering-higher-why-it-wouldnt-take-much-a02dd10b?mod=mw_rss_topstories"
+          "url": "https://www.nytimes.com/2026/06/30/us/politics/trump-financial-disclosure-crypto-windfall.html"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "美国住房市场销售困难，高抵押贷款利率持续抑制买家",
-      "summary": "据房地产门户Zoopla报告，自今年1月以来，五分之三的挂牌房屋仍未售出，这表明高抵押贷款利率正严重阻碍购房者的意愿。为什么重要：房地产市场是经济健康的重要指标，高利率持续影响购房需求，可能预示经济增长放缓或进一步的金融市场调整，对建筑、金融等多个行业产生连锁影响。",
+      "title": "美国最高法院裁决影响监管机构权力，企业界面临不确定性",
+      "summary": "美国最高法院的裁决尽管确认了联邦储备委员会的政治独立性，但同时赋予总统对数十个联邦监管机构（包括联邦贸易委员会FTC）更大的控制权。这一判决被认为将在华盛顿特区为企业界带来巨大的不确定性和潜在的监管混乱，因为行政部门的政策转向可能导致监管环境的剧烈变化，影响企业的战略规划和投资决策。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/30/business/dealbook/supreme-court-fed-ftc-regulatory-agencies.html"
         }
       ]
     },
     {
-      "title": "中国经济在6月出现好转迹象，主要得益于对美出口反弹",
-      "summary": "分析人士指出，中国经济在经历了几个月的低迷之后，6月份出现了回升迹象，部分原因是受对美出口反弹的推动。为什么重要：尽管中美关系复杂，但贸易数据回暖对中国经济复苏及全球供应链稳定具有积极意义，可能提振投资者对中国市场的信心，并影响全球经济预期。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/29/china-economy-june-trade-exports-manufacturing-tariffs-iran-war-consumption-ai-technology-.html"
-        }
-      ]
-    },
-    {
-      "title": "美联储公布受困或服务不足非都市区中等收入地理区域名单",
-      "summary": "美联储与其他机构共同发布了受困或服务不足的非都市区中等收入地理区域名单。为什么重要：此举旨在引导投资和发展资源流向这些特定区域，可能为社会影响投资（impact investing）和地方经济发展带来新的机会，值得关注长期结构性政策对区域经济的影响。",
-      "sources": [
-        {
-          "name": "Federal Reserve Press",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm"
-        }
-      ]
-    }
-  ],
-  "tech": [
-    {
-      "title": "大型混合专家模型LongCat-2.0发布，参数规模达1.6万亿",
-      "summary": "LongCat-2.0作为一款大规模混合专家（MoE）模型，其总参数量达到1.6万亿，激活参数量为480亿。为什么重要：AI领域持续有新的大型模型推出，表明算力竞赛和模型架构创新仍在加速，预示着未来AI技术能力将进一步突破，对AI技术应用和未来产业格局有重要影响，并可能加速各行各业的智能化转型。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://longcat.chat/blog/longcat-2.0/"
-        }
-      ]
-    },
-    {
-      "title": "欧盟数字身份钱包仍依赖Google和Apple安全服务",
-      "summary": "尽管欧洲正努力建立独立的数字主权，其数字身份钱包计划仍严重依赖Google和Apple提供的安全服务。为什么重要：这凸显了少数大型科技公司在全球数字基础设施中的核心地位和潜在支配力，即使在欧洲试图建立独立数字主权的背景下，也难以摆脱对这些巨头的依赖，对数字主权和科技监管政策提出了挑战。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/"
-        }
-      ]
-    },
-    {
-      "title": "AI被布朗大学数学经济学课程学生用于大规模作弊",
-      "summary": "布朗大学数学经济学教授Roberto Serrano发现，他所教授的高级本科课程ECON 1170中存在大规模利用人工智能作弊的现象。为什么重要：揭示了AI在教育和知识领域带来的伦理挑战和颠覆性影响，其对专业技能评估和未来劳动力构成带来深远考量，可能促使教育和企业培训模式进行根本性改革。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/ai-cheating-on-math-econ.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-cheating-on-math-econ"
-        }
-      ]
-    }
-  ],
-  "us_stocks": [
-    {
-      "title": "SEC征求对新型交易所交易基金（ETF）的公众意见",
-      "summary": "美国证券交易委员会（SEC）发布公告，就旨在投资创新资产类别或采用新型投资策略的交易所交易基金（ETF）征求公众意见。为什么重要：监管机构对创新投资产品的态度将决定市场演进速度，可能为加密货币ETF或其他新兴资产类别ETF的批准铺平道路，为投资者带来新的投资工具和机会。",
+      "title": "美国证交会寻求公众对新型ETF的意见，促进市场创新",
+      "summary": "美国证券交易委员会（SEC）发布了一项征求公众意见的请求，旨在了解市场对投资于创新资产类别或采用新颖投资策略的交易所交易基金（ETF）的看法。此举表明SEC正积极探索如何在新兴金融产品领域促进创新，同时确保投资者保护，对于未来ETF市场的发展方向和多元化具有重要意义。",
       "sources": [
         {
           "name": "SEC Press",
@@ -189,97 +158,130 @@
       ]
     },
     {
-      "title": "美国小型股上半年表现创35年最佳，AI热潮扩展是主要驱动因素",
-      "summary": "美国小型股在今年上半年取得了35年来的最佳表现，标志着其多年来跑输大型股的局面发生显著扭转。人工智能（AI）交易的扩展被认为是主要驱动因素之一。为什么重要：表明市场资金可能正从大型科技股向更广泛的领域扩散，小型股的强劲表现可能预示着更健康的牛市基础，并由AI相关投资的扩散效应所推动。",
+      "title": "英国能源价格上涨13%，呼吁居民记录电表读数",
+      "summary": "随着英国能源监管机构Ofgem设定的最新价格上限生效，英国家庭能源价格上涨了13%。能源供应商和监管机构呼吁居民及时记录电表读数，以确保账单准确。此次价格上涨将直接影响数百万英国家庭的开支，并可能进一步推高整体通胀，对英国宏观经济稳定构成挑战。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "康卡斯特计划分拆NBCUniversal，或引发媒体行业并购浪潮",
-      "summary": "康卡斯特（Comcast）计划将其庞大的媒体部门从核心宽带业务中分拆出来。此举可能为两家公司未来的并购活动铺平道路。为什么重要：大型媒体集团的战略调整可能预示着行业整合，为投资者提供潜在的M&A机会和媒体资产重估的可能，值得关注媒体和电信行业格局的变化。",
+      "title": "高抵押贷款利率抑制英国楼市需求，房屋销售面临困境",
+      "summary": "由于高抵押贷款利率持续挫伤购房者的积极性，英国的房屋销售面临日益严峻的挑战。房地产门户网站Zoopla的数据显示，自今年1月以来上市的三分之二的房屋仍未售出。这一趋势表明，借贷成本上升对房地产市场的冲击依然显著，可能导致房价增长放缓甚至下跌，进而影响英国经济的复苏步伐。",
       "sources": [
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/06/29/business/dealbook/comcast-nbcuniversal-deals.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "tech": [
+    {
+      "title": "Anthropic多款高级AI工具获美国解除出口管制",
+      "summary": "美国商务部已解除对人工智能公司Anthropic旗下Claude Fable 5和Mythos 5等先进AI工具的出口管制。此前，这些工具在6月因担忧可能被黑客利用而被突然暂停。此举为Anthropic在全球范围内的技术部署和商业化提供了便利，也反映了美国政府在AI技术出口政策上的动态调整，对全球AI技术竞争格局产生影响。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/29/comcast-nbcu-spinoff-m-and-a.html"
-        }
-      ]
-    }
-  ],
-  "a_stocks": [],
-  "business": [
-    {
-      "title": "宝马在其他车企减产电动车之际，仍决定在南卡罗来纳州建造新电动SUV工厂",
-      "summary": "德国汽车制造商宝马（BMW）决定在南卡罗来纳州建造一座新的电动SUV工厂，即使其他汽车制造商因亏损数十亿美元而缩减电动汽车生产。为什么重要：此举表明宝马对电动汽车市场的长期承诺和转型决心，即使面临行业逆风，其仍坚持电动化战略，对电动车供应链和相关产业有提振作用，也凸显了不同车企对EV市场前景判断的分歧。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html"
+          "name": "Hacker News Top",
+          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341"
         }
       ]
     },
     {
-      "title": "美国医保首次开始覆盖肥胖症药物，诺和诺德和礼来受益",
-      "summary": "从7月1日起，美国医保（Medicare）将首次开始覆盖肥胖症药物。此举可能为诺和诺德（Novo Nordisk）和礼来（Eli Lilly）等制药巨头开启数百万新患者市场，扩大此前对老年人而言遥不可及的药物可及性。为什么重要：为制药公司大幅拓宽GLP-1药物的市场规模和覆盖面，对医疗保健和制药行业构成重大利好，预期将带来巨大的收入增长。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html"
-        }
-      ]
-    },
-    {
-      "name": "礼来、再生元等药企入选FDA新制造设施快速审查计划",
-      "summary": "据CNBC报道，礼来（Eli Lilly）和再生元（Regeneron）是首批被美国食品药品监督管理局（FDA）选中参与其“PreCheck试点计划”的七家公司之一，该计划旨在加速新制造设施的审查。为什么重要：该计划有望提高制药效率和新药供应速度，直接利好入选药企，也反映了监管机构在加速医疗创新和药物生产方面的努力，可能影响制药行业的竞争格局。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/06/29/eli-lilly-regeneron-in-fda-precheck-manufacturing-program.html"
-        }
-      ]
-    },
-    {
-      "title": "英美烟草公司计划裁员9000人，转型“更数字化、AI驱动”",
-      "summary": "英美烟草公司（British American Tobacco）宣布计划裁员9000人，此前该公司表示正计划通过节约成本以实现“更数字化和AI驱动”的转型。为什么重要：传统行业巨头通过大规模裁员并拥抱AI来提升效率和转型，揭示了AI对传统就业市场和企业运营模式的深远影响，预示着未来劳动力结构将加速调整。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c3vyen243dno?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "印度最大规模的股票发行反映了该国对移动数字化的依赖",
-      "summary": "印度最大的股票销售，包括国家证券交易所（NSE）和Jio Platforms，体现了过去十年印度在消费、投资和交易方面对移动数字化的深刻依赖。为什么重要：揭示了印度作为新兴市场数字化转型的巨大潜力，对投资者了解印度经济结构变化和数字经济投资机会至关重要，特别是移动互联网和金融科技领域的增长。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cdej6ej7w4go?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    }
-  ],
-  "overlooked": [
-    {
-      "title": "Web 3.0去中心化预言机存在漏洞，曾被大量押注者利用",
-      "summary": "据报道，旨在结合加密货币、投票和博弈论以产生公正判断的Web 3.0去中心化预言机，已被证明存在可利用漏洞，导致数十名押注者蒙受损失。为什么重要：尽管去中心化技术前景广阔，但其复杂性和技术缺陷可能导致数字资产市场的信任危机和潜在损失，值得投资者关注Web3基础设施的结构性风险和安全挑战。",
+      "title": "OpenAI新设经济学职位，AI对就业影响受关注",
+      "summary": "人工智能研究公司OpenAI新设立了一个经济学职位，旨在研究AI技术对劳动力市场和经济的深远影响。此举表明AI领军企业开始更深入地关注其技术所带来的社会经济后果，并可能为其政策制定和产品开发提供新的视角。对投资者而言，理解AI与就业的交互作用，对于评估长期经济增长和特定行业投资至关重要。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/prediction-markets-paragraphs-to-ponder.html?utm_source=rss&utm_medium=rss&utm_campaign=prediction-markets-paragraphs-to-ponder"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/tuesday-assorted-links-575.html"
         }
       ]
     },
     {
-      "title": "印尼知名科技创始人因腐败案被判有罪，引发投资者担忧",
-      "summary": "印尼知名科技公司Gojek的联合创始人Nadiem Makarim因腐败案被判有罪。此案加剧了外国投资者对该国司法公正性的担忧，而此前他们已对印尼市场持谨慎态度。为什么重要：此事件严重影响海外投资者对新兴市场（特别是东南亚）司法公平性和营商环境的信心，对区域内科技创业和投资构成风险，可能导致资本流出或投资放缓。",
+      "title": "Neon收购亚马逊放弃的OpenAI主题电影《人工》",
+      "summary": "电影公司Neon已收购了原亚马逊放弃的OpenAI主题电影《人工》(Artificial)。此前亚马逊在投资OpenAI后放弃了该片。这部聚焦OpenAI首席执行官山姆·奥特曼(Sam Altman)的电影的转手，反映了科技巨头在内容制作上的策略调整，以及对AI领域叙事内容版权的竞争，对媒体内容和科技领域交叉投资具有参考意义。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/30/business/media/openai-movie-artificial-neon-amazon.html"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic发布Claude Sonnet 5和Claude Science新产品",
+      "summary": "AI公司Anthropic发布了其新一代AI模型Claude Sonnet 5和专注于科学研究的Claude Science。这些新产品的推出进一步强化了Anthropic在生成式AI领域的竞争力，旨在提供更强大的性能和更专业的应用能力。对于投资者而言，这代表了AI技术持续迭代和商业化落地的进展，可能影响相关公司的市场份额和估值。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5"
+        },
+        {
+          "name": "Hacker News Top",
+          "url": "https://claude.com/product/claude-science"
+        }
+      ]
+    }
+  ],
+  "us_stocks": [
+    {
+      "title": "SpaceX通过快速通道程序将纳入纳斯达克100指数",
+      "summary": "埃隆·马斯克旗下的太空探索技术公司SpaceX将通过快速通道程序被纳入纳斯达克100指数。这一举动将引发大量的ETF被动买入需求，对SpaceX的估值和市场流动性产生显著影响。SpaceX的快速纳入是纳斯达克最新采用的快速纳入框架的首批受益者之一，标志着该指数对高成长性科技公司的认可，对资本市场具有重要示范意义。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html"
+        }
+      ]
+    },
+    {
+      "title": "耐克财报超预期，关税退款显著提振利润",
+      "summary": "耐克（Nike）最新财报业绩超出华尔街预期，尽管中国市场销售额下降12%，但一笔9.86亿美元的关税退款显著提振了公司利润和毛利率。在重振战略下，耐克仍面临增长挑战，但此次退款提供了一次性的财务支撑。投资者需关注未来其核心业务能否持续恢复增长，以及对中国市场的长期战略。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/nike-earnings-crushed-wall-streets-estimates-but-theres-a-catch-83bf3e4a?mod=mw_rss_topstories"
+        },
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html"
+        }
+      ]
+    },
+    {
+      "title": "Bending Spoons携AOL等老牌互联网资产寻求190亿美元IPO",
+      "summary": "意大利公司Bending Spoons，以收购AOL、Vimeo和Eventbrite等老牌互联网品牌著称，本周正寻求上市，估值可能达到190亿美元。此次IPO不仅是对其“老品牌新活力”战略的检验，也反映了市场对通过整合和优化数字资产实现增长的模式的兴趣。对于投资者而言，这提供了一个观察成熟互联网资产如何在AI时代重获价值的案例。",
+      "sources": [
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html"
+        }
+      ]
+    },
+    {
+      "title": "AI驱动ETF资金涌入，投资者青睐半导体和电脑硬件股",
+      "summary": "2026年上半年，投资者对交易所交易基金（ETF）的投入创下纪录，主要资金流向集中在与人工智能（AI）主题相关的股票。在标准普尔500指数中，表现最佳的20只股票也主要由半导体和电脑硬件制造商主导，这表明AI热潮正持续推动市场对芯片和计算基础设施提供商的强大需求，是当前美股市场最显著的投资趋势之一。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/investors-piled-into-etfs-at-a-record-pace-in-the-first-half-of-2026-heres-where-their-money-is-flowing-92a50cf5?mod=mw_rss_topstories"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-20-best-performing-stocks-in-the-s-p-500-for-the-first-half-of-2026-d916d182?mod=mw_rss_topstories"
+        }
+      ]
+    }
+  ],
+  "a_stocks": [
+    {
+      "title": "印尼著名科技创始人腐败案被判有罪，影响外资信心",
+      "summary": "印尼网约车巨头Gojek的联合创始人Nadiem Makarim在一起腐败案中被判有罪。此案加剧了外国投资者对印尼司法公正性的担忧，而此前他们已对该国市场持谨慎态度。这一事件可能影响印尼及东南亚新兴市场的投资环境，对当地科技企业和外资流入构成潜在打击，值得关注新兴市场的投资者警惕。",
       "sources": [
         {
           "name": "NYT Business",
@@ -288,12 +290,86 @@
       ]
     },
     {
-      "title": "未来生物医学进步可能趋向低边际成本",
-      "summary": "观点：大多数药品研发前期成本高昂，但生产额外一粒药的边际成本极低。未来生物医学的进步可能延续这种低边际成本的特性。为什么重要：这种成本结构有利于那些致力于降低服务费用的医疗系统，或将重塑医疗保健服务的定价、普及和商业模式，对医疗科技投资和医疗保险行业产生深远影响。",
+      "title": "与中国相关的行为者在AI竞争加剧之际扩大网络攻击范围",
+      "summary": "随着中美AI竞争的日益激烈，分析师警告称，与中国相关的实体发起的网络攻击正在增加，且攻击目标不再局限于特定技术领域，而是涵盖了更广泛的关键基础设施和商业秘密。这表明地缘政治紧张局势正向网络空间蔓延，可能对跨国科技企业的知识产权和数据安全构成威胁，对全球科技供应链和企业投资策略产生影响。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html"
+        }
+      ]
+    }
+  ],
+  "business": [
+    {
+      "title": "宝马逆势投资电动汽车，将在美国南卡罗来纳州新建SUV工厂",
+      "summary": "尽管其他汽车制造商在承认数十亿美元亏损后纷纷削减电动汽车（EV）投资，德国汽车巨头宝马（BMW）却反其道而行之，宣布将在美国南卡罗来纳州建设一座新的电动SUV工厂。这一战略举措凸显了宝马对EV市场的长期信心和投资决心，对全球汽车行业的电动化转型路径，以及特定地区供应链发展具有指导意义。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html"
+        }
+      ]
+    },
+    {
+      "title": "联邦医疗保险首次覆盖肥胖症药物，利好礼来和诺和诺德",
+      "summary": "联邦医疗保险（Medicare）将首次开始覆盖肥胖症药物，预计此举将为诺和诺德（Novo Nordisk）和礼来（Eli Lilly）等制药公司开启数百万新患者市场，并扩大此前对老年人而言遥不可及的此类药物的可及性。这一政策变化对制药行业特别是GLP-1药物制造商的收入和市场前景构成巨大提振，是医疗健康领域的重要利好。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html"
+        }
+      ]
+    },
+    {
+      "title": "FDA启动新制造设施快速审查计划，礼来与再生元入选",
+      "summary": "美国食品药品监督管理局（FDA）启动了“预检试点计划”，旨在加速新药制造设施的审查过程。礼来（Eli Lilly）和再生元（Regeneron）是首批入选的七家公司之一。该计划有望缩短新药上市时间，提高制药供应链效率，对生物制药行业的研发投入、生产能力扩张以及市场竞争格局具有积极影响。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/06/29/eli-lilly-regeneron-in-fda-precheck-manufacturing-program.html"
+        }
+      ]
+    },
+    {
+      "title": "澳大利亚起诉亚马逊，指控其与订阅用户签订不公平合同",
+      "summary": "澳大利亚竞争和消费者委员会（ACCC）已对亚马逊提起诉讼，指控其与订阅用户签订了不公平的合同，违反了当地的消费者保护法。这一监管行动表明全球各国政府对大型科技公司市场行为的审查日益严格，可能对亚马逊的商业模式和全球合规策略产生影响，并为其他国家对科技巨头的监管提供参考。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "overlooked": [
+    {
+      "title": "原油价格录得六年最大季度跌幅，历史性供应短缺缓解",
+      "summary": "由于对霍尔木兹海峡瓶颈的规避措施以及中国原油进口量的下降，全球原油价格录得六年来最大的季度跌幅，标志着历史性供应短缺局面得到缓解。这一变化对全球能源市场和通胀前景具有重要影响，尽管短期内可能减轻消费者负担，但对石油生产国的收入和能源企业的投资策略提出新的挑战，值得投资者关注。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/oil-is-set-for-the-largest-quarterly-price-drop-in-6-years-as-historic-supply-crunch-es-57d52bab?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "Z世代担忧国家养老金未来，提前规划养老金",
+      "summary": "英国一项调查显示，许多Z世代年轻人不相信当他们达到退休年龄时，国家养老金（state pension）会依然存在。这种担忧促使他们开始更早地规划个人养老金，并积极探索其他储蓄和投资方式。这一趋势揭示了人口结构变化对公共财政和社会保障体系的长期影响，以及年轻一代对未来财务安全的高度不确定性，对长期资产配置和养老金行业构成结构性挑战。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "预测市场中的“去中心化真相机器”仍存漏洞",
+      "summary": "在Web 3.0领域备受关注的预测市场（Prediction Markets），其核心的“神谕（oracle）”机制被宣传为结合加密货币、投票和博弈论的“去中心化真相机器”，旨在提供公正判断。然而，近期案例表明这一机制仍存在被利用的风险，导致投资者遭受损失。这揭示了去中心化金融和Web3技术在实际应用中面临的复杂性和漏洞，提醒投资者在参与此类新型金融工具时需警惕潜在的技术和操纵风险。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/will-future-biomedical-advances-be-low-marginal-cost.html?utm_source=rss&utm_medium=rss&utm_campaign=will-future-biomedical-advances-be-low-marginal-cost"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/06/prediction-markets-paragraphs-to-ponder.html"
         }
       ]
     }
