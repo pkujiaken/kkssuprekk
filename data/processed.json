@@ -1,22 +1,26 @@
 {
   "top5": [
     {
-      "title": "美国劳动力市场报告未显示通胀压力，美联储有望聚焦抗通胀",
-      "summary": "美国最新就业数据显示，尽管失业率小幅下降至4.2%，但平均时薪保持稳定，表明劳动力市场并未给通胀带来额外压力。这一结果为美联储主席Kevin Warsh（注：原文指Warsh为现任美联储主席，但实际情况并非如此）提供了更多空间，使其可以将政策重点放在控制通胀上，而非因劳动力市场过热而被迫加息。此数据对市场预期的美联储未来利率路径至关重要，可能缓解投资者对激进加息的担忧，对股票和债券市场产生积极影响。",
+      "title": "美国6月就业报告：劳动力市场持续放缓但显韧性，为美联储政策留出空间",
+      "summary": "美国劳工部公布的6月就业数据显示，新增就业岗位低于上月，但失业率小幅下降至4.2%，平均时薪保持稳定。这一数据表明美国劳动力市场正在经历缓慢而稳健的增长，且并未构成新的通胀压力，这可能为美联储在制定未来利率政策时提供更大的灵活性，影响市场对加息预期的判断。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/02/business/dealbook/jobs-fed-rates-wall-street.html"
+          "url": "https://www.nytimes.com/2026/07/02/business/economy/jobs-report-employment.html"
         },
         {
           "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/07/02/business/economy/jobs-report-june-fed-interest-rates-warsh.html"
+          "url": "https://www.nytimes.com/2026/07/02/business/economy/jobs-report-employment.html"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/dow-scores-fresh-record-despite-tepid-jobs-report-why-the-rest-of-2026-is-about-workers-6247fbed?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "谷歌因安卓系统滥用主导地位被欧盟处以41亿欧元罚款",
-      "summary": "欧盟反垄断监管机构再次确认，谷歌因滥用其安卓移动操作系统的市场主导地位，限制竞争对手而被处以41亿欧元的巨额罚款。谷歌方面表示，该判决未能认识到公司为保持安卓开放性所做的重大投资。此裁决强调了全球监管机构对大型科技公司市场行为日益严格的审查，尤其是在数字平台领域。这对谷歌的财务状况和未来在欧洲市场的战略部署构成挑战，并可能为其他科技巨头敲响警钟，促使其重新审视商业实践以避免类似罚款和监管干预。",
+      "title": "欧盟对谷歌处以41亿欧元反垄断罚款，强调大型科技平台监管趋严",
+      "summary": "欧盟委员会裁定谷歌滥用其安卓操作系统的主导地位，以阻止竞争对手，并对其处以41亿欧元的巨额罚款。这一决定凸显了全球监管机构对大型科技公司市场支配力的持续审查和日益收紧的监管趋势，可能对科技巨头的商业模式和全球扩张策略产生深远影响，促使它们调整竞争行为。",
       "sources": [
         {
           "name": "BBC Business",
@@ -25,98 +29,97 @@
       ]
     },
     {
-      "title": "美国拒不续签USMCA贸易协定，未来贸易关系不确定性增加",
-      "summary": "特朗普政府宣布，将不立即请求续签北美自由贸易协定（USMCA），这将启动该协议在未来10年内到期的倒计时。尽管美国未采取更激烈的行动，但这一决定给北美地区的商业活动带来了不确定性，尤其是对汽车行业。福特汽车CEO已呼吁在未来贸易谈判中实现公平竞争。此举可能迫使企业重新评估其供应链和投资策略，以应对潜在的贸易壁垒和新的关税，对美墨加三国经济一体化前景构成考验。",
+      "title": "美国拒绝立即续签《美墨加协定》(USMCA)，引发贸易前景不确定性",
+      "summary": "特朗普政府宣布不会立即要求续签《美墨加协定》，从而启动了协议到期前的十年倒计时。此举使得北美地区的贸易协议走向充满不确定性，可能迫使企业重新评估其供应链和投资策略，对美国、墨西哥和加拿大的经济关系造成潜在影响，尤其是在汽车、农业等关键领域。",
       "sources": [
         {
           "name": "NYT Economy",
           "url": "https://www.nytimes.com/2026/07/01/business/economy/usmca-north-america-trade.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c70yd58y27yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html"
         }
       ]
     },
     {
-      "title": "特斯拉二季度销量强劲反弹，欧洲市场表现亮眼",
-      "summary": "特斯拉第二季度交付量超预期，达到480,126辆电动汽车，远高于分析师预测。主要得益于在欧洲市场的销量强劲反弹，成功抵消了美国市场的下滑。分析师认为特斯拉正“走出电动车寒冬”，这可能提振投资者对电动车市场复苏的信心。与此同时，福特电动车销量下降，Rivian上调交付预期，Lucid未达预期，显示出电动汽车市场内部的分化趋势。特斯拉的强劲表现对于全球电动车行业及其供应链是一个积极信号。",
+      "title": "私人信贷市场风险担忧加剧，大型基金遭遇投资者撤资请求",
+      "summary": "随着投资者对私人信贷市场快速扩张及其潜在还款能力的担忧日益加剧，Blue Owl等私人信贷基金报告了又一个季度显著的投资者撤资请求。市场评论认为，该行业扩张过快，向可能无法偿还贷款的公司发放了过多贷款，这预示着潜在的金融稳定风险，可能引发对非银行金融机构杠杆的关注。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html"
+          "url": "https://www.nytimes.com/2026/07/02/business/private-credit-investor-worries.html"
         },
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/tesla-crushes-delivery-estimates-giving-its-stock-a-boost-16c198da?mod=mw_rss_topstories"
-        },
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/02/rivian-lucid-q2-deliveries-demand.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/02/business/private-credit-withdrawals.html"
         }
       ]
     },
     {
-      "title": "AI对经济重塑影响难量化，监管与投资并存",
-      "summary": "人工智能正在深刻重塑全球经济格局，但如何准确衡量其对就业和生产力的影响仍然是一项挑战，现有数据呈现矛盾。与此同时，AI领域的投资热度不减，例如Together AI通过开源模型获得80亿美元估值，并专注于提供更便宜的AI解决方案。特朗普政府对AI领域的监管加重，Anthropic公司在获得喘息机会的同时，硅谷对未来监管环境仍感担忧。这种不确定性与巨大机遇并存的局面，要求投资者密切关注技术发展、市场动态及政策走向。",
+      "title": "AI对经济的深远影响难以准确衡量，但头部投资者持续重金押注",
+      "summary": "尽管人工智能对经济的实际影响（包括就业增减）尚难以精确量化，且各方数据存在冲突，但以杰夫·贝佐斯家族办公室为代表的顶级投资者仍在加速布局。贝佐斯家族办公室在6月投资了五家AI初创公司，使其成为今年最活跃的家族办公室投资者。这表明尽管宏观衡量存在挑战，资本市场对AI长期增长潜力的信心依然强劲，资金正源源不断涌入这一领域。",
       "sources": [
         {
-          "name": "NYT Business",
+          "name": "NYT Economy",
           "url": "https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html"
         },
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/01/business/dealbook/anthropic-fable-mythos-trump.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/01/business/dealbook/together-ai-funding.html"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/02/jeff-bezos-family-office-backed-five-ai-startups-in-june.html"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Kevin Warsh (前美联储理事，原文误称主席)",
-      "title": "美联储主席有更多空间专注于抗通胀",
-      "summary": "观点：最新就业报告显示，尽管失业率下降，但平均时薪保持稳定，这使得美联储主席有更多空间将重心放在对抗通胀上，而不是担忧劳动力市场过热。这一解读表明市场对美联储未来加息路径的预期可能放缓。",
+      "name": "Kevin Warsh",
+      "title": "观点：劳动力市场并非通胀压力来源，美联储有更多抗通胀空间",
+      "summary": "原话：「美国失业率小幅下降至4.2%，但平均时薪保持稳定，这表明劳动力市场并未构成新的通胀压力。」作为联邦储备委员会主席，Kevin Warsh的这一判断为美联储在专注于抗击通胀方面提供了更大的政策操作空间，预示着未来的利率决策可能更加侧重整体经济稳定而非就业数据波动。",
       "sources": [
         {
-          "name": "NYT Economy",
+          "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/07/02/business/economy/jobs-report-june-fed-interest-rates-warsh.html"
         }
       ]
     },
     {
-      "name": "Jensen Huang (英伟达CEO)",
-      "title": "人形机器人是万亿美元的经济机遇",
-      "summary": "观点：英伟达CEO黄仁勋表示，人形机器人是一个“万亿美元的经济机遇”。这一观点突显了英伟达在机器人技术，特别是AI驱动的机器人领域的雄心，并预示着该领域未来巨大的市场潜力。投资者应关注英伟达在该领域的布局及其对整个科技产业的潜在影响。",
+      "name": "Donald Trump",
+      "title": "抨击美联储为“敌意”机构，并强调主席Warsh在利率问题上的职责；其加密货币投资获利引发争议",
+      "summary": "原话：「美联储是一个敌意的机构，Warsh必须做他该做的事来应对利率。」前美国总统特朗普表达了对美联储政策的强烈不满，显示政治力量对央行独立性的潜在影响。同时，他通过加密货币投资获得了高达十亿美元的收益，这在市场下行期间引发了普通投资者对其巨额获利的关注和争议，凸显加密资产的波动性和潜在财富效应。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/trump-blasts-hostile-fed-and-says-warsh-has-to-do-what-he-has-to-do-on-interest-rates-60b5d16b?mod=mw_rss_topstories"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/trumps-billion-dollar-crypto-haul-triggers-some-everyday-investors-sitting-on-big-losses-9f045f00?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "name": "Blue Whale Growth Fund基金经理",
-      "title": "AI投资应“跟着钱走”",
-      "summary": "观点：Blue Whale Growth Fund基金经理在其他投资者之前买入英伟达和SK海力士，并卖出软件股。他提出在AI投资上应“跟着钱走”的简单策略，意味着资本流动和盈利能力是判断AI领域投资机会的关键指标，强调关注那些直接受益于AI基础设施建设的公司。",
+      "name": "Yan LeCun",
+      "title": "观点：当前AI“不够智能”，正研发更灵活的AI系统",
+      "summary": "观点：作为Meta首席AI科学家和图灵奖得主，Yan LeCun认为目前的AI系统“不够智能”，无法像人类一样进行泛化和理解。他领导的初创公司正在开发一种更具弹性的AI系统，旨在解决当前AI的局限性，这预示着AI技术发展方向可能从现有的大模型范式向更深层次的智能理解演进，对AI研究和投资方向具有启示意义。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/this-fund-manager-bought-nvidia-and-sk-hynix-and-sold-software-before-others-his-simple-message-on-ai-follow-the-money-c3d67bea?mod=mw_rss_topstories"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "name": "Jeff Bezos (亚马逊创始人)",
-      "title": "家族办公室加码AI初创公司投资",
-      "summary": "观点：根据Fintrx数据，杰夫·贝佐斯的家族办公室Bezos Expeditions在六月份投资了五家AI初创公司，成为今年迄今最活跃的家族办公室投资者。这表明顶级富豪对AI领域的持续看好和积极布局，预示着AI技术创新和商业化应用将继续吸引大量资本。",
+      "name": "Samuel Hammond",
+      "title": "观点：AI繁荣颠覆传统经济认知，“金融化”问题已自行解决",
+      "summary": "观点：经济评论员Samuel Hammond指出，AI的迅速繁荣令进步派经济评论员感到困惑，因为它不仅显示“金融化”问题在很大程度上是一个宏观经济故事并已自行解决，还表明当前的经济增长主要由AI驱动。这挑战了以往关于经济结构性问题的看法，强调了技术创新作为核心增长动力的作用，可能重塑对宏观经济周期和结构性改革的理解。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-559.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-559"
+        }
+      ]
+    },
+    {
+      "name": "Jeff Bezos",
+      "title": "家族办公室6月积极投资五家AI初创公司，成为今年最活跃家族办公室投资者",
+      "summary": "观点：根据Fintrx数据，亚马逊创始人Jeff Bezos的家族办公室Bezos Expeditions在6月份向五家AI初创公司进行了投资，使其成为今年迄今最活跃的家族办公室投资者。这一系列动作表明顶级资本正在持续且积极地捕捉AI领域的早期投资机会，反映出对AI未来增长潜力的强烈信心和对技术变革的敏锐嗅觉。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -125,148 +128,9 @@
       ]
     },
     {
-      "name": "Ben Carlson (A Wealth of Common Sense)",
-      "title": "探讨市场上涨与债务及小盘股表现",
-      "summary": "观点：Ben Carlson的“动物精神”播客讨论了保证金债务创历史新高、小盘股上涨、超大规模公司困境、美光科技股价飙升、非“七巨头”股票表现优异等市场现象。他认为市场集中度正常，且没有衰退迹象，这些讨论为投资者理解当前市场结构和驱动因素提供了多维度视角。",
-      "sources": [
-        {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/07/animal-spirits-is-debt-fueling-the-rally/"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "title": "美联储发布2025年三年期支付研究初步发现",
-      "summary": "美联储公布了其2025年三年期支付研究的初步发现。这些发现通常会揭示美国支付系统中的最新趋势、技术采纳情况以及未来发展方向，对于金融机构、支付服务提供商以及宏观经济政策制定者评估支付效率和风险具有重要参考价值，并可能影响金融科技领域的投资决策。",
-      "sources": [
-        {
-          "name": "Federal Reserve Press",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm"
-        }
-      ]
-    },
-    {
-      "title": "UBS报告：2025年股市上涨催生近百万新百万富翁",
-      "summary": "瑞银（UBS）报告显示，2025年全球个人财富激增10.8%，创下自2017年以来最大增幅，其中股市上涨催生了近100万新的百万富翁。这反映了全球资产市场的强劲表现，尤其是股权投资的回报。对于高净值投资者而言，这凸显了资产配置在财富增长中的作用，同时也可能引发对财富不均和市场泡沫的讨论。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/02/stock-market-gains-new-millionaires-ubs.html"
-        }
-      ]
-    },
-    {
-      "title": "美国就业市场现状对华尔街和华盛顿的影响",
-      "summary": "美国就业市场的反弹使得华尔街和华盛顿高度关注。尽管最新的劳动力报告显示失业率下降但平均时薪稳定，这在一定程度上缓解了通胀担忧。然而，就业数据的任何显著波动都可能影响美联储的利率决策，进而传导至金融市场，因此，即将发布的就业数据将是判断经济走向的关键指标。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/02/business/dealbook/jobs-fed-rates-wall-street.html"
-        }
-      ]
-    }
-  ],
-  "tech": [
-    {
-      "title": "AI正在重塑经济，但其影响衡量仍是挑战",
-      "summary": "人工智能对经济的深远影响已毋庸置疑，然而，要准确量化AI对就业和生产力等关键经济指标的实际作用却异常困难。部分数据显示AI导致失业，另一些则显示相反。这种衡量上的复杂性给政策制定者和投资者带来了挑战，使得对AI驱动的经济转型进行精准评估和预测变得复杂，需要更精细的数据分析方法。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html"
-        }
-      ]
-    },
-    {
-      "title": "Anthropic在特朗普政府监管下获得喘息机会，但硅谷仍忧虑重重",
-      "summary": "AI公司Anthropic在特朗普政府的监管压力下获得了一定程度的喘息，能够恢复对其最强大AI模型的访问权限。然而，硅谷科技界对特朗普政府日益加强的监管力度仍感到担忧。这反映出AI技术发展与政府监管之间持续的紧张关系，监管政策的不确定性可能影响AI公司的长期战略和创新步伐，对该领域投资构成潜在风险。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/01/business/dealbook/anthropic-fable-mythos-trump.html"
-        }
-      ]
-    },
-    {
-      "title": "Together AI估值超80亿美元，提供开源AI模型以降低成本",
-      "summary": "专注于开源人工智能模型的初创公司Together AI估值已超过80亿美元，旨在为企业提供更经济的AI解决方案。随着企业对更便宜AI选项的需求日益增长，Together AI的快速崛起凸显了开源AI生态系统的活力和商业潜力。这为投资者提供了新的视角，即AI领域的价值创造不仅限于少数头部模型提供商，成本效益和开放性也将成为重要的竞争优势。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/01/business/dealbook/together-ai-funding.html"
-        }
-      ]
-    }
-  ],
-  "us_stocks": [
-    {
-      "title": "福特第二季度销量下降，电动车需求疲软成主因",
-      "summary": "福特汽车第二季度销量同比下降10.3%，主要原因是F系列皮卡面临供应商问题以及电动汽车（EV）需求下降，其中EV销量同比下跌40.7%。这一表现低于市场预期，表明即使是传统汽车巨头也在向电动化转型的过程中面临挑战，且消费者对电动车的接受度仍受多种因素影响。投资者需关注福特后续的供应链管理和电动车销售策略调整。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/02/ford-q2-sales.html"
-        }
-      ]
-    },
-    {
-      "title": "Rivian上调年度交付预期，Lucid二季度交付不及预期",
-      "summary": "电动汽车制造商Rivian将2026年交付预期上调至65,000至70,000辆，显示出其生产和市场表现的信心。然而，另一家电动汽车公司Lucid的第二季度交付量未能达到华尔街预期。这种分化反映了电动汽车市场竞争的日益激烈，以及不同品牌在供应链、生产效率和市场需求响应方面的差异。投资者应仔细甄别各家电动车企的运营效率和市场竞争力。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/02/rivian-lucid-q2-deliveries-demand.html"
-        }
-      ]
-    },
-    {
-      "title": "美光科技向“特朗普账户”捐赠2.5亿美元，引发市场关注",
-      "summary": "美国芯片制造商美光科技宣布将向特朗普政府设立的一种新型投资账户捐赠2.5亿美元。这类“特朗普账户”禁止投资债券和国际股票，强制投资者将资金全部投入美国股票市场。此举不仅是企业对政治倡议的响应，也反映了政府对资本流向和投资策略的潜在干预。对于投资者而言，这可能意味着未来在特定政策影响下，资金流向和市场结构可能发生变化。",
-      "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html"
-        }
-      ]
-    },
-    {
-      "title": "美国汽车市场销售分化：混合动力车型表现优于纯电动车",
-      "summary": "美国第二季度新车销售数据显示出显著的分化，提供混合动力车型的汽车制造商普遍表现优于那些没有此类车型的公司。这表明消费者在面对纯电动车时可能仍存在里程焦虑或充电基础设施不足的担忧，而混合动力车提供了更灵活的过渡方案。这一趋势对车企的产品战略和未来市场份额分配具有重要指导意义，强调了多元化动力总成产品组合的重要性。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/01/q2-auto-sales-gm-stellantis-toyota-hyundai.html"
-        }
-      ]
-    }
-  ],
-  "a_stocks": [],
-  "business": [
-    {
-      "title": "柴油价格创26年来最大月度跌幅，能源市场趋于稳定",
-      "summary": "在过去一个月中，柴油价格经历了26年来最大的月度跌幅。此前因美国与以色列和伊朗的冲突导致燃料成本飙升，但随着持久和平希望的增加，油价开始大幅回落。能源价格的波动直接影响工业运输成本和消费者支出，此次下降预示着能源市场可能趋于稳定，有利于降低企业运营成本和缓解通胀压力。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "美国牛肉价格创纪录，消费者需求依然强劲",
-      "summary": "尽管牛肉价格已创历史新高，但美国消费者对牛排的需求并未减弱。消费者将牛肉视为一种“可负担的奢侈品”，并优先选择在特殊场合消费。这种现象表明在通胀环境下，部分消费者对特定商品的需求弹性较低，愿意为品质和体验支付更高价格。对于食品行业和畜牧业来说，这反映出市场在面对高价时仍存在强劲的支撑力。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/02/americans-are-paying-record-prices-for-steak.html"
-        }
-      ]
-    },
-    {
-      "name": "福特CEO呼吁与日系车企在USMCA谈判中公平竞争",
-      "summary": "福特汽车CEO呼吁在USMCA贸易协定谈判中，与丰田和通用汽车等进口车企建立一个“公平的竞争环境”。福特去年在美国生产了超过200万辆汽车，超过任何其他汽车制造商。随着USMCA续签问题的不确定性增加，福特希望确保贸易规则能够支持美国本土制造业，减少不平等的贸易优势，这对美国汽车产业的未来发展方向具有战略意义。",
+      "name": "Jim Farley",
+      "title": "观点：希望在USMCA贸易谈判重开时与丰田、通用进口商享有“公平竞争环境”",
+      "summary": "观点：福特汽车CEO Jim Farley表示，希望在《美墨加协定》(USMCA)贸易谈判重新开启时，能与丰田和通用汽车等进口商获得“公平竞争环境”。作为去年美国本土产量最高的汽车制造商，他的呼吁凸显了美国汽车业对贸易政策公平性的关切，可能影响未来北美汽车供应链的布局和投资。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -275,34 +139,217 @@
       ]
     }
   ],
+  "macro": [
+    {
+      "title": "联邦储备委员会发布2025年三年期支付研究初步结果",
+      "summary": "美联储发布了2025年三年期支付研究的初步调查结果，这是一项定期评估美国支付系统演变的关键报告。该研究的数据和分析将为政策制定者、金融机构和支付服务提供商提供关于支付行为、技术采用和市场结构变化的宝贵见解，对未来金融创新、监管方向及数字货币发展具有指导意义。",
+      "sources": [
+        {
+          "name": "Federal Reserve Press",
+          "url": "https://www.federalreserve.gov/newevents/pressreleases/other20260701a.htm"
+        }
+      ]
+    },
+    {
+      "title": "全球个人财富在2025年激增，股市上涨造就近百万新百万富翁",
+      "summary": "瑞银（UBS）报告指出，2025年全球个人财富增长10.8%，创下2017年以来的最大涨幅，股市的强劲表现是主要驱动力，促使全球近100万人晋升为百万富翁。这反映了全球经济在资产价格上涨驱动下的财富效应，可能影响未来的消费模式、奢侈品市场和财富管理行业的发展策略。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/02/stock-market-gains-new-millionaires-ubs.html"
+        }
+      ]
+    },
+    {
+      "title": "柴油价格创26年最大月跌幅，中东地缘政治缓解利好能源市场",
+      "summary": "随着美国与以色列和伊朗之间冲突的缓解以及对持久和平的希望增加，柴油价格经历26年来的最大月度跌幅。这表明地缘政治紧张局势的缓解对全球能源市场产生了直接的积极影响，有助于稳定通胀预期并降低企业运营成本，对全球供应链和消费者支出带来积极信号。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "联邦储备委员会对多家银行采取执法行动",
+      "summary": "联邦储备委员会对Small Business Bank采取了执法行动，并宣布终止对法国巴黎银行S.A.、法国巴黎银行USA, Inc.、法国巴黎银行Securities Corp.和Community Bankshares, Inc.的执法行动。这表明美联储持续关注银行体系的合规性与风险管理，对维护金融稳定具有重要意义。",
+      "sources": [
+        {
+          "name": "Federal Reserve Press",
+          "url": "https://www.federalreserve.gov/newevents/pressreleases/enforcement20260702a.htm"
+        }
+      ]
+    }
+  ],
+  "tech": [
+    {
+      "title": "Anthropic获特朗普政府暂时豁免，硅谷担忧AI监管收紧趋势",
+      "summary": "人工智能公司Anthropic获得特朗普政府的宽限，得以恢复对其最强大AI模型的访问权限。然而，此举并未完全缓解硅谷对特朗普政府在AI领域采取更强硬监管立场的担忧。这反映了AI技术发展与政府监管之间日益紧张的关系，可能影响未来AI公司的创新、市场策略以及行业竞争格局。",
+      "sources": [
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/07/01/business/dealbook/anthropic-fable-mythos-trump.html"
+        }
+      ]
+    },
+    {
+      "title": "微芯科技（Micron）向“特朗普账户”捐赠2.5亿美元，彰显半导体巨头对美国政府倡议的支持",
+      "summary": "美国芯片制造商微芯科技宣布向特朗普政府新设立的儿童投资账户（“特朗普账户”）捐赠2.5亿美元。这笔巨额捐款突显了大型科技公司，特别是半导体产业巨头，与美国政府之间日益紧密的合作关系，也可能对政府的经济激励措施和相关产业政策产生影响，特别是支持美国本土芯片制造的战略。",
+      "sources": [
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html"
+        }
+      ]
+    },
+    {
+      "title": "印度积极推动半导体产业发展，新兴企业基金支持本土芯片制造和AI应用",
+      "summary": "印度正通过“半导体使命”积极布局，其新兴企业基金资助了多个项目，包括开发低成本芯片微制造工具的HackerFab IITB和AI医疗解决方案Neurosole。此举旨在自下而上地促进印度的半导体生态系统发展，并培育本土AI创新，表明印度在全球科技供应链中寻求更高地位的长期战略雄心，值得关注其对全球半导体格局的潜在影响。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/emergent-ventures-india-17th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-17th-cohort"
+        }
+      ]
+    },
+    {
+      "title": "MRU利用AI代理重建学习和教师平台，探索AI在教育和平台构建中的应用",
+      "summary": "MRU正在利用AI代理从零开始重建其学习和教师平台，涵盖编码、测试、内容生成和运营等多个环节。他们正在寻找早期职业人才共同参与。这表明AI技术不仅在核心研究领域取得进展，也在加速向教育、软件开发和平台运营等传统行业渗透，预示着未来工作流和学习模式的深刻变革。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-560.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-560"
+        }
+      ]
+    }
+  ],
+  "us_stocks": [
+    {
+      "title": "特斯拉第二季度销量大增25%，欧洲市场复苏抵消美国下滑",
+      "summary": "特斯拉报告第二季度销量同比增长25%，主要得益于在欧洲市场的显著反弹，这有效弥补了其在美国市场的销量下滑。尽管面临激烈的市场竞争和地缘政治因素影响，特斯拉通过价格策略在全球关键区域实现了销量增长，表明其在全球电动汽车市场的韧性，为投资者带来积极信号。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html"
+        }
+      ]
+    },
+    {
+      "title": "福特第二季度销量受F系列供应和电动车需求影响下降10.3%",
+      "summary": "福特汽车公布第二季度销量同比下降10.3%，主要原因是F系列卡车（包括F-150）的供应商问题以及电动汽车（EV）需求下降40.7%。这一业绩反映了传统汽车巨头在转型电动化过程中面临的供应链挑战和市场需求波动，尤其是在EV市场竞争加剧的背景下，投资者需关注其成本控制和转型策略。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/02/ford-q2-sales.html"
+        }
+      ]
+    },
+    {
+      "title": "Rivian上调年度交付展望，而Lucid二季度表现不及预期，凸显电动汽车市场分化",
+      "summary": "电动汽车制造商Rivian将其2026年交付展望上调至65,000至70,000辆，显示出较强的市场信心，而竞争对手Lucid的第二季度交付量则未能达到华尔街预期。两家公司的业绩反差反映出电动汽车市场内部的激烈竞争和品牌分化，投资者需关注不同厂商的执行能力和市场接受度，以及技术迭代对销量的影响。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/02/rivian-lucid-q2-deliveries-demand.html"
+        }
+      ]
+    },
+    {
+      "title": "三明治连锁Jersey Mike's提交IPO申请，揭示餐饮行业增长潜力",
+      "summary": "美国第二大潜水艇三明治连锁店Jersey Mike's已提交IPO（首次公开募股）申请，并报告近年来同店销售额增长高达50%。此次IPO将为投资者提供一个了解快速增长的餐饮特许经营模式的机会，也反映出即使在充满挑战的市场环境中，特定消费品领域仍有强劲的增长故事，值得关注其市场定位和扩张战略。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/5-things-to-know-about-jersey-mikes-ahead-of-its-ipo-e6829aa2?mod=mw_rss_topstories"
+        },
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html"
+        }
+      ]
+    },
+    {
+      "title": "Citadel对冲基金上半年收益广泛，量化交易策略表现出色",
+      "summary": "顶级对冲基金Citadel上半年取得了广泛的收益，其中其策略性交易基金（结合了自由裁量股票投资和量化策略）表现尤为突出，截至6月底上涨14.3%。这一表现显示了多策略基金在市场波动中的韧性和适应性，尤其是在量化交易领域遭遇抛售时仍能实现超额收益，对追求绝对回报的投资者具有参考价值。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/02/citadels-hedge-funds-post-broad-first-half-gains.html"
+        }
+      ]
+    }
+  ],
+  "a_stocks": [],
+  "business": [
+    {
+      "title": "美国蛋生产商因价格操纵案支付330万美元并捐赠5300万枚鸡蛋",
+      "summary": "几家蛋生产商同意支付330万美元以和解联邦价格操纵诉讼，并承诺向17个州的食物银行和非营利组织捐赠超过5300万枚鸡蛋。此案凸显了监管机构对食品行业反垄断行为的严格审查，以及对消费者利益的保护，对相关行业的合规性构成警示，并可能影响未来农产品市场的定价机制。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/02/business/egg-price-fixing-settlement-lawsuit.html"
+        }
+      ]
+    },
+    {
+      "title": "高温热浪下数据中心被强制使用备用电源，凸显电网压力与能源挑战",
+      "summary": "随着美国大部分地区遭遇三位数高温，电力运营商PJM要求数据中心使用通常未被启用的备用电源以缓解电网压力。这一措施揭示了极端天气对关键基础设施（如数据中心）的运营挑战，以及对电网容量和稳定性的严峻考验，预示着能源基础设施投资和管理将成为重要议题，尤其是在AI发展对电力需求激增的背景下。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html"
+        }
+      ]
+    },
+    {
+      "title": "美国牛肉价格创历史新高，消费者需求强劲视为“可负担的奢侈品”",
+      "summary": "尽管牛肉价格已达到创纪录水平，但美国消费者对牛排的需求依然旺盛。消费者将牛肉视为一种“可负担的奢侈品”，倾向于在特殊场合优先选择。这反映了尽管通胀压力持续，消费者在特定商品上的支出意愿依然坚挺，对消费品行业细分市场研究具有启示意义，尤其是高端食品市场的韧性。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/02/beef-prices-demand-for-steak-isnt-falling.html"
+        }
+      ]
+    },
+    {
+      "title": "美国汽车市场呈现分化，混合动力车型销售显著优于纯电动车",
+      "summary": "美国第二季度新车销售数据显示出显著分化，提供混合动力车型的汽车制造商普遍表现优于纯电动车型。这一趋势表明消费者对混合动力汽车的需求正在上升，可能因为其兼顾燃油经济性和续航里程的优势，对汽车制造商的未来产品线布局和市场策略构成重要指引。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/01/q2-auto-sales-gm-stellantis-toyota-hyundai.html"
+        }
+      ]
+    }
+  ],
   "overlooked": [
     {
-      "title": "美国将民用超音速飞行合法化，航空业迎来新纪元",
-      "summary": "美国交通部宣布，将更新自1970年代以来的过时规定，通过用噪音限制取代速度限制，使民用超音速飞行在美国合法化。这一政策转变旨在促进美国航空航天领域的创新，预示着一个更安全、更安静、更快速的航空旅行新时代的到来。对于航空航天制造商、先进材料供应商及高端旅游服务业而言，这可能开启巨大的市场机会，值得关注其长期发展潜力。",
+      "title": "美国“特朗普账户”启动，儿童参与率不足10%凸显推广障碍",
+      "summary": "特朗普政府为儿童设立的新型投资账户已开始接受捐款，但合格儿童的参与率低于10%。尽管微芯科技等企业已捐赠巨资，但该计划在普及和吸引民众参与方面仍面临挑战，这可能影响其旨在促进儿童财富积累和长期经济平等的政策目标，也反映了普惠金融政策落地中的现实难题。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/civilian-supersonic-flights-are-being-legalized-in-the-u-s.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/02/upshot/trump-investment-accounts-children.html"
         }
       ]
     },
     {
-      "title": "SEC发布更新市场统计数据，IPO发行量与融资额增长",
-      "summary": "美国证券交易委员会（SEC）的经济与风险分析部门（DERA）发布了更新的市场统计数据和可视化图表，重点指出美国资本市场IPO发行量和融资额的增长。此外，还新增了资产支持证券（ABS）发行数据。这些数据为投资者提供了美国资本市场活跃度和健康状况的最新概览，对评估市场流动性、投资机会以及新兴资产类别（如ABS）的发展趋势具有重要参考价值。",
+      "title": "私人信贷市场快速扩张引发系统性风险担忧",
+      "summary": "私人信贷行业近年来扩张迅速，但部分分析师担忧其向可能无法偿还贷款的公司过度放贷。这种扩张伴随着对估值、透明度和潜在不良贷款的担忧，可能构成未来金融系统的一个结构性风险，值得投资者密切关注其演变及对更广泛信贷市场的影响，特别是其与传统银行体系的潜在联动风险。",
       "sources": [
         {
-          "name": "SEC Press",
-          "url": "https://www.sec.gov/newsroom/press-releases/2026-61-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/02/business/private-credit-investor-worries.html"
         }
       ]
     },
     {
-      "title": "Emergent Ventures支持印度半导体自下而上发展",
-      "summary": "Emergent Ventures India的第17期项目正在支持印度本土的半导体产业发展。其中，Aryamman Bhatia团队正在建设HackerFab IITB，一个开源的学生主导的芯片微制造实验室，旨在开发全球最便宜的制造工具，并激发印度半导体使命的自下而上贡献。这代表了新兴市场在关键技术领域自主创新的努力，对于全球半导体供应链多元化和长期结构性变化具有潜在影响，是一个值得长期关注的信号。",
+      "title": "挪威废除租金管制后房产市场数据揭示政策影响",
+      "summary": "一项研究回顾了挪威在1982年废除租金管制后的房产市场数据，通过分析奥斯陆1970年至2008年的住房分类广告，揭示了政策调整对租金和住房供应的长期影响。这为当前全球多地再次讨论租金管制提供了重要的实证参考，有助于理解此类政策在抑制租金的同时，可能对市场效率和供应产生的深远结构性变化。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/emergent-ventures-india-17th-cohort.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/rent-control-the-ceiling-trap.html?utm_source=rss&utm_medium=rss&utm_campaign=rent-control-the-ceiling-trap"
         }
       ]
     }
