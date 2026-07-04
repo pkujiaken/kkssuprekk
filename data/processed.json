@@ -1,77 +1,69 @@
 {
   "top5": [
     {
-      "title": "美国6月就业报告显示劳动力市场放缓但稳健",
-      "summary": "美国劳工部公布的6月就业数据显示，新增就业岗位有所减少，但失业率略有下降，平均时薪保持稳定。这一数据表明美国劳动力市场正在经历一个放缓但持续增长的阶段，有助于缓解对通胀的担忧，并可能给予美联储主席凯文·沃什更多空间来应对通胀，而无需过度收紧货币政策。",
+      "title": "美国6月就业报告显示劳动力市场放缓但稳健，降低通胀压力",
+      "summary": "美国劳工部最新数据显示，6月份新增就业岗位有所减少，但失业率略有下降，表明美国劳动力市场正在以更慢但稳定的速度增长。这一趋势可能为美联储在抗击通胀的同时调整货币政策提供更大空间，市场预计美联储主席将重点关注通胀数据而非劳动力市场过热迹象。这对投资者意味着，加息预期可能放缓，对股市构成利好。",
       "sources": [
         {
           "name": "NYT Economy",
           "url": "https://www.nytimes.com/2026/07/02/business/economy/jobs-report-employment.html"
         },
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/02/business/dealbook/jobs-fed-rates-wall-street.html"
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/07/02/business/economy/jobs-report-june-fed-interest-rates-warsh.html"
         }
       ]
     },
     {
-      "title": "私人信贷市场担忧加剧，投资者撤资请求增加",
-      "summary": "投资者对私人信贷行业的担忧日益增长，部分原因是该市场扩张过快，且向可能无力偿债的公司发放了贷款。Blue Owl等私人信贷基金近期遭遇了显著的投资者撤资请求，这引发了市场对该行业潜在风险和系统性冲击的关注，可能预示着未来金融体系中的薄弱环节。",
+      "title": "私人信贷市场风险担忧加剧，投资者警惕潜在违约",
+      "summary": "投资者对私人信贷市场快速扩张及其潜在风险的担忧日益加剧。业内人士指出，该行业可能发展过快，向一些偿债能力存疑的公司提供了大量贷款。这种担忧可能导致未来信贷紧缩，影响那些依赖私人信贷融资的企业，并对整个金融系统的稳定性构成挑战。高净值投资者需密切关注此领域的潜在风险敞口。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/07/02/business/private-credit-investor-worries.html"
-        },
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/02/business/private-credit-withdrawals.html"
         }
       ]
     },
     {
-      "title": "AI对经济影响复杂难测，数据中心面临能源压力",
-      "summary": "人工智能正在重塑经济格局，但其对就业和生产力的具体影响仍难以准确衡量，数据来源甚至出现相互矛盾的情况。与此同时，美国部分地区在热浪下，数据中心被要求使用备用电源以缓解电网压力，凸显了AI技术对能源基础设施的巨大需求和潜在瓶颈，这对科技发展和可持续性构成重要挑战。",
+      "title": "AI对经济的深远影响及其衡量挑战凸显",
+      "summary": "人工智能正在深刻重塑全球经济结构，但其对就业市场和整体经济增长的具体影响仍难以准确衡量。现有数据有时相互矛盾，一部分显示AI导致失业，另一部分则呈现相反趋势。这种不确定性对政策制定者和投资者都是一大挑战，因为AI的经济效益和成本尚无清晰图景，难以做出长期战略规划。投资者应警惕AI带来的结构性变革和数据解读的复杂性。",
       "sources": [
         {
           "name": "NYT Economy",
           "url": "https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html"
         },
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/how-will-ai-and-the-fertility-crisis-interact.html"
         }
       ]
     },
     {
-      "title": "美光科技成AI芯片焦点，但遭知名投资者做空",
-      "summary": "存储芯片制造商美光科技因其在AI热潮中的关键地位而备受关注，该公司甚至向政府支持的投资账户捐赠巨款。然而，以“大空头”迈克尔·伯里为代表的知名投资者却对美光进行了看跌押注，这反映出市场对AI行业过度炒作和内存芯片估值是否过高的分歧与担忧，值得投资者警惕。",
+      "title": "Nvidia CEO黄仁勋看好万亿级机器人市场，AI发展路径再引关注",
+      "summary": "Nvidia首席执行官黄仁勋公开表示，人形机器人将带来“万亿美元的经济机遇”，彰显了该公司对机器人技术未来潜力的巨大信心。这一战略判断预示着Nvidia将继续深化其在AI和硬件领域的布局，从数据中心扩展到更广阔的具身智能（embodied AI）市场。对于投资者而言，这不仅是Nvidia自身增长的新动力，也为整个AI和机器人产业链提供了重要的投资方向指引。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/michael-burry-makes-a-bearish-bet-against-hot-memory-stock-micron-reports-4c976262?mod=mw_rss_topstories"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html"
+          "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "英国经济衰退警示：基础设施与公共服务面临挑战",
-      "summary": "经济学家泰勒·科文引用《大西洋月刊》的报道指出，英国正面临严重的经济衰退，公共服务（如医疗）功能受损，基础设施老化，国家竞争力下降。这不仅对英国自身构成严峻挑战，也为其他发达经济体敲响警钟，警示长期结构性问题可能导致经济活力持续丧失。",
+      "title": "美国电网在热浪下承压，数据中心被要求启用备用电源",
+      "summary": "随着美国大部分地区遭遇三位数高温，电网面临巨大压力，特朗普政府已指示电网管理方要求数据中心使用备用电源。此举旨在缓解高峰时期的电力需求，但同时也暴露了当前能源基础设施在支持快速增长的数据中心（包括AI驱动的数据中心）方面的脆弱性。对于投资者而言，这预示着能源基础设施升级和数据中心能源效率将成为未来重要的投资领域，同时也需关注电力成本和供应稳定性对科技巨头运营的影响。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/how-britain-became-as-poor-as-mississippi.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Kevin Warsh（前美联储理事）",
-      "title": "6月就业报告显示劳动力市场并非通胀压力源头",
-      "summary": "原话：「失业率降至4.2%，但平均时薪稳定，这让美联储主席凯文·沃什有空间专注于对抗通胀。」观点：劳动力市场表现稳健但并未显示出过热的通胀压力，为美联储的货币政策决策提供了灵活性。",
+      "name": "Kevin Warsh",
+      "title": "前美联储理事Warsh解读就业报告：劳动力市场非通胀主因",
+      "summary": "观点：前美联储理事凯文·沃什（Kevin Warsh）指出，虽然失业率小幅下降至4.2%，但平均时薪保持稳定，表明美国劳动力市场并非当前通胀压力的主要来源。他认为，这使得美联储主席有更多空间将注意力集中在抗击通胀上，而非担忧劳动力市场过热引发的物价上涨。",
       "sources": [
         {
           "name": "NYT Economy",
@@ -80,39 +72,20 @@
       ]
     },
     {
-      "name": "Tyler Cowen（经济学家）",
-      "title": "英国经济衰退、AI与生育率互动及租金管制影响",
-      "summary": "观点：科文教授指出英国正面临经济衰退，公共服务效率低下是其重要表现。同时，他探讨了AI技术与全球生育率下降的潜在互动，认为人口稀少将使个体更受关注。他还通过新网站分析了租金管制政策的负面影响，强调了市场机制的重要性。",
+      "name": "Tyler Cowen",
+      "title": "经济学家Tyler Cowen探讨AI与生育危机互动及经济影响",
+      "summary": "观点：经济学家泰勒·考恩（Tyler Cowen）在其最新专栏中，探讨了人工智能（AI）与全球生育率下降的互动。他指出，尽管低生育率可能带来人均GDP的增长，但它也将改变社会结构，例如公共空间变得更空旷，个体之间更容易受到关注。他的分析为投资者提供了理解人口结构变化和技术进步对长期经济及社会影响的独特视角。",
       "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/how-britain-became-as-poor-as-mississippi.html"
-        },
         {
           "name": "Marginal Revolution (Tyler Cowen)",
           "url": "https://marginalrevolution.com/marginalrevolution/2026/07/how-will-ai-and-the-fertility-crisis-interact.html"
-        },
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/rent-control-the-ceiling-trap.html"
         }
       ]
     },
     {
-      "name": "Samuel Hammond（经济学家）",
-      "title": "AI繁荣打破了进步派经济评论员的既有观念",
-      "summary": "观点：通过泰勒·科文的博客引用，Samuel Hammond认为AI的繁荣“双重地”让进步派经济评论员感到不安。首先，它显示了“金融化”在很大程度上是一个宏观故事，最终自行解决了；其次，当前经济的繁荣是由AI而非其他因素驱动的。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-559.html"
-        }
-      ]
-    },
-    {
-      "name": "Yan LeCun（Meta首席AI科学家）",
-      "title": "现有AI“不够智能”，需要更灵活的系统",
-      "summary": "观点：作为领先的AI研究者，Yan LeCun表示现有的人工智能系统“不够智能”，他正在与一家初创公司合作开发一种更灵活、更具适应性的AI系统。这表明AI领域的核心研究者仍在追求突破性的技术进展，现有技术仍有局限。",
+      "name": "Yan LeCun",
+      "title": "Meta首席AI科学家Yan LeCun强调现有AI局限，布局下一代系统",
+      "summary": "原话：「AI目前并不“智能”，接下来我们将开发更灵活的AI系统。」观点：Meta首席AI科学家杨立昆（Yan LeCun）正在创业，旨在开发更具灵活性的人工智能系统。他直言不讳地指出当前AI技术的局限性，并认为行业需要超越现有范式，转向能够进行更复杂推理和适应性学习的AI。这一观点对于关注AI技术前沿和潜在投资机会的专业人士至关重要。",
       "sources": [
         {
           "name": "BBC Business",
@@ -121,70 +94,41 @@
       ]
     },
     {
-      "name": "Michael Burry（“大空头”投资者）",
-      "title": "报告称其对热门内存芯片股美光科技进行看跌押注",
-      "summary": "观点：根据报道，以《大空头》闻名的投资者迈克尔·伯里对内存芯片制造商美光科技进行了新的看跌押注。这一举动加剧了他对人工智能相关交易前景的悲观情绪，预示着市场对部分AI概念股估值可能过高的担忧。",
+      "name": "Jensen Huang",
+      "title": "Nvidia CEO黄仁勋断言人形机器人将创造万亿级经济机遇",
+      "summary": "原话：「人形机器人是万亿级的经济机遇。」观点：英伟达（Nvidia）首席执行官黄仁勋坚定地认为，人形机器人将成为一个“万亿美元级”的巨大市场。Nvidia作为AI芯片领域的领导者，正积极将重心投向机器人技术，这不仅是对其现有技术优势的延伸，也明确了公司未来的战略增长点。他的远见对投资者理解Nvidia及整个机器人产业的长期前景具有指导意义。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/michael-burry-makes-a-bearish-bet-against-hot-memory-stock-micron-reports-4c976262?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "name": "Ben Carlson（A Wealth of Common Sense博主）",
-      "title": "分析“一百万美元”的价值变迁及百万富翁数量",
-      "summary": "观点：Ben Carlson的文章探讨了“一百万美元”在不同时代和背景下的实际购买力及财富意义，并引出关于全球百万富翁数量的讨论。这促使投资者思考通胀对财富的影响以及财富积累的动态变化。",
-      "sources": [
-        {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/07/how-much-is-one-million-dollars-worth/"
+          "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "美国6月就业报告：新增岗位放缓，失业率下降",
-      "summary": "美国劳工部数据显示，6月新增就业岗位少于上月，但失业率降至4.2%，平均时薪增速持平。这表明劳动力市场仍在增长但速度放缓，有望减轻通胀压力，为美联储政策提供更多灵活性。",
+      "title": "全球生育率下降与人均收入增长的关联性研究",
+      "summary": "一项研究表明，在过去七十年间，全球生育率的持续下降与人均工作年龄人口GDP的增长存在正相关关系。这颠覆了普遍认为低生育率会阻碍经济增长的看法，提示人口结构变化可能并非纯粹的经济负面因素。投资者在评估国家和地区经济前景时，需更细致地考虑人口结构变化对生产力和消费模式的复杂影响。",
       "sources": [
         {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/07/02/business/economy/jobs-report-employment.html"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/07/02/business/economy/jobs-report-june-fed-interest-rates-warsh.html"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/do-falling-birth-rates-boost-per-capita-income.html"
         }
       ]
     },
     {
-      "title": "私人信贷市场风险引担忧，投资者撤资加剧",
-      "summary": "市场对私人信贷行业快速扩张及其潜在不良贷款的担忧加剧。Blue Owl等基金遭遇大量撤资请求，反映出投资者对该领域流动性和风险的警惕，可能预示着未来信贷市场波动。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/02/business/private-credit-investor-worries.html"
-        },
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/02/business/private-credit-withdrawals.html"
-        }
-      ]
-    },
-    {
-      "title": "美联储对小型银行和跨国金融机构采取执法行动",
-      "summary": "美联储对小型商业银行发布了执法行动，并终止了对法国巴黎银行及其美国子公司和Community Bankshares的执法行动。这显示了美联储在维护金融体系稳定和合规性方面的持续监管力度。",
+      "title": "美联储对多家银行采取执法行动，强化金融监管",
+      "summary": "美联储委员会宣布对Small Business Bank采取执法行动，同时终止了对法国巴黎银行（BNP Paribas S.A.）、法国巴黎银行美国公司（BNP Paribas USA, Inc.）、法国巴黎银行证券（BNP Paribas Securities Corp.）以及Community Bankshares, Inc.的执法行动。这一系列举措表明美联储持续关注银行体系的合规性和稳定性，对不当行为保持高压态势，并适时解除对已达标机构的限制。投资者应关注银行股的监管风险和合规成本。",
       "sources": [
         {
           "name": "Federal Reserve Press",
-          "url": "https://www.federalreserve.gov/newsevent s/pressreleases/enforcement20260702a.htm"
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm"
         }
       ]
     },
     {
-      "title": "股市上涨推动全球百万富翁数量增长",
-      "summary": "瑞银报告显示，2025年全球个人财富增长10.8%，创2017年以来最大涨幅，股市上涨在其中发挥了关键作用，新增近100万百万富翁。这反映出过去一年市场表现对财富积累的显著影响。",
+      "title": "瑞银报告：2025年股市大涨催生近百万新百万富翁",
+      "summary": "瑞银（UBS）最新报告显示，2025年全球个人财富激增10.8%，创下自2017年以来的最大增幅。强劲的股市表现是财富增长的主要驱动力，当年全球新增了近100万名百万富翁。这反映出股票市场对个人财富积累的强大作用，也暗示了在市场牛市中，财富效应的扩散。对于投资者而言，这凸显了资产配置中股票的重要性，但也需警惕市场过热可能带来的风险。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -195,70 +139,20 @@
   ],
   "tech": [
     {
-      "title": "AI经济影响测量面临挑战",
-      "summary": "人工智能正在重塑经济，但对其就业影响和生产力提升的测量存在困难，导致数据常出现矛盾。这凸显了理解AI对经济深层结构影响的复杂性。",
+      "title": "BBC调查发现Instagram在印度投放儿童性虐待材料广告，引发平台治理担忧",
+      "summary": "英国广播公司（BBC）的一项调查揭示，Instagram在印度被发现投放推广儿童性虐待材料的广告，这些广告使用了“强奸”和“儿童视频”等词汇，并链接到即时通讯应用Telegram上的相关内容。这一发现再次凸显了主要科技平台在内容审核和广告政策执行上的严重漏洞与风险。对于投资者而言，此类事件可能引发监管机构更严格的审查和潜在的巨额罚款，对Instagram母公司Meta的声誉和业务运营构成重大风险。",
       "sources": [
         {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html"
-        }
-      ]
-    },
-    {
-      "title": "数据中心在热浪中被要求使用备用电源",
-      "summary": "面对美国大部分地区的三位数高温，电网管理部门命令数据中心使用备用电源以缓解电网压力。这暴露了人工智能快速发展对能源基础设施日益增长的需求和潜在的电力供应挑战。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html"
-        }
-      ]
-    },
-    {
-      "title": "美光科技在AI芯片热潮中崛起",
-      "summary": "曾被视为“非主流”业务的存储芯片如今在AI热潮中扮演核心角色，美光科技凭借其在内存芯片领域的优势，成为AI发展的重要推动者，吸引了市场大量关注。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/micron-was-started-by-a-few-guys-in-an-idaho-basement-how-it-rose-to-be-at-the-center-of-the-ai-boom-c06ee78a?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "传Anthropic与三星达成交易引韩国股市波动",
-      "summary": "有报道称AI公司Anthropic与三星达成协议，引发了韩国股市的剧烈波动，尤其是在AI板块。这一事件凸显了全球科技巨头在AI领域的战略合作对区域市场和相关股票的巨大影响力。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/a-week-of-wild-volatility-for-korean-stocks-brought-to-a-rousing-finale-by-reports-of-anthropic-samsung-deal-b69f32c5?mod=mw_rss_topstories"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "研究机构因AI预期落空和收益率上升调低美股评级",
-      "summary": "宏观研究机构MacroResearchBoard警告，未来12个月内美国股市将面临AI“失望潮”和收益率上升的双重考验，因此建议投资者减持美股。这反映出市场对当前AI泡沫和高估值存在担忧。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/a-looming-ai-disappointment-and-rising-yields-why-one-research-firm-is-hitting-the-brakes-on-u-s-stocks-4bfaa67b?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "史上最热股市往往导致最大损失",
-      "summary": "一项长期研究表明，投资者过度热情往往会催生历史上最严重的财富毁灭案例。这一洞察提醒投资者，追逐短期热门市场可能伴随着巨大的风险，需警惕市场泡沫。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/03/business/stocks-investing-markets.html"
-        }
-      ]
-    },
-    {
-      "title": "Rivian上调交付展望，Lucid二季度交付不及预期",
-      "summary": "电动汽车制造商Rivian将其2026年交付预期上调至6.5万至7万辆，表现强劲；而其竞争对手Lucid的二季度交付量则未能达到华尔街预期。这反映了电动汽车市场内部竞争格局的分化。",
+      "title": "电动汽车市场分化：Rivian上调交付预期，Lucid未达华尔街预期",
+      "summary": "电动汽车制造商Rivian将其2026年交付展望上调至65,000至70,000辆，显示出其在市场竞争中的积极态势。然而，另一家豪华电动车品牌Lucid的第二季度交付量却未能达到华尔街预期。这表明电动汽车市场正在经历分化，投资者在评估相关公司时，需更细致地分析各品牌的生产能力、市场需求和运营效率，而非仅关注行业整体增长。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -267,8 +161,8 @@
       ]
     },
     {
-      "title": "福特第二季度销量下滑，受供应商问题和电动车需求影响",
-      "summary": "福特汽车公布第二季度销量同比下降10.3%，主要原因是F系列皮卡面临供应商问题，以及电动汽车（EV）销量下降40.7%。这表明传统汽车巨头在转型电动化过程中面临供应链和市场需求挑战。",
+      "title": "福特第二季度销量下滑，受困于供应链问题及电动车需求疲软",
+      "summary": "福特汽车公布其第二季度销量同比下降10.3%，主要受F系列卡车供应商问题和电动车需求下滑的双重影响。其中，电动车销量下降40.7%，F系列卡车销量下降11%。这一表现反映了传统车企在转型电动化过程中面临的挑战，以及供应链管理的重要性。投资者应关注福特如何解决这些运营障碍，以及其电动车战略的调整。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -277,12 +171,32 @@
       ]
     },
     {
-      "title": "三明治连锁店Jersey Mike's提交IPO申请",
-      "summary": "美国第二大三明治连锁店Jersey Mike's已提交首次公开募股（IPO）申请，并报告了近年可比店面销售额50%的增长。此举显示其扩张野心，并为投资者提供了新的消费股选择。",
+      "title": "快餐连锁Jersey Mike's提交IPO申请，拟上市扩大版图",
+      "summary": "三明治连锁店Jersey Mike's已提交首次公开募股（IPO）申请。该公司近年来实现了50%的同店销售额增长，目前拥有近3,300家门店，是美国第二大潜艇三明治连锁。此次IPO旨在通过资本市场融资，进一步加速其扩张步伐，并与市场领导者如Subway竞争。投资者可关注其招股书，评估其增长潜力及快餐行业的投资机会。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html"
+        }
+      ]
+    },
+    {
+      "title": "长期研究警示：最热门股市往往带来最大亏损",
+      "summary": "一项长达百年的研究显示，投资者热情高涨、市场最火爆的时期，往往最终导致了历史上最严重的财富损失。这提醒投资者，市场情绪的过热和盲目追逐热门资产可能带来巨大风险，而非可持续收益。对于高净值投资者而言，保持理性、避免从众心理，并在市场狂热时审慎布局，是长期财富保值增值的关键。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/03/business/stocks-investing-markets.html"
+        }
+      ]
+    },
+    {
+      "title": "Citadel对冲基金上半年表现强劲，策略成功规避量化抛售",
+      "summary": "Citadel的对冲基金在今年上半年取得了广泛收益，其核心战术交易基金（结合自主股票投资与量化策略）截至6月底攀升了14.3%。值得注意的是，该基金成功规避了量化策略近期的抛售潮，显示出其风险管理和投资策略的有效性。这对于关注顶级对冲基金表现和市场策略的投资者而言，揭示了在复杂市场环境下，灵活的多元策略可能带来的超额收益。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/02/citadels-hedge-funds-post-broad-first-half-gains.html"
         }
       ]
     }
@@ -290,64 +204,40 @@
   "a_stocks": [],
   "business": [
     {
-      "title": "蛋农因价格操纵联邦诉讼达成和解",
-      "summary": "几家蛋品生产商同意支付330万美元，并捐赠超过5300万枚鸡蛋，以解决联邦政府提起的反垄断价格操纵诉讼。此案凸显了监管机构对食品行业不公平竞争行为的持续关注。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/02/business/egg-price-fixing-settlement-lawsuit.html"
-        }
-      ]
-    },
-    {
-      "title": "银行仍收取高额透支费引发争议",
-      "summary": "尽管国会去年取消了对银行透支费上限的规定，但一些银行仍在收取高额透支费，导致其相关收入上升。这引发了对消费者保护和银行盈利模式的讨论，监管压力可能随之而来。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/03/your-money/banks-overdraft-fees.html"
-        }
-      ]
-    },
-    {
-      "title": "福特CEO致力于实现新车完美发布，并呼吁贸易公平",
-      "summary": "福特CEO吉姆·法利表示，公司已从过去的质量和召回问题中吸取教训，将目标定为新车发布零缺陷。同时，他呼吁在USMCA（美墨加协定）贸易谈判重开时，美国汽车制造商能与丰田、通用等进口商获得公平竞争环境。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html"
-        },
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/02/ford-jim-farley-usmca.html"
-        }
-      ]
-    },
-    {
-      "title": "曼哈顿豪宅销售保持坚挺，未受新税影响",
-      "summary": "尽管纽约市通过了针对第二套住房的新税收政策，但曼哈顿的豪华房地产销售在一个月后依然保持强劲。经纪人和分析师认为，这表明高端市场对政策变化的抵抗力较强，或初期影响有限。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/03/manhattan-luxury-real-estate-sales-mamdani.html"
-        }
-      ]
-    },
-    {
-      "title": "全球航运枢纽地缘政治差异显著",
-      "summary": "马六甲海峡和霍尔木兹海峡虽然都是重要的全球航运咽喉，但两者的地缘政治和经济特征存在巨大差异，马六甲的收费模式难以直接复制到霍尔木兹。这提示投资者在评估航运风险时需进行细致的区域分析。",
+      "title": "全球航运瓶颈：马六甲海峡模式与霍尔木兹海峡的差异分析",
+      "summary": "《纽约时报》分析指出，虽然马六甲海峡的运营模式可能为阿曼和伊朗在霍尔木兹海峡征收费用提供参考，但这两个关键航道在地理、政治和经济层面上存在巨大差异。霍尔木兹海峡是全球石油运输的咽喉，任何通行费或安全威胁都可能对全球能源市场产生剧烈影响，远超马六甲海峡。投资者应关注地缘政治紧张局势对关键航道的影响，及其可能带来的能源价格波动和全球供应链风险。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/07/03/business/strait-malacca-hormuz.html"
         }
       ]
+    },
+    {
+      "title": "企业赞助“特朗普账户”活动引发对政治影响力的关注",
+      "summary": "随着“美国独立250周年”庆祝活动的临近，包括波音、洛克希德马丁和甲骨文在内的多家与联邦政府存在业务往来的企业，正积极赞助一项与特朗普政府相关的“自由250”活动。这引发了市场对企业通过政治献金或赞助以获取政府青睐和影响力的关注。对于投资者而言，这揭示了美国商业环境中政治与经济交织的复杂性，以及企业在重大政策或合同决策前可能采取的策略。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html"
+        }
+      ]
+    },
+    {
+      "title": "福特CEO呼吁美墨加贸易谈判中与亚洲制造商公平竞争",
+      "summary": "福特汽车CEO吉姆·法利（Jim Farley）呼吁在美墨加协定（USMCA）贸易谈判重新启动时，为福特等美国制造商争取与丰田、通用汽车等进口车企的公平竞争环境。法利指出，福特去年在美国生产了超过200万辆汽车，超过其他任何汽车制造商。这一表态凸显了美国汽车业对贸易政策的关注，以及希望通过政策支持提升本土制造业竞争力的诉求。投资者应关注贸易谈判进展对汽车行业成本结构和市场份额的影响。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/02/ford-jim-farley-usmca.html"
+        }
+      ]
     }
   ],
   "overlooked": [
     {
-      "title": "英国经济长期结构性衰退警报",
-      "summary": "泰勒·科文引用文章，指出英国经济正陷入类似于美国密西西比州的贫困状态，公共服务效率低下，国民经济活力下降。这种长期结构性衰退而非短期波动，对寻求全球资产配置的投资者来说是一个重要的警示。",
+      "title": "《大西洋月刊》描绘英国经济衰退的生动图景",
+      "summary": "《大西洋月刊》的一篇文章以生动细节描绘了英国经济的衰退现状，例如国民医疗服务体系（NHS）在处理产科医疗事故赔偿上的开支甚至超过了实际的产科护理费用，许多英国民众难以获得医生预约。这些具体案例揭示了英国公共服务效率低下和基础设施投资不足的深层结构性问题，对投资者而言，这意味着英国经济的长期增长潜力可能受到侵蚀，需审慎评估其市场风险。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -356,22 +246,26 @@
       ]
     },
     {
-      "title": "AI与生育危机：对未来社会结构的深远影响",
-      "summary": "经济学家泰勒·科文探讨了AI技术进步与全球生育率下降之间的潜在互动。他预测，随着人口减少，AI将承担更多社会功能，而人类个体则可能因稀缺性而更受关注。这揭示了长期的人口结构变化与技术发展共同重塑未来社会及经济模式的趋势。",
+      "title": "“特朗普账户”的投资限制与风险：只能投资美股",
+      "summary": "新的“特朗普账户”规定，投资者不能配置债券和国际股票，这意味着将儿童的财务未来完全押注于美国股市。尽管芯片制造商美光（Micron）向该账户捐赠了2.5亿美元，且已有超过600万儿童注册，但其投资范围的限制引发了对资产多元化和风险管理的担忧。投资者应认识到这种单一资产配置策略的潜在风险，特别是在市场波动性加剧时可能导致的财富集中式损失。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/how-will-ai-and-the-fertility-crisis-interact.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories"
+        },
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html"
         }
       ]
     },
     {
-      "title": "租金管制政策的长期负面效应研究",
-      "summary": "泰勒·科文的新网站揭示了租金管制政策的“天花板陷阱”，引用挪威废除租金管制后的数据，表明此类政策可能导致长期住房供应不足和市场扭曲。这一观点挑战了传统认知，对关注房地产市场和城市发展的投资者具有参考意义。",
+      "title": "纽约市豪华房产销售坚挺，新税影响有限",
+      "summary": "尽管纽约市针对第二套住房出台了新税，但曼哈顿的豪华房地产销售在一个月后依然保持强劲。地产经纪人和分析师指出，市场并未出现预期中的“马姆达尼效应”（Mamdani effect，指新税对市场造成冲击）。这一现象表明，在某些高端市场，富裕买家对税收政策的敏感度可能低于预期，或市场需求韧性较强。投资者在评估房地产市场时，需具体分析不同细分市场的抗压性和财富效应。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/rent-control-the-ceiling-trap.html"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/03/manhattan-luxury-real-estate-sales-mamdani.html"
         }
       ]
     }
