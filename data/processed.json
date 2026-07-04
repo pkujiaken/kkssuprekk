@@ -1,72 +1,61 @@
 {
   "top5": [
     {
-      "title": "中国电动汽车巨头比亚迪超越特斯拉重夺全球销量冠军",
-      "summary": "中国电动汽车制造商比亚迪再次超越特斯拉，成为全球最大的电池电动汽车生产商。尽管比亚迪出货量同比下降8.2%，但其海外销量激增推动了整体增长，这标志着中国电动汽车在全球市场影响力日益增强。对于投资者而言，这凸显了全球电动汽车市场竞争的白热化以及中国品牌在全球供应链和技术创新方面的崛起，对特斯拉等现有巨头构成挑战。",
+      "title": "中国自动驾驶公司Momenta香港IPO获巨额超额认购",
+      "summary": "中国自动驾驶初创公司Momenta在香港的首次公开募股（IPO）获得414倍超额认购，吸引了近21万份申请，募集资金达58.9亿港元。这表明投资者对中国人工智能和自动驾驶领域的兴趣依然浓厚，即使在多个IPO同期进行的情况下，市场对优质科技股仍有强劲需求。该事件显示出全球资本对中国高科技成长型企业的持续追捧，尤其是在AI和未来出行等战略性领域，对港股和A股相关板块形成积极信号。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3359287/chinas-byd-surpasses-tesla-regain-lead-global-ev-race"
+          "url": "https://www.scmp.com/business/article/3359360/chinas-momenta-ipo-oversubscribed-414-times-hong-kong-listings-pack-calendar"
         }
       ]
     },
     {
-      "title": "英伟达CEO黄仁勋看好万亿美元机器人市场潜力",
-      "summary": "英伟达首席执行官黄仁勋表示，人形机器人是一个“万亿美元的经济机会”。这一言论表明，AI和半导体巨头正将机器人技术视为其下一个主要增长领域，预示着AI计算能力将从数据中心和边缘设备进一步拓展到实体世界。对投资者而言，这揭示了AI浪潮的下一个投资热点，不仅限于传统AI芯片，更延伸至更广阔的机器人硬件和软件生态系统。",
+      "title": "特朗普相关加密货币投资者损失38亿美元",
+      "summary": "一份加密货币分析报告显示，近一百万投资者在特朗普主题的Memecoin上总计损失了38亿美元。报告指出，大部分散户投资者蒙受亏损，而专业的交易者表现较好。这揭示了加密货币市场的极端波动性和高风险性，尤其对于散户而言。政治题材的代币往往带有高度投机性质，且市场缺乏有效监管，投资者需警惕。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/04/us/politics/nearly-a-million-investors-lost-a-total-of-3-8-billion-on-trump-crypto-coin.html"
+        }
+      ]
+    },
+    {
+      "title": "泰勒·考恩：AI正加速科学探索进程，降低研究成本",
+      "summary": "著名经济学家泰勒·考恩指出，AI创新极大地降低了初步探索的成本，使科学家能够将原来需要数周的研究工作在数小时内完成。这种“探索成本崩溃”不仅是简单的时间加速，更是对科学家研究意愿和研究深度的深刻影响。考恩的观点强调了AI对科研范式和创新周期的结构性改变，这将加速新技术的诞生和产业化，对科技投资和长期经济增长具有深远意义。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/a-scientific-benefit-and-cost-of-ai-innovation.html"
+        }
+      ]
+    },
+    {
+      "title": "英伟达押注万亿美元机器人市场，视为下一个增长支柱",
+      "summary": "英伟达CEO黄仁勋表示，人形机器人将带来“数万亿美元的经济机会”，公司正大力投资这一领域。此举显示英伟达不仅专注于AI芯片，更将机器人技术视为其未来增长的下一个重大战略支点。这表明全球科技巨头正在将AI技术与物理世界深度融合，开启机器人时代的巨大市场潜力。对于投资者而言，这意味着AI硬件和软件的需求将从数据中心扩展到更广泛的实体应用，为相关供应链带来机会。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e"
         }
       ]
     },
     {
-      "title": "花旗集团CEO弗雷泽对中美峰会结果表示乐观",
-      "summary": "花旗集团全球CEO简·弗雷泽（Jane Fraser）在中美峰会后表示感到乐观。她作为受邀参加此次北京访问的17位美国商界领袖之一，其感受反映了大型金融机构对全球两大经济体之间关系走向的看法。这对于关注地缘政治风险和跨境投资的投资者而言至关重要，预示着中美关系可能存在缓和甚至合作的窗口，从而影响全球贸易和资本流动。",
+      "title": "花旗CEO对中美关系前景表示乐观，商业信心或回暖",
+      "summary": "花旗集团全球CEO简·弗雷泽在参加美中峰会后对两国关系前景表示乐观。她认为此次北京之行不仅仅是简单的会面，更传递了积极的信号。在全球地缘政治紧张背景下，顶级跨国企业CEO对中美关系释放的乐观信号，可能预示着两国商业往来和资本流动的潜在缓和，对全球贸易和投资信心具有积极影响。",
       "sources": [
         {
           "name": "SCMP Business",
           "url": "https://www.scmp.com/business/banking-finance/article/3359326/why-citigroup-ceo-jane-fraser-left-us-china-summit-feeling-optimistic"
         }
       ]
-    },
-    {
-      "title": "研究显示出生率下降与人均收入增长相关，挑战传统观念",
-      "summary": "一项研究指出，过去七十年全球出生率的持续下降，虽然导致人口增长放缓和平均年龄上升，但却与工作年龄人口人均GDP的更高增长相关。这与普遍认为生育率下降会阻碍经济增长的预期相悖。对于宏观投资者来说，这一发现提供了重新评估人口结构变化对经济影响的视角，可能意味着在人口老龄化的经济体中，劳动生产率的提升和资本积累效应将更加显著，影响长期增长预期和资产配置策略。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/do-falling-birth-rates-boost-per-capita-income.html"
-        }
-      ]
-    },
-    {
-      "title": "英国经济持续衰退，与美国密西西比州人均收入水平相当",
-      "summary": "《大西洋月刊》报道称，英国经济持续衰退，其人均收入水平已接近美国密西西比州。文章以国民医疗服务体系（NHS）在产科纠纷赔偿上的开支超过实际产科服务为例，描绘了一个结构性衰退的国家图景。对于全球投资者而言，这不仅是G7国家经济困境的警示，也促使人们反思成熟经济体面临的增长挑战、公共服务效率以及由此带来的长期投资机会和风险，尤其是在欧洲市场。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/how-britain-became-as-poor-as-mississippi.html"
-        }
-      ]
     }
   ],
   "people": [
     {
-      "name": "Jensen Huang",
-      "title": "英伟达CEO黄仁勋认为人形机器人是下一个万亿级市场",
-      "summary": "观点：英伟达CEO黄仁勋强调，人形机器人是一个“万亿美元的经济机会”。这一声明表明，英伟达正将AI和半导体技术拓展到实体机器人领域，预计将带来巨大的市场增长，这对于关注AI硬件和未来计算平台投资的专业人士而言具有前瞻性。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "name": "Tyler Cowen",
-      "title": "AI创新加速科学探索，并与生育率危机相互作用",
-      "summary": "观点：经济学家Tyler Cowen指出，AI创新极大地降低了初步探索的成本，使研究人员能够更快地验证想法，加速科学发现进程。他还在另一篇专栏中探讨了AI如何与生育率危机相互作用，认为AI的普及可能导致公共空间变得更空旷，人际互动更受重视。这些观点为投资者提供了思考AI技术对生产力提升和长期社会结构变革的深远影响。",
+      "name": "Tyler Cowen (经济学家)",
+      "title": "AI加速科学探索，并探讨其与生育率危机的互动",
+      "summary": "观点：人工智能创新极大地加速了科学探索过程，使初步研究的成本大幅降低，将数周的工作缩短到数小时。考恩认为AI带来的“探索成本崩溃”正在改变科研范式，对未来创新至关重要。同时，他还预测AI将与生育率下降共同重塑社会结构，例如公共空间变空，人际互动更受重视。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -79,9 +68,9 @@
       ]
     },
     {
-      "name": "Jane Fraser",
-      "title": "花旗集团CEO弗雷泽对中美关系前景持乐观态度",
-      "summary": "观点：花旗集团全球CEO简·弗雷泽在参加中美峰会后表示乐观。她的态度反映了美国金融界对两国关系趋于稳定的期待，对于全球资本市场和跨国企业的运营具有重要指导意义，投资者可以从中捕捉到潜在的风险缓释和合作机会。",
+      "name": "Jane Fraser (花旗集团CEO)",
+      "title": "对中美关系峰会成果持乐观态度",
+      "summary": "观点：弗雷泽在参加美中峰会后对两国关系前景表示乐观，认为此行不仅是简单的会面，更传递了积极的信号。她的积极评估对于在全球范围内运营的金融机构及其客户来说，意味着更稳定的预期和潜在的商业机会。",
       "sources": [
         {
           "name": "SCMP Business",
@@ -90,74 +79,53 @@
       ]
     },
     {
-      "name": "Yan LeCun",
-      "title": "Meta首席AI科学家颜乐康称当前AI“不够智能”，探索更灵活系统",
-      "summary": "观点：Meta首席AI科学家颜乐康（Yan LeCun）认为当前的AI技术“不够智能”，并正在开发一种更灵活的AI系统。他的这一看法挑战了对当前AI能力过于乐观的预期，强调了AI研究和发展仍面临的根本性挑战。对投资者而言，这提示了AI技术发展路径的不确定性，以及下一代AI系统可能带来的新投资机遇和竞争格局变化。",
+      "name": "Jensen Huang (英伟达CEO)",
+      "title": "人形机器人市场价值数万亿美元",
+      "summary": "原话：「人形机器人是一个数万亿美元的经济机会。」黄仁勋此言强调人形机器人是英伟达继AI芯片之后的下一个核心增长点，预示着AI技术在实体经济应用中的巨大潜力和市场规模。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "name": "Ben Carlson",
-      "title": "就百万美元的价值在通胀环境下的变化发表评论",
-      "summary": "观点：著名金融博主和投资专业人士Ben Carlson撰文探讨了“一百万美元的价值究竟几何”。在当前通胀和财富积累的背景下，他分析了不同时代一百万美元所代表的购买力和社会意义的变化。他的观点提醒投资者，应关注通胀对长期财富保值增值的影响，并重新审视传统财富目标的实际购买力。",
-      "sources": [
-        {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/07/how-much-is-one-million-dollars-worth/"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "英国工党领袖就税收政策表态，或有调整空间",
-      "summary": "英国工党领袖、潜在的下一任首相安迪·伯纳姆（Andy Burnham）表示，税收方面存在一定的调整空间，但他将坚守工党不提高增值税、所得税或国民保险的承诺。这一表态为市场提供了对未来英国财政政策走向的初步信号，对于评估英国宏观经济前景和英镑走势的投资者至关重要。",
+      "title": "全球生育率下降可能推高人均收入",
+      "summary": "一项研究发现，过去七十年全球生育率的持续下降虽减缓了人口增长并提高了平均年龄，但它与工作年龄人口人均GDP的更高增长相关。这与普遍认为生育率下降会阻碍经济增长的观点相悖。这一发现挑战了传统人口经济学的某些假设，为理解人口结构变化对经济增长的复杂影响提供了新视角，可能影响各国的人口政策和长期经济规划。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/do-falling-birth-rates-boost-per-capita-income.html"
         }
       ]
     },
     {
-      "title": "美国牛肉进口量创纪录，但物价高企引发通胀担忧",
-      "summary": "尽管美国牛肉进口量创下历史新高，但美国民众在独立日烧烤季仍面临高昂的牛肉价格。这表明仅靠增加进口可能不足以缓解通胀压力，供应链、劳动力成本和国内需求等因素仍在推高物价。对投资者而言，这凸显了通胀的复杂性和持续性，可能影响美联储的货币政策决策和消费者支出模式。",
+      "title": "英国经济衰退加剧，被比作美国密西西比州",
+      "summary": "《大西洋月刊》的一篇文章指出，英国正经历经济衰退，国民医疗服务系统在处理产科医疗事故索赔上的花费已超过实际产科护理费用，许多人难以预约医生，且城市缺乏活力。这篇文章对英国经济困境的深刻剖析，揭示了公共服务效率低下和社会活力减退等结构性问题，对评估英国的投资环境和经济前景提供了悲观的参考。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/how-britain-became-as-poor-as-mississippi.html"
+        }
+      ]
+    },
+    {
+      "title": "美国牛肉进口创纪录，但价格依然高企加剧通胀",
+      "summary": "尽管美国牛肉进口量创下历史新高，但美国消费者在“独立日”烧烤季依然面临高昂的牛肉价格。华盛顿通过增加进口来降低成本的策略似乎未能有效控制物价。这反映出全球供应链、生产成本以及国内需求等多重因素复杂交织，导致大宗商品价格居高不下，加剧了通胀压力，对消费者购买力和美联储的货币政策构成挑战。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/your-fourth-of-july-hamburger-meat-was-likely-imported-and-you-re-right-to-have-a-beef-with-that-c25d7c31?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "纽约曼哈顿豪宅销售保持强劲，未受新税政策影响",
-      "summary": "在纽约市通过对第二套住房征税的政策一个月后，曼哈顿的豪华房地产销售依然保持强劲。经纪人和分析师指出，尽管市场曾担忧“马姆达尼效应”，但高端房产需求依然旺盛。这对于关注全球主要城市房地产市场动态的投资者而言，表明超高净值资产的流动性及韧性，以及特定税收政策对不同市场层级影响的差异性。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/03/manhattan-luxury-real-estate-sales-mamdani.html"
-        }
-      ]
-    },
-    {
-      "title": "历史研究表明最热门股市往往伴随最大损失",
-      "summary": "一项长期研究显示，投资者狂热情绪达到顶峰时，往往会带来过去100年中最严重的财富毁灭。这一观点提醒投资者在市场极度乐观时保持警惕，避免盲目追逐热门资产。对于高净值投资者而言，理解历史周期和行为金融学的重要性，有助于在牛市泡沫中保护资产，并在市场调整时发现被低估的机会。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/03/business/stocks-investing-markets.html"
+          "url": "https://www.marketwatch.com/story/your-fourth-of-july-hamburger-meat-was-likely-imported-and-youre-right-to-have-a-beef-with-that-c25d7c31"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "计算性能单位成本持续下降，加速技术进步",
-      "summary": "有文章指出，随着技术进步，单位成本的计算性能正变得越来越快和便宜。这一趋势是人工智能、云计算及其他高科技领域快速发展的基础。对于科技投资者而言，这意味着计算成本的降低将持续推动创新，降低新技术的准入门槛，并可能导致新的商业模式和市场领导者的出现。",
+      "title": "AI模型性能与成本效益持续提升",
+      "summary": "Wafer.ai发布的博客文章指出，AI芯片的“每美元性能”正在变得更快更便宜。例如，AMD的GLM52芯片在某些工作负载下的表现优于英伟达的H100，显示出芯片厂商在提升AI计算效率方面的竞争。计算效率的提升是AI技术普及和成本降低的关键驱动因素，预示着AI应用将更广泛、更经济。这对于云服务提供商、AI初创企业以及整个AI生态系统都具有深远影响。",
       "sources": [
         {
           "name": "Hacker News Top",
@@ -166,104 +134,94 @@
       ]
     },
     {
-      "title": "印度初创公司接近首次火箭发射，全球太空竞赛加剧",
-      "summary": "印度一家初创公司即将进行首次火箭发射，而SpaceX也实现了其里程碑。这标志着全球商业航天领域的持续扩张和竞争加剧。对科技和风险投资领域的投资者而言，太空经济正成为一个高增长的市场，不仅限于大型国家项目，初创公司的崛起也带来新的投资机会和行业格局的变化。",
+      "title": "Mistral AI发布新版本Leanstral 1.5，强调“证据丰度”",
+      "summary": "法国人工智能公司Mistral AI发布了其最新模型Leanstral 1.5，宣称旨在实现“人人享有证据丰度（Proof abundance for all）”。这表明Mistral在推动AI模型的可验证性、透明度和可靠性方面迈出新步伐。AI模型的“可信度”和“透明度”是其广泛应用的关键。Mistral的新版本可能在提升AI的解释性和减少幻觉方面有所突破，这对于企业级应用和关键决策领域至关重要。",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/"
+          "name": "Hacker News Top",
+          "url": "https://mistral.ai/news/leanstral-1-5/"
         }
       ]
     },
     {
-      "title": "新型macOS恶意软件PamStealer利用隐蔽技术窃取信息",
-      "summary": "新发现的macOS恶意软件PamStealer正在利用巧妙的隐蔽技术窃取用户信息。这一发现凸显了针对Mac平台的网络攻击日益复杂和专业化。对于企业和个人投资者而言，这警示了网络安全风险的普遍性，尤其是在日益依赖数字资产的环境中，对网络安全公司的投资和加强自身数据保护变得愈发重要。",
+      "title": "英伟达将万亿美元机器人市场作为AI核心战略",
+      "summary": "英伟达CEO黄仁勋表示，人形机器人市场将是“数万亿美元的经济机会”，公司正积极布局，将机器人技术视为AI发展的核心战略方向。此战略方向确认了英伟达不仅是AI芯片供应商，更是AI和机器人融合的平台提供者，预示着AI技术在实体经济应用中的巨大潜力和对未来科技生态的深远影响。",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/"
-        }
-      ]
-    },
-    {
-      "title": "Instagram在印度被发现推广儿童性虐待内容广告",
-      "summary": "BBC调查发现，Instagram在印度运行的广告中，包含推广儿童性虐待材料的内容，并链接至Telegram上的相关群组。这一事件对Meta旗下的Instagram平台提出了严重的社会责任和内容审查挑战。对于投资者而言，此类事件可能引发监管审查、品牌声誉受损和用户流失，进而影响公司估值和长期增长潜力，凸显了大型科技公司在内容治理方面的巨大风险。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "“特朗普账户”面临风险：投资组合强制仅限美股",
-      "summary": "针对儿童推出的“特朗普账户”将在7月4日开放供款，但其规定禁止投资债券和国际股票，强制将儿童的金融未来全部押注于美国股市。MarketWatch指出，这一规定带来的集中风险值得关注。对于寻求多元化投资和风险管理的投资者而言，理解这类产品潜在的局限性至关重要，它可能在特定市场条件下导致投资表现的剧烈波动。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "福特汽车实现质量里程碑，CEO瞄准新车完美发布",
-      "summary": "福特汽车公司首席执行官吉姆·法利（Jim Farley）表示，福特已经从过去的质量和召回问题中吸取教训，并实现了质量里程碑，目标是未来新车发布实现零缺陷。法利的表态反映了福特在提升运营效率和品牌声誉方面的决心。对于投资者而言，公司质量的改善有望降低召回成本，提升客户满意度，从而对福特未来的盈利能力和市场竞争力产生积极影响。",
+      "title": "福特汽车在质量方面取得里程碑式进展，CEO目标完美无瑕新车发布",
+      "summary": "福特汽车CEO吉姆·法利向CNBC表示，公司已从过去的质量问题和召回事件中吸取教训，并在新车型发布质量上设定了“完美无瑕”的目标，目前已取得重要里程碑。产品质量是汽车制造商盈利能力和品牌声誉的核心。福特在质量上的改善将有助于其降低成本、提升客户满意度，并可能对其股价和市场竞争力产生积极影响。",
       "sources": [
         {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launch.html"
+          "url": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html"
         }
       ]
     },
     {
-      "title": "城堡基金上半年业绩表现强劲，策略成功规避量化抛售",
-      "summary": "对冲基金巨头城堡基金（Citadel）报告上半年取得广泛收益，其策略性交易基金在6月底前上涨14.3%，成功避开了量化交易抛售潮。这表明，在当前复杂的市场环境下，城堡基金的投资策略（结合自由裁量股权投资和量化策略）展现出较强的韧性和超额收益能力。对于高净值投资者而言，这提供了对冲基金在市场波动中如何实现阿尔法收益的最新案例，并可能影响其对各类投资策略的偏好。",
+      "title": "“MANGOS”AI股涨势趋缓引发市场关注",
+      "summary": "华尔街热衷于为热门科技股创造新缩略词，“MANGOS”指代Meta、Anthropic、Nvidia等几家处于人工智能热潮中心的公司。但市场开始担忧这些AI领军企业的股价是否已过热，涨势可能放缓。这反映了市场对AI概念股估值的谨慎情绪。投资者开始审视这些公司的基本面和长期增长潜力，而非仅仅追逐短期热点，预示着AI板块可能面临调整或分化。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/02/citadels-hedge-funds-post-broad-first-half-gains.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html"
+        }
+      ]
+    },
+    {
+      "title": "英伟达机器人业务被视为潜在投资新机会",
+      "summary": "英伟达CEO黄仁勋称人形机器人是“数万亿美元的经济机会”，公司正积极布局，此方向被分析师视为投资英伟达未来增长的“隐藏”方式。对美股投资者而言，这揭示了英伟达除了数据中心业务外的新增长点，预示着基于其AI技术在机器人领域的长期投资价值。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e"
         }
       ]
     }
   ],
   "a_stocks": [
     {
-      "title": "中国自动驾驶初创公司Momenta香港IPO超额认购414倍",
-      "summary": "中国自动驾驶初创公司Momenta在香港的58.9亿港元（7.51亿美元）首次公开募股（IPO）获得了高达414倍的超额认购，吸引了近21万份申请。尽管同期有其他五个IPO项目竞争，Momenta的强劲表现仍显示出投资者对中国科技板块，尤其是自动驾驶前沿领域的浓厚兴趣。这对于关注中国新经济增长点和香港作为国际融资中心的投资者而言，是市场活力的积极信号。",
+      "title": "香港地产市场复苏关键在于土地供应审慎",
+      "summary": "分析师认为，随着香港推进北部都会区开发，政府在土地出让方面应采取谨慎态度，以维持近期住宅物业市场的复苏态势。政府已为洪水桥/厦村新发展区的多块地块设定了投标截止日期。土地供应政策直接影响香港房地产市场的供需平衡和价格走势。政府的审慎态度有助于稳定市场预期，避免过度供应导致价格下行，对开发商和地产股表现至关重要。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/article/3359360/chinas-momenta-ipo-oversubscribed-414-times-hong-kong-listings-pack-calendar"
-        }
-      ]
-    },
-    {
-      "title": "香港特区政府土地招标谨慎，被视为楼市复苏关键",
-      "summary": "分析师认为，随着香港推进北部都会区开发项目，政府在土地招标上采取谨慎态度是维持近期住宅物业市场复苏的关键。目前，洪福/厦村新发展区的多块土地已设定招标截止日期。对于关注香港房地产市场的投资者而言，政府的土地供应策略将直接影响市场供需平衡和价格走势，尤其是在当前市场信心逐步恢复的关键时期。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/article/3359372/caution-land-tenders-key-hong-kongs-property-recovery-analysts?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/article/3359372/caution-land-tenders-key-hong-kongs-property-recovery-analysts"
         }
       ]
     }
   ],
   "business": [
     {
-      "title": "全球航运瓶颈分析：马六甲海峡模式难复制霍尔木兹海峡",
-      "summary": "《纽约时报》分析指出，尽管马六甲海峡可能为阿曼和伊朗如何在霍尔木兹海峡收取费用提供了一种模式，但这两条水道之间的差异巨大。这意味着一个地区的航运瓶颈管理模式，不一定能简单复制到另一个地缘政治复杂的区域。对于依赖全球供应链的跨国企业和投资者来说，这提示了在评估全球物流风险时，需要深入分析各关键航道的独特性及其地缘政治复杂性。",
+      "title": "美国银行高额透支费重现，收入随之回升",
+      "summary": "去年国会废除了一项限制银行收取透支费上限的规定后，美国多家银行的透支费收入正在上升。这使得银行能够继续对超出账户余额的消费收取高额费用。此举显示出金融监管政策的变化对银行盈利模式的直接影响。对于银行而言是收入增长点，但对于消费者特别是低收入群体则意味着更高的金融负担，可能引发新的消费者权益争议。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/03/business/strait-malacca-hormuz.html"
+          "url": "https://www.nytimes.com/2026/07/03/your-money/banks-overdraft-fees.html"
         }
       ]
     },
     {
-      "title": "Costco被誉为“反亚马逊”模式的典范",
-      "summary": "有观点认为，Costco通过其独特的会员制和精选商品策略，形成了一种“反亚马逊”的商业模式。这种模式专注于为会员提供高价值、低价格的购物体验，而非亚马逊式的无限选择和快速配送。对于商业投资者而言，Costco的成功案例提供了一种在电商巨头主导的市场中，通过差异化定位和会员忠诚度建立竞争优势的策略，值得深入研究。",
+      "title": "运通和摩根大通将高端休息室竞争延伸至机场外",
+      "summary": "美国运通和摩根大通等信用卡公司正将其奢侈休息室和专属福利的竞争从机场扩展到音乐节和体育赛事等场所，通常只面向高端卡持有人。这反映出高端信用卡市场竞争日益激烈，发卡机构正通过提供更广泛、更具吸引力的非航空旅行福利来增强客户忠诚度并吸引高净值客户。这揭示了消费者服务和体验升级的趋势。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html"
+        }
+      ]
+    },
+    {
+      "title": "Costco被誉为“反亚马逊”模式，零售策略获成功",
+      "summary": "一篇分析文章将Costco的商业模式描述为“反亚马逊”。Costco通过会员制、精选SKU和线下体验，与亚马逊的广品类、线上便捷形成对比，但在效率和客户忠诚度方面取得成功。这揭示了在电商巨头主导的市场中，差异化且以客户价值为核心的零售模式依然能够蓬勃发展。对于投资者来说，这提供了对传统零售业如何创新的重要洞察。",
       "sources": [
         {
           "name": "Hacker News Top",
@@ -272,34 +230,54 @@
       ]
     },
     {
-      "title": "“美国250周年自由庆典”吸引与特朗普政府有业务往来的企业赞助",
-      "summary": "与特朗普阵营相关的“美国250周年自由庆典”吸引了波音、洛克希德·马丁和甲骨文等与美国联邦政府有业务往来的企业赞助。这反映了企业在美国政治环境中寻求影响力和关系的普遍现象。对于投资者来说，此类赞助行为可能暗示着企业在特定政治周期中对政策走向的预期，以及潜在的政治风险和商业机会，需要密切关注政治与商业的交织。",
+      "title": "特朗普“自由250”活动吸引与政府有业务往来的企业赞助",
+      "summary": "波音、洛克希德·马丁和甲骨文等与联邦政府有业务往来的公司，正在赞助一项与特朗普阵营相关的“美国250周年”庆祝活动。此事件凸显了美国企业在政治活动中的影响力以及潜在的政治献金与商业利益之间的关联。对于投资者，这增加了对与政治周期紧密相关的公司进行尽职调查的复杂性。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html"
         }
       ]
+    },
+    {
+      "title": "曼哈顿豪华房地产销售保持坚挺，不受新税收影响",
+      "summary": "尽管纽约市通过了一项针对第二套住房征税的法案，引发了对“Mamdani效应”的担忧，但一个月后曼哈顿的豪华房地产销售依然强劲。经纪人和分析师表示市场保持稳定。这表明即使面对新的税收政策，顶级富豪对核心城市豪华资产的需求依然强劲，高端房地产市场可能对政策变化具有较强的韧性。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/03/manhattan-luxury-real-estate-sales-mamdani.html"
+        }
+      ]
     }
   ],
   "overlooked": [
     {
-      "title": "加密货币领域：最赚钱的投资者和公司揭示小众市场潜力",
-      "summary": "一份报告探讨了加密货币领域最赚钱的投资者和公司，揭示了数字资产市场中的高回报潜力及其特定的成功模式。尽管加密市场波动性大，但少数精通策略的参与者仍能获得巨大收益。对于寻求高风险高回报机会的另类资产投资者而言，这提供了一个审视小众但高增长市场如何运作的窗口，以及其中存在的独特投资策略。",
+      "title": "印度航天初创公司即将首次发射火箭",
+      "summary": "一份报告指出，一家印度航天初创公司即将进行首次火箭发射。印度航天初创公司的崛起预示着全球商业航天领域的竞争日益加剧，新兴市场国家在太空探索和卫星发射服务方面的能力正不断提升，可能改变现有市场格局并带来新的投资机会。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-most-profitable-crypto-investors-and-firms.html"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/"
         }
       ]
     },
     {
-      "title": "欧洲议会遭遇间谍活动，凸显地缘政治下的网络安全风险",
-      "summary": "有报道称，欧洲议会成员遭遇间谍软件攻击，包括调查间谍软件委员会的成员。这一事件凸显了在全球地缘政治紧张局势下，高级别机构和重要人物面临的网络安全威胁日益严峻。对于投资者而言，这不仅是地缘政治风险的延伸，也警示了网络攻击对关键基础设施、政府机构乃至企业运营可能造成的破坏性影响，促使重新评估网络安全作为投资组合中风险对冲的价值。",
+      "title": "活体器官移植突破：设备可“复活”捐赠者眼球",
+      "summary": "研究人员开发出一种设备，能够维持并“复活”已故捐赠者的眼球，使其在离体后仍能保持活性。这有望解决完整眼球移植术中器官快速退化的问题，使全眼移植成为可能。这是一项重大的生物医学突破，可能彻底改变眼科医疗和器官移植领域。它不仅能恢复失明者的视力，也为其他复杂器官的保存和移植提供了新的思路和市场前景。",
       "sources": [
         {
-          "name": "Hacker News Top",
-          "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/"
+          "name": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/"
+        }
+      ]
+    },
+    {
+      "title": "全球航运咽喉要道并非均可相互替代",
+      "summary": "分析指出，马六甲海峡可能成为阿曼和伊朗在霍尔木兹海峡收取费用的参考模型，但两个水域之间存在巨大差异，这意味着一个航运瓶颈的应对方案不一定适用于另一个。这强调了全球供应链中关键航运通道的独特性和脆弱性。地缘政治事件或贸易冲突可能对特定区域的航运造成不可预测的影响，投资者需认识到不同航运路径的风险异质性。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/03/business/strait-malacca-hormuz.html"
         }
       ]
     }
