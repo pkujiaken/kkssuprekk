@@ -1,8 +1,18 @@
 {
   "top5": [
     {
-      "title": "中国金融竞争力评级被官方机构下调",
-      "summary": "中国社会科学院发布报告，将中国在全球金融竞争力排名中下调一位至第五名，落后于美国、日本、英国和德国。这一罕见举动发生在北京致力于将国家建设成金融强国之际，凸显出中国在金融体系开放、市场化改革以及国际化进程中可能面临的深层结构性挑战，对国际投资者评估中国市场风险与机遇至关重要。",
+      "title": "伯克希尔哈撒韦重金押注美国房地产市场",
+      "summary": "沃伦·巴菲特领导的伯克希尔哈撒韦公司以68亿美元全现金收购美国房屋建筑商Taylor Morrison，这是该集团在住宅房地产领域的一项重大投资。分析师认为，此举将显著提振机构投资者对美国房地产市场的信心，并可能刺激海内外买家购房需求，对美国经济复苏具有积极意义。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/article/3359411/berkshire-hathaways-multibillion-dollar-buy-taylor-morrison-boost-us-housing-market?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "中国官方智库下调自身全球金融竞争力排名",
+      "summary": "尽管中国高层领导人强调要将中国建设成为金融强国，但中国社会科学院发布的报告却将中国在全球金融竞争力排名中下调一位至第五名，位列美国、日本、英国和德国之后。这一罕见的自降排名举动，凸显了中国在国际金融竞争中所面临的深层次挑战，以及其对金融体系改革的迫切性与复杂性。",
       "sources": [
         {
           "name": "SCMP Business",
@@ -11,28 +21,90 @@
       ]
     },
     {
-      "title": "特朗普加密模因币导致近百万散户投资者巨亏",
-      "summary": "一份加密货币分析报告显示，近百万投资者在特朗普主题的模因币上共计亏损38亿美元。报告指出，大部分散户投资者蒙受损失，而经验丰富的交易员则表现较好。这一事件不仅再次凸显了模因币等投机性资产的极高风险，也暴露了加密市场中信息不对称和市场操纵的潜在问题，对监管机构和投资者敲响警钟。",
+      "title": "OPEC+承诺增加石油产量，或因美伊和谈油价承压",
+      "summary": "尽管国际油价近期有所下跌，OPEC+（石油输出国组织及盟友）仍决定增加石油产量。这一决定可能反映了市场对美国与伊朗达成和谈、从而缓解原油供应压力的预期。OPEC+的增产将进一步影响全球能源市场的供需平衡，并在当前宏观经济和政治不确定性下，为油价走势带来新的变数，值得投资者密切关注。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html"
+          "url": "https://www.nytimes.com/2026/07/05/business/opec-production-iran-war.html"
         }
       ]
     },
     {
-      "title": "华尔街“MANGOS”人工智能股票涨势或趋缓",
-      "summary": "华尔街最新创造的AI巨头公司缩写“MANGOS”（Meta、Anthropic、Nvidia等）正面临其股价动能是否能持续的质疑。在经历了一轮爆炸性增长后，市场开始审视这些AI核心公司的估值和未来增长潜力。观点：这可能预示着AI板块的狂热情绪有所降温，投资者需警惕估值风险，并重新评估这些公司长期竞争优势和盈利能力。",
+      "title": "花旗CEO展望AI对银行业的双重变革竞赛",
+      "summary": "花旗银行首席执行官简·弗雷泽（Jane Fraser）指出，全球金融行业正经历由人工智能驱动的两场关键竞赛：一是通过提高生产力和降低风险来优化现有业务，二是创新并重塑商业模式和开发新产品。她强调AI将深刻影响银行业的未来，尽管会带来就业结构变化，但同时也将创造新的岗位，为金融机构的战略转型指明方向。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3359455/citi-ceo-says-2-ai-races-are-shaping-future-banking?utm_source=rss_feed"
         }
       ]
     },
     {
-      "title": "6月美国就业和通胀数据被指利好债券市场",
-      "summary": "有分析指出，6月发布的美国就业报告和通胀数据实际上比许多人普遍认为的更显疲软，这一解读为债券市场带来了看涨前景。观点：这可能意味着市场对美联储未来降息路径的预期将更加明确，从而推动债券价格上涨。对宏观经济前景的悲观评估将影响股票与固定收益资产的相对吸引力。",
+      "title": "美国车市结构性变化：混动车销量激增，电动车需求降温",
+      "summary": "混合动力汽车正成为美国汽车市场的“黑马”，销量持续强劲增长，而此前备受追捧的纯电动汽车需求却有所减弱。这一显著的消费者偏好转变，对汽车制造商的产品策略、供应链布局以及整个能源转型路径都产生了重要影响，预示着市场对传统燃油车和电动车之间的平衡点正在重新评估。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "name": "Warren Buffett",
+      "title": "伯克希尔哈撒韦重金押注美国房地产市场",
+      "summary": "观点：伯克希尔哈撒韦公司以68亿美元全现金收购房屋建筑商Taylor Morrison，是其在美国住宅房地产市场的又一重大押注，分析师认为此举将增强机构对该领域的信心，鼓励更多海内外买家购房。这标志着在现任CEO和总裁领导下的首次数十亿美元级收购。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/article/3359411/berkshire-hathaways-multibillion-dollar-buy-taylor-morrison-boost-us-housing-market?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "name": "Jane Fraser",
+      "title": "花旗CEO谈AI对银行业的双重变革与中美关系前景",
+      "summary": "原话：「目前AI领域有两场竞赛。一是提高生产力，降低风险。二是创新、重新构想业务模式和新产品。」观点：花旗CEO简·弗雷泽强调，金融业正经历AI驱动的生产力提升和业务模式创新双重竞赛，尽管AI可能导致部分工作岗位流失，但也会创造新职位。此外，她对近期中美峰会后中美关系前景表示乐观，认为对话有助于稳定预期。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3359455/citi-ceo-says-2-ai-races-are-shaping-future-banking?utm_source=rss_feed"
+        },
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3359326/why-citigroup-ceo-jane-fraser-left-the-us-china-summit-feeling-optimistic?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "name": "Tyler Cowen",
+      "title": "AI创新极大降低科学探索成本",
+      "summary": "观点：著名经济学家泰勒·科文指出，人工智能的创新极大地降低了初步科学探索的成本。他表示，过去可能需要数周才能完成的论证草稿、识别主要反驳并得出初步结论的过程，现在借助AI辅助，一个下午就能实现。这不仅是研究速度的提升，更深刻地改变了研究人员愿意尝试的范围和深度，加速了知识产出。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/a-scientific-benefit-and-cost-of-ai-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=a-scientific-benefit-and-cost-of-ai-innovation"
+        }
+      ]
+    },
+    {
+      "name": "Macquarie",
+      "title": "麦格理看好中国AI芯片股，建议买入",
+      "summary": "观点：投资机构麦格理已开始研究覆盖五家中国AI芯片公司，并指出现在是“买入中国AI芯片股的最佳时机”。麦格理认为，考虑到中国在全球AI半导体领域的战略重要性和巨大的市场潜力，这些公司有望受益于国内AI产业的快速发展和政策支持，为投资者提供了在高增长领域寻找机会的明确指引。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/05/macquarie-says-now-is-best-time-to-buy-chinese-ai-chip-stocks-heres-its-favorite.html"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "6月就业与通胀数据预示美国债市利好",
+      "summary": "最新的6月就业报告显示美国就业市场可能比市场普遍认为的更加疲软，结合通胀数据分析，有策略师认为这对债券市场而言是利好信号。这预示着美联储未来在货币政策上可能更加鸽派，或为固定收益资产带来支撑，投资者可关注长期债券的表现。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -41,55 +113,146 @@
       ]
     },
     {
-      "title": "AI采纳公司两年内员工数量增长10%",
-      "summary": "研究发现，那些大量采纳人工智能技术的公司，在技术应用后的两年内，其员工总数平均增长了10%。观点：这一数据挑战了AI将导致大规模失业的普遍担忧，反而表明AI作为一种赋能技术，能够提升企业效率并扩大业务规模，从而创造更多就业机会。这对于劳动力市场和未来AI投资策略具有重要启示。",
+      "title": "特朗普政府拟放松安全法规，化学事故数量上升引发关注",
+      "summary": "在美国特朗普政府提议削弱安全法规之际，涉及人员伤亡的化学事故数量在近年来上升了近50%。这一趋势引发了对环境和公共安全的担忧，同时可能增加相关行业（如化工、制造）的运营风险和合规成本，给投资者带来额外的监管不确定性考量。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-568.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-568"
-        }
-      ]
-    }
-  ],
-  "people": [
-    {
-      "name": "Tyler Cowen",
-      "title": "AI创新显著加速科学探索效率",
-      "summary": "观点：著名经济学家泰勒·考恩指出，AI创新极大地降低了初步探索的成本，使得科学家和研究人员能将原本需要数周才能完成的论证、识别异议和得出初步结论的过程，缩短至一个下午。原话：「初步探索的成本大幅降低。我可以在一个下午而非两周内勾勒出一个论点，找出首要的严重反对意见，测试它们是否致命，并得出初步结论。」",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/a-scientific-benefit-and-cost-of-ai-innovation.html"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/"
         }
       ]
     },
     {
-      "name": "Michael Moritz",
-      "title": "红杉资本传奇合伙人即将受访",
-      "summary": "知名风险投资家、红杉资本的开创性合伙人迈克尔·莫里茨将接受泰勒·考恩的深度访谈，访谈将围绕莫里茨的新书《Ausländer: One Family’s Story of Escape and Exile》展开，并可能涉及他作为资深记者和早期风投家的职业生涯。观点：投资者应关注莫里茨对当前科技趋势、创新生态及未来投资方向的洞见。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-michael-moritz.html"
-        }
-      ]
-    },
-    {
-      "name": "Jane Fraser",
-      "title": "花旗CEO对美中商业关系持乐观态度",
-      "summary": "观点：花旗集团全球首席执行官简·弗雷泽表示，在参加美中峰会后，她对两国之间的商业关系前景感到乐观。弗雷泽是受美国总统特朗普邀请访华的17位商业领袖之一。这一表态表明，尽管地缘政治存在不确定性，全球大型金融机构仍对深化美中商业往来抱有积极预期。",
+      "title": "花旗CEO对中美关系前景表示乐观",
+      "summary": "花旗银行全球首席执行官简·弗雷泽在参加上月于北京举行的中美峰会后，对两国关系前景表达了乐观态度。她认为，高层对话和互动有助于稳定预期、缓解紧张局势，这对于跨国企业在全球运营和投资至关重要，为市场带来积极信号。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/banking-finance/article/3359326/why-citigroup-ceo-jane-fraser-left-us-china-summit-feeling-optimistic?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/banking-finance/article/3359326/why-citigroup-ceo-jane-fraser-left-the-us-china-summit-feeling-optimistic?utm_source=rss_feed"
         }
       ]
     }
   ],
-  "macro": [
+  "tech": [
     {
-      "title": "新联邦规定导致保险公司将屋顶更换成本转嫁给房主",
-      "summary": "一项新的联邦规定使保险公司能够将屋顶更换成本转嫁给房主，这恰逢冰雹和飓风季。房主现在可能需要在索赔（可能导致保费上涨）和自掏腰包进行昂贵维修之间做出选择。观点：此举增加了房主财产维护的财务负担，可能对房屋保险市场、消费者支出以及房地产市场的风险评估产生连锁影响。",
+      "title": "AI科技股“MANGOS”或面临降温风险",
+      "summary": "华尔街创造的新词“MANGOS”（Meta、Anthropic、Nvidia等）代表着当前人工智能热潮中的核心科技股。然而，有分析指出这些股票可能面临“变软”的风险，暗示当前AI股的强劲涨势可能出现回调或降温。投资者应关注这些高估值AI公司的业绩持续性和市场情绪变化，警惕潜在的投资风险。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html"
+        }
+      ]
+    },
+    {
+      "title": "AI公司开始大量招聘哲学家，关注伦理与价值观",
+      "summary": "随着人工智能技术的飞速发展，AI实验室正在改变招聘策略，开始积极招募具有批判性思维和深思能力的哲学家。这一趋势表明，AI伦理、价值观对齐和复杂推理能力在AI系统开发中的重要性日益凸显，预示着AI领域跨学科人才需求的新方向，也反映了行业对AI社会影响的重视。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html"
+        }
+      ]
+    },
+    {
+      "title": "维基百科力求在AI时代捍卫互联网信息公正性",
+      "summary": "作为互联网上最大的免费知识储备库，维基百科正面临来自政治宣传、人工智能生成内容和外国势力操纵等多重威胁。在AI信息泛滥的时代，维基百科在维护信息准确性和中立性方面的角色变得尤为关键，其未来的生存与发展不仅关乎自身，更可能影响整个互联网的信息生态，对信息质量和信任度构成挑战。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/05/business/media/wikipedia-ai-elon-musk.html"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI GPT-5.5 Codex模型性能或因技术问题下降",
+      "summary": "OpenAI的GPT-5.5 Codex模型在推理token聚类方面可能存在技术问题，从而导致其性能出现下降。这一问题可能影响AI模型在代码生成、复杂任务处理等应用中的效率和可靠性。对于依赖该模型的开发者和企业而言，需关注其潜在影响，并评估AI技术在实际应用中的稳定性。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://github.com/openai/codex/issues/30364"
+        }
+      ]
+    }
+  ],
+  "us_stocks": [
+    {
+      "title": "伯克希尔哈撒韦68亿美元收购Taylor Morrison，提振美国房市",
+      "summary": "沃伦·巴菲特领导的伯克希尔哈撒韦公司宣布以68亿美元全现金收购美国房屋建筑商Taylor Morrison。此举被视为对美国住宅房地产市场信心的强力提振，表明顶级投资者看好该行业前景，可能带动更多机构和个人投资者进入该市场，从而对相关上市公司股价产生积极影响。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/article/3359411/berkshire-hathaways-multibillion-dollar-buy-taylor-morrison-boost-us-housing-market?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "警惕：美股动量交易或在7月面临剧烈逆转",
+      "summary": "一位市场策略师警告称，当前美股市场炙手可热的动量交易策略，在7月份可能面临剧烈的逆转。历史数据显示，动量策略在7月往往表现不佳，而今年市场可能尤其动荡，投资者应警惕高估值股票的潜在回调风险，并重新评估其投资组合的风险敞口。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/why-the-stock-markets-red-hot-momentum-trade-might-be-headed-for-a-violent-unwind-this-month-78a45397?mod=mw_rss_topstories"
+        }
+      ]
+    }
+  ],
+  "a_stocks": [
+    {
+      "title": "中国官方智库下调自身全球金融竞争力排名，凸显挑战",
+      "summary": "中国社会科学院发布报告，将中国在全球金融竞争力排名中下调一位至第五，位列美国、日本、英国和德国之后。尽管中国高层领导人誓言要建设金融强国，但这一罕见的自降排名举动，凸显了中国在国际金融竞争中面临的挑战以及对金融体系进一步改革的需求，可能影响国际投资者对中国市场的信心。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3359418/why-has-china-lowered-its-own-ranking-global-financial-competitiveness?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "麦格理看好中国AI芯片股，指引投资机会",
+      "summary": "投资机构麦格理开始研究覆盖多家中国人工智能芯片公司，并指出现在是“买入中国AI芯片股的最佳时机”。这一积极评估基于中国在AI半导体领域的战略投入和广阔市场潜力，为希望在中国高增长科技领域寻找投资机会的投资者提供了明确的指引，尤其是在中美科技竞争背景下。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/05/macquarie-says-now-is-best-time-to-buy-chinese-ai-chip-stocks-heres-its-favorite.html"
+        }
+      ]
+    },
+    {
+      "title": "香港主要开发商缺席北部都会区首个试点招标，项目前景受挑战",
+      "summary": "香港北部都会区的首个试点土地招标仅吸引了两家确认的投标人，其中长江实业、新世界发展等主要本地开发商缺席。这突显了政府在吸引私人开发商参与这一兼具住房、科技和工业雄心的宏大项目上面临的挑战，可能影响该区域的开发进度和市场预期，值得投资者关注香港房地产市场的长期走向。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-business/article/3359400/why-hong-kongs-major-developers-stayed-out-northern-metropolis-first-pilot-tender?utm_source=rss_feed"
+        }
+      ]
+    }
+  ],
+  "business": [
+    {
+      "title": "英国天空电视台（Sky）或将收购独立电视公司（ITV）",
+      "summary": "市场预期英国媒体巨头天空电视台（Sky）即将宣布收购独立电视公司（ITV）的电视和流媒体频道。如果此交易达成，将是英国媒体行业的一项重大整合，可能重塑其竞争格局和内容生态，对两家公司的股东以及整个欧洲媒体市场未来发展产生深远影响。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c04yx44xq19o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "美国汽车市场转向：混动车销量激增，电动车需求降温",
+      "summary": "混合动力汽车成为美国汽车市场的“黑马”，其销量显著增长，而纯电动汽车的需求则有所减弱。这一趋势表明消费者在续航里程焦虑、充电基础设施和购车成本方面仍有考量，汽车制造商需调整产品策略以适应市场偏好的变化，对未来汽车行业投资布局产生重要影响。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "联邦新规生效，保险公司将屋顶更换成本转嫁房主",
+      "summary": "受一项新的联邦法规影响，保险公司已将屋顶更换成本转嫁给房主，而这恰逢冰雹和飓风季来临。面临屋顶严重损坏的房主可能陷入两难：要么提出保险索赔导致保费上涨，要么自掏腰包支付高昂维修或更换费用，增加了家庭财产负担，也可能影响保险公司的业务模式和盈利能力。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -98,93 +261,8 @@
       ]
     },
     {
-      "title": "世界杯推动预测市场交易量创历史新高",
-      "summary": "随着2026年世界杯的进行，Kalshi和Polymarket等主要预测市场在6月份的交易量均创下历史新高，新平台Rothera也管理了高达20亿美元的交易额。观点：这表明全球性重大事件能够显著刺激预测市场这一新兴金融工具的活跃度，吸引大量资金流入，也反映出投资者对事件结果押注的兴趣日益增长。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html"
-        }
-      ]
-    },
-    {
-      "title": "美国财政部明确“特朗普账户”资金投资方向",
-      "summary": "美国财政部已经明确规定，存入“特朗普账户”的资金必须投资于低成本的指数基金，并公布了家长和投资者可选择的具体基金清单。观点：这项政策为特定类型的政府支持投资账户设定了清晰的投资框架，强调了低成本、被动式投资策略的普及，可能引导一部分资金流向主流指数基金，值得关注。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/where-can-i-invest-my-kids-trump-account-money-the-treasury-department-just-answered-that-question-4f656574?mod=mw_rss_topstories"
-        }
-      ]
-    }
-  ],
-  "tech": [
-    {
-      "title": "GPT-5.5 Codex推理令牌集群可能导致性能下降",
-      "summary": "OpenAI的GPT-5.5 Codex模型被指出可能存在推理令牌集群导致性能下降的问题。这一技术缺陷报告对于依赖该模型进行代码生成和开发的开发者而言至关重要。观点：AI模型的性能稳定性是其商业应用的关键，此类问题可能影响OpenAI的市场竞争力及用户对模型可靠性的信心。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://github.com/openai/codex/issues/30364"
-        }
-      ]
-    },
-    {
-      "title": "YouTube出现创作者私人视频泄露漏洞",
-      "summary": "有报告揭示YouTube平台存在安全漏洞，可能导致创作者的私人视频内容被泄露。这一严重的数据安全问题对全球最大视频平台的用户隐私和内容保护构成威胁。观点：大型内容平台的数据安全是其维持用户信任和商业模式稳定的基石，此类事件可能引发监管审查并影响平台声誉，值得投资者关注。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://javoriuski.com/post/youtube"
-        }
-      ]
-    },
-    {
-      "title": "Anthropic的Claude模型存在会话/缓存潜在泄露风险",
-      "summary": "人工智能公司Anthropic的Claude模型被报告存在工作区实例或消费者账户间的会话/缓存潜在泄露风险。这一漏洞可能导致用户数据被不当访问，对AI服务的安全性和隐私保护提出挑战。观点：在AI技术快速发展的背景下，数据安全和隐私问题是用户和监管机构高度关注的焦点，对AI公司的长期发展至关重要。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://github.com/anthropics/claude-code/issues/74066"
-        }
-      ]
-    },
-    {
-      "title": "谷歌图书（或类似）所有书籍扫描数据悬赏20万美元",
-      "summary": "有机构提出20万美元的悬赏，旨在获取谷歌图书或其他类似平台的全部书籍扫描数据，并计划在2025年完成。观点：这一行为凸显了对大规模数字化文本数据的旺盛需求，可能用于AI训练、学术研究或构建公共知识库。此举也可能引发对数字版权、数据获取伦理及大型数据集市场价值的讨论。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234"
-        }
-      ]
-    }
-  ],
-  "us_stocks": [],
-  "a_stocks": [
-    {
-      "title": "香港大型开发商冷淡对待北部都会区首次试点招标",
-      "summary": "香港北部都会区首个试点招标项目仅吸引了两家确认的投标者，凸显了政府在吸引私人开发商参与这一大型发展计划（包括住房和科技/工业目标）方面面临的挑战。观点：主要开发商的谨慎态度反映了对香港房地产市场前景的担忧，以及政府大型项目推进可能面临的阻力，影响投资者对香港楼市复苏的预期。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3359400/why-hong-kongs-major-developers-stayed-out-northern-metropolis-first-pilot-tender?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "分析师建议香港政府谨慎处理土地招标以支持楼市复苏",
-      "summary": "分析师认为，随着香港推进庞大的北部都会区发展计划，政府应采取谨慎的土地出售策略，以维护住宅物业市场的近期复苏势头。观点：这表明市场对香港房地产供应量和定价策略高度敏感，政府在土地政策上的决策将对楼市的稳定性和投资者的信心产生关键影响。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/article/3359372/caution-on-land-tenders-key-hong-kongs-property-recovery-analysts?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "星巴克深化中国市场消费策略以适应本土需求",
-      "summary": "在成功将咖啡文化引入中国市场后，星巴克正调整其消费策略，以更好地适应当地不断变化的消费者需求和日益激烈的竞争环境，其中国门店体验正变得与美国本土截然不同。观点：这表明跨国消费品牌在中国市场需持续进行本土化创新和战略调整，以应对日益成熟和复杂的消费群体，确保长期竞争力。",
+      "title": "星巴克在中国市场加速消费者策略调整以应对竞争",
+      "summary": "在成功将中国消费者培养出咖啡习惯后，星巴克正调整其在华策略，以适应当地日益差异化的市场需求。这意味着更本地化的产品、门店体验和数字化服务，以应对日益激烈的市场竞争并保持增长势头。这一策略转变反映了中国消费市场的成熟与复杂性，以及国际品牌本土化运营的重要性。",
       "sources": [
         {
           "name": "SCMP Business",
@@ -193,32 +271,40 @@
       ]
     }
   ],
-  "business": [
-    {
-      "title": "50岁创始人创业成功率是30岁创始人的两倍",
-      "summary": "研究表明，年过半百的创业者比30岁的创业者成功率高出两倍。在劳动力市场年龄歧视的背景下，年长员工选择自主创业，并且表现出了超越年轻企业家的韧性和经验优势。观点：这一发现挑战了科技界对“年轻即创新”的刻板印象，揭示了经验、行业网络和财务稳定性在创业成功中的关键作用，对风险投资和人才策略具有重要启示。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/why-a-founder-at-age-50-is-twice-as-likely-to-find-success-as-one-at-age-30-5fc701fc?mod=mw_rss_topstories"
-        }
-      ]
-    }
-  ],
   "overlooked": [
     {
-      "title": "智利学龄人口结构面临演变",
-      "summary": "智利的学龄人口结构正在发生变化。观点：人口结构，尤其是年轻人口的变化，对一个国家的长期经济增长潜力、劳动力市场供给、教育系统投入以及社会福利体系均有深远影响。对于新兴市场，这可能预示着未来的人口红利变化或社会结构转型，值得投资者关注其潜在的宏观经济影响。",
+      "title": "近百万投资者在特朗普主题加密货币上损失38亿美元",
+      "summary": "一份加密货币分析报告揭示，近百万散户投资者在购买特朗普主题“Meme币”上总计损失了38亿美元，而更专业的交易员在此类投机中表现相对较好。这一事件凸显了Meme币市场的高度波动性和巨大风险，尤其对缺乏经验的散户投资者而言，是加密资产投资中的一个重要警示。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-568.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-568"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html"
         }
       ]
     },
     {
-      "title": "新兴服务业职位中的“无所不包的市场”现象",
-      "summary": "经济中正出现一种“无所不包的市场”现象，尤其体现在新兴的服务部门职位上。观点：这表明经济结构正在向更加多元化、碎片化和专业化的服务业转型，创造出新的就业机会和商业模式。投资者可以关注这些新兴服务领域的增长潜力和创新机会，以及它们对传统行业和劳动力市场结构性变化的长期影响。",
+      "title": "世界杯推动预测市场交易量创历史新高",
+      "summary": "2026年世界杯足球赛期间，Kalshi和Polymarket等主要预测平台的交易量达到了历史新高，新平台Rothera也管理了20亿美元的交易额。这表明预测市场作为一种新兴的另类投资和对冲工具，其市场规模和影响力正快速增长，尤其在重大全球事件中展现出强大的吸引力，值得投资者关注其作为信息汇集和风险管理工具的潜力。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html"
+        }
+      ]
+    },
+    {
+      "title": "研究显示50岁创业者成功几率是30岁创业者的两倍",
+      "summary": "一项研究数据表明，50岁及以上年龄的创业者其创业成功率是30岁创业者的两倍。这一发现挑战了传统上对年轻创业者的偏见，强调了经验、专业网络和财务稳定性在创业成功中的关键作用。这为高龄创业提供了新的视角，也提示投资者在评估初创企业时应更全面地考虑创始团队的经验价值。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/why-a-founder-at-age-50-is-twice-as-likely-to-find-success-as-one-at-age-30"
+        }
+      ]
+    },
+    {
+      "title": "AI大规模采用促使企业两年内员工数量增长10%",
+      "summary": "一项研究发现，大力拥抱AI技术的企业在采用AI后的两年内，其员工数量平均增长了10%。这一数据反驳了AI只会导致大规模失业的普遍担忧，表明AI在提升生产力的同时，也能通过创造新岗位或扩大业务规模来促进就业增长。这种结构性变化对劳动力市场和企业战略具有深远影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
