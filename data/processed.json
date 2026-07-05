@@ -1,48 +1,52 @@
 {
   "top5": [
     {
-      "title": "中国自动驾驶公司Momenta香港IPO获巨额超额认购",
-      "summary": "中国自动驾驶初创公司Momenta在香港的首次公开募股（IPO）获得414倍超额认购，吸引了近21万份申请，募集资金达58.9亿港元。这表明投资者对中国人工智能和自动驾驶领域的兴趣依然浓厚，即使在多个IPO同期进行的情况下，市场对优质科技股仍有强劲需求。该事件显示出全球资本对中国高科技成长型企业的持续追捧，尤其是在AI和未来出行等战略性领域，对港股和A股相关板块形成积极信号。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/article/3359360/chinas-momenta-ipo-oversubscribed-414-times-hong-kong-listings-pack-calendar"
-        }
-      ]
-    },
-    {
-      "title": "特朗普相关加密货币投资者损失38亿美元",
-      "summary": "一份加密货币分析报告显示，近一百万投资者在特朗普主题的Memecoin上总计损失了38亿美元。报告指出，大部分散户投资者蒙受亏损，而专业的交易者表现较好。这揭示了加密货币市场的极端波动性和高风险性，尤其对于散户而言。政治题材的代币往往带有高度投机性质，且市场缺乏有效监管，投资者需警惕。",
+      "title": "AI股票市场情绪变化：MANGOS股面临软化风险",
+      "summary": "华尔街创造了新的AI概念股缩写“MANGOS”（Meta、Anthropic、Nvidia、Google、Oracle、Snowflake），但最新分析指出，这些AI核心公司的股票可能已经开始失去上涨势头，面临“变软”的风险。这表明市场对AI领域过度狂热的情绪可能正在降温，投资者需警惕高估值回调的风险，对AI概念股的投资策略应更为审慎。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/04/us/politics/nearly-a-million-investors-lost-a-total-of-3-8-billion-on-trump-crypto-coin.html"
+          "url": "https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html"
         }
       ]
     },
     {
-      "title": "泰勒·考恩：AI正加速科学探索进程，降低研究成本",
-      "summary": "著名经济学家泰勒·考恩指出，AI创新极大地降低了初步探索的成本，使科学家能够将原来需要数周的研究工作在数小时内完成。这种“探索成本崩溃”不仅是简单的时间加速，更是对科学家研究意愿和研究深度的深刻影响。考恩的观点强调了AI对科研范式和创新周期的结构性改变，这将加速新技术的诞生和产业化，对科技投资和长期经济增长具有深远意义。",
+      "title": "6月就业与通胀数据预示债券市场利好",
+      "summary": "分析指出，6月份的就业和通胀数据显示出对债券市场有利的趋势。尽管具体数据未在此次简报中详述，但其“比许多人意识到的更糟”的表述暗示了经济增长放缓或通胀压力减弱的迹象，这通常会促使投资者转向固定收益资产以寻求稳定回报。对于宏观投资者而言，这意味着美联储未来货币政策路径可能发生变化，或预示着降息预期的提前。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/why-the-jobs-and-inflation-data-are-bullish-for-bonds-fcedffd2?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "大额加密货币亏损警示：Trump Coin投资者损失38亿美元",
+      "summary": "一份加密货币分析报告显示，近一百万投资者在购买“Trump memecoin”（特朗普迷因币）上共计损失了38亿美元。报告指出，尽管一些经验丰富的交易者表现较好，但大多数散户投资者都遭受了亏损。这一事件再次凸显了迷因币和部分加密货币市场的高波动性和巨大风险，对投资者而言是关于加密资产投机性质的重要警示。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html"
+        }
+      ]
+    },
+    {
+      "title": "AI加速科学探索并驱动企业人员增长",
+      "summary": "经济学家Tyler Cowen指出，AI创新极大地降低了初步探索的成本，显著加速了科学研究进程。此外，数据表明重度采用AI的企业在两年内员工数量增长了10%。这揭示了AI不仅是生产力工具，更是推动企业扩张和知识进步的关键动力，对依赖创新和人才的科技及各行业公司具有深远影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
           "url": "https://marginalrevolution.com/marginalrevolution/2026/07/a-scientific-benefit-and-cost-of-ai-innovation.html"
-        }
-      ]
-    },
-    {
-      "title": "英伟达押注万亿美元机器人市场，视为下一个增长支柱",
-      "summary": "英伟达CEO黄仁勋表示，人形机器人将带来“数万亿美元的经济机会”，公司正大力投资这一领域。此举显示英伟达不仅专注于AI芯片，更将机器人技术视为其未来增长的下一个重大战略支点。这表明全球科技巨头正在将AI技术与物理世界深度融合，开启机器人时代的巨大市场潜力。对于投资者而言，这意味着AI硬件和软件的需求将从数据中心扩展到更广泛的实体应用，为相关供应链带来机会。",
-      "sources": [
+        },
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-568.html"
         }
       ]
     },
     {
-      "title": "花旗CEO对中美关系前景表示乐观，商业信心或回暖",
-      "summary": "花旗集团全球CEO简·弗雷泽在参加美中峰会后对两国关系前景表示乐观。她认为此次北京之行不仅仅是简单的会面，更传递了积极的信号。在全球地缘政治紧张背景下，顶级跨国企业CEO对中美关系释放的乐观信号，可能预示着两国商业往来和资本流动的潜在缓和，对全球贸易和投资信心具有积极影响。",
+      "title": "花旗CEO对中美关系持乐观态度，传递商业界信号",
+      "summary": "花旗全球CEO Jane Fraser在参加中美峰会后表示乐观。Fraser是美国总统特朗普邀请访华的17位商界领袖之一，此次访问让她对中美未来的商业关系感受积极。全球两大经济体之间的关系是影响全球宏观经济和企业战略的关键因素，顶级金融机构负责人的乐观态度，可能预示着商界对中美经贸前景的谨慎乐观看法，值得投资者密切关注。",
       "sources": [
         {
           "name": "SCMP Business",
@@ -53,9 +57,9 @@
   ],
   "people": [
     {
-      "name": "Tyler Cowen (经济学家)",
-      "title": "AI加速科学探索，并探讨其与生育率危机的互动",
-      "summary": "观点：人工智能创新极大地加速了科学探索过程，使初步研究的成本大幅降低，将数周的工作缩短到数小时。考恩认为AI带来的“探索成本崩溃”正在改变科研范式，对未来创新至关重要。同时，他还预测AI将与生育率下降共同重塑社会结构，例如公共空间变空，人际互动更受重视。",
+      "name": "Tyler Cowen",
+      "title": "AI对经济、科研及就业影响深远，学术界需适应变革",
+      "summary": "观点：经济学家Tyler Cowen强调AI正以前所未有的速度改变经济格局和科研方式。他指出，AI显著降低了科学探索的初步成本，将过去耗时数周的工作缩短到一天内完成。同时，重度采用AI的企业在两年内员工数量平均增长10%，打破了AI将大规模取代工作的担忧。Cowen还提出，不是AI需要改变，而是学术界需要调整以适应AI带来的新范式。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -63,37 +67,30 @@
         },
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/how-will-ai-and-the-fertility-crisis-interact.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-568.html"
+        },
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-579.html"
         }
       ]
     },
     {
-      "name": "Jane Fraser (花旗集团CEO)",
-      "title": "对中美关系峰会成果持乐观态度",
-      "summary": "观点：弗雷泽在参加美中峰会后对两国关系前景表示乐观，认为此行不仅是简单的会面，更传递了积极的信号。她的积极评估对于在全球范围内运营的金融机构及其客户来说，意味着更稳定的预期和潜在的商业机会。",
+      "name": "Jane Fraser",
+      "title": "花旗CEO在中美峰会后对两国商业关系前景表示乐观",
+      "summary": "观点：花旗全球CEO Jane Fraser在参加完上个月在北京举行的中美峰会后表示，她对中美商业关系的未来感到乐观。作为受邀参加此次峰会的美国商界领袖之一，Fraser的此番表态传递出顶级金融机构对全球两大经济体之间合作潜力的积极信号，尤其在当前地缘政治背景下，这种 C-level 的乐观情绪对全球投资者具有参考价值。",
       "sources": [
         {
           "name": "SCMP Business",
           "url": "https://www.scmp.com/business/banking-finance/article/3359326/why-citigroup-ceo-jane-fraser-left-us-china-summit-feeling-optimistic"
         }
       ]
-    },
-    {
-      "name": "Jensen Huang (英伟达CEO)",
-      "title": "人形机器人市场价值数万亿美元",
-      "summary": "原话：「人形机器人是一个数万亿美元的经济机会。」黄仁勋此言强调人形机器人是英伟达继AI芯片之后的下一个核心增长点，预示着AI技术在实体经济应用中的巨大潜力和市场规模。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e"
-        }
-      ]
     }
   ],
   "macro": [
     {
-      "title": "全球生育率下降可能推高人均收入",
-      "summary": "一项研究发现，过去七十年全球生育率的持续下降虽减缓了人口增长并提高了平均年龄，但它与工作年龄人口人均GDP的更高增长相关。这与普遍认为生育率下降会阻碍经济增长的观点相悖。这一发现挑战了传统人口经济学的某些假设，为理解人口结构变化对经济增长的复杂影响提供了新视角，可能影响各国的人口政策和长期经济规划。",
+      "title": "全球生育率下降与人均收入增长的正向关联",
+      "summary": "一项研究发现，全球过去七十年生育率的持续下降，虽然减缓了人口增长并提高了平均年龄，但却与工作年龄人口人均GDP的更高增长率相关。这挑战了普遍认为生育率下降会阻碍经济增长的观点，表明人口结构变化对经济的影响更为复杂，对长期宏观经济政策和投资策略具有重要启示，特别是在劳动力市场和生产力提升方面。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -102,72 +99,50 @@
       ]
     },
     {
-      "title": "英国经济衰退加剧，被比作美国密西西比州",
-      "summary": "《大西洋月刊》的一篇文章指出，英国正经历经济衰退，国民医疗服务系统在处理产科医疗事故索赔上的花费已超过实际产科护理费用，许多人难以预约医生，且城市缺乏活力。这篇文章对英国经济困境的深刻剖析，揭示了公共服务效率低下和社会活力减退等结构性问题，对评估英国的投资环境和经济前景提供了悲观的参考。",
+      "title": "6月就业与通胀数据释放债券利好信号",
+      "summary": "最新报告显示，6月份的就业和通胀数据被解读为对债券市场有利。尽管报告称数据“比许多人意识到的更糟”，但这种疲软可能预示着经济放缓或通胀压力缓解，从而增强债券的吸引力。对于寻求避险资产和关注利率走向的投资者而言，这可能意味着未来货币政策趋于宽松，为固定收益投资提供了潜在机会。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/how-britain-became-as-poor-as-mississippi.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/why-the-jobs-and-inflation-data-are-bullish-for-bonds-fcedffd2?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "美国牛肉进口创纪录，但价格依然高企加剧通胀",
-      "summary": "尽管美国牛肉进口量创下历史新高，但美国消费者在“独立日”烧烤季依然面临高昂的牛肉价格。华盛顿通过增加进口来降低成本的策略似乎未能有效控制物价。这反映出全球供应链、生产成本以及国内需求等多重因素复杂交织，导致大宗商品价格居高不下，加剧了通胀压力，对消费者购买力和美联储的货币政策构成挑战。",
+      "title": "香港房地产市场复苏的关键在于谨慎土地供应",
+      "summary": "分析师指出，香港房地产市场持续复苏的关键在于政府对土地招标采取谨慎态度。随着北部都会区等大型项目推进，政府的土地销售策略将直接影响市场供求和价格稳定性。在当前市场情绪敏感期，过于激进的土地供应可能压制楼市反弹势头，而审慎供应则有助于巩固市场信心，对关注香港地产板块的投资者来说，政府政策是核心变量。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/your-fourth-of-july-hamburger-meat-was-likely-imported-and-youre-right-to-have-a-beef-with-that-c25d7c31"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/article/3359372/caution-land-tenders-key-hong-kongs-property-recovery-analysts?utm_source=rss_feed"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "AI模型性能与成本效益持续提升",
-      "summary": "Wafer.ai发布的博客文章指出，AI芯片的“每美元性能”正在变得更快更便宜。例如，AMD的GLM52芯片在某些工作负载下的表现优于英伟达的H100，显示出芯片厂商在提升AI计算效率方面的竞争。计算效率的提升是AI技术普及和成本降低的关键驱动因素，预示着AI应用将更广泛、更经济。这对于云服务提供商、AI初创企业以及整个AI生态系统都具有深远影响。",
+      "title": "Anthropic旗下Claude模型存在潜在会话/缓存泄露漏洞",
+      "summary": "AI公司Anthropic的Claude模型被发现存在潜在的会话或缓存泄露漏洞。这一安全问题可能导致用户数据在不同工作区实例或消费者账户之间意外共享。作为AI领域的领先公司，此类安全漏洞对其平台信誉和用户信任构成威胁，也提醒着投资者在评估AI公司时，除了技术实力，数据安全和隐私保护同样至关重要。",
       "sources": [
         {
           "name": "Hacker News Top",
-          "url": "https://www.wafer.ai/blog/glm52-amd"
+          "url": "https://github.com/anthropics/claude-code/issues/74066"
         }
       ]
     },
     {
-      "title": "Mistral AI发布新版本Leanstral 1.5，强调“证据丰度”",
-      "summary": "法国人工智能公司Mistral AI发布了其最新模型Leanstral 1.5，宣称旨在实现“人人享有证据丰度（Proof abundance for all）”。这表明Mistral在推动AI模型的可验证性、透明度和可靠性方面迈出新步伐。AI模型的“可信度”和“透明度”是其广泛应用的关键。Mistral的新版本可能在提升AI的解释性和减少幻觉方面有所突破，这对于企业级应用和关键决策领域至关重要。",
+      "title": "YouTube私人视频泄露事件引发平台安全担忧",
+      "summary": "有报道称，YouTube创作者的私人视频存在泄露风险。这一事件对全球最大的视频平台YouTube的安全性提出了严峻挑战，并可能损害用户信任。对于投资者而言，内容平台的安全漏洞不仅可能导致监管审查，还可能影响用户留存和广告收入，凸显了大型互联网平台在数据保护和系统安全方面的持续挑战与投入需求。",
       "sources": [
         {
           "name": "Hacker News Top",
-          "url": "https://mistral.ai/news/leanstral-1-5/"
+          "url": "https://javoriuski.com/post/youtube"
         }
       ]
     },
     {
-      "title": "英伟达将万亿美元机器人市场作为AI核心战略",
-      "summary": "英伟达CEO黄仁勋表示，人形机器人市场将是“数万亿美元的经济机会”，公司正积极布局，将机器人技术视为AI发展的核心战略方向。此战略方向确认了英伟达不仅是AI芯片供应商，更是AI和机器人融合的平台提供者，预示着AI技术在实体经济应用中的巨大潜力和对未来科技生态的深远影响。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e"
-        }
-      ]
-    }
-  ],
-  "us_stocks": [
-    {
-      "title": "福特汽车在质量方面取得里程碑式进展，CEO目标完美无瑕新车发布",
-      "summary": "福特汽车CEO吉姆·法利向CNBC表示，公司已从过去的质量问题和召回事件中吸取教训，并在新车型发布质量上设定了“完美无瑕”的目标，目前已取得重要里程碑。产品质量是汽车制造商盈利能力和品牌声誉的核心。福特在质量上的改善将有助于其降低成本、提升客户满意度，并可能对其股价和市场竞争力产生积极影响。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html"
-        }
-      ]
-    },
-    {
-      "title": "“MANGOS”AI股涨势趋缓引发市场关注",
-      "summary": "华尔街热衷于为热门科技股创造新缩略词，“MANGOS”指代Meta、Anthropic、Nvidia等几家处于人工智能热潮中心的公司。但市场开始担忧这些AI领军企业的股价是否已过热，涨势可能放缓。这反映了市场对AI概念股估值的谨慎情绪。投资者开始审视这些公司的基本面和长期增长潜力，而非仅仅追逐短期热点，预示着AI板块可能面临调整或分化。",
+      "title": "“MANGOS”AI股或面临市场调整风险",
+      "summary": "华尔街创造了新的AI概念股缩写“MANGOS”，代表Meta、Anthropic、Nvidia等关键AI公司。然而，有迹象表明这些领头羊股票可能正开始“变软”，暗示市场对AI领域的过热情绪可能正在回调。这对于专注于科技股和AI概念的投资者来说，是一个重要的风险信号，预示着未来市场可能更加注重盈利能力和估值，而非单纯的概念炒作。",
       "sources": [
         {
           "name": "NYT Business",
@@ -176,42 +151,54 @@
       ]
     },
     {
-      "title": "英伟达机器人业务被视为潜在投资新机会",
-      "summary": "英伟达CEO黄仁勋称人形机器人是“数万亿美元的经济机会”，公司正积极布局，此方向被分析师视为投资英伟达未来增长的“隐藏”方式。对美股投资者而言，这揭示了英伟达除了数据中心业务外的新增长点，预示着基于其AI技术在机器人领域的长期投资价值。",
+      "title": "谷歌图书大规模扫描项目悬赏20万美元引发数据与版权讨论",
+      "summary": "针对谷歌图书（或其他类似项目）的所有书籍扫描数据，有人开出20万美元的悬赏。此举可能旨在获取或共享大规模数字化文本数据，这在全球数据处理、AI训练以及版权法领域引发深远讨论。对于投资者而言，这凸显了数字版权、数据所有权和知识产权保护在数字时代日益增长的价值和复杂性，以及相关法律风险和潜在商业模式创新。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e"
+          "name": "Hacker News Top",
+          "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234"
+        }
+      ]
+    }
+  ],
+  "us_stocks": [
+    {
+      "title": "MANGOS股或面临回调风险，AI热潮趋于冷静",
+      "summary": "由Meta、Anthropic、Nvidia等公司组成的“MANGOS”概念股被视为AI热潮的领跑者，但市场分析指出，这些高估值的AI相关股票可能正在显露疲态，有“变软”的迹象。这反映出投资者对AI板块的盲目乐观情绪正在减退，开始更加审慎地评估其盈利前景和估值合理性。对于持仓或计划投资美股AI概念股的投资者，应密切关注市场情绪变化和公司基本面。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html"
         }
       ]
     }
   ],
   "a_stocks": [
     {
-      "title": "香港地产市场复苏关键在于土地供应审慎",
-      "summary": "分析师认为，随着香港推进北部都会区开发，政府在土地出让方面应采取谨慎态度，以维持近期住宅物业市场的复苏态势。政府已为洪水桥/厦村新发展区的多块地块设定了投标截止日期。土地供应政策直接影响香港房地产市场的供需平衡和价格走势。政府的审慎态度有助于稳定市场预期，避免过度供应导致价格下行，对开发商和地产股表现至关重要。",
+      "title": "星巴克在中国市场调整消费者战略应对竞争",
+      "summary": "在成功将中国消费者“钩”上咖啡瘾后，星巴克正积极调整其在中国的消费者战略。文章指出，中国市场的星巴克门店体验与美国本土日益不同，暗示其正为适应当地快速变化的消费习惯和激烈竞争进行本土化创新。对于关注中国消费市场和外资品牌表现的投资者而言，星巴克的策略变化是观察中国市场活力和外企适应能力的重要窗口。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/article/3359372/caution-land-tenders-key-hong-kongs-property-recovery-analysts"
+          "url": "https://www.scmp.com/business/china-business/article/3359294/after-hooking-china-coffee-starbucks-ramps-consumer-strategy?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "香港房地产市场复苏取决于政府土地招标策略",
+      "summary": "分析师强调，香港房地产市场的复苏势头将很大程度上取决于政府在土地招标方面的谨慎态度。随着北部都会区等大型发展项目推进，政府对土地供应的控制将直接影响市场预期和楼价走势。对于投资者而言，密切关注香港政府的土地政策及其对地产业的影响至关重要，因其将直接决定市场周期和潜在回报。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/article/3359372/caution-land-tenders-key-hong-kongs-property-recovery-analysts?utm_source=rss_feed"
         }
       ]
     }
   ],
   "business": [
     {
-      "title": "美国银行高额透支费重现，收入随之回升",
-      "summary": "去年国会废除了一项限制银行收取透支费上限的规定后，美国多家银行的透支费收入正在上升。这使得银行能够继续对超出账户余额的消费收取高额费用。此举显示出金融监管政策的变化对银行盈利模式的直接影响。对于银行而言是收入增长点，但对于消费者特别是低收入群体则意味着更高的金融负担，可能引发新的消费者权益争议。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/03/your-money/banks-overdraft-fees.html"
-        }
-      ]
-    },
-    {
-      "title": "运通和摩根大通将高端休息室竞争延伸至机场外",
-      "summary": "美国运通和摩根大通等信用卡公司正将其奢侈休息室和专属福利的竞争从机场扩展到音乐节和体育赛事等场所，通常只面向高端卡持有人。这反映出高端信用卡市场竞争日益激烈，发卡机构正通过提供更广泛、更具吸引力的非航空旅行福利来增强客户忠诚度并吸引高净值客户。这揭示了消费者服务和体验升级的趋势。",
+      "title": "美国运通与大通银行将高端休息室竞争延伸至机场外",
+      "summary": "美国运通和摩根大通等信用卡公司正将其豪华休息室的竞争，从机场内扩展到音乐节、体育赛事等非机场场所。通过为高端信用卡持卡人提供独家福利和体验，这些公司旨在增强客户忠诚度并提升品牌吸引力。这反映了奢侈品和高端消费服务市场日益激烈的竞争，以及信用卡公司在非传统领域寻求价值增长点的趋势，值得关注消费金融和高端服务板块的投资者留意。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -220,40 +207,18 @@
       ]
     },
     {
-      "title": "Costco被誉为“反亚马逊”模式，零售策略获成功",
-      "summary": "一篇分析文章将Costco的商业模式描述为“反亚马逊”。Costco通过会员制、精选SKU和线下体验，与亚马逊的广品类、线上便捷形成对比，但在效率和客户忠诚度方面取得成功。这揭示了在电商巨头主导的市场中，差异化且以客户价值为核心的零售模式依然能够蓬勃发展。对于投资者来说，这提供了对传统零售业如何创新的重要洞察。",
+      "title": "美国保险公司将屋顶置换成本转嫁房主，法规变化影响行业",
+      "summary": "一项新的联邦法规导致美国保险公司将屋顶置换成本转嫁给房主，尤其是在冰雹和飓风季来临之际。这意味着房主在面对屋顶损坏时，可能面临更高的自付费用或保费上涨。这一变化对保险行业盈利模式和房地产市场都将产生影响，对于关注房地产、保险板块以及住房成本变化的投资者而言，是一个需要密切关注的结构性变化。",
       "sources": [
         {
-          "name": "Hacker News Top",
-          "url": "https://phenomenalworld.org/analysis/the-anti-amazon/"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "特朗普“自由250”活动吸引与政府有业务往来的企业赞助",
-      "summary": "波音、洛克希德·马丁和甲骨文等与联邦政府有业务往来的公司，正在赞助一项与特朗普阵营相关的“美国250周年”庆祝活动。此事件凸显了美国企业在政治活动中的影响力以及潜在的政治献金与商业利益之间的关联。对于投资者，这增加了对与政治周期紧密相关的公司进行尽职调查的复杂性。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html"
-        }
-      ]
-    },
-    {
-      "title": "曼哈顿豪华房地产销售保持坚挺，不受新税收影响",
-      "summary": "尽管纽约市通过了一项针对第二套住房征税的法案，引发了对“Mamdani效应”的担忧，但一个月后曼哈顿的豪华房地产销售依然强劲。经纪人和分析师表示市场保持稳定。这表明即使面对新的税收政策，顶级富豪对核心城市豪华资产的需求依然强劲，高端房地产市场可能对政策变化具有较强的韧性。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/03/manhattan-luxury-real-estate-sales-mamdani.html"
-        }
-      ]
-    }
-  ],
-  "overlooked": [
-    {
-      "title": "印度航天初创公司即将首次发射火箭",
-      "summary": "一份报告指出，一家印度航天初创公司即将进行首次火箭发射。印度航天初创公司的崛起预示着全球商业航天领域的竞争日益加剧，新兴市场国家在太空探索和卫星发射服务方面的能力正不断提升，可能改变现有市场格局并带来新的投资机会。",
+      "title": "印度航天初创公司首次发射在即，太空产业竞争加剧",
+      "summary": "一家印度航天初创公司正准备进行首次火箭发射，标志着全球商业太空产业竞争的进一步加剧。随着技术进步和成本降低，越来越多的国家和私人企业进入太空领域，旨在提供卫星发射、太空旅游和资源探索等服务。这对于关注科技前沿、新兴市场增长和长期战略投资的投资者来说，揭示了太空经济的巨大潜力及其快速演变的市场格局。",
       "sources": [
         {
           "name": "Ars Technica",
@@ -262,8 +227,30 @@
       ]
     },
     {
-      "title": "活体器官移植突破：设备可“复活”捐赠者眼球",
-      "summary": "研究人员开发出一种设备，能够维持并“复活”已故捐赠者的眼球，使其在离体后仍能保持活性。这有望解决完整眼球移植术中器官快速退化的问题，使全眼移植成为可能。这是一项重大的生物医学突破，可能彻底改变眼科医疗和器官移植领域。它不仅能恢复失明者的视力，也为其他复杂器官的保存和移植提供了新的思路和市场前景。",
+      "title": "Instagram在印度被指控推广儿童性虐待广告",
+      "summary": "BBC报道称，Instagram在印度被发现运行推广儿童性虐待材料的广告，这些广告使用“强奸”和“儿童视频”等词汇，并链接到Telegram上的相关内容。这一发现对Meta旗下的Instagram构成严重的道德和监管危机，可能面临巨额罚款和声誉损害。对于投资者而言，这凸显了大型科技平台在内容审核和用户安全方面面临的巨大挑战及合规风险，可能对其估值和未来增长产生负面影响。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "overlooked": [
+    {
+      "title": "50岁以上创始人创业成功率高于30岁创始人",
+      "summary": "研究表明，50岁以上的创始人在创业上的成功几率是30岁创始人的两倍。这挑战了传统观念中年轻人更具创新和创业优势的看法。年长创始人通常拥有更丰富的行业经验、更广阔的人脉和更强的抗风险能力，这些因素是其成功率更高的关键。对于投资者而言，这提示了在评估初创企业时，应更全面地考量创始团队的经验与成熟度，而不仅仅是年龄。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/why-a-founder-at-age-50-is-twice-as-likely-to-find-success-as-one-at-age-30-5fc701fc?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "利用设备复活死者眼球，或使全眼移植成为可能",
+      "summary": "一项突破性技术涉及利用特殊设备“复活”来自死者捐赠的眼球，这可能使全眼移植手术成为现实。目前全眼移植面临的最大挑战是眼球在离体后迅速退化，且手术难度极高。这项研究若能成功，将对眼科医疗和生物技术领域产生革命性影响，为众多失明患者带来希望，也预示着再生医学和器官移植技术的巨大投资潜力。",
       "sources": [
         {
           "name": "MIT Tech Review",
@@ -272,12 +259,12 @@
       ]
     },
     {
-      "title": "全球航运咽喉要道并非均可相互替代",
-      "summary": "分析指出，马六甲海峡可能成为阿曼和伊朗在霍尔木兹海峡收取费用的参考模型，但两个水域之间存在巨大差异，这意味着一个航运瓶颈的应对方案不一定适用于另一个。这强调了全球供应链中关键航运通道的独特性和脆弱性。地缘政治事件或贸易冲突可能对特定区域的航运造成不可预测的影响，投资者需认识到不同航运路径的风险异质性。",
+      "title": "世界杯推动预测市场交易量创历史新高",
+      "summary": "2026年世界杯期间，Kalshi和Polymarket等预测市场的交易量飙升至历史新高，新平台Rothera也实现了20亿美元的交易额。这表明体育赛事作为重大全球事件，能显著刺激预测市场的活跃度。预测市场作为一种新兴的金融工具，不仅反映了市场对未来事件的集体预期，也具备娱乐和投资的双重属性，其快速增长值得关注金融创新和行为经济学领域的投资者留意。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/03/business/strait-malacca-hormuz.html"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html"
         }
       ]
     }
