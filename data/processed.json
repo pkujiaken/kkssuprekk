@@ -1,8 +1,8 @@
 {
   "top5": [
     {
-      "title": "三星AI芯片需求强劲助推利润飙升，但市场高预期致股价回调",
-      "summary": "韩国科技巨头三星电子上季度利润创两年新高，主要得益于AI相关芯片的强劲销售。然而，尽管业绩大幅增长，三星股价在财报发布后仍下跌，表明投资者对AI热潮下的盈利预期已达到极高水平，任何不及预期的表现都可能导致回调。这反映了当前AI概念股普遍面临的挑战：即使表现卓越，也难以满足市场日益膨胀的胃口。",
+      "title": "三星AI芯片驱动盈利飙升，半导体市场前景乐观但投资者预期过高",
+      "summary": "受益于人工智能热潮对半导体芯片需求的激增，韩国科技巨头三星电子上季度利润创下近两年新高，同比大幅增长1800%。这一表现凸显了AI技术对全球半导体产业的巨大推动力，尤其是HBM（高带宽存储）芯片的需求。然而，尽管业绩强劲，三星股价仍出现下跌，表明市场对AI芯片热潮抱有更高的预期，投资者担忧增长的可持续性或已计入当前估值。这反映出在AI驱动的市场中，高预期可能导致即便亮眼财报也难以满足投资者胃口。",
       "sources": [
         {
           "name": "NYT Business",
@@ -15,8 +15,22 @@
       ]
     },
     {
-      "title": "美国加沙停火协议后霍尔木兹海峡再遭袭击，油轮安全引担忧",
-      "summary": "据美国官员消息，霍尔木兹海峡发生新的袭击事件，两艘商船遭到伊朗导弹袭击，这测试了美国与伊朗之间的停火协议。此次袭击再度加剧了中东地区的地缘政治紧张局势，可能对全球石油供应和航运安全构成威胁，进而影响能源市场价格和全球供应链的稳定性。投资者需密切关注事态发展及其对全球经济的潜在影响。",
+      "title": "美国5月贸易逆差扩大，商品进口额创历史新高",
+      "summary": "美国商务部数据显示，5月份贸易逆差进一步扩大，达到一年多来的最高水平。其中，商品进口额创历史新高，主要由药品和数据中心设备等拉动。这一数据反映了美国国内需求的持续强劲，但也可能预示着全球供应链的恢复以及美元强势下进口成本的相对优势。对于投资者而言，贸易逆差的扩大可能对美元汇率、国内产业政策以及未来的贸易关系产生影响，同时也是衡量经济健康状况及其对全球市场影响的关键指标。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/07/business/economy/us-trade-deficit-may.html"
+        },
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/07/07/business/economy/us-trade-deficit-may.html"
+        }
+      ]
+    },
+    {
+      "title": "伊朗袭击霍尔木兹海峡船只，地区紧张局势威胁全球石油供应",
+      "summary": "据报道，伊朗在霍尔木兹海峡对多艘船只发动袭击，尽管此前伊朗与美国曾达成停火协议，试图通过谈判结束敌对状态，但此次事件无疑是对脆弱地区和平的严峻考验。霍尔木兹海峡是全球重要的石油运输咽喉，任何不稳定因素都可能直接影响全球石油供应量和价格，进而对能源市场和全球宏观经济产生连锁反应。投资者需密切关注该地区的地缘政治动态，因为其对大宗商品价格和相关行业的冲击不容忽视。",
       "sources": [
         {
           "name": "NYT Business",
@@ -25,86 +39,68 @@
       ]
     },
     {
-      "title": "微软宣布大规模裁员并重组Xbox业务",
-      "summary": "科技巨头微软宣布进行大规模重组，裁减了4800个工作岗位，占其全球员工总数的2.1%，其中Xbox部门立即裁员1600人。此次裁员和业务重组表明微软正在进行战略调整，可能旨在优化成本结构并重新聚焦核心增长领域。此举也预示着在当前经济环境下，即使是大型科技公司也可能面临增长压力，并采取果断措施来提升效率。",
+      "title": "英国百万房主将面临更高抵押贷款，凸显加息对消费者影响",
+      "summary": "未来两年，英国预计将有一百万房主在续签抵押贷款协议时面临更高的月供，平均每月将增加45英镑。这一趋势反映出英国央行此前加息政策的滞后效应正逐步传导至普通家庭，直接影响消费者的可支配收入和消费能力。对于投资者而言，这意味着英国消费支出可能受到抑制，同时，银行体系的资产质量也可能面临压力。此情况将是评估英国经济前景和房地产市场稳定的重要信号。",
       "sources": [
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "SpaceX有望纳入纳斯达克100指数，或增加指数波动性",
-      "summary": "马斯克的太空探索技术公司SpaceX预计将于本周二被纳入纳斯达克100指数，此举将对指数构成和市场波动性产生显著影响。作为一家高增长的非上市公司，SpaceX的加入反映了私营高科技企业在公开市场中的影响力日益增强。同时，由于其独特的业务模式和潜在的流动性限制，未来可能会进一步加剧纳斯达克100指数相对于标普500指数的波动性。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/the-nasdaq-100-has-been-far-more-volatile-than-the-s-p-500-now-add-spacex-to-the-mix-cd397c36?mod=mw_rss_topstories"
-        },
-        {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/07/talk-your-book-how-spacex-got-into-the-nasdaq-100/"
-        }
-      ]
-    },
-    {
-      "title": "阿里巴巴AI模型广受欢迎但变现困难，凸显开源模式挑战",
-      "summary": "阿里巴巴的AI大模型（如Qwen）在全球开发者中广受欢迎，但由于其开源策略允许自由使用和修改，公司在将技术优势转化为商业利润方面面临挑战。这反映出AI领域的商业模式仍在探索中，特别是对于开源模型，如何在提供普惠技术与实现可持续盈利之间取得平衡是一个关键问题，对中国乃至全球AI公司的长期发展战略具有重要启示。",
+      "title": "特朗普承诺的外国投资热潮面临挑战，关税与经济因素并存",
+      "summary": "尽管关税威胁可能在一定程度上促使更多资本流入美国，但其他因素正在共同作用，使得特朗普总统承诺的外国投资热潮难以完全兑现。分析指出，除了贸易政策，全球经济环境、投资吸引力以及地缘政治风险等多种因素都在影响外国资本流向美国市场的决策。对于高净值投资者而言，这提示在评估美国市场吸引力时，需综合考量多维度的宏观经济和政策因素，而非仅关注单一政策声明，这直接关系到资本配置和长期投资策略的制定。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html"
+          "url": "https://www.nytimes.com/2026/07/07/business/economy/trump-foreign-investment.html"
+        },
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/07/07/business/economy/trump-foreign-investment.html"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Donald Trump",
-      "title": "对加密货币态度转变，以及对企业价格行为的施压",
-      "summary": "原话：「我已成为一个重要的加密货币支持者。」美国前总统特朗普公开表示支持加密货币，此言论发布后比特币应声反弹，显示其言论对市场情绪的显著影响。此外，他还批评汽油零售商在高油价时期获得高利润，并称赞沃尔玛降价是“爱国”行为，凸显其通过政治言论对商业行为和通胀施加影响。",
+      "name": "Ben Thompson",
+      "title": "Stratechery撰稿人Ben Thompson为Meta CEO扎克伯格撰写财报电话会议讲稿",
+      "summary": "观点：Ben Thompson为Meta CEO马克·扎克伯格的下一次财报电话会议撰写了一份“讲稿”，建议其如何阐述公司战略和未来愿景。Thompson的这份假想讲稿代表了业内顶尖分析师对Meta当下挑战与机遇的深刻理解，尤其是在AI与元宇宙转型背景下如何向投资者传递清晰、可信的信息。这对于关注科技巨头战略方向和市场沟通的高净值投资者而言，是理解Meta乃至整个行业未来走向的重要参考。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/trump-calls-walmart-patriotic-for-cutting-beef-prices-in-a-stark-change-of-tune-96c32712?mod=mw_rss_topstories"
+          "name": "Stratechery (Ben Thompson)",
+          "url": "https://stratechery.com/2026/a-script-for-mark-zuckerberg/"
         }
       ]
     },
     {
       "name": "Tyler Cowen",
-      "title": "警惕政府持股对科技创新的阻碍及资本收益作为劳动收入的再思考",
-      "summary": "观点：即使是私有化后的科技公司，政府保留大量股权也会扭曲激励机制，延缓竞争活力和技术进步。他以德国电信为例，阐述了这种安排如何阻碍公司发展。此外，他指出劳动收入份额的下降，一部分原因在于工资形式的变化，包括通过实体和股权薪酬支付，其中股票增值在税务上常被计为资本收益，但实质上是劳动收入，这重新定义了对劳资分配的理解。",
+      "title": "经济学家Tyler Cowen探讨预测市场向决策市场演变的力量",
+      "summary": "观点：经济学家Tyler Cowen指出，预测市场正日益展现出强大力量，并正在向“决策市场”演变。他引述了一桩丑闻事件中，某候选人退选概率从9%飙升至96%，同时该党派胜选概率也随之跳升，这生动地展示了预测市场如何迅速整合信息并反映事件对未来的影响。这对于关注市场效率和信息聚合机制的投资者具有启发意义，预示着未来这类市场可能在商业决策和风险管理中发挥更大作用。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-troubled-history-of-government-equity-in-technology.html"
-        },
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/capital-gains-can-be-labor-income.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/from-prediction-markets-to-decision-markets-and-beyond.html?utm_source=rss&utm_medium=rss&utm_campaign=from-prediction-markets-to-decision-markets-and-beyond"
         }
       ]
     },
     {
-      "name": "Ben Carlson",
-      "title": "“七巨头”科技股表现落后于其他市场",
-      "summary": "观点：投资评论员Ben Carlson观察到，目前市场上几乎所有其他板块的表现都超越了备受瞩目的“七巨头”（Magnificent Seven）科技股。这一趋势值得高净值投资者关注，可能预示着市场领导风格的变化，即从少数大型科技股主导的局面转向更广泛的市场参与，或是对大型科技股过高估值的一种修正。",
+      "name": "Donald Trump",
+      "title": "特朗普声称已成为“加密货币大咖”，比特币价格随之反弹",
+      "summary": "原话：「我已成为一个加密货币大咖。」美国前总统特朗普的这一表态，引发比特币价格反弹。此前比特币曾跌至6万美元附近。一位重要的政治人物公开支持加密货币，通常会被市场解读为潜在的监管放松或更友好的政策环境，从而提振投资者信心。对于关注数字资产的高净值投资者而言，特朗普态度的转变是影响加密市场情绪和未来发展方向的关键政治信号。",
       "sources": [
         {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/07/the-mag-7-is-losing/"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html"
         }
       ]
     },
     {
       "name": "BlackRock Investment Institute",
-      "title": "中国AI投资应侧重特定股票而非区域性交易",
-      "summary": "观点：贝莱德投资研究院（BlackRock Investment Institute）认为，对中国AI领域的投资应采取“个股为本”（stock-specific）的策略，而非将其视为一个广泛的“区域性交易”（regional trade）。这意味着投资者不应盲目押注整个中国AI板块，而应深入研究具体公司的基本面和竞争优势，以识别真正的价值和增长潜力。",
+      "title": "贝莱德投资研究院建议中国AI投资应聚焦个股而非区域板块",
+      "summary": "观点：贝莱德投资研究院（BlackRock Investment Institute）指出，中国AI领域的投资机会更多地体现在具体个股而非区域性板块。这表明，尽管中国在人工智能领域发展迅速，但并非所有相关企业都能同等受益，投资者需要深入研究企业基本面和技术优势，进行精准布局。对于关注中国市场和科技板块的高净值投资者，这一策略性建议强调了精选个股的重要性，以避免盲目投资区域概念带来的风险。",
       "sources": [
         {
           "name": "CNBC Finance",
@@ -113,21 +109,45 @@
       ]
     },
     {
-      "name": "Martin Alderson",
-      "title": "警告AI产业可能面临利润率大幅收缩的风险",
-      "summary": "观点：专家Martin Alderson在其文章中提出，AI产业正面临“即将到来的利润率崩溃”（upcoming AI margin collapse）。他认为，随着AI技术日益普及和竞争加剧，提供AI服务的成本将不断下降，导致行业利润空间受到严重挤压。这一观点提醒投资者和行业参与者，AI领域的长期盈利模式和竞争格局可能比当前市场预期更为复杂和严峻。",
+      "name": "华尔街分析师",
+      "title": "华尔街分析师对SpaceX估值看法分歧巨大，有机构预测股价将飙升400%",
+      "summary": "华尔街对SpaceX的估值看法出现巨大分歧，其两家主承销商高盛和摩根士丹利在IPO静默期结束后，初始覆盖报告中给出的估值相差超过1万亿美元。尽管如此，仍有分析师对SpaceX的前景充满信心，甚至大胆预测其股价将飙升400%。这种巨大的估值差异反映了市场对SpaceX的商业模式、未来增长潜力以及其所处新兴航天和AI领域的复杂性认识不一。对于寻求高增长机会的投资者而言，这既是潜在机遇，也预示着投资决策需要深入研究和风险考量。",
       "sources": [
         {
-          "name": "Hacker News Top",
-          "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/spacex-wins-wild-praise-with-one-analyst-going-so-far-as-to-predict-a-400-stock-surge-cb0d1e23?mod=mw_rss_topstories"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/spacexs-two-lead-underwriters-have-a-1-trillion-chasm-in-their-valuation-as-quiet-period-ends-11d8ef35?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "特朗普政府“刺激账户”计划预计向股市注入200亿美元",
-      "summary": "根据富国银行股权分析师的预测，特朗普政府推出的“刺激账户”计划有望向美国股市注入近200亿美元资金。这项政策旨在通过向符合条件的民众发放资金来刺激经济和市场，可能为市场带来短期流动性支持。投资者需关注此类财政政策对市场资金流向和风险偏好的影响。",
+      "title": "美国房地产市场报告趋于平衡，经纪人反馈降价房源减少",
+      "summary": "根据CNBC的住房市场调查，越来越多的房地产经纪人报告美国房地产市场趋于平衡，主动挂牌房源的降价数量显著减少。这表明在经历了此前几年过热或急剧降温的阶段后，市场正在寻找新的供需平衡点。对于宏观经济和相关投资者，房地产市场的稳定是经济健康的重要信号，可能影响消费者信心、利率政策走向以及建筑和金融行业的表现。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/07/cnbc-housing-market-survey-balanced-market.html"
+        }
+      ]
+    },
+    {
+      "title": "美国证交会任命保罗·奈特为首席运营官，强化机构运营效率",
+      "summary": "美国证券交易委员会（SEC）宣布任命保罗·奈特（Paul Knight）为新的首席运营官（COO），负责监督该机构的运营和行政职能。此举旨在提升SEC的内部运作效率和管理水平。对于市场参与者和投资者而言，SEC作为主要的金融监管机构，其内部治理的优化可能会间接影响监管效率、市场透明度和政策执行力，是保障资本市场健康运行的重要一环。",
+      "sources": [
+        {
+          "name": "SEC Press",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-62-sec-names-paul-knight-chief-operating-operator"
+        }
+      ]
+    },
+    {
+      "title": "“特朗普账户”计划或向股市注入近200亿美元资金",
+      "summary": "根据富国银行股权分析师的预测，“特朗普账户”计划预计将为美国股市带来近200亿美元的资金流入。这一政府主导的金融计划旨在引导资金进入市场，有望提振市场流动性和投资者情绪。对于宏观经济和股票市场而言，如此规模的资金注入可能对特定板块或整体市场产生提振作用，投资者应关注资金流向及可能带来的市场波动。",
       "sources": [
         {
           "name": "CNBC Finance",
@@ -136,44 +156,30 @@
       ]
     },
     {
-      "title": "波斯湾航运恢复，原油供应增加缓解油价压力",
-      "summary": "近期波斯湾地区的航运活动有所恢复，加上OPEC+组织承诺增加原油产量，共同缓解了国际能源市场的供应压力，导致油价下行。尽管地缘政治事件（如霍尔木兹海峡袭击）仍存不确定性，但目前供应端的变化对稳定油价起到了积极作用。能源投资者需密切关注供应变化与地缘政治风险的平衡。",
+      "title": "能源公司在油价下跌初期盈利增加，行业利润分配出现变化",
+      "summary": "当原油价格开始下跌时，加油站等终端零售商反而获得更高的利润。这一现象表明，在油价传导链条中，零售环节的定价策略可能导致其在成本下降时能够保持相对稳定的售价，从而扩大了利润空间。对于投资者而言，这揭示了能源行业价值链中不同环节的盈利模式差异，以及市场波动下各方利润分配的变化，有助于深入理解能源板块的投资机会和风险。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/06/business/hormuz-strait-shipping-oil.html"
-        }
-      ]
-    },
-    {
-      "title": "美国总统特朗普批评汽油零售商在高油价时期获得高利润",
-      "summary": "美国总统特朗普公开指责汽油零售商在油价下跌时仍保持高价，获取过高利润，并称赞沃尔玛降价是“爱国”行为。此番言论凸显了政府对消费者物价和企业盈利的关注，可能预示着未来在能源零售领域或有更多政治压力。投资者应考虑政府对市场干预的潜在风险，以及其对特定行业利润空间的影响。",
-      "sources": [
-        {
-          "name": "NYT Business",
+          "name": "NYT Economy",
           "url": "https://www.nytimes.com/2026/07/06/business/economy/gas-station-prices.html"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/trump-calls-walmart-patriotic-for-cutting-beef-prices-in-a-stark-change-of-tune-96c32712?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "Anthropic发布语言模型“全局工作空间”研究，或推动AI架构新进展",
-      "summary": "人工智能研究公司Anthropic发布了一项关于语言模型中“全局工作空间”的新研究，探讨了如何通过改进AI架构来提升其理解和推理能力。这项基础性研究可能为未来大型语言模型（LLMs）的设计和开发带来突破，进而影响整个AI行业的技术走向和应用前景。关注AI技术前沿的投资者应留意此类底层创新。",
+      "title": "AI生成虚假士兵视频泛滥社交媒体，警示人工智能滥用风险",
+      "summary": "利用人工智能生成的虚假士兵视频正大量涌入社交媒体，试图利用公众对美军的支持来达到其他目的。这种现象凸显了AI技术被滥用于传播虚假信息和进行影响力操作的严峻挑战。对于科技行业及投资者而言，这不仅关乎技术伦理和企业社会责任，也可能引发更严格的监管，影响AI技术的商业化应用和发展路径。识别和打击AI驱动的虚假信息将成为未来数字治理的关键一环。",
       "sources": [
         {
-          "name": "Hacker News Top",
-          "url": "https://www.anthropic.com/research/global-workspace"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/07/business/soldiers-ai-disinformation.html"
         }
       ]
     },
     {
-      "title": "中国致力于复制电动汽车成功经验，大力发展机器人出租车行业",
-      "summary": "中国正积极利用其在电动汽车供应链方面的优势，大规模推动机器人出租车（robotaxis）产业的发展，旨在将自动驾驶技术推向全球市场。此举表明中国不仅在电动汽车领域寻求领先，还在加速布局自动驾驶这一前沿科技赛道。投资者应关注中国在智能出行领域的战略布局及其全球扩张潜力。",
+      "title": "中国力争复制电动汽车成功经验，大举发展自动驾驶出租车",
+      "summary": "中国正在积极推动自动驾驶出租车（robotaxis）的发展，期望能复制其在电动汽车领域取得的全球成功。得益于完善的电动汽车供应链基础，中国的自动驾驶企业在全球扩张中获得了先发优势。这一战略不仅可能重塑全球交通出行方式，也预示着中国在未来智能出行领域的雄心。对于关注全球科技竞争和中国高科技产业发展的投资者，这将是下一个重点关注的增长领域。",
       "sources": [
         {
           "name": "BBC Business",
@@ -182,109 +188,162 @@
       ]
     },
     {
-      "title": "专家警告AI产业可能面临利润率大幅收缩的风险",
-      "summary": "一项专家分析指出，尽管AI行业当前炙手可热，但未来可能面临利润率的大幅崩溃。随着AI技术的普及和竞争加剧，服务的边际成本将趋于下降，从而压缩行业整体的盈利空间。这提醒投资者，在追逐AI热潮的同时，需警惕潜在的利润挑战和行业竞争格局的变化，审慎评估公司的长期盈利能力。",
+      "title": "政府在科技企业中的股权投资弊大于利，阻碍技术进步",
+      "summary": "有观点认为，政府在科技企业中持有大量股权的历史表明，这种安排往往会扭曲激励机制，延缓竞争活力，从而阻碍技术进步。以德国电信为例，即使在私有化之后，政府的实质性持股仍导致了效率低下。对于关注市场化改革和科技创新的投资者来说，这一观点强调了充分竞争和私人资本在推动技术发展中的核心作用，政府过度干预可能适得其反。",
       "sources": [
         {
-          "name": "Hacker News Top",
-          "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-troubled-history-of-government-equity-in-technology.html?utm_source=rss&utm_medium=rss&utm_campaign=the-troubled-history-of-government-equity-in-technology"
+        }
+      ]
+    },
+    {
+      "title": "机器人租赁业务兴起，改变企业对高科技设备的获取方式",
+      "summary": "随着机器人技术快速发展，机器人租赁（Robots-as-a-Service）模式正日益普及。对于许多企业而言，租赁机器人而非购买成为更具吸引力的选择。这种模式降低了企业部署高科技自动化的门槛，使得更多中小企业能够利用机器人提高效率。对于科技投资者而言，这预示着机器人市场的商业模式创新，以及未来自动化技术在更广泛领域应用的潜力，推动服务型机器人市场的发展。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "“Magnificent Seven”科技巨头近期表现落后于其他市场板块",
-      "summary": "近期市场数据显示，由七大科技巨头组成的“Magnificent Seven”股票组合，其表现已开始落后于其他市场板块。这一趋势可能标志着市场热点从少数超大型科技股向更广泛的价值股或中小盘股扩散。对于偏重科技股的投资者而言，这可能意味着需要重新评估投资组合的集中度，并考虑多元化配置以应对市场风格的转变。",
+      "title": "SpaceX股票表现未受指数基金提振，市场对其私有性质仍存疑问",
+      "summary": "尽管华尔街对埃隆·马斯克旗下的火箭和AI公司SpaceX表现出浓厚兴趣，但其股价并未像一些市场观察者预期的那样，因指数基金的青睐而获得显著提振。这引发了市场对SpaceX作为私有公司进入指数的复杂性以及其估值机制的讨论。对于投资者而言，SpaceX的案例揭示了非公开市场巨头与公开市场估值体系之间的摩擦，以及在投资新兴高科技公司时需要考虑的独特因素。",
       "sources": [
         {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/07/business/dealbook/spacex-index-funds.html"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/07/07/business/dealbook/spacex-index-funds.html"
+        },
+        {
           "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/07/the-mag-7-is-losing/"
+          "url": "https://awealthofcommonsense.com/2026/07/talk-your-book-how-spacex-got-into-the-nasdaq-100/"
         }
       ]
     },
     {
-      "title": "美光科技股价上涨，市场对半导体行业前景重拾乐观情绪",
-      "summary": "美光科技的股价近期出现上涨，分析师认为这预示着市场对整个半导体行业，特别是芯片领域，正重新恢复乐观情绪。投资者正密切关注三星的财报表现和SK海力士的美国存托凭证（ADR）上市动态，这些事件可能进一步增强市场信心。半导体作为AI等高科技发展的基石，其行业景气度对科技股走势至关重要。",
+      "title": "Rivian通过增发股份筹集资本，股价下跌超10%",
+      "summary": "电动汽车制造商Rivian宣布出售7500万股股票以筹集资本，消息发布后其股价下跌超过10%。尽管Rivian此前一周股价上涨19.2%，周一也录得8.1%的涨幅，但大规模的增发通常会对现有股东的持股造成稀释效应，从而在短期内压低股价。对于投资者而言，这反映出成长型公司在快速扩张阶段对资金的持续需求，以及筹资行为对股价的直接影响，需要权衡公司长期增长潜力与短期稀释风险。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/07/rivian-stock-rivn-capital-raise.html"
+        }
+      ]
+    },
+    {
+      "title": "美光科技股价下跌，投资者担忧存储市场或已见顶",
+      "summary": "美光科技（Micron）股价下跌，原因在于投资者开始怀疑存储芯片市场是否已接近周期顶部。一位分析师指出，“大多数投资者反馈仍指向AI板块的谨慎情绪”。尽管AI需求强劲，但市场对存储芯片供应过剩或价格回落的担忧依然存在，这可能影响美光等公司的未来盈利能力。对于半导体及科技股投资者，存储芯片市场的周期性特征及其与AI需求的动态平衡是评估行业投资风险的关键因素。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/microns-stock-gains-signaling-a-return-to-optimism-about-the-chip-sector-0b7f6a8c?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/microns-stock-falls-as-investors-wonder-if-the-memory-market-is-near-the-top-ab2d2feb?mod=mw_rss_topstories"
+        }
+      ]
+    }
+  ],
+  "a_stocks": [
+    {
+      "title": "贝莱德投资研究院：中国AI投资需精选个股而非泛投区域",
+      "summary": "贝莱德投资研究院（BlackRock Investment Institute）提出，鉴于中国人工智能领域的复杂性和差异性，投资者在布局时应侧重于精选有特定优势的个股，而非将中国AI视为一个整体的区域性交易。这一观点强调了在中国AI市场中进行深入研究和价值挖掘的重要性，而非简单追逐概念。对于关注中国科技股的投资者，这意味着需要更高的专业能力来识别真正的赢家，以实现有效的投资回报。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/07/china-ai-play-is-stock-specific-not-a-regional-trade-blackrock.html"
         }
       ]
     },
     {
-      "title": "丰田投资36亿美元将皮卡生产线迁至美国得州，凸显制造业回流趋势",
-      "summary": "丰田汽车宣布将投资36亿美元，把其中型皮卡Tacoma的生产线从墨西哥转移到其位于美国德克萨斯州圣安东尼奥的工厂。这一重大投资不仅加强了丰田在美国的生产基地，也反映了全球供应链调整和制造业回流美国的趋势。对于寻求美国本土制造业投资机会的投资者，此举是一个积极信号，表明大型企业对美国本土生产和就业的承诺。",
+      "title": "中国自动驾驶出租车战略：有望复制电动汽车成功",
+      "summary": "中国正积极推动自动驾驶出租车（robotaxis）的全球扩张，其目标是复制电动汽车（EV）产业的成功经验。中国强大的电动汽车供应链为自动驾驶公司提供了坚实基础，使其在全球市场竞争中占据优势。对于关注中国市场的投资者而言，这不仅是未来交通领域的重大变革，也代表着中国在高科技产业中实现自主创新和全球领导力的潜力，是值得长期关注的战略性投资方向。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "business": [
+    {
+      "title": "北约宣布数十亿美元国防协议，利好主要国防承包商",
+      "summary": "北约宣布了数十亿美元的国防协议，多家主要国防公司，包括莱茵金属（Rheinmetall）和洛克希德马丁（Lockheed Martin），都获得了数十亿美元的积压订单。这些协议的签署，反映了地缘政治紧张局势下各国对国防开支的增加，将直接提振国防工业的业绩。对于投资者而言，这为国防领域相关股票带来了明确的增长动力，值得关注其长期盈利前景和行业整合动态。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/nato-announces-billions-in-defense-deals-what-investors-should-watch-for-now-d7f3c4be?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "丰田斥资36亿美元将Tacoma皮卡生产从墨西哥迁至美国德州",
+      "summary": "丰田汽车宣布将投资36亿美元，把Tacoma中型皮卡的生产线从墨西哥迁至其位于美国德克萨斯州圣安东尼奥的制造工厂。这一重大投资不仅体现了汽车制造商在供应链布局上的战略调整，也可能受地缘政治、贸易政策和劳动力成本等因素影响。对于投资者而言，此举反映了“近岸外包”或“回流”趋势，可能影响北美地区的制造业就业和经济活动，对汽车产业链和区域经济发展具有重要意义。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/07/06/toyota-tacoma-truck-san-antonio-plant.html"
         }
       ]
-    }
-  ],
-  "a_stocks": [],
-  "business": [
+    },
     {
-      "title": "瑞典金融科技公司Klarna寻求美国银行牌照，拓展业务版图",
-      "summary": "瑞典“先买后付”（Buy Now, Pay Later）巨头Klarna正积极寻求美国银行牌照，此举标志着其在金融服务领域的进一步扩张，旨在超越传统“先买后付”业务。Klarna的举动反映了全球金融科技公司向传统银行体系渗透的趋势，也预示着金融服务行业竞争将日益激烈。投资者应关注金融科技创新对传统银行业的冲击与融合。",
+      "title": "Klarna寻求美国银行牌照，进一步拓展金融服务版图",
+      "summary": "瑞典“先买后付”巨头Klarna正寻求在美国获得银行牌照，此举标志着其在金融科技领域进一步扩张，超越了传统的“先买后付”业务。Klarna正加入一波金融科技和加密货币公司寻求进入传统银行体系的浪潮。对于金融科技行业的投资者，这预示着该领域的竞争将更加激烈，也可能促使传统银行加速数字化转型，影响未来金融服务的格局。",
       "sources": [
         {
           "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html"
+        },
+        {
+          "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html"
         }
       ]
     },
     {
-      "title": "国际旅游迎来“淡季不淡”的繁荣，航空公司延长航班时刻以满足需求",
-      "summary": "受破纪录高温和出行需求旺盛的推动，国际旅游市场在传统淡季也呈现出繁荣景象。航空公司为抓住这一机遇，正在延长航班时刻表以最大化利润。这一趋势表明消费者对旅行的强劲需求，为航空和旅游相关产业带来了积极信号。投资者可关注旅游业的持续复苏及其对相关股票的提振作用。",
+      "title": "Stellantis将在美国推出售价1.4万美元的微型电动车Fiat Topolino",
+      "summary": "汽车巨头Stellantis宣布将在美国市场销售其微型电动车Fiat Topolino，售价为13,995美元。尽管Topolino外观酷似小型汽车，但它实际上是一种四轮摩托车，功能更接近高尔夫球车。此举可能旨在探索新的城市出行市场和年轻消费者群体。对于汽车行业投资者而言，这反映了车企在电动化转型中探索多样化产品策略和细分市场，以应对日益严格的排放法规和消费者对低成本、便捷出行方案的需求。",
       "sources": [
         {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html"
-        }
-      ]
-    },
-    {
-      "title": "英国天空公司（Sky）以16亿英镑收购ITV媒体和娱乐部门",
-      "summary": "英国媒体巨头天空公司（Sky）宣布以16亿英镑收购ITV的媒体和娱乐部门，旨在进一步巩固其在英国广播和内容分发领域的领先地位。此项并购是英国媒体行业整合的又一例证，可能重塑市场竞争格局，对两家公司的未来战略和盈利能力产生重要影响。投资者应关注欧洲媒体行业的并购趋势及对估值的影响。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.cnbc.com/2026/07/07/stellantis-fiat-topolino-ev.html"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "有观点认为AI财富分配不公，呼吁重新审视用户数据价值",
-      "summary": "有评论指出，尽管用户数据是推动AI繁荣的关键，但由此产生的股权财富却几乎完全归于大型科技公司。这一观点呼吁社会重新审视用户数据在AI经济中的价值，并探讨更公平的财富分配机制。对于高净值投资者而言，这不仅关乎社会公平，也可能预示着未来AI行业在数据所有权、隐私和监管方面面临的结构性挑战。",
+      "title": "预测市场正从“预测”转向“决策”，提升各领域效率",
+      "summary": "预测市场作为一种信息聚合工具，其作用正从单纯预测事件发展转向影响和指导决策。通过迅速反映市场情绪和可能性变化，预测市场能够为企业和政策制定者提供更精确、实时的信息，从而优化决策过程。对于关注市场创新和数据驱动决策的投资者而言，这一转变意味着预测市场在商业策略、风险管理乃至政治选举等多个领域具有巨大潜力，值得深入研究其应用价值。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/your-data-built-the-ai-boom-but-big-tech-is-pocketing-100-of-the-equity-7454b0e0?mod=mw_rss_topstories"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/from-prediction-markets-to-decision-markets-and-beyond.html?utm_source=rss&utm_medium=rss&utm_campaign=from-prediction-markets-to-decision-markets-and-beyond"
         }
       ]
     },
     {
-      "title": "研究显示美国国会休会期间股市往往上涨，降低监管不确定性",
-      "summary": "一项分析揭示了一个容易被忽视的市场现象：当美国国会议员进入夏季休会期时，股市往往表现出上涨趋势。研究认为，这主要是因为立法活动减少，从而降低了监管不确定性。这种结构性因素可能为投资者提供一个观察市场政治敏感性的视角，即政策稳定期对风险资产的积极影响。",
+      "title": "资本利得可被视为劳动收入，薪酬形式变化影响劳动份额分析",
+      "summary": "有研究指出，资本利得中的相当一部分可被视为劳动收入，这主要是由于薪酬形式的改变，包括通过股权激励等方式支付。当员工获得公司股票且股票增值时，税法倾向于将部分增值视为资本利得。这一发现挑战了传统的劳动份额衡量方法，可能导致对劳动收入占比下降的重新评估。对于关注宏观经济结构、收入不平等和劳动力市场演变的投资者，理解这种薪酬形式的转变至关重要，它揭示了经济结构深层次的变化。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/stocks-rally-when-congress-goes-on-summer-break-here-is-the-hidden-reason-e70a6be3?mod=mw_rss_topstories"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/capital-gains-can-be-labor-income.html?utm_source=rss&utm_medium=rss&utm_campaign=capital-gains-can-be-labor-income"
         }
       ]
     },
     {
-      "title": "美国联邦通信委员会计划废除ISP费用透明化规定",
-      "summary": "美国联邦通信委员会（FCC）正计划终止一项拜登时代的规定，该规定要求互联网服务提供商（ISP）必须列出所有费用，并提供单一的“最高”价格。这一监管变化可能意味着未来ISP在费用披露方面拥有更大的自由度，可能会影响消费者的实际支出。投资者需关注此类政策变动对电信行业盈利模式和消费者保护带来的结构性影响。",
+      "title": "高尔夫模拟器公司Full Swing被收购，反映小众运动科技并购热潮",
+      "summary": "投资公司Versant同意以5.3亿美元收购高尔夫模拟器公司Full Swing。这笔交易旨在扩大Versant在非传统媒体资产方面的投资，以实现收入来源多元化，降低对有线电视的依赖。高尔夫模拟器市场的并购活动，反映了小众运动科技领域的增长潜力和资本市场的关注。对于关注消费趋势和科技赋能运动的投资者而言，这表明特定生活方式科技产品正在吸引大量投资，可能带来新的增长点和整合机会。",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/06/versant-to-buy-golf-simulator-company-full-swing.html"
         }
       ]
     }
