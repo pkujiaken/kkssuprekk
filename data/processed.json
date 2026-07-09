@@ -1,68 +1,72 @@
 {
   "top5": [
     {
-      "title": "油价飙升与中东地缘政治紧张加剧全球通胀担忧",
-      "summary": "美国前总统特朗普关于与伊朗的“停火协议已结束”的言论导致国际油价大幅上涨，布伦特原油和WTI原油合约均出现显著涨幅。市场交易者预测，受最新事态影响，霍尔木兹海峡的航运流量可能需等到2027年才能恢复正常。国际货币基金组织（IMF）亦警告，伊朗冲突带来的影响将使美国面临持续至2027年的通胀压力，并将其作为2026年全球经济增长放缓的主要原因之一。这表明地缘政治冲突对全球能源市场和宏观经济稳定的深远影响。",
+      "title": "FOMC会议纪要显示联储对通胀高度担忧，部分官员倾向加息",
+      "summary": "联邦公开市场委员会（FOMC）的最新会议纪要显示，面对三年高位的通胀，多位官员表达了高度担忧，并有成员倾向于加息以应对物价压力。这一立场预示着美联储可能采取更鹰派的货币政策，对全球利率走向和市场流动性产生深远影响。",
       "sources": [
         {
+          "name": "Federal Reserve Press",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm"
+        },
+        {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/08/business/oil-gas-markets-iran-shipping-hormuz.html"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories"
-        },
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/08/kalshi-traders-think-hormuz-traffic-wont-return-to-normal-this-year.html"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/iran-war-will-leave-an-inflation-scar-on-the-u-s-through-2027-imf-says-909818b8?mod=mw_rss_topstories"
+          "url": "https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html"
         }
       ]
     },
     {
-      "title": "国际货币基金组织下调2026年全球经济增长预期",
-      "summary": "国际货币基金组织（IMF）最新预测，2026年全球产出增长将降至3%，主要原因包括高企的商品价格以及中东地缘政治紧张局势。IMF警告，伊朗冲突不仅推高了能源成本，还将给全球经济，特别是美国，带来持续到2027年的通胀“疤痕”。这一预测凸显了当前全球经济面临的结构性挑战，以及地缘政治风险对通胀和增长前景的长期负面影响，预示着投资者需要对未来的市场波动性保持警惕。",
+      "title": "美国与伊朗冲突升级，霍尔木兹海峡石油市场剧烈波动",
+      "summary": "美国与伊朗之间的军事冲突升级，导致中东地区地缘政治紧张加剧，霍尔木兹海峡的石油运输面临“全面冲突条件”。油价应声大幅上涨，并预计将保持高位波动，直接影响全球能源成本和通胀预期，对依赖原油进口的国家经济构成压力。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/08/business/energy-environment/iran-war-oil-prices.html"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/oil-prices-extend-gains-after-hours-as-u-s-forces-conduct-additional-strikes-on-iran-9fa7caee?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "IMF下调2026年全球经济增长预期至3%，高商品价格是主因",
+      "summary": "国际货币基金组织（IMF）发布报告，将2026年全球经济产出增长预测下调至3%，主要原因是居高不下的商品价格对全球经济活动造成抑制。这表明全球经济复苏面临通胀和供应链的双重挑战，可能促使各国央行在抗通胀和支持增长之间做出艰难权衡。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/07/08/business/economy/imf-world-economy-inflation.html"
         },
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/iran-war-will-leave-an-inflation-scar-on-the-u-s-through-2027-imf-says-909818b8?mod=mw_rss_topstories"
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/07/08/business/economy/imf-world-economy-inflation.html"
         }
       ]
     },
     {
-      "title": "蓝色起源寻求首次外部融资，估值达1300亿美元",
-      "summary": "杰夫·贝索斯旗下的太空公司蓝色起源（Blue Origin）正接近完成一轮大规模融资，这将是该公司首次引入外部投资者，估值高达1300亿美元。此举标志着蓝色起源发展进入新阶段，也反映了太空探索和商业化领域对高净值资本的巨大吸引力。外部资金的注入有望加速蓝色起源的研发和运营，进一步推动太空经济的发展，并可能为未来的潜在IPO奠定基础，值得投资者密切关注其在商业航天领域的进展。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/08/business/dealbook/bezos-funding-blue-origin.html"
-        }
-      ]
-    },
-    {
-      "title": "旧金山房地产市场受AI热潮影响，房屋交易现以AI公司股票支付",
-      "summary": "随着OpenAI和Anthropic等人工智能初创公司在旧金山湾区崛起，其影响力已开始扭曲当地的房地产市场。有报道指出，一些房屋卖家现在要求以这些未上市AI公司的股票作为支付方式，而非现金，以期在未来IPO中获得更高回报。这一现象不仅反映了硅谷对AI技术的热切追捧和财富效应的集中，也揭示了高科技公司在私人市场的高估值如何渗透到传统资产类别，为投资者提供了观察AI泡沫化或结构性财富转移的独特视角。",
+      "title": "OpenAI/Anthropic股权成旧金山房产交易新筹码，AI财富扭曲市场",
+      "summary": "随着AI巨头OpenAI和Anthropic上市临近，其员工和早期投资者持有的股权已成为旧金山湾区高端房产交易中的替代支付方式，部分卖家甚至直接要求以这些公司的股票进行结算。这反映了AI领域积累的巨大财富正在快速改变当地资产市场结构，也预示着AI独角兽上市可能引发的资本溢出效应。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "微软Xbox部门裁员并面临Game Pass战略失败的挑战",
-      "summary": "微软Xbox部门正在进行大规模裁员，有分析指出，这反映了该公司Game Pass订阅服务策略的“彻底失败”。尽管Game Pass曾被视为游戏行业的未来，但其增长和盈利能力可能未能达到预期。此次裁员和战略调整对微软而言，意味着在竞争激烈的游戏市场中需要重新评估其订阅模式和内容投入。对于投资者，这提示了即使是科技巨头在追求创新业务模式时也面临巨大风险，订阅经济并非万能。",
+      "title": "贝佐斯旗下蓝色起源估值达1300亿美元，即将首次引入外部投资者",
+      "summary": "杰夫·贝佐斯创立的太空探索公司蓝色起源（Blue Origin）正寻求完成其首次外部融资，估值高达1300亿美元。此举标志着这家长期由贝佐斯个人资助的公司将走向更广泛的资本市场，其融资规模和估值凸显了太空产业的巨大吸引力及潜在增长空间，对未来太空经济的发展具有重要参考意义。",
       "sources": [
         {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/08/business/dealbook/bezos-funding-blue-origin.html"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/07/08/business/dealbook/bezos-funding-blue-origin.html"
         }
       ]
     }
@@ -70,24 +74,24 @@
   "people": [
     {
       "name": "Ben Thompson",
-      "title": "微软Xbox部门裁员反映Game Pass策略失败，Meta应明确其AI战略",
-      "summary": "观点：Ben Thompson 分析称，微软Xbox部门的大规模裁员凸显了其Game Pass订阅策略的“彻底失败”，这对于业界有着深远影响。此外，他还为Meta CEO马克·扎克伯格撰写了一份剧本，建议Meta在即将到来的财报电话会议上，需要更清晰地阐述其人工智能战略和发展方向，以重塑市场信心和预期。",
+      "title": "观点：微软Xbox的Game Pass策略“彻底失败”",
+      "summary": "科技分析师Ben Thompson指出，微软Xbox部门的大规模裁员，反映出其Game Pass订阅服务策略的“彻底失败”。他认为，Game Pass未能如预期般吸引和留住用户，导致Xbox在游戏主机市场面临严峻挑战，这一失败案例对所有试图通过订阅模式构建平台护城河的公司都具有警示意义。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
           "url": "https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/"
-        },
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/a-script-for-mark-zuckerberg/"
         }
       ]
     },
     {
       "name": "Tyler Cowen",
-      "title": "探讨AI模型是否能“同意”其自身宪法，涉及AI治理哲学深层问题",
-      "summary": "观点：经济学家Tyler Cowen援引一篇新论文，探讨了人工智能模型是否能够“同意”其自身的“宪法”这一哲学和法律问题。他强调，当前诸如Claude的“宪法”和OpenAI的“模型规范”等AI治理机制应被视为真正的宪法，我们需严肃对待它们如何管理我们以及它们所创造的AI。这一观点促使投资者关注AI伦理、治理和未来监管框架的深层讨论，这些将直接影响AI产业的长期发展和投资环境。",
+      "title": "观点：人工智能模型可能拥有“内部神经模式”，以及AI治理需严肃对待",
+      "summary": "经济学家Tyler Cowen在其博客中关注了人工智能研究的最新发现，即Claude等AI模型已发展出“小型内部神经模式”，并在其内部处理中扮演特殊角色。他同时强调，对于AI模型的“宪法”（即其内部治理规则）以及AI公司聘请哲学家的现象，都应被严肃对待，以应对AI伦理和治理的复杂性。",
       "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-561.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-561"
+        },
         {
           "name": "Marginal Revolution (Tyler Cowen)",
           "url": "https://marginalrevolution.com/marginalrevolution/2026/07/can-ai-models-consent-to-their-own-constitutions.html?utm_source=rss&utm_medium=rss&utm_campaign=can-ai-models-consent-to-their-own-constitutions"
@@ -95,31 +99,21 @@
       ]
     },
     {
-      "name": "Tom Lee",
-      "title": "华尔街看涨者视当前市场下跌为买入机会",
-      "summary": "观点：Fundstrat的Tom Lee作为华尔街的看涨者，在当前全球股市步履维艰、甚至可能陷入熊市的情况下，依然认为市场回调提供了买入机会。尽管近期三星等公司面临损失，他仍选择“逢低买入”。他的观点代表了一种逆势投资策略，可能预示着他看到了市场深层韧性或某些被低估的资产类别，为投资者提供了不同的市场解读视角。",
+      "name": "Tyler Cowen",
+      "title": "观点：对伊朗局势的最初评估未因战争进程而改变，反思地缘政治复杂性",
+      "summary": "经济学家Tyler Cowen在博文中回顾了美国与伊朗冲突的初始立场，并表示尽管战事不断演变，他最初对不应开战的评估并未改变。他呼吁对伊朗采取“正确模型”进行思考，这暗示了在复杂地缘政治中，深入理解各方动态及长期影响的重要性，而非仅关注短期军事行动。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/as-a-once-hot-stock-market-tumbles-into-bear-territory-this-wall-street-bull-says-its-time-to-buy-the-dip-c8c2c72f?mod=mw_rss_topstories"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/just-wondering-what-the-correct-model-of-iran-is-here.html?utm_source=rss&utm_medium=rss&utm_campaign=just-wondering-what-the-correct-model-of-iran-is-here"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "美联储提议修订银行反洗钱规定，加强金融监管",
-      "summary": "美联储理事会正在就一项提案征求公众意见，旨在修订银行反洗钱（AML）计划的维持要求。此举旨在强化金融机构在打击洗钱和恐怖主义融资方面的职责，确保银行体系的健全和稳定。对于高净值投资者而言，这意味着未来金融交易可能会面临更严格的审查和报告要求，金融机构的合规成本可能上升，并可能影响银行股的长期表现和监管风险。",
-      "sources": [
-        {
-          "name": "Federal Reserve Press",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm"
-        }
-      ]
-    },
-    {
       "title": "美国5月贸易逆差扩大，商品进口创历史新高",
-      "summary": "美国5月份贸易逆差扩大，达到一年多来的最高水平，主要原因是商品进口创下历史新高，其中包括药品和数据中心设备。这一趋势反映了美国消费者和企业对外国商品需求的强劲增长，但也可能加剧对国内制造业和贸易平衡的担忧。对于投资者而言，贸易逆差的扩大可能影响美元汇率，并对全球供应链的动态以及特定行业的表现产生连锁效应。",
+      "summary": "美国商务部数据显示，5月份美国贸易逆差进一步扩大，主要原因是药品和数据中心设备等外国商品进口量创下历史新高。这使得月度贸易逆差达到一年多来的最高水平，反映出强劲的国内需求，但也可能加剧市场对美元走弱和贸易保护主义抬头的担忧。",
       "sources": [
         {
           "name": "NYT Economy",
@@ -128,18 +122,28 @@
       ]
     },
     {
-      "title": "美国住房市场显现平衡迹象，价格上涨放缓",
-      "summary": "CNBC住房市场调查显示，越来越多的房地产经纪人报告称美国住房市场正趋于平衡。与之前的调查相比，主动挂牌房源中至少进行一次价格下调的比例大幅下降。这表明在经历了多年的快速上涨后，美国房地产市场正在降温，买卖双方的力量对比趋于均衡。对于房地产投资者和相关行业，这意味着市场可能进入一个更可持续的增长阶段，但高回报的机会可能减少，需要更精细的投资策略。",
+      "title": "投资者对美元看涨情绪达十年新高，受中东紧张局势及美联储政策预期提振",
+      "summary": "市场数据显示，投资者对美元的看涨情绪达到十年来的最高点。这一趋势主要受到中东地区紧张局势升级导致油价上涨的推动，这重新引发了通胀担忧，并强化了市场对美联储可能需要维持紧缩货币政策的预期。强势美元对全球资本流动和新兴市场货币可能构成压力。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/07/cnbc-housing-market-survey-balanced-market.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/traders-havent-been-this-bullish-on-the-dollar-in-a-decade-how-the-buck-can-keep-climbing-2e2bb287?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "特朗普的贸易保护主义政策或阻碍外国对美投资",
-      "summary": "尽管特朗普政府曾承诺将带来外国投资热潮，但其贸易保护主义政策实际上可能使其难以兑现这一承诺。关税威胁曾在一定程度上促使更多资本流入美国，但其他因素现在正将资本推离。国际贸易壁垒和政策不确定性可能会削弱美国作为全球投资目的地的吸引力。对于寻求全球资产配置的投资者来说，理解美国贸易政策的演变及其对资本流动的影响至关重要，这关系到对美投资的风险和回报评估。",
+      "title": "美国拟修订银行反洗钱规定，加强金融监管",
+      "summary": "美联储理事会正寻求公众对一项提案的意见，该提案旨在修订银行反洗钱（AML）计划的现有要求。此举表明监管机构正加大力度打击非法金融活动，可能增加金融机构的合规成本，但有助于提升金融系统的透明度和稳定性，对银行业运营产生长期影响。",
+      "sources": [
+        {
+          "name": "Federal Reserve Press",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm"
+        }
+      ]
+    },
+    {
+      "title": "特朗普时期外国投资承压，全球资本流向面临挑战",
+      "summary": "尽管特朗普政府曾承诺促进外国投资，但新的分析显示，受关税威胁等因素影响，尽管部分资本流入美国，但其他因素正将其推开，使得兑现外国投资繁荣的承诺变得越来越困难。这反映出全球贸易政策和地缘政治对资本流动的复杂影响，投资者需关注其长期趋势。",
       "sources": [
         {
           "name": "NYT Economy",
@@ -150,8 +154,8 @@
   ],
   "tech": [
     {
-      "title": "Meta因使用公开Instagram照片训练AI引发用户隐私争议",
-      "summary": "Meta Platforms公司被指允许用户利用公开的Instagram个人资料图片创建AI图像，此举引发了广泛的用户隐私担忧。尽管Meta表示用户可以选择退出，但隐私倡导者仍称其为“灾难的根源”。这一事件凸显了大型科技公司在利用用户数据发展AI技术时面临的伦理和隐私挑战。对于投资者而言，数据隐私和AI伦理已成为科技公司运营和估值中的关键风险因素，可能引发监管审查和用户信任危机，进而影响公司业绩。",
+      "title": "Meta被指允许用户从公开Instagram资料图片创建AI图像，引发隐私争议",
+      "summary": "Meta公司被指允许用户利用公开的Instagram资料图片生成AI图像，引发了强烈的隐私争议。尽管Meta表示用户可以选择退出，但隐私倡导者批评此举是“灾难的根源”。这凸显了大型科技公司在AI发展中面临的伦理和社会责任挑战，以及用户数据使用边界的模糊性，可能招致更严格的监管。",
       "sources": [
         {
           "name": "BBC Business",
@@ -160,50 +164,44 @@
       ]
     },
     {
-      "title": "Stratechery创始人Ben Thompson为Meta CEO马克·扎克伯格撰写财报电话会议剧本",
-      "summary": "Stratechery的Ben Thompson为Meta CEO马克·扎克伯格设计了一份财报电话会议的“剧本”。这份剧本可能包含了Thompson对Meta未来战略，尤其是其在人工智能和元宇宙领域发展方向的深刻见解和建议。在当前科技巨头普遍面临增长压力和战略转型挑战的背景下，Thompson的建议对投资者而言具有重要参考价值，它可能预示着行业分析师如何看待Meta需要改进的关键沟通点和战略重心，以重振投资者信心。",
+      "title": "23andMe因数据泄露案同意支付4700万美元赔偿金",
+      "summary": "基因检测公司23andMe因2023年发生的数据泄露事件，已同意支付4700万美元的赔偿金。这一裁决强调了消费者数据保护的重要性，并向科技公司传递了一个明确信号：未能充分保护用户敏感数据将面临严重的法律和财务后果，对依赖大量用户数据的企业构成警示。",
       "sources": [
         {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/a-script-for-mark-zuckerberg/"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "AI治理新议题：AI模型能否“同意”自身宪法",
-      "summary": "Tyler Cowen 教授引用一项研究，提出关于AI治理的深层问题：AI模型是否能够“同意”其自身的“宪法”？当前AI系统（如Claude的“宪法”和OpenAI的“模型规范”）被视为管理AI行为的真正宪法。这一讨论不仅触及AI伦理和法律的边界，也预示着AI技术发展对社会治理模式可能产生的颠覆性影响。对于关注AI产业长期发展的投资者，理解这些治理框架的哲学和实践意义，对于评估AI公司的可持续性和潜在监管风险至关重要。",
+      "title": "美国政府发布AI安全问题调查及应对建议",
+      "summary": "美国政府发布了一项关于人工智能（AI）安全问题的调查报告及潜在应对措施的建议。这表明各国政府正高度关注AI技术快速发展带来的安全风险，并积极寻求监管框架和技术解决方案。这一进展对AI行业未来的发展方向、合规要求及相关投资领域都将产生重要影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/can-ai-models-consent-to-their-own-constitutions.html?utm_source=rss&utm_medium=rss&utm_campaign=can-ai-models-consent-to-their-own-constitutions"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-576"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "美国证监会小企业咨询委员会探讨现代化市场准入，鼓励IPO",
-      "summary": "美国证券交易委员会（SEC）的小企业资本形成咨询委员会宣布将召开会议，探讨如何现代化公共市场准入并鼓励首次公开募股（IPO）。此举旨在降低小型企业上市的门槛，促进资本市场的活力和创新。对于投资者而言，如果相关政策得以实施，可能会增加市场上IPO的数量和多样性，为早期投资者提供更多退出机会，并拓宽中小市值股票的投资范围，值得关注后续的政策走向。",
+      "title": "Levi Strauss第二财季业绩超预期并上调全年指引，但股价盘后下跌",
+      "summary": "Levi Strauss在第二财季表现超出市场预期，营收和盈利均超预测，并连续第二次上调了全年业绩指引。然而，公司股价在盘后交易中下跌。这可能反映出市场对其未来增长的可持续性存在担忧，或投资者在短期内对“牛仔奢侈品”和“上衣”战略转型持观望态度。",
       "sources": [
         {
-          "name": "SEC Press",
-          "url": "https://www.sec.gov/newsroom/press-releases/2026-64-sec-small-business-advisory-committee-explore-modernizing-market-access"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/levis-is-finding-new-ways-to-win-customers-by-looking-toward-tops-and-denim-luxury-b6e0890a?mod=mw_rss_topstories"
+        },
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html"
         }
       ]
     },
     {
-      "title": "美国证监会成立零售欺诈工作组，加强投资者保护",
-      "summary": "美国证券交易委员会（SEC）宣布成立零售欺诈工作组，旨在加强执法部门识别和打击针对普通投资者的欺诈行为。这一举措反映了SEC对保护小投资者的决心，尤其是在当前市场波动和复杂投资产品增多的背景下。对于投资者而言，更严格的欺诈打击将有助于净化市场环境，降低投资风险，但同时，这也可能意味着部分高风险或灰色地带的投资机会将受到更严密的监管，需要投资者审慎评估。",
-      "sources": [
-        {
-          "name": "SEC Press",
-          "url": "https://www.sec.gov/newsroom/press-releases/2026-63-sec-forms-new-retail-fraud-working-group"
-        }
-      ]
-    },
-    {
-      "title": "电动车制造商Rivian通过股权融资，股价下跌18%",
-      "summary": "电动汽车制造商Rivian宣布通过出售7500万股股票进行资本募集，导致公司股价在盘后交易中下跌18%。尽管此前Rivian股价曾有显著上涨，但此次大规模股权融资引发了市场对其稀释效应和未来盈利能力的担忧。对于投资者而言，这凸显了高增长、高资本支出行业中，企业融资行为对股价的直接影响，也提示了在评估新兴电动车企业时，除了增长前景，还需关注其资本结构和融资策略。",
+      "title": "Rivian出售7500万股股票以筹集资金，股价应声下跌18%",
+      "summary": "电动汽车制造商Rivian宣布出售7500万股股票以筹集新资本，消息传出后公司股价在盘后交易中大跌18%。尽管此举旨在增强公司财务实力，但大规模股权稀释引发了投资者对其盈利能力和未来增长路径的担忧，也反映出新兴电动汽车企业在激烈竞争中面临的资本压力。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -212,32 +210,35 @@
       ]
     },
     {
-      "title": "SpaceX股价停滞引市场困惑，指数基金未能有效推高其价值",
-      "summary": "尽管华尔街对埃隆·马斯克的火箭和人工智能公司SpaceX表现出浓厚兴趣，但其股价却陷入停滞，这令一些市场观察者感到困惑。即便在指数基金日益流行的背景下，SpaceX作为一家非上市公司，其估值和流动性仍然受到限制。这一现象揭示了私人市场巨头与公开市场估值之间的脱节，以及指数基金在非公开市场投资中的局限性。对于投资者，这强调了识别和评估私人公司真实价值的挑战，以及在IPO前投资的风险与潜在回报。",
+      "title": "美国证券交易委员会（SEC）将探讨IPO现代化及扩大公共市场准入",
+      "summary": "美国证券交易委员会（SEC）计划举办一系列活动，包括虚拟圆桌会议和小型企业咨询委员会会议，旨在探讨如何实现IPO现代化并扩大公共市场准入。此举旨在降低企业上市门槛，吸引更多公司进入公开市场，可能为初创企业和高增长公司提供更便捷的融资渠道，对美国资本市场的活力产生积极影响。",
       "sources": [
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/07/business/dealbook/spacex-index-funds.html"
+          "name": "SEC Press",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-65-sec-host-virtual-roundtable-modernizing-ipos-expanding-access-public-markets"
+        },
+        {
+          "name": "SEC Press",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-64-sec-small-business-advisory-committee-explore-modernizing-market-access"
         }
       ]
-    }
-  ],
-  "a_stocks": [
+    },
     {
-      "title": "阿里巴巴股价单日大涨，中国科技股有望迎补涨行情",
-      "summary": "阿里巴巴股价迎来十个月以来的最佳单日表现，推动更广泛的中国科技板块走高。此前，中国科技股在全球科技股普遍上涨，特别是美、韩、台公司引领的涨势中表现滞后。此次阿里巴巴的强劲表现可能预示着中国科技股有望迎来一轮补涨行情，吸引投资者重新审视其被低估的潜力。对于关注中国市场的投资者，这可能是一个进入或增持中国科技资产的信号，但仍需密切关注宏观政策和监管环境的变化。",
+      "title": "美银分析师认为英伟达股票目前估值偏低，建议逢低买入",
+      "summary": "美国银行（BofA）分析师指出，英伟达（Nvidia）的股价目前处于“诱人的折价”状态，建议投资者利用其近期持续跑输大盘的表现，把握“增强的”买入机会。这一观点为关注半导体和AI领域的投资者提供了新的视角，暗示尽管市场可能短期波动，英伟达的长期价值仍被看好。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/alibaba-just-had-its-best-day-in-10-months-is-it-time-for-china-techs-to-catch-up-8ccc3f7c?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/nvidias-stock-trades-at-a-juicy-discount-according-to-bofa-93f46d19?mod=mw_rss_topstories"
         }
       ]
     }
   ],
+  "a_stocks": [],
   "business": [
     {
-      "title": "美国健康保险巨头抵制分拆，面临反垄断审查",
-      "summary": "美国联合健康集团（UnitedHealth Group）、CVS Health和信诺（Cigna）等健康保险巨头正在起诉多个州，以对抗针对其药房业务的新法律，这些法律旨在分拆它们的业务。此举反映了医疗健康行业内部对市场整合和反垄断监管的紧张关系。对于投资者而言，这些诉讼和监管行动可能影响健康保险公司的业务模式、盈利能力和市场结构，预示着该行业未来可能面临更严格的审查和潜在的业务重组风险。",
+      "title": "健康保险巨头面临立法者监管压力，或影响其对处方药的控制力",
+      "summary": "联合健康集团（UnitedHealth Group）、CVS Health和信诺（Cigna）等大型健康保险公司正面临立法者日益增长的监管压力，这些行动旨在削弱它们对处方药市场的控制。此举可能导致医疗健康行业的竞争格局发生变化，迫使这些巨头调整其商业模式，并可能影响药品定价和消费者选择。",
       "sources": [
         {
           "name": "NYT Business",
@@ -246,18 +247,8 @@
       ]
     },
     {
-      "title": "达美航空推出“基本商务舱”票价，削减高端服务",
-      "summary": "达美航空正在推出“基本商务舱”及其他精简版高端舱位票价，这些票价将减少部分传统高端服务，例如休息室使用权和座位选择。这一战略旨在通过提供更低价位的高端产品来吸引价格敏感型商务旅客，同时保持收益管理弹性。对于投资者，此举显示了航空公司在竞争激烈的市场中，通过产品细分来优化收益和客流量的尝试，但需观察其对品牌形象和客户忠诚度的长期影响。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/08/delta-basic-business-fares.html"
-        }
-      ]
-    },
-    {
-      "title": "曼哈顿写字楼租赁量创20年新高，市场复苏强劲",
-      "summary": "根据最新报告，曼哈顿的写字楼租赁量在第二季度同比增长31.3%，达到20年来的最高水平，远超十年平均水平。这一数据表明，纽约市的商业房地产市场正经历强劲复苏，尤其是在远程工作趋势放缓和企业回归办公室的背景下。对于房地产投资者，这预示着核心城市商业地产的价值和租金收入有望回升，但仍需关注供应量、利率和宏观经济走势对长期市场的影响。",
+      "title": "纽约曼哈顿写字楼租赁量创20年新高，预示商业地产回暖",
+      "summary": "最新报告显示，曼哈顿写字楼租赁量在第二季度录得20年来最强劲增长，远高于十年平均水平。这一数据表明纽约商业地产市场正在强劲复苏，企业对办公空间的需求回升，可能预示着城市经济活力增强，并对商业地产投资和相关服务业带来积极影响。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -266,54 +257,54 @@
       ]
     },
     {
-      "title": "FIFA世界杯美国转播权争夺升级，估值或达20亿美元",
-      "summary": "国际足联（FIFA）已告知媒体公司，2030年和2034年世界杯的英语和西班牙语美国转播权很可能将捆绑销售，预计总价值可能达到20亿美元。Netflix、迪士尼和YouTube等巨头均对此表现出兴趣，预示着一场激烈的竞标战。这一高昂的版权费反映了体育赛事直播内容在流媒体时代的重要战略价值。对于投资者而言，这凸显了优质内容资产对媒体公司用户增长和广告收入的驱动作用，以及流媒体平台之间日益白热化的竞争。",
+      "title": "全球减重药物改变消费者购物习惯，影响零售业格局",
+      "summary": "新型减重药物的普及正在深刻改变消费者的购物习惯，从漱口水到染发剂等非必需品支出受到影响。研究发现，用户因食欲下降而减少购物。这一趋势对零售、食品和饮料等行业构成结构性挑战，促使企业重新评估消费者行为和产品策略。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "电动汽车保险费用上涨，制约市场普及",
+      "summary": "电动汽车的保险费用持续上涨，成为许多潜在买家转向电动车的障碍。虽然这有助于推动向可持续交通的转型，但不断上升的保险成本却削弱了其吸引力。这一问题促使保险公司和汽车制造商共同探索解决方案，否则将阻碍电动汽车市场的长期增长和普及。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Netflix、迪士尼和YouTube等巨头竞购世界杯美国转播权，价格或达20亿美元",
+      "summary": "国际足联（FIFA）已告知媒体公司，2030年和2034年世界杯在美国的英语和西班牙语转播权很可能将捆绑出售，预计总价可能高达20亿美元。Netflix、迪士尼和YouTube等流媒体巨头均表示出浓厚兴趣，这预示着体育赛事版权竞争白热化，将进一步推高内容成本，同时也是流媒体平台争夺用户、强化竞争力的关键战役。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html"
         }
       ]
-    },
-    {
-      "title": "Stellantis在美国推出低价微型电动车Fiat Topolino",
-      "summary": "Stellantis集团宣布将在美国市场推出其小型电动车Fiat Topolino，售价为13,995美元。尽管Topolino外形酷似小型汽车，但其在法规上被归类为四轮车，功能更类似于高尔夫球车。此举标志着Stellantis在电动车市场中寻求新细分领域的尝试，旨在通过提供更经济、更灵活的城市出行解决方案来吸引特定消费者。对于投资者，这提示了电动车市场正向多元化发展，低成本、特定用途的车型可能成为未来增长的新驱动力。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/07/stellantis-fiat-topolino-ev.html"
-        }
-      ]
     }
   ],
   "overlooked": [
     {
-      "title": "美国沿海城市“造地运动”停滞，影响城市发展模式",
-      "summary": "历史数据显示，美国主要沿海城市约8%的土地在19世纪90年代曾是水下，后经填海造地而成，包括纽瓦克、洛根和旧金山等主要机场所在地。然而，目前美国的“造地运动”几乎完全停滞。这种历史性转变对城市规划、房地产开发和气候变化适应策略产生了深远影响。对于长期投资者而言，这预示着稀缺的城市土地资源价值将进一步凸显，沿海城市在应对海平面上升和人口增长方面的挑战也将加剧，催生新的投资机会和风险。",
+      "title": "地缘政治紧张下，美国燃油价格上涨不仅影响汽油，更波及航空和房地产",
+      "summary": "随着美伊紧张局势升级，虽然汽油价格上涨是直接影响，但华尔街预期其影响将远超加油站。分析师认为，此轮油价上涨将对航空公司的运营成本和盈利能力造成冲击，同时也会通过推高运输和建材成本，间接打击房屋建筑商。这提示投资者，地缘政治风险对经济的影响具有广泛性和传导性。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/higher-gas-prices-arent-the-only-way-rising-tensions-with-iran-will-hit-home-0a995066?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "美国土地开发趋势变化，沿海城市填海造地活动显著减少",
+      "summary": "研究显示，美国沿海主要城市在19世纪90年代曾有约8%的土地通过填海造地而来，包括多个主要机场和金融区。然而，现代社会此类大规模填海活动已显著减少。这一结构性变化意味着可开发土地资源日益稀缺，可能对未来城市发展、房地产成本及基础设施建设规划产生长期影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
           "url": "https://marginalrevolution.com/marginalrevolution/2026/07/why-we-stopped-making-land.html?utm_source=rss&utm_medium=rss&utm_campaign=why-we-stopped-making-land"
-        }
-      ]
-    },
-    {
-      "title": "澳大利亚码头工人呼吁28小时工作周，应对AI自动化冲击",
-      "summary": "面对人工智能和自动化技术在港口日益普及的趋势，澳大利亚码头工人联盟呼吁实施每周28小时的工作周。工会认为，随着AI测试在港口进行，自动化技术正将工人置于“十字准星”下，威胁到传统工作岗位。这一诉求揭示了AI对劳动力市场和传统行业就业模式的结构性影响。对于投资者而言，这预示着自动化和AI技术不仅提升效率，也将引发劳动关系、薪酬结构和社会福利体系的深刻变革，需要密切关注相关政策和企业应对策略。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "预测市场：从预测到决策的市场机制及其在政治事件中的作用",
-      "summary": "Arin Dube 指出，预测市场在体现信息和影响决策方面的强大力量。最近一起丑闻导致某个政治候选人在预测市场中的胜选概率从9%飙升至96%，同期民主党赢得选举的概率也大幅上升。这生动展示了预测市场如何快速吸收信息并反映民意和事件走向。对于投资者而言，预测市场不仅是市场情绪的晴雨表，更是一种前瞻性工具，有助于理解事件对宏观经济、政策制定和特定资产类别的潜在影响，提供传统分析之外的视角。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/from-prediction-markets-to-decision-markets-and-beyond.html?utm_source=rss&utm_medium=rss&utm_campaign=from-prediction-markets-to-decision-markets-and-beyond"
         }
       ]
     }
