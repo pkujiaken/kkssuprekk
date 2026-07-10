@@ -1,8 +1,22 @@
 {
   "top5": [
     {
-      "title": "AI经济推动全球并购热潮，交易额创十年新高",
-      "summary": "在人工智能浪潮的驱动下，全球并购交易额飙升至3.2万亿美元，创下过去十年来上半年最高纪录。这一并购狂潮表明AI不仅是技术趋势，更是推动企业战略重组、资本市场活跃以及行业版图重塑的核心力量，预示着资本市场对AI相关资产的强烈追逐。",
+      "title": "SK海力士在美股巨额上市，半导体投资热潮持续",
+      "summary": "韩国芯片巨头SK海力士通过美国股票发行筹集了265亿美元，预计其股票将于周五在纳斯达克开始交易，成为有史以来外国公司在美国最大的首次亮相。此次大规模融资反映了市场对半导体行业，特别是人工智能驱动的存储芯片需求的强劲信心，为投资者提供了直接参与AI芯片增长的途径，并可能引领更多亚洲科技公司赴美上市的趋势。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "AI经济催生3.2万亿美元并购狂潮，创十年新高",
+      "summary": "受人工智能经济的推动，全球企业并购交易额在本年度上半年达到3.2万亿美元，创下十年来同期最高纪录。这表明企业正在积极通过并购整合AI技术、获取人才和市场份额，以适应和引领技术变革。然而，如此高速的交易增长也引发了市场对交易可持续性和资产估值泡沫的担忧，对于投资者而言，需审慎评估并购背后的真实协同效应和风险。",
       "sources": [
         {
           "name": "NYT Business",
@@ -11,8 +25,8 @@
       ]
     },
     {
-      "title": "美联储组建货币政策新任务组，邀科技与零售巨头参与",
-      "summary": "美联储主席凯文·沃什宣布成立新的任务组，旨在推动货币政策的制定和实施，其中包括科技界知名人士马克·安德森和沃尔玛前CEO道格·麦克米伦。此举突显美联储正寻求更广泛的专业视角，以应对日益复杂的经济环境和数据挑战，可能重塑货币政策工具与决策流程。",
+      "title": "美联储成立货币政策工作组，吸纳科技和零售巨头参与",
+      "summary": "美联储主席凯文·沃什宣布成立多个工作组，旨在提升货币政策的制定和实施，其中包括纳入了风险投资家马克·安德森（Marc Andreessen）和前沃尔玛CEO道格·麦克米伦（Doug McMillon）等科技和零售界领袖。此举标志着美联储正寻求利用实时经济数据和跨行业专长，更精准地应对现代经济挑战，预示着货币政策制定将更加注重数据驱动和多维度视角。",
       "sources": [
         {
           "name": "Federal Reserve Press",
@@ -21,61 +35,39 @@
         {
           "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/can-walmart-help-the-fed-harness-real-time-u-s-economic-data-were-about-to-find-out-e625925a?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "美伊冲突升级，霍尔木兹海峡航运受阻致油价高企",
-      "summary": "美国与伊朗之间敌对行动再起，导致霍尔木兹海峡的航运交通显著放缓。这一地缘政治紧张局势直接推高了全球石油和天然气价格，并可能对能源市场和全球供应链造成持续影响，对依赖稳定能源供应的经济体构成重大不确定性。",
+      "title": "霍尔木兹海峡地缘政治紧张加剧，原油运输受阻油价承压",
+      "summary": "中东地区紧张局势升级，霍尔木兹海峡的航运交通量大幅下降，导致全球原油价格维持高位。数据显示，周三通过该海峡的船只数量减半，凸显了地缘政治冲突对全球能源供应和贸易航线造成的直接威胁。投资者需密切关注该地区局势发展，及其可能对能源市场、全球通胀以及供应链稳定性带来的持续影响。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/07/09/business/oil-shipping-stocks-gas-iran-hormuz.html"
         },
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "IMF预测2026年全球经济增长放缓，大宗商品价格成主要拖累",
-      "summary": "国际货币基金组织（IMF）下调了2026年全球经济产出增长预测至3%，主要原因是大宗商品价格高企。这一预测表明全球经济可能面临更具挑战性的宏观环境，高通胀压力和增长动力减弱将是未来一年投资者需重点关注的风险因素。",
+      "title": "Meta公司股价反弹，AI芯片与智能编程策略提振市场信心",
+      "summary": "Meta Platforms股价周四反弹，此前有消息称该公司推出了新的AI模型（代理式AI编程）并取得了定制芯片的重大进展，缓解了市场对其AI投入成本过高的担忧。这表明Meta在AI领域的战略部署，包括自研芯片以优化成本和性能，以及推动代理式AI在内的前沿技术，正逐渐获得投资者认可，对其长期竞争力构成支撑。",
       "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/07/08/business/economy/imf-world-economy-inflation.html"
-        }
-      ]
-    },
-    {
-      "title": "半导体市场热度不减：SK海力士进军美国，Meta自研AI芯片进展显著",
-      "summary": "存储芯片巨头SK海力士计划进入美国市场，为投资者提供直接参与这一高增长行业的机会。同时，Meta在智能AI编码和定制芯片方面的显著进展，有效缓解了市场对其AI投入成本的担忧。这共同彰显了半导体技术在全球AI竞赛中的核心战略地位和投资潜力。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories"
-        },
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/metas-stock-rebounds-as-agentic-ai-coding-and-custom-chips-ease-spending-fears-16d1cb24?mod=mw_rss_topstories"
-        },
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Ben Thompson",
-      "title": "AI竞赛的核心在于可验证数据",
-      "summary": "观点：「可验证数据之争日益定义着AI竞赛，从Meta到Grok再到前沿实验室。」他强调，在当前AI发展阶段，验证数据的真实性和可靠性正成为决定各家公司竞争优势的关键因素，无论是大型科技公司还是新兴实验室都围绕此展开布局。",
+      "name": "Ben Thompson (Stratechery)",
+      "title": "AI竞争核心在于可验证数据",
+      "summary": "观点：Ben Thompson指出，当前AI领域的竞争焦点日益转向对可验证数据的获取和利用，从Meta到Grok再到前沿实验室，谁能拥有更可靠、更真实的数据，谁就能在AI军备竞赛中占据优势。这强调了数据质量而非单纯模型大小在AI发展中的关键作用。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
@@ -84,9 +76,9 @@
       ]
     },
     {
-      "name": "Tyler Cowen",
-      "title": "高收入人群对税率变化具有明显迁移响应",
-      "summary": "观点：「高收入、高能力个体对税率变化有明显的迁移响应。」他引用研究指出，欧洲足球界的数据很好地证明了高收入人才的流动性受税率影响显著，这对各国税收政策制定具有重要参考意义，影响着全球人才和资本的流向。",
+      "name": "Tyler Cowen (Marginal Revolution)",
+      "title": "高收入人群对税率变化敏感并影响人才流动",
+      "summary": "观点：Tyler Cowen引用研究指出，欧洲足球等领域提供了有力证据，表明高收入、高能力个体对税率变化反应显著，并因此进行人才迁徙。这提示了税收政策在全球人才和资本流动中的重要作用，对各国吸引和留住高净值人才的能力构成挑战。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -95,61 +87,53 @@
       ]
     },
     {
-      "name": "Kevin Warsh",
-      "title": "美联储新任主席团队成员透露通胀担忧与加息倾向",
-      "summary": "原话：「在美联储主席Warsh首次会议上，部分官员已表示支持加息。」此外，沃什任命了科技界和零售界的领军人物加入其任务组。这表明美联储内部对三年来的通胀高位普遍担忧，并可能在未来采取更激进的紧缩政策，同时引入外部视角以提升政策制定效率。",
+      "name": "Tyler Cowen (Marginal Revolution)",
+      "title": "探讨欧洲企业与中国宗族文化对经济发展的影响",
+      "summary": "观点：在与经济学家Joel Mokyr的对话中，Tyler Cowen探讨了欧洲企业制度与中国宗族文化对经济发展的不同影响，以及文化趋势的持久性。他们还讨论了欧洲生活水平长期停滞的原因。这为理解长期经济增长的深层驱动力提供了历史和文化视角。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/09/business/fed-meeting-minutes-warsh-interest-rates.html"
-        },
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/my-conversation-with-the-excellent-joel-mokyr.html?utm_source=rss&utm_medium=rss&utm_campaign=my-conversation-with-the-excellent-joel-mokyr"
+        }
+      ]
+    },
+    {
+      "name": "Michael Burry",
+      "title": "押注体育博彩公司，预测市场或面临监管收紧",
+      "summary": "观点：知名投资者Michael Burry看好DraftKings和Flutter等体育博彩公司，同时认为预测市场最终将受到监管机构的打击。他相信，预测市场新兴带来的竞争压力已影响到体育博彩公司的股价，但监管干预将是其发展的重要风险因素，预示着新兴市场领域的监管不确定性。",
+      "sources": [
         {
           "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html"
+          "url": "https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html"
         }
       ]
     },
     {
-      "name": "Apollo Global Management",
-      "title": "AI回报周期放缓恐引发经济衰退",
-      "summary": "观点：「AI回报周期放缓可能导致经济衰退。」Apollo警告称，由于中国带来的日益增长的威胁和代币价格下跌，AI投资的经济效益若未能如预期快速显现，可能使全球经济面临衰退风险，提示市场需警惕AI繁荣背后的潜在脆弱性。",
+      "name": "Ben Carlson (A Wealth of Common Sense)",
+      "title": "探讨退休配置中90/10股债组合优于60/40的可能性",
+      "summary": "观点：Ben Carlson在文章中提出一个疑问：退休人士是否在债券上投资过多？他探讨了在退休金投资组合中，90%股票/10%债券的配置是否可能比传统的60%股票/40%债券表现更好。这挑战了传统的保守退休投资理念，促使投资者重新思考在当前市场环境下的风险承受能力与收益潜力。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/a-slower-ai-payoff-risks-tipping-the-economy-into-recession-apollo-says-5d495f6c?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "name": "Bank of England Economist",
-      "title": "英国央行官员暗示年内或需加息",
-      "summary": "观点：「由于增长放缓和通胀压力，今年可能需要提高利率。」这位英国央行首席经济学家指出，面对经济增长减速和持续的通胀压力，为了稳定物价，今年内提高利率是必要的举措。这强化了市场对英国可能采取紧缩货币政策的预期，影响英镑及英国资产走势。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss"
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/07/is-90-10-better-than-60-40-in-retirement/"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "美联储六月会议纪要：通胀担忧与加息信号明确",
-      "summary": "美联储公开市场委员会（FOMC）六月会议纪要显示，官员们对通胀持续高企（已达三年新高）表示高度不安，部分官员已明确表示支持加息以应对此局面。这预示着未来货币政策可能进一步收紧，对美股和全球资本市场产生重要影响。",
+      "title": "英国央行经济学家暗示年内可能加息",
+      "summary": "英国央行首席经济学家表示，鉴于经济增长放缓和通胀压力并存，今年内可能需要提高利率。这一表态为英国央行未来的货币政策走向提供了重要信号，可能影响英国经济复苏步伐和英镑汇率，对持有英镑资产的投资者需密切关注。",
       "sources": [
         {
-          "name": "Federal Reserve Press",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm"
-        },
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/09/business/fed-meeting-minutes-warsh-interest-rates.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "美国住房市场：销量下滑，房价却创历史新高",
-      "summary": "六月份美国房屋销售表现不及预期，环比下降，但房价却达到了历史新高。高企的抵押贷款利率继续抑制购房需求，造成市场交易量受阻但价格依然坚挺的局面，这对于房地产市场稳定和普通消费者的住房负担能力构成持续挑战。",
+      "title": "美国6月房屋销售不及预期，房价创历史新高",
+      "summary": "美国6月份房屋销售环比下降，未能达到市场预期，而房屋价格却创下历史新高。这表明尽管抵押贷款利率居高不下，但供给紧张和需求韧性仍在支撑房价，同时高利率对交易量的抑制作用持续显现。对于房地产投资者而言，市场面临量价背离的复杂局面，需警惕潜在的流动性风险。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -158,82 +142,42 @@
       ]
     },
     {
-      "title": "专家警告：下一次金融危机冲击或远超互联网泡沫",
-      "summary": "有市场分析指出，下一场全球金融危机可能造成比2000年互联网泡沫破裂（5万亿美元）更严重的损失，冲击力预计将是其四倍。这一警告提示投资者需警惕潜在的系统性风险和市场脆弱性，审慎评估资产配置。",
+      "title": "VIX与纳斯达克波动性出现隐性背离，市场警惕风险",
+      "summary": "VIX指数（恐慌指数）与纳斯达克指数波动性之间出现隐性背离，使得“聪明钱”投资者保持警惕。尽管市场普遍沉浸在牛市氛围中，但纳斯达克飙升的波动性暗示当前市场可能存在潜在风险，提示投资者应考虑对冲策略，以应对可能出现的市场调整。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-h..."
-        }
-      ]
-    },
-    {
-      "title": "预测市场：美伊局势紧张致天然气价格长期高位",
-      "summary": "预测市场交易员普遍认为，随着美国与伊朗紧张局势再次升温，天然气价格将在更长时间内保持高位，甚至可能持续到美国大选日。这表明市场对中东地缘政治风险溢价的定价，可能对全球能源成本和工业生产造成持续影响。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html"
+          "url": "https://www.marketwatch.com/story/why-a-hidden-divergence-between-the-vix-and-nasdaq-volatility-has-the-smart-money-on-edge-cda23cc0?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "AI经济推动M&A热潮，全球交易额达3.2万亿美元",
-      "summary": "受AI浪潮驱动，全球并购交易额飙升至3.2万亿美元，创下十年来上半年最高纪录。这表明AI正成为推动企业战略重组和资本流动的核心力量，科技巨头和初创企业都在加速布局，以期在AI新时代占据优势。",
+      "title": "OpenAI发布GPT-5.6，进一步提升AI模型能力",
+      "summary": "OpenAI发布了其最新的大型语言模型GPT-5.6，此举标志着AI技术在能力上的又一次飞跃。新模型的推出通常意味着更强的理解、推理和生成能力，将进一步推动AI在各行各业的应用和创新。对于科技投资者而言，这强化了对AI领域持续增长的预期，并可能加速相关技术和应用场景的商业化落地。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html"
+          "name": "Hacker News Top",
+          "url": "https://openai.com/index/gpt-5-6/"
         }
       ]
     },
     {
-      "title": "Meta AI发展与定制芯片进展缓解市场担忧",
-      "summary": "Meta在智能AI编码和定制芯片方面取得显著进展，缓解了市场对其高昂AI投入的担忧，并推动股价反弹。这显示了大型科技公司在AI领域加大自主研发投入的决心及其潜在的市场回报，对AI芯片供应链也将产生重要影响。",
+      "title": "中国就Anthropic的Claude Code发出AI风险警告",
+      "summary": "中国官方对Anthropic公司的特定版本AI模型Claude Code发出警告，称其存在后门漏洞，可能将敏感信息传输到远程服务器。此警告凸显了AI技术在安全和数据隐私方面的潜在风险，以及各国在AI技术监管和国家安全方面的考量。这对于全球AI技术合作和部署，特别是涉及敏感数据的应用，提出了新的挑战和不确定性。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/metas-stock-rebounds-as-agentic-ai-coding-and-custom-chips-ease-spending-fears-16d1cb24?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "SK海力士进军美国市场，为AI芯片投资开辟新渠道",
-      "summary": "SK海力士计划进入美国市场，为美国投资者提供了直接参与炙手可热的存储芯片市场的机会。这对于看好AI和半导体产业的投资者而言，是重要的投资渠道拓展，也将加剧全球半导体市场的竞争格局。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "人工智能模型显现复杂内部模式，预示AI能力新突破",
-      "summary": "研究发现，人工智能模型如Claude已发展出特定的内部神经模式，相比其他内部处理，这些模式扮演着特殊角色。这预示着AI在理解复杂信息和进行决策方面正取得更深层次的突破，可能对数据分析和未来AI应用领域产生颠覆性影响。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-561.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-561"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "高盛赢得700亿美元资管大单，强化机构服务领先地位",
-      "summary": "高盛资产管理部门成功与Verizon和Lockheed Martin等公司达成700亿美元的养老金资产管理协议。这凸显了机构资产管理市场竞争的激烈以及高盛在这一领域的领先地位，对其营收和市场份额将是重要支撑。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html"
-        }
-      ]
-    },
-    {
-      "title": "百事可乐财报不及预期，美国消费者支出趋紧信号",
-      "summary": "百事可乐第二季度盈利未达市场预期，反映出美国消费者在预算趋紧的情况下正在削减非必需品开支。这份财报为其他依赖消费者支出的公司敲响警钟，预示着零售和消费品行业可能面临更大的增长压力。",
+      "title": "百事可乐财报不及预期，美国消费者勒紧裤腰带",
+      "summary": "百事可乐公布的季度财报低于市场预期，尽管国际市场需求强劲，但美国消费者支出紧缩对其业绩造成影响。这反映出美国消费者在面对持续通胀和经济不确定性时，正开始削减非必需品开支，可能预示着更广泛的消费支出放缓趋势，值得投资者关注消费品板块的业绩表现。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -242,8 +186,8 @@
       ]
     },
     {
-      "title": "Levi Strauss业绩超预期，上调指引并派发股息",
-      "summary": "Levi Strauss第二季度业绩超出市场预期，并上调了全年业绩指引和股息。这表明尽管整体消费环境面临挑战，但部分品牌仍能凭借其韧性、品牌吸引力和市场策略实现增长，为投资者带来积极信号。",
+      "title": "Levi Strauss财报超预期，上调业绩指引并提高股息",
+      "summary": "Levi Strauss第二财季业绩超出市场预期，营收和利润均表现亮眼，并上调了全年业绩指引和股息。这表明尽管宏观经济面临挑战，但特定消费品牌仍能凭借其品牌韧性和产品策略实现增长。对于投资者而言，这传递了积极信号，显示消费领域并非全面低迷，仍存在细分市场的投资机会。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -252,42 +196,35 @@
       ]
     },
     {
-      "title": "VIX与纳斯达克波动率背离，市场警惕潜在风险",
-      "summary": "VIX指数与纳斯达克市场波动率之间出现隐性背离，这使得“聪明钱”投资者保持警惕。尽管股市整体处于牛市，但纳斯达克隐含波动率的上升表明市场存在潜在的对冲需求，提示投资者关注市场情绪与实际风险之间的差异。",
+      "title": "高盛赢得Verizon和Lockheed Martin共700亿美元资产管理合同",
+      "summary": "高盛集团获得了与Verizon和Lockheed Martin公司达成的总计700亿美元的资产管理协议。这笔巨额合同凸显了高盛在机构退休金资产管理市场的强大竞争力，也反映了大型企业对专业化、高效率资产管理服务的需求。此举将进一步巩固高盛在万亿美元规模的资产管理领域的领先地位，对其盈利能力构成积极支撑。",
       "sources": [
         {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html"
+        }
+      ]
+    }
+  ],
+  "a_stocks": [],
+  "business": [
+    {
+      "title": "易捷航空同意57亿英镑收购要约，私募股权竞购战爆发",
+      "summary": "英国低成本航空公司易捷航空（easyJet）已同意美国私募股权公司Apollo Management提出的57亿英镑收购要约，该报价超过了此前Castlelake的潜在收购提议。这标志着围绕易捷航空的竞购战升级，反映出私募股权基金对欧洲航空资产的兴趣，尤其是在行业整合和疫情后复苏的背景下，预示着航空业可能迎来一波并购浪潮。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/why-a-hidden-divergence-between-the-vix-and-nasdaq-volatility-has-the-smart-money-on-edge-cda23cc0?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/bidding-war-breaks-out-for-easyjet-as-apollo-tops-rival-private-equity-groups-bid-d75ffd3c?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "SEC将举办IPO现代化圆桌会议，探讨市场准入新途径",
-      "summary": "美国证券交易委员会（SEC）将举办一次虚拟圆桌会议，探讨如何使IPO流程现代化并扩大公众市场准入。此举可能为未来初创企业上市和普通投资者参与提供新的机会和途径，预示着资本市场监管层正寻求提升效率和包容性。",
-      "sources": [
-        {
-          "name": "SEC Press",
-          "url": "https://www.sec.gov/newsroom/press-releases/2026-65-sec-host-virtual-roundtable-modernizing-ipos-expanding-access-public-markets"
-        }
-      ]
-    }
-  ],
-  "a_stocks": [
-    {
-      "title": "学者分析“二十条中国经验”对市场与发展的影响",
-      "summary": "知名学者在评论中提及“二十条中国经验”，尽管具体内容未详述，但可能涵盖了中国经济发展模式、政策方向及市场运作等深层分析。对于关注A股和中国市场的投资者来说，这是理解中国长期发展逻辑和政策走向的重要参考视角。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-560.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-560"
-        }
-      ]
-    }
-  ],
-  "business": [
-    {
-      "title": "杂货店降价应对消费者支出削减，但总账单难降",
-      "summary": "面对消费者紧缩开支的趋势，美国杂货店开始下调部分商品价格以刺激需求。尽管这可能为消费者带来短期实惠，但由于整体通胀压力和供应链成本，预计他们的整体食品账单不会显著下降，预示着零售商面临利润和销量的双重压力。",
+      "title": "杂货店降价应对消费者支出减少",
+      "summary": "面对消费者支出削减的压力，美国多家杂货店开始降低部分商品价格。尽管消费者可能在某些商品上获得更好的折扣，但整体杂货账单预计不会大幅下降。这一趋势反映了零售商为刺激需求而采取的策略，同时揭示了消费者购买力受挤压的现实，对零售和消费行业利润率构成持续压力。",
       "sources": [
         {
           "name": "NYT Business",
@@ -296,8 +233,30 @@
       ]
     },
     {
-      "title": "电动汽车保费高企阻碍市场普及，行业面临挑战",
-      "summary": "电动汽车的保险费用持续高于传统燃油车，这正成为许多潜在买家转向电动车的障碍。行业正面临如何降低保费、提升维修效率以促进电动汽车市场更大规模普及的挑战，这将影响电动汽车制造商的销售策略和保险行业的发展方向。",
+      "title": "达美、联合航空推出低成本商务舱选项",
+      "summary": "达美航空、联合航空等主要美国航空公司正推出精简版的低成本商务舱选项。这一策略旨在吸引对价格敏感但仍追求更高舒适度的旅客，通过差异化服务满足市场需求。此举可能重塑航空公司的票价结构和竞争格局，对行业利润率和旅客体验产生长期影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/09/travel/basic-business-class-airlines-delta-united.html"
+        }
+      ]
+    }
+  ],
+  "overlooked": [
+    {
+      "title": "单一支付医疗系统在创新方面表现不佳",
+      "summary": "Tyler Cowen在一篇文章中指出，单一支付医疗系统虽然在处理常见病症方面表现尚可，但在开发、融资和提供新型免疫疗法等创新医疗服务方面却远不如人意。这一观点强调了不同医疗体系对医疗创新活力的影响，对于投资者而言，理解医疗政策和体系对生物医药研发及商业化的结构性制约至关重要。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/single-payer-health-care-systems-are-looking-worse-all-the-time.html?utm_source=rss&utm_medium=rss&utm_campaign=single-payer-health-care-systems-are-looking-worse-all-the-time"
+        }
+      ]
+    },
+    {
+      "title": "电动汽车保险费用高昂成为行业发展障碍",
+      "summary": "电动汽车的保险成本持续高企，正在阻碍许多潜在买家做出购买决定。这一结构性问题源于维修成本、零部件供应和潜在风险评估等因素。解决电动汽车保险成本问题对于推动电动汽车的普及至关重要，也是行业实现可持续发展必须克服的挑战，对电动汽车制造商和保险公司都构成长期影响。",
       "sources": [
         {
           "name": "BBC Business",
@@ -306,64 +265,12 @@
       ]
     },
     {
-      "title": "流媒体巨头争夺FIFA世界杯美国转播权，价格或达20亿美元",
-      "summary": "奈飞、迪士尼和YouTube等流媒体巨头对FIFA世界杯在美国的转播权表现出浓厚兴趣，预计2030和2034年打包出售的版权价格可能高达20亿美元。这反映出优质体育内容对流媒体平台用户增长和广告收入的关键价值，将加剧内容版权市场的竞争。",
+      "title": "预测市场引发内幕交易担忧，企业加强应对",
+      "summary": "预测市场的兴起正引发内幕交易的担忧，促使高盛等公司开始审视并制定员工参与预测市场的交易政策。这反映了新兴金融产品和平台在带来新投资机会的同时，也可能带来新的监管和道德挑战。对于投资者和监管机构而言，如何平衡创新与风险，确保市场公平透明，将是未来重要的议题。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html"
-        }
-      ]
-    },
-    {
-      "title": "英国核电站寿命延长20年，重塑能源供应结构",
-      "summary": "英国Sizewell B核电站的运营寿命被延长20年至2055年。这一决定对英国长期能源安全、碳减排目标以及核电在能源结构中的作用具有重要影响，也可能影响未来能源投资和新能源技术的发展路径。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c1dy1rdv17lo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jackdaw油气田获批受阻，英国面临冬季燃料短缺风险",
-      "summary": "英国Adura公司警告，如果北海Jackdaw天然气田项目未能获得紧急批准，英国今冬将面临国内燃料供应短缺的风险。这突显了能源安全在当前地缘政治背景下的脆弱性，以及政府在能源转型和短期供应保障之间面临的政策困境。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    }
-  ],
-  "overlooked": [
-    {
-      "title": "旧金山房地产市场新现象：卖家要求以AI公司股票支付房款",
-      "summary": "在旧金山湾区，部分房屋卖家开始要求以OpenAI或Anthropic等未上市AI公司的股票作为房款支付。这一现象反映出AI热潮对局部经济和财富分配的扭曲效应，以及投资者对这些高增长潜力公司股权的渴求，预示着另类资产在特定市场中的交易模式创新。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html"
-        }
-      ]
-    },
-    {
-      "title": "欧洲最大港口面临环保诉讼，加速绿色转型步伐",
-      "summary": "欧洲最大的鹿特丹港正面临法律诉讼，被要求加速减少对化石燃料公司的依赖。这预示着欧洲在能源转型和ESG（环境、社会和治理）方面的监管压力和企业责任将持续增加，对港口运营模式和相关产业链产生深远影响。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "退休投资组合再思考：90%股票/10%债券配置是否优于传统60/40？",
-      "summary": "关于退休投资者是否过度配置债券的讨论正在兴起，有观点认为90%股票/10%债券的激进配置在某些情况下可能优于传统的60/40组合。这挑战了传统的风险管理观念，对高净值人士的长期资产配置策略提供了新的思考方向，尤其是在通胀预期和低利率环境下。",
-      "sources": [
-        {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/07/is-90-10-better-than-60-40-in-retirement/"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html"
         }
       ]
     }
