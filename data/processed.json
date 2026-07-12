@@ -1,22 +1,28 @@
 {
   "top5": [
     {
-      "title": "SK海力士在美国纳斯达克成功上市，芯片股受AI热潮推动",
-      "summary": "韩国芯片巨头SK海力士在美国纳斯达克首次公开募股（IPO）中，股价首日飙升17%，估值达到265亿美元，成为今年最大的外国公司上市案。此次成功上市反映了全球投资者对人工智能（AI）相关公司及半导体需求的强劲信心，尤其是在AI芯片领域，这对于评估当前AI板块的热度及未来半导体产业的资本流向具有重要意义。",
+      "title": "SK海力士美股上市首日大涨，凸显AI芯片需求旺盛",
+      "summary": "韩国SK海力士公司股票在美国市场上市首日表现强劲，交易价格高于其首次公开募股定价。此次上涨标志着投资者对AI相关半导体公司持续抱有高度热情和强劲需求。这对于关注AI产业链的投资者而言是一个积极信号，预示着该领域可能继续吸引大量资本流入，并推动相关技术公司的估值。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "德国Helsing SE利用AI无人机推动军事支出模式转变",
-      "summary": "德国初创公司Helsing SE通过大规模生产低成本、人工智能驱动的军用无人机，正在深刻改变全球军事支出和国防工业格局。其为乌克兰战争提供的无人机凸显了AI技术在现代冲突中的决定性作用。这一趋势预示着未来军备竞赛将更加注重技术创新而非传统重型装备，为投资者提供了关注国防科技领域新进入者和技术颠覆的机会。",
+      "title": "英伟达、CoreWeave与AI初创企业：GPU繁荣背后的循环融资模式",
+      "summary": "一份报告深入剖析了英伟达、云服务提供商CoreWeave和AI初创公司之间复杂的循环融资关系，揭示了当前GPU市场繁荣的资金流动机制。这种模式可能在加速AI发展的同时，也带来了潜在的结构性风险和市场相互依赖性。对于高净值投资者而言，理解这种融资结构对于评估AI领域投资的可持续性和潜在风险至关重要。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom"
+        }
+      ]
+    },
+    {
+      "title": "德国Helsing公司AI军用无人机揭秘，预示军事支出转向科技创新",
+      "summary": "德国初创公司Helsing SE通过大规模生产廉价且由AI驱动的军用无人机，揭示了全球军事开支正在经历的深刻转变。这种模式不仅展现了人工智能在国防领域的颠覆性潜力，也预示着传统国防工业将面临来自科技创新企业的激烈竞争。这一趋势对国防技术投资、地缘政治平衡以及未来战争形式都将产生深远影响。",
       "sources": [
         {
           "name": "NYT Business",
@@ -29,75 +35,65 @@
       ]
     },
     {
-      "title": "霍尔木兹海峡地缘政治紧张加剧，全球航运面临风险",
-      "summary": "随着美国与伊朗在霍尔木兹海峡的控制权之争日益激烈，航运公司面临日益增长的风险和困境。一位高管表示“情况正变得越来越糟”，反映出该地区局势的恶化。霍尔木兹海峡是全球重要的石油运输咽喉，其不稳定性直接影响国际油价和全球供应链，对能源市场和航运业投资者构成重大挑战。",
+      "title": "中国科创板七周年，成国家科技创新战略核心引擎",
+      "summary": "上海证券交易所科创板（STAR Market）在成立七周年之际，已成为中国推动科技创新、实现技术自主的关键金融引擎。它为人工智能、机器人和半导体等前沿科技企业提供了重要的融资平台，是中国减少对外部技术依赖、提升国家竞争力的战略性举措。这不仅塑造了中国科技企业的成长路径，也影响着全球科技格局和资本流向。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/10/business/iran-shipping-strait-of-hormuz.html"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-business/article/3360094/star-market-7-tech-centric-stock-exchange-powers-chinas-innovation-rise"
         }
       ]
     },
     {
-      "title": "大众汽车在华销量创16年新低，中国市场竞争激烈",
-      "summary": "2026年上半年，大众汽车集团在中国的销量同比大幅下滑26%，创下自2010年以来的最低水平。此数据表明，面对中国本土电动汽车品牌的强势崛起和整体市场放缓，传统国际汽车巨头正经历严峻挑战。这对于全球汽车制造商的中国市场战略、供应链调整及投资者对传统车企的信心评估，都具有关键参考意义。",
+      "title": "大众汽车中国销量跌至16年新低，本土电动车品牌竞争加剧",
+      "summary": "大众汽车集团2026年上半年在中国的交付量同比下降26.1%，创下16年来新低，主要原因是本土电动汽车品牌的激烈竞争。这一销售下滑不仅反映了中国汽车市场消费者偏好的深刻转变，也凸显了跨国汽车巨头在华面临的巨大挑战。这对全球汽车产业的战略布局、供应链以及市场份额分配将产生深远影响。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3360214/volkswagen-china-deliveries-see-26-drop-year-year-lowest-point-2010?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "中国科创板设立七年，助力AI和半导体等前沿技术发展",
-      "summary": "上海证券交易所的科创板（STAR Market）成立七周年，已成为中国在人工智能、机器人和半导体等前沿技术领域实现突破的关键金融引擎。科创板为高科技企业提供了重要的融资平台，是中国创新驱动发展战略的重要组成部分。对于关注中国科技创新能力及相关投资机会的投资者来说，科创板的持续发展具有重要的战略价值。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3360094/star-market-7-tech-centric-stock-exchange-powers-chinas-innovation-rise?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/china-business/article/3360214/volkswagen-china-deliveries-see-26-drop-year-year-lowest-point-2010"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Ben Thompson",
-      "title": "Ben Thompson谈微软XBOX战略转向",
-      "summary": "观点：知名科技分析师Ben Thompson在其Stratechery博客中指出，微软XBOX可能正在经历一次重大战略调整，或暗示着主机游戏业务模式的深刻变革。他认为，这可能是微软对其游戏部门未来方向的重新评估，对整个游戏行业和平台竞争格局产生影响，值得关注其后续动作。",
-      "sources": [
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/xbox-on-the-rocks/"
-        }
-      ]
-    },
-    {
       "name": "Tyler Cowen",
-      "title": "Tyler Cowen与Winston Marshall探讨AI",
-      "summary": "观点：经济学家Tyler Cowen在其博客中分享了他与Winston Marshall关于人工智能的播客对话。Cowen作为长期关注技术发展及其经济社会影响的学者，与Marshall的讨论可能触及AI伦理、经济模型、社会变革等深层次问题，为投资者提供了理解AI未来走向的专业视角。",
+      "title": "探讨AI对社会和经济的深远影响",
+      "summary": "观点：经济学家Tyler Cowen在其播客中讨论了人工智能，可能触及AI技术如何重塑社会结构、劳动力市场以及创新生态等宏观议题。他的见解对于理解AI长期影响及潜在投资机会具有启发性。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/winston-marshall-podcasts-with-me-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=winston-marshall-podcasts-with-me-on-ai"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/winston-marshall-podcasts-with-me-on-ai.html"
         }
       ]
     },
     {
-      "name": "Mike Akins (ETF Action)",
-      "title": "Mike Akins建议增持表现不佳板块以获更高回报",
-      "summary": "观点：ETF Action的Mike Akins鼓励投资者增加对过去六个月表现落后于主要人工智能股票的板块敞口，认为这些板块可能在未来六个月内带来可观回报。他的策略表明在AI热潮下，市场可能存在被错杀或低估的领域，值得高净值投资者关注多元化配置和风格轮动机会。",
+      "name": "Mike Akins",
+      "title": "建议关注被低估板块，平衡AI主题投资",
+      "summary": "观点：ETF Action的Mike Akins鼓励投资者增加对过去六个月表现不及主要人工智能股票的板块的敞口。他认为这些板块在下半年可能带来可观回报，这为当前市场过度集中于AI的投资策略提供了多样化和再平衡的视角。",
       "sources": [
         {
           "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html"
         }
       ]
+    },
+    {
+      "name": "方艳安",
+      "title": "看好国家支持下的中国科技股",
+      "summary": "原话：「泡沫是啤酒里最好的部分。」观点：中国资深投资者方艳安表示，中国政府近年来加大了对科技发展的支持，许多企业也紧随其后。他看好科技股，认为在国家政策扶持下，芯片制造和人工智能等领域的中国科技公司将继续受益。这反映了中国零售投资者对国家科技战略的信心。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/markets/article/3360225/tech-stocks-capture-chinas-elderly-retail-investors-amid-faith-nations-tech-sector"
+        }
+      ]
     }
   ],
   "macro": [
     {
-      "title": "美国新住房法案旨在提升住房可负担性",
-      "summary": "美国一项新通过的住房法案虽然并非革命性措施，但其核心在于通过激励机制鼓励地方政府和建筑商进行增量改革，以缓解住房可负担性问题。该法案可能对房地产市场供应、地方经济发展和相关建筑行业产生长期影响，是宏观经济政策在解决民生问题方面的一次尝试，值得关注其对区域经济和建筑业投资的影响。",
+      "title": "美国通过新住房法案，旨在改善可负担性",
+      "summary": "美国一项新的住房法案已正式生效，旨在通过向地方政府和建筑商提供激励措施，逐步改善住房的可负担性。该法案虽非大规模社会福利措施，但其增量改革措施可能对房地产市场供应和价格稳定产生长期影响，值得关注。",
       "sources": [
         {
           "name": "NYT Business",
@@ -110,72 +106,18 @@
       ]
     },
     {
-      "title": "美国SEC更新市政顾问注册常见问题，提供监管明确性",
-      "summary": "美国证券交易委员会（SEC）市政证券办公室更新了市政顾问注册的常见问题解答（FAQs）页面，旨在为市政顾问的注册和记录保存要求提供更清晰的指引。这一举措有助于提升市政债券市场的透明度和合规性，对市政金融领域的专业人士和投资者了解监管环境变化至关重要。",
+      "title": "分析警告：下一场金融危机恐比互联网泡沫破裂更严重",
+      "summary": "一项分析文章警告称，下一场全球金融危机可能已经开始，其潜在冲击力可能比互联网泡沫破裂造成的5万亿美元损失严重四倍。这提示投资者应警惕系统性风险，并重新评估现有投资组合的韧性。",
       "sources": [
         {
-          "name": "SEC Press",
-          "url": "https://www.sec.gov/newsroom/press-releases/2026-66-sec-office-municipal-securities-updates-faqs-registration-municipal-advisors"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "预测市场引发内幕交易担忧，金融机构加强应对",
-      "summary": "随着预测市场（prediction markets）的兴起，关于内幕交易的担忧也随之增加，促使高盛等主要金融公司审视并调整其内部政策。CNBC调查显示，多家公司正积极回应这些担忧，制定或更新员工在预测市场交易的政策。这一发展反映了金融科技创新带来的新监管挑战，对合规性和市场诚信提出了更高要求。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html"
-        }
-      ]
-    }
-  ],
-  "tech": [
-    {
-      "title": "量子纠错技术实现处理器常态校准",
-      "summary": "一项最新研究显示，量子纠错技术能够持续校准量子处理器，利用强化学习基于误差信息调整控制算法。这项突破对量子计算的商业化和稳定性至关重要，有望解决量子计算机面临的最大挑战之一——退相干和错误率问题，预示着未来计算能力将迎来质的飞跃，对于关注前沿计算技术发展的投资者具有长期战略意义。",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/"
-        }
-      ]
-    },
-    {
-      "title": "中国成功回收首枚可重复使用火箭，展示航天新技术",
-      "summary": "中国成功回收了其首枚可重复使用运载火箭，并展示了一种新的回收方式，这标志着中国在航天技术领域取得了重大进展，并进一步提升了其在太空探索和商业航天领域的国际竞争力。此举被视为对SpaceX等西方航天公司技术的学习和追赶，预示着全球航天发射成本的进一步降低和商业航天市场的竞争加剧。",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/"
-        }
-      ]
-    },
-    {
-      "title": "北京高科技区租金飙升，AI与芯片企业扩张推动",
-      "summary": "人工智能和半导体行业的快速扩张正在推动北京高科技区中关村的甲级写字楼租金上涨，使其成为全国写字楼市场低迷中的一枝独秀。这一现象不仅反映了中国科技创新中心的活力，也预示着对相关高科技园区和商业地产的投资机会，同时展现了AI和芯片产业集聚效应带来的经济影响。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3360154/expanding-ai-and-chip-firms-push-rents-beijings-hi-tech-district?utm_source=rss_feed"
-        }
-      ]
-    }
-  ],
-  "us_stocks": [
-    {
-      "title": "美股市场远期市盈率低估盈利预期",
-      "summary": "标普500指数目前以28倍的跟踪市盈率交易，而远期市盈率约为21倍，这一差距主要反映了市场对未来盈利的过高预期。专家警告投资者不要被表面上的“廉价”所迷惑，提示市场可能低估了未来的不确定性和盈利增长的挑战。这对于投资者评估当前美股估值和制定投资策略至关重要。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/10/the-stock-market-looks-pretty-cheap-based-on-future-earnings-expectations-dont-be-fooled.html"
-        }
-      ]
-    },
-    {
-      "title": "美股在国会休会期间上涨的历史规律",
-      "summary": "数据显示，当美国国会进入夏季休会期时，股市通常会出现上涨。这种现象背后的一个隐藏原因是，立法者活跃时会增加监管不确定性，而休会则降低了这种不确定性。对于投资者而言，了解这种季节性规律可能有助于短期市场情绪的判断，尽管这并非唯一的市场驱动因素。",
+      "title": "研究显示美国股市在国会休会期间表现通常更强劲",
+      "summary": "研究指出，当美国国会进入夏季休会期时，股市往往会上涨。这可能是由于立法活动减少，降低了政策和监管方面的不确定性，从而提振了投资者情绪。这一发现为理解市场季节性模式和政治对市场的影响提供了独特视角。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -184,88 +126,146 @@
       ]
     }
   ],
+  "tech": [
+    {
+      "title": "量子纠错技术取得突破，处理器可实现持续校准",
+      "summary": "量子计算领域取得重要进展，一项新的量子纠错技术能够持续校准处理器。该技术利用强化学习根据错误信息调整控制算法，对于提高量子计算机的稳定性和可靠性至关重要，是实现实用化量子计算的关键一步。",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/"
+        }
+      ]
+    },
+    {
+      "title": "中国首次成功回收可重复使用火箭，展示创新回收方式",
+      "summary": "中国成功回收了其首枚可重复使用运载火箭，并展示了一种全新的回收方式。此举标志着中国在航天技术领域的重大突破，进一步缩小了与SpaceX等全球领先企业的差距，对国际太空竞争格局和商业航天发展具有重要意义。",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/"
+        }
+      ]
+    },
+    {
+      "title": "北京AI和芯片企业扩张，带动中关村甲级写字楼租金上涨",
+      "summary": "受人工智能和半导体行业扩张的推动，北京中关村地区甲级写字楼的租赁需求在今年上半年显著增长，租金逆势上扬。这表明中国高科技产业的强劲发展势头正转化为切实的经济增长，同时也反映了科技人才和企业的集聚效应。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-business/article/3360154/expanding-ai-and-chip-firms-push-up-rents-beijings-hi-tech-district"
+        }
+      ]
+    }
+  ],
+  "us_stocks": [
+    {
+      "title": "“特朗普账户”及儿童投资平台推动美国家庭早期储蓄",
+      "summary": "随着“特朗普账户”和儿童友好型投资平台的兴起，美国家长为子女未来进行投资变得更加便捷和普及。这一趋势可能改变家庭储蓄和投资行为，培养新一代投资者，并为相关金融服务机构带来市场机遇。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/11/business/trump-accounts-investing-kids.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
   "a_stocks": [
     {
-      "title": "比亚迪罗马至香港长途测试，展示电池与充电技术",
-      "summary": "全球最大的电动汽车（EV）制造商比亚迪（BYD）正通过一辆从罗马到香港、行程15000公里的Z9GT车型，展示其高性能电池和超快充电技术。此举旨在提升比亚迪在全球市场的技术形象和竞争力，对投资者了解中国EV品牌的技术实力及其全球化战略具有重要参考价值。",
+      "title": "香港楼市反弹面临挑战，价格上涨或影响本地买家负担能力",
+      "summary": "香港楼市今年反弹速度超出预期，但分析师警告称，快速上涨的价格可能正在侵蚀其可负担性，从而削弱吸引本地买家重返市场的动力。这种趋势可能导致市场复苏难以持续，对香港的房地产市场稳定构成结构性挑战。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-evs/article/3360140/byd-showcases-battery-charging-technology-15000km-journey-rome-hong-kong?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/article/3360211/does-hong-kongs-housing-market-rebound-need-local-owners-sustain-it"
         }
       ]
     },
     {
-      "title": "大众汽车在华销量骤降凸显中国电动车市场竞争",
-      "summary": "大众汽车集团2026年上半年在中国的交付量跌至16年来的最低点，同比下降26.1%。这一显著下滑主要由于中国本土电动汽车品牌抢占市场份额，以及整体汽车市场增速放缓。这一趋势对所有在中国运营的国际汽车品牌构成警示，并凸显了中国新能源汽车市场的激烈竞争和本土品牌的崛起势头。",
+      "title": "中国开发商积极布局商业地产REITs，市场显现复苏迹象",
+      "summary": "随着市场复苏迹象的出现，中国首批四只商业地产交易所交易型REITs的推出，激发了办公楼、购物中心和酒店开发商的融资热情。目前沪深交易所已有19份商业地产REITs上市申请在排队，显示出投资者对中国商业地产市场前景的乐观预期。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3360214/volkswagen-china-deliveries-see-26-drop-year-year-lowest-point-2010?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/banking-finance/article/3360156/chinas-developers-eagerly-line-offer-commercial-property-reits-amid-recovery-signs"
         }
       ]
     },
     {
-      "title": "AI和芯片企业扩张推动北京高科技区租金上涨",
-      "summary": "得益于人工智能和半导体公司的强劲需求，北京中关村高科技区的甲级写字楼租金在今年上半年逆势增长。在全国办公楼市场普遍承压的背景下，中关村成为北京唯一租金上涨的区域。这反映了中国在AI和半导体领域的持续投入和发展，以及由此带来的经济辐射效应，对相关产业地产投资具有参考意义。",
+      "title": "比亚迪跨洲路演，全球推广其电池与快充技术",
+      "summary": "作为全球最大的电动汽车制造商，比亚迪正通过旗下高端品牌腾势Z9GT从罗马到香港的15000公里跨洲旅程，在全球范围内展示其高性能电池和超级快充技术。此举旨在提升其国际品牌影响力，并在全球电动车市场中争取更多份额。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3360154/expanding-ai-and-chip-firms-push-rents-beijings-hi-tech-district?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "科创板七周年成为中国创新技术重要金融引擎",
-      "summary": "中国上海证券交易所科创板成立七年来，已发展成为推动人工智能、机器人和半导体等前沿技术突破的强大金融平台。科创板为中国高科技企业提供了多元化的融资渠道，对于加速中国本土科技创新、吸引国内外资本投入战略新兴产业发挥了关键作用，对关注中国科技股和国家战略转型的投资者来说至关重要。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3360094/star-market-7-tech-centric-stock-exchange-powers-chinas-innovation-rise?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/china-evs/article/3360140/byd-showcases-battery-charging-technology-15000km-journey-rome-hong-kong"
         }
       ]
     }
   ],
   "business": [
     {
-      "title": "EasyJet接受美国Apollo公司的意外收购要约",
-      "summary": "英国航空公司EasyJet已同意接受美国投资公司Apollo的意外收购要约，该要约超越了此前Castlelake的收购提议。这笔交易显示出全球航空业的并购活动依然活跃，尤其是在后疫情时代，行业整合可能加速。对于航空业及私募股权投资而言，这一案例凸显了市场价值和潜在的整合机会。",
+      "title": "德国折扣超市Aldi斥资90亿美元扩张美国市场",
+      "summary": "德国超市巨头Aldi正加大在美国市场的投资，计划斥资90亿美元进军曼哈顿等城市中心。此举旨在通过其折扣模式挑战沃尔玛等现有巨头，预示着美国零售业的竞争将进一步加剧，对消费者和市场格局产生影响。",
       "sources": [
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "小型GLP-1植入物成为维持体重减轻的新押注",
-      "summary": "Vivani Medical公司正在开发一种司美格鲁肽（semaglutide）植入物，旨在帮助患者更持久地维持体重减轻。司美格鲁肽是诺和诺德Wegovy和Ozempic等热门GLP-1药物的活性成分。这一创新代表了减肥和糖尿病治疗领域的新进展，有望改善患者依从性，对制药和医疗技术行业带来新的增长点。",
+      "title": "Vivani Medical研发GLP-1微型植入物，有望改善减肥治疗依从性",
+      "summary": "Vivani Medical公司正在开发一种司美格鲁肽（GLP-1药物活性成分）的微型植入物，旨在帮助患者更好地维持体重减轻效果。这种创新递药方式有望提高患者治疗依从性，并在日益增长的肥胖症治疗市场中提供新的竞争优势。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/07/11/glp-1-implant-from-vivani-medical-aims-to-help-patients-stay-on-treatment.html"
         }
       ]
+    },
+    {
+      "title": "欧盟向中国出售空客飞机，被指同时助长中国本土竞争对手",
+      "summary": "中国东方航空公司近期向空客订购了25架A330neo飞机，尽管中国正在大力发展其国产C919客机。这种欧洲向中国出售宽体客机的行为，被认为在短期带来营收的同时，也在间接帮助中国航空业积累经验和技术，从而可能在中长期内强化其本土竞争对手。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3359345/eu-isnt-just-selling-aircraft-china-its-helping-strengthen-competitor"
+        }
+      ]
     }
   ],
   "overlooked": [
     {
-      "title": "伯南克被任命为Anthropic长期利益信托基金成员",
-      "summary": "美联储前主席本·伯南克被任命为人工智能公司Anthropic的“长期利益信托基金”（Long-Term Benefit Trust）成员。Anthropic是一家领先的AI安全研究公司，设立该信托旨在确保其AI技术的长期安全和社会利益。伯南克的加入表明了顶级经济和政策制定者对AI治理和长远影响的关注，也凸显了AI领域在技术发展之外的社会责任和伦理考量。",
+      "title": "经济学思维对政策制定影响深远，超越个人利益",
+      "summary": "一项新研究显示，经济学知识能够持续预测对福利提升政策（如欧元区成员资格、自由贸易和欧盟移民）更高的支持度，且这种支持与个人短期得失无关。这挑战了传统的“自我利益”驱动理论，强调了经济学思维在塑造公共政策和促进社会福祉方面的独特作用。这对于理解政策制定和公众接受度具有深远影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-580"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/who-thinks-like-an-economist.html"
         }
       ]
     },
     {
-      "title": "数据贡献与AI财富分配不均引发关注",
-      "summary": "有观点指出，尽管个人数据是推动人工智能繁荣的基础，但“大数据公司却独占了100%的股权”。这一论点强调了AI财富分配中的结构性不公，即用户贡献数据却未能分享AI发展的经济成果。这一讨论触及了AI经济模式的深层问题和未来可能的政策干预，对于评估AI产业的社会风险和可持续性具有启示意义。",
+      "title": "AI财富分配引关注：数据贡献者应分享巨头收益",
+      "summary": "评论指出，尽管用户数据是AI繁荣的基础，但科技巨头却独占了由此产生的全部股权价值。文章呼吁应将AI财富的分配权视为一项基本权利而非施舍，并探讨如何让数据贡献者能从中获得应有的份额。这触及了未来经济结构中财富公平分配的核心问题，可能引发对AI商业模式和监管的重新思考。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "道德投资与财务回报的权衡：ESG投资的现实挑战",
+      "summary": "文章探讨了投资者在寻求与个人价值观相符的投资组合（如ESG投资）时，与最大化退休储蓄回报之间可能存在的矛盾。它指出，将道德考量融入投资决策可能导致复杂的权衡，有时甚至牺牲部分潜在回报。这揭示了ESG投资日益主流化背景下的实际挑战，以及投资者在财务目标和个人信念之间如何选择的结构性问题。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/you-want-a-portfolio-that-matches-your-morals-but-that-could-sink-your-retirement-plans-0b6fb5bf?mod=mw_rss_topstories"
         }
       ]
     }
