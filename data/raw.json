@@ -1,5 +1,12 @@
 [
   {
+    "source": "Stratechery (Ben Thompson)",
+    "title": "Apple Sues OpenAI, Apple’s Real Problem",
+    "link": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+    "summary": "Apple is suing AI for stealing trade secrets; there is one guilty employee, but this mostly feels like lashing out.",
+    "published": "Mon, 13 Jul 2026 10:00:00 +0000"
+  },
+  {
     "source": "Marginal Revolution (Tyler Cowen)",
     "title": "“Markets are competitive if and only if P != NP”",
     "link": "https://marginalrevolution.com/marginalrevolution/2026/07/markets-are-competitive-if-and-only-if-p-np.html?utm_source=rss&utm_medium=rss&utm_campaign=markets-are-competitive-if-and-only-if-p-np",
@@ -50,6 +57,13 @@
   },
   {
     "source": "A Wealth of Common Sense (Ben Carlson)",
+    "title": "Talk Your Book: Do We Need the Federal Reserve?",
+    "link": "https://awealthofcommonsense.com/2026/07/talk-your-book-do-we-need-the-federal-reserve/",
+    "summary": "<figure><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"398\" src=\"https://awealthofcommonsense.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-164738-1024x398.png\" width=\"1024\" /></figure>On today's Talk Your Book we speak with Alex Morris from F/m Investments about the Fed, what the bond market is telling us, the debasement trade, Kevin Warsh and more. \nThe post Talk Your Book: Do We Need the Federal Reserve? appeared first on A Wealth of Common Sense.\n...",
+    "published": "Mon, 13 Jul 2026 11:15:33 +0000"
+  },
+  {
+    "source": "A Wealth of Common Sense (Ben Carlson)",
     "title": "Momentum Stocks",
     "link": "https://awealthofcommonsense.com/2026/07/momentum-stocks/",
     "summary": "<figure><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"574\" src=\"https://awealthofcommonsense.com/wp-content/uploads/2026/07/image-68-1024x574.png\" width=\"1024\" /></figure>Momentum stocks are crushing it this year. Can it continue?\nThe post Momentum Stocks appeared first on A Wealth of Common Sense.\n...",
@@ -57,52 +71,87 @@
   },
   {
     "source": "NYT Business",
+    "title": "U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming",
+    "link": "https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html",
+    "summary": "Electric vehicle chargers are proliferating in Southern states as fast food restaurants, stores and other businesses try to lure customers.",
+    "published": "Mon, 13 Jul 2026 15:00:31 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Will Oil Prices Soar as the U.S.-Iran Truce Frays? The Answer Lies With China.",
+    "link": "https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html",
+    "summary": "For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.",
+    "published": "Mon, 13 Jul 2026 14:47:41 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes",
+    "link": "https://www.nytimes.com/2026/07/13/business/strait-hormuz-shipping-traffic-iran-war.html",
+    "summary": "Shipping activity plummeted after Iran attacked a ship, setting off U.S. strikes. Little crude oil is being transported through the critical waterway.",
+    "published": "Mon, 13 Jul 2026 15:03:20 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Wall Street’s Big Week for Earnings and Economic Data",
+    "link": "https://www.nytimes.com/2026/07/13/business/dealbook/wall-street-earnings.html",
+    "summary": "Earnings season kicks off in earnest on Tuesday with big banks up first. Corporate America faces a high bar to beat investor expectations.",
+    "published": "Mon, 13 Jul 2026 12:18:38 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Nearly 200 Economists and Tech Leaders Warn of A.I. Threats",
+    "link": "https://www.nytimes.com/2026/07/13/business/economists-ai-threat-jobs.html",
+    "summary": "A letter calls for policymakers to do more to understand and respond to potential disruptions from artificial intelligence.",
+    "published": "Mon, 13 Jul 2026 13:07:28 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Europe Takes Step Toward Possible Social Media Ban for Children",
+    "link": "https://www.nytimes.com/2026/07/13/technology/europe-teen-social-media-ban.html",
+    "summary": "After the release of a new report, the European Commission is considering changing the rules across the 27-nation bloc.",
+    "published": "Mon, 13 Jul 2026 13:19:52 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "How Wealthy People Are Getting to World Cup Games",
+    "link": "https://www.nytimes.com/2026/07/13/business/world-cup-transportation-wealthy.html",
+    "summary": "The skies above the Hamptons are packed with choppers headed to games, as “inequality is taking it right in the face.”",
+    "published": "Mon, 13 Jul 2026 14:51:11 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "5 New Roller Coasters to Make You Scream This Summer",
+    "link": "https://www.nytimes.com/2026/07/13/travel/new-roller-coasters-six-flags-universal-legoland.html",
+    "summary": "Let the adrenaline flow on coasters that will shoot you high in the air, spin you around and turn you upside down. You’ll definitely want a second ride.",
+    "published": "Mon, 13 Jul 2026 09:00:53 +0000"
+  },
+  {
+    "source": "NYT Business",
     "title": "U.A.W. President Says He’s the Victim of ‘Bogus Allegations’",
     "link": "https://www.nytimes.com/2026/07/12/business/uaw-shawn-fain-investigation.html",
     "summary": "A grand jury is investigating whether Shawn Fain used his position to seek favors for his fiancée and retaliated against the union official who denied them.",
-    "published": "Mon, 13 Jul 2026 03:03:51 +0000"
+    "published": "Mon, 13 Jul 2026 13:11:09 +0000"
   },
   {
     "source": "NYT Business",
     "title": "Oil Prices Surge After Iran and U.S. Trade Strikes",
     "link": "https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html",
     "summary": "The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.",
-    "published": "Mon, 13 Jul 2026 06:46:53 +0000"
+    "published": "Mon, 13 Jul 2026 14:32:32 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "States Prepare Lawsuit to Block Paramount’s Merger With Warner Bros.",
-    "link": "https://www.nytimes.com/2026/07/12/business/state-ag-lawsuit-paramount-warner-bros.html",
-    "summary": "State attorneys general are said to be getting ready to file a lawsuit as soon as this week to halt the $111 billion deal, a potential major obstacle.",
-    "published": "Sun, 12 Jul 2026 20:17:50 +0000"
+    "source": "NYT DealBook",
+    "title": "Wall Street’s Big Week for Earnings and Economic Data",
+    "link": "https://www.nytimes.com/2026/07/13/business/dealbook/wall-street-earnings.html",
+    "summary": "Earnings season kicks off in earnest on Tuesday with big banks up first. Corporate America faces a high bar to beat investor expectations.",
+    "published": "Mon, 13 Jul 2026 12:18:38 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "‘Moana’ Falters at the Box Office, Casting Doubt on Disney’s Formula",
-    "link": "https://www.nytimes.com/2026/07/12/business/media/moana-box-office-disney.html",
-    "summary": "The live-action remake took in roughly $43 million over the weekend in North America, about 30 percent less than Disney had expected.",
-    "published": "Sun, 12 Jul 2026 17:39:04 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "‘Michael’ Crosses $1 Billion at the Box Office as Lionsgate Roars Back",
-    "link": "https://www.nytimes.com/2026/07/12/business/media/michael-movie-lionsgate.html",
-    "summary": "Shunned by bigger studios as too risky, “Michael” and other hits have revived Hollywood’s last major independent studio. But is it enough?",
-    "published": "Sun, 12 Jul 2026 09:00:32 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Big-Box Retailers Have a New Strategy for Breaking Into Urban Markets",
-    "link": "https://www.nytimes.com/2026/07/12/business/costco-target-affordable-housing.html",
-    "summary": "As more states and municipalities continue their push to build affordable housing, companies like Costco and Target are riding along and getting their stores into crowded cities.",
-    "published": "Sun, 12 Jul 2026 09:00:12 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "How Putin Turned Japan Into a Den of Spies",
-    "link": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
-    "summary": "Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.",
-    "published": "Sun, 12 Jul 2026 12:14:21 +0000"
+    "source": "NYT DealBook",
+    "title": "Sign Up for DealBook",
+    "link": "https://www.nytimes.com/newsletters/signup/DK",
+    "summary": "Make sense of the latest business and policy headlines with our daily newsletter.",
+    "published": "Mon, 13 Jul 2026 12:19:29 +0000"
   },
   {
     "source": "BBC Business",
@@ -116,14 +165,7 @@
     "title": "The SpaceX IPO made history. One month on has it lost momentum?",
     "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
     "summary": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
-    "published": "Mon, 13 Jul 2026 07:19:57 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
-    "link": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
-    "summary": "Within hours of fresh US attacks, Iran said it had struck US military bases in Kuwait, Jordan and Bahrain.",
-    "published": "Mon, 13 Jul 2026 05:00:46 GMT"
+    "published": "Mon, 13 Jul 2026 11:45:25 GMT"
   },
   {
     "source": "BBC Business",
@@ -148,59 +190,108 @@
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran",
-    "link": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories",
-    "summary": "Oil prices rose and U.S. stock-index futures slipped on Sunday, after the U.S. and Iran continued their tit-for-tat attacks around the Strait of Hormuz over the weekend.",
-    "published": "Mon, 13 Jul 2026 03:03:00 GMT"
+    "title": "Global oil prices top $80 a barrel after Trump reimposes Strait of Hormuz blockade and charges 20% fee for cargo shipped through",
+    "link": "https://www.marketwatch.com/story/oil-prices-surge-as-much-as-5-after-iran-declares-strait-of-hormuz-is-closed-6905599b?mod=mw_rss_topstories",
+    "summary": "The week is kicking off with fresh spikes for oil prices after President Donald Trump reimposed the naval blockage on the Strait of Hormuz.",
+    "published": "Mon, 13 Jul 2026 15:18:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "‘Trump accounts’ are great — if you’re already rich",
-    "link": "https://www.marketwatch.com/story/trump-accounts-are-great-if-youre-already-rich-0bfe5227?mod=mw_rss_topstories",
-    "summary": "They’re a poor deal for most other people.",
-    "published": "Mon, 13 Jul 2026 01:04:00 GMT"
+    "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+    "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+    "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
+    "published": "Mon, 13 Jul 2026 15:00:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Why Citigroup is the one to watch when banks report earnings this week",
-    "link": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
-    "summary": "Among the largest U.S. banks, Citigroup is expected to show the greatest improvement by one important measure. But it still has a long way to go to reach its own performance target.",
-    "published": "Sun, 12 Jul 2026 19:31:00 GMT"
+    "title": "My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
+    "link": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories",
+    "summary": "“The hood is bent, the radiator is cracked, and the front bumper is destroyed.”",
+    "published": "Mon, 13 Jul 2026 14:15:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "You don’t have to be rich to be financially independent. Here’s how to take control of your money.",
-    "link": "https://www.marketwatch.com/story/you-dont-have-to-be-rich-to-be-financially-independent-heres-how-to-take-control-of-your-money-5345f146?mod=mw_rss_topstories",
-    "summary": "Relying on a high salary or a hot stock is a dangerous trap. Why the most secure people plan for sudden crisis.",
-    "published": "Sun, 12 Jul 2026 19:27:00 GMT"
+    "title": "I’m a bartender, yoga teacher and freelance consultant. How can I budget with such an unpredictable income?",
+    "link": "https://www.marketwatch.com/story/im-a-bartender-yoga-teacher-and-freelance-consultant-how-can-i-budget-with-such-an-unpredictable-income-d5dce383?mod=mw_rss_topstories",
+    "summary": "‘Is there a smart way to manage irregular income without feeling like every financial decision is a gamble?’",
+    "published": "Mon, 13 Jul 2026 14:08:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Earnings estimates have been following an unusual pattern this time around",
-    "link": "https://www.marketwatch.com/story/earnings-estimates-have-been-following-an-unusual-pattern-this-time-around-fbebfb62?mod=mw_rss_topstories",
-    "summary": "Analysts generally lower their estimates in the months before earnings. But thanks to the energy and tech sectors, expectations have actually climbed heading into second-quarter results.",
-    "published": "Sun, 12 Jul 2026 14:00:00 GMT"
+    "title": "TSMC just reported a record month for revenue ahead of critical earnings report on Thursday",
+    "link": "https://www.marketwatch.com/story/tsmc-just-reported-a-record-month-for-revenue-ahead-of-critical-earnings-report-on-thursday-508195fd?mod=mw_rss_topstories",
+    "summary": "Taiwan Semiconductor Manufacturing Corp. said net revenue increased by 67% in June to $13.2 billion",
+    "published": "Mon, 13 Jul 2026 14:03:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "The No. 1 decision for aging retirees: Stay at home or move into a senior community?",
-    "link": "https://www.marketwatch.com/story/the-no-1-decision-for-aging-retirees-stay-at-home-or-move-into-a-senior-community-4ea23d02?mod=mw_rss_topstories",
-    "summary": "Why staying in your longtime home requires more planning than you think.",
-    "published": "Sun, 12 Jul 2026 13:30:00 GMT"
+    "title": "Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?",
+    "link": "https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories",
+    "summary": "Some children who don’t qualify for the government contribution may be eligible for an initial $250.",
+    "published": "Mon, 13 Jul 2026 14:00:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "The stock-market rally now hinges more on AI than oil",
-    "link": "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories",
-    "summary": "As earnings season kicks off, AI investment remains front and center.",
-    "published": "Sun, 12 Jul 2026 13:00:00 GMT"
+    "title": "Stock pickers know they can’t outsmart the market. That doesn’t stop them from trying.",
+    "link": "https://www.marketwatch.com/story/stock-pickers-know-they-cant-outsmart-the-market-that-doesnt-stop-them-from-trying-b4fddc41?mod=mw_rss_topstories",
+    "summary": "How to satisfy your inner trader without derailing your long-term investment goals.",
+    "published": "Mon, 13 Jul 2026 13:53:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
-    "link": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
-    "summary": "“My house shook violently from the wind.”",
-    "published": "Sat, 11 Jul 2026 21:45:00 GMT"
+    "title": "Geopolitical shock exposes SK Hynix leverage after hot ADR debut",
+    "link": "https://www.marketwatch.com/story/geopolitical-shock-exposes-sk-hynix-leverage-after-hot-adr-debut-340ae8d4?mod=mw_rss_topstories",
+    "summary": "Just one trading session after a highly successful U.S. listing for its depositary receipts, local shares in South Korean chip maker SK Hynix plummeted 15% on the domestic exchange in Seoul.",
+    "published": "Mon, 13 Jul 2026 13:34:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "These biggest and ‘least loved’ stocks are the ones to pick ahead of earnings",
+    "link": "https://www.marketwatch.com/story/these-biggest-and-least-loved-stocks-are-the-ones-to-pick-ahead-of-earnings-f7f012e3?mod=mw_rss_topstories",
+    "summary": "Profit growth will overcome artificial intelligence concerns and lift the S&amp;P 500, says Evercore ISI.",
+    "published": "Mon, 13 Jul 2026 13:32:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Why prediction markets like Polymarket and Kalshi often fail the average investor",
+    "link": "https://www.marketwatch.com/story/why-the-prediction-markets-often-fail-95c9d235?mod=mw_rss_topstories",
+    "summary": "Big traders don’t always know best.",
+    "published": "Mon, 13 Jul 2026 13:30:00 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "Paramount-WBD merger expected to face lawsuit from multiple states, sources say",
+    "link": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html",
+    "summary": "Multiple state attorneys general are expected to file a lawsuit challenging the merger between Paramount Skydance and Warner Bros. Discovery, David Faber reports.",
+    "published": "Mon, 13 Jul 2026 15:13:02 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
+    "link": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
+    "summary": "Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's \"sweet spot.\"",
+    "published": "Mon, 13 Jul 2026 13:19:24 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
+    "link": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
+    "summary": "Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's \"sweet spot.\"",
+    "published": "Mon, 13 Jul 2026 13:19:24 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures",
+    "link": "https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html",
+    "summary": "The platform is designed to alleviate problems the company's most active traders have run into, according to a memo provided to CNBC.",
+    "published": "Mon, 13 Jul 2026 11:36:00 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Stocks making the biggest moves premarket: SK Hynix, Micron, MGM Resorts & more",
+    "link": "https://www.cnbc.com/2026/07/13/stocks-making-the-biggest-moves-premarket-skhy-mu-mgm.html",
+    "summary": "These are the stocks posting the largest moves premarket.",
+    "published": "Mon, 13 Jul 2026 11:41:54 GMT"
   },
   {
     "source": "CNBC Finance",
@@ -211,45 +302,66 @@
   },
   {
     "source": "Hacker News Top",
+    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+    "link": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+    "summary": "<p>Article URL: <a href=\"https://raymyers.org/post/zed-creator-calls-spade-a-spade/\">https://raymyers.org/post/zed-creator-calls-spade-a-spade/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48889637\">https://news.ycombinator.com/item?id=48889637</a></p>\n<p>Points: 992</p>\n<p># Comments: 495</p>",
+    "published": "Mon, 13 Jul 2026 08:39:39 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Sam Neill has died",
+    "link": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78\">https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48888468\">https://news.ycombinator.com/item?id=48888468</a></p>\n<p>Points: 366</p>\n<p># Comments: 84</p>",
+    "published": "Mon, 13 Jul 2026 06:02:11 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "The Graph That Should Be Front-Page News",
+    "link": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+    "summary": "<p>Article URL: <a href=\"https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news\">https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48888331\">https://news.ycombinator.com/item?id=48888331</a></p>\n<p>Points: 343</p>\n<p># Comments: 196</p>",
+    "published": "Mon, 13 Jul 2026 05:35:27 +0000"
+  },
+  {
+    "source": "Hacker News Top",
     "title": "Ask HN: Add flag for AI-generated articles",
     "link": "https://news.ycombinator.com/item?id=48886741",
-    "summary": "<p>Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (like myself) who don't like reading AI-generated text, to skip it.<p>Open questions:<p>1. Why is the regular voting system not enough?<p>2. Should HN change in response to the gen AI era? It has been successful not changing fundamentals.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48886741\">https://news.ycombinator.com/item?id=48886741</a></p>\n<p>Points: 521</p>\n<p># Comments: 258</p>",
+    "summary": "<p>Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (like myself) who don't like reading AI-generated text, to skip it.<p>Open questions:<p>1. Why is the regular voting system not enough?<p>2. Should HN change in response to the gen AI era? It has been successful not changing fundamentals.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48886741\">https://news.ycombinator.com/item?id=48886741</a></p>\n<p>Points: 874</p>\n<p># Comments: 377</p>",
     "published": "Mon, 13 Jul 2026 01:24:20 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Cyberpunk Comics, Manga and Graphic Novels",
+    "link": "https://shellzine.net/cyberpunk-comics/",
+    "summary": "<p>Article URL: <a href=\"https://shellzine.net/cyberpunk-comics/\">https://shellzine.net/cyberpunk-comics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48885643\">https://news.ycombinator.com/item?id=48885643</a></p>\n<p>Points: 258</p>\n<p># Comments: 108</p>",
+    "published": "Sun, 12 Jul 2026 22:45:31 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Tiny Emulators",
     "link": "https://floooh.github.io/tiny8bit-preview/index.html",
-    "summary": "<p>Article URL: <a href=\"https://floooh.github.io/tiny8bit-preview/index.html\">https://floooh.github.io/tiny8bit-preview/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48884395\">https://news.ycombinator.com/item?id=48884395</a></p>\n<p>Points: 223</p>\n<p># Comments: 13</p>",
+    "summary": "<p>Article URL: <a href=\"https://floooh.github.io/tiny8bit-preview/index.html\">https://floooh.github.io/tiny8bit-preview/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48884395\">https://news.ycombinator.com/item?id=48884395</a></p>\n<p>Points: 308</p>\n<p># Comments: 26</p>",
     "published": "Sun, 12 Jul 2026 20:23:05 +0000"
   },
   {
     "source": "Hacker News Top",
-    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-    "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "summary": "<p>This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.<p>This was the initial anecdotal evidence, but we undertook this small study to collect empirical data:<p>We added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic's endpoint, and captured all requests (and the returned usage blocks).<p>With one caveat (toward the end of the post) we found unambiguously that Claude Code was far more inefficient in terms of its cache strategy and its harness token usage than OpenCode.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48883275\">https://news.ycombinator.com/i",
-    "published": "Sun, 12 Jul 2026 18:25:51 +0000"
+    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+    "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+    "summary": "<p>Article URL: <a href=\"https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6\">https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882716\">https://news.ycombinator.com/item?id=48882716</a></p>\n<p>Points: 236</p>\n<p># Comments: 111</p>",
+    "published": "Sun, 12 Jul 2026 17:13:07 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "LARP – Revenue infrastructure for serious founders",
     "link": "https://www.larp.website/",
-    "summary": "<p>Article URL: <a href=\"https://www.larp.website/\">https://www.larp.website/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882569\">https://news.ycombinator.com/item?id=48882569</a></p>\n<p>Points: 223</p>\n<p># Comments: 46</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.larp.website/\">https://www.larp.website/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882569\">https://news.ycombinator.com/item?id=48882569</a></p>\n<p>Points: 294</p>\n<p># Comments: 69</p>",
     "published": "Sun, 12 Jul 2026 16:56:41 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "How to read more books",
     "link": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-    "summary": "<p>Article URL: <a href=\"https://scotto.me/blog/2026-07-12-how-to-read-more-books/\">https://scotto.me/blog/2026-07-12-how-to-read-more-books/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882056\">https://news.ycombinator.com/item?id=48882056</a></p>\n<p>Points: 314</p>\n<p># Comments: 169</p>",
+    "summary": "<p>Article URL: <a href=\"https://scotto.me/blog/2026-07-12-how-to-read-more-books/\">https://scotto.me/blog/2026-07-12-how-to-read-more-books/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882056\">https://news.ycombinator.com/item?id=48882056</a></p>\n<p>Points: 472</p>\n<p># Comments: 246</p>",
     "published": "Sun, 12 Jul 2026 15:47:16 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-    "link": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-    "summary": "<p>Article URL: <a href=\"https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547\">https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48877371\">https://news.ycombinator.com/item?id=48877371</a></p>\n<p>Points: 461</p>\n<p># Comments: 169</p>",
-    "published": "Sun, 12 Jul 2026 01:09:50 +0000"
   },
   {
     "source": "Ars Technica",
@@ -257,6 +369,48 @@
     "link": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
     "summary": "New climate evidence adds context to these long voyages.",
     "published": "Sun, 12 Jul 2026 11:12:19 +0000"
+  },
+  {
+    "source": "MIT Tech Review",
+    "title": "The Download: a donor conception cap and world models for AI",
+    "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm&#8230;",
+    "published": "Mon, 13 Jul 2026 12:10:00 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Futu expects mainland brokerage business to shrink but vows to keep Hong Kong outlets",
+    "link": "https://www.scmp.com/business/markets/article/3360400/futu-expects-mainland-brokerage-business-shrink-vows-keep-hong-kong-outlets?utm_source=rss_feed",
+    "summary": "Futu Holdings, the Nasdaq listed Chinese broker that was recently penalised by China’s securities regulator, said it expects a gradual fall off in mainland business but has no plan to cut Hong Kong outlets.\nMainland Chinese-funded accounts had dropped to 13 per cent of its total and their combined size was 17 per cent of total client assets at the end of March 2026, the broker said in a briefing in Hong Kong on Monday, without providing comparison figures.\n“It will definitely see a gradual...",
+    "published": "Mon, 13 Jul 2026 11:00:23 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "China’s Midea dispatches 20,000 air conditioners in race to cool heat-stricken France",
+    "link": "https://www.scmp.com/tech/article/3360383/chinas-midea-dispatches-20000-air-conditioners-race-cool-heat-stricken-france?utm_source=rss_feed",
+    "summary": "Chinese home appliance giant Midea says it has rushed production and shipment of 20,000 air conditioners to France in just seven days to meet soaring demand fuelled by the intense heatwave across Europe.\nTo speed up output, Midea doubled capacity to 6,000 portable air conditioners per day by opening a new production line on July 7, completing manufacturing of all 20,000 units in just three and a half days, the Foshan, Guangdong-based firm said in a statement on Monday.\nThe company added it...",
+    "published": "Mon, 13 Jul 2026 10:30:07 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "China’s drug industry pivots to AI-powered candidates to drive next wave of deals",
+    "link": "https://www.scmp.com/business/china-business/article/3360395/chinas-drug-industry-pivots-ai-powered-candidates-drive-next-wave-deals?utm_source=rss_feed",
+    "summary": "After China’s cross-border deals for innovative drugs hit a record US$110 billion in the first half of 2026, the sector is now pivoting towards artificial intelligence-powered candidates to drive the next wave of transactions.\nChina accounted for about 30 per cent of all new drugs currently under development worldwide, ranking second globally, according to Lan Gongtao, deputy director general of the Department of Drug Registration at the National Medical Products Administration.\nChina’s...",
+    "published": "Mon, 13 Jul 2026 10:15:09 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Chairman of global tech brand TCL sees digital future in ‘Screen Universe’",
+    "link": "https://www.scmp.com/native/business/topics/pioneering-screen-universe/article/3360357/chairman-global-tech-brand-tcl-sees-digital-future-screen-universe?utm_source=rss_feed",
+    "summary": "Li Dongsheng, founder and chairman of TCL – a global technology brand serving users across more than 160 countries and regions – was among the speakers at the World Economic Forum’s Annual Meeting of the New Champions last month.\nUnder the theme, “Innovating at Scale”, the forum, also known as “Summer Davos”, saw more than 1,800 government leaders, senior business executives and innovators from 90 countries and regions discuss how technology and new ideas and practices can translate into...",
+    "published": "Mon, 13 Jul 2026 09:05:03 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "The new space race: how China plans to break SpaceX’s launch monopoly with IPO push",
+    "link": "https://www.scmp.com/business/companies/article/3360351/new-space-race-how-china-plans-break-spacexs-launch-monopoly-ipo-push?utm_source=rss_feed",
+    "summary": "To challenge the global launch market dominance of Elon Musk’s SpaceX, Beijing is adopting a coordinated, multi-company “wolf-pack” strategy fuelled by recent engineering breakthroughs in reusable rocketry. The milestones come as a wave of aerospace firms push to secure the capital needed to scale operations and capture global market share.\nAccording to exchange filings in Shanghai and Hong Kong, at least 15 commercial aerospace companies were now in the pipeline to go public. Among the...",
+    "published": "Mon, 13 Jul 2026 08:30:11 +0000"
   },
   {
     "source": "SCMP Business",
@@ -274,9 +428,9 @@
   },
   {
     "source": "SCMP Business",
-    "title": "How Xpeng will take on Tesla as Chinese carmakers drive overseas EV competition",
+    "title": "Xpeng, armed with road-tested tech, ready to take on Tesla overseas: executive",
     "link": "https://www.scmp.com/business/china-evs/article/3360305/how-xpeng-will-take-tesla-chinese-carmakers-drive-overseas-ev-competition?utm_source=rss_feed",
-    "summary": "Chinese electric vehicle (EV) maker Xpeng aims to challenge Tesla in international markets with its self-driving technology tested in the fiercely competitive home market.\nThis goal shows that Chinese carmakers are expanding the competition in overseas markets to technology, beyond the initial push to boost exports amid domestic pressures.\n“We are very confident that we can be head-to-head competitors with Tesla,” said Brian Gu Hongdi, vice-chairman and president at Xpeng, in an interview with...",
+    "summary": "The president of Chinese electric vehicle (EV) maker Xpeng said the company aims to challenge Tesla in international markets, having tested its self-driving technology in the fiercely competitive home market.\n“We are very confident that we can be head-to-head competitors with Tesla,” said Brian Gu Hongdi, vice-chairman and president at Xpeng, in an interview with the South China Morning Post.\nThough admitting the US carmaker’s edge as an early entrant in some European markets, Gu noted that...",
     "published": "Mon, 13 Jul 2026 05:00:06 +0000"
   },
   {
@@ -290,42 +444,7 @@
     "source": "SCMP Business",
     "title": "Chinese hard tech giants see value surge in first half as global investors pour in capital",
     "link": "https://www.scmp.com/business/markets/article/3360310/chinese-hard-tech-giants-see-value-surge-first-half-global-investors-pour-capital?utm_source=rss_feed",
-    "summary": "Overseas capital has poured into China’s hard technology champions at an unprecedented pace, driving the market value of their mainland equity holdings to an all-time high by the end of this year’s second quarter.\nGlobal investors have increased their exposure to China’s advanced manufacturing and technology companies, helping push the northbound holdings under the mainland-Hong Kong Stock Connect scheme to a record high of 3.13 trillion yuan (US$461.65 billion) by the end of June, according to...",
+    "summary": "Overseas capital has poured into China’s hard technology champions at an unprecedented pace, driving the market value of their mainland equity holdings to an all-time high by the end of the second quarter.\nGlobal investors have increased their exposure to China’s advanced manufacturing and technology companies, helping push the northbound holdings under the mainland-Hong Kong Stock Connect scheme to a record high of 3.13 trillion yuan (US$461.65 billion) by the end of June, according to...",
     "published": "Mon, 13 Jul 2026 03:17:17 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Meet CXMT’s Zhu Yiming: the engineer building China’s answer to global memory-chip giants",
-    "link": "https://www.scmp.com/tech/article/3360285/meet-cxmts-zhu-yiming-engineer-building-chinas-answer-global-memory-chip-giants?utm_source=rss_feed",
-    "summary": "When ChangXin Memory Technologies (CXMT) – China’s attempt to build a home-grown rival to the world’s top makers of memory chips – kicked off one of the country’s most anticipated initial public offerings (IPOs) of 2026 last week, the spotlight fell on its founder Zhu Yiming.\nThe Shanghai offering, set to start taking subscriptions on Thursday, aims to raise 29.5 billion yuan (US$4.4 billion). And some analysts predict that CXMT could eventually command a market value of 3 trillion yuan, placing...",
-    "published": "Mon, 13 Jul 2026 02:00:27 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Are HSBC shares set for a turnover bump owing to Hong Kong’s board-lot reform?",
-    "link": "https://www.scmp.com/business/banking-finance/article/3360270/are-hsbc-shares-set-turnover-bump-owing-hong-kongs-board-lot-reform?utm_source=rss_feed",
-    "summary": "Brokers expect HSBC Holdings, a staple in the portfolios of Hongkongers, to see a large increase in interest from both local and international investors, as the stock’s minimum trading unit is set to change as part of the stock exchange’s board-lot reform process.\nInvestors have long sought the change for the stock – known as a “widow and orphan” stock, as it pays a high dividend while bearing low risk – because its 400-share lot put it out of reach for many. At that level, retail investors had...",
-    "published": "Mon, 13 Jul 2026 00:30:13 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Hong Kong developers ready new home launches amid forecasts of muted price increases",
-    "link": "https://www.scmp.com/business/article/3360152/hong-kong-developers-ready-new-home-launches-amid-forecasts-muted-price-increases?utm_source=rss_feed",
-    "summary": "Some of Hong Kong’s largest developers, including Sun Hung Kai Properties (SHKP) and Wheelock Properties, are set to release new units in residential projects this month amid an expected cooling of price increases.\nSHKP, the city’s largest developer in terms of market capitalisation, released the price list for 120 units at its Garden Regency project in Kam Tin North in the New Territories on Tuesday.\nWith maximum discounts of 16 per cent, the flats, ranging between 289 sq ft and 412 sq ft in...",
-    "published": "Sun, 12 Jul 2026 23:00:12 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Five Guys to open in Beijing as more US chains hunger for success in China",
-    "link": "https://www.scmp.com/business/companies/article/3360268/five-guys-open-beijing-more-us-chains-hunger-success-china?utm_source=rss_feed",
-    "summary": "American burger chain Five Guys will debut its first Beijing store next month, the company said last week, joining a group of US fast-food brands newly entering or accelerating their expansion in China.\nChains including Wendy’s, Chili’s, Texas Chicken and Popeyes are hoping to grab a slice of the world’s second-largest consumer market as they face saturation at home, analysts said.\nFive Guys opened its first China outlet in Shanghai in 2021 and drew large crowds. It plans to open three locations...",
-    "published": "Sun, 12 Jul 2026 11:00:12 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Markets, not politics, will make China’s yuan a global currency",
-    "link": "https://www.scmp.com/opinion/china-opinion/article/3359840/markets-not-politics-will-make-chinas-yuan-global-currency?utm_source=rss_feed",
-    "summary": "The yuan’s next global push will fall short if it is treated as persuasion. The test is not whether Beijing wants an international currency or whether Hong Kong can host summits around it. It is whether a treasurer in Jakarta, a bank in Riyadh or a Gulf central bank can fund, hedge, invest and exit yuan positions at a predictable cost. Until then, yuan internationalisation will look stronger in policy papers than on balance sheets.\nHong Kong Monetary Authority (HKMA) Chief Executive Eddie Yue...",
-    "published": "Sun, 12 Jul 2026 08:30:06 +0000"
   }
 ]
