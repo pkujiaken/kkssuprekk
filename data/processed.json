@@ -1,12 +1,16 @@
 {
   "top5": [
     {
-      "title": "美伊冲突升级推高油价，地缘政治风险加剧全球能源市场不确定性",
-      "summary": "周末期间，美国和伊朗在霍尔木兹海峡附近持续的冲突升级，直接导致国际油价上涨，并促使美国股指期货下跌。这标志着中东地缘政治紧张局势的再度加剧，对全球能源供应稳定构成新的风险。对于高净值投资者而言，油价波动将直接影响能源股表现、通胀预期及全球经济增长前景，需密切关注其对市场和宏观经济的潜在传导效应。",
+      "title": "中东地缘冲突升级推高全球油价",
+      "summary": "在美国与伊朗在霍尔木兹海峡地区互有空袭后，全球油价应声上涨，美国股指期货下跌。此次冲突加剧了市场对原油供应中断的担忧，并可能进一步推升通胀压力。地缘政治风险的急剧升高对全球能源市场和宏观经济稳定构成直接威胁，投资者需密切关注中东局势的演变及其对商品价格的传导效应。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "MarketWatch Top Stories",
@@ -15,8 +19,8 @@
       ]
     },
     {
-      "title": "美国多州总检察长拟起诉阻止派拉蒙与华纳兄弟合并，重大并购面临监管挑战",
-      "summary": "消息指出，美国多州总检察长正准备提起诉讼，以阻止派拉蒙与华纳兄弟之间高达1110亿美元的合并交易。这一潜在的法律行动对这笔传媒业巨头的整合构成了重大障碍，也反映出当前美国反垄断监管的收紧趋势。投资者应关注大型并购交易中日益增加的监管风险，这可能影响市场估值和行业整合格局，尤其是在数字内容和媒体领域。",
+      "title": "美国多州准备起诉阻止派拉蒙与华纳兄弟合并",
+      "summary": "消息称，美国多个州的检察长正准备最早于本周提起诉讼，以阻止派拉蒙（Paramount）与华纳兄弟（Warner Bros.）之间价值1110亿美元的合并交易。此举对这项潜在的行业巨头合并构成重大障碍，反映出监管机构对媒体行业整合可能导致市场垄断的担忧。此案将是美国反垄断执法在大型并购领域的又一重要考验，可能对未来媒体和娱乐行业的整合产生深远影响。",
       "sources": [
         {
           "name": "NYT Business",
@@ -25,32 +29,32 @@
       ]
     },
     {
-      "title": "AI 成美股市场主要驱动力，第二季度财报季关注科技板块表现",
-      "summary": "随着财报季的启动，分析师和投资者普遍认为，人工智能（AI）投资和相关进展已成为驱动当前美股市场上涨的核心力量，其重要性甚至超越了油价波动。尽管市场对第二季度整体盈利预期有所上调（部分得益于能源和科技板块），但AI相关公司的表现及其对未来增长的指引，将是判断市场走向的关键，预示着科技股仍是资金追逐的焦点。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "高盛看好中国人工智能模型，发布竞争力框架指导投资",
-      "summary": "高盛发布了针对中国人工智能模型竞争力的框架分析报告，并选出了其看好的中国AI模型。此举表明全球顶级投行对中国AI技术发展的关注与认可，也为投资者提供了评估和筛选中国AI资产的专业视角。在中国科技自主化和AI战略部署背景下，这一分析对希望布局中国AI领域的投资者具有重要参考价值，可能引导资金流向。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html"
-        }
-      ]
-    },
-    {
-      "title": "市场而非政治将决定人民币国际化进程，需关注交易成本与可兑换性",
-      "summary": "有观点指出，人民币的全球化进程将主要由市场力量而非政治推动，其关键在于能否为全球贸易商和投资者提供可预测的融资、对冲、投资和退出成本。香港金管局总裁余伟文的表态也强调了在岸离岸市场联通的重要性。这一观点提醒投资者，在评估人民币国际化前景时，需关注其市场基础设施的完善程度和资金自由流动的便利性，而非仅仅关注官方推动。",
+      "title": "全球资本涌入中国硬科技巨头，推动价值飙升",
+      "summary": "今年上半年，海外资本以前所未有的速度涌入中国的硬科技领军企业，推动其在内地股市的市值达到历史新高。截至6月底，陆港通北向资金持有中国先进制造和科技公司的市值已达3.13万亿元人民币。这表明全球投资者正加大对中国关键技术领域的押注，尽管地缘政治紧张，但中国在半导体、AI等硬科技领域的自主发展和增长潜力仍具吸引力。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3359840/markets-not-politics-will-make-chinas-yuan-global-currency"
+          "url": "https://www.scmp.com/business/markets/article/3360310/chinese-hard-tech-giants-see-value-surge-first-half-global-investors-pour-capital?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "中国存储芯片巨头长鑫存储(CXMT)启动巨额IPO",
+      "summary": "中国存储芯片制造商长鑫存储（CXMT）上周启动了备受瞩目的首次公开募股（IPO），计划通过上海证券交易所筹集295亿元人民币（约合44亿美元）。作为中国旨在建立本土存储芯片替代品的重要尝试，CXMT的IPO不仅对其自身发展至关重要，也标志着中国在半导体领域实现自给自足的战略决心。分析师预测其市值最终可能达到3万亿元人民币，这将对全球存储芯片市场格局产生重大影响。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/tech/article/3360285/meet-cxmts-zhu-yiming-engineer-building-chinas-answer-global-memory-chip-giants?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "小鹏汽车欲借自动驾驶技术在海外市场挑战特斯拉",
+      "summary": "中国电动汽车制造商小鹏汽车总裁顾宏地表示，小鹏旨在利用其在中国激烈市场中经过验证的自动驾驶技术，在全球市场与特斯拉展开竞争。这一目标显示，中国车企正将海外竞争从单纯的出口扩张推向技术高地。这不仅预示着全球电动汽车市场的竞争将更加白热化，也凸显了自动驾驶技术作为核心竞争力的战略地位，对全球汽车产业格局具有重要意义。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-evs/article/3360305/how-xpeng-will-take-tesla-chinese-carmakers-drive-overseas-ev-competition?utm_source=rss_feed"
         }
       ]
     }
@@ -58,65 +62,53 @@
   "people": [
     {
       "name": "Tyler Cowen",
-      "title": "观点：特朗普政府对美国科学研究的潜在威胁不容忽视",
-      "summary": "经济学家Tyler Cowen提出，特朗普政府对联邦财政援助法规的修改，可能对美国历史上成功的去中心化科学资助体系构成巨大威胁。他认为，尽管这看似是日常的行政规定，但其影响深远，可能损害美国科研的创新能力和国际竞争力。这一结构性风险值得关注，可能影响未来科技创新生态。",
+      "title": "AI对人类意义和劳动力的影响",
+      "summary": "观点：著名经济学家Tyler Cowen在DeepMind的演讲中指出，未来的问题可能不再是人们如何获得意义，而是如何应对生活中过多的意义所带来的“疲惫感”。他认为这种现象将体现在劳动力供应中，暗示人工智能的普及将深刻改变人类的工作与生活模式，带来前所未有的心理和社会挑战，值得投资者关注其对消费者行为和经济结构的长远影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html?utm_source=rss&utm_medium=rss&utm_campaign=the-trump-administrations-threat-to-scientific-research"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/my-talk-at-deepmind-2.html?utm_source=rss&utm_medium=rss&utm_campaign=my-talk-at-deepmind-2"
         }
       ]
     },
     {
-      "name": "George Hotz",
-      "title": "观点：热爱大模型，但厌恶市场炒作",
-      "summary": "知名程序员和AI创业者George Hotz在其博客中表示，他对大型语言模型（LLMs）的技术潜力充满热情，但同时对围绕LLMs的市场过度炒作感到厌恶。他可能认为，当前的狂热掩盖了技术的实际挑战和长期发展所需的理性思考，提示投资者在追逐AI热潮时需保持清醒和长期视角。",
+      "name": "Ben Carlson",
+      "title": "动量股的持续性分析",
+      "summary": "观点：来自A Wealth of Common Sense的Ben Carlson指出，今年的动量股表现异常强劲。他引发了对这种强势能否持续的讨论。对于投资者而言，理解动量策略的有效性和风险至关重要，尤其是在当前市场高度关注科技和AI板块的背景下。此观点促使投资者反思动量投资的周期性及其在不同市场环境下的适用性，以避免盲目追涨。",
       "sources": [
         {
-          "name": "Hacker News Top",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html"
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/07/momentum-stocks/"
         }
       ]
     },
     {
-      "name": "Terry Tao",
-      "title": "观点：现代编码智能体可革新传统与新兴应用开发",
-      "summary": "著名数学家Terry Tao撰文探讨了现代编码智能体（coding agents）在开发新旧应用中的潜力。他认为，这些智能体能够通过自动化和优化编程过程，极大地提升开发效率和应用质量，为软件开发领域带来变革。这对于理解AI在软件工程领域的实际应用和未来发展趋势具有启发意义，预示着软件开发范式的转变。",
+      "name": "Duan Yongping",
+      "title": "段永平增持泡泡玛特，重申长期看好",
+      "summary": "观点：有“中国巴菲特”之称的亿万富翁投资者段永平，再次通过其全资公司增持了香港上市的泡泡玛特（Pop Mart）股份。这是他第三次增持，进一步强化了他对该潮玩品牌，尤其是其明星IP Labubu的长期看好观点。此举发生之际，市场对潮玩消费的持续性存在疑问。段永平的坚定立场为市场提供了一个重要的投资者信心信号，表明顶级投资者对特定消费品类仍抱有强烈信念。",
       "sources": [
         {
-          "name": "Hacker News Top",
-          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/companies/article/3360334/what-labubu-fatigue-billionaire-investor-doubles-down-pop-mart-stake?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "name": "Eddie Yue",
+      "title": "人民币国际化应由市场驱动而非政治推动",
+      "summary": "观点：香港金融管理局总裁余伟文（Eddie Yue）强调，人民币的下一波全球化推动力不应依赖政治说服，而应由市场力量决定。他指出，关键在于印度尼西亚的司库、沙特的银行或海湾地区的央行能否以可预测的成本进行人民币头寸的融资、对冲、投资和退出。此观点对理解人民币在全球金融体系中的角色至关重要，表明市场机制的健全是其国际地位提升的根本，对人民币资产配置有指导意义。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3359840/markets-not-politics-will-make-chinas-yuan-global-currency?utm_source=rss_feed"
         }
       ]
     }
   ],
-  "macro": [],
-  "tech": [
+  "macro": [
     {
-      "title": "Anthropic旗下Claude Code在大模型效率方面远逊OpenCode，影响企业成本",
-      "summary": "最新研究显示，Anthropic的Claude Code在处理任务时，在读取用户提示前会发送大量不必要的tokens（约33,000个），远高于OpenCode（约7,000个）。这表明Claude Code在缓存策略和tokens使用效率上存在明显不足，导致企业用户成本显著增加。对于依赖大型模型的企业和开发者来说，模型效率是选择的关键因素，直接影响运营成本和资源消耗，值得技术采购方深思。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead"
-        }
-      ]
-    }
-  ],
-  "us_stocks": [
-    {
-      "title": "花旗银行本周财报受瞩目，有望展现显著改善",
-      "summary": "本周多家美国大型银行将发布财报，其中花旗银行被分析师视为最值得关注的焦点。尽管花旗距离实现其自身设定的业绩目标仍有距离，但市场预期其有望在某一关键指标上展现出最大改善。投资者将密切关注其业绩报告，以评估该行转型进展和银行业的整体健康状况，这可能成为金融板块未来走势的信号。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "第二季度盈利预期出现异常上调趋势，能源和科技板块成主推力",
-      "summary": "通常情况下，分析师会在财报季前下调盈利预期，但本季度却呈现出不同寻常的上调趋势。这主要得益于能源和科技板块的强劲表现，使得市场对第二季度企业盈利的整体预期有所提高。这一变化暗示了市场对这两个关键行业未来前景的信心，也可能预示着更广泛的经济韧性，对投资者而言是积极信号。",
+      "title": "分析师盈利预期现异常模式，科技与能源板块表现突出",
+      "summary": "进入第二季度财报季，分析师盈利预期呈现不同寻常的模式。通常在财报发布前几个月，分析师会下调预期，但此次由于能源和科技板块的强劲表现，整体预期反而有所上升。这一趋势表明市场对这两个关键行业的乐观情绪，同时提示投资者在评估整体市场盈利前景时，需关注行业间的结构性差异，以及这些差异如何影响市场整体走势和潜在的投资机会。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -125,66 +117,126 @@
       ]
     },
     {
-      "title": "ETF Action 建议增持跑输大盘的板块，寻求下半年高回报",
-      "summary": "ETF Action 的分析师Mike Akins建议投资者增加对那些在过去一段时间内表现不及主要人工智能股票的板块的敞口。他认为这些“跑输大盘”的交易在未来六个月内有望带来丰厚回报。这提供了一种与当前AI主导市场不同的投资策略，旨在寻找被低估的价值和潜在的轮动机会，对于寻求多样化和价值投资的投资者具有参考意义。",
+      "title": "特朗普政府政策对美国科学研究的潜在威胁",
+      "summary": "有警告指出，特朗普政府对联邦财政援助规定的修订，对美国历史上成功的去中心化科学资助体系构成巨大威胁。这一政策变化，尽管看似微不足道，却可能从根本上改变美国科学研究的生态，影响创新能力和长期经济竞争力。对于关注宏观经济和科技创新的投资者而言，这代表了潜在的结构性风险，可能削弱美国在全球科技领导地位。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html?utm_source=rss&utm_medium=rss&utm_campaign=the-trump-administrations-threat-to-scientific-research"
+        }
+      ]
+    }
+  ],
+  "tech": [
+    {
+      "title": "高盛发布中国AI模型竞争定位框架，看好特定模型",
+      "summary": "高盛发布了其中国AI模型竞争定位框架，并从中挑选了其看好的中国AI模型。此框架为投资者提供了衡量中国人工智能市场竞争格局的专业视角，揭示了哪些中国本土AI技术在性能、应用潜力方面具有优势。对于希望在中国AI领域寻找投资机会的专业人士而言，这是一份重要的参考，有助于识别行业内的领先者和潜在的增长点。",
       "sources": [
         {
           "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html"
+          "url": "https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html"
+        }
+      ]
+    },
+    {
+      "title": "大型语言模型效率差异：Claude Code与OpenCode的Token使用对比",
+      "summary": "一项研究发现，在代理编码工具中，Claude Code在缓存策略和辅助Token使用方面比OpenCode效率低下得多。Claude Code在读取提示之前会发送高达3.3万个Token，而OpenCode仅发送7000个。这一差异揭示了大型语言模型在实际应用中的成本效率问题，对企业选择AI开发工具、控制运营成本具有重要指导意义，也反映了AI模型在实际部署中的技术优化空间。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://news.ycombinator.com/item?id=48883275"
+        }
+      ]
+    },
+    {
+      "title": "xAI Grok CLI工具数据传输细节曝光",
+      "summary": "对xAI Grok构建CLI工具的线级分析揭示了其数据传输的细节。这项技术分析深入探讨了xAI的AI模型如何与后端进行通信和数据交换，为开发者和竞争对手提供了宝贵的内部运作洞察。对于关注人工智能基础设施和技术竞争的投资者而言，了解这些细节有助于评估xAI的技术成熟度及其潜在的市场竞争力，特别是在隐私和数据处理效率方面。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://news.ycombinator.com/item?id=48877371"
+        }
+      ]
+    }
+  ],
+  "us_stocks": [
+    {
+      "title": "美股市场上涨驱动因素转向AI而非石油",
+      "summary": "在当前财报季启动之际，美国股市的上涨动力正在更多地依赖于人工智能（AI）板块的表现，而非传统的石油行业。这一转变反映了市场对AI技术变革潜力的日益增长的信心，以及投资者对科技创新驱动未来增长的预期。对于高净值投资者而言，这意味着投资组合的重点可能需要从周期性商品转向高增长的创新科技领域，把握结构性趋势。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX IPO后一个月：市场对其盈利模式再评估",
+      "summary": "SpaceX在历史性IPO一个月后，市场对其当前的盈利模式和未来发展轨迹进行了更清晰的审视。虽然其首次公开募股引起了巨大轰动，但投资者现在更关注公司如何实现盈利以及其业务基本面。这对于评估这家高增长、高风险的私营太空探索公司的长期价值至关重要，也为其他等待上市的独角兽企业提供了参考。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "花旗集团成关注焦点，本周美国大银行财报季启动",
+      "summary": "随着本周多家美国大型银行发布财报，花旗集团成为市场关注的焦点。预计花旗将在一项重要指标上显示出最大程度的改善，但距离其自身设定的业绩目标仍有很长的路要走。银行财报将为投资者提供了解美国经济健康状况和利率前景的重要线索，而花旗的复苏进展将是评估其转型战略成功与否的关键信号。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "a_stocks": [
     {
-      "title": "香港开发商推新盘，楼市反弹面临价格上涨和负担能力挑战",
-      "summary": "面对市场对房价上涨趋缓的预测，香港主要开发商正积极推出新的住宅项目。虽然香港楼市今年反弹速度超预期，但分析人士担心，价格的过快上涨可能侵蚀当地买家的负担能力，进而影响复苏的持续性。这反映出香港房地产市场在供需和价格平衡上的结构性挑战，对投资者需关注市场可持续性。",
+      "title": "香港市场改革：汇丰控股股票交易单位调整预期",
+      "summary": "香港证券交易所的“一手股”制度改革预计将改变汇丰控股股票的最小交易单位。经纪商预计这将显著增加本地和国际投资者对汇丰股票的兴趣。由于汇丰股息高、风险低，素有“寡妇孤儿股”之称，此次改革有望降低其交易门槛，吸引更多散户投资者，从而提升股票流动性。这代表了香港市场微观结构的一次重要调整，对市场参与度和交易活跃度有积极影响。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3360270/are-hsbc-shares-set-turnover-bump-owing-hong-kongs-board-lot-reform?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "香港楼市新盘陆续入市，房价涨幅预期温和",
+      "summary": "包括新鸿基地产和会德丰地产在内的香港主要开发商计划本月推出新住宅项目，但预期房价涨幅将趋于温和。新鸿基地产已公布其新界项目“Garden Regency”120个单位的价单，提供最高16%的折扣。在政府放宽楼市政策后，新盘的集中推出将测试市场需求，预示着香港房地产市场正经历供需调整期，对于投资者而言，需关注市场降温信号。",
       "sources": [
         {
           "name": "SCMP Business",
           "url": "https://www.scmp.com/business/article/3360152/hong-kong-developers-ready-new-home-launches-amid-forecasts-muted-price-increases?utm_source=rss_feed"
-        },
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/article/3360211/does-hong-kongs-housing-market-rebound-need-local-owners-sustain-it?utm_source=rss_feed"
         }
       ]
     },
     {
-      "title": "中国老年散户涌入科技股，凸显对国家科技发展的信心",
-      "summary": "中国的老年散户投资者正积极涌入科技股，将储蓄押注于芯片制造商和人工智能（AI）开发商，反映出他们对中国科技产业崛起的坚定信心。这种投资热情与政府近年来对科技发展的政策支持以及“科技强国”的叙事密切相关，但也需警惕过度乐观和潜在的市场泡沫风险，可能加剧市场波动。",
+      "title": "香港金融机构布局AI：Forthright Securities设下一代AI中心",
+      "summary": "随着香港金融格局的演变，数字原生券商纷纷设立实体分支机构，以模糊虚拟平台与传统财富管理之间的界限。Forthright Securities作为最新加入者，计划开设香港最大的下一代AI中心。此举凸显了人工智能在香港金融服务领域日益增长的重要性，以及传统金融机构与科技融合的战略趋势。这将推动香港金融业的数字化转型和竞争力提升。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/markets/article/3360225/tech-stocks-capture-chinas-elderly-retail-investors-amid-faith-nations-tech-sector?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "中国商业地产REITs市场活跃，开发商积极寻求融资以把握复苏机遇",
-      "summary": "随着中国商业地产市场出现复苏迹象，首批四只交易所交易的商业地产REITs（房地产投资信托）成功发行后，带动了众多开发商积极排队申请发行此类产品。截至6月底，沪深交易所已有19份商业地产REITs上市申请。这表明中国商业地产行业正通过创新融资方式，寻求在市场回暖中抓住机遇，改善资产流动性，为投资者提供新的投资工具。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/banking-finance/article/3360156/chinas-developers-eagerly-line-offer-commercial-property-reits-amid-recovery-signs?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "五街汉堡在北京开设首店，更多美国连锁品牌加速布局中国市场",
-      "summary": "美国知名汉堡连锁品牌Five Guys（五街汉堡）将于下月在北京开设首店，加入越来越多在中国市场加速扩张的美国快餐品牌行列。包括Wendy’s、Chili’s等品牌，正寻求在日益饱和的美国本土市场之外，抓住中国这个全球第二大消费市场的增长机遇。这反映了尽管存在地缘政治不确定性，中国市场对国际品牌仍具吸引力，消费升级趋势依然显著。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/companies/article/3360268/five-guys-open-beijing-more-us-chains-hunger-success-china?utm_source=rss_feed"
+          "url": "https://www.scmp.com/presented/business/topics/wealth-management/article/3360058/why-forthright-securities-anchoring-its-next-gen-ai-hub-heart-hong-kong?utm_source=rss_feed"
         }
       ]
     }
   ],
   "business": [
     {
-      "title": "大型零售商转向城市市场，通过捆绑经济适用房开辟新战略",
-      "summary": "为了打入日益拥挤的城市市场，Costco和Target等大型零售商正在采取新策略：与州和市政当局推动的经济适用房项目相结合。通过参与住宅开发，零售商能在城市核心地带获得门店空间。这一创新模式解决了城市扩张和零售布点的双重挑战，预示着未来零售业城市化发展的新趋势，对于房地产和零售板块均有战略影响。",
+      "title": "迪士尼《海洋奇缘》票房不及预期，引发对公司战略质疑",
+      "summary": "迪士尼真人版电影《海洋奇缘》在北美周末票房仅收入约4300万美元，比公司预期低了约30%。这一表现不及预期，引发了市场对迪士尼内容策略、尤其是真人版翻拍模式的质疑。对于投资者而言，这可能预示着迪士尼在电影业务上面临新的挑战，以及其传统IP重制策略的市场局限性，从而影响公司未来营收和股价表现。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/12/business/media/moana-box-office-disney.html"
+        }
+      ]
+    },
+    {
+      "title": "大型零售商探索城市市场新策略，结合经济适用房建设",
+      "summary": "随着美国更多州和城市推动经济适用房建设，Costco和Target等大型零售商正借此机会，将其门店引入拥挤的城市市场。这种新策略帮助这些传统上以郊区为主导的零售商渗透城市地区，扩大市场份额。这一趋势反映了零售行业对城市化和人口结构变化的适应，以及通过与城市发展项目合作来降低进入成本和拓展客群的创新商业模式。",
       "sources": [
         {
           "name": "NYT Business",
@@ -193,44 +245,44 @@
       ]
     },
     {
-      "title": "德国折扣超市Aldi强势扩张美国市场，挑战传统巨头",
-      "summary": "德国折扣超市Aldi正以90亿美元的投资规模强势进军美国市场，目标直指曼哈顿等城市中心地带。其以高性价比商品为代表的折扣模式，正挑战沃尔玛等美国传统超市巨头。这预示着美国零售业竞争将更加激烈，消费者有望受益于更低的价格和更多选择，而传统零售商面临的转型压力也将进一步加大。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "欧盟向中国出售空客飞机，被指同时助长潜在竞争对手",
-      "summary": "欧盟向中国出售大量空客飞机，包括中国东方航空近期订购的25架A330neo喷气式飞机，总价达93.5亿美元。有分析指出，尽管这带来了短期经济利益，但同时也可能在战略上帮助中国商业飞机公司（COMAC）发展其本土C919等机型，从而长期培养一个强大的竞争对手。这反映了西方国家在高科技贸易中面临的复杂权衡和产业战略风险。",
+      "title": "美国汉堡连锁Five Guys进军北京，海外品牌加速中国扩张",
+      "summary": "美国汉堡连锁品牌Five Guys宣布将于下月在北京开设首家门店，加入了众多正在中国加速扩张或新进入市场的美国快餐品牌行列。包括Wendy’s、Chili’s等连锁店都希望在中国这一全球第二大消费市场分一杯羹。这一趋势表明，面对本土市场的饱和，国际品牌正将目光投向中国市场，预示着中国消费餐饮行业将面临更激烈的竞争，但也反映出中国市场的巨大消费潜力。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3359345/eu-isnt-just-selling-aircraft-china-its-helping-strengthen-competitor?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/companies/article/3360268/five-guys-open-beijing-more-us-chains-hunger-success-china?utm_source=rss_feed"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "Tyler Cowen 观点：经济学知识预测对福利增强型政策的更高支持",
-      "summary": "经济学家Tyler Cowen引用研究指出，经济学知识能够持续预测个体对提升福利的政策（如欧元区成员、自由贸易和欧盟移民）抱有更高的支持度，且这种支持与个体初始的利害关系无关。这挑战了传统的“自我利益”解释，强调了经济学思维在塑造公共政策偏好中的作用。对投资者而言，这可能意味着理性决策在宏观政策制定中的长期影响，影响国家经济走向。",
+      "title": "经济学新论：市场竞争性与计算复杂性(P!=NP)的理论关联",
+      "summary": "一项最新的经济学研究提出，只有当计算复杂性理论中的P不等于NP时，市场才能实现竞争性。如果P=NP，企业便能高效解决串谋检测问题，从而在复杂市场中维持串谋，导致市场失去竞争。此理论将计算理论与市场竞争性结合，提供了理解市场效率深层机制的新视角。对于深度投资者而言，这触及了市场基本运作的假设，可能影响对行业结构和监管政策的长期思考。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/who-thinks-like-an-economist.html?utm_source=rss&utm_medium=rss&utm_campaign=who-thinks-like-an-economist"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/markets-are-competitive-if-and-only-if-p-np.html?utm_source=rss&utm_medium=rss&utm_campaign=markets-are-competitive-if-and-only-if-p-np"
         }
       ]
     },
     {
-      "title": "直布罗陀与西班牙取消边境管制，区域经济一体化前景可期",
-      "summary": "英国海外领土直布罗陀与西班牙之间长达118年的边境管制被取消，有望实现人流和货物的自由流动。此举预计将为该区域带来显著的经济提振，促进贸易和旅游业发展。对于欧洲地缘政治和区域经济一体化而言，这是一个积极的结构性变化，虽然不属于全球头条，但对区域发展和长期投资模式具有潜在影响。",
+      "title": "人工智能时代的信息挑战：是否应标记AI生成文章",
+      "summary": "Hacker News社区正讨论是否应为AI生成文章添加标记。这一讨论反映了在人工智能内容日益普及的背景下，用户对信息真实性和来源透明度的需求。虽然此举不一定会降低文章排名，但将作为一种信息指示器，帮助不愿阅读AI生成文本的用户进行筛选。此讨论凸显了AI时代信息生态的变化，对媒体、内容平台以及依赖信息进行投资决策的专业人士具有长期影响，关乎信任和信息质量。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss"
+          "name": "Hacker News Top",
+          "url": "https://news.ycombinator.com/item?id=48886741"
+        }
+      ]
+    },
+    {
+      "title": "高净值人群长寿挑战：AIA Alta指数揭示财富与健康管理不足",
+      "summary": "尽管香港居民的预期寿命位居全球前列，但首份AIA Alta高净值人群最佳长寿指数研究显示，香港的高净值（HNW）和超高净值（UHNW）家庭在应对长寿挑战方面却出人意料地准备不足。该指数由波士顿咨询集团开发，旨在评估高净值人群在财富、健康和福祉方面的准备情况。此发现提醒财富管理行业，需更全面地关注高净值客户的长期健康和财富可持续性，这代表了长尾资产和结构性变化中重要的服务空白。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/native/business/topics/redefining-longevity/article/3359946/aia-altas-optimal-longevity-index-shows-health-and-wealth-go-hand-hand?utm_source=rss_feed"
         }
       ]
     }
