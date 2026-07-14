@@ -1,32 +1,72 @@
 {
   "top5": [
     {
-      "title": "中东局势升级推高油价，航运受阻",
-      "summary": "美国与伊朗之间的军事行动升级，导致霍尔木兹海峡航运量骤降，全球原油价格飙升至每桶80美元以上。这一事件显著加剧了地缘政治风险，可能引发全球能源供应中断，并对通胀和经济增长构成压力，对依赖原油进口的经济体影响尤为深远。",
+      "title": "美联储官员暗示可能加息，市场警惕通胀压力持续",
+      "summary": "美联储理事Christopher Waller表示，若通胀数据居高不下，央行很快将不得不再次加息。他需要看到连续数月通胀下行数据，才能对前景感到足够信心。此番言论提升了市场对美联储7月加息的预期，表明央行对通胀的警惕性仍高，可能对未来货币政策路径产生显著影响。",
       "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/13/business/federal-reserve-inflation-data-rates.html"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html"
+        }
+      ]
+    },
+    {
+      "title": "霍尔木兹海峡地缘政治紧张加剧，油价及全球航运成本承压",
+      "summary": "伊朗袭击油轮后，霍尔木兹海峡的航运活动降至一个月来最低点，美国随即发动空袭。特朗普总统宣布将对通过该海峡的石油和其他货物征收20%的费用，并恢复对伊朗港口的封锁。这一系列事件导致油价飙升，并可能使全球航运成本翻倍，对能源市场和全球供应链构成重大风险。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html"
+        },
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/07/13/business/strait-hormuz-shipping-traffic-iran-war.html"
         },
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/oil-prices-surge-as-much-as-5-after-iran-declares-strait-of-hormuz-is-closed-6905599b?mod=mw_rss_topstories"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "台积电月收入创新高，半导体行业前景乐观",
-      "summary": "全球领先的芯片制造商台积电公布6月份营收创下历史新高，达到132亿美元，同比增长67%。这一强劲数据远超市场预期，预示着全球半导体行业需求旺盛，特别是AI芯片领域，为即将到来的财报季奠定了积极基调，对全球科技供应链具有重要指导意义。",
+      "title": "特朗普政府考虑入股私营公司，AI领域成重点关注对象",
+      "summary": "特朗普政府正在考虑收购私营公司股权，科技高管们担忧，此举可能预示着政府将对人工智能模型提出股权要求。此前，政府已开始密切审查AI行业。这一潜在政策变化，将标志着政府对战略性科技领域干预的重大升级，对AI公司的所有权结构和未来发展模式产生深远影响。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/tsmc-just-reported-a-record-month-for-revenue-ahead-of-critical-earnings-report-on-thursday-508195fd?mod=mw_rss_topstories"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/13/business/economy/trump-equity-stakes-ai.html"
+        },
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/07/13/business/economy/trump-equity-stakes-ai.html"
         }
       ]
     },
     {
-      "title": "华尔街银行业绩季开启，高预期下的市场挑战",
-      "summary": "美国第二季度财报季正式拉开帷幕，主要大型银行率先公布业绩。市场对其表现抱有高预期，部分归因于SpaceX首次公开募股和伊朗冲突带来的市场波动。银行业绩将反映当前宏观经济状况和资本市场的活力，对评估整体美股市场走向至关重要。",
+      "title": "派拉蒙-华纳兄弟合并案遭遇多州司法挑战，娱乐业整合面临阻力",
+      "summary": "以加利福尼亚州为首的12个州，对派拉蒙和华纳兄弟探索的合并交易提起了诉讼。诉讼方认为，该交易将损害电影院行业并破坏美国的娱乐产业。这一法律行动对两家媒体巨头的整合计划构成重大阻力，并反映出监管机构对大型并购案对市场竞争和消费者选择潜在负面影响的担忧。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/13/business/paramount-warner-bros-lawsuit.html"
+        },
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "华尔街巨头本周开启财报季，大银行有望因SpaceX IPO和地缘政治获益",
+      "summary": "本周二起，包括摩根大通和高盛在内的多家大型银行将陆续发布财报，正式拉开企业财报季序幕。分析预计，由于SpaceX首次公开募股、伊朗局势引发的市场波动以及商业贷款回暖，大银行有望实现第二季度营收强劲增长。市场将密切关注这些业绩，以评估宏观经济趋势和华尔街的盈利能力。",
       "sources": [
         {
           "name": "NYT Business",
@@ -37,48 +77,39 @@
           "url": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html"
         }
       ]
-    },
-    {
-      "title": "中国商业航天加速追赶SpaceX，IPO热潮涌动",
-      "summary": "中国正通过“群狼战略”和密集的IPO计划，挑战埃隆·马斯克SpaceX在商业航天发射领域的垄断地位。此举不仅标志着中美两国在关键科技领域的竞争加剧，也预示着全球商业航天市场的竞争格局将发生深刻变化，吸引大量资本关注。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/companies/article/3360351/new-space-race-how-china-plans-break-spacexs-launch-monopoly-ipo-push?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "AI风险引专家警告，全球监管趋严",
-      "summary": "近200位经济学家和科技领袖联名警告人工智能潜在威胁，呼吁政策制定者积极应对；同时，欧洲正考虑对儿童社交媒体使用进行限制。这些动态表明全球对AI和科技伦理的担忧日益加剧，预示着未来科技行业将面临更严格的监管审查和政策约束。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/13/business/economists-ai-threat-jobs.html"
-        },
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/13/technology/europe-teen-social-media-ban.html"
-        }
-      ]
     }
   ],
   "people": [
     {
+      "name": "Christopher Waller",
+      "title": "美联储理事警告，若通胀数据持续高企，央行或很快加息",
+      "summary": "观点：美联储理事Christopher Waller表示，他需要看到连续数月的通胀下行数据，才能对物价稳定前景感到自信。他警告称，如果通胀未能持续回落，美联储可能不得不很快再次加息。这表明美联储内部仍有强烈的鹰派声音，对通胀保持高度警惕。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/13/business/federal-reserve-inflation-data-rates.html"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html"
+        }
+      ]
+    },
+    {
       "name": "Ben Thompson",
-      "title": "Ben Thompson：苹果起诉OpenAI是“发泄”，未能解决其AI核心问题",
-      "summary": "观点：Ben Thompson认为，苹果对OpenAI提起诉讼更多是公司在AI战略上遇到困境时的“发泄”，而非解决其真正的核心问题。这暗示苹果在快速发展的AI领域可能缺乏清晰的长期愿景和竞争力。",
+      "title": "Stratechery创始人评苹果起诉OpenAI：更像是“无谓的反击”",
+      "summary": "观点：知名科技分析师Ben Thompson（Stratechery）评论苹果起诉OpenAI一案，认为尽管有员工窃取商业机密的个案，但整体而言，这更像是苹果面对AI挑战时的一种“无谓的反击”。这反映出传统科技巨头在AI时代面临的战略困境和竞争压力。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/"
+          "url": "https://stratechery.com/2026/07/apple-sues-openai-apples-real-problem/"
         }
       ]
     },
     {
       "name": "Tyler Cowen",
-      "title": "Tyler Cowen谈AI对人类意义和市场竞争的影响",
-      "summary": "原话：「问题将不再是我的生命如何获得意义，而是如何应对我的生命将拥有的所有意义？一种耗尽感。」他同时提出观点：如果计算复杂性问题P=NP，则公司可以有效地解决串谋检测问题，使串谋可持续，这意味着「市场具有竞争力当且仅当P != NP」。",
+      "title": "经济学家Tyler Cowen探讨AI对劳动力市场和生活意义的影响",
+      "summary": "观点：经济学家Tyler Cowen在DeepMind的演讲中指出，人工智能带来的挑战可能不再是如何寻找生活的意义，而是如何应对生活将拥有的所有意义，这可能导致一种“耗竭”。他还引用Conor Sen的观察，指出自AI热潮开始以来，20-24岁年龄段的失业率基本没有变化，这表明AI对青年就业市场的影响尚未完全显现。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -86,84 +117,58 @@
         },
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/markets-are-competitive-if-and-only-if-p-np.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-wisdom-of-conor-sen-3.html"
         }
       ]
     },
     {
       "name": "Alex Morris",
-      "title": "Alex Morris与Ben Carlson探讨美联储存废及债市信号",
-      "summary": "观点：F/m Investments的Alex Morris与Ben Carlson在一档节目中深入探讨了美联储的必要性及其在经济中的作用，并分析了当前债券市场发出的关键信号。这反映了市场对央行货币政策走向和宏观经济前景的持续关注和解读。",
+      "title": "F/m Investments专家讨论美联储作用及债市信号",
+      "summary": "观点：F/m Investments的Alex Morris与Ben Carlson在播客中讨论了美联储的存在必要性、当前债券市场传递的信息，以及通货膨胀对冲策略等议题。这为投资者提供了关于货币政策、固定收益市场和宏观经济走向的专业解读，有助于理解当前市场的复杂性。",
       "sources": [
         {
           "name": "A Wealth of Common Sense (Ben Carlson)",
           "url": "https://awealthofcommonsense.com/2026/07/talk-your-book-do-we-need-the-federal-reserve/"
         }
       ]
-    },
-    {
-      "name": "段永平",
-      "title": "中国“巴菲特”段永平加码投资泡泡玛特",
-      "summary": "观点：被称为“中国巴菲特”的亿万富翁投资者段永平，已第三次增持香港上市的泡泡玛特股份。此举表明他持续看好这家潮流玩具品牌的长期前景，即便市场对该公司的IP产品组合可能存在的“疲劳感”有所担忧。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/companies/article/3360334/what-labubu-fatigue-billionaire-investor-doubles-down-pop-mart-stake?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "name": "高盛分析师",
-      "title": "高盛发布中国AI模型评估框架并选出“最爱”",
-      "summary": "观点：高盛集团发布了其中国AI模型竞争定位框架，并据此选出了他们“最喜欢”的中国AI模型。这一分析为投资者提供了理解中国AI领域快速发展格局及其潜在投资机会的重要参考。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html"
-        }
-      ]
     }
   ],
   "macro": [
     {
-      "title": "中东冲突升级推高油价，中国影响力凸显",
-      "summary": "随着美国与伊朗之间紧张关系加剧，地缘政治冲突升级，全球原油价格飙升。同时，作为全球最大原油进口国，中国在稳定或推高油价方面的影响力日益凸显，其需求状况成为左右全球能源市场的关键因素。",
+      "title": "美国战略石油储备逼近上限，或为霍尔木兹海峡局势增添复杂性",
+      "summary": "一份政府报告显示，美国战略石油储备（SPR）库存量处于低位，且遭受了设备故障、泄漏和溢油等问题。在特朗普政府誓言控制霍尔木兹海峡的背景下，SPR库存不足引发担忧。这凸显了全球能源安全面临的脆弱性，以及地缘政治冲突对能源供应和价格的潜在影响。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "中国在全球石油市场定价权日益增长，影响力超越OPEC",
+      "summary": "过去几十年来，OPEC通过控制产量影响全球油价。然而，作为全球最大石油进口国的中国，正日益展现出对石油价格的巨大影响力。随着中东地缘政治紧张局势升温，中国在全球能源市场中的角色将愈发关键，其需求变化和政策选择将对国际油价产生决定性作用。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html"
-        },
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html"
         }
       ]
     },
     {
-      "title": "霍尔木兹海峡航运量大幅下降，加剧全球供应链担忧",
-      "summary": "在美国对伊朗采取军事行动后，霍尔木兹海峡的航运活动骤降至近一个月来的最低点，通过这一关键航道的原油运输量大幅减少。这不仅对全球能源供应构成直接威胁，也加剧了市场对全球供应链中断和贸易成本上升的担忧。",
+      "title": "美联储7月加息概率上升，油价波动推高通胀预期",
+      "summary": "随着霍尔木兹海峡局势升级导致油价跳涨，市场对美联储在7月会议上加息的预期有所升温。尽管美联储官员强调不应“与过去的战争作斗争”，但通胀压力若持续，加息仍是可能选项。油价波动作为关键通胀因素，将直接影响美联储的决策，进而牵动全球金融市场。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/13/business/strait-hormuz-shipping-traffic-iran-war.html"
-        }
-      ]
-    },
-    {
-      "title": "美国前总统特朗普恢复霍尔木兹海峡封锁并征收关税",
-      "summary": "据报道，美国前总统唐纳德·特朗普恢复了对霍尔木兹海峡的军事封锁，并对通过该海峡的货物征收20%的费用。此举迅速推高全球油价至每桶80美元以上，市场担忧地缘政治风险和贸易壁垒将对全球经济带来显著影响。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/oil-prices-surge-as-much-as-5-after-iran-declares-strait-of-hormuz-is-closed-6905599b?mod=mw_rss_topstories"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "AI潜在威胁引专家警示，呼吁政策制定者积极应对",
-      "summary": "近200位经济学家和科技领袖联名致信，警告人工智能可能带来的就业市场冲击和社会结构性威胁，敦促政策制定者投入更多精力理解并应对AI的潜在颠覆性影响。这反映了行业内外对AI发展与监管的日益增长的紧迫感。",
+      "title": "近200位经济学家和科技领袖联名警告AI潜在威胁，呼吁政策干预",
+      "summary": "一份由近200位经济学家和科技界领袖签署的公开信呼吁政策制定者，更深入地理解并应对人工智能可能带来的颠覆性影响。该信函强调AI对就业和经济结构带来的不确定性，呼吁政府采取更多行动。这表明AI的风险已引起社会各界的广泛关注，政策监管的紧迫性正在增加。",
       "sources": [
         {
           "name": "NYT Business",
@@ -172,8 +177,28 @@
       ]
     },
     {
-      "title": "欧洲考虑立法禁止未成年人使用社交媒体",
-      "summary": "一份新报告发布后，欧盟委员会正考虑在27个成员国范围内修改规则，可能导致禁止儿童使用社交媒体。这一举动凸显了全球对青少年网络安全和心理健康的关注，未来可能对科技平台的运营模式和用户增长策略产生深远影响。",
+      "title": "苹果推出新SpeechAnalyzer API，提升语音识别技术竞争力",
+      "summary": "苹果公司发布了新的SpeechAnalyzer API，并在基准测试中展现出与Whisper及前代技术相比的竞争力。这一进展标志着苹果在语音识别领域的持续投入，有助于其在设备端AI功能上保持领先。随着更多AI能力集成到操作系统和硬件中，将增强苹果生态系统的吸引力。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html"
+        }
+      ]
+    },
+    {
+      "title": "三星健康App被曝强制用户参与AI训练，用户数据隐私问题凸显",
+      "summary": "三星健康App被指出，如果用户选择退出AI训练，其健康数据将面临删除的威胁。这一做法引发了用户数据隐私和企业AI伦理的担忧。随着AI技术在个人健康领域的应用日益深入，用户数据的使用和隐私保护将成为科技公司面临的重要挑战和监管焦点。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://neow.in/cWsyMTV3"
+        }
+      ]
+    },
+    {
+      "title": "欧洲考虑立法禁止儿童使用社交媒体，科技巨头面临更严监管",
+      "summary": "一份新报告发布后，欧盟委员会正在考虑在27个成员国范围内修改规则，可能禁止儿童使用社交媒体平台。此举旨在保护青少年用户，但无疑将对Meta、TikTok等社交媒体巨头在欧洲的运营模式和用户增长策略造成巨大影响，预示着全球范围内对儿童网络安全的更严格监管趋势。",
       "sources": [
         {
           "name": "NYT Business",
@@ -182,28 +207,87 @@
       ]
     },
     {
-      "title": "GPT-5.6提升AI代理效率，成本显著降低",
-      "summary": "一项案例研究显示，将生产型AI代理迁移到GPT-5.6后，其运行速度提高了2.2倍，成本降低了27%。这展示了最新AI模型在实际应用中带来的显著效率提升和成本优化潜力，对企业级AI部署具有重要参考价值。",
+      "title": "Telegram的t.me域名遭暂停，头部社交应用面临审查挑战",
+      "summary": "知名即时通讯应用Telegram的短链接域名t.me被暂停，具体原因不明。作为全球重要通信平台之一，域名的暂停可能对其用户访问和服务稳定性造成影响。这突显了大型互联网平台在全球各地面临的审查、合规和运营风险，对言论自由和信息流通亦构成挑战。",
       "sources": [
         {
           "name": "Hacker News Top",
-          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6"
+          "url": "https://www.whois.com/whois/t.me"
         }
       ]
-    },
+    }
+  ],
+  "us_stocks": [
     {
-      "title": "中国药企聚焦AI药物研发，推动跨境交易新浪潮",
-      "summary": "在2026年上半年中国创新药物跨境交易额创下1100亿美元的纪录后，中国制药行业正转向以AI驱动的药物候选项目，以期推动下一波交易。这标志着AI在生命科学领域的深度融合，并有望加速中国在新药研发领域的全球竞争力。",
+      "title": "SpaceX IPO后股价承压，上市一个月后市场关注其盈利能力",
+      "summary": "SpaceX在成功IPO一个月后，其股价面临下行压力，市值已从2.67万亿美元的峰值蒸发超过8000亿美元。市场开始审视该公司实际的盈利模式和业绩表现，担忧其能否支撑高估值。这提醒投资者，即使是备受瞩目的高科技IPO，其上市后的表现也充满不确定性。",
       "sources": [
         {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3360395/chinas-drug-industry-pivots-ai-powered-candidates-drive-next-wave-deals?utm_source=rss_feed"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/spacexs-stock-threatens-to-fall-below-the-ipo-price-do-investors-face-a-crisis-if-it-does-2f330b09?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "美国电动汽车充电桩建设蓬勃发展，超越销量增速",
-      "summary": "尽管美国电动汽车（EV）销量有所放缓，但EV充电桩的建设却在加速增长，尤其是在南部各州，快餐店、商店等企业正积极部署充电设施以吸引顾客。这表明尽管短期销量波动，但电动汽车基础设施建设的长期趋势和投资仍在强劲推进。",
+      "title": "投资者杠杆借贷激增引发市场担忧，恐成美股潜在风险信号",
+      "summary": "投资者通过借贷购买股票的现象日益普遍，反映出市场中追逐高收益的“贪婪”情绪。这种保证金债务（margin debt）的不断累积，正引起华尔街部分人士的担忧，认为它可能是股票市场的一个预警信号。高杠杆投资在市场回调时可能放大损失，增加系统性风险。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/why-a-borrowing-binge-by-investors-is-a-warning-sign-for-the-stock-market-996ee446?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "动量股今年表现强劲，市场关注其可持续性",
+      "summary": "今年以来，市场上的动量股（Momentum Stocks）表现异常出色，大幅跑赢大盘。这类股票通常指那些在近期表现优异并持续上涨的股票。投资者和分析师正密切关注，这种基于趋势的投资策略能否持续带来超额收益，以及市场风格是否会出现切换，这关系到未来投资组合的配置策略。",
+      "sources": [
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/07/momentum-stocks/"
+        }
+      ]
+    },
+    {
+      "title": "Sandisk股价暴跌引分析师看多，估值吸引力或带来近85%上涨空间",
+      "summary": "存储芯片制造商Sandisk的股价近期大幅下挫，但一些分析师却对此持更加乐观的态度，甚至给出了高达85%上涨空间的股价目标。这种逆势看涨的观点认为，尽管短期面临压力，但股价暴跌可能已使其估值变得极具吸引力。这为寻求高风险高回报的投资者提供了潜在机会。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/sandisks-stock-is-plunging-but-some-analysts-are-getting-even-more-bullish-cba3472f?mod=mw_rss_topstories"
+        }
+      ]
+    }
+  ],
+  "a_stocks": [],
+  "business": [
+    {
+      "title": "大众汽车计划全球裁员多达10万人，电动化转型与中国市场竞争承压",
+      "summary": "大众汽车集团（包括保时捷和奥迪）面临利润大幅下滑以及中国市场激烈竞争的困境，正计划在全球范围内裁减多达10万个工作岗位。这一大规模裁员计划凸显了传统汽车巨头在向电动化转型的过程中所遭遇的巨大挑战和成本压力，也反映出全球汽车产业格局的剧烈变动。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Chipotle首次进军墨西哥市场，寻求国际扩张新增长点",
+      "summary": "快餐连锁品牌Chipotle宣布将在墨西哥蒙特雷地区开设首家门店，标志着其首次进入墨西哥市场。此举是Chipotle寻求国际扩张和新增长点的战略性一步。在北美成熟市场竞争日益激烈的情况下，新兴市场的拓展对其未来营收增长至关重要。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/13/chipotle-opening-first-restaurant-in-mexico.html"
+        }
+      ]
+    },
+    {
+      "title": "美国电动汽车销量下滑但充电桩市场繁荣，行业结构性变化显现",
+      "summary": "尽管美国电动汽车（EV）的销量近期有所下降，但电动汽车充电站的建设却在南部各州迅速普及。快餐店、商店和其他企业纷纷增设充电设施以吸引顾客。这表明市场正在从早期销售驱动转向基础设施完善，虽然短期需求放缓，但长期增长的基础正在夯实。",
       "sources": [
         {
           "name": "NYT Business",
@@ -212,123 +296,24 @@
       ]
     }
   ],
-  "us_stocks": [
+  "overlooked": [
     {
-      "title": "华尔街银行财报季开启，市场预期高涨",
-      "summary": "美国大型银行本周开始公布第二季度财报，正式拉开华尔街财报季的序幕。在SpaceX首次公开募股和伊朗战争波动等因素的推动下，市场对银行业绩抱有较高预期，这将是检验企业盈利能力和宏观经济韧性的关键时刻。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/13/business/dealbook/wall-street-earnings.html"
-        },
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html"
-        }
-      ]
-    },
-    {
-      "title": "派拉蒙-华纳兄弟发现合并案面临多州诉讼",
-      "summary": "派拉蒙Skydance与华纳兄弟发现的合并案预计将面临多个州检察长的诉讼挑战。此消息表明大型媒体并购案正面临日益严格的反垄断审查，可能对交易的最终完成及其条款产生重大影响，并影响行业整合趋势。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX IPO后一个月表现回顾",
-      "summary": "SpaceX首次公开募股（IPO）一个月后，市场正在审视其股票表现和公司盈利模式的现实情况。作为备受瞩目的太空科技公司，其上市后的走势及其商业模式的清晰化，为投资者评估新兴太空经济的潜力和风险提供了重要参考。",
+      "title": "泰达币（Tether）背后加密公司曝光政治联系，监管透明度引关注",
+      "summary": "据报道，全球最大的稳定币泰达币（Tether）背后的加密货币公司与英国脱欧主要支持者Nigel Farage的最大捐助者存在秘密联系。这凸显了加密货币领域与政治力量之间的潜在交织，引发了对这些不透明金融工具的监管担忧。对于寻求监管确定性的投资者而言，这是一个重要的风险信号。",
       "sources": [
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "动量型股票表现强劲，市场关注其持续性",
-      "summary": "今年以来，动量型股票（Momentum Stocks）表现异常出色，大幅跑赢大盘。然而，市场专业人士正在探讨这种强势能否持续，以及其背后是基本面支撑还是过度投机，这对于投资者的资产配置策略具有指导意义。",
+      "title": "事件合约交易平台Kalshi推出“专业版”，拓展机构交易员和永续期货市场",
+      "summary": "事件合约交易平台Kalshi推出了面向专业用户的“Pro”产品，旨在解决活跃交易者在多市场和永续期货交易中遇到的问题。这一创新产品为专业投资者提供了更高级的交易工具，标志着事件预测市场在金融衍生品领域的进一步成熟和拓展，可能吸引更多机构资金参与。",
       "sources": [
         {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/07/momentum-stocks/"
-        }
-      ]
-    }
-  ],
-  "a_stocks": [
-    {
-      "title": "SK海力士ADR上市后因地缘政治冲击股价大跌",
-      "summary": "韩国芯片制造商SK海力士在美国存托凭证（ADR）成功上市仅一个交易日后，受地缘政治冲击影响，其在首尔的本地股价暴跌15%。这突显了全球科技公司，尤其是半导体行业，对地缘政治风险的敏感性和脆弱性。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/geopolitical-shock-exposes-sk-hynix-leverage-after-hot-adr-debut-340ae8d4?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "富途证券预计大陆经纪业务将萎缩，维持香港运营",
-      "summary": "在纳斯达克上市的中国券商富途控股表示，受中国监管政策收紧的影响，预计其大陆经纪业务将逐渐萎缩，但承诺将继续维持在香港的业务运营。这一消息反映出中国对互联网券商监管的持续压力，及其对相关企业业务战略的深远影响。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/markets/article/3360400/futu-expects-mainland-brokerage-business-shrink-vows-keep-hong-kong-outlets?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "中国商业航天借IPO热潮，挑战SpaceX垄断地位",
-      "summary": "为打破埃隆·马斯克SpaceX在全球发射市场的垄断，中国正在采取协调一致的“群狼”战略，并推动一系列商业航天公司在上海和香港上市。此举旨在通过资本市场支持技术突破，加速中国在可重复使用火箭等领域的商业化进程，加剧全球太空竞赛。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/companies/article/3360351/new-space-race-how-china-plans-break-spacexs-launch-monopoly-ipo-push?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "中国药企借力AI药物研发，寻求跨境交易新增长点",
-      "summary": "在中国创新药物跨境交易额创纪录后，国内制药行业正积极转向利用人工智能（AI）技术进行药物研发，以期推动新一轮的交易增长。这一趋势表明AI正成为中国制药产业转型升级的关键动力，有望提升其在全球生物医药领域的地位。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3360395/chinas-drug-industry-pivots-ai-powered-candidates-drive-next-wave-deals?utm_source=rss_feed"
-        }
-      ]
-    }
-  ],
-  "business": [],
-  "overlooked": [
-    {
-      "title": "市场竞争与计算复杂性理论的深层关联",
-      "summary": "经济学家Tyler Cowen提出，市场是否具有竞争力可能取决于一个深层的计算复杂性理论问题——P与NP是否相等。如果P=NP，企业能够高效地检测和维持串谋，从而削弱市场竞争性。这一理论挑战了传统经济学对竞争市场的理解，揭示了市场结构背后潜在的计算限制。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/markets-are-competitive-if-and-only-if-p-np.html"
-        }
-      ]
-    },
-    {
-      "title": "美国政府政策对科学研究体系构成威胁",
-      "summary": "有观点认为，特朗普政府对联邦财政援助规定的修改，对美国 historically 成功的去中心化科学资助体系构成巨大威胁。这可能阻碍未来科学研究的创新活力和效率，对美国的长期科技竞争力产生负面影响。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html"
-        }
-      ]
-    },
-    {
-      "title": "经济学知识对政策偏好的影响",
-      "summary": "一项研究发现，拥有经济学知识的人，无论其个人初始得失，都更倾向于支持提升社会福利的政策，例如加入欧元区、自由贸易和欧盟移民政策。这挑战了传统的自我利益驱动论，强调了经济学教育在塑造公众政策偏好中的重要作用。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/who-thinks-like-an-economist.html"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html"
         }
       ]
     }
