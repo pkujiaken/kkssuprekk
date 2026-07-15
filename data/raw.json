@@ -1,6 +1,13 @@
 [
   {
     "source": "Stratechery (Ben Thompson)",
+    "title": "IBM Misses, IBM’s Mainframe Moat, IBM’s Many AI Problems",
+    "link": "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
+    "summary": "IBM announced preliminary results that spooked the software market generally; this is a story, however, specifically about IBM and its mainframe franchise.",
+    "published": "Wed, 15 Jul 2026 10:00:19 +0000"
+  },
+  {
+    "source": "Stratechery (Ben Thompson)",
     "title": "The OpenAI Super App, ChatGPT = Codex, Whither Chat",
     "link": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
     "summary": "OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?",
@@ -56,11 +63,11 @@
     "published": "Tue, 14 Jul 2026 04:32:21 +0000"
   },
   {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "Persistent Inequality in Publishing in Economics",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/07/persistent-inequality-in-publishing-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=persistent-inequality-in-publishing-in-economics",
-    "summary": "<p>This paper documents new facts about concentration in publishing in economics. First, the profession grows downward . The number of economists grew almost sixfold since 1990, but new entrants publish in lower-tier journals while incumbents hold the top. Second, there is high and persistent concentration at the top. Along with the downward growth, the top-1% [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/persistent-inequality-in-publishing-in-economics.html\">Persistent Inequality in Publishing in Economics</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Mon, 13 Jul 2026 19:30:13 +0000"
+    "source": "A Wealth of Common Sense (Ben Carlson)",
+    "title": "Animal Spirits: Will the Fed Buy Stocks?",
+    "link": "https://awealthofcommonsense.com/2026/07/animal-spirits-wil-the-fed-buy-stocks/",
+    "summary": "<figure><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"752\" src=\"https://awealthofcommonsense.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-215322.png\" width=\"1021\" /></figure>On today's show we discuss hyperscalers vs. semiconductors, 10 reasons to be bearish, Nvidia is cheap, analysts are good at forecasting earnings, why small caps are booming, investors still chase performance, why the stock market is more important now, the AI doomers are wrong (for now), bond yields are higher, what makes you rich, Dave Matthews Band and more.\nThe post Animal Spirits: Will the Fed Buy Stocks? appeared fir...",
+    "published": "Wed, 15 Jul 2026 11:15:27 +0000"
   },
   {
     "source": "A Wealth of Common Sense (Ben Carlson)",
@@ -78,17 +85,66 @@
   },
   {
     "source": "NYT Business",
+    "title": "Is IBM a Canary in the Tech Coal Mine?",
+    "link": "https://www.nytimes.com/2026/07/15/business/dealbook/ibm-ai-software-consulting.html",
+    "summary": "The company tumbled sharply after previewing quarterly results that were disappointing. It’s not good news for software and tech consulting companies.",
+    "published": "Wed, 15 Jul 2026 12:31:21 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Oil Prices Tick Higher as U.S. Reinstates Iran Blockade",
+    "link": "https://www.nytimes.com/2026/07/15/business/oil-prices-stocks-gas.html",
+    "summary": "The United States reinstated its blockade on Iranian ports in the Strait of Hormuz and shipping slowed to a crawl amid the renewed warfare in the critical waterway.",
+    "published": "Wed, 15 Jul 2026 13:53:42 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "A Year After DOGE Cuts, Social Security Is Trying to Stabilize",
+    "link": "https://www.nytimes.com/2026/07/15/business/social-security-offices.html",
+    "summary": "The agency has been quietly hiring workers again, and its leadership is focused on improving technology to ease workloads left by the departure of about 7,800 staff members.",
+    "published": "Wed, 15 Jul 2026 09:02:34 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "The American E.V. Has Been Crushed. Will It Take the U.S. Auto Industry With It?",
+    "link": "https://www.nytimes.com/2026/07/15/magazine/electric-cars-american-evs.html",
+    "summary": "The largest U.S. automakers have backed away from electric vehicles, even as global sales are booming. The decision may make them obsolete.",
+    "published": "Wed, 15 Jul 2026 09:00:59 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "From Twitter to X: 20 Years of Memes, Movements and Hot Takes",
+    "link": "https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html",
+    "summary": "The first tweets from the public appeared on July 15, 2006, several months after a soft launch. It was rebranded as X after being acquired by Elon Musk.",
+    "published": "Wed, 15 Jul 2026 10:48:11 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "What Trump’s New Iran Blockade Could Mean for Oil Prices",
+    "link": "https://www.nytimes.com/2026/07/15/business/trump-iran-blockade-oil-prices.html",
+    "summary": "The first blockade in April choked off Iranian exports without causing a lasting price surge. Now global oil reserves are lower, and ships face heightened risks.",
+    "published": "Wed, 15 Jul 2026 11:48:07 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "China’s Chip Champion to Raise Billions in Race for A.I. Control",
+    "link": "https://www.nytimes.com/2026/07/15/business/china-chips-cxmt-ipo.html",
+    "summary": "CXMT, a linchpin in China’s drive to develop homegrown artificial intelligence technology, is aiming to raise nearly $10 billion in a blockbuster public offering in Shanghai.",
+    "published": "Wed, 15 Jul 2026 07:29:52 +0000"
+  },
+  {
+    "source": "NYT Business",
     "title": "China’s Economy Grows at Slowest Pace in Years",
     "link": "https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html",
     "summary": "Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might.",
-    "published": "Wed, 15 Jul 2026 04:41:25 +0000"
+    "published": "Wed, 15 Jul 2026 11:10:18 +0000"
   },
   {
     "source": "NYT Business",
     "title": "Tech Investors and Longevity Influencers Back Neko Health’s Mega Round",
     "link": "https://www.nytimes.com/2026/07/15/business/dealbook/neko-health-ek-funding.html",
     "summary": "The health tech start-up co-founded by Spotify’s Daniel Ek is worth billions more after a new $700 million funding round.",
-    "published": "Wed, 15 Jul 2026 04:00:06 +0000"
+    "published": "Wed, 15 Jul 2026 08:13:38 +0000"
   },
   {
     "source": "NYT Business",
@@ -96,55 +152,6 @@
     "link": "https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html",
     "summary": "A power auction conducted by a giant grid operator is expected to add $6.3 billion in additional charges to consumers and businesses because of electricity needs of data centers.",
     "published": "Wed, 15 Jul 2026 00:39:01 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Public Health Groups Sue F.D.A. Over Flavored E-Cigarette Policy",
-    "link": "https://www.nytimes.com/2026/07/14/health/flavored-vapes-fda.html",
-    "summary": "Executives unhappy with the agency donated and lobbied President Trump directly. Major companies have already begun to prepare and ship new products.",
-    "published": "Tue, 14 Jul 2026 20:28:16 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Top Tax Official to Leave Trump Administration",
-    "link": "https://www.nytimes.com/2026/07/14/us/politics/ken-kies-irs-departure.html",
-    "summary": "Ken Kies, who held two top jobs at the Treasury Department and the I.R.S., is leaving the government.",
-    "published": "Tue, 14 Jul 2026 19:15:23 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Trump Flip-Flops on Strait of Hormuz, Creating New Risks for Global Economy",
-    "link": "https://www.nytimes.com/2026/07/14/business/trump-strait-of-hormuz.html",
-    "summary": "The president now wants Gulf nations to invest in the U.S. in exchange for safe passage. Shipping industry experts worry other nations will follow that lead.",
-    "published": "Tue, 14 Jul 2026 18:50:34 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Chipotle Is Bringing Its Mexican-Inspired Fast Food to Monterrey, Mexico",
-    "link": "https://www.nytimes.com/2026/07/14/business/chipotle-open-mexico-monterrey.html",
-    "summary": "The California-based restaurant chain is opening its first location south of the U.S.-Mexico border this week, bringing its bowls and burritos to Monterrey.",
-    "published": "Tue, 14 Jul 2026 20:47:13 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Leonard Abramson, Health Care Innovator and Philanthropist, Dies at 93",
-    "link": "https://www.nytimes.com/2026/07/14/health/leonard-abramson-dead.html",
-    "summary": "He created U.S. Healthcare, one of the first H.M.O.s, and used his great wealth from the sale of the company for causes like advancing cancer research.",
-    "published": "Tue, 14 Jul 2026 16:42:20 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Trump Paid $2 Million by South Korean Company Facing Trade Investigation",
-    "link": "https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html",
-    "summary": "The payment illustrates the minefield Mr. Trump has created by maintaining personal financial ties with foreign businesses while he is in office.",
-    "published": "Tue, 14 Jul 2026 16:35:57 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Warren Buffet Declines to Donate to Gates Foundation Amid Epstein Revelations",
-    "link": "https://www.nytimes.com/2026/07/14/business/media/warren-buffett-gates-foundation-gift.html",
-    "summary": "The decision by the Berkshire Hathaway founder comes in the wake of Epstein revelations that have troubled the Gates Foundation.",
-    "published": "Tue, 14 Jul 2026 17:17:22 +0000"
   },
   {
     "source": "NYT Economy",
@@ -183,6 +190,13 @@
   },
   {
     "source": "NYT DealBook",
+    "title": "Is IBM a Canary in the Tech Coal Mine?",
+    "link": "https://www.nytimes.com/2026/07/15/business/dealbook/ibm-ai-software-consulting.html",
+    "summary": "The company tumbled sharply after previewing quarterly results that were disappointing. It’s not good news for software and tech consulting companies.",
+    "published": "Wed, 15 Jul 2026 12:31:21 +0000"
+  },
+  {
+    "source": "NYT DealBook",
     "title": "Paramount vs. the States",
     "link": "https://www.nytimes.com/2026/07/14/business/dealbook/paramount-states-antitrust.html",
     "summary": "An effort to block the media giant’s planned takeover of Warner Bros. Discovery underscores how states are taking a more active role in antitrust regulation.",
@@ -193,14 +207,14 @@
     "title": "Sign Up for DealBook",
     "link": "https://www.nytimes.com/newsletters/signup/DK",
     "summary": "Make sense of the latest business and policy headlines with our daily newsletter.",
-    "published": "Tue, 14 Jul 2026 12:06:51 +0000"
+    "published": "Wed, 15 Jul 2026 12:31:53 +0000"
   },
   {
     "source": "NYT DealBook",
     "title": "Tech Investors and Longevity Influencers Back Neko Health’s Mega Round",
     "link": "https://www.nytimes.com/2026/07/15/business/dealbook/neko-health-ek-funding.html",
     "summary": "The health tech start-up co-founded by Spotify’s Daniel Ek is worth billions more after a new $700 million funding round.",
-    "published": "Wed, 15 Jul 2026 04:00:06 +0000"
+    "published": "Wed, 15 Jul 2026 08:13:38 +0000"
   },
   {
     "source": "NYT DealBook",
@@ -232,6 +246,20 @@
   },
   {
     "source": "BBC Business",
+    "title": "Cash-strapped Thames Water poses big test for Burnham",
+    "link": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
+    "summary": "Despite returning to profit after hiking bills 40%, the deeply troubled company is far from out of the woods.",
+    "published": "Wed, 15 Jul 2026 12:09:08 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Don't panic - five ways to stop your kids' endless scrolling",
+    "link": "https://www.bbc.co.uk/news/articles/c86e3q5j992o?at_medium=RSS&at_campaign=rss",
+    "summary": "Parenting experts share their tips on how to keep children's screen time under control.",
+    "published": "Wed, 15 Jul 2026 11:13:40 GMT"
+  },
+  {
+    "source": "BBC Business",
     "title": "Heating oil customers to get compensation after price hikes",
     "link": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss",
     "summary": "The cost of heating oil spiked following the US-Israel war with Iran which forced up crude prices.",
@@ -239,17 +267,24 @@
   },
   {
     "source": "BBC Business",
-    "title": "Buy Now Pay Later rules to bring refunds and rejections",
+    "title": "How will Buy Now Pay Later changes affect you?",
     "link": "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss",
     "summary": "Consumers should be better protected as Buy Now Pay Later lenders now require authorisation to operate.",
-    "published": "Tue, 14 Jul 2026 23:01:57 GMT"
+    "published": "Wed, 15 Jul 2026 08:43:15 GMT"
   },
   {
     "source": "BBC Business",
-    "title": "Midnight social media curfew proposed for older UK teens",
+    "title": "Several flights diverted after plane blocks Gatwick runway",
+    "link": "https://www.bbc.co.uk/news/articles/c3ryr25gvjdo?at_medium=RSS&at_campaign=rss",
+    "summary": "An Easyjet flight had to land at Stanstead Airport instead, but then became stuck there when it couldn't find fuel.",
+    "published": "Wed, 15 Jul 2026 10:23:27 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
     "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-    "summary": "Teenagers will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
-    "published": "Tue, 14 Jul 2026 23:17:23 GMT"
+    "summary": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
+    "published": "Wed, 15 Jul 2026 11:24:29 GMT"
   },
   {
     "source": "BBC Business",
@@ -263,14 +298,7 @@
     "title": "China economic growth falls sharply, missing target",
     "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
     "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
-    "published": "Wed, 15 Jul 2026 05:12:55 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "Is tracking your food purchases good for your health?",
-    "link": "https://www.bbc.co.uk/news/articles/cy8wlplellvo?at_medium=RSS&at_campaign=rss",
-    "summary": "Food tracking apps are popular, but are they a good way to make us eat a healthier diet?",
-    "published": "Mon, 13 Jul 2026 23:04:58 GMT"
+    "published": "Wed, 15 Jul 2026 10:21:48 GMT"
   },
   {
     "source": "BBC Business",
@@ -287,88 +315,88 @@
     "published": "Wed, 15 Jul 2026 00:09:04 GMT"
   },
   {
-    "source": "BBC Business",
-    "title": "Billionaire Warren Buffett stops donations to Bill Gates charity",
-    "link": "https://www.bbc.co.uk/news/articles/c8x2x549vgdo?at_medium=RSS&at_campaign=rss",
-    "summary": "The investor's decision comes weeks after Gates' appearance before US Congress over his links to Jeffrey Epstein.",
-    "published": "Tue, 14 Jul 2026 18:05:11 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "Gas prices drive down US inflation - but will it last?",
-    "link": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
-    "summary": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
-    "published": "Tue, 14 Jul 2026 17:34:55 GMT"
-  },
-  {
     "source": "MarketWatch Top Stories",
-    "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
-    "link": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories",
-    "summary": "Americans got some relief at the gas pump in recent weeks, enough to slow down inflation. That might not last long as the U.S. and Iran continue to vie for control of the Strait of Hormuz.",
-    "published": "Wed, 15 Jul 2026 00:28:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "This overlooked index is a better investment than the S&P 500",
-    "link": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
-    "summary": "We did the math over a 30-year period, and it’s not even close.",
-    "published": "Tue, 14 Jul 2026 23:32:00 GMT"
+    "title": "‘They cut off online access’: My mother’s bank balance plummeted after her death. What’s going on?",
+    "link": "https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories",
+    "summary": "“Since her death, her bank balance fell to $9,000 from $16,000.”",
+    "published": "Wed, 15 Jul 2026 14:15:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
     "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
     "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
     "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
-    "published": "Tue, 14 Jul 2026 22:15:00 GMT"
+    "published": "Wed, 15 Jul 2026 14:02:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Your monthly Netflix bill is up 29% in just over a year. Critics say Washington needs to fix it.",
+    "title": "Most Americans don’t know how to prevent dementia. Here’s what you can do.",
+    "link": "https://www.marketwatch.com/story/most-americans-dont-know-how-to-prevent-dementia-heres-what-you-can-do-85fb4bfc?mod=mw_rss_topstories",
+    "summary": "‘Brain health is a lifelong commitment — it’s never too early or too late to start’",
+    "published": "Wed, 15 Jul 2026 14:00:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "‘I don’t want to sound callous’: Why base your Social Security claim on life expectancy? We could die at any time.",
+    "link": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
+    "summary": "“The actual date of death ultimately affects only the surviving beneficiaries.”",
+    "published": "Wed, 15 Jul 2026 14:00:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "This Wall Street ‘theme-o-meter’ has a clear message: The artificial-intelligence bull market is back",
+    "link": "https://www.marketwatch.com/story/this-wall-street-theme-o-meter-has-a-clear-message-the-artificial-intelligence-bull-market-is-back-50f18755?mod=mw_rss_topstories",
+    "summary": "UBS says its top theme right now is that leadership for artificial-intelligence stocks is returning, and earnings season may prove how investors have been too pessimistic.",
+    "published": "Wed, 15 Jul 2026 13:40:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Wholesale prices show first drop in almost a year on lower gas prices, but inflation still too high",
+    "link": "https://www.marketwatch.com/story/wholesale-inflation-posts-first-drop-in-almost-a-year-as-gas-prices-decline-2ecee6e9?mod=mw_rss_topstories",
+    "summary": "Wholesale prices fell in June for the first time in 10 months largely due to lower gas prices, but it is unclear if the recent slowdown in inflation will  persist in light of renewed hostilities between the U.S. and Iran.",
+    "published": "Wed, 15 Jul 2026 13:35:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
+    "link": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories",
+    "summary": "Americans got some relief at the gas pump in recent weeks, enough to slow down inflation. That might not last long as the U.S. and Iran continue to vie for control of the Strait of Hormuz.",
+    "published": "Wed, 15 Jul 2026 13:12:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Your Netflix bill is up 29% in just over a year. It’s time for Washington to step in.",
     "link": "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories",
     "summary": "Netflix is still a Wall Street favorite — and a target for government regulators",
-    "published": "Tue, 14 Jul 2026 22:11:00 GMT"
+    "published": "Wed, 15 Jul 2026 13:05:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
-    "link": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
-    "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
-    "published": "Tue, 14 Jul 2026 21:38:00 GMT"
+    "title": "My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
+    "link": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories",
+    "summary": "“The hood is bent, the radiator is cracked, and the front bumper is destroyed.”",
+    "published": "Wed, 15 Jul 2026 13:00:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "What IBM’s profit warning means: Hardware is ‘eating everyone’s lunch’",
-    "link": "https://www.marketwatch.com/story/what-ibms-profit-warning-means-hardware-is-eating-everyones-lunch-c6878824?mod=mw_rss_topstories",
-    "summary": "The company said the shortfall in its software and infrastructure business was tied to clients spending on memory ahead of price hikes.",
-    "published": "Tue, 14 Jul 2026 21:10:00 GMT"
+    "title": "BlackRock profits jump as assets under management hit a record $15 trillion",
+    "link": "https://www.marketwatch.com/story/blackrock-profits-jump-as-assets-under-management-hit-a-record-15-trillion-8e6fd54b?mod=mw_rss_topstories",
+    "summary": "Shares in the fund manager rise as company says its will boost quarterly buybacks to $550 million",
+    "published": "Wed, 15 Jul 2026 12:19:00 GMT"
   },
   {
-    "source": "MarketWatch Top Stories",
-    "title": "Taco Bell reportedly being investigated by health officials, as cyclosporiasis outbreak spreads",
-    "link": "https://www.marketwatch.com/story/officials-are-reportedly-looking-into-taco-bell-as-source-of-parasite-outbreak-remains-elusive-3ead0a1f?mod=mw_rss_topstories",
-    "summary": "Shares of Taco Bell parent Yum Brands were down nearly 4% on Tuesday.",
-    "published": "Tue, 14 Jul 2026 21:09:00 GMT"
+    "source": "CNBC Business",
+    "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
+    "link": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
+    "summary": "Like at peers Goldman Sachs and JPMorgan Chase, a massive beat in equities trading drove the quarter's outsized results.",
+    "published": "Wed, 15 Jul 2026 13:44:44 GMT"
   },
   {
-    "source": "MarketWatch Top Stories",
-    "title": "Wall Street has set a sky-high bar for companies to clear this earnings season. They just might pull it off.",
-    "link": "https://www.marketwatch.com/story/wall-street-has-set-a-sky-high-bar-for-companies-to-clear-this-earnings-season-they-just-might-pull-it-off-45731862?mod=mw_rss_topstories",
-    "summary": "Analysts have set a sky-high bar for second-quarter earnings. However, Piper Sandler thinks corporate America can still clear it.",
-    "published": "Tue, 14 Jul 2026 21:03:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Your stock portfolio is tied to the Japanese yen — and a looming intervention is flashing a major warning sign",
-    "link": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
-    "summary": "What the link between the yen and U.S. stocks means for your portfolio.",
-    "published": "Tue, 14 Jul 2026 20:56:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Skip the lettuce, cook your other greens and more advice on avoiding cyclosporiasis",
-    "link": "https://www.marketwatch.com/story/skip-the-lettuce-cook-your-other-greens-and-more-advice-on-avoiding-cyclosporiasis-ec2aed46?mod=mw_rss_topstories",
-    "summary": "The outbreak of cyclosporiasis, which causes diarrhea, has sickened about 6,700 people since May.",
-    "published": "Tue, 14 Jul 2026 20:22:00 GMT"
+    "source": "CNBC Business",
+    "title": "‘Arsenal of democracy’: Jamie Dimon announces $24 million effort to boost American shipbuilding",
+    "link": "https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html",
+    "summary": "JPMorgan Chase CEO Jamie Dimon unveiled a $24 million package to bolster American shipbuilding, funding a new submarine facility at the Philadelphia Navy Yard.",
+    "published": "Wed, 15 Jul 2026 13:45:27 GMT"
   },
   {
     "source": "CNBC Business",
@@ -400,10 +428,10 @@
   },
   {
     "source": "CNBC Business",
-    "title": "Bank earnings takeaways: From Goldman Sach's SpaceX IPO fees to JPMorgan's AI job cuts",
+    "title": "Bank earnings takeaways: From Goldman Sachs' SpaceX IPO fees to JPMorgan's AI job cuts",
     "link": "https://www.cnbc.com/2026/07/14/jpm-bank-of-america-citi-bank-earnings-live-updates.html",
     "summary": "The five banks reported strong revenue from equities trading.",
-    "published": "Tue, 14 Jul 2026 20:05:02 GMT"
+    "published": "Wed, 15 Jul 2026 12:46:35 GMT"
   },
   {
     "source": "CNBC Business",
@@ -427,18 +455,67 @@
     "published": "Tue, 14 Jul 2026 13:23:02 GMT"
   },
   {
-    "source": "CNBC Business",
-    "title": "Chipotle is opening its first restaurant in Mexico",
-    "link": "https://www.cnbc.com/2026/07/13/chipotle-opening-first-restaurant-in-mexico.html",
-    "summary": "Fast casual chain Chipotle announced Monday that it is opening its first location in Mexico in the Monterrey area.",
-    "published": "Mon, 13 Jul 2026 20:10:01 GMT"
+    "source": "CNBC Finance",
+    "title": "Watch Fed Chairman Kevin Warsh testify live before Senate banking committee",
+    "link": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+    "summary": "Part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House Financial Services Committee.",
+    "published": "Wed, 15 Jul 2026 13:47:51 GMT"
   },
   {
-    "source": "CNBC Business",
-    "title": "Paramount, WBD hit with lawsuit from 12 states, including California, to block merger",
-    "link": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html",
-    "summary": "A group of states, including California, filed a lawsuit to block the merger between Paramount and Warner Bros. Discovery.",
-    "published": "Mon, 13 Jul 2026 18:58:47 GMT"
+    "source": "CNBC Finance",
+    "title": "‘Arsenal of democracy’: Jamie Dimon announces $24 million effort to boost American shipbuilding",
+    "link": "https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html",
+    "summary": "JPMorgan Chase CEO Jamie Dimon unveiled a $24 million package to bolster American shipbuilding, funding a new submarine facility at the Philadelphia Navy Yard.",
+    "published": "Wed, 15 Jul 2026 13:45:27 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'",
+    "link": "https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html",
+    "summary": "The investor has been sharply critical of the stock market, one that he says is increasingly defined by speculative trading as opposed to long-term investing.",
+    "published": "Wed, 15 Jul 2026 13:48:15 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
+    "link": "https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html",
+    "summary": "Williams cited five reasons why he expects the latest price surge has run its course.",
+    "published": "Wed, 15 Jul 2026 12:46:58 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Buffett says Trump's pick of Kevin Warsh for Fed chair was 'good choice'",
+    "link": "https://www.cnbc.com/2026/07/15/buffett-says-trumps-pick-of-kevin-warsh-for-fed-chair-was-good-choice.html",
+    "summary": "Warren Buffett believes Fed Chair Kevin Warsh will do the best job he can.",
+    "published": "Wed, 15 Jul 2026 12:21:33 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Star analyst Dan Ives forms Yorkville Ives merchant bank after leaving Wedbush",
+    "link": "https://www.cnbc.com/2026/07/15/star-analyst-dan-ives-forms-yorkville-ives-merchant-bank-after-leaving-wedbush.html",
+    "summary": "The new firm, Yorkville Ives & Co., will combine investment banking, equity research, institutional trading and principal investing.",
+    "published": "Wed, 15 Jul 2026 11:51:55 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Stocks making the biggest moves premarket: BlackRock, PayPal, ASML, Morgan Stanley & more",
+    "link": "https://www.cnbc.com/2026/07/15/stocks-making-the-biggest-moves-premarket-blk-pypl-asml.html",
+    "summary": "These are the stocks posting the largest moves premarket.",
+    "published": "Wed, 15 Jul 2026 11:41:57 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful,' but people make mistakes",
+    "link": "https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html",
+    "summary": "The Berkshire Hathaway chairman left out the Gates Foundation from his annual charitable stock gifts for the first time in 20 years.",
+    "published": "Wed, 15 Jul 2026 12:10:02 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
+    "link": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
+    "summary": "Like at peers Goldman Sachs and JPMorgan Chase, a massive beat in equities trading drove the quarter's outsized results.",
+    "published": "Wed, 15 Jul 2026 13:44:44 GMT"
   },
   {
     "source": "CNBC Finance",
@@ -448,123 +525,46 @@
     "published": "Tue, 14 Jul 2026 19:50:48 GMT"
   },
   {
-    "source": "CNBC Finance",
-    "title": "Stocks making the biggest moves midday: IBM, Goldman Sachs, CleanSpark, HCA Healthcare & more",
-    "link": "https://www.cnbc.com/2026/07/14/stocks-making-big-moves-midday-ibm-goldman-cleanspark-hca-more-.html",
-    "summary": "These are some of the stocks posting the largest moves midday.",
-    "published": "Tue, 14 Jul 2026 16:48:07 GMT"
-  },
-  {
-    "source": "CNBC Finance",
-    "title": "Earnings season plays: Profit expectations are growing for these stocks while their valuations get cheaper",
-    "link": "https://www.cnbc.com/2026/07/14/earnings-season-plays-profit-expectations-are-growing-for-these-stocks.html",
-    "summary": "Investors can find opportunities in stocks where declining share prices are pushing valuations below their historical average.",
-    "published": "Tue, 14 Jul 2026 14:38:42 GMT"
-  },
-  {
-    "source": "CNBC Finance",
-    "title": "Watch: Fed Chairman Kevin Warsh testifies to House Financial Services committee",
-    "link": "https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html",
-    "summary": "In remarks prepared for the appearance, Warsh promised a vigilant fight to return inflation to the Fed's 2% target.",
-    "published": "Tue, 14 Jul 2026 17:26:37 GMT"
-  },
-  {
-    "source": "CNBC Finance",
-    "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
-    "link": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-    "summary": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
-    "published": "Tue, 14 Jul 2026 17:29:07 GMT"
-  },
-  {
-    "source": "CNBC Finance",
-    "title": "Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock",
-    "link": "https://www.cnbc.com/2026/07/14/warren-buffett-excludes-gates-foundation-from-his-annual-donations-of-berkshire-stock.html",
-    "summary": "Warren Buffett omitted the Gates Foundation from his annual charitable stock gifts.",
-    "published": "Tue, 14 Jul 2026 18:34:31 GMT"
-  },
-  {
-    "source": "CNBC Finance",
-    "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Bank of America, IBM, Apple & more",
-    "link": "https://www.cnbc.com/2026/07/14/stocks-making-the-biggest-moves-premarket-jpm-bac-ibm-aapl.html",
-    "summary": "These are the stocks posting the largest moves in early trading.",
-    "published": "Tue, 14 Jul 2026 12:36:31 GMT"
-  },
-  {
-    "source": "CNBC Finance",
-    "title": "'Listing is a must': Chinese humanoid startups are rushing to launch IPOs",
-    "link": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
-    "summary": "Shenzhen-based LimX Dynamics is the latest humanoid company in China to raise capital in recent weeks as investors eye IPO exits.",
-    "published": "Tue, 14 Jul 2026 00:31:01 GMT"
-  },
-  {
-    "source": "CNBC Finance",
-    "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
-    "link": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
-    "summary": "The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.",
-    "published": "Mon, 13 Jul 2026 19:15:25 GMT"
-  },
-  {
-    "source": "CNBC Finance",
-    "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
-    "link": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
-    "summary": "Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's \"sweet spot.\"",
-    "published": "Tue, 14 Jul 2026 09:18:28 GMT"
+    "source": "Hacker News Top",
+    "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+    "link": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+    "summary": "<p>Article URL: <a href=\"https://academic.oup.com/sleep/article/47/1/zsad253/7280269\">https://academic.oup.com/sleep/article/47/1/zsad253/7280269</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48919363\">https://news.ycombinator.com/item?id=48919363</a></p>\n<p>Points: 260</p>\n<p># Comments: 120</p>",
+    "published": "Wed, 15 Jul 2026 11:46:06 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Jurassic Park computers in excruciating detail",
     "link": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "summary": "<p>Article URL: <a href=\"https://fabiensanglard.net/jurrasic_park_computers/index.html\">https://fabiensanglard.net/jurrasic_park_computers/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48915709\">https://news.ycombinator.com/item?id=48915709</a></p>\n<p>Points: 232</p>\n<p># Comments: 53</p>",
+    "summary": "<p>Article URL: <a href=\"https://fabiensanglard.net/jurrasic_park_computers/index.html\">https://fabiensanglard.net/jurrasic_park_computers/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48915709\">https://news.ycombinator.com/item?id=48915709</a></p>\n<p>Points: 671</p>\n<p># Comments: 166</p>",
     "published": "Wed, 15 Jul 2026 02:57:47 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
     "link": "https://vpd.ca/",
-    "summary": "<p>Article URL: <a href=\"https://vpd.ca/\">https://vpd.ca/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48914644\">https://news.ycombinator.com/item?id=48914644</a></p>\n<p>Points: 220</p>\n<p># Comments: 82</p>",
+    "summary": "<p>Article URL: <a href=\"https://vpd.ca/\">https://vpd.ca/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48914644\">https://news.ycombinator.com/item?id=48914644</a></p>\n<p>Points: 318</p>\n<p># Comments: 128</p>",
     "published": "Wed, 15 Jul 2026 00:15:53 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-    "link": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-    "summary": "<p>Article URL: <a href=\"https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left\">https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48910676\">https://news.ycombinator.com/item?id=48910676</a></p>\n<p>Points: 315</p>\n<p># Comments: 152</p>",
-    "published": "Tue, 14 Jul 2026 17:58:35 +0000"
+    "source": "Ars Technica",
+    "title": "A most improbable astronaut just went to space",
+    "link": "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
+    "summary": "\"I pretty much, at that point in time, gave up on being an astronaut.\"",
+    "published": "Wed, 15 Jul 2026 11:30:07 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-    "link": "https://prismml.com/news/bonsai-27b",
-    "summary": "<p>Article URL: <a href=\"https://prismml.com/news/bonsai-27b\">https://prismml.com/news/bonsai-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48910545\">https://news.ycombinator.com/item?id=48910545</a></p>\n<p>Points: 528</p>\n<p># Comments: 187</p>",
-    "published": "Tue, 14 Jul 2026 17:50:48 +0000"
+    "source": "Ars Technica",
+    "title": "How hard is it to build orbital data centers, actually?",
+    "link": "https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/",
+    "summary": "\"The ISS radiators are expensive and heavy. We're focused on making them cheap and light.\"",
+    "published": "Wed, 15 Jul 2026 11:00:09 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "The Tower Keeps Rising",
-    "link": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-    "summary": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/\">https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48909785\">https://news.ycombinator.com/item?id=48909785</a></p>\n<p>Points: 428</p>\n<p># Comments: 196</p>",
-    "published": "Tue, 14 Jul 2026 16:57:54 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "I'm a USB-C Maximalist",
-    "link": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-    "summary": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/\">https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48908214\">https://news.ycombinator.com/item?id=48908214</a></p>\n<p>Points: 231</p>\n<p># Comments: 334</p>",
-    "published": "Tue, 14 Jul 2026 15:20:36 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Are we offloading too much of our thinking to AI?",
-    "link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-    "summary": "<p>Article URL: <a href=\"https://www.artfish.ai/p/offloading-thinking-to-ai\">https://www.artfish.ai/p/offloading-thinking-to-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48908178\">https://news.ycombinator.com/item?id=48908178</a></p>\n<p>Points: 429</p>\n<p># Comments: 409</p>",
-    "published": "Tue, 14 Jul 2026 15:18:13 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "How to stop Claude from saying load-bearing",
-    "link": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-    "summary": "<p>Article URL: <a href=\"https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing\">https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905248\">https://news.ycombinator.com/item?id=48905248</a></p>\n<p>Points: 492</p>\n<p># Comments: 533</p>",
-    "published": "Tue, 14 Jul 2026 11:46:02 +0000"
+    "source": "Ars Technica",
+    "title": "Sotheby's big T. rex auction raises concerns hype and wealth are upending science",
+    "link": "https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science/",
+    "summary": "Private buyers are increasingly outbidding museums for fossils.",
+    "published": "Wed, 15 Jul 2026 10:30:39 +0000"
   },
   {
     "source": "Ars Technica",
@@ -616,25 +616,11 @@
     "published": "Tue, 14 Jul 2026 16:28:14 +0000"
   },
   {
-    "source": "Ars Technica",
-    "title": "New York bans data center construction for a year, rattling AI industry",
-    "link": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-    "summary": "New York’s data center moratorium may become the blueprint for anti-AI movement.",
-    "published": "Tue, 14 Jul 2026 15:06:28 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Boomers, not Gen Z, are the generation cutting back most on alcohol",
-    "link": "https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/",
-    "summary": "New research overturns assumption that abstinent younger drinkers are behind weak demand.",
-    "published": "Tue, 14 Jul 2026 13:19:16 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
-    "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
-    "summary": "This flight will put Starship under higher pressure and test out new Starlink satellites in orbit.",
-    "published": "Tue, 14 Jul 2026 01:17:14 +0000"
+    "source": "MIT Tech Review",
+    "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+    "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data&#8230;",
+    "published": "Wed, 15 Jul 2026 12:10:00 +0000"
   },
   {
     "source": "MIT Tech Review",
@@ -649,6 +635,41 @@
     "link": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
     "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.&#8230;",
     "published": "Tue, 14 Jul 2026 08:00:00 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "China eyes broader global access to yuan assets, as panda bond demand surges",
+    "link": "https://www.scmp.com/economy/china-economy/article/3360693/china-eyes-broader-global-access-yuan-assets-panda-bond-demand-surges?utm_source=rss_feed",
+    "summary": "Officials from China’s central bank have pledged to introduce further measures to make it easier for global investors to access yuan-denominated assets, as Beijing views the recent appreciation of the yuan and surge in demand for panda bonds as reflecting rising global recognition of the Chinese currency.\nSpeaking at a press conference on Wednesday, officials highlighted the yuan’s strong performance in the first half of the year despite a volatile global economic landscape. The currency...",
+    "published": "Wed, 15 Jul 2026 12:01:48 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Mainland China’s luxury housing boom is keeping wealthy buyers at home, report says",
+    "link": "https://www.scmp.com/business/article/3360668/mainland-chinas-luxury-housing-boom-keeping-wealthy-buyers-home-report-says?utm_source=rss_feed",
+    "summary": "China’s booming luxury housing market is keeping more wealth onshore, a trend that analysts say may pose a growing challenge to Hong Kong’s still resilient high-end residential market.\nA report by Gavekal Dragonomics analyst Zhang Xiaoxi said Beijing’s tightening crackdown on illicit capital outflows, including through Hong Kong’s “grey market”, was making domestic luxury property an increasingly attractive store of value for wealthy mainland Chinese.\nWhile China’s broader housing market...",
+    "published": "Wed, 15 Jul 2026 10:00:25 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "China’s slowing economic growth boosts case for stimulus",
+    "link": "https://www.scmp.com/plus/economy/china-economy/article/3360648/chinas-slowing-economic-growth-boosts-case-stimulus?utm_source=rss_feed",
+    "summary": "China’s economy grew at the slowest pace in nearly four years in the second quarter, with sluggish consumption amid the fallout from the Iran war offsetting strong export growth.\nThe 4.3 per cent increase in gross domestic product, down from 5 per cent in the first three months of the year, dragged first-half growth down to 4.7 per cent.\nWhile that is within Beijing’s annual target of “4.5 per cent to 5 per cent” GDP growth, the deceleration was bigger than economists surveyed by Chinese...",
+    "published": "Wed, 15 Jul 2026 09:00:11 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Connect scheme for gold shines light on China’s financial liberalisation",
+    "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3360220/connect-scheme-gold-shines-light-chinas-financial-liberalisation?utm_source=rss_feed",
+    "summary": "When Hong Kong launched its latest Connect programme on July 7, most of the attention focused on gold. That misses the bigger story. Delivery Connect, part of the city’s new gold clearing and settlement system, is not simply another financial initiative but the latest evidence that Beijing has settled on a distinctive model for opening up China’s financial markets.\nRather than embracing wholesale financial liberalisation, China is steadily integrating with global markets through carefully...",
+    "published": "Wed, 15 Jul 2026 08:31:31 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Will diversification restore Hong Kong’s IPO title? Think tank maps out plan",
+    "link": "https://www.scmp.com/business/markets/article/3360645/will-diversification-restore-hong-kongs-ipo-title-think-tank-maps-out-plan?utm_source=rss_feed",
+    "summary": "Hong Kong needs to diversify the source of its listed companies and investors if it is to reclaim its recently lost crown as the world’s top initial public offering (IPO) venue, according to a government think tank.\n“Hong Kong should continue to find ways to diversify both its listing issuers as well as potential future investors,” said Benjamin Hung Pi-cheng, chairman of the Financial Services Development Council (FSDC), at a media briefing on Wednesday. “That form of diversification enhances...",
+    "published": "Wed, 15 Jul 2026 08:00:07 +0000"
   },
   {
     "source": "SCMP Business",
@@ -684,40 +705,5 @@
     "link": "https://www.scmp.com/business/markets/article/3360550/consumption-worries-persist-hong-kong-investors-shun-mainland-chinese-fb-stocks?utm_source=rss_feed",
     "summary": "Mainland Chinese food and beverage (F&amp;B) brands are struggling to win over Hong Kong investors, as persistent market concerns over the country’s weak consumption weigh on valuations.\nWhile more than 10 consumer and F&amp;B chains successfully listed in 2025, this year presents a starkly different landscape. Chinese fast-food brand LXJ International’s third listing application expired last week after failing to secure a hearing within six months, Hong Kong Exchanges and Clearing (HKEX) filings...",
     "published": "Wed, 15 Jul 2026 00:30:12 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "China’s top lithium firms project up to 50-fold profit surge amid energy transition boom",
-    "link": "https://www.scmp.com/business/commodities/article/3360563/chinas-top-lithium-firms-project-50-fold-profit-surge-amid-energy-transition-boom?utm_source=rss_feed",
-    "summary": "China’s two largest lithium producers are set to report soaring earnings in the first half of the year, with profits projected to surge by as much as 50 times on the back of global demand for energy independence.\nTianqi Lithium estimated net profit of between 2.85 billion yuan (US$420 million) and 4.25 billion yuan for the six months ended June 30, a year-on-year jump of between 3,276 per cent and 4,935 per cent, according to a filing with the Shenzhen Stock Exchange on Tuesday night.\n“Driven by...",
-    "published": "Wed, 15 Jul 2026 00:00:16 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Hong Kong urged to pave path for Greater Bay Area firms going global",
-    "link": "https://www.scmp.com/business/china-business/article/3360524/hong-kong-urged-pave-path-greater-bay-area-firms-going-global?utm_source=rss_feed",
-    "summary": "Hong Kong has been urged to carve out a pivotal role helping Greater Bay Area companies navigate overseas expansion, as supply chain relocation and geopolitical pressures reshape trade routes.\nSpeakers at the Greater Bay Area Global Business Expansion Summit on Tuesday highlighted the city’s strengthening position in three areas where companies face new challenges as they shift from contract manufacturing to building their own brands: standards alignment, supply-chain coordination and...",
-    "published": "Tue, 14 Jul 2026 23:30:07 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Louis Vuitton takes China’s trademark regulator to court as legal drive continues",
-    "link": "https://www.scmp.com/economy/china-economy/article/3360560/louis-vuitton-takes-chinas-trademark-regulator-court-legal-drive-continues?utm_source=rss_feed",
-    "summary": "Louis Vuitton is set to face off against China’s trademark regulator in a Chinese intellectual property court on Thursday, as the French luxury brand deals with public backlash in China over a separate legal battle against a local milk tea brand.\nLouis Vuitton Malletier filed the administrative lawsuit against the China National Intellectual Property Administration (CNIPA), with a Chinese individual – Huang Minyao – joined as a third party, according to a notice published by the Beijing...",
-    "published": "Tue, 14 Jul 2026 14:00:08 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "China’s power exports to Asean surge 40% in first half of 2026 amid Hormuz tensions",
-    "link": "https://www.scmp.com/economy/global-economy/article/3360517/chinas-power-exports-asean-surge-40-first-half-2026-amid-hormuz-tensions?utm_source=rss_feed",
-    "summary": "China’s power exports to Asean countries surged more than 40 per cent in the first half of the year, customs data showed, helping to buffer the region against volatility in energy markets triggered by tensions around the Strait of Hormuz.\nThe increase also highlighted China’s growing role as a regional energy supplier at a time when geopolitical tensions have renewed concerns over energy security.\nChina exported 2.39 billion kilowatt-hours of power to the Association of Southeast Asian Nations...",
-    "published": "Tue, 14 Jul 2026 11:00:08 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "As IPOs surge, Hong Kong’s audit regulator vows tougher scrutiny",
-    "link": "https://www.scmp.com/business/banking-finance/article/3360532/ipos-surge-hong-kongs-audit-regulator-vows-tougher-scrutiny?utm_source=rss_feed",
-    "summary": "Hong Kong’s auditing watchdog has vowed to strengthen inspections of newly listed companies as a surge in initial public offerings raises concerns about the quality of financial reporting.\nThe Accounting and Financial Reporting Council (AFRC), the city’s independent accounting regulator, said evaluating the financial reporting of new public companies – specifically those that had completed or would complete new share issuance within a one-year window – was among its priorities for the current...",
-    "published": "Tue, 14 Jul 2026 10:30:13 +0000"
   }
 ]
