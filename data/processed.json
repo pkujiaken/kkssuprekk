@@ -1,54 +1,54 @@
 {
   "top5": [
     {
-      "title": "美国通胀放缓，但中东冲突恐引能源价格再涨；美联储主席立场谨慎",
-      "summary": "美国6月消费者物价指数(CPI)年增率降至3.5%，月度环比创2020年以来最大降幅，显示通胀有所缓解。然而，美国与伊朗在海湾地区的冲突升级，可能导致能源价格再次飙升，对通胀前景构成不确定性。新任美联储主席Warsh在首次国会证词中重申抗通胀承诺，但未明确未来利率路径，市场对其政策方向仍持观望态度。这凸显了宏观经济的复杂性和地缘政治风险的传导效应。",
+      "title": "中国经济增速放缓至多年新低，出口强劲难掩内需疲软",
+      "summary": "第二季度中国经济增长率降至4.3%，创下多年来新低，主要原因是国内需求普遍低迷。尽管出口导向型制造业表现强劲，但未能完全抵消房地产、消费等领域的疲软。这反映出中国经济面临的结构性挑战，以及在全球经济不确定性加剧背景下，实现增长目标的压力。对全球投资者而言，中国经济放缓意味着对供应链、大宗商品需求以及亚洲市场投资策略的重新评估。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "美国通胀数据好转但中东冲突再燃能源价格上涨风险",
+      "summary": "美国6月份消费者价格指数（CPI）年化增幅降至3.5%，环比出现自2020年以来最大跌幅，主要得益于与伊朗战争暂停期间油价的下降。然而，随着美国和伊朗冲突再度升级，霍尔木兹海峡的航运安全受到威胁，全球原油价格面临再次飙升的风险，这可能迅速逆转通胀缓解的趋势。投资者需警惕地缘政治对能源市场和整体通胀的潜在冲击，及其对美联储未来政策路径的影响。",
       "sources": [
         {
           "name": "NYT Economy",
           "url": "https://www.nytimes.com/2026/07/14/business/economy/inflation-data-iran-war-price-surge.html"
         },
         {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/07/14/business/economy/inflation-cpi.html"
-        },
-        {
           "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/14/business/trump-strait-of-hormuz.html"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "美联储新任主席Warsh首次国会作证，未明确未来加息路径",
+      "summary": "美联储新任主席凯文·M·沃什（Kevin M. Warsh）在首次国会证词中重申了将通胀降至目标水平的承诺，但未能明确表示是否支持通过进一步加息来抑制物价压力。他表示，美联储已成立五个新工作组，聚焦货币政策核心议题，寻求政策建议。市场密切关注主席对未来利率政策的指引，其模糊立场可能增加市场对未来货币政策不确定性的担忧。",
+      "sources": [
+        {
+          "name": "NYT Economy",
           "url": "https://www.nytimes.com/2026/07/14/business/economy/warsh-fed-cpi-inflation.html"
-        }
-      ]
-    },
-    {
-      "title": "华尔街大型银行Q2财报超预期，AI驱动与“结构性风险”并存",
-      "summary": "摩根大通、高盛等美国主要银行第二季度财报表现强劲，营收创纪录。高盛受益于包括SpaceX IPO在内的投资银行业务，而摩根大通则在人工智能驱动下进行了裁员，显示AI技术对金融行业效率的提升。然而，各大银行高管也警告地缘政治和宏观经济存在“结构性风险”，暗示尽管短期业绩亮眼，未来不确定性依然存在，投资者需警惕潜在的市场波动。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html"
         },
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html"
+          "name": "Federal Reserve Press",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm"
         }
       ]
     },
     {
-      "title": "IBM发布盈利预警致股价暴跌，创历史最大单日跌幅",
-      "summary": "IBM出人意料地发布盈利预警，称其软件和基础设施业务未能达到预期，主要原因是客户在内存价格上涨前提前购买了存储。这一消息导致IBM股价暴跌，创下公司历史上最大单日跌幅。此事件警示了企业IT支出对传统科技巨头业绩的敏感性，以及在宏观经济不确定性下，企业客户预算决策对硬件和软件供应商造成的冲击。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/what-ibms-profit-warning-means-hardware-is-eating-everyones-lunch-c6878824?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "派拉蒙与华纳兄弟探索合并案遭多州反垄断诉讼挑战",
-      "summary": "加利福尼亚州及其他11个州对派拉蒙（Paramount）计划收购华纳兄弟探索（Warner Bros. Discovery）的交易提起反垄断诉讼，认为该合并将损害电影院线及美国娱乐业。尽管面临法律挑战，派拉蒙仍计划在9月底前完成合并。此事件凸显了美国州政府在反垄断监管中日益积极的角色，对大型并购交易构成新的不确定性，并可能影响媒体行业的整合趋势。",
+      "title": "十余州联手挑战派拉蒙与华纳兄弟探索的巨额并购案",
+      "summary": "加利福尼亚州及其他11个州提起诉讼，旨在阻止媒体巨头派拉蒙（Paramount）对华纳兄弟探索（Warner Bros. Discovery）的拟议收购。这些州政府认为，该交易将损害电影院行业并对美国娱乐业造成负面影响，凸显了州政府在反垄断监管中日益积极的作用。此案的进展将对媒体行业的整合趋势和大型并购案的审批流程产生重要影响，值得投资者密切关注。",
       "sources": [
         {
           "name": "NYT DealBook",
@@ -61,62 +61,47 @@
       ]
     },
     {
-      "title": "OpenAI核心产品战略调整，ChatGPT可能放弃通用聊天重心",
-      "summary": "知名科技分析师Ben Thompson在其博客Stratechery中指出，OpenAI将内部编程辅助工具Codex重新包装为新版ChatGPT，这暗示该公司可能正在重新评估其在通用聊天领域的开创性地位。Thompson认为此举是OpenAI产品战略的一次重大调整，或意味着未来将更侧重于AI作为开发工具和应用平台，而非单纯的聊天机器人，对AI应用生态影响深远。",
+      "title": "美国大型银行财报亮眼但地缘政治风险阴影不散",
+      "summary": "高盛和摩根大通等美国大型银行第二季度财报超出预期，主要得益于强劲的交易业务和投资银行收入，这部分受益于AI热潮带来的活动增加。然而，尽管美国经济表现稳定，但报告中也提到了“结构性风险”的警告，尤其是地缘政治不确定性带来的潜在冲击。这表明尽管短期盈利表现强劲，但宏观环境的复杂性仍是金融机构面临的长期挑战，投资者需保持警惕。",
       "sources": [
         {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/07/the-openai-super-app-chatgpt-codex-whither-chat/"
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html"
+        },
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Kevin M. Warsh",
-      "title": "美联储主席Warsh承诺抗通胀但未明确利率路径",
-      "summary": "观点：新任美联储主席Kevin M. Warsh在首次国会证词中重申了将通胀降至目标水平的承诺，但他并未明确表示是否支持加息以抑制物价压力。他同时宣布成立五个新的工作组，专注于货币政策的核心议题。这表明美联储在应对通胀的同时，正审慎评估其政策框架。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/14/business/economy/warsh-fed-cpi-inflation.html"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/live/2026/07/14/business/cpi-inflation-warsh-fed/the-feds-new-chairman-is-asking-for-advice"
-        }
-      ]
-    },
-    {
-      "name": "Ben Thompson",
-      "title": "Ben Thompson解读OpenAI战略调整：ChatGPT或转型工具平台",
-      "summary": "观点：知名科技分析师Ben Thompson在其Stratechery博客中分析称，OpenAI将Codex重塑为新版ChatGPT，可能意味着公司正在重新评估其在聊天领域的重心，甚至可能放弃此前开创性的通用聊天定位。他认为，此举是OpenAI产品战略的重大调整，预示其将更侧重于AI作为开发工具和应用平台。",
+      "name": "Ben Thompson (Stratechery)",
+      "title": "OpenAI正将ChatGPT重塑为“超级应用”，并将其核心技术转向Codex",
+      "summary": "观点：Ben Thompson 分析认为，OpenAI 正在将其开创性的聊天产品ChatGPT重新定位为类似“超级应用”的平台，而其核心能力正从通用聊天转向更强大的代码生成模型Codex。他指出，OpenAI此举可能意味着该公司正在放弃其在聊天领域的先驱地位，转而专注于通过提供更高级的工具来赋能开发者，以构建更复杂的应用。这种战略调整将对其竞争格局和AI生态发展产生深远影响。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/07/the-openai-super-app-chatgpt-codex-whither-chat/"
+          "url": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/"
         }
       ]
     },
     {
-      "name": "Tyler Cowen",
-      "title": "Tyler Cowen关注AI经济学发展与全球劳动力趋势",
-      "summary": "观点：经济学家Tyler Cowen在其博客中提到，新成立的“弹性研究所”将专注于AI的经济学研究，反映了学界对AI深远影响的关注。他还指出，自AI繁荣以来，20-24岁人群的失业率保持不变，并提及全球职业许可与GDP呈负相关。这揭示了AI对劳动力市场的复杂影响以及全球经济的结构性问题。",
+      "name": "Tyler Cowen (Marginal Revolution)",
+      "title": "撒哈拉以南非洲农业产量创新高，但增长模式面临挑战",
+      "summary": "观点：著名经济学家Tyler Cowen援引数据指出，撒哈拉以南非洲地区的农民谷物产量达到了历史新高，几乎是20世纪60年代的五倍。然而，这一增长主要来自耕地面积的扩大，而非单产的显著提升。他强调，随着人口增长和土地资源有限，这种粗放型增长模式难以持续。该地区面临的挑战是，如何在不进一步侵占自然资源的前提下，通过技术创新和效率提升来保障粮食安全和经济发展。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-577.html"
-        },
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/occupational-licensing-around-the-world.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/sub-saharan-africa-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=sub-saharan-africa-facts-of-the-day"
         }
       ]
     },
     {
       "name": "Warren Buffett",
-      "title": "巴菲特停止向盖茨基金会捐款，受 Epstein 事件影响",
-      "summary": "事实：伯克希尔·哈撒韦公司创始人沃伦·巴菲特决定停止向比尔及梅琳达·盖茨基金会捐款。这一决定是在杰弗里·爱泼斯坦案的披露，以及由此引发的盖茨基金会困扰之后做出的，凸显了高层慈善捐赠与声誉风险的关联，对基金会未来的资金来源和运营可能产生影响。",
+      "title": "巴菲特因爱泼斯坦丑闻停止向盖茨基金会捐款",
+      "summary": "原话：据报道，沃伦·巴菲特已决定停止向比尔及梅琳达·盖茨基金会捐款。这一决定是在杰弗里·爱泼斯坦（Jeffrey Epstein）丑闻曝光后数周做出的，该丑闻对盖茨基金会造成了负面影响。巴菲特此前曾承诺向该基金会捐赠其大部分财富。这一举动凸显了个人声誉和基金会治理在慈善领域的重要性，可能影响其他大型捐赠者对基金会的信心。",
       "sources": [
         {
           "name": "NYT Business",
@@ -129,21 +114,25 @@
       ]
     },
     {
-      "name": "Ben Carlson",
-      "title": "Ben Carlson指出股市日益增长的重要性及其“崇拜”现象",
-      "summary": "观点：投资专家Ben Carlson在其文章《股票的崇拜》中指出，股票市场的重要性比以往任何时候都高。他认为，当前市场对股票的关注和依赖已达到前所未有的程度，这体现了股票在财富积累和经济认知中的核心地位。他呼吁投资者审慎对待这种市场情绪，以避免过度集中风险。",
+      "name": "Kevin M. Warsh (美联储主席)",
+      "title": "新任美联储主席Warsh强调应对通胀但未提供具体政策路线",
+      "summary": "观点：凯文·M·沃什在担任美联储主席后的首次国会证词中，明确表示了将通胀降下来的决心，但对具体如何实现这一目标（例如是否支持进一步加息）保持了沉默。他指出，已成立了五个专注于货币政策核心议题的新工作组，以寻求多方建议。这一谨慎姿态可能反映了美联储内部对未来政策路径的审慎考量，也给市场带来了政策走向的不确定性。",
       "sources": [
         {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/07/the-cult-of-equities/"
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/07/14/business/economy/warsh-fed-cpi-inflation.html"
+        },
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/live/2026/07/14/business/cpi-inflation-warsh-fed/the-feds-new-chairman-is-asking-for-advice"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "美联储折扣利率会议纪要披露：政策制定者聚焦经济风险",
-      "summary": "美联储公布了6月8日和6月17日的折扣利率会议纪要，其中揭示了政策制定者对当前经济状况和未来风险的评估与讨论。这些纪要为市场提供了了解美联储内部对货币政策和经济前景看法的窗口，有助于投资者研判未来利率走向及其对市场的影响。",
+      "title": "美联储公布贴现利率会议纪要，通胀仍是核心关切",
+      "summary": "美联储发布了6月8日和6月17日贴现利率会议纪要，显示委员会成员对通胀前景保持高度关注，并讨论了经济下行风险。纪要内容通常能反映美联储官员对经济状况的评估和未来货币政策的倾向，对市场预期有重要影响。投资者将从中寻找未来利率决议的线索，尤其是在当前通胀数据有所缓解但地缘政治风险加剧的背景下。",
       "sources": [
         {
           "name": "Federal Reserve Press",
@@ -152,30 +141,54 @@
       ]
     },
     {
-      "title": "特朗普政府取消霍尔木兹海峡20%费用威胁，恢复对伊朗港口封锁",
-      "summary": "美国政府撤回了对经由霍尔木兹海峡货船征收20%费用的威胁，并恢复了对伊朗港口的封锁。此举是美伊地缘政治紧张局势的最新进展，直接影响全球原油供应和价格，以及航运安全，是宏观经济中的重要不确定性因素，可能加剧能源市场波动。",
+      "title": "美国工人生产力持续提升，非AI因素是主导",
+      "summary": "最新分析显示，美国工人的生产力在过去几年中显著提高，但文章指出，这并非主要由人工智能驱动。相反，紧俏的劳动力市场、数字化转型和远程工作模式是推动生产力增长的关键因素。这一观点挑战了市场普遍认为AI是当前生产力飞跃主因的看法，提示投资者关注更广泛的经济结构性变化及其对企业盈利和长期经济增长的潜在影响。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/07/14/business/worker-productivity-artificial-intelligence-economy.html"
         }
       ]
     },
     {
-      "title": "澳大利亚实际工资持续下滑，预示全球劳动力市场结构性挑战",
-      "summary": "Tyler Cowen在一篇评论中提及澳大利亚实际工资持续下滑的现象，这可能反映了全球主要经济体在劳动力市场上面临的结构性问题，以及通胀压力对居民购买力的侵蚀。这一趋势对全球消费和投资信心有潜在影响，值得关注。",
+      "title": "日元汇率与美股表现关联密切，警惕日本央行潜在干预",
+      "summary": "市场分析指出，日元汇率与美国股市，特别是科技股表现之间存在密切关联。随着日元持续疲软，市场正警惕日本央行可能采取干预措施，以支撑日元汇率。任何对日元的干预都可能在全球外汇市场和资本流动中引发连锁反应，进而影响到与日元强相关的美股资产，投资者需密切关注这一跨市场传导风险。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-577.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "霍尔木兹海峡地缘政治紧张加剧全球油价风险",
+      "summary": "随着美国总统特朗普在霍尔木兹海峡问题上立场反复，要求海湾国家通过对美投资换取安全航运，引发航运专家担忧其他国家效仿，加剧了该关键航运通道的风险。中东地区冲突升级，可能导致原油供应中断，进而推高全球油价，对全球经济构成新的通胀压力。投资者应密切关注中东局势对能源市场和全球经济稳定性的潜在影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/14/business/trump-strait-of-hormuz.html"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "AI药物研发公司Chai Discovery完成4亿美元融资，估值达38亿美元",
-      "summary": "人工智能药物研发初创公司Chai Discovery成功完成4亿美元融资，公司估值达到38亿美元。此次巨额融资凸显了投资者对AI技术解决药物发现等复杂科学问题的巨大兴趣和信心，预示着AI在生物医药领域的应用将加速发展，并可能带来行业格局的变化。",
+      "title": "Neko Health完成巨额融资，科技巨头和长寿领域投资者追捧",
+      "summary": "由Spotify创始人丹尼尔·埃克（Daniel Ek）联合创立的健康科技初创公司Neko Health完成了一轮7亿美元的巨额融资，估值达到数十亿美元。本轮融资吸引了众多科技投资者和专注于长寿领域的基金。这笔投资反映了市场对健康科技和预防医学领域的高度关注，尤其是在AI和数据驱动的健康解决方案方面，该领域被视为未来高增长潜力市场。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/15/business/dealbook/neko-health-ek-funding.html"
+        }
+      ]
+    },
+    {
+      "title": "AI制药初创公司Chai Discovery获4亿美元融资，估值达38亿美元",
+      "summary": "人工智能药物研发初创公司Chai Discovery成功完成一轮4亿美元融资，公司估值达到38亿美元。此轮融资再次印证了投资者对利用人工智能解决药物发现等复杂问题的浓厚兴趣。AI在生命科学领域的应用正加速推动新药研发效率和成功率，对于关注生物技术和AI交叉领域的投资者而言，这类公司代表着巨大的创新和投资机会。",
       "sources": [
         {
           "name": "NYT DealBook",
@@ -184,18 +197,8 @@
       ]
     },
     {
-      "title": "美国政府考虑入股AI公司，引发科技行业对监管的担忧",
-      "summary": "特朗普政府近期对人工智能模型的审查，引发部分科技高管担忧，认为政府可能以此为由要求持有AI公司的股权。此举若成为现实，将标志着政府对高科技企业的直接介入，可能对AI行业的创新、竞争格局和资本流动产生深远影响，尤其是在国家安全和战略技术竞争背景下。",
-      "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/07/13/business/economy/trump-equity-stakes-ai.html"
-        }
-      ]
-    },
-    {
-      "title": "航空业新动向：前沿航空将采用SpaceX Starlink提供机上Wi-Fi",
-      "summary": "前沿航空（Frontier Airlines）宣布与SpaceX旗下的星链（Starlink）合作，计划于2027年开始在其航班上提供机上Wi-Fi服务。这标志着星链在商业航空领域的进一步扩张，将对传统机上网络服务提供商构成竞争，并可能加速低成本航空公司的数字化转型和客户体验提升。",
+      "title": "星链业务拓展至航空领域，Frontier航空将提供机上Wi-Fi服务",
+      "summary": "美国边疆航空（Frontier Airlines）宣布，将与埃隆·马斯克的SpaceX公司旗下星链（Starlink）合作，从2027年开始在其航班上提供机上Wi-Fi服务。这一合作标志着星链业务在航空领域的进一步拓展，有望提升航空公司乘客体验，并为星链带来新的商业增长点。对于SpaceX而言，航空领域将是其卫星互联网服务的重要应用场景，加速其商业化进程。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -206,81 +209,122 @@
   ],
   "us_stocks": [
     {
-      "title": "Lucid Motors否认破产或私有化传闻，股价受压后尝试反弹",
-      "summary": "电动汽车制造商Lucid Motors对有关其正考虑申请破产或进行私有化的报道予以驳斥。此前，受市场传闻影响，Lucid股价大幅下跌。此次澄清对于稳定投资者情绪至关重要，但同时也提醒市场对新兴电动车企在激烈竞争和高成本环境下面临的运营和资金压力的关注。",
+      "title": "华尔街对二季度财报预期高企，但企业仍有望达标",
+      "summary": "分析师们对美国上市公司第二季度盈利设定了极高的门槛，但Piper Sandler等机构认为，美国企业仍有可能实现这些预期。这表明市场对企业盈利韧性持乐观态度，尽管宏观经济面临不确定性，但企业的运营表现和成本控制可能超出预期。投资者应密切关注财报季的表现，以评估市场情绪和寻找投资机会。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/wall-street-has-set-a-sky-high-bar-for-companies-to-clear-this-earnings-season-they-just-might-pull-it-off-45731862?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "IBM发布盈利预警，硬件业务或抢占软件和基础设施市场份额",
+      "summary": "IBM发出盈利预警，指出其软件和基础设施业务的营收下降与客户为应对价格上涨而提前囤积内存相关。这一情况表明，硬件需求可能正在侵蚀软件和基础设施服务的市场份额，或者至少改变了企业IT支出的优先级。投资者需关注企业技术支出模式的变化，以及这如何影响传统科技巨头的盈利结构和市场定位。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/what-ibms-profit-warning-means-hardware-is-eating-everyones-lunch-c6878824?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "微软Xbox部门大规模裁员3200人，引发员工震惊",
+      "summary": "微软旗下的视频游戏部门Xbox计划裁员3200人，这一决定在员工中引起了巨大震惊。此次裁员被视为微软在游戏业务领域的一次“重置”，以应对行业变化和公司战略调整。对于投资者而言，大规模裁员可能意味着公司正在重新评估其成本结构和投资重点，以期提升效率和盈利能力，但同时也需关注对团队士气和未来创新的潜在影响。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c932eynvq1do?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Lucid公司否认破产或私有化传闻，股价剧烈波动",
+      "summary": "豪华电动汽车制造商Lucid公司否认了市场关于其正在考虑申请破产保护或进行私有化的报道，此前该公司股价大幅下跌。这些传闻反映了电动汽车市场竞争的激烈以及初创公司面临的资本和运营压力。Lucid的澄清试图稳定市场信心，但投资者仍需警惕电动汽车行业整合和淘汰的风险，以及其对相关供应链和技术公司的影响。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/07/14/lucid-stock-lcid-bankruptcy-report.html"
         }
       ]
-    },
+    }
+  ],
+  "a_stocks": [
     {
-      "title": "美国大型银行利用AI优化成本，推动员工结构调整",
-      "summary": "摩根大通等大型美国银行在第二季度财报中透露，正积极探索通过人工智能技术实现成本优化和效率提升。这一趋势可能导致金融行业内部的员工结构调整，预示着AI对传统银行业运营模式和劳动力配置的深远影响，值得关注其对行业盈利能力和就业市场的双重作用。",
+      "title": "中国二季度经济增长远低于预期，内需疲软出口强劲",
+      "summary": "中国第二季度经济增长率仅为4.3%，远低于市场预期和政府目标，主要受房地产市场低迷和消费者信心不足导致的国内需求疲软影响。尽管出口表现强劲，但不足以抵消内部的结构性挑战。这一数据揭示了中国经济转型的复杂性，以及在当前全球环境下保持增长的压力，对全球供应链和依赖中国市场的企业带来不确定性。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html"
         },
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/14/jpm-bank-of-america-citi-bank-earnings-live-updates.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
-  "a_stocks": [],
   "business": [
     {
-      "title": "英国收紧“先买后付”监管，引入退款与拒贷新规",
-      "summary": "为更好保护消费者，英国将对“先买后付”（Buy Now Pay Later, BNPL）服务进行更严格监管，要求BNPL贷款机构获得授权才能运营，并引入退款和拒贷新规。此举将重塑BNPL行业的商业模式和竞争格局，增加运营合规成本，但有望提升消费者信心和行业可持续性。",
+      "title": "高盛与摩根大通在AI热潮中实现营收新高",
+      "summary": "华尔街的两大巨头高盛和摩根大通在最近的财报中显示，受益于人工智能繁荣带来的交易活动激增和投资银行业务的活跃，实现了创纪录的营收。这表明AI不仅是科技行业的增长引擎，也正通过资本市场活动成为金融服务业的重要收入来源。投资者应关注AI如何重塑传统行业，并为金融机构带来新的盈利机会。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html"
         }
       ]
     },
     {
-      "title": "Netflix价格上涨引消费者不满，华盛顿或面临监管压力",
-      "summary": "过去一年多，Netflix的月费上涨了29%，引发消费者强烈不满。批评人士呼吁华盛顿介入干预。Netflix作为流媒体巨头，其定价策略不仅影响用户订阅，也可能引起政府对大型科技公司市场主导地位和消费者权益的审查，预示着未来潜在的监管风险。",
+      "title": "数据中心电力需求激增，美国13州电费成本将额外增加数十亿美元",
+      "summary": "美国大型电网运营商PJM进行的一项电力拍卖预计将导致13个州的消费者和企业增加63亿美元的额外电费支出，主要原因是数据中心对电力需求的急剧增长。这揭示了AI和云计算快速发展背后巨大的能源消耗成本，以及对电网基础设施的巨大压力。投资者需关注数据中心扩张对能源市场和公用事业部门的长期影响，以及对可持续发展解决方案的需求。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html"
+        }
+      ]
+    },
+    {
+      "title": "Chipotle墨西哥烧烤首次进军墨西哥市场",
+      "summary": "美国加州连锁餐厅Chipotle墨西哥烧烤本周在墨西哥蒙特雷开设了其在美国-墨西哥边境以南的首家分店，将其经典的卷饼和碗带到墨西哥市场。这一战略性扩张标志着Chipotle在全球化布局上的重要一步，尝试将品牌带回其灵感发源地。投资者可以关注该品牌在国际市场的表现，以评估其增长潜力和适应能力。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/14/business/chipotle-open-mexico-monterrey.html"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "日元走势与美股表现联动，潜在汇率干预风险预警",
-      "summary": "分析指出，日元汇率与美国股市之间存在联动关系，日元的大幅波动可能预示着美股的潜在风险。随着日本央行可能采取措施干预汇率以支撑日元，这将对全球外汇市场以及依赖日元利差交易的投资组合产生连锁反应，值得投资者警惕。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "全球职业许可与经济发展呈负相关，挑战传统认知",
-      "summary": "一项研究发现，职业许可（Occupational Licensing）在全球范围内与国家GDP人均收入呈负相关。在美国，职业许可制度显著增加，而全球趋势显示其与经济繁荣的传统认知相反。这项发现挑战了对职业许可的普遍看法，揭示其可能对劳动力市场灵活性和经济增长产生负面影响。",
+      "title": "全球职业许可制度与GDP呈负相关，或抑制经济发展",
+      "summary": "一项由Hartley和Kleiner进行的全球调查研究发现，职业许可制度（Occupational Licensing）的普及程度与各国人均GDP呈负相关。这意味着，强制性的职业许可可能在一定程度上抑制了经济发展，限制了劳动力市场的灵活性和创新。对于政策制定者和投资者而言，重新审视职业许可制度的范围和影响，可能为经济增长释放新的潜力。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/occupational-licensing-around-the-world.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/occupational-licensing-around-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=occupational-licensing-around-the-world"
         }
       ]
     },
     {
-      "title": "美国劳动生产率持续提升，但主要驱动力并非AI",
-      "summary": "数据显示，美国工人的生产率在过去几年有所提高，但分析指出，这主要得益于紧张的劳动力市场、数字化转型和远程工作模式的普及，而非人工智能的普遍应用。这一发现修正了市场对AI驱动生产力增长的普遍预期，提示投资者在评估企业效益时需更细致地分析其真实驱动因素。",
+      "title": "英国与印度自贸协定生效，促进两大经济体贸易增长",
+      "summary": "英国与印度之间的自由贸易协定已正式生效。作为全球第五和第六大经济体，两国间的贸易壁垒降低有望刺激双边贸易额显著增长，涵盖从农产品到工业制成品等广泛领域。这项协议对寻求多元化供应链和新兴市场机遇的投资者具有重要意义，尤其是在全球贸易保护主义抬头背景下，开放贸易协议的达成传递出积极信号。",
       "sources": [
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/14/business/worker-productivity-artificial-intelligence-economy.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "某被忽视指数表现优于标普500，值得长期投资者关注",
+      "summary": "市场分析指出，在过去30年间，一个常被忽视的指数表现持续优于标普500指数。虽然具体指数名称未被披露，但这一发现提示高净值投资者，除了主流指数外，存在一些长期表现优异但关注度较低的资产类别或投资策略。这鼓励投资者进行更深入的市场研究，以发掘多元化投资组合中被低估的潜力，可能带来新的阿尔法收益。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories"
         }
       ]
     }
