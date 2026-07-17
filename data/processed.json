@@ -1,13 +1,43 @@
 {
   "top5": [
     {
-      "title": "AI巨头Anthropic推进上市进程",
-      "summary": "人工智能实验室Anthropic据报已采取进一步措施，表明其正为今年秋季的首次公开募股（IPO）做准备。作为领先的AI公司之一，Anthropic的上市将是AI领域的一大事件，不仅预示着AI市场的高涨情绪，也将为投资者提供参与前沿AI技术发展的机会，其估值和市场表现将成为行业风向标，对AI产业的资本化具有重要意义。",
+      "title": "全球股市因AI支出担忧普遍下跌，科技板块承压",
+      "summary": "周五，全球股市普遍下跌，尤其亚洲芯片制造商领跌，随后欧洲和美国市场也受到波及。投资者对大型科技公司在人工智能数据中心上的巨额投入感到担忧，引发市场对AI相关投资估值和未来回报率的重新审视。这一趋势表明市场情绪可能正在从对AI的盲目乐观转向对其高昂成本和可持续性的理性评估，对全球科技股及整体市场带来下行压力。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/16/business/dealbook/anthropic-ipo-ai.html"
+          "url": "https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html"
         },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html"
+        }
+      ]
+    },
+    {
+      "title": "大型科技公司转向债券市场为AI基础设施融资，资本开支巨大",
+      "summary": "为满足建设人工智能数据中心的庞大资金需求，包括甲骨文（Oracle）在内的大型科技公司正越来越多地转向债券市场进行巨额融资。这一趋势揭示了AI军备竞赛的资本密集程度远超预期，要求企业投入天文数字般的资金，这不仅可能推高科技巨头的负债水平，也为债券市场带来了新的需求结构和潜在风险，值得投资者密切关注。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html"
+        }
+      ]
+    },
+    {
+      "title": "波斯湾航运受阻致油价上涨，地缘政治风险加剧能源市场波动",
+      "summary": "受持续的伊朗战争影响，波斯湾地区的航运交通量降至一个多月以来的最低水平，导致全球原油价格显著上扬。波斯湾是全球重要的石油运输通道，航运中断直接威胁全球能源供应的稳定性。此事件凸显了地缘政治冲突对全球能源市场和通胀预期的即时冲击，企业和消费者都将面临更高的能源成本。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html"
+        }
+      ]
+    },
+    {
+      "title": "AI领军企业Anthropic据称正在为大规模IPO做准备",
+      "summary": "人工智能领先实验室Anthropic据报道已采取多项措施，使其有望在今年秋季进行首次公开募股（IPO）。作为OpenAI的主要竞争对手之一，Anthropic的上市进程备受市场关注。其IPO将不仅是AI领域又一重要的资本事件，也将成为衡量当前AI市场投资者情绪和估值水平的关键指标，可能吸引大量机构资金涌入。",
+      "sources": [
         {
           "name": "NYT DealBook",
           "url": "https://www.nytimes.com/2026/07/16/business/dealbook/anthropic-ipo-ai.html"
@@ -15,54 +45,12 @@
       ]
     },
     {
-      "title": "欧盟要求谷歌向AI竞争对手开放安卓系统",
-      "summary": "欧盟监管机构裁定，谷歌必须允许其安卓智能手机平台上的AI竞争对手获得更多访问权限。此举旨在回应市场对谷歌可能利用其庞大的安卓用户基础在AI领域获得不公平优势的担忧。这一决定对谷歌的商业模式构成挑战，同时也促进了AI领域的公平竞争和创新，对科技巨头的平台战略和市场格局产生深远影响。",
+      "title": "中国领导人呼吁AI领域全球协作与“开放性”发展",
+      "summary": "中国国家主席习近平在一次讲话中强调，人工智能的发展应是“全球协作的交响曲”，并倡导在AI领域保持开放性。此言论在中国积极推动AI技术自主研发和应用的同时，也为国际社会描绘了未来AI技术合作、标准制定及地缘政治科技竞争的新图景。这一姿态对国际科技合作和全球AI治理框架的构建具有重要指引意义。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/16/technology/google-android-ai.html"
-        }
-      ]
-    },
-    {
-      "title": "英国政府国有化英钢，引发中国不满",
-      "summary": "英国政府正式将境内的英国钢铁公司收归国有，以保护其所称的“重要的国家能力”。此举引发中国方面的强烈不满，认为英国此举违反市场原则。作为英国重要的工业资产，国有化反映了政府在关键战略产业上的干预决心，可能影响国际贸易关系和外资在英投资信心，并可能加剧全球贸易摩擦。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-561.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "达拉斯联储主席呼吁适度加息",
-      "summary": "达拉斯联邦储备银行主席洛根表示，尽管本周通胀数据有所改善，但仍不足以满足要求，她呼吁采取“适度”加息的措施。这一表态传递了美联储内部对通胀的持续警惕，并预示着未来货币政策可能仍倾向于紧缩，对市场利率、企业融资成本及资产估值构成潜在影响，尤其是在当前经济不确定性增加的背景下。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html"
-        }
-      ]
-    },
-    {
-      "title": "地缘政治风险加剧全球通胀压力",
-      "summary": "随着美国对伊朗海军实施封锁，霍尔木兹海峡的油轮通行量进一步减少，导致原油价格上涨。分析指出，在一个更危险、更不可预测的世界中开展业务将导致成本增加，进而推高包括食品和电子产品在内的所有商品价格。这表明地缘政治冲突正直接转化为全球供应链成本和通胀压力，对企业盈利和消费者购买力构成严峻挑战，并可能影响央行政策制定。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/16/business/strait-hormuz-iran-war-oil.html"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/07/15/business/economy/iran-war-inflation-supply-chains.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/15/business/economy/iran-war-inflation-supply-chains.html"
+          "url": "https://www.nytimes.com/2026/07/17/business/xi-jinping-china-ai.html"
         }
       ]
     }
@@ -70,49 +58,30 @@
   "people": [
     {
       "name": "Tyler Cowen",
-      "title": "观点：未来属于AI狂热者，AI治理需关注执行，AI全球传播具“帝国主义”特征",
-      "summary": "原话：「未来的工作将是把AI传播到世界各地，我称之为帝国主义，但这是一种价值中立的说法。」观点：他认为未来属于那些沉迷于AI模型、不断掌握并将其融入工作流程的“AI狂热者”。此外，他引用论文指出，对具身AI的治理，法律人格并非必要或充分，重点应放在执行层面而非地位。AI将以不同速度传播，导致早期采用国人才需求高涨。这些观点指明了AI发展的人才趋势、治理方向及全球经济影响，值得投资者关注。",
+      "title": "观点：未来的成功属于“AI狂人”",
+      "summary": "原话：「An AI maniac is someone who is obsessed with working with the latest AI models. They try out new models as soon as they can, they spend hours and hours trying to master them, and they use them to regulate both their workflows and their lives.」Cowen认为，那些痴迷于掌握最新AI模型、并将其融入工作与生活的“AI狂人”将主导未来。这表明AI技能的深度掌握和创新性应用将成为个人和组织在未来经济中取得成功的核心竞争力。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-future-belongs-to-ai-maniacs.html?utm_source=rss&utm_medium=rss&utm_campaign=the-future-belongs-to-ai-maniacs"
-        },
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/governing-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=governing-agentic-ai"
-        },
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/spreading-ai-to-the-rest-of-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=spreading-ai-to-the-rest-of-the-world"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-future-belongs-to-ai-maniacs.html"
         }
       ]
     },
     {
-      "name": "Lorie Logan",
-      "title": "观点：通胀改善不足，需“适度”加息",
-      "summary": "观点：达拉斯联邦储备银行主席洛根表示，尽管本周公布的通胀数据表现良好，但她认为通胀改善的程度还不够，因此呼吁美联储应采取“适度”加息的措施。这表明她认为当前货币政策仍需保持紧缩倾向，以确保通胀回归目标，对市场对未来利率路径的预期有重要影响，并可能预示着鹰派立场在美联储内部仍有支持。",
+      "name": "Tyler Cowen",
+      "title": "观点：AI的全球传播是“价值中立的帝国主义”",
+      "summary": "观点：AI技术在全球的传播速度不一，将导致一种“价值中立的帝国主义”。首先被AI深刻改变的国家，将对其拥有相关技能的人才产生极高的需求。这意味着AI将重新塑造全球经济格局和人才流向，拥有AI优势的国家和个人将在国际竞争中占据更有利地位，引发新的全球分工。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html"
-        }
-      ]
-    },
-    {
-      "name": "Aswath Damodaran",
-      "title": "观点：发布2026年国家风险评估，探讨其对投资的影响",
-      "summary": "观点：纽约大学斯特恩商学院估值专家Aswath Damodaran发布了2026年国家风险年度更新报告，探讨了国家风险的驱动因素、衡量标准及其对投资的深远影响。他坚持每年更新数据和研究，旨在帮助投资者和企业在多变的市场环境中更好地理解和量化不同国家的风险溢价，从而做出更明智的投资决策，这对于全球资产配置具有指导意义。",
-      "sources": [
-        {
-          "name": "Aswath Damodaran",
-          "url": "https://aswathdamodaran.blogspot.com/2026/07/country-risk-drivers-measures-and.html"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/spreading-ai-to-the-rest-of-the-world.html"
         }
       ]
     },
     {
       "name": "Ben Carlson",
-      "title": "观点：股市最佳和最差交易日往往扎堆出现",
-      "summary": "观点：财经评论员Ben Carlson指出，股票市场中表现最好和最差的交易日往往会聚集出现。这意味着投资者如果试图通过频繁进出市场来规避下跌，很可能也会错过随后的反弹。他的分析强调了长期投资和保持市场参与的重要性，因为择时操作的难度极高，稍有不慎就可能错失关键收益，对投资策略有启发。",
+      "title": "观点：投资者错过股市最佳和最差日子的模式",
+      "summary": "观点：股市中表现最好和最差的日子往往是聚集出现的。投资者试图通过择时来避开市场最糟糕的时刻，却往往因此错过了之后随之而来的最佳反弹日。他的分析强调了长期投资策略和保持市场敞口的重要性，警示了频繁交易和试图预测市场时机的内在风险。",
       "sources": [
         {
           "name": "A Wealth of Common Sense (Ben Carlson)",
@@ -121,9 +90,20 @@
       ]
     },
     {
+      "name": "Lacy Hunt",
+      "title": "观点：长期债券牛市时代因通胀和高收益率而终结",
+      "summary": "观点：Hoisington Investment Management的首席经济学家Lacy Hunt，在通胀持续和收益率走高的背景下，宣布他长达三十多年的债券牛市立场已告一段结。这一重大转变反映了宏观经济环境的深层变化，尤其是对通胀持续性和利率走势预期的根本性调整，对固定收益投资者具有重要的战略指导意义。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/end-of-an-era-for-this-long-term-bond-bull-as-inflation-takes-hold-and-yields-trend-higher-a7f59e1f?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
       "name": "Tim Draper",
-      "title": "观点：谈及AI泡沫、未把握的机遇及新“不可能”的投资",
-      "summary": "观点：曾早期投资特斯拉和SpaceX的资深风险投资家Tim Draper，就当前“AI泡沫”现象发表看法，并分享了他过去错过的四个巨大投资机会。他同时透露正在进行一项被称为“不可能”的新押注。他的观点为投资者提供了对当前科技市场估值、行业发展趋势以及如何发现颠覆性创新的独特视角，对于洞察VC前沿趋势具有参考价值。",
+      "title": "观点：成功押注特斯拉和SpaceX后，正在进行一项“不可能的赌注”",
+      "summary": "观点：以早期投资特斯拉和SpaceX闻名的风险投资家Tim Draper，正在进行一项新的“不可能的赌注”。Draper以其对颠覆性技术和未来趋势的敏锐洞察而著称，尽管其新赌注的具体内容尚未披露，但他的每一次行动都代表着对前沿领域和潜在高增长机会的强烈信心，值得市场高度关注。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -134,28 +114,18 @@
   ],
   "macro": [
     {
-      "title": "美国消费者支出韧性十足，但汽油价格回升或增通胀压力",
-      "summary": "美国消费者支出表现强劲，不仅限于必需品，显示出一定的经济韧性。然而，汽油价格近期再次悄然上涨，这可能会给原本就面临生活成本压力的家庭带来新的负担，并对整体通胀数据构成上行风险，影响美联储未来的政策考量。消费者支出的持续性对经济增长至关重要，但能源价格波动增加了宏观经济的不确定性。",
+      "title": "美联储及其他机构发布银行审查敏感信息处理联合声明",
+      "summary": "美联储与其他机构共同发布了一份关于银行审查期间如何处理高度敏感信息的联合声明。此举旨在加强对金融机构在监管检查中关键数据（如客户信息、内部模型数据）的管理和保护，以维护金融体系的稳定性和数据安全，同时提高了银行在合规操作和信息治理方面的标准。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/16/business/consumers-spending-retail-sales.html"
+          "name": "Federal Reserve Press",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm"
         }
       ]
     },
     {
-      "title": "高利率与高房价持续冲击美国房地产市场",
-      "summary": "随着抵押贷款利率居高不下和房价达到历史新高，美国房地产市场在今年夏季持续承压。现有房屋销售量下降，建筑商信心也随之减弱，凸显出高融资成本和可负担性危机对购房者和行业信心造成的严重影响。房地产市场的持续低迷可能拖累整体经济增长，并影响相关产业链。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html"
-        }
-      ]
-    },
-    {
-      "title": "特朗普政府对巴西征收新关税，指责其不公平贸易行为",
-      "summary": "特朗普政府宣布将对巴西实施新的关税措施，指责该国存在不公平的贸易行为。此次关税将替代此前被最高法院驳回的关税。这一贸易政策举动标志着美国在贸易保护主义上的持续立场，可能加剧国际贸易紧张局势，并对全球供应链产生涟漪效应，影响跨国企业的经营策略。",
+      "title": "美国政府将对巴西实施新的贸易关税",
+      "summary": "美国政府宣布将对巴西实施新的关税，并指责其存在不公平贸易行为。这些关税将取代此前被最高法院撤销的旧关税。这一贸易政策行动可能加剧两国间的贸易摩擦，并对巴西的特定出口行业（如钢铁、铝或农产品）产生负面影响，同时也反映了美国在全球贸易政策上的持续强硬态度。",
       "sources": [
         {
           "name": "NYT Economy",
@@ -164,64 +134,92 @@
       ]
     },
     {
-      "title": "英国新首相上任，聚焦国家经济增长难题",
-      "summary": "英国新任首相安迪·伯纳姆（Andy Burnham）上任后面临的首要任务是刺激国家经济增长。他需要应对根深蒂固的挑战，包括如何将“曼彻斯特主义”的区域经济发展模式推广至全国，这对于提振英国经济活力至关重要，但执行难度较大。其经济政策的成败将直接影响英国的投资环境和全球竞争力。",
+      "title": "英国住房市场因高利率和高房价持续承压",
+      "summary": "今年夏季英国住房市场持续低迷，主要原因包括抵押贷款利率居高不下、房价维持在历史高位以及消费者面临的普遍经济压力。这些因素共同导致现有房屋销售量下降和建筑商信心受挫，反映出高利率环境对房地产市场的显著抑制作用，并可能影响英国整体经济的复苏步伐。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/17/business/britain-andy-burnham-prime-minister.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "美国证交会提议新电子递送规则，提升投资者信息可及性",
-      "summary": "美国证券交易委员会（SEC）提议了新的E-Delivery规则，旨在扩大发行人、经纪商、投资顾问等使用电子方式满足信息递送要求的能力。此举有望使投资者更便捷地获取和使用重要信息，提升市场透明度和效率，但也可能对部分不习惯数字化的投资者造成影响。这是监管机构适应数字化时代，改善信息披露的重要一步。",
-      "sources": [
-        {
-          "name": "SEC Press",
-          "url": "https://www.sec.gov/newsroom/press-releases/2026-67-sec-proposes-new-e-delivery-approach-make-information-more-readily-accessible-useful-investors"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "谷歌Gemini延迟引发担忧，Alphabet股价下跌",
-      "summary": "谷歌母公司Alphabet的股价下跌超过4%，原因是其Gemini项目的延迟进展引发了市场对谷歌在人工智能竞争中掉队的担忧。尽管谷歌在AI领域投入巨大，但关键产品发布延期表明其在追赶竞争对手方面可能面临挑战，这对其未来市场份额和投资者信心构成影响，凸显了AI领域竞争的激烈性。",
+      "title": "AI智能体治理面临新挑战，需关注执法而非法律人格",
+      "summary": "一篇新论文指出，由于AI智能体现在已能在未经人类同步批准的情况下进行交易、发布和操作外部系统，这带来了前所未有的监管挑战。该研究认为，为其赋予法律人格并非必要或充分的解决方案，真正的核心问题在于如何有效执法。这强调了未来AI治理框架应将重心从法律地位转向对实际操作风险的控制和监督。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/alphabets-stock-falls-as-gemini-delays-suggest-google-is-struggling-to-keep-up-in-the-ai-race-4d821205?mod=mw_rss_topstories"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/governing-agentic-ai.html"
         }
       ]
     },
     {
-      "title": "美光科技成市场焦点，AI需求与内存周期引投资者关注",
-      "summary": "美光科技（Micron）已成为“市场中最重要的股票之一”，这主要得益于AI对高性能内存芯片的巨大需求。尽管投资者担忧内存市场可能达到周期峰值，但分析师认为，相对于不同的盈利预测，美光股价仍被低估。其表现是衡量AI硬件投资热度和半导体周期走向的关键指标，对科技硬件投资决策具有参考价值。",
+      "title": "半导体市场低迷之际，AI相关细分领域逆势 thriving",
+      "summary": "在半导体股票整体表现低迷的背景下，一个与人工智能紧密相关的特定细分领域却展现出强劲的增长势头。这表明，AI革命的投资机会并非仅仅集中在核心芯片制造上，而是正在向更广泛的AI生态系统扩散，例如AI软件、服务或特定垂直应用。投资者应拓宽视野，寻找这些AI相邻领域的潜在增长点。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/micron-has-turned-into-the-most-important-stock-in-the-market-so-is-it-time-to-worry-71e335bf?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/as-semiconductor-stocks-slump-one-ai-adjacent-sector-is-thriving-and-these-are-the-stocks-to-buy-9c34937c?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "AI推动网络安全需求，Palo Alto Networks股价持续上涨",
-      "summary": "网络安全公司Palo Alto Networks的股价在过去三个月内几乎翻倍，投资者普遍认为人工智能的普及显著增加了对网络安全产品的需求。这一趋势表明，AI不仅是技术增长点，也催生了对其安全防护的巨大市场需求，使网络安全公司成为AI繁荣的间接受益者，值得关注AI赋能的垂直行业投资机会。",
+      "title": "大型科技公司巨额投入AI基础设施，塑造行业未来格局",
+      "summary": "为了在AI竞赛中保持领先，包括甲骨文在内的大型科技公司正进行空前规模的投资，大力建设AI数据中心。这些巨额资本支出不仅是当前科技巨头财务策略的显著特征，也反映了AI基础设施的战略重要性。这种投入将深刻影响未来AI技术的发展方向、应用普及速度以及行业竞争格局，预示着AI投资进入一个大规模基建阶段。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html"
         }
       ]
     },
     {
-      "title": "联合健康集团投资15亿美元于AI，削减成本提升盈利",
-      "summary": "医疗保健巨头联合健康集团（UnitedHealth）业绩超出预期，并上调盈利展望，主要得益于其成本控制措施。公司正通过缩减会员规模、退出无利可图的合同以及投入15亿美元用于AI技术，以稳定利润率。这表明AI技术在传统行业中正被广泛用于提升运营效率和竞争力，预示着AI在各行业的深度融合。",
+      "title": "中国领导人强调AI发展应促全球协作与“开放性”",
+      "summary": "中国国家主席习近平呼吁将人工智能发展打造成“全球协作的交响曲”，并强调AI领域的开放性。这一战略姿态，在当前全球AI技术竞争日益激烈的背景下，对未来AI技术的国际合作模式、数据流通标准以及地缘政治下的科技政策走向具有重要影响。投资者应关注其对中国AI产业国际化和全球科技格局演变的影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/17/business/xi-jinping-china-ai.html"
+        }
+      ]
+    }
+  ],
+  "us_stocks": [
+    {
+      "title": "SEC提议新的电子交付方式以提高投资者信息可及性",
+      "summary": "美国证券交易委员会（SEC）提议制定新的Regulation E-Delivery规则，旨在扩大发行人、经纪交易商、投资顾问等使用电子方式交付投资者信息的范围。此举旨在提高投资者获取信息的便利性和实用性，简化披露流程，同时也可能对传统信息分发模式带来冲击，并要求市场参与者调整其信息披露系统。",
+      "sources": [
+        {
+          "name": "SEC Press",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-67-sec-proposes-new-e-delivery-approach-make-information-more-readily-accessible-useful-investors"
+        }
+      ]
+    },
+    {
+      "title": "Netflix二季度盈利预测不及预期，股价下跌近10%",
+      "summary": "流媒体巨头Netflix因盈利预测未能达到市场预期，导致其股价在盘后交易中下跌近10%。此外，该公司还表示将减少发布其“我们看了什么”（What We Watched）报告的频率。这一消息反映了市场对流媒体行业增长前景的担忧，以及Netflix在用户增长和内容投资回报方面面临的挑战，投资者需警惕行业竞争加剧的风险。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html"
+        }
+      ]
+    },
+    {
+      "title": "Trump Media推出“市场动向”社交帖子付费即时访问服务",
+      "summary": "特朗普媒体科技集团（Trump Media & Technology Group）正在推出一项面向华尔街交易员的付费即时访问服务，提供其平台上最具影响力的社交帖子。此举旨在通过利用平台上的“市场影响力”内容创造新的收入来源，但同时也可能引发关于信息公平性、市场透明度以及潜在市场操纵的讨论和监管关注。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "联合健康集团超预期盈利并上调业绩展望，投入AI优化运营",
+      "summary": "医疗健康巨头联合健康集团（UnitedHealth Group）第二季度业绩超出预期，并上调了全年盈利展望，主要得益于其有效的成本控制措施。该公司正积极通过缩减会员规模、退出无利可图的合同，并投入15亿美元用于AI技术，以稳定利润率。这显示出在复杂医疗环境中，巨头企业通过技术创新和战略调整来保持竞争力和盈利能力。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -230,115 +228,88 @@
       ]
     },
     {
-      "title": "高盛与摩根大通在AI热潮中实现创纪录营收",
-      "summary": "高盛和摩根大通的业绩报告显示，华尔街正在成为人工智能热潮的主要受益者，两家公司均实现了创纪录的营收，主要由飙升的交易量和投资银行业务推动。这表明AI技术不仅改变了科技行业，也通过提升数据分析、自动化交易和提供新金融服务，深刻影响了传统金融巨头，开辟了AI在金融领域的新增长点。",
+      "title": "联合航空盈利超预期但燃油成本大幅增加构成挑战",
+      "summary": "联合航空（United Airlines）公布的盈利超出市场预期，但同时预计将面临高达60亿美元的额外燃油成本。尽管高端、企业和基本经济舱票价以及国内国际航线收入均有所增长，显示出需求强劲，但高企的燃油价格仍对其利润构成持续挑战。这反映出能源价格波动对航空业利润率的敏感影响，值得投资者关注。",
       "sources": [
         {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html"
+          "url": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html"
         }
       ]
     }
   ],
-  "us_stocks": [
+  "a_stocks": [
     {
-      "title": "Netflix二季度营收符合预期，但削减数据披露引担忧",
-      "summary": "Netflix第二季度营收增长13%至126亿美元，大致符合华尔街预期。然而，公司宣布将减少发布“我们看了什么”的用户参与度报告频率，引发投资者不满，导致股价下跌。市场认为，减少数据透明度可能掩盖其用户增长或参与度方面的潜在问题，增加投资者的不确定性，对其未来估值构成压力。",
+      "title": "中国汽车制造商在英国市场影响力渐增，出口战略成效显著",
+      "summary": "随着中国国内市场对新车型需求的降温，中国汽车制造商正积极拓展国际市场，尤其在英国表现突出，受到越来越多英国消费者的欢迎。这种全球化战略的成功不仅体现了中国汽车产业日益增强的国际竞争力，也预示着全球汽车市场竞争格局的结构性变化，对传统汽车巨头构成新的挑战和机遇。",
       "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/16/business/media/netflix-earnings.html"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/netflix-is-getting-stingier-about-its-viewing-data-and-wall-street-isnt-happy-15033db1?mod=mw_rss_topstories"
-        },
         {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html"
-        }
-      ]
-    },
-    {
-      "title": "GE Aerospace上调盈利展望，但订单增长放缓导致股价下跌",
-      "summary": "GE Aerospace上调了盈利展望，但其股价在公布财报后下跌，原因是此前快速增长的订单量有所放缓。尽管盈利前景乐观，市场对订单增长势头的担忧表明，投资者对该公司的未来增长动力持谨慎态度，尤其是在高估值背景下对任何增长减速都保持敏感，体现了市场对增长预期的严苛。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/ge-boosts-profit-outlook-but-stock-falls-as-booming-order-growth-cools-f5184533?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX股价首次跌破IPO发行价，空头仓位增加",
-      "summary": "SpaceX的股票首次收盘价跌破其IPO发行价，引发市场关注，同时做空者对该公司的空头仓位显著增加。分析师指出，其巨型火箭“星舰”的成功发射成为公司“最重要”的关注点。股价下跌和空头增加反映了投资者对公司估值和未来项目进展的担忧，关键发射将决定市场信心，对太空探索行业的投资情绪有影响。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories"
-        },
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html"
-        }
-      ]
-    },
-    {
-      "title": "特朗普媒体出售“真相API”，为华尔街交易公司提供早期访问",
-      "summary": "特朗普媒体科技集团（Trump Media & Technology Group）宣布将推出“真相API”（Truth API）产品，允许华尔街交易公司更快速地访问特朗普在其社交媒体平台Truth Social上的帖子。此举旨在为市场参与者提供信息优势，但其商业模式和潜在的信息公平性问题引发了讨论，可能吸引特定投资者但需警惕合规风险。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/16/business/energy-environment/trump-truth-social-api-access.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.cnbc.com/2026/07/17/chinese-automakers-uk.html"
         }
       ]
     }
   ],
-  "a_stocks": [],
   "business": [
     {
-      "title": "无人机船制造商Saronic Technologies在德州开设新船厂",
-      "summary": "无人机船制造商Saronic Technologies将在德克萨斯州开设新船厂，用于制造海军和商用船只。该公司生产的海军无人机在上个月帮助救援了一架坠毁的阿帕奇直升机机组人员。这一扩张反映了对无人船只技术日益增长的需求，特别是在国防领域，预示着该领域未来巨大的市场潜力和技术发展，是国防工业现代化的一个缩影。",
+      "title": "英国政府国有化其最后一家大型钢铁厂以保障“国家能力”",
+      "summary": "英国政府已将其境内最后一家生产原生钢的大型钢铁厂收归国有。此举旨在保障英国“重要的国家能力”，结束了该厂多年来围绕未来命运的不确定性。这一决策反映了政府在面临战略性工业资产困境时，采取直接干预以保护就业和产业基础的意愿，但同时也引发了关于国家干预市场效率和长期影响的讨论。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/16/business/maker-of-drone-boats-used-in-iran-war-to-open-new-texas-shipyard.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c5y66y40kgpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "地缘政治冲突带来的战争风险将结构性推高企业成本和物价",
+      "summary": "经济学家警告称，在一个更加危险和不可预测的全球环境中开展业务，将导致企业面临更高的运营成本，这最终会传导至消费者，推高从食品到电子产品等所有商品的价格。这意味着地缘政治风险已不再是短期冲击，而是演变为一种结构性因素，将长期影响全球供应链的稳定性和通胀水平，企业需要重新评估其风险管理策略。",
+      "sources": [
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/07/15/business/economy/iran-war-inflation-supply-chains.html"
+        }
+      ]
+    },
+    {
+      "title": "中国汽车制造商在英国市场影响力渐增，拓展全球版图",
+      "summary": "随着中国国内市场对新车型需求的趋缓，中国汽车制造商正积极拓展国际市场，特别是在英国市场取得了显著进展，受到越来越多当地消费者的青睐。这一趋势不仅是中国汽车产业全球化战略的体现，也预示着全球汽车市场竞争格局的结构性变化，对国际汽车巨头构成新的竞争压力。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/17/chinese-automakers-uk.html"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "印度今年最大IPO获310亿美元认购，机构投资者热情高涨",
-      "summary": "印度今年规模最大的资产管理公司首次公开募股（IPO）在周四结束认购，获得了高达310亿美元的竞标，显示出机构投资者的浓厚兴趣。这不仅是印度资本市场今年的一大亮点，也凸显了新兴市场在全球资本流向中的吸引力，预示着印度经济和金融市场的活力与潜力，值得关注新兴市场的结构性机遇。",
+      "title": "韩国“散户大军”遭重创，亚洲市场面临连锁反应风险",
+      "summary": "本周，韩国大量零售交易者（俗称“蚂蚁”）因保证金追缴而遭受重创，影响了该国超过3%的成年人口。这一事件的连锁反应已开始蔓延至亚洲其他市场。这暴露了新兴市场中散户投资者的高杠杆风险和潜在脆弱性，以及市场过度投机可能导致的系统性冲击，值得关注其对区域金融稳定的潜在影响。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/bad-week-for-the-ants-as-ripple-effects-of-korean-crash-spread-out-across-asia-8a5e4a43?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "“财富大转移”规模估测存争议，影响未来经济结构",
+      "summary": "两项最新研究对即将到来的“财富大转移”（即代际财富传承）的规模和影响提出了新的问题，估测范围从36万亿美元到100万亿美元以上不等。无论具体数字如何，这一庞大的财富转移都将对未来的消费模式、投资结构、房地产市场以及社会财富差距产生深远影响，是未来几十年值得关注的结构性经济变化。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/17/great-wealth-transfer-estimates.html"
+        }
+      ]
+    },
+    {
+      "title": "印度最大IPO吸引巨额竞标，新兴市场吸引力凸显",
+      "summary": "印度最大的资产管理公司今年最大规模的首次公开募股（IPO）在机构投资者的狂热追捧下，获得了高达310亿美元的竞标。这突显了印度资本市场的强劲吸引力及其作为新兴经济体投资热点的地位。此次成功发行反映了国际投资者对印度经济增长前景的信心，预示着更多资本可能流向印度市场。",
       "sources": [
         {
           "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html"
-        }
-      ]
-    },
-    {
-      "title": "新研究探讨具身AI的治理问题，聚焦执行而非法律人格",
-      "summary": "一项新论文指出，具身AI（Agentic AI）目前可在无人审批的情况下进行交易、发布信息和在外部系统上采取行动，带来了新的监管挑战。文章认为，赋予其法律人格既非必要也非充分，问题应从“地位”转向“执行”。这揭示了AI治理的深层结构性问题，对未来AI伦理、法律框架和风险管理具有长远影响，是AI发展中被忽视但关键的维度。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/governing-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=governing-agentic-ai"
-        }
-      ]
-    },
-    {
-      "title": "大多数美国人退休储蓄不足，深陷债务困境",
-      "summary": "一项调查显示，大多数美国人认为需要120万美元才能退休，但绝大部分人因深陷债务而无法实现这一目标。超过80%的美国人担心退休后资金耗尽。这一现象反映出日益扩大的财富不平等和退休保障危机，将对未来的社会稳定和消费能力产生结构性影响，是长期投资规划中不可忽视的社会经济风险。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/americans-say-they-need-1-2-million-to-retire-most-are-too-deep-in-debt-to-get-there-689c683b?mod=mw_rss_topstories"
         }
       ]
     }
