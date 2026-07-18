@@ -8,6 +8,13 @@
   },
   {
     "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "Trial Lawyers Lobby Against Autonomous Vehicles",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/07/trial-lawyers-lobby-against-autonomous-vehicles.html?utm_source=rss&utm_medium=rss&utm_campaign=trial-lawyers-lobby-against-autonomous-vehicles",
+    "summary": "<p>Roughly 37,000–40,000 Americans die in auto accidents every year. We now have large‑scale, real‑world evidence—from Waymo and a joint analysis with Swiss Re—that driverless operations can be substantially safer than matched human driving within their current operating domains. The latest data show that over 220 million miles driven, Waymo vehicles&#8211;in Los Angeles, San Francisco, Phoenix, [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/trial-lawyers-lobby-against-autonomous-vehicles.html\">Trial Lawyers Lobby Against Autonomous Vehicles</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Sat, 18 Jul 2026 11:18:18 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
     "title": "What should I ask Luis Garicano?",
     "link": "https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-luis-garicano.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-luis-garicano",
     "summary": "<p>Yes I will be doing a Conversation with him.  From Wikipedia: Luis Garicano Gabilondo (pronounced [ˈlwis ɣaɾiˈkano]; born 1967) is a Spanish economist and politician who was a Member of the European Parliament (MEP) from 2019 to 2022. He was also vice president of Renew Europe and vice president of the European political party Alliance of Liberals and Democrats for [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-luis-garicano.html\">What should I ask Luis Garicano?</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
@@ -63,13 +70,6 @@
     "published": "Fri, 17 Jul 2026 04:11:30 +0000"
   },
   {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "Governing agentic AI",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/07/governing-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=governing-agentic-ai",
-    "summary": "<p>From a new paper by Shruti Rajagopalan: AI agents now transact, publish, and act on external systems without contemporaneous human approval, creating new regulatory challenges. A growing literature has responded with proposals for legal personhood. This Article argues that personhood is neither necessary nor sufficient, shifting the question from status to enforcement. The Article first [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/governing-agentic-ai.html\">Governing agentic AI</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Thu, 16 Jul 2026 20:23:55 +0000"
-  },
-  {
     "source": "A Wealth of Common Sense (Ben Carlson)",
     "title": "How Rich Are You?",
     "link": "https://awealthofcommonsense.com/2026/07/how-rich-are-you/",
@@ -77,11 +77,46 @@
     "published": "Fri, 17 Jul 2026 20:30:08 +0000"
   },
   {
-    "source": "A Wealth of Common Sense (Ben Carlson)",
-    "title": "Missing the Best & Worst Days in the Stock Market",
-    "link": "https://awealthofcommonsense.com/2026/07/missing-the-best-worst-days-in-the-stock-market/",
-    "summary": "<figure><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"571\" src=\"https://awealthofcommonsense.com/wp-content/uploads/2026/07/image-70-1024x571.png\" width=\"1024\" /></figure>Why the best and worst days cluster in the stock market.\nThe post Missing the Best &#038; Worst Days in the Stock Market appeared first on A Wealth of Common Sense.\n...",
-    "published": "Thu, 16 Jul 2026 19:13:07 +0000"
+    "source": "NYT Business",
+    "title": "America Caught World Cup Fever. His Job Is to Capitalize on It.",
+    "link": "https://www.nytimes.com/2026/07/18/business/dealbook/mls-don-garber-world-cup.html",
+    "summary": "Don Garber, the M.L.S. commissioner, has been planning for this moment for eight years.",
+    "published": "Sat, 18 Jul 2026 12:00:03 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "World Cup Final Drives Billions in Bets on Kalshi and Polymarket",
+    "link": "https://www.nytimes.com/2026/07/18/business/world-cup-kalshi-polymarket.html",
+    "summary": "The soccer tournament has helped propel the prediction markets to new user records, creating what may be the largest gambling event in history.",
+    "published": "Sat, 18 Jul 2026 09:01:54 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Robinhood’s Chief on Trump Accounts and Why Trading Isn’t Necessarily Gambling",
+    "link": "https://www.nytimes.com/2026/07/18/business/robinhoods-trump-accounts-trading-gambling.html",
+    "summary": "Vlad Tenev, the chief executive of the digital brokerage Robinhood, is trying to win over the next generation of Americans with Trump accounts.",
+    "published": "Sat, 18 Jul 2026 09:01:42 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
+    "link": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html",
+    "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
+    "published": "Sat, 18 Jul 2026 09:01:37 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "What Will You Do in Retirement? Your Money Depends on It.",
+    "link": "https://www.nytimes.com/2026/07/18/business/retirement-plan.html",
+    "summary": "Workers often focus solely on their retirement savings balance. But figuring out how you want to spend the rest of your life could be job No. 1.",
+    "published": "Sat, 18 Jul 2026 09:01:31 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Why Locals Are Gatekeeping Their Favorite Places From Tourists",
+    "link": "https://www.nytimes.com/2026/07/18/travel/gatekeeping-tourism-mexico-city-milan.html",
+    "summary": "As visitors flock to places like Mexico City, Milan and Copenhagen, residents are rethinking what they share, and who they share it with.",
+    "published": "Sat, 18 Jul 2026 11:12:11 +0000"
   },
   {
     "source": "NYT Business",
@@ -112,60 +147,11 @@
     "published": "Fri, 17 Jul 2026 18:16:00 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "After Repeated Crises, Boeing Looks to Turn a Corner",
-    "link": "https://www.nytimes.com/2026/07/17/business/boeing-turnaround-737-max.html",
-    "summary": "The company recently opened a new production line to keep up with strong demand for its 737 Max, though orders for its new planes lag rival Airbus.",
-    "published": "Fri, 17 Jul 2026 18:28:28 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Pentagon’s Escort Policy for Journalists Is Temporarily Restored",
-    "link": "https://www.nytimes.com/2026/07/17/business/media/pentagon-reporters-nytimes.html",
-    "summary": "An appeals court said the Defense Department could require escorts for reporters who visit the Pentagon while The New York Times sues to overturn the rule.",
-    "published": "Fri, 17 Jul 2026 17:38:59 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "America’s Enterprising Spirit Is Booming After Decades-Long Slump",
-    "link": "https://www.nytimes.com/2026/07/17/business/economy/american-small-business-boom.html",
-    "summary": "Hundreds of thousands of people are creating companies each year, ending a decades-long drought.",
-    "published": "Fri, 17 Jul 2026 16:51:43 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Roger Summit, Who Invented an Early Online Search Service, Dies at 95",
-    "link": "https://www.nytimes.com/2026/07/17/technology/roger-summit-dead.html",
-    "summary": "A research scientist at Lockheed, he came up with the idea for a computer system that would search scientific and technical literature almost instantaneously.",
-    "published": "Fri, 17 Jul 2026 14:13:29 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "States Rush to Fill Graduate Loan Gap Opened by G.O.P. Budget Bill",
-    "link": "https://www.nytimes.com/2026/07/17/your-money/states-graduate-loans-us-government.html",
-    "summary": "Minnesota and Connecticut are two of the states expanding their loan options. “We see it as a substitute program,” one official said.",
-    "published": "Fri, 17 Jul 2026 13:00:08 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Big Tech Firms Like Oracle Turn to Bonds to Finance A.I. Data Centers",
-    "link": "https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html",
-    "summary": "Risk is rising as big tech companies like Oracle — the ultimate financial source of the Ellison media empire — need to turn to the bond market for staggering sums to finance data centers.",
-    "published": "Fri, 17 Jul 2026 20:50:32 +0000"
-  },
-  {
     "source": "NYT Economy",
     "title": "America’s Enterprising Spirit Is Booming After Decades-Long Slump",
     "link": "https://www.nytimes.com/2026/07/17/business/economy/american-small-business-boom.html",
     "summary": "Hundreds of thousands of people are creating companies each year, ending a decades-long drought.",
     "published": "Fri, 17 Jul 2026 16:51:43 +0000"
-  },
-  {
-    "source": "NYT Economy",
-    "title": "War Risk for Businesses Will Mean Higher Prices No Matter What Happens",
-    "link": "https://www.nytimes.com/2026/07/15/business/economy/iran-war-inflation-supply-chains.html",
-    "summary": "Doing business in a more dangerous and unpredictable world will cost more, pushing up the price of everything from food to electronics.",
-    "published": "Thu, 16 Jul 2026 20:11:36 +0000"
   },
   {
     "source": "NYT DealBook",
@@ -190,17 +176,24 @@
   },
   {
     "source": "NYT DealBook",
+    "title": "America Caught World Cup Fever. His Job Is to Capitalize on It.",
+    "link": "https://www.nytimes.com/2026/07/18/business/dealbook/mls-don-garber-world-cup.html",
+    "summary": "Don Garber, the M.L.S. commissioner, has been planning for this moment for eight years.",
+    "published": "Sat, 18 Jul 2026 12:00:03 +0000"
+  },
+  {
+    "source": "NYT DealBook",
     "title": "Stocks Sink on Anxiety About Tech and A.I. Spending",
     "link": "https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html",
     "summary": "Investors are growing uneasy about increasing competition from China in the global race to dominate artificial intelligence.",
     "published": "Fri, 17 Jul 2026 20:17:16 +0000"
   },
   {
-    "source": "NYT DealBook",
-    "title": "War Risk for Businesses Will Mean Higher Prices No Matter What Happens",
-    "link": "https://www.nytimes.com/2026/07/15/business/economy/iran-war-inflation-supply-chains.html",
-    "summary": "Doing business in a more dangerous and unpredictable world will cost more, pushing up the price of everything from food to electronics.",
-    "published": "Thu, 16 Jul 2026 20:11:36 +0000"
+    "source": "BBC Business",
+    "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
+    "link": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
+    "summary": "It's a small but growing problem in the property market - here's how to protect yourself.",
+    "published": "Sat, 18 Jul 2026 01:14:53 GMT"
   },
   {
     "source": "BBC Business",
@@ -246,13 +239,6 @@
   },
   {
     "source": "BBC Business",
-    "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
-    "link": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss",
-    "summary": "Sarah and her husband have shared one account for 25 years, but she says managing it falls to her.",
-    "published": "Thu, 16 Jul 2026 23:14:11 GMT"
-  },
-  {
-    "source": "BBC Business",
     "title": "Why has British Steel been nationalised?",
     "link": "https://www.bbc.co.uk/news/articles/c5y66y40kgpo?at_medium=RSS&at_campaign=rss",
     "summary": "The UK's only remaining plant making virgin steel has been taken into public ownership after years of uncertainty over its future.",
@@ -274,73 +260,73 @@
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley",
-    "link": "https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738?mod=mw_rss_topstories",
-    "summary": "Moonshot AI’s new open model is catching up to Anthropic and OpenAI, raising questions about the future of the AI race.",
-    "published": "Sat, 18 Jul 2026 01:17:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "The World Cup–winning side will make $50 million — and the IRS gets a cut",
-    "link": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
-    "summary": "“It doesn’t make a difference who wins the game. The IRS will get a piece.”",
-    "published": "Fri, 17 Jul 2026 23:05:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "SpaceX postponed a crucial launch — and its stock went on to close below IPO price for second day",
-    "link": "https://www.marketwatch.com/story/spacex-postponed-a-crucial-launch-now-its-stock-is-set-to-slide-even-further-below-the-ipo-price-143adfe0?mod=mw_rss_topstories",
-    "summary": "Shares in SpaceX declined about 4% in premarket trading on Friday after aborted mission.",
-    "published": "Fri, 17 Jul 2026 22:55:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "The average stock is having a moment as semiconductors struggle. It’s a sign of a healthy market.",
-    "link": "https://www.marketwatch.com/story/the-average-stock-is-having-a-moment-as-semiconductors-struggle-its-a-sign-of-a-healthy-market-0dc01e9a?mod=mw_rss_topstories",
-    "summary": "It has been a good week to be average on Wall Street.",
-    "published": "Fri, 17 Jul 2026 21:55:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "19 (mostly) tech stocks that have fallen at least 25% in July",
-    "link": "https://www.marketwatch.com/story/18-tech-stocks-that-have-fallen-at-least-30-during-july-4c373d5e?mod=mw_rss_topstories",
-    "summary": "Seven of the worst performers for the month were still up by triple digits for 2026.",
-    "published": "Fri, 17 Jul 2026 21:45:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "How your winning stock-index fund can turn on a dime",
-    "link": "https://www.marketwatch.com/story/how-your-winning-stock-index-fund-can-turn-on-a-dime-e2e4b44e?mod=mw_rss_topstories",
-    "summary": "Also in Weekend Reads: The changing bond market, housing-market opportunities and advice from the Moneyist.",
-    "published": "Fri, 17 Jul 2026 21:23:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Look on the bright side: Energy companies are booming",
-    "link": "https://www.marketwatch.com/story/look-on-the-bright-side-energy-companies-are-booming-546164fb?mod=mw_rss_topstories",
-    "summary": "You can’t beat them. Maybe you should join them.",
-    "published": "Fri, 17 Jul 2026 21:08:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Chip stocks have entered a bear market. A BofA analyst says not to panic.",
-    "link": "https://www.marketwatch.com/story/chip-stocks-enter-bear-market-territory-a-bofa-analyst-says-not-to-panic-4d34df17?mod=mw_rss_topstories",
-    "summary": "The semiconductor sector is undergoing a reset and has a tendency to underperform in the third quarter.",
-    "published": "Fri, 17 Jul 2026 20:49:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
-    "link": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
-    "summary": "“I’m also considering working with a credit-counseling agency or enrolling in a hardship program.”",
-    "published": "Fri, 17 Jul 2026 20:15:00 GMT"
+    "title": "This overlooked index is a better investment than the S&P 500",
+    "link": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
+    "summary": "We did the math over a 30-year period, and it’s not even close.",
+    "published": "Sat, 18 Jul 2026 13:41:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
     "title": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
     "link": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
     "summary": "“He is now no longer able to think clearly or communicate his wishes.”",
-    "published": "Fri, 17 Jul 2026 19:45:00 GMT"
+    "published": "Sat, 18 Jul 2026 13:30:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
+    "link": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
+    "summary": "“I’m also considering working with a credit-counseling agency or enrolling in a hardship program.”",
+    "published": "Sat, 18 Jul 2026 13:15:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "A massive lettuce recall hits home as local restaurants shake up their salad menus",
+    "link": "https://www.marketwatch.com/story/a-massive-lettuce-recall-hits-home-as-local-restaurants-shake-up-their-salad-menus-15f7ac35?mod=mw_rss_topstories",
+    "summary": "Some independent restaurants are throwing out all their bagged lettuce, while others have found ways to keep serving customers their leafy greens.",
+    "published": "Sat, 18 Jul 2026 13:15:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Your Social Security check could go up by $74 a month next year",
+    "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-by-74-a-month-next-year-58877142?mod=mw_rss_topstories",
+    "summary": "Social Security’s cost-of-living-adjustment could be 3.8% in 2027, as inflation shows signs of cooling.",
+    "published": "Sat, 18 Jul 2026 12:42:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "How a homegrown Chinese chip maker became the memory industry’s biggest wild card",
+    "link": "https://www.marketwatch.com/story/how-a-homegrown-chinese-chip-maker-became-the-memory-industrys-biggest-wild-card-c3f603af?mod=mw_rss_topstories",
+    "summary": "As ChangXin Memory Technologies gears up for a breakout public listing, the chip maker is eyeing the turf held by Micron, SK Hynix and Samsung.",
+    "published": "Sat, 18 Jul 2026 12:00:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Forget gasoline: Why the price surge in this under-the-radar fuel is the real threat to the U.S. economy",
+    "link": "https://www.marketwatch.com/story/forget-gasoline-why-the-price-surge-in-this-under-the-radar-fuel-is-the-real-threat-to-the-u-s-economy-710b9470?mod=mw_rss_topstories",
+    "summary": "As investors fret about gasoline, diesel prices have been rising and are threatening to cause even more economic destruction.",
+    "published": "Sat, 18 Jul 2026 12:00:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "This may be the real reason USDA made a huge revision to its beef-export sales data",
+    "link": "https://www.marketwatch.com/story/this-may-be-the-real-reason-usda-made-a-huge-revision-to-its-beef-export-sales-data-8abfba78?mod=mw_rss_topstories",
+    "summary": "It’s ‘like driving one more nail into the proverbial coffin,’ says a rancher about the recent deterioration in U.S. agriculture data",
+    "published": "Sat, 18 Jul 2026 12:00:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Will the Fed hike interest rates this month?",
+    "link": "https://www.marketwatch.com/story/will-the-fed-hike-interest-rates-this-month-6e8f952a?mod=mw_rss_topstories",
+    "summary": "Kevin Warsh’s testimony to Congress “offered some heat but not a lot of new light” on the outlook for interest rates, one economist said.",
+    "published": "Sat, 18 Jul 2026 11:00:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley",
+    "link": "https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738?mod=mw_rss_topstories",
+    "summary": "Moonshot AI’s new open model is catching up to Anthropic and OpenAI, raising questions about the future of the AI race.",
+    "published": "Sat, 18 Jul 2026 01:17:00 GMT"
   },
   {
     "source": "CNBC Business",
@@ -385,18 +371,11 @@
     "published": "Fri, 17 Jul 2026 20:06:48 GMT"
   },
   {
-    "source": "CNBC Business",
-    "title": "Here's why the housing market is hurting so much this summer",
-    "link": "https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html",
-    "summary": "Mortgage rates are high, home prices at record levels, and consumers stressed — all contributing to a drop in existing home sales and builder sentiment.",
-    "published": "Thu, 16 Jul 2026 20:06:13 GMT"
-  },
-  {
-    "source": "CNBC Business",
-    "title": "UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs",
-    "link": "https://www.cnbc.com/2026/07/16/unitedhealth-group-unh-earnings-q2-2026.html",
-    "summary": "The healthcare giant is working to stabilize margins by shrinking membership, exiting unprofitable contracts and pouring $1.5 billion into AI.",
-    "published": "Thu, 16 Jul 2026 19:00:37 GMT"
+    "source": "CNBC Finance",
+    "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+    "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+    "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
+    "published": "Sat, 18 Jul 2026 11:31:03 GMT"
   },
   {
     "source": "CNBC Finance",
@@ -413,24 +392,38 @@
     "published": "Fri, 17 Jul 2026 03:54:47 GMT"
   },
   {
-    "source": "CNBC Finance",
-    "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
-    "link": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
-    "summary": "The policymaker said this week's good inflation news wasn't good enough.",
-    "published": "Thu, 16 Jul 2026 18:50:42 GMT"
+    "source": "Hacker News Top",
+    "title": "Why do AI company logos look like buttholes? (2025)",
+    "link": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+    "summary": "<p>Article URL: <a href=\"https://velvetshark.com/ai-company-logos-that-look-like-buttholes\">https://velvetshark.com/ai-company-logos-that-look-like-buttholes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48956924\">https://news.ycombinator.com/item?id=48956924</a></p>\n<p>Points: 301</p>\n<p># Comments: 92</p>",
+    "published": "Sat, 18 Jul 2026 11:06:50 +0000"
   },
   {
     "source": "Hacker News Top",
-    "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-    "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-    "summary": "<p>Article URL: <a href=\"https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/\">https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48952880\">https://news.ycombinator.com/item?id=48952880</a></p>\n<p>Points: 447</p>\n<p># Comments: 293</p>",
-    "published": "Fri, 17 Jul 2026 22:26:30 +0000"
+    "title": "LG monitors silently install software through Windows Update without consent",
+    "link": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+    "summary": "<p>Article URL: <a href=\"https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent\">https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48956688\">https://news.ycombinator.com/item?id=48956688</a></p>\n<p>Points: 380</p>\n<p># Comments: 191</p>",
+    "published": "Sat, 18 Jul 2026 10:21:19 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Regressive JPEGs",
+    "link": "https://maurycyz.com/projects/bad_jpeg/",
+    "summary": "<p>Article URL: <a href=\"https://maurycyz.com/projects/bad_jpeg/\">https://maurycyz.com/projects/bad_jpeg/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48954851\">https://news.ycombinator.com/item?id=48954851</a></p>\n<p>Points: 475</p>\n<p># Comments: 46</p>",
+    "published": "Sat, 18 Jul 2026 03:14:20 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "The Zilog Z80 has turned 50",
+    "link": "https://goliath32.com/blog/z80.html",
+    "summary": "<p>Article URL: <a href=\"https://goliath32.com/blog/z80.html\">https://goliath32.com/blog/z80.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48951461\">https://news.ycombinator.com/item?id=48951461</a></p>\n<p>Points: 243</p>\n<p># Comments: 97</p>",
+    "published": "Fri, 17 Jul 2026 19:41:02 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Learning a few things about running SQLite",
     "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-    "summary": "<p>Article URL: <a href=\"https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/\">https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48950122\">https://news.ycombinator.com/item?id=48950122</a></p>\n<p>Points: 212</p>\n<p># Comments: 53</p>",
+    "summary": "<p>Article URL: <a href=\"https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/\">https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48950122\">https://news.ycombinator.com/item?id=48950122</a></p>\n<p>Points: 281</p>\n<p># Comments: 75</p>",
     "published": "Fri, 17 Jul 2026 17:45:41 +0000"
   },
   {
@@ -442,38 +435,31 @@
   },
   {
     "source": "Hacker News Top",
-    "title": "The state of open source AI",
-    "link": "https://stateofopensource.ai/",
-    "summary": "<p>Article URL: <a href=\"https://stateofopensource.ai/\">https://stateofopensource.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947825\">https://news.ycombinator.com/item?id=48947825</a></p>\n<p>Points: 410</p>\n<p># Comments: 298</p>",
-    "published": "Fri, 17 Jul 2026 14:31:10 +0000"
-  },
-  {
-    "source": "Hacker News Top",
     "title": "Kimi K3, and what we can still learn from the pelican benchmark",
     "link": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jul/16/kimi-k3/\">https://simonwillison.net/2026/Jul/16/kimi-k3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947717\">https://news.ycombinator.com/item?id=48947717</a></p>\n<p>Points: 309</p>\n<p># Comments: 166</p>",
+    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jul/16/kimi-k3/\">https://simonwillison.net/2026/Jul/16/kimi-k3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947717\">https://news.ycombinator.com/item?id=48947717</a></p>\n<p>Points: 365</p>\n<p># Comments: 192</p>",
     "published": "Fri, 17 Jul 2026 14:21:51 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
     "link": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cy4kdd1e0ejo\">https://www.bbc.com/news/articles/cy4kdd1e0ejo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947560\">https://news.ycombinator.com/item?id=48947560</a></p>\n<p>Points: 417</p>\n<p># Comments: 253</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cy4kdd1e0ejo\">https://www.bbc.com/news/articles/cy4kdd1e0ejo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947560\">https://news.ycombinator.com/item?id=48947560</a></p>\n<p>Points: 478</p>\n<p># Comments: 282</p>",
     "published": "Fri, 17 Jul 2026 14:06:13 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Three ways people respond to a problem (other than solving it)",
-    "link": "https://improvesomething.today/responses-to-problems/",
-    "summary": "<p>Article URL: <a href=\"https://improvesomething.today/responses-to-problems/\">https://improvesomething.today/responses-to-problems/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947490\">https://news.ycombinator.com/item?id=48947490</a></p>\n<p>Points: 224</p>\n<p># Comments: 123</p>",
-    "published": "Fri, 17 Jul 2026 14:00:04 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
     "link": "https://news.ycombinator.com/item?id=48945241",
-    "summary": "<p>URL already posted: <a href=\"https://health.aws.amazon.com/health/status\" rel=\"nofollow\">https://health.aws.amazon.com/health/status</a><p>I've got an estimated bill for $1.7 BILLION over this month. Normal usage is < $5.<p>Obvs have created an urgent AWS support ticket. Anyone else seeing something like this?<p>Update: Reddit link: <a href=\"https://www.reddit.com/r/aws/comments/1uyuaw7/help_my_bill_skyrocketed_from_around_5_cents_per/\" rel=\"nofollow\">https://www.reddit.com/r/aws/comments/1uyuaw7/help_my_bill_s...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48945241\">https://news.ycombinator.com/item?id=48945241</a></p>\n<p>Points: 1127</p>\n<p># Comments: 667</p>",
+    "summary": "<p>URL already posted: <a href=\"https://health.aws.amazon.com/health/status\" rel=\"nofollow\">https://health.aws.amazon.com/health/status</a><p>I've got an estimated bill for $1.7 BILLION over this month. Normal usage is < $5.<p>Obvs have created an urgent AWS support ticket. Anyone else seeing something like this?<p>Update: Reddit link: <a href=\"https://www.reddit.com/r/aws/comments/1uyuaw7/help_my_bill_skyrocketed_from_around_5_cents_per/\" rel=\"nofollow\">https://www.reddit.com/r/aws/comments/1uyuaw7/help_my_bill_s...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48945241\">https://news.ycombinator.com/item?id=48945241</a></p>\n<p>Points: 1228</p>\n<p># Comments: 717</p>",
     "published": "Fri, 17 Jul 2026 09:42:05 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "Will AI fix prior authorization—or make it worse?",
+    "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+    "summary": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+    "published": "Sat, 18 Jul 2026 11:18:25 +0000"
   },
   {
     "source": "Ars Technica",
@@ -539,13 +525,6 @@
     "published": "Fri, 17 Jul 2026 15:52:28 +0000"
   },
   {
-    "source": "Ars Technica",
-    "title": "The report oil companies are worried about: Climate attribution science",
-    "link": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
-    "summary": "New report says our ability to tie weather damages to climate change is improving.",
-    "published": "Fri, 17 Jul 2026 11:30:10 +0000"
-  },
-  {
     "source": "MIT Tech Review",
     "title": "The Download: perimenopause misinformation and China’s latest AI leap",
     "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
@@ -565,6 +544,13 @@
     "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
     "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use&#8230;",
     "published": "Fri, 17 Jul 2026 08:57:32 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Hong Kong homebuyers snap up 138 Garden Regency flats in New Territories project",
+    "link": "https://www.scmp.com/business/article/3361052/hong-kong-homebuyers-snap-138-garden-regency-flats-new-territories-project?utm_source=rss_feed",
+    "summary": "Sun Hung Kai Properties (SHKP), Hong Kong’s largest developer by market capitalisation, has sold out the first batch of units at its Garden Regency project in the New Territories on Saturday, according to agents.\nBy 3.30pm, all 138 flats the developer had launched in the Kam Tin North project in Yuen Long had found buyers, the agents said.\nThe launch of the three-tower development of 566 units marks SHKP’s return to the market two months after units at its Lime Spark project in Tsuen Wan were...",
+    "published": "Sat, 18 Jul 2026 11:30:36 +0000"
   },
   {
     "source": "SCMP Business",
@@ -628,12 +614,5 @@
     "link": "https://www.scmp.com/tech/article/3360892/chinese-memory-giant-cxmt-oversubscribed-212-times-mega-shanghai-ipo?utm_source=rss_feed",
     "summary": "More than 9.4 million investor accounts applied for shares in the blockbuster initial public offering (IPO) of ChangXin Memory Technologies (CXMT), with retail demand reaching about 212 times the shares initially available online.\nInvestors submitted valid applications for nearly 817 billion shares on Thursday, according to an official announcement published Thursday night. The response highlights the intense appetite for China’s leading producer of dynamic random-access memory, or DRAM, as...",
     "published": "Fri, 17 Jul 2026 07:00:06 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "South Korea’s turbulence seen as boon for Hong Kong stocks as capital migration under way",
-    "link": "https://www.scmp.com/business/china-business/article/3360904/south-koreas-turbulence-seen-boon-hong-kong-stocks-capital-migration-under-way?utm_source=rss_feed",
-    "summary": "Chinese technology stocks trading in Hong Kong are emerging as beneficiaries of tumult in the South Korean market, analysts say, pointing to investors rotating out of crowded bets and into undervalued assets, positioning for a rebound.\nThe Hang Seng Tech Index, which tracks Alibaba and other key Hong Kong-listed Chinese tech companies, has risen about 10 per cent from a June 26 low. Meanwhile, the Korea Composite Stock Price Index (Kospi) has technically slid into a bear market after a 20 per...",
-    "published": "Fri, 17 Jul 2026 05:59:53 +0000"
   }
 ]
