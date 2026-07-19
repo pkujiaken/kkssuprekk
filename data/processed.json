@@ -1,22 +1,8 @@
 {
   "top5": [
     {
-      "title": "中国AI大模型Kimi K3宣称可匹敌OpenAI与Anthropic，全球竞争加剧",
-      "summary": "中国人工智能公司月之暗面（Moonshot AI）发布其最新大模型Kimi K3，宣称其能力已能与OpenAI和Anthropic的顶级模型相抗衡。这一发展标志着中国在通用人工智能领域取得重大突破，直接挑战了美国在生成式AI技术上的领先地位，预示着全球AI竞赛进入白热化阶段，对未来科技产业格局和投资走向将产生深远影响。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Hacker News Top",
-          "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/"
-        }
-      ]
-    },
-    {
-      "title": "美股因对AI支出和中国竞争担忧而下跌，科技板块承压",
-      "summary": "华尔街投资者对人工智能领域不断增长的投资支出以及来自中国的激烈竞争感到不安，导致美国股市下跌。市场对AI技术投资回报率和地缘政治风险的担忧加剧，特别是科技巨头面临的潜在估值调整风险，反映出市场对AI泡沫化趋势的警惕以及对中美科技竞争复杂性的考量。",
+      "title": "科技与AI支出担忧引发美股下跌，中美AI竞争加剧",
+      "summary": "投资者对科技股和人工智能相关支出前景感到不安，导致美股下挫。市场担忧中国在全球人工智能竞赛中的竞争日益激烈，这可能影响美国科技公司的长期增长潜力。此趋势反映了当前市场对AI投资泡沫化和地缘政治风险的警惕，对科技板块的估值带来压力。",
       "sources": [
         {
           "name": "NYT DealBook",
@@ -25,8 +11,8 @@
       ]
     },
     {
-      "title": "美国新制裁法案扩大对俄打击，或引发美元全球主导地位动摇",
-      "summary": "美国国会通过了一项旨在扩大对俄罗斯制裁的法案，以进一步限制其经济活动。然而，此举也引发了部分担忧，认为持续依赖美元作为制裁工具可能促使更多国家寻求去美元化策略，从而长期削弱美元在国际贸易和储备货币体系中的核心地位，对全球金融格局构成潜在挑战。",
+      "title": "美国新对俄制裁法案引担忧，美元主导地位或受侵蚀",
+      "summary": "美国特朗普政府提出的新对俄制裁法案在扩大制裁范围的同时，也引发了市场对美元在全球储备货币地位可能被削弱的担忧。由于一些国家正寻求规避美国制裁的方法，这可能促使它们探索替代支付体系，长期来看或侵蚀美元的霸权地位，对全球金融稳定和美国经济产生深远影响。",
       "sources": [
         {
           "name": "NYT Business",
@@ -35,46 +21,52 @@
       ]
     },
     {
-      "title": "美国小企业迎来疫情后繁荣，AI技术助力创新浪潮",
-      "summary": "在新冠疫情初期的大规模裁员和远程工作推动下，加之人工智能技术的赋能，美国小企业创建数量激增，结束了长达数十年的低迷期。每年有数百万份新的商业注册申请，这表明美国经济正经历一场创业复兴，预示着更强的经济活力、更灵活的就业市场以及由AI驱动的创新周期到来。",
+      "title": "人工智能取得重大突破：GPT-5.6解决凸优化三十年难题",
+      "summary": "OpenAI的GPT-5.6在凸优化领域取得突破，通过特定提示成功弥补了长达30年的理论空白。这一进展标志着大型语言模型在解决复杂数学和计算机科学问题方面的强大能力，远超预期。它不仅可能加速AI在科学研究和工程领域的应用，也预示着AI技术在解决现实世界挑战方面具备巨大潜力，对多个行业产生颠覆性影响。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-small-business-boom.html"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/07/17/business/economy/american-small-business-boom.html"
+          "name": "Hacker News Top",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"
         }
       ]
     },
     {
-      "title": "中东冲突升级致英国燃油价格飙升，全球能源市场面临挑战",
-      "summary": "随着美国-以色列与伊朗之间的和平谈判破裂，中东地缘政治紧张局势加剧，导致全球原油价格上涨，英国燃油价格也随之飙升。这不仅直接影响了消费者和企业的成本，也凸显了地缘冲突对全球能源供应链和通胀压力的巨大影响，为宏观经济稳定带来不确定性。",
+      "title": "FAA恢复波音737 Max和787适航证书签发权，信任投票提振市场",
+      "summary": "美国联邦航空管理局（FAA）恢复了波音公司自行签发737 Max和787机型适航证书的权力，这被视为美国政府对波音安全和质量体系的重大信任投票。此前，波音因安全问题受到严格审查。此举有望提振波音的生产和交付效率，对其股价和航空供应链产生积极影响，表明监管机构对波音改进措施的认可。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html"
+        }
+      ]
+    },
+    {
+      "title": "中国电动汽车品牌小鹏汽车进军德国，全球化战略加速",
+      "summary": "中国电动汽车制造商小鹏汽车在德国汽车工业中心慕尼黑发布Mona L03紧凑型SUV，明确其拓展欧洲市场的雄心。此次发布会规模空前，不仅是为了推出新车型，更是向欧洲市场宣示小鹏扎根的决心。此举表明中国电动汽车企业正加速全球化布局，对欧洲本土汽车品牌构成直接竞争，可能改变全球汽车市场格局。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-evs/article/3361008/chinas-xpeng-plants-flag-germanys-auto-heartland-mona-l03-launch"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Ben Thompson",
-      "title": "科技战略家Ben Thompson论科技范式转变与巨头挑战",
-      "summary": "观点：Ben Thompson在其最新文章中探讨了大型机时代的终结、OpenAI面临的持续挑战以及Netflix在内容战略上的演变。他指出，随着核心技术范式的不断变化，旧的计算模式将逐渐退出历史舞台，而新一代科技巨头必须不断创新才能在市场中保持领先地位。",
+      "name": "Vlad Tenev (Robinhood CEO)",
+      "title": "罗宾汉CEO认为交易不等于赌博，致力于吸引新一代投资者",
+      "summary": "观点：Robinhood首席执行官Vlad Tenev在接受采访时表示，他认为在数字经纪平台上的交易行为不应被简单等同于赌博。他正致力于通过创新产品和服务，吸引新一代美国投资者。Tenev还提到平台对“特朗普账户”的立场，强调其作为言论自由平台的角色。他的观点试图重塑外界对年轻投资者交易行为的看法，并强调Robinhood在金融民主化中的作用。",
       "sources": [
         {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/mainframes-and-main-characters/"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/18/business/robinhoods-trump-accounts-trading-gambling.html"
         }
       ]
     },
     {
-      "name": "Tyler Cowen",
-      "title": "经济学家Tyler Cowen批评律所阻碍自动驾驶技术发展",
-      "summary": "观点：Tyler Cowen指出，尽管Waymo等公司的大规模真实世界数据表明自动驾驶汽车比人类驾驶更安全，但美国诉讼律师团体仍积极游说反对自动驾驶技术的推广。他认为这种阻力并非基于安全考量，而是为了维护现有法律和商业利益，这将延缓创新技术落地和社会效益实现。",
+      "name": "Tyler Cowen (经济学家)",
+      "title": "观点：自动驾驶安全数据显著，但律师团体仍积极游说反对",
+      "summary": "观点：经济学家Tyler Cowen援引Waymo和瑞士再保险的联合分析数据指出，在现有运营领域内，无人驾驶车辆的安全性远高于人类驾驶，每年可避免数万美国人的交通事故死亡。然而，美国的试驾律师团体正积极游说反对自动驾驶汽车，这或将阻碍这项能够显著提升公共安全的技术的普及。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -83,61 +75,53 @@
       ]
     },
     {
-      "name": "Vlad Tenev",
-      "title": "Robinhood CEO Vlad Tenev：股票交易不应等同于赌博",
-      "summary": "原话：「交易不一定是赌博。」Robinhood首席执行官Vlad Tenev在访谈中表示，他正努力争取新一代美国投资者，并为他们提供如“特朗普账户”等服务。他试图反驳将零售交易视为纯粹投机行为的观点，强调其平台旨在让更多人以更便捷的方式参与资本市场。",
+      "name": "Lemuel Lee (法国巴黎银行香港财富管理主管)",
+      "title": "观点：欧洲高净值客户青睐香港家族办公室，中欧资本双向流动增强",
+      "summary": "原话：「欧洲与中国内地之间的资本双向流动正在增强。」法国巴黎银行香港财富管理主管Lemuel Lee指出，越来越多的欧洲富裕客户正积极考虑在香港设立家族办公室，以捕捉亚洲地区的投资机遇。同时，也有更多内地富豪寻求投资欧洲市场。这表明香港在全球财富管理格局中的枢纽地位日益巩固，促进了国际资本的交流。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/18/business/robinhoods-trump-accounts-trading-gambling.html"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3361009/wealthy-european-clients-eye-hong-kong-family-offices-says-bnp-paribas"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "历史GDP增长再评估：新研究以质量调整方法修正百年数据",
-      "summary": "麻省理工学院研究人员构建了一个新的质量调整价格指数，对1900-1990年间的美国消费品价格进行了修正。这项研究旨在更准确地分离价格变化与产品质量及构成变化，从而对美国实际GDP的增长进行重新评估，为理解长期经济结构变迁和生产力提升提供更精细的数据基础。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/cataloging-growth-a-re-evaluation-of-1900-1990.html"
-        }
-      ]
-    },
-    {
-      "title": "美联储沟通新时代，华尔街利用AI解读央行信号",
-      "summary": "在美联储可能减少公开评论的“WarshGPT”时代，华尔街的投资公司正在积极部署人工智能工具，以更深入地分析和预测央行政策走向。这标志着宏观经济信号解读方式的变革，以及AI在金融信息获取和策略制定中的日益重要性，可能重塑市场参与者的竞争优势。",
+      "title": "华尔街利用AI应对美联储新沟通时代",
+      "summary": "随着美联储进入一个更少公开评论的时代，华尔街的投资公司正在积极适应。一些公司正转向人工智能工具，例如“WarshGPT”，以求在新沟通模式下获得信息优势。这一趋势反映了金融行业对美联储政策沟通变化的高度重视，以及在信息不对称环境下利用AI进行市场分析和预测的策略转变。",
       "sources": [
         {
           "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html"
         }
       ]
+    },
+    {
+      "title": "美国小企业迎来繁荣期，创业活动激增",
+      "summary": "在疫情引发的裁员潮和远程工作推动下，加上人工智能的兴起，美国的小企业创业活动正经历数十年来最强劲的增长。去年，美国人提交了570万份新业务申请，预示着一股强大的创业复兴浪潮。这一现象对就业市场、创新活力和经济增长都具有积极意义，表明经济内生动力正在增强。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-small-business-boom.html"
+        }
+      ]
     }
   ],
   "tech": [
     {
-      "title": "AI研究突破凸优化30年难题，加速科学发现进程",
-      "summary": "有报道称，OpenAI的GPT-5.6通过特定提示，解决了困扰凸优化领域长达30年的一个难题，显示出大型语言模型在复杂数学问题解决上的惊人能力。此外，AI对Stack Overflow社区用户行为的影响，以及在NP-Hard问题上的表现也备受关注，共同预示着AI在科学研究和工程应用领域将迎来加速突破。",
+      "title": "房东被禁止使用AI生成图片进行广告，AI内容监管引关注",
+      "summary": "一位市长宣布禁止房东在广告中秘密使用AI生成的房产图片，以防止误导性营销。此举凸显了AI内容在商业应用中面临的伦理和监管挑战，特别是关于真实性、透明度以及消费者保护的问题。随着AI生成内容日益普及，未来更多领域可能出台类似监管政策，以应对潜在的社会和经济影响。",
       "sources": [
         {
           "name": "Hacker News Top",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"
-        },
-        {
-          "name": "Hacker News Top",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph"
-        },
-        {
-          "name": "Hacker News Top",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/"
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"
         }
       ]
     },
     {
-      "title": "AI在医疗保险预授权决策中试水，效率与伦理挑战并存",
-      "summary": "美国政府正在试点一项计划，利用人工智能辅助医疗保险的预授权决策。此举旨在提高审批效率、减少行政成本，但同时也引发了关于AI决策透明度、潜在的算法偏见以及对患者护理质量和公平性影响的广泛讨论。这是AI在关键公共服务领域应用过程中面临机遇与挑战的缩影。",
+      "title": "AI在医疗保险预授权中的应用：是解决方案还是新问题？",
+      "summary": "美国政府正在试点一项利用人工智能进行医疗保险授权审批的计划。支持者认为AI可以提高效率、降低成本，但批评者担忧这可能导致自动化拒绝，损害患者权益。这项试点将是观察AI在医疗健康领域大规模应用效果的关键案例，其结果将影响AI在公共服务和监管领域的采纳与发展。",
       "sources": [
         {
           "name": "Ars Technica",
@@ -146,25 +130,85 @@
       ]
     },
     {
-      "title": "谷歌支持卫星用于野火探测，科技巨头应对气候变化",
-      "summary": "随着美国和加拿大持续受严重野火烟雾影响，由谷歌支持的FireSat项目发射了新的卫星，旨在利用先进技术更早、更精确地探测到野火。这一举措展示了科技巨头在利用空间技术和数据分析应对气候变化挑战方面的积极作用，同时也突显了环境科技领域的投资潜力。",
+      "title": "谷歌支持的野火探测卫星发射，气候科技投资加速",
+      "summary": "在美国和加拿大烟雾弥漫之际，由谷歌支持的FireSat计划发射了新的卫星，旨在提高野火探测能力。这些卫星能够发现其他系统可能遗漏的初期火灾，对于早期预警和灾害管理至关重要。此举不仅展示了科技巨头在气候应对领域的投资，也反映了卫星技术在环境监测和公共安全应用中的巨大潜力。",
       "sources": [
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/"
         }
       ]
+    },
+    {
+      "title": "AI模型在NP-Hard问题上的表现引关注",
+      "summary": "最新研究比较了Fable 5和GPT-5.6 Sol在解决NP-Hard问题（一类计算难度极大的问题）上的表现。这项研究深入探讨了当前AI模型在复杂优化和决策问题上的能力边界，以及特定提示词（如“/goal”）对提升其解决问题效率的影响。这对于AI在物流、金融建模等需要解决复杂优化问题的领域有重要指导意义。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/"
+        }
+      ]
     }
   ],
   "us_stocks": [
     {
-      "title": "Netflix股价下跌并削减用户互动数据披露，引发投资者担忧",
-      "summary": "流媒体巨头Netflix发布的盈利预测不及预期，导致公司股价下跌。此外，Netflix还宣布将减少其“我们观看了什么”报告的发布频率，这使得投资者对公司的用户参与度趋势和未来增长策略产生疑虑，加剧了市场对流媒体行业竞争加剧和用户增长放缓的担忧。",
+      "title": "Netflix财报预测不及预期，股价下跌并减少用户数据更新频率",
+      "summary": "流媒体巨头Netflix的股价因其盈利预测低于预期而下跌，同时公司宣布将减少“我们观看了什么”报告的发布频率，该报告提供了用户参与度的数据。这一决策可能旨在减少市场对用户增长和参与度的过度关注，但市场对此反应负面，表明投资者对Netflix未来增长策略和透明度存在担忧。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html"
-        },
+        }
+      ]
+    }
+  ],
+  "a_stocks": [
+    {
+      "title": "香港二手楼市上半年强劲后，下半年或面临转折",
+      "summary": "经过上半年的大幅上涨后，香港二手住宅市场预计在下半年迎来转折点。多个本地地产代理机构指出，北京对资本外流的打击以及香港股市的震荡是导致市场情绪转变的主要因素。数据显示，上半年二手住宅交易量和总值均录得显著增长，但下半年市场面临的宏观经济和政策不确定性将增加。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/property/hong-kong-china/article/3360966/hong-kongs-secondary-property-market-braces-shift-after-strong-first-half"
+        }
+      ]
+    },
+    {
+      "title": "旅游吸引力助力澳洲吸引内地及香港购房者",
+      "summary": "澳大利亚的旅游吸引力及其房地产价格修正，正进一步增强其对中国内地和香港购房者的吸引力。除了长期以来的教育优势，澳大利亚轻松的生活方式和主要城市房价的温和调整，使其作为投资目的地的吸引力日益突出。这预示着中国高净值人群海外资产配置将继续偏向发达国家，对澳大利亚房地产市场形成支撑。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/article/3360988/tourism-appeal-adds-australias-edge-drawing-mainland-chinese-hong-kong-homebuyers"
+        }
+      ]
+    },
+    {
+      "title": "香港新鸿基地产新盘热销，楼市情绪回暖",
+      "summary": "香港最大开发商新鸿基地产在新界元朗推出的Garden Regency项目首批单位全部售罄，共138套。这标志着新鸿基地产在推出荃湾Lime Spark项目两个月后重返市场，并取得良好销售业绩。此次热销反映了香港部分地区购房需求依然旺盛，可能对近期低迷的楼市情绪起到一定的提振作用。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/article/3361052/hong-kong-homebuyers-snap-138-garden-regency-flats-new-territories-project"
+        }
+      ]
+    },
+    {
+      "title": "中国瑜伽服饰市场竞争加剧，消费品味转变致增长放缓",
+      "summary": "受国内消费疲软及中产阶级消费者活动多元化影响，中国瑜伽服饰市场正面临激烈竞争和增长放缓的局面。加拿大运动服饰品牌Lululemon在中国市场的同店销售增长已出现下滑。这表明，即使是国际知名品牌在中国市场也面临挑战，需要重新评估市场策略以适应消费者品味的变化和日益激烈的本土竞争。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/article/3360991/fierce-competition-and-shifting-tastes-squeeze-chinas-yoga-apparel-market"
+        }
+      ]
+    }
+  ],
+  "business": [
+    {
+      "title": "Netflix重金投入体育赛事，战略决策面临考验",
+      "summary": "Netflix正斥巨资购买体育赛事版权，希望以此吸引新订阅用户，但投资者对其更广泛的用户参与度趋势感到失望。流媒体服务商对体育内容的争夺日益激烈，但高昂的成本和不确定的回报使其成为一项高风险投资。此举将考验Netflix能否有效利用体育内容，实现用户增长和财务回报的战略目标。",
+      "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/netflix-is-paying-up-for-costly-sports-rights-is-the-company-making-the-right-bets-9ce54df7?mod=mw_rss_topstories"
@@ -172,57 +216,44 @@
       ]
     },
     {
-      "title": "波音公司获FAA信任，重获部分飞机适航证书签发权",
-      "summary": "美国联邦航空管理局（FAA）决定再次授权波音公司自行签发部分737 Max和787机型的适航证书。这一举动被视为FAA对波音公司在改进生产质量控制和安全流程方面取得进展的信心投票，有望帮助波音加速飞机交付，缓解生产瓶颈，并提振投资者对公司运营恢复的信心。",
+      "title": "Netflix订阅费用上涨引发监管呼吁，消费者权益受关注",
+      "summary": "过去一年多时间内，Netflix的月度订阅费用上涨了29%，引发了对监管干预的呼吁。尽管Netflix仍是华尔街的宠儿，但消费者对其定价策略的不满日益增加。这种定价行为不仅影响了消费者开支，也可能促使政府监管机构介入，审查流媒体行业的垄断或不公平定价行为。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html"
-        }
-      ]
-    }
-  ],
-  "a_stocks": [],
-  "business": [
-    {
-      "title": "中国汽车制造商加速进军英国市场，全球竞争格局生变",
-      "summary": "随着中国国内新车市场增速放缓，中国汽车制造商正积极扩大海外市场份额，尤其在英国市场表现出强劲增长势头。这一趋势反映了中国汽车产业在全球电动汽车转型浪潮中的崛起，以及其在全球市场寻求竞争优势的战略。对传统汽车巨头构成挑战，并影响国际贸易关系。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/17/chinese-automakers-uk.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "英国政府国有化英国钢铁引中国反弹，凸显战略产业保护主义",
-      "summary": "英国政府决定将英国钢铁公司国有化，理由是为保障“重要的国家能力”，此举引发了中国方面的强烈反对。这一事件凸显了各国在保护战略性支柱产业方面的日益增长的民族主义倾向和贸易保护主义。它也揭示了地缘政治因素对国际商业和投资流动产生的影响。",
+      "title": "彭塔贡太空发展局进展缓慢，国防太空项目面临挑战",
+      "summary": "尽管面临紧迫的威胁，美国国防部的太空发展局（SDA）的进展速度并未达到预期。SDA旨在加速部署军事卫星以应对潜在冲突，但目前的缓慢速度可能影响其在快速变化的太空安全格局中的应对能力。这凸显了政府大型科技项目在效率和执行力方面的挑战，也对未来国防太空战略的有效性提出疑问。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "科技赋能休闲娱乐：Poolhouse融资5500万美元",
-      "summary": "休闲娱乐初创公司Poolhouse获得5500万美元融资，该公司由Topgolf创始人创立，通过技术追踪玩家得分。此轮融资显示了资本市场对传统休闲娱乐与科技结合模式的兴趣，以及消费体验升级的趋势，预示着“科技+体验”商业模式在未来消费者服务领域的拓展潜力。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/17/business/dealbook/poolhouse-fundraise-topgolf.html"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "自动驾驶普及面临法律界阻力，技术落地挑战重重",
-      "summary": "尽管Waymo与瑞士再保险公司联合分析数据表明，在特定操作领域内，无人驾驶汽车的安全性已显著高于人类驾驶，但美国诉讼律师团体仍在积极游说反对自动驾驶技术的推广。这揭示了新兴颠覆性技术在推广过程中，除了技术成熟度，还需克服强大的既得利益群体和传统监管框架带来的阻力。",
+      "title": "世界杯决赛推动预测市场创纪录，数十亿美元押注引关注",
+      "summary": "世界杯决赛期间，Kalshi和Polymarket等预测市场平台吸引了数十亿美元的押注，创下用户新高，可能成为历史上最大的赌博事件之一。这一现象凸显了预测市场日益增长的影响力，以及其作为新型投资和娱乐形式的潜力。然而，这也可能引发对监管、合法性和市场操纵的关注，值得投资者密切留意其发展和潜在风险。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/trial-lawyers-lobby-against-autonomous-vehicles.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/18/business/world-cup-kalshi-polymarket.html"
+        }
+      ]
+    },
+    {
+      "title": "LG显示器通过Windows更新静默安装软件，用户隐私引担忧",
+      "summary": "报告指出，LG显示器在未经用户同意的情况下，通过Windows Update静默安装软件。这种行为引发了用户对隐私、数据安全和软件伦理的广泛担忧。此类事件可能促使操作系统提供商和硬件制造商加强对静默安装的限制，并引起监管机构对用户同意权和数据保护的关注，对科技公司的声誉和市场行为产生影响。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent"
         }
       ]
     }
