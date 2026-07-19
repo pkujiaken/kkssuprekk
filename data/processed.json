@@ -1,95 +1,8 @@
 {
   "top5": [
     {
-      "title": "科技与AI支出担忧引发美股下跌，中美AI竞争加剧",
-      "summary": "投资者对科技股和人工智能相关支出前景感到不安，导致美股下挫。市场担忧中国在全球人工智能竞赛中的竞争日益激烈，这可能影响美国科技公司的长期增长潜力。此趋势反映了当前市场对AI投资泡沫化和地缘政治风险的警惕，对科技板块的估值带来压力。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html"
-        }
-      ]
-    },
-    {
-      "title": "美国新对俄制裁法案引担忧，美元主导地位或受侵蚀",
-      "summary": "美国特朗普政府提出的新对俄制裁法案在扩大制裁范围的同时，也引发了市场对美元在全球储备货币地位可能被削弱的担忧。由于一些国家正寻求规避美国制裁的方法，这可能促使它们探索替代支付体系，长期来看或侵蚀美元的霸权地位，对全球金融稳定和美国经济产生深远影响。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html"
-        }
-      ]
-    },
-    {
-      "title": "人工智能取得重大突破：GPT-5.6解决凸优化三十年难题",
-      "summary": "OpenAI的GPT-5.6在凸优化领域取得突破，通过特定提示成功弥补了长达30年的理论空白。这一进展标志着大型语言模型在解决复杂数学和计算机科学问题方面的强大能力，远超预期。它不仅可能加速AI在科学研究和工程领域的应用，也预示着AI技术在解决现实世界挑战方面具备巨大潜力，对多个行业产生颠覆性影响。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"
-        }
-      ]
-    },
-    {
-      "title": "FAA恢复波音737 Max和787适航证书签发权，信任投票提振市场",
-      "summary": "美国联邦航空管理局（FAA）恢复了波音公司自行签发737 Max和787机型适航证书的权力，这被视为美国政府对波音安全和质量体系的重大信任投票。此前，波音因安全问题受到严格审查。此举有望提振波音的生产和交付效率，对其股价和航空供应链产生积极影响，表明监管机构对波音改进措施的认可。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html"
-        }
-      ]
-    },
-    {
-      "title": "中国电动汽车品牌小鹏汽车进军德国，全球化战略加速",
-      "summary": "中国电动汽车制造商小鹏汽车在德国汽车工业中心慕尼黑发布Mona L03紧凑型SUV，明确其拓展欧洲市场的雄心。此次发布会规模空前，不仅是为了推出新车型，更是向欧洲市场宣示小鹏扎根的决心。此举表明中国电动汽车企业正加速全球化布局，对欧洲本土汽车品牌构成直接竞争，可能改变全球汽车市场格局。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-evs/article/3361008/chinas-xpeng-plants-flag-germanys-auto-heartland-mona-l03-launch"
-        }
-      ]
-    }
-  ],
-  "people": [
-    {
-      "name": "Vlad Tenev (Robinhood CEO)",
-      "title": "罗宾汉CEO认为交易不等于赌博，致力于吸引新一代投资者",
-      "summary": "观点：Robinhood首席执行官Vlad Tenev在接受采访时表示，他认为在数字经纪平台上的交易行为不应被简单等同于赌博。他正致力于通过创新产品和服务，吸引新一代美国投资者。Tenev还提到平台对“特朗普账户”的立场，强调其作为言论自由平台的角色。他的观点试图重塑外界对年轻投资者交易行为的看法，并强调Robinhood在金融民主化中的作用。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/18/business/robinhoods-trump-accounts-trading-gambling.html"
-        }
-      ]
-    },
-    {
-      "name": "Tyler Cowen (经济学家)",
-      "title": "观点：自动驾驶安全数据显著，但律师团体仍积极游说反对",
-      "summary": "观点：经济学家Tyler Cowen援引Waymo和瑞士再保险的联合分析数据指出，在现有运营领域内，无人驾驶车辆的安全性远高于人类驾驶，每年可避免数万美国人的交通事故死亡。然而，美国的试驾律师团体正积极游说反对自动驾驶汽车，这或将阻碍这项能够显著提升公共安全的技术的普及。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/trial-lawyers-lobby-against-autonomous-vehicles.html"
-        }
-      ]
-    },
-    {
-      "name": "Lemuel Lee (法国巴黎银行香港财富管理主管)",
-      "title": "观点：欧洲高净值客户青睐香港家族办公室，中欧资本双向流动增强",
-      "summary": "原话：「欧洲与中国内地之间的资本双向流动正在增强。」法国巴黎银行香港财富管理主管Lemuel Lee指出，越来越多的欧洲富裕客户正积极考虑在香港设立家族办公室，以捕捉亚洲地区的投资机遇。同时，也有更多内地富豪寻求投资欧洲市场。这表明香港在全球财富管理格局中的枢纽地位日益巩固，促进了国际资本的交流。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/banking-finance/article/3361009/wealthy-european-clients-eye-hong-kong-family-offices-says-bnp-paribas"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "title": "华尔街利用AI应对美联储新沟通时代",
-      "summary": "随着美联储进入一个更少公开评论的时代，华尔街的投资公司正在积极适应。一些公司正转向人工智能工具，例如“WarshGPT”，以求在新沟通模式下获得信息优势。这一趋势反映了金融行业对美联储政策沟通变化的高度重视，以及在信息不对称环境下利用AI进行市场分析和预测的策略转变。",
+      "title": "华尔街利用AI模型解读美联储沟通变化",
+      "summary": "面对美联储官员公开评论减少的新趋势，华尔街投资机构正积极利用人工智能（如“WarshGPT”模型）来分析和预测央行政策信号，以寻求市场优势。这一转变标志着金融分析领域在信息获取和解读方式上的重大进化，对资本市场的信息效率和投资策略制定产生深远影响。",
       "sources": [
         {
           "name": "CNBC Finance",
@@ -98,20 +11,146 @@
       ]
     },
     {
-      "title": "美国小企业迎来繁荣期，创业活动激增",
-      "summary": "在疫情引发的裁员潮和远程工作推动下，加上人工智能的兴起，美国的小企业创业活动正经历数十年来最强劲的增长。去年，美国人提交了570万份新业务申请，预示着一股强大的创业复兴浪潮。这一现象对就业市场、创新活力和经济增长都具有积极意义，表明经济内生动力正在增强。",
+      "title": "阿里巴巴Qwen3.8大模型即将开源，加速AI生态发展",
+      "summary": "阿里巴巴旗下的大型语言模型Qwen3.8（通义千问）即将发布并开放模型权重。这一举动凸显了中国科技巨头在AI基础模型领域的持续投入，并积极拥抱开源策略。开源将极大降低开发者和企业使用先进AI技术的门槛，有望加速AI应用创新和技术普及，进一步推动全球AI生态系统的发展。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291"
+        }
+      ]
+    },
+    {
+      "title": "预测市场平台因世界杯用户激增，凸显新兴金融工具潜力",
+      "summary": "预测市场平台Kalshi和Polymarket受益于世界杯赛事，用户数量激增，其中Kalshi新增300万用户。这一现象表明，重大全球事件能够迅速推动新兴金融工具的普及和交易量，凸显了预测市场作为一种新颖的金融科技模式，在吸引用户和资本方面的巨大潜力和商业价值，值得投资者关注。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/18/business/world-cup-kalshi-polymarket.html"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html"
+        },
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html"
+        }
+      ]
+    },
+    {
+      "title": "中国政府接管中邦银行，深入推进金融风险化解",
+      "summary": "中国政府接管武汉中邦银行，预计将稀释其私人资本，以应对其面临的严重信用风险。此举是中国监管机构打破房地产与银行业之间“有利可图的联姻”的又一重要行动，旨在防范系统性金融风险，确保金融体系稳定。对投资者而言，这预示着中国金融去杠杆和地产风险化解将持续深化。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3360683/why-china-must-end-lucrative-marriage-between-property-and-banks"
+        }
+      ]
+    },
+    {
+      "title": "俄罗斯新制裁法案或加剧对美元霸权的担忧",
+      "summary": "美国通过一项新的对俄制裁法案，旨在扩大制裁范围，但此举可能在长期内加剧各方对美元作为全球储备货币地位的担忧。随着被制裁国家寻求美元替代方案，这种策略可能无意中加速去美元化进程，对全球金融体系和美国经济的稳定性构成潜在风险。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "name": "Tyler Cowen (经济学家)",
+      "title": "观点：建设豪宅对低收入人群有利",
+      "summary": "观点：经济学家Tyler Cowen引用《金融时报》文章指出，新建高端住宅实际上对低收入群体有利。高收入家庭迁入新房后，会释放出旧有房产，通过“过滤效应”增加市场供应，从而降低中低端住房的价格。这一观点挑战了传统上认为豪宅建设只会推高整体房价的看法，为住房政策提供了新视角。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-small-business-boom.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/building-luxury-homes-is-good-for-the-poor.html?utm_source=rss&utm_medium=rss&utm_campaign=building-luxury-homes-is-good-for-the-poor"
+        }
+      ]
+    },
+    {
+      "name": "Vlad Tenev (Robinhood CEO)",
+      "title": "Robinhood CEO谈吸引下一代投资者与交易本质",
+      "summary": "Robinhood首席执行官Vlad Tenev表示，公司正致力于吸引下一代美国投资者，包括那些开立“特朗普账户”的用户，并坚持认为交易不应被简单地等同于赌博。他的言论反映了零佣金券商在零售投资领域持续扩张的战略，以及对交易活动性质的重新定义，旨在提升年轻一代投资者的参与度。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/18/business/robinhoods-trump-accounts-trading-gambling.html"
+        }
+      ]
+    },
+    {
+      "name": "Shayne Coplan (Polymarket CEO) / Tarek Mansour (Kalshi CEO)",
+      "title": "预测市场两位创始人间的激烈竞争",
+      "summary": "Polymarket的Shayne Coplan和Kalshi的Tarek Mansour两位年轻亿万富翁，正围绕预测市场展开一场激烈的竞争。这场被称为“宿怨”的竞争，不仅是为了争夺市场主导地位，也凸显了预测市场作为新兴金融科技工具的快速发展及其蕴含的巨大商业机遇。他们的竞争将塑造这一独特市场的未来格局。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html"
+        }
+      ]
+    },
+    {
+      "name": "美国航空CEO (未具名)",
+      "title": "美国航空CEO阐述弥补利润缺口策略",
+      "summary": "美国航空首席执行官公布了一项旨在弥补超过30亿美元利润缺口的战略愿景。该计划包括提高航班可靠性、增加对高端座位和休息室的投资，并考虑向波音和空客下达新的宽体飞机订单。此举显示公司正通过提升服务质量和优化机队来增强竞争力，以应对行业挑战并改善财务表现。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "美国小企业创业潮：疫情与AI驱动的经济活力",
+      "summary": "美国正经历一场由疫情期间大规模裁员、远程工作普及以及人工智能兴起共同推动的创业复兴。去年，美国提交了570万份商业申请，标志着在经历了几十年低迷之后，初创企业活动正强劲增长。这一现象预示着美国经济的内在活力和结构性变化，对就业市场和创新生态系统具有长期影响。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-small-business-boom.html?utm_source=rss&utm_medium=rss&utm_campaign=the-small-business-boom"
+        }
+      ]
+    },
+    {
+      "title": "法国巴黎银行：欧洲富裕客户寻求在香港设立家族办公室",
+      "summary": "法国最大的银行法国巴黎银行透露，越来越多的欧洲高净值客户正考虑在香港设立家族办公室，以把握亚洲地区的增长机遇。同时，也有大量中国内地富裕客户寻求投资欧洲。这表明香港作为全球财富管理中心的吸引力正在增强，并凸显了中国与欧洲之间日益活跃的双向资本流动趋势。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3361009/wealthy-european-clients-eye-hong-kong-family-offices-says-bnp-paribas?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "英国新首相有望支持北海油气开发，能源政策或转向",
+      "summary": "即将上任的英国首相预计将在上任第一天宣布对北海油气产业提供新的支持。这一政策信号可能预示着英国能源战略的重大调整，旨在确保能源安全和促进经济增长，但也可能引发对气候变化承诺的质疑。此举将对英国能源行业的投资前景和国际能源市场产生影响。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "房东被禁止使用AI生成图片进行广告，AI内容监管引关注",
-      "summary": "一位市长宣布禁止房东在广告中秘密使用AI生成的房产图片，以防止误导性营销。此举凸显了AI内容在商业应用中面临的伦理和监管挑战，特别是关于真实性、透明度以及消费者保护的问题。随着AI生成内容日益普及，未来更多领域可能出台类似监管政策，以应对潜在的社会和经济影响。",
+      "title": "自动驾驶安全性超越人类驾驶，但面临游说阻力",
+      "summary": "Waymo和瑞士再保险的联合分析数据显示，自动驾驶车辆在当前运行领域内的安全性已显著高于人类驾驶，累计行驶里程已超过2.2亿英里。然而，自动驾驶技术仍面临来自试验律师的强大游说阻力。这突显了新兴科技在商业化落地过程中，除了技术本身，还需应对复杂的法律和政治环境挑战。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/trial-lawyers-lobby-against-autonomous-vehicles.html?utm_source=rss&utm_medium=rss&utm_campaign=trial-lawyers-lobby-against-autonomous-vehicles"
+        }
+      ]
+    },
+    {
+      "title": "纽约市或立法要求披露AI在房产列表中的使用",
+      "summary": "纽约市正考虑立法，要求房东和房地产经纪人在房产挂牌中披露人工智能的使用情况。此举反映了监管机构对AI技术在各行业应用透明度的日益关注，可能为其他城市和行业树立先例。对科技和房地产行业而言，这预示着未来AI应用将面临更严格的披露要求和潜在的合规挑战。",
       "sources": [
         {
           "name": "Hacker News Top",
@@ -120,140 +159,120 @@
       ]
     },
     {
-      "title": "AI在医疗保险预授权中的应用：是解决方案还是新问题？",
-      "summary": "美国政府正在试点一项利用人工智能进行医疗保险授权审批的计划。支持者认为AI可以提高效率、降低成本，但批评者担忧这可能导致自动化拒绝，损害患者权益。这项试点将是观察AI在医疗健康领域大规模应用效果的关键案例，其结果将影响AI在公共服务和监管领域的采纳与发展。",
+      "title": "美国政府试点医疗保险审批引入AI，效率与风险并存",
+      "summary": "美国政府正试点一项计划，在医疗保险的预授权（prior authorization）决策中使用人工智能。此举旨在提高医疗流程效率，但同时也引发了关于AI在高度监管行业中，是简化还是复杂化现有流程的讨论。这将是评估AI在医疗健康领域大规模应用潜力及其伴随风险的关键一步。",
       "sources": [
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/"
         }
       ]
-    },
-    {
-      "title": "谷歌支持的野火探测卫星发射，气候科技投资加速",
-      "summary": "在美国和加拿大烟雾弥漫之际，由谷歌支持的FireSat计划发射了新的卫星，旨在提高野火探测能力。这些卫星能够发现其他系统可能遗漏的初期火灾，对于早期预警和灾害管理至关重要。此举不仅展示了科技巨头在气候应对领域的投资，也反映了卫星技术在环境监测和公共安全应用中的巨大潜力。",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/"
-        }
-      ]
-    },
-    {
-      "title": "AI模型在NP-Hard问题上的表现引关注",
-      "summary": "最新研究比较了Fable 5和GPT-5.6 Sol在解决NP-Hard问题（一类计算难度极大的问题）上的表现。这项研究深入探讨了当前AI模型在复杂优化和决策问题上的能力边界，以及特定提示词（如“/goal”）对提升其解决问题效率的影响。这对于AI在物流、金融建模等需要解决复杂优化问题的领域有重要指导意义。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/"
-        }
-      ]
     }
   ],
   "us_stocks": [
     {
-      "title": "Netflix财报预测不及预期，股价下跌并减少用户数据更新频率",
-      "summary": "流媒体巨头Netflix的股价因其盈利预测低于预期而下跌，同时公司宣布将减少“我们观看了什么”报告的发布频率，该报告提供了用户参与度的数据。这一决策可能旨在减少市场对用户增长和参与度的过度关注，但市场对此反应负面，表明投资者对Netflix未来增长策略和透明度存在担忧。",
+      "title": "“七巨头”回暖或拯救股市，但市场集中度风险仍存",
+      "summary": "以苹果、亚马逊、英伟达为代表的“七巨头”科技股正悄然复苏，有望提振当前低迷的股市。尽管这些巨头仍是市场重要的驱动力，但过度依赖少数大型科技公司也加剧了市场集中度风险。投资者需权衡这些公司的增长潜力与整体市场结构的健康性。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html"
-        }
-      ]
-    }
-  ],
-  "a_stocks": [
-    {
-      "title": "香港二手楼市上半年强劲后，下半年或面临转折",
-      "summary": "经过上半年的大幅上涨后，香港二手住宅市场预计在下半年迎来转折点。多个本地地产代理机构指出，北京对资本外流的打击以及香港股市的震荡是导致市场情绪转变的主要因素。数据显示，上半年二手住宅交易量和总值均录得显著增长，但下半年市场面临的宏观经济和政策不确定性将增加。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/property/hong-kong-china/article/3360966/hong-kongs-secondary-property-market-braces-shift-after-strong-first-half"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "旅游吸引力助力澳洲吸引内地及香港购房者",
-      "summary": "澳大利亚的旅游吸引力及其房地产价格修正，正进一步增强其对中国内地和香港购房者的吸引力。除了长期以来的教育优势，澳大利亚轻松的生活方式和主要城市房价的温和调整，使其作为投资目的地的吸引力日益突出。这预示着中国高净值人群海外资产配置将继续偏向发达国家，对澳大利亚房地产市场形成支撑。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/article/3360988/tourism-appeal-adds-australias-edge-drawing-mainland-chinese-hong-kong-homebuyers"
-        }
-      ]
-    },
-    {
-      "title": "香港新鸿基地产新盘热销，楼市情绪回暖",
-      "summary": "香港最大开发商新鸿基地产在新界元朗推出的Garden Regency项目首批单位全部售罄，共138套。这标志着新鸿基地产在推出荃湾Lime Spark项目两个月后重返市场，并取得良好销售业绩。此次热销反映了香港部分地区购房需求依然旺盛，可能对近期低迷的楼市情绪起到一定的提振作用。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/article/3361052/hong-kong-homebuyers-snap-138-garden-regency-flats-new-territories-project"
-        }
-      ]
-    },
-    {
-      "title": "中国瑜伽服饰市场竞争加剧，消费品味转变致增长放缓",
-      "summary": "受国内消费疲软及中产阶级消费者活动多元化影响，中国瑜伽服饰市场正面临激烈竞争和增长放缓的局面。加拿大运动服饰品牌Lululemon在中国市场的同店销售增长已出现下滑。这表明，即使是国际知名品牌在中国市场也面临挑战，需要重新评估市场策略以适应消费者品味的变化和日益激烈的本土竞争。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/article/3360991/fierce-competition-and-shifting-tastes-squeeze-chinas-yoga-apparel-market"
-        }
-      ]
-    }
-  ],
-  "business": [
-    {
-      "title": "Netflix重金投入体育赛事，战略决策面临考验",
-      "summary": "Netflix正斥巨资购买体育赛事版权，希望以此吸引新订阅用户，但投资者对其更广泛的用户参与度趋势感到失望。流媒体服务商对体育内容的争夺日益激烈，但高昂的成本和不确定的回报使其成为一项高风险投资。此举将考验Netflix能否有效利用体育内容，实现用户增长和财务回报的战略目标。",
+      "title": "Netflix豪赌体育版权，投资者对其战略持谨慎态度",
+      "summary": "Netflix正斥巨资购买昂贵的体育赛事版权，以期吸引新用户并提振增长。然而，投资者对其更广泛的用户参与趋势仍持怀疑态度，担心高成本内容投入能否带来相应的回报。这一战略转变标志着流媒体行业竞争的白热化，以及Netflix试图突破现有增长瓶颈的努力。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/netflix-is-paying-up-for-costly-sports-rights-is-the-company-making-the-right-bets-9ce54df7?mod=mw_rss_topstories"
         }
       ]
-    },
+    }
+  ],
+  "a_stocks": [
     {
-      "title": "Netflix订阅费用上涨引发监管呼吁，消费者权益受关注",
-      "summary": "过去一年多时间内，Netflix的月度订阅费用上涨了29%，引发了对监管干预的呼吁。尽管Netflix仍是华尔街的宠儿，但消费者对其定价策略的不满日益增加。这种定价行为不仅影响了消费者开支，也可能促使政府监管机构介入，审查流媒体行业的垄断或不公平定价行为。",
+      "title": "香港二手楼市预计下半年将迎转折，受内地资本外流影响",
+      "summary": "香港二手住宅市场在经历上半年强劲表现后，预计下半年将迎来转折点。分析指出，北京对资本外流的打击对港股市场造成冲击，进而可能影响香港楼市。这反映了内地政策对香港金融和房地产市场的直接传导效应，对香港投资者而言，需关注政策变化带来的市场不确定性。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/property/hong-kong-china/article/3360966/hong-kongs-secondary-property-market-braces-shift-after-strong-first-half?utm_source=rss_feed"
         }
       ]
     },
     {
-      "title": "彭塔贡太空发展局进展缓慢，国防太空项目面临挑战",
-      "summary": "尽管面临紧迫的威胁，美国国防部的太空发展局（SDA）的进展速度并未达到预期。SDA旨在加速部署军事卫星以应对潜在冲突，但目前的缓慢速度可能影响其在快速变化的太空安全格局中的应对能力。这凸显了政府大型科技项目在效率和执行力方面的挑战，也对未来国防太空战略的有效性提出疑问。",
+      "title": "马斯克儿子带火虎头包，凸显中国文化遗产电商市场崛起",
+      "summary": "埃隆·马斯克的儿子佩戴中国传统虎头包走红网络，意外地为中国价值148亿美元的非物质文化遗产电商市场带来关注。这一现象表明，传统文化元素与现代消费潮流的结合正日益成为中国消费市场的新增长点。对投资者而言，这揭示了文化创意和国潮消费的巨大潜力。",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/article/3361104/musk-sons-viral-tiger-head-bag-shines-light-chinas-us148b-heritage-e-commerce?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "中国瑜伽服市场竞争激烈，Lululemon等品牌增长承压",
+      "summary": "中国瑜伽服市场正面临激烈的竞争和增长放缓的局面。加拿大运动服品牌Lululemon等知名品牌在华销售面临压力，其同店销售增长出现下滑。这反映出中国中产阶级消费品味日益多元化以及国内消费整体放缓的趋势，对相关零售品牌的市场策略和盈利能力构成挑战。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/article/3360991/fierce-competition-and-shifting-tastes-squeeze-chinas-yoga-apparel-market?utm_source=rss_feed"
+        }
+      ]
+    }
+  ],
+  "business": [
+    {
+      "title": "中国敬业集团就英国钢铁国有化寻求赔偿",
+      "summary": "中国敬业集团表示将通过“法律途径追究到底”，就英国政府将英国钢铁公司国有化一事寻求赔偿。此举可能引发一场重要的国际商业纠纷，凸显了中国企业在海外投资时所面临的政治风险和政府干预挑战，对跨国并购和主权风险的评估具有重要参考意义。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Adidas寄望世界杯推动美国市场销售增长",
+      "summary": "随着世界杯赛事临近，阿迪达斯首席执行官Bjorn Gulden表示，希望这一全球盛事能显著提振其在美国市场的销售额。几乎所有在赛场上出现的产品都将带有阿迪达斯的标志，公司期望借此实现市场扩张的战略目标。这体现了体育营销在全球消费品行业中的巨大影响力。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/18/business/adidas-world-cup-bjorn-gulden.html"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "世界杯决赛推动预测市场创纪录，数十亿美元押注引关注",
-      "summary": "世界杯决赛期间，Kalshi和Polymarket等预测市场平台吸引了数十亿美元的押注，创下用户新高，可能成为历史上最大的赌博事件之一。这一现象凸显了预测市场日益增长的影响力，以及其作为新型投资和娱乐形式的潜力。然而，这也可能引发对监管、合法性和市场操纵的关注，值得投资者密切留意其发展和潜在风险。",
+      "title": "经济学研究：建设豪宅通过“过滤效应”惠及低收入群体",
+      "summary": "一项经济学研究（被Tyler Cowen引用）指出，建设豪华住宅对低收入人群有积极影响。随着高收入家庭迁入新房，他们腾出的旧房产进入市场，通过“过滤效应”增加了整体住房供应，从而可能降低中低端住房的价格。这一观点挑战了关于住房政策的常见假设，值得政策制定者和投资者关注。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/18/business/world-cup-kalshi-polymarket.html"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/building-luxury-homes-is-good-for-the-poor.html?utm_source=rss&utm_medium=rss&utm_campaign=building-luxury-homes-is-good-for-the-poor"
         }
       ]
     },
     {
-      "title": "LG显示器通过Windows更新静默安装软件，用户隐私引担忧",
-      "summary": "报告指出，LG显示器在未经用户同意的情况下，通过Windows Update静默安装软件。这种行为引发了用户对隐私、数据安全和软件伦理的广泛担忧。此类事件可能促使操作系统提供商和硬件制造商加强对静默安装的限制，并引起监管机构对用户同意权和数据保护的关注，对科技公司的声誉和市场行为产生影响。",
+      "title": "AI监管前瞻：纽约市考虑要求披露AI在房产列表中的使用",
+      "summary": "纽约市或将成为首批要求房东和房地产经纪人披露在房产列表中使用AI技术的城市之一。这一举措预示着AI应用在各个行业将面临日益严格的透明度要求和潜在监管。对于关注AI商业化及合规风险的投资者，这是一个值得关注的早期监管趋势信号。",
       "sources": [
         {
           "name": "Hacker News Top",
-          "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent"
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"
+        }
+      ]
+    },
+    {
+      "title": "AI在医疗保险审批中的应用：政府试点引发效率与伦理争议",
+      "summary": "美国政府正在试点一项计划，利用人工智能辅助医疗保险的预授权决策。虽然旨在提高效率，但此举也引发了关于AI在医疗健康这种高度敏感和监管严格的行业中，可能带来的伦理、公平性及实际操作复杂性的讨论。这代表了AI应用深入核心公共服务的关键一步，需警惕其潜在影响。",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/"
         }
       ]
     }
