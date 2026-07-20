@@ -1,18 +1,149 @@
 {
   "top5": [
     {
-      "title": "华尔街利用AI模型解读美联储沟通变化",
-      "summary": "面对美联储官员公开评论减少的新趋势，华尔街投资机构正积极利用人工智能（如“WarshGPT”模型）来分析和预测央行政策信号，以寻求市场优势。这一转变标志着金融分析领域在信息获取和解读方式上的重大进化，对资本市场的信息效率和投资策略制定产生深远影响。",
+      "title": "中东局势升级推动油价突破90美元，加剧全球经济不确定性",
+      "summary": "美国与伊朗冲突加剧，导致全球基准布伦特原油价格在周日交易中上涨超过3%，突破90美元/桶。这一地缘政治风险的升级直接冲击能源市场，可能推高全球通胀，并对美股期货等风险资产造成压力。油价的快速上涨预示着宏观经济面临新的不确定性，投资者需密切关注后续局势发展及其对全球供应链和企业成本的影响。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "阿里巴巴Qwen3.8大模型即将开源，加速AI生态发展",
-      "summary": "阿里巴巴旗下的大型语言模型Qwen3.8（通义千问）即将发布并开放模型权重。这一举动凸显了中国科技巨头在AI基础模型领域的持续投入，并积极拥抱开源策略。开源将极大降低开发者和企业使用先进AI技术的门槛，有望加速AI应用创新和技术普及，进一步推动全球AI生态系统的发展。",
+      "title": "中国AI新星月之暗面Kimi K3需求激增，暂停新用户订阅",
+      "summary": "中国人工智能初创公司月之暗面（Moonshot AI）宣布，由于其Kimi K3大模型需求异常旺盛，已暂停新用户订阅服务。此举凸显了中国AI大模型市场的爆发性增长和算力资源的稀缺性。Kimi K3的受欢迎程度，不仅表明了市场对高质量AI产品的强烈需求，也预示着AI基础设施建设和芯片供应将成为未来竞争的关键瓶颈，对中国AI产业的发展具有重要的风向标意义。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130"
+        }
+      ]
+    },
+    {
+      "title": "英国钢铁公司国有化引发中国投资者索赔，警示海外投资政策风险",
+      "summary": "在英国政府将英国钢铁公司国有化后，一家中国企业声明将采取法律行动，寻求补偿。这是英国唯一一家生产原生钢材的工厂，其国有化引发了对政府干预关键产业的担忧。此事件不仅对英国工业政策和财政造成影响，也向在全球进行战略性投资的中国企业发出了警示信号，强调了海外投资中可能面临的政策风险和不确定性，对国际投资信心构成考验。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c5y66y40kgpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "张懿宸：中国资本市场正从IPO驱动转向并购基金主导",
+      "summary": "中信资本控股董事长兼CEO张懿宸表示，中国资本市场周期可能正在从首次公开募股（IPO）驱动向并购基金主导的模式转变。这一观点预示着中国资本市场募投管退生态的结构性变化，对私募股权（PE）/风险投资（VC）行业、企业融资策略以及退出渠道产生深远影响。高净值投资者应重新评估在华投资策略，关注并购活动带来的新机遇。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-business/article/3360938/why-buyout-funds-not-ipos-may-define-chinas-next-capital-market-cycle-zhang-yichen?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "研究显示AI建议降低人类决策准确性但增强信心",
+      "summary": "一项研究发现，采纳人工智能（AI）建议虽然可能使人类的决策准确度下降三倍，但却能使决策者信心倍增两倍。这一发现揭示了AI应用中的“双刃剑”效应，即AI可能在不经意间削弱人类的批判性思维能力，同时带来虚假的确定感。这对于企业管理、风险评估以及个人决策模式带来了深远影响，提醒科技和商业领域在整合AI时需更加谨慎，平衡效率与决策质量。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "name": "Tyler Cowen (经济学家)",
+      "title": "观点：高档住宅建设对低收入人群有益",
+      "summary": "观点：著名经济学家Tyler Cowen在他的博客中引用了英国《金融时报》的一篇文章观点，即建造高档住宅并非只服务富人，反而能通过“过滤效应”让出更多旧有住房，从而增加整体市场供应，降低中低端住房价格，最终惠及低收入人群。这一观点挑战了常见的住房政策认知，强调了供给侧改革的重要性。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/building-luxury-homes-is-good-for-the-poor.html?utm_source=rss&utm_medium=rss&utm_campaign=building-luxury-homes-is-good-for-the-poor"
+        }
+      ]
+    },
+    {
+      "name": "Robert Isom (美国航空CEO)",
+      "title": "愿景：通过战略调整弥补30亿美元利润差距",
+      "summary": "观点：美国航空CEO Robert Isom阐述了公司旨在弥补30多亿美元利润差距的愿景。他计划通过提高运营可靠性、投资更多高端座位和休息室，并考虑向波音和空客订购新的宽体飞机等策略来实现目标。这反映了公司在竞争激烈的航空市场中提升服务质量、优化成本结构和扩张机队的关键战略方向，对投资者评估航空业公司的长期竞争力具有重要参考价值。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html"
+        }
+      ]
+    },
+    {
+      "name": "Shayne Coplan (Polymarket CEO) / Tarek Mansour (Kalshi CEO)",
+      "title": "观点：两大预测市场巨头争夺主导权，世界杯助推用户增长",
+      "summary": "观点：Polymarket的Shayne Coplan和Kalshi的Tarek Mansour这两位年轻亿万富翁，正致力于主导新兴的预测市场。随着世界杯赛事推动用户记录激增，两大平台间的激烈竞争愈演愈烈。他们通过在世界杯期间推出广告、品牌合作等方式，成功吸引了数百万新用户。这预示着预测市场作为一种新型投资和信息聚合工具，正快速走向主流，并成为金融科技领域的重要战场。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "泰晤士水务债权人准备法律挑战，应对政府可能将其国有化的举动",
+      "summary": "据BBC报道，泰晤士水务（Thames Water）的债权人正在准备法律挑战，以应对英国政府可能将其国有化的举动。债权人表示，如果国有化发生，他们将寻求全额偿还数十亿英镑的未偿债务。这表明政府对关键公共服务部门的干预面临高昂成本和法律风险，对英国基建领域私有化企业的投资前景和政府未来财政决策产生重大影响。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "中国正努力切断房地产与银行之间“利润丰厚”的联系",
+      "summary": "为了防范金融风险，中国政府正积极推进改革，旨在切断房地产行业与银行之间过去“利润丰厚”的紧密联系。近期武汉一家私人贷款机构被政府接管，就是这一监管行动的体现。此举旨在解决长期以来存在的系统性风险，对中国银行体系的稳健性、房地产市场的未来发展模式以及整体经济稳定具有深远影响，尤其值得关注其对地方金融机构和房地产开发商的冲击。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3360683/why-china-must-end-lucrative-marriage-between-property-and-banks?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "香港股市受北京资本外流打击，下半年楼市面临转折",
+      "summary": "上半年表现强劲后，香港二手住宅市场预计在下半年迎来转折点。分析指出，北京对资本外流的打击措施对香港股市造成冲击，也成为影响楼市的关键因素。据中原地产数据，尽管上半年交易额可观，但资本流向的变化正逐步传导至房地产市场，预示着香港资产价格可能面临调整，值得投资者密切关注区域资金动态和政策影响。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/property/hong-kong-china/article/3360966/hong-kongs-secondary-property-market-braces-shift-after-strong-first-half?utm_source=rss_feed"
+        }
+      ]
+    }
+  ],
+  "tech": [
+    {
+      "title": "Claude Code已转向使用基于Rust编写的Bun运行时环境",
+      "summary": "据报道，Anthropic的Claude Code大模型已将底层运行时环境从Node.js替换为基于Rust编写的Bun。这一技术栈的重大转变，旨在提升代码执行效率、降低延迟，并优化资源消耗。此举代表了AI代码开发和部署领域对高性能、高效率基础设施的追求，对关注AI基础设施和开发工具的投资者来说，指明了未来技术演进的方向和潜在投资热点。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/"
+        }
+      ]
+    },
+    {
+      "title": "阿里巴巴发布Qwen 3.8大模型，推动中国AI生态发展",
+      "summary": "阿里巴巴旗下通义千问（Qwen）团队发布了Qwen 3.8大模型，并更新了其定价方案。此举标志着中国科技巨头在大模型领域的持续投入和技术迭代，旨在提升其在AI市场的竞争力。Qwen 3.8的推出，将进一步丰富中国AI生态，为开发者和企业提供更多选择，同时也预示着中国AI市场竞争将持续激烈，技术创新和商业化落地成为关键。",
       "sources": [
         {
           "name": "Hacker News Top",
@@ -21,158 +152,30 @@
       ]
     },
     {
-      "title": "预测市场平台因世界杯用户激增，凸显新兴金融工具潜力",
-      "summary": "预测市场平台Kalshi和Polymarket受益于世界杯赛事，用户数量激增，其中Kalshi新增300万用户。这一现象表明，重大全球事件能够迅速推动新兴金融工具的普及和交易量，凸显了预测市场作为一种新颖的金融科技模式，在吸引用户和资本方面的巨大潜力和商业价值，值得投资者关注。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/18/business/world-cup-kalshi-polymarket.html"
-        },
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html"
-        },
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html"
-        }
-      ]
-    },
-    {
-      "title": "中国政府接管中邦银行，深入推进金融风险化解",
-      "summary": "中国政府接管武汉中邦银行，预计将稀释其私人资本，以应对其面临的严重信用风险。此举是中国监管机构打破房地产与银行业之间“有利可图的联姻”的又一重要行动，旨在防范系统性金融风险，确保金融体系稳定。对投资者而言，这预示着中国金融去杠杆和地产风险化解将持续深化。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3360683/why-china-must-end-lucrative-marriage-between-property-and-banks"
-        }
-      ]
-    },
-    {
-      "title": "俄罗斯新制裁法案或加剧对美元霸权的担忧",
-      "summary": "美国通过一项新的对俄制裁法案，旨在扩大制裁范围，但此举可能在长期内加剧各方对美元作为全球储备货币地位的担忧。随着被制裁国家寻求美元替代方案，这种策略可能无意中加速去美元化进程，对全球金融体系和美国经济的稳定性构成潜在风险。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html"
-        }
-      ]
-    }
-  ],
-  "people": [
-    {
-      "name": "Tyler Cowen (经济学家)",
-      "title": "观点：建设豪宅对低收入人群有利",
-      "summary": "观点：经济学家Tyler Cowen引用《金融时报》文章指出，新建高端住宅实际上对低收入群体有利。高收入家庭迁入新房后，会释放出旧有房产，通过“过滤效应”增加市场供应，从而降低中低端住房的价格。这一观点挑战了传统上认为豪宅建设只会推高整体房价的看法，为住房政策提供了新视角。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/building-luxury-homes-is-good-for-the-poor.html?utm_source=rss&utm_medium=rss&utm_campaign=building-luxury-homes-is-good-for-the-poor"
-        }
-      ]
-    },
-    {
-      "name": "Vlad Tenev (Robinhood CEO)",
-      "title": "Robinhood CEO谈吸引下一代投资者与交易本质",
-      "summary": "Robinhood首席执行官Vlad Tenev表示，公司正致力于吸引下一代美国投资者，包括那些开立“特朗普账户”的用户，并坚持认为交易不应被简单地等同于赌博。他的言论反映了零佣金券商在零售投资领域持续扩张的战略，以及对交易活动性质的重新定义，旨在提升年轻一代投资者的参与度。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/18/business/robinhoods-trump-accounts-trading-gambling.html"
-        }
-      ]
-    },
-    {
-      "name": "Shayne Coplan (Polymarket CEO) / Tarek Mansour (Kalshi CEO)",
-      "title": "预测市场两位创始人间的激烈竞争",
-      "summary": "Polymarket的Shayne Coplan和Kalshi的Tarek Mansour两位年轻亿万富翁，正围绕预测市场展开一场激烈的竞争。这场被称为“宿怨”的竞争，不仅是为了争夺市场主导地位，也凸显了预测市场作为新兴金融科技工具的快速发展及其蕴含的巨大商业机遇。他们的竞争将塑造这一独特市场的未来格局。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html"
-        }
-      ]
-    },
-    {
-      "name": "美国航空CEO (未具名)",
-      "title": "美国航空CEO阐述弥补利润缺口策略",
-      "summary": "美国航空首席执行官公布了一项旨在弥补超过30亿美元利润缺口的战略愿景。该计划包括提高航班可靠性、增加对高端座位和休息室的投资，并考虑向波音和空客下达新的宽体飞机订单。此举显示公司正通过提升服务质量和优化机队来增强竞争力，以应对行业挑战并改善财务表现。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "title": "美国小企业创业潮：疫情与AI驱动的经济活力",
-      "summary": "美国正经历一场由疫情期间大规模裁员、远程工作普及以及人工智能兴起共同推动的创业复兴。去年，美国提交了570万份商业申请，标志着在经历了几十年低迷之后，初创企业活动正强劲增长。这一现象预示着美国经济的内在活力和结构性变化，对就业市场和创新生态系统具有长期影响。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-small-business-boom.html?utm_source=rss&utm_medium=rss&utm_campaign=the-small-business-boom"
-        }
-      ]
-    },
-    {
-      "title": "法国巴黎银行：欧洲富裕客户寻求在香港设立家族办公室",
-      "summary": "法国最大的银行法国巴黎银行透露，越来越多的欧洲高净值客户正考虑在香港设立家族办公室，以把握亚洲地区的增长机遇。同时，也有大量中国内地富裕客户寻求投资欧洲。这表明香港作为全球财富管理中心的吸引力正在增强，并凸显了中国与欧洲之间日益活跃的双向资本流动趋势。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/banking-finance/article/3361009/wealthy-european-clients-eye-hong-kong-family-offices-says-bnp-paribas?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "英国新首相有望支持北海油气开发，能源政策或转向",
-      "summary": "即将上任的英国首相预计将在上任第一天宣布对北海油气产业提供新的支持。这一政策信号可能预示着英国能源战略的重大调整，旨在确保能源安全和促进经济增长，但也可能引发对气候变化承诺的质疑。此举将对英国能源行业的投资前景和国际能源市场产生影响。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    }
-  ],
-  "tech": [
-    {
-      "title": "自动驾驶安全性超越人类驾驶，但面临游说阻力",
-      "summary": "Waymo和瑞士再保险的联合分析数据显示，自动驾驶车辆在当前运行领域内的安全性已显著高于人类驾驶，累计行驶里程已超过2.2亿英里。然而，自动驾驶技术仍面临来自试验律师的强大游说阻力。这突显了新兴科技在商业化落地过程中，除了技术本身，还需应对复杂的法律和政治环境挑战。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/trial-lawyers-lobby-against-autonomous-vehicles.html?utm_source=rss&utm_medium=rss&utm_campaign=trial-lawyers-lobby-against-autonomous-vehicles"
-        }
-      ]
-    },
-    {
-      "title": "纽约市或立法要求披露AI在房产列表中的使用",
-      "summary": "纽约市正考虑立法，要求房东和房地产经纪人在房产挂牌中披露人工智能的使用情况。此举反映了监管机构对AI技术在各行业应用透明度的日益关注，可能为其他城市和行业树立先例。对科技和房地产行业而言，这预示着未来AI应用将面临更严格的披露要求和潜在的合规挑战。",
+      "title": "OpenAI下调Codex模型上下文大小，暗示模型优化与成本平衡",
+      "summary": "OpenAI已将旗下Codex模型的上下文大小从372k缩减至272k。这一调整可能反映了OpenAI在优化模型性能、控制运营成本和提升推理效率方面的考量。对于依赖Codex进行代码生成和智能辅助的开发者而言，这可能意味着在处理长文本或复杂任务时需要调整策略。此举也预示着AI模型在实用化过程中，需在性能与资源消耗间进行权衡，影响着AI应用场景的经济性和普及度。",
       "sources": [
         {
           "name": "Hacker News Top",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"
+          "url": "https://github.com/openai/codex/pull/33972/files"
         }
       ]
     },
     {
-      "title": "美国政府试点医疗保险审批引入AI，效率与风险并存",
-      "summary": "美国政府正试点一项计划，在医疗保险的预授权（prior authorization）决策中使用人工智能。此举旨在提高医疗流程效率，但同时也引发了关于AI在高度监管行业中，是简化还是复杂化现有流程的讨论。这将是评估AI在医疗健康领域大规模应用潜力及其伴随风险的关键一步。",
+      "title": "跨国品牌在中国市场加速拥抱AI和机器人技术",
+      "summary": "为适应中国消费者对成本日益敏感的市场环境，全球跨国公司正加速在中国部署人工智能（AI）和机器人技术。例如，欧莱雅已通过在苏州设立智能运营中心，扩大AI和自动化应用，以支持其日益增长的电商业务和运营需求。这一趋势反映了中国市场竞争的激烈程度，以及AI和自动化技术赋能传统消费品和零售行业，实现降本增效的关键战略转型。",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/companies/article/3360989/survive-chinas-cost-conscious-market-global-brands-embrace-ai-and-robots?utm_source=rss_feed"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "“七巨头”回暖或拯救股市，但市场集中度风险仍存",
-      "summary": "以苹果、亚马逊、英伟达为代表的“七巨头”科技股正悄然复苏，有望提振当前低迷的股市。尽管这些巨头仍是市场重要的驱动力，但过度依赖少数大型科技公司也加剧了市场集中度风险。投资者需权衡这些公司的增长潜力与整体市场结构的健康性。",
+      "title": "“壮丽七雄”科技巨头市场表现回暖，有望重振股市活力",
+      "summary": "美国“壮丽七雄”——苹果、亚马逊、英伟达等科技巨头的股价正悄然回暖，有望将沉寂的美股市场重新激活。这些大型科技股的强劲表现是美股整体走势的关键风向标。它们的复苏不仅能提振市场情绪，吸引资金回流，也对投资者的投资组合配置具有显著影响，尤其是在当前市场对经济增长前景仍存担忧的背景下。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -181,74 +184,98 @@
       ]
     },
     {
-      "title": "Netflix豪赌体育版权，投资者对其战略持谨慎态度",
-      "summary": "Netflix正斥巨资购买昂贵的体育赛事版权，以期吸引新用户并提振增长。然而，投资者对其更广泛的用户参与趋势仍持怀疑态度，担心高成本内容投入能否带来相应的回报。这一战略转变标志着流媒体行业竞争的白热化，以及Netflix试图突破现有增长瓶颈的努力。",
+      "title": "预测市场平台Kalshi因世界杯赛事新增300万用户",
+      "summary": "预测市场平台Kalshi宣布，受益于世界杯赛事的推动，公司新增了300万用户。该平台通过推出足球运动员特色广告和与赛事合作，成功吸引了大量新用户。这一增长不仅使Kalshi用户数量创下新高，也凸显了预测市场作为新兴金融科技领域，在重大全球事件驱动下爆发式增长的潜力。对投资者而言，这表明市场对新型事件驱动型交易工具的兴趣正在迅速增加。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/netflix-is-paying-up-for-costly-sports-rights-is-the-company-making-the-right-bets-9ce54df7?mod=mw_rss_topstories"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html"
+        },
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/19/business/world-cup-kalshi-polymarket.html"
+        }
+      ]
+    },
+    {
+      "title": "华尔街适应美联储新沟通时代，借AI寻求信息优势",
+      "summary": "随着美联储进入一个更少公开评论的新时代，华尔街投资公司正积极适应这种变化，并转向利用人工智能（AI）来寻求信息优势。一些公司正部署AI技术，以更好地解读美联储的沟通，预测政策走向。这一趋势反映出金融市场对信息获取和分析的极致追求，以及AI在复杂宏观经济决策分析中的应用潜力，可能改变未来投资策略和市场动态。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html"
         }
       ]
     }
   ],
   "a_stocks": [
     {
-      "title": "香港二手楼市预计下半年将迎转折，受内地资本外流影响",
-      "summary": "香港二手住宅市场在经历上半年强劲表现后，预计下半年将迎来转折点。分析指出，北京对资本外流的打击对港股市场造成冲击，进而可能影响香港楼市。这反映了内地政策对香港金融和房地产市场的直接传导效应，对香港投资者而言，需关注政策变化带来的市场不确定性。",
+      "title": "香港积金局敦促放宽ETF投资限制，提升480万成员选择权",
+      "summary": "香港上市公司商会正敦促香港强制性公积金（MPF）监管机构放宽规则，允许其480万成员更广泛地投资于香港上市的交易所交易基金（ETF）。商会主席表示，ETF能提供稳定的回报且管理费低廉。如果建议被采纳，将为香港退休金体系带来结构性改革，为投资者提供更灵活的资产配置选择，并可能增加港股ETF市场的流动性，对香港金融市场具有积极影响。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/property/hong-kong-china/article/3360966/hong-kongs-secondary-property-market-braces-shift-after-strong-first-half?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/banking-finance/article/3360992/rule-change-urged-hong-kong-pension-fund-allow-wider-etf-choice-48m-members?utm_source=rss_feed"
         }
       ]
     },
     {
-      "title": "马斯克儿子带火虎头包，凸显中国文化遗产电商市场崛起",
-      "summary": "埃隆·马斯克的儿子佩戴中国传统虎头包走红网络，意外地为中国价值148亿美元的非物质文化遗产电商市场带来关注。这一现象表明，传统文化元素与现代消费潮流的结合正日益成为中国消费市场的新增长点。对投资者而言，这揭示了文化创意和国潮消费的巨大潜力。",
+      "title": "法国巴黎银行：欧洲富裕客户正积极考虑在香港设立家族办公室",
+      "summary": "法国巴黎银行表示，越来越多的欧洲富裕客户正积极考虑在香港设立家族办公室，以把握亚洲地区的增长机遇。同时，香港财富管理部门负责人也指出，越来越多的内地富裕客户寻求在欧洲进行投资。这反映了香港作为全球财富管理中心的吸引力持续增强，尤其是在连接东西方资本双向流动方面的独特地位，对香港金融服务业和相关投资机会构成利好。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/article/3361104/musk-sons-viral-tiger-head-bag-shines-light-chinas-us148b-heritage-e-commerce?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/banking-finance/article/3361009/wealthy-european-clients-eye-hong-kong-family-offices-says-bnp-paribas?utm_source=rss_feed"
         }
       ]
     },
     {
-      "title": "中国瑜伽服市场竞争激烈，Lululemon等品牌增长承压",
-      "summary": "中国瑜伽服市场正面临激烈的竞争和增长放缓的局面。加拿大运动服品牌Lululemon等知名品牌在华销售面临压力，其同店销售增长出现下滑。这反映出中国中产阶级消费品味日益多元化以及国内消费整体放缓的趋势，对相关零售品牌的市场策略和盈利能力构成挑战。",
+      "title": "澳大利亚因旅游吸引力及房价调整，对中国内地和香港购房者更具吸引力",
+      "summary": "经纪人表示，澳大利亚的旅游吸引力及主要城市房价的调整，使其对中国内地和香港的购房者更具吸引力。尽管教育一直是中国买家的主要驱动力，但该国的旅游景点、休闲生活方式以及悉尼、墨尔本等地房价的适度调整，正在提升其作为重要投资目的地的吸引力。这揭示了跨境房地产投资的新趋势，教育和生活方式叠加，共同驱动着亚洲投资者对特定海外市场的需求。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/article/3360991/fierce-competition-and-shifting-tastes-squeeze-chinas-yoga-apparel-market?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/article/3360988/tourism-appeal-adds-australias-edge-drawing-mainland-chinese-hong-kong-homebuyers?utm_source=rss_feed"
         }
       ]
     }
   ],
   "business": [
     {
-      "title": "中国敬业集团就英国钢铁国有化寻求赔偿",
-      "summary": "中国敬业集团表示将通过“法律途径追究到底”，就英国政府将英国钢铁公司国有化一事寻求赔偿。此举可能引发一场重要的国际商业纠纷，凸显了中国企业在海外投资时所面临的政治风险和政府干预挑战，对跨国并购和主权风险的评估具有重要参考意义。",
+      "title": "印度首枚私营火箭成功入轨，标志新兴市场航天产业崛起",
+      "summary": "印度首枚由私营公司开发的火箭成功入轨，实现了戏剧性的首次发射。这一里程碑事件标志着新兴市场在航天领域的崛起，打破了传统航天大国的垄断。私营航天公司的成功，预示着太空经济在全球范围内的多元化发展，将促进商业太空旅行、卫星发射等相关产业链的投资机会，并可能加速全球太空探索的步伐。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/"
         }
       ]
     },
     {
-      "title": "Adidas寄望世界杯推动美国市场销售增长",
-      "summary": "随着世界杯赛事临近，阿迪达斯首席执行官Bjorn Gulden表示，希望这一全球盛事能显著提振其在美国市场的销售额。几乎所有在赛场上出现的产品都将带有阿迪达斯的标志，公司期望借此实现市场扩张的战略目标。这体现了体育营销在全球消费品行业中的巨大影响力。",
+      "title": "预测市场领域两大巨头Polymarket与Kalshi“硝烟弥漫”，争夺主导权",
+      "summary": "在预测市场这一新兴金融科技赛道中，两大巨头Polymarket和Kalshi之间的竞争正日趋激烈，双方都在积极争夺市场主导权。两位年轻亿万富翁Shayne Coplan（Polymarket创始人）和Tarek Mansour（Kalshi创始人）的“不良血缘”式竞争，反映出该市场巨大的潜力和快速增长。这种头部玩家间的激烈对抗，预示着该行业将迎来快速整合和创新，对未来金融科技格局有重要影响。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/18/business/adidas-world-cup-bjorn-gulden.html"
+          "url": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html"
+        }
+      ]
+    },
+    {
+      "title": "奢侈服务业兴起：富裕家庭为子女斥资25万美元聘请育儿团队",
+      "summary": "根据《华尔街日报》报道，超高净值家庭在育儿方面投入巨大，一些父母每年花费高达25万美元组建育儿团队，提供如如厕训练、婴儿厨师和自行车课程等奢侈服务。这一现象反映了服务业在高端细分市场的显著增长，以及财富集中背景下消费模式的演变。对于投资者而言，这揭示了奢侈品和服务领域新的增长点和商业模式，值得关注其市场潜力与可持续性。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-576"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "经济学研究：建设豪宅通过“过滤效应”惠及低收入群体",
-      "summary": "一项经济学研究（被Tyler Cowen引用）指出，建设豪华住宅对低收入人群有积极影响。随着高收入家庭迁入新房，他们腾出的旧房产进入市场，通过“过滤效应”增加了整体住房供应，从而可能降低中低端住房的价格。这一观点挑战了关于住房政策的常见假设，值得政策制定者和投资者关注。",
+      "title": "经济学家观点：建造高档住宅有利于低收入人群，通过“过滤效应”提升整体住房供应",
+      "summary": "Tej Parikh在《金融时报》撰文指出，高档住宅开发项目能解锁长期的住房链条。随着高收入家庭迁入新建单元，他们会释放出旧有房产，通过“过滤效应”增加中低端住房供应，从而降低价格。多项国际研究支持这一观点。这一机制挑战了普遍认知，揭示了住房市场供需的深层运作逻辑，对城市规划、房地产开发及解决住房负担能力问题具有重要参考价值。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -257,22 +284,22 @@
       ]
     },
     {
-      "title": "AI监管前瞻：纽约市考虑要求披露AI在房产列表中的使用",
-      "summary": "纽约市或将成为首批要求房东和房地产经纪人披露在房产列表中使用AI技术的城市之一。这一举措预示着AI应用在各个行业将面临日益严格的透明度要求和潜在监管。对于关注AI商业化及合规风险的投资者，这是一个值得关注的早期监管趋势信号。",
+      "title": "英国新首相Burnham有望支持北海油气产业",
+      "summary": "即将上任的英国首相Burnham预计将在就职第一天宣布对北海油气产业提供新的支持。这一政策倾向可能对英国的能源转型步伐和长期投资环境产生重要影响。在各国日益强调绿色能源和气候目标的背景下，新政府对传统化石燃料的支持，可能会引发争议，并影响投资者对英国能源部门未来方向的评估。",
       "sources": [
         {
-          "name": "Hacker News Top",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "AI在医疗保险审批中的应用：政府试点引发效率与伦理争议",
-      "summary": "美国政府正在试点一项计划，利用人工智能辅助医疗保险的预授权决策。虽然旨在提高效率，但此举也引发了关于AI在医疗健康这种高度敏感和监管严格的行业中，可能带来的伦理、公平性及实际操作复杂性的讨论。这代表了AI应用深入核心公共服务的关键一步，需警惕其潜在影响。",
+      "title": "加密货币市场的预测平台正成为史上最大规模的赌博事件",
+      "summary": "世界杯赛事推动预测市场平台Kalshi和Polymarket创下用户新高，创造了可能是有史以来最大规模的“赌博”事件。尽管这些平台在技术上提供的是事件合约交易，但其与传统赌博的界限日益模糊。这一现象揭示了另类资产和数字赌博行为的融合趋势，以及加密经济中新兴应用带来的巨大交易量和潜在的监管挑战，值得关注其长期合法性和市场风险。",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/19/business/world-cup-kalshi-polymarket.html"
         }
       ]
     }
