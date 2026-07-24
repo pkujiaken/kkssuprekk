@@ -1,6 +1,20 @@
 [
   {
     "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "Talk Therapy is Speech",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/07/talk-therapy-is-speech.html?utm_source=rss&utm_medium=rss&utm_campaign=talk-therapy-is-speech",
+    "summary": "<p>IJ: On Wednesday, the United States District Court for the District of Columbia struck down a D.C. law that barred therapists from other jurisdictions from doing online teletherapy visits with clients in D.C. The decision comes nearly six years after Virginia-based counselor Elizabeth Brokamp teamed up with the Institute for Justice (IJ) to file a lawsuit arguing the law violated the First Amendment. “This decision is [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/talk-therapy-is-speech.html\">Talk Therapy is Speech</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Fri, 24 Jul 2026 11:17:27 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "European Fact of the Day, Again",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/07/european-fact-of-the-day-again.html?utm_source=rss&utm_medium=rss&utm_campaign=european-fact-of-the-day-again",
+    "summary": "<p>This year, like last year, &#8220;the European Union will again make more money from fining US tech companies Than from the total tax income from Europe&#8217;s own public tech companies!&#8221;</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/european-fact-of-the-day-again.html\">European Fact of the Day, Again</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Fri, 24 Jul 2026 11:15:10 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
     "title": "The optimal Bayesian update?",
     "link": "https://marginalrevolution.com/marginalrevolution/2026/07/the-optimal-bayesian-update.html?utm_source=rss&utm_medium=rss&utm_campaign=the-optimal-bayesian-update",
     "summary": "<p>I see at least three updates one might make from the recent OAI/Hugging Face hacking incident: 1. &#8220;This happened sooner than I expected, and the story is more dramatic than I expected,&#8221; therefore I am more worried than before. 2. &#8220;This happened, and the inferior Chinese cyber-defense seems to have performed just fine,&#8221; therefore I [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/the-optimal-bayesian-update.html\">The optimal Bayesian update?</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
@@ -57,101 +71,94 @@
   },
   {
     "source": "NYT Business",
-    "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
+    "title": "China Has Come Through Trump’s Trade War in a Good Position",
+    "link": "https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html",
+    "summary": "Despite threats from President Trump, the overall average weighted tariff on Chinese goods remained about the same, and is now lower than countries like Brazil and Canada.",
+    "published": "Fri, 24 Jul 2026 14:05:36 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Crucial Interest Rate Jumps to Highest Level of Trump’s Second Term",
+    "link": "https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html",
+    "summary": "The yield on the 10-year Treasury bond has risen steadily this year, as the Iran war rages, government spending worries intensify and artificial intelligence spending boosts growth.",
+    "published": "Fri, 24 Jul 2026 14:14:03 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Clock Ticks Down to Europe’s Ban on Russian Gas Tankers",
+    "link": "https://www.nytimes.com/2026/07/24/business/russian-lng-european-union.html",
+    "summary": "Europeans say they fear a rising dependence on American energy even with a Jan. 1 deadline to end liquefied natural gas imports from Russia.",
+    "published": "Fri, 24 Jul 2026 14:08:56 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "China Wields Its Rare Earth Leverage Over Europe With New Export Controls",
+    "link": "https://www.nytimes.com/2026/07/24/business/china-europe-rare-earths.html",
+    "summary": "Beijing banned shipments of important supplies to 14 companies on the cutting edge of chemicals processing, electric motors and defense.",
+    "published": "Fri, 24 Jul 2026 14:00:31 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Debt Collection Suits Have Risen Sharply. There’s Help for Consumers Being Sued.",
+    "link": "https://www.nytimes.com/2026/07/24/business/credit-card-debt-collection-lawsuits.html",
+    "summary": "Consumers are being taken to court in droves for delinquent credit card and other bills. New legal protections and even A.I. could be a lifeline.",
+    "published": "Fri, 24 Jul 2026 13:00:09 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Why It’s Best to Keep Politics Out of Your Investment Strategy",
+    "link": "https://www.nytimes.com/2026/07/24/business/investing-stocks-trump-politics.html",
+    "summary": "Despite the blurring of lines between big business and the Trump administration, investing in broad index funds instead of stocks with political ties looks like a better bet.",
+    "published": "Fri, 24 Jul 2026 13:00:07 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Why Trump’s Renewed Trade War Could Be Costly",
+    "link": "https://www.nytimes.com/2026/07/24/business/dealbook/trump-trade-war-economy.html",
+    "summary": "Households and businesses were already contending with an affordability crunch. A new round of tariffs could inflict more pain.",
+    "published": "Fri, 24 Jul 2026 12:14:19 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
+    "link": "https://www.nytimes.com/2026/07/24/business/iran-war-tariffs-economy.html",
+    "summary": "As renewed fighting with Iran sends oil and gas prices soaring, President Trump has imposed new global tariffs that could push up prices further.",
+    "published": "Fri, 24 Jul 2026 13:41:20 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Is the Amaury Family, Owners of the Tour de France, Hurting Cycling?",
+    "link": "https://www.nytimes.com/2026/07/24/business/tour-de-france-amaury-aso.html",
+    "summary": "The Amaurys of Paris own the race, but won’t share any of the $170 million in media revenue. Sponsors and riders say their resistance is dooming the sport.",
+    "published": "Fri, 24 Jul 2026 09:05:00 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal?",
+    "link": "https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html",
+    "summary": "Advances in A.I. are making it possible to create all kinds of music from scratch, but they also raise questions about what is legal and who will actually listen.",
+    "published": "Fri, 24 Jul 2026 14:08:05 +0000"
+  },
+  {
+    "source": "NYT Economy",
+    "title": "Trump’s Section 301 Tariffs: Map of Countries Targeted With New Rates",
     "link": "https://www.nytimes.com/article/trump-tariffs-trade.html",
-    "summary": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court stuck down his original levies.",
-    "published": "Fri, 24 Jul 2026 04:01:02 +0000"
+    "summary": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court struck down his original levies.",
+    "published": "Fri, 24 Jul 2026 13:57:42 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "Did the World Cup Live Up to Tourism Expectations? Here Are the Winners and Losers.",
-    "link": "https://www.nytimes.com/2026/07/23/travel/world-cup-tourism-us-canada-mexico.html",
-    "summary": "Host cities, hotels, tourism boards and more had lofty expectations for the World Cup, but some struck gold, while some fizzled. Here’s the breakdown.",
-    "published": "Thu, 23 Jul 2026 22:05:14 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "U.S. Withdraws Subpoenas Issued to New York Times Journalists",
-    "link": "https://www.nytimes.com/2026/07/23/business/media/new-york-times-subpoenas-withdraw.html",
-    "summary": "A federal judge raised questions about the government’s handling of the subpoenas, which The Times called an attempt to intimidate the free press.",
-    "published": "Thu, 23 Jul 2026 22:56:42 +0000"
-  },
-  {
-    "source": "NYT Business",
+    "source": "NYT Economy",
     "title": "Trump Administration Imposed New Tariffs of Around 10% on Over 80 Nations",
     "link": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html",
     "summary": "The administration launched new duties tied to countries’ imports of goods made with forced labor, replacing a 10 percent tariff immediately after it expired.",
-    "published": "Fri, 24 Jul 2026 04:04:00 +0000"
+    "published": "Fri, 24 Jul 2026 14:09:58 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "China Rewrites the ‘Soft Power’ Playbook for the A.I. Age",
-    "link": "https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html",
-    "summary": "China is seeking global influence and good will with its open, low-cost artificial intelligence software.",
-    "published": "Thu, 23 Jul 2026 17:11:04 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "‘Odyssey’ Popcorn Buckets Help Fuel a $100 Million Market",
-    "link": "https://www.nytimes.com/2026/07/23/business/media/movie-theaters-popcorn-buckets.html",
-    "summary": "Once, a tub of popcorn was just a tub of popcorn. Now, ‘collectible concession vessels’ could make one chain more than $100 million.",
-    "published": "Thu, 23 Jul 2026 20:47:29 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Even as War Rages, Investors Bet Oil Will Be Cheaper in a Few Months",
-    "link": "https://www.nytimes.com/2026/07/23/business/iran-war-oil-prices.html",
-    "summary": "Futures contracts reflect an expectation that low inventories and midterm elections are likely to push the Trump administration to try to ease tensions with Iran.",
-    "published": "Thu, 23 Jul 2026 14:19:17 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Global Oil Price Hits $100 a Barrel for First Time Since May",
-    "link": "https://www.nytimes.com/2026/07/23/business/oil-price-100-dollars.html",
-    "summary": "The recent rebound reflects traders’ growing concern about the expanding war, which now extends from the Persian Gulf to the Red Sea.",
-    "published": "Thu, 23 Jul 2026 14:44:01 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Ford Will Use Apple Maps in New Self-Driving System",
-    "link": "https://www.nytimes.com/2026/07/23/business/ford-apple-software-self-driving.html",
-    "summary": "In a first, Apple software will influence the way a new line of electric vehicles made by Ford Motor operates, and other automakers may follow.",
-    "published": "Thu, 23 Jul 2026 14:28:40 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Edward O’Keefe Named C.E.O. of WNET",
-    "link": "https://www.nytimes.com/2026/07/23/business/edward-okeefe-wnet-thirteen-pbs.html",
-    "summary": "Mr. O’Keefe, who was previously an executive at CNN, is the chief executive of the Theodore Roosevelt Presidential Library.",
-    "published": "Thu, 23 Jul 2026 13:00:05 +0000"
-  },
-  {
-    "source": "NYT Economy",
-    "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
-    "link": "https://www.nytimes.com/article/trump-tariffs-trade.html",
-    "summary": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court stuck down his original levies.",
-    "published": "Fri, 24 Jul 2026 04:01:02 +0000"
-  },
-  {
-    "source": "NYT Economy",
-    "title": "Trump Administration Imposed New Tariffs of Around 10% on Over 80 Nations",
-    "link": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html",
-    "summary": "The administration launched new duties tied to countries’ imports of goods made with forced labor, replacing a 10 percent tariff immediately after it expired.",
-    "published": "Fri, 24 Jul 2026 04:04:00 +0000"
-  },
-  {
-    "source": "NYT Economy",
-    "title": "Trump’s 50% Tariffs on Canada: What to Know, and What’s Next",
-    "link": "https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html",
-    "summary": "The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.",
-    "published": "Wed, 22 Jul 2026 20:33:31 +0000"
-  },
-  {
-    "source": "NYT Economy",
-    "title": "Laredo’s Future Rides on Trump’s Next Trade Move",
-    "link": "https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html",
-    "summary": "The economy of Laredo, Texas, has boomed under the president’s global tariffs. Now, his demands may threaten its success.",
-    "published": "Wed, 22 Jul 2026 19:20:35 +0000"
+    "source": "NYT DealBook",
+    "title": "Why Trump’s Renewed Trade War Could Be Costly",
+    "link": "https://www.nytimes.com/2026/07/24/business/dealbook/trump-trade-war-economy.html",
+    "summary": "Households and businesses were already contending with an affordability crunch. A new round of tariffs could inflict more pain.",
+    "published": "Fri, 24 Jul 2026 12:14:19 +0000"
   },
   {
     "source": "NYT DealBook",
@@ -165,21 +172,28 @@
     "title": "Sign Up for DealBook",
     "link": "https://www.nytimes.com/newsletters/signup/DK",
     "summary": "Make sense of the latest business and policy headlines with our daily newsletter.",
-    "published": "Thu, 23 Jul 2026 12:07:55 +0000"
-  },
-  {
-    "source": "NYT DealBook",
-    "title": "Laredo’s Future Rides on Trump’s Next Trade Move",
-    "link": "https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html",
-    "summary": "The economy of Laredo, Texas, has boomed under the president’s global tariffs. Now, his demands may threaten its success.",
-    "published": "Wed, 22 Jul 2026 19:20:35 +0000"
+    "published": "Fri, 24 Jul 2026 12:15:06 +0000"
   },
   {
     "source": "BBC Business",
-    "title": "US hits dozens of trading partners with new wave of tariffs",
-    "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-    "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-    "published": "Fri, 24 Jul 2026 06:47:08 GMT"
+    "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
+    "link": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
+    "summary": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
+    "published": "Fri, 24 Jul 2026 14:02:26 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Watch: Another day, more Trump tariffs - but are they working?",
+    "link": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
+    "published": "Fri, 24 Jul 2026 10:21:31 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "UK mortgage rates rise to highest level for a month",
+    "link": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
+    "published": "Fri, 24 Jul 2026 09:44:53 GMT"
   },
   {
     "source": "BBC Business",
@@ -190,129 +204,122 @@
   },
   {
     "source": "BBC Business",
-    "title": "We split bills equally even when one of us earned a lot more",
+    "title": "US hits dozens of countries with new wave of tariffs",
+    "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+    "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+    "published": "Fri, 24 Jul 2026 12:40:44 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "We split money equally even when one of us earned a lot more",
     "link": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
     "summary": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending.",
-    "published": "Thu, 23 Jul 2026 23:01:08 GMT"
+    "published": "Fri, 24 Jul 2026 13:33:02 GMT"
   },
   {
     "source": "BBC Business",
-    "title": "UK mortgage rates rise to highest level for a month",
-    "link": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
-    "summary": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
-    "published": "Thu, 23 Jul 2026 23:02:10 GMT"
+    "title": "Why are UK fuel prices rising again?",
+    "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    "summary": "UK petrol and diesel prices are going up again as the price of oil returns to around $100 a barrel.",
+    "published": "Fri, 24 Jul 2026 10:45:41 GMT"
   },
   {
     "source": "BBC Business",
-    "title": "Oil prices hit $100 for the first time since May",
-    "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-    "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-    "published": "Thu, 23 Jul 2026 15:31:00 GMT"
+    "title": "Tourist tax introduced in Edinburgh: How much is it and who pays?",
+    "link": "https://www.bbc.co.uk/news/articles/cvgl8j37839o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Scottish capital has become the first city in the country to introduce a charge for overnight stays.",
+    "published": "Thu, 23 Jul 2026 21:46:48 GMT"
   },
   {
     "source": "BBC Business",
-    "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
-    "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
-    "summary": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
-    "published": "Thu, 23 Jul 2026 20:58:35 GMT"
+    "title": "Scotch whisky levy lifted as Trump imposes new wave of US tariffs",
+    "link": "https://www.bbc.co.uk/news/articles/c7vgz680977o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Scottish government welcomed the lifting of the 10% levy, which the US President agreed after the state visit of King Charles.",
+    "published": "Fri, 24 Jul 2026 09:35:23 GMT"
   },
   {
     "source": "BBC Business",
-    "title": "Pubs cheer business rates relief while other firms 'left out in the cold'",
-    "link": "https://www.bbc.co.uk/news/articles/clyvnz4489wo?at_medium=RSS&at_campaign=rss",
-    "summary": "Pubs welcomed the support package, while other High Street firms asked why they were left out.",
-    "published": "Thu, 23 Jul 2026 14:27:37 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "Google and Tesla shares plunge as AI spending rattles markets",
-    "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-    "summary": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
-    "published": "Thu, 23 Jul 2026 20:42:33 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
-    "link": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
-    "summary": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
-    "published": "Thu, 23 Jul 2026 16:20:45 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "Burnham says 20% business rates cut for English pubs 'a first step'",
-    "link": "https://www.bbc.co.uk/news/articles/cq6dg816464o?at_medium=RSS&at_campaign=rss",
-    "summary": "Some hospitality firms will get a discount from next April but hotels and restaurants won't get a cut.",
-    "published": "Thu, 23 Jul 2026 19:33:09 GMT"
+    "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
+    "link": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
+    "summary": "The divorce, involving the chairman of one of South Korea's biggest companies, has gripped the nation.",
+    "published": "Fri, 24 Jul 2026 08:30:58 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here’s what happens next.",
-    "link": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
-    "summary": "The FDA is deciding whether seven peptides can be legally compounded, potentially opening the door to broader use in Americans.",
-    "published": "Thu, 23 Jul 2026 23:43:00 GMT"
+    "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?",
+    "link": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
+    "summary": "“To my surprise, the proceeds from the sale were credited to my money-market settlement fund.”",
+    "published": "Fri, 24 Jul 2026 14:15:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
-    "link": "https://www.marketwatch.com/story/the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-it-bc47db44?mod=mw_rss_topstories",
-    "summary": "More than 200 years of data show stocks typically gain in August, while market volatility sits well below average.",
-    "published": "Thu, 23 Jul 2026 22:12:00 GMT"
+    "title": "Intel earnings show just how dramatically the company has come back from being ‘near-dead’",
+    "link": "https://www.marketwatch.com/story/intel-earnings-show-just-how-dramatically-the-company-has-come-back-from-being-near-dead-37f81c38?mod=mw_rss_topstories",
+    "summary": "The company is impressing analysts with its profit performance.",
+    "published": "Fri, 24 Jul 2026 14:10:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
-    "link": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
-    "summary": "Nervous investors set the stage for massive post-earnings moves in Wall Street’s biggest stocks.",
-    "published": "Thu, 23 Jul 2026 22:03:00 GMT"
+    "title": "U.S. economy began to speed up — until Iran peace talks failed and oil prices surged again",
+    "link": "https://www.marketwatch.com/story/u-s-economy-began-to-speed-up-until-iran-peace-talks-failed-and-oil-prices-surged-again-3fce66b2?mod=mw_rss_topstories",
+    "summary": "S&amp;P surveys find rising inflation and supply woes",
+    "published": "Fri, 24 Jul 2026 14:03:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
-    "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
-    "summary": "The hottest tech trades of 2026 just got slammed — smart investors are buying anyway.",
-    "published": "Thu, 23 Jul 2026 22:02:00 GMT"
+    "title": "Pay raises keep shrinking. Here’s how much smaller they’ll be next year.",
+    "link": "https://www.marketwatch.com/story/pay-raises-keep-shrinking-heres-how-much-smaller-theyll-be-next-year-3fa51395?mod=mw_rss_topstories",
+    "summary": "One solution is getting a different job — but that’s not so simple.",
+    "published": "Fri, 24 Jul 2026 14:00:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "AMD’s rivalry with Nvidia is increasingly moving into a new realm",
-    "link": "https://www.marketwatch.com/story/amds-rivalry-with-nvidia-is-increasingly-moving-into-a-new-realm-ac63eceb?mod=mw_rss_topstories",
-    "summary": "The chip makers are best known for competing in the GPU business, but they’re stepping up their offerings in the attractive market for server CPUs.",
-    "published": "Thu, 23 Jul 2026 21:59:00 GMT"
+    "title": "The 30-year Treasury yield is closing in on 5.2%. A surge to 6% could slam stocks.",
+    "link": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
+    "summary": "Long-bond yield spike is increasingly possible — threatening to deepen losses for popular long-term Treasury and TIPS ETFs.",
+    "published": "Fri, 24 Jul 2026 13:44:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "The stock market’s calm is cracking. Here’s how to prepare for an August shock.",
-    "link": "https://www.marketwatch.com/story/the-stock-markets-calm-surface-is-cracking-heres-how-to-prepare-for-an-august-shock-7d655813?mod=mw_rss_topstories",
-    "summary": "August is historically brutal for market volatility. Here’s how to protect your portfolio.",
-    "published": "Thu, 23 Jul 2026 21:53:00 GMT"
+    "title": "SAP’s stock rises on strong revenue, but analysts warn of guidance risks",
+    "link": "https://www.marketwatch.com/story/saps-stock-rises-on-strong-revenue-but-analysts-warn-of-guidance-risks-654babc9?mod=mw_rss_topstories",
+    "summary": "The stock has dropped 40% since the start of the year on concerns that artificial intelligence may entirely disrupt the software company’s business model.",
+    "published": "Fri, 24 Jul 2026 13:43:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Trump rolls out a new wave of global tariffs. Here are the latest rates.",
-    "link": "https://www.marketwatch.com/story/trump-rolls-out-a-new-wave-of-tariffs-here-are-the-latest-rates-449af1d3?mod=mw_rss_topstories",
-    "summary": "President Donald Trump and U.S. Trade Representative Jamieson Greer are making a fresh move with tariffs on Thursday.",
-    "published": "Thu, 23 Jul 2026 21:50:00 GMT"
+    "title": "Why fixing the housing crisis for under-40s could trigger 10% Treasury yields",
+    "link": "https://www.marketwatch.com/story/why-fixing-the-housing-crisis-for-under-40s-could-trigger-10-treasury-yields-04c65b78?mod=mw_rss_topstories",
+    "summary": "Bond prices will dive as structural inflation builds, says hedge fund manager",
+    "published": "Fri, 24 Jul 2026 13:32:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "ServiceNow’s stock falls as a new AI threat overshadows earnings beat",
-    "link": "https://www.marketwatch.com/story/why-servicenows-stock-is-a-rare-bright-spot-while-the-rest-of-tech-stumbles-383f7f20?mod=mw_rss_topstories",
-    "summary": "While ServiceNow’s earnings beat proved that its AI momentum is picking up, the launch of OpenAI Presence reignited fears of enterprise software disruption",
-    "published": "Thu, 23 Jul 2026 21:41:00 GMT"
+    "title": "Charter sees further ‘erosion’ of its internet business, sending the stock sharply lower",
+    "link": "https://www.marketwatch.com/story/charter-sees-further-erosion-of-its-internet-business-sending-the-stock-sharply-lower-13ccadfe?mod=mw_rss_topstories",
+    "summary": "The company lost more broadband subscribers than expected, although it hauled in more than 400,000 new mobile lines.",
+    "published": "Fri, 24 Jul 2026 13:30:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
-    "link": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
-    "summary": "As inflation continues to squeeze household budgets, parents and students are on a mission to find back-to-school bargains.",
-    "published": "Thu, 23 Jul 2026 21:15:00 GMT"
+    "title": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
+    "link": "https://www.marketwatch.com/story/i-have-children-from-my-first-marriage-should-my-second-husband-inherit-my-house-if-i-die-d9bd8687?mod=mw_rss_topstories",
+    "summary": "“We live in a house that I purchased entirely with money I had before we were married.”",
+    "published": "Fri, 24 Jul 2026 13:00:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Tesla sees a $214 billion wipeout as investors pan Elon Musk’s plan to spend ‘as fast as we can’",
-    "link": "https://www.marketwatch.com/story/tesla-sees-a-200-billion-wipeout-as-investors-pan-musks-plan-to-spend-as-fast-as-we-can-6faee365?mod=mw_rss_topstories",
-    "summary": "Tesla’s stock has its worst drop in a year after the company’s earnings call leaves Wall Street with more questions than answers.",
-    "published": "Thu, 23 Jul 2026 21:14:00 GMT"
+    "title": "A panicking Fed is just what the bond market needs, says Bank of America’s chief strategist",
+    "link": "https://www.marketwatch.com/story/a-panicking-fed-is-just-what-the-bond-market-needs-says-bank-of-americas-chief-strategist-c780884c?mod=mw_rss_topstories",
+    "summary": "New Fed Chairman Kevin Warsh probably needs to hike soon to reassure the long end of the Treasury curve, says Bank of America strategist Michael Hartnett.",
+    "published": "Fri, 24 Jul 2026 12:53:00 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say",
+    "link": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
+    "summary": "The major auction houses racked up nearly $10 billion in sales in the first half, marking one of the strongest-ever starts to the year.",
+    "published": "Fri, 24 Jul 2026 11:00:01 GMT"
   },
   {
     "source": "CNBC Business",
@@ -378,11 +385,11 @@
     "published": "Thu, 23 Jul 2026 13:52:00 GMT"
   },
   {
-    "source": "CNBC Business",
-    "title": "A tax break for preserving land has drawn IRS scrutiny. Here’s when it still makes sense",
-    "link": "https://www.cnbc.com/2026/07/23/conservation-easements-tax-incentives-irs-crackdown.html",
-    "summary": "For wealthy landowners, conservation easements can still make sense if you avoid these IRS red flags.",
-    "published": "Thu, 23 Jul 2026 11:30:01 GMT"
+    "source": "CNBC Finance",
+    "title": "Stocks making the biggest moves premarket: Intel, Oracle, American Express & more",
+    "link": "https://www.cnbc.com/2026/07/24/stocks-making-the-biggest-moves-premarket-intc-orcl-axp.html",
+    "summary": "These are the stocks posting the largest moves premarket.",
+    "published": "Fri, 24 Jul 2026 12:54:48 GMT"
   },
   {
     "source": "CNBC Finance",
@@ -417,7 +424,7 @@
     "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
     "link": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
     "summary": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
-    "published": "Thu, 23 Jul 2026 19:19:01 GMT"
+    "published": "Fri, 24 Jul 2026 14:10:40 GMT"
   },
   {
     "source": "CNBC Finance",
@@ -427,25 +434,32 @@
     "published": "Thu, 23 Jul 2026 13:12:20 GMT"
   },
   {
-    "source": "CNBC Finance",
-    "title": "Stocks making the biggest moves after hours: Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow & more",
-    "link": "https://www.cnbc.com/2026/07/22/stocks-making-the-biggest-moves-after-hours-googl-tsla-ibm-lvs.html",
-    "summary": "These are the stocks posting the largest moves in after hours trading.",
-    "published": "Wed, 22 Jul 2026 21:21:52 GMT"
-  },
-  {
-    "source": "CNBC Finance",
-    "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
-    "link": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
-    "summary": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
-    "published": "Wed, 22 Jul 2026 22:06:49 GMT"
+    "source": "Hacker News Top",
+    "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+    "link": "https://bfl.ai/blog/flux-3-mimic",
+    "summary": "<p>Article URL: <a href=\"https://bfl.ai/blog/flux-3-mimic\">https://bfl.ai/blog/flux-3-mimic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033127\">https://news.ycombinator.com/item?id=49033127</a></p>\n<p>Points: 205</p>\n<p># Comments: 27</p>",
+    "published": "Fri, 24 Jul 2026 09:31:48 +0000"
   },
   {
     "source": "Hacker News Top",
-    "title": "98.css",
-    "link": "https://jdan.github.io/98.css/#status-bar",
-    "summary": "<p>Article URL: <a href=\"https://jdan.github.io/98.css/#status-bar\">https://jdan.github.io/98.css/#status-bar</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49028927\">https://news.ycombinator.com/item?id=49028927</a></p>\n<p>Points: 429</p>\n<p># Comments: 101</p>",
-    "published": "Thu, 23 Jul 2026 22:30:29 +0000"
+    "title": "Nothing works and everyone is euphoric",
+    "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+    "summary": "<p>Article URL: <a href=\"https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/\">https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033004\">https://news.ycombinator.com/item?id=49033004</a></p>\n<p>Points: 202</p>\n<p># Comments: 154</p>",
+    "published": "Fri, 24 Jul 2026 09:08:17 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "It's getting harder to focus every day",
+    "link": "https://glyphack.com/attention/",
+    "summary": "<p>Article URL: <a href=\"https://glyphack.com/attention/\">https://glyphack.com/attention/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49032660\">https://news.ycombinator.com/item?id=49032660</a></p>\n<p>Points: 338</p>\n<p># Comments: 167</p>",
+    "published": "Fri, 24 Jul 2026 08:18:30 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Flux 3",
+    "link": "https://bfl.ai/blog/flux-3",
+    "summary": "<p>Article URL: <a href=\"https://bfl.ai/blog/flux-3\">https://bfl.ai/blog/flux-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49031796\">https://news.ycombinator.com/item?id=49031796</a></p>\n<p>Points: 436</p>\n<p># Comments: 110</p>",
+    "published": "Fri, 24 Jul 2026 06:17:08 +0000"
   },
   {
     "source": "Hacker News Top",
@@ -456,59 +470,31 @@
   },
   {
     "source": "Hacker News Top",
-    "title": "What happened to TheNumbers.com",
-    "link": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-    "summary": "<p>Article URL: <a href=\"https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all\">https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49024691\">https://news.ycombinator.com/item?id=49024691</a></p>\n<p>Points: 351</p>\n<p># Comments: 155</p>",
-    "published": "Thu, 23 Jul 2026 16:53:33 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "The arguments against open source AI are bad",
-    "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-    "summary": "<p>Article URL: <a href=\"https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/\">https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49024643\">https://news.ycombinator.com/item?id=49024643</a></p>\n<p>Points: 260</p>\n<p># Comments: 173</p>",
-    "published": "Thu, 23 Jul 2026 16:49:57 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-    "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-    "summary": "<p>Article URL: <a href=\"https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md\">https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49023019\">https://news.ycombinator.com/item?id=49023019</a></p>\n<p>Points: 275</p>\n<p># Comments: 199</p>",
-    "published": "Thu, 23 Jul 2026 15:18:48 +0000"
-  },
-  {
-    "source": "Hacker News Top",
     "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
     "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-    "summary": "<p><a href=\"https://littletech.org/\" rel=\"nofollow\">https://littletech.org/</a><p><a href=\"https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0e5/lta-open-weight-ai-letter-7-22-26.pdf\" rel=\"nofollow\">https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49023016\">https://news.ycombinator.com/item?id=49023016</a></p>\n<p>Points: 865</p>\n<p># Comments: 742</p>",
+    "summary": "<p><a href=\"https://littletech.org/\" rel=\"nofollow\">https://littletech.org/</a><p><a href=\"https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0e5/lta-open-weight-ai-letter-7-22-26.pdf\" rel=\"nofollow\">https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49023016\">https://news.ycombinator.com/item?id=49023016</a></p>\n<p>Points: 1009</p>\n<p># Comments: 821</p>",
     "published": "Thu, 23 Jul 2026 15:18:40 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-    "link": "https://learnopengl.com/",
-    "summary": "<p>Article URL: <a href=\"https://learnopengl.com/\">https://learnopengl.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49022634\">https://news.ycombinator.com/item?id=49022634</a></p>\n<p>Points: 223</p>\n<p># Comments: 112</p>",
-    "published": "Thu, 23 Jul 2026 14:53:34 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Writing by hand is good for your brain",
     "link": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-    "summary": "<p>Article URL: <a href=\"https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your\">https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49022152\">https://news.ycombinator.com/item?id=49022152</a></p>\n<p>Points: 1214</p>\n<p># Comments: 556</p>",
+    "summary": "<p>Article URL: <a href=\"https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your\">https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49022152\">https://news.ycombinator.com/item?id=49022152</a></p>\n<p>Points: 1374</p>\n<p># Comments: 624</p>",
     "published": "Thu, 23 Jul 2026 14:24:43 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Software rendering in 500 lines of bare C++",
-    "link": "https://haqr.eu/tinyrenderer/",
-    "summary": "<p>Article URL: <a href=\"https://haqr.eu/tinyrenderer/\">https://haqr.eu/tinyrenderer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49022038\">https://news.ycombinator.com/item?id=49022038</a></p>\n<p>Points: 274</p>\n<p># Comments: 60</p>",
-    "published": "Thu, 23 Jul 2026 14:17:40 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "I regret migrating to Codeberg",
     "link": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
-    "summary": "<p>Article URL: <a href=\"https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/\">https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49021856\">https://news.ycombinator.com/item?id=49021856</a></p>\n<p>Points: 211</p>\n<p># Comments: 126</p>",
+    "summary": "<p>Article URL: <a href=\"https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/\">https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49021856\">https://news.ycombinator.com/item?id=49021856</a></p>\n<p>Points: 420</p>\n<p># Comments: 324</p>",
     "published": "Thu, 23 Jul 2026 14:06:47 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
+    "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
+    "summary": "US robotics researchers flew to Venezuela with snakebots after getting a call.",
+    "published": "Fri, 24 Jul 2026 11:20:43 +0000"
   },
   {
     "source": "Ars Technica",
@@ -540,7 +526,7 @@
   },
   {
     "source": "Ars Technica",
-    "title": "Final Coyote vs. Acme trailer drops at SDCC",
+    "title": "Tweety gets the third degree in final Coyote vs. Acme trailer",
     "link": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
     "summary": "Also, the full trailer for Zach Cregger's <em>Resident Evil</em> features a likable everyman.",
     "published": "Thu, 23 Jul 2026 18:01:46 +0000"
@@ -574,11 +560,11 @@
     "published": "Thu, 23 Jul 2026 16:04:19 +0000"
   },
   {
-    "source": "Ars Technica",
-    "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
-    "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
-    "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
-    "published": "Thu, 23 Jul 2026 14:45:05 +0000"
+    "source": "MIT Tech Review",
+    "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+    "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as an organ has been removed from a donor’s&#8230;",
+    "published": "Fri, 24 Jul 2026 12:10:00 +0000"
   },
   {
     "source": "MIT Tech Review",
@@ -610,6 +596,55 @@
   },
   {
     "source": "SCMP Business",
+    "title": "Chinese battery giant CATL posts record quarterly profits amid green energy boom",
+    "link": "https://www.scmp.com/business/companies/article/3361795/chinese-battery-giant-catl-posts-record-quarterly-profits-amid-green-energy-boom?utm_source=rss_feed",
+    "summary": "Chinese battery giant Contemporary Amperex Technology Co Limited (CATL) slightly missed market estimates for second-quarter revenue and net profit, as China’s weakening demand for electric vehicles (EVs) outweighed benefits from the energy shock.\nThe world’s largest battery maker reported a record 147.79 billion yuan (US$21.8 billion) in revenue and a record 22.5 billion yuan in net profit for the second quarter, up 56.92 per cent and 36.5 per cent year on year, respectively, according to an...",
+    "published": "Fri, 24 Jul 2026 12:57:33 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "China places former deputy of top financial regulator under investigation",
+    "link": "https://www.scmp.com/business/banking-finance/article/3361782/china-places-former-deputy-top-financial-regulator-under-investigation?utm_source=rss_feed",
+    "summary": "China has placed one of its top former financial regulatory officials under investigation, the nation’s main anti-corruption body announced on Friday.\nFang Xinghai, former vice-chairman of the China Securities Regulatory Commission (CSRC), is suspected of “serious legal and disciplinary violations” – a euphemism for corruption and abuse of power – and is currently being investigated, China’s Central Commission for Discipline Inspection (CCDI) said in a statement.\nThe 62-year-old, who held the...",
+    "published": "Fri, 24 Jul 2026 12:19:16 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Tencent fires WeChat manager after 7-figure bonus leaks online, sparks uproar",
+    "link": "https://www.scmp.com/tech/big-tech/article/3361777/tencent-fires-wechat-manager-after-7-figure-bonus-leaks-online-sparks-uproar?utm_source=rss_feed",
+    "summary": "Chinese tech giant Tencent Holdings has fired a manager at its WeChat division after details of his multimillion-yuan bonus package leaked online, sparking animated discussion across social media.\nThe employee, surnamed Ye, was dismissed for passing sensitive corporate information to external parties, which caused a “severe negative impact both inside and outside the company”, according to an internal company bulletin seen by three Tencent employees.\nYe served as a project manager within...",
+    "published": "Fri, 24 Jul 2026 11:18:31 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Chinese GPU maker confidentially files for Hong Kong IPO amid fundraising wave: sources",
+    "link": "https://www.scmp.com/business/banking-finance/article/3361754/chinese-gpu-maker-confidentially-files-hong-kong-ipo-amid-fundraising-wave-sources?utm_source=rss_feed",
+    "summary": "MetaX, a Chinese maker of graphics processing units (GPUs), has confidentially filed for a listing in Hong Kong, according to people familiar with the matter.\nThe Shanghai-based company was targeting an initial public offering (IPO) by the end of this year, according to the sources, who asked not to be identified because the information was confidential.\nMetaX was working with Huatai International Financial Holdings on the potential share sale, the people said.\nThe company did not immediately...",
+    "published": "Fri, 24 Jul 2026 10:34:48 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Hong Kong exchange’s biggest reform in 8 years opens gates to more IPOs",
+    "link": "https://www.scmp.com/business/markets/article/3361742/hong-kong-exchanges-biggest-reform-8-years-opens-gates-more-ipos?utm_source=rss_feed",
+    "summary": "Stock exchange operator Hong Kong Exchanges and Clearing (HKEX) will allow all listing applications to remain confidential and will reduce market-capitalisation requirements for listings by start-ups and international firms immediately, it announced on Friday.\nConfirming a report by the South China Morning Post, HKEX will proceed with confidential filing as it proposed in March in its biggest set of listing reforms since 2018.\nThe exchange will also reduce the market-cap requirements for...",
+    "published": "Fri, 24 Jul 2026 09:05:16 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Hong Kong insurers ride affluent demand to record sales as longevity and legacy needs grow",
+    "link": "https://www.scmp.com/business/banking-finance/article/3361684/hong-kong-insurers-ride-affluent-demand-record-sales-longevity-and-legacy-needs-grow?utm_source=rss_feed",
+    "summary": "Life insurance sales in Hong Kong rose 51 per cent in the first quarter to another record high, driven by affluent customers from mainland China and overseas buying policies for wealth transfer, protection and medical needs.\nThe industry wrote HK$141.1 billion (US$18 billion) in new life policies in the first quarter, compared with HK$93.4 billion a year earlier, according to data from the Insurance Authority released on Friday.\nIt marked the third year that first-quarter sales hit a record high...",
+    "published": "Fri, 24 Jul 2026 09:00:06 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Wall Street funds back China’s WuXi AppTec as weight-loss drug orders soar",
+    "link": "https://www.scmp.com/business/companies/article/3361720/wall-street-funds-back-chinas-wuxi-apptec-weight-loss-drug-orders-soar?utm_source=rss_feed",
+    "summary": "US global asset managers, including BlackRock, have expanded stakes in mainland Chinese pharmaceutical contractor WuXi AppTec over the past two months, betting that a surge in weight-loss drug manufacturing orders will lift earnings in the first half of the year.\nGlobal investors were increasingly interested in China’s contract development and manufacturing organisation, and biotechnology sector, said Linda Shu, head of China healthcare research at HSBC.\n“WuXi Apptec is heavily owned given its...",
+    "published": "Fri, 24 Jul 2026 07:15:31 +0000"
+  },
+  {
+    "source": "SCMP Business",
     "title": "Securities watchdog to channel more medium- and long-term capital into China markets",
     "link": "https://www.scmp.com/business/banking-finance/article/3361682/securities-watchdog-channel-more-medium-and-long-term-capital-china-markets?utm_source=rss_feed",
     "summary": "China’s securities watchdog has pledged to channel more medium- and long-term capital into the country’s stock markets and fortify financial defences against external shocks, as authorities move aggressively to stabilise sentiment following recent market turbulence.\nAt a meeting on Thursday, the China Securities Regulatory Commission announced a raft of measures aimed at maintaining smooth market operations and reinforcing the capital market’s resilience.\nThe regulator said it would “more...",
@@ -628,54 +663,5 @@
     "link": "https://www.scmp.com/business/markets/article/3361655/rare-six-month-office-flip-suggests-hong-kongs-prime-market-stabilising?utm_source=rss_feed",
     "summary": "A buyer who bought an office in a top-tier location in Hong Kong has sold it for an apparent 19 per cent gain just over six months later, a rare transaction that suggests improving conditions in the city’s prime office market are beginning to reshape investment decisions.\nThe 5,400 sq ft office on the 37th floor of Far East Finance Centre in Admiralty changed hands for HK$108 million (US$13.8 million), or about HK$20,000 per square foot, in early July, according to market sources.\nThe same space...",
     "published": "Fri, 24 Jul 2026 02:30:07 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Hong Kong must wake up to the cold hard geopolitics of AI",
-    "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3361470/hong-kong-must-wake-cold-hard-geopolitics-ai?utm_source=rss_feed",
-    "summary": "Officials talking about artificial intelligence (AI) often speak in terms of the next industrial revolution or existential risks. Such rhetoric ultimately does little to capture how AI filters into the ordinary workings of a city like Hong Kong.\nThe geopolitics of AI are no longer abstract. They are beginning to shape who can use which tools – and on what terms.\nOver the past few months, two major international banks in the city have reportedly felt the impact. Anthropic’s Claude, a generative...",
-    "published": "Fri, 24 Jul 2026 01:30:09 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Why the divorces of China’s A-share firm owners provoke market nerves",
-    "link": "https://www.scmp.com/business/china-business/article/3361656/why-divorces-chinas-share-firm-owners-provoke-market-nerves?utm_source=rss_feed",
-    "summary": "China’s A-share market has seen another high-profile divorce case result in a massive asset split, involving the transfer of 6 billion yuan (US$886 million) – the highest this year – and raising concerns over corporate governance stability and share price fluctuations.\nAlthough the scope of the divorce settlement is not at all comparable to that of Jeff Bezos or Bill Gates, it has made tens of thousands of retail investors worry about their portfolio holdings and paper wealth.\nMaxone...",
-    "published": "Fri, 24 Jul 2026 01:00:18 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Hongkongers increase cross-border shopping splurges, spending data shows",
-    "link": "https://www.scmp.com/business/article/3361603/hongkongers-increase-cross-border-shopping-splurges-spending-data-shows?utm_source=rss_feed",
-    "summary": "Even as local retail spending remains resilient, Hong Kong consumers are shopping more across the border in mainland China, drawn by lower prices and wider adoption of digital payments, according to data from payment giant UnionPay International.\nOffline UnionPay card spending in mainland China by Hong Kong residents rose nearly 30 per cent year on year in the first half of 2026, while online and digital transactions recorded even stronger growth, data released on Thursday showed.\nThe trend...",
-    "published": "Thu, 23 Jul 2026 23:00:09 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "China’s Geely partners with Ford to revive Spain plant and deepen European EV drive",
-    "link": "https://www.scmp.com/business/china-business/article/3361615/chinas-geely-partners-ford-revive-spain-plant-and-deepen-european-ev-drive?utm_source=rss_feed",
-    "summary": "Geely Auto, China’s second-largest carmaker, has struck a deal with Ford Motor to use the US company’s redundant capacity in Spain to build electric vehicles (EVs) amid its stepped-up push to expand globally.\nMulti-energy cars would be assembled at an idle factory in Almussafes, near Valencia, after the two companies set up a venture, with deliveries expected to begin in 2028, according to a statement by Geely on Thursday.\nThe Chinese group would hold a 34 per cent stake, while Ford would...",
-    "published": "Thu, 23 Jul 2026 11:30:09 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Path opened for Malaysian firms to pursue secondary share listings in Hong Kong",
-    "link": "https://www.scmp.com/business/banking-finance/article/3361613/path-opened-malaysian-firms-pursue-secondary-share-listings-hong-kong?utm_source=rss_feed",
-    "summary": "Hong Kong is reaping rewards from a charm offensive with Malaysia as it works to enhance its attractiveness to global fundraising activities, with deals reached on Thursday during a visit to the Southeast Asian country by the city’s financial services secretary.\nBursa Malaysia will become the 21st stock exchange recognised by the city’s bourse operator Hong Kong Exchanges and Clearing (HKEX), clearing the way for Malaysia-listed companies to pursue secondary listings in Hong Kong, according to...",
-    "published": "Thu, 23 Jul 2026 11:00:13 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "HSBC summit turns future trends into wealth strategies",
-    "link": "https://www.scmp.com/presented/business/topics/future-ready-wealth-strategies/article/3361194/hsbc-summit-turns-future-trends-wealth-strategies?utm_source=rss_feed",
-    "summary": "[The content of this article has been produced by our advertising partner.]\nAs AI breaks out of chatbots and into what is now called Physical AI, investors need to rethink how portfolios should be built, protected and put to work. Growth opportunities are being created across tech, mobility, consumer electronics and connected living, while market volatility, geopolitical risk and changing rate expectations continue to test investment decisions. \nIt is against this growing complexity and...",
-    "published": "Thu, 23 Jul 2026 09:45:06 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Zhongji sets highest subscription threshold in Hong Kong IPO history",
-    "link": "https://www.scmp.com/business/companies/article/3361586/zhongji-sets-highest-subscription-threshold-hong-kong-ipo-history?utm_source=rss_feed",
-    "summary": "Zhongji Innolight, the largest IPO in Hong Kong in nearly seven years, has set the highest subscription threshold in the city’s history, dampening retail investors’ appetite, though institutional demand remains strong, with multiple oversubscriptions already placed, according to people familiar with the matter.\nPriced at a maximum of HK$1,010 per share and requiring 50 shares per board lot, the minimum threshold is HK$51,009.29 (US$6505.49), making it the most expensive initial public offering...",
-    "published": "Thu, 23 Jul 2026 09:00:26 +0000"
   }
 ]
