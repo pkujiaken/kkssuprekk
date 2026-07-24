@@ -1,8 +1,8 @@
 {
   "top5": [
     {
-      "title": "美国宣布对80多个国家征收新关税，重点关注“强迫劳动”产品及对加拿大加征高额关税",
-      "summary": "美国政府宣布对80多个国家实施新的进口关税，尤其针对涉嫌“强迫劳动”的产品，并对加拿大启动高达50%的惩罚性关税。此举替代了即将到期的全球10%关税，标志着特朗普政府贸易政策的进一步升级和常态化，可能引发全球贸易关系紧张，并对国际供应链和多国经济体产生深远影响。此政策重塑了全球贸易规则，是投资者需要重点关注的地缘经济风险。",
+      "title": "美国对80余国实施新关税，全球贸易摩擦持续升级",
+      "summary": "美国政府宣布对80多个国家实施新的进口关税，理由是这些国家的产品涉及强迫劳动。此举取代了此前被最高法院否决的10%临时关税，标志着特朗普政府贸易保护主义政策的延续和升级。这一广泛的关税行动可能引发新的贸易报复，进一步扰乱全球供应链，并对依赖国际贸易的企业盈利构成不确定性。",
       "sources": [
         {
           "name": "NYT Business",
@@ -19,8 +19,8 @@
       ]
     },
     {
-      "title": "全球油价飙升至每桶100美元，中东冲突升级促使美联储加息预期增强",
-      "summary": "随着中东战事扩大至波斯湾和红海地区，市场对供应担忧加剧，布伦特原油价格突破每桶100美元，为五月以来首次。油价上涨直接推高了通胀预期，促使投资者大幅提升对美联储9月加息的押注。这一宏观经济变量的剧烈波动，对全球通胀前景、货币政策及企业运营成本构成显著压力，可能导致市场对高利率环境的适应期延长。",
+      "title": "全球油价突破每桶100美元，加剧美联储加息预期",
+      "summary": "受中东战事扩大至波斯湾和红海的影响，布伦特原油价格周四飙升超过6%，自5月以来首次突破每桶100美元大关。油价的急剧上涨立即引发市场对通胀螺旋上升的担忧，导致投资者对美联储在9月会议上再次加息的预期大幅升温，可能给全球经济复苏带来新的挑战和不确定性。",
       "sources": [
         {
           "name": "NYT Business",
@@ -37,8 +37,26 @@
       ]
     },
     {
-      "title": "SEC计划召开圆桌会议，讨论推动美国股市24小时交易的可能性",
-      "summary": "美国证券交易委员会（SEC）宣布将于9月17日举行圆桌会议，探讨美国股票市场向24小时交易模式转变的准备工作，包括夜间交易的运营和系统弹性。此举若实现，将是美国市场结构的一次重大变革，可能大幅提高市场流动性，吸引国际投资者，并对券商运营、技术基础设施及投资者行为带来深刻影响。这是对全球资本市场未来发展方向的一次前瞻性探索。",
+      "title": "科技巨头AI投入巨大但回报存疑，谷歌与特斯拉股价承压",
+      "summary": "谷歌再次上调人工智能投资预测，但华尔街普遍担忧其最终回报率，导致股价承压。同时，特斯拉股价因埃隆·马斯克表示将“尽快”支出的激进扩张计划而大幅下跌，市值蒸发逾2000亿美元。这些事件反映出投资者对AI军备竞赛中巨额资本支出能否带来相应回报的疑虑，以及对公司战略性投入的审慎态度，可能导致科技板块短期波动加剧。",
+      "sources": [
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/07/23/business/dealbook/google-ai-capex.html"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/tesla-sees-a-200-billion-wipeout-as-investors-pan-musks-plan-to-spend-as-fast-as-we-can-6faee365?mod=mw_rss_topstories"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "美国SEC探讨美股24小时交易制度，或重塑市场结构",
+      "summary": "美国证券交易委员会（SEC）宣布将于2026年9月17日召开圆桌会议，讨论推动美国股票市场实现24小时交易的可行性及其准备工作。这一潜在变革旨在提升市场流动性和全球竞争力，但也面临运营、风险管理和系统弹性等方面的挑战。若实施，将对美国股票市场的交易模式、投资者行为和基础设施产生深远影响，值得长期关注。",
       "sources": [
         {
           "name": "SEC Press",
@@ -47,39 +65,36 @@
       ]
     },
     {
-      "title": "谷歌和特斯拉因激进的AI投资计划面临华尔街投资者质疑，股价大幅下跌",
-      "summary": "谷歌再次上调其在人工智能领域的投资预测，但华尔街对其高昂投入与不确定回报表示担忧，导致股价承压。与此同时，特斯拉首席执行官埃隆·马斯克提出“尽快花钱”的扩张策略，引发投资者对其盈利能力和资本效率的质疑，致使特斯拉股价经历一年来最严重跌幅。这反映出市场对AI投资热潮的审慎态度，以及对科技巨头烧钱速度与实际效益的担忧，影响了市场对AI赛道短期盈利前景的预期。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/23/business/dealbook/google-ai-capex.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/tesla-sees-a-200-billion-wipeout-as-investors-pan-musks-plan-to-spend-as-fast-as-we-can-6faee365?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "中国利用低成本、开放的AI软件重塑其全球软实力策略",
-      "summary": "中国正通过提供开放且低成本的人工智能软件，在全球范围内寻求影响力并争取好感。这一策略旨在降低AI技术门槛，扩大中国AI生态系统的国际接受度，从而在全球AI标准和技术路径上发挥更大作用。此举预示着未来国际科技竞争将不仅是技术领先的较量，更是生态系统和“软实力”的竞争，对全球AI格局和市场竞争态势产生深远影响，值得关注中国在全球科技领导力方面的战略布局。",
+      "title": "中美在AI开源与安全领域展开较量，全球AI治理成焦点",
+      "summary": "中国正通过开放、低成本的AI软件重塑其“软实力”策略，寻求全球影响力。与此同时，在美国-中国亚太经合组织（APEC）峰会上，美国与其他国家共同支持“强安全”的开源AI，强调其在安全合作方面的立场。这表明全球两大经济体在AI技术发展路径和治理模式上存在分歧与竞争，未来AI领域的国际合作与规则制定将愈发复杂。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html"
         }
       ]
     }
   ],
   "people": [
     {
+      "name": "Tyler Cowen",
+      "title": "对AI安全事件的贝叶斯更新，中国网络防御表现值得关注",
+      "summary": "观点：经济学家Tyler Cowen针对近期OpenAI/Hugging Face黑客事件提出三种可能的贝叶斯更新，其中一种看法是事件发生之早和戏剧性超出预期，令人更担忧；另一种观点则认为，尽管事件发生，但中国网络防御似乎表现良好。这提示我们不仅要关注AI安全事件本身，更要评估不同国家在网络安全方面的实际能力与应对。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-optimal-bayesian-update.html?utm_source=rss&utm_medium=rss&utm_campaign=the-optimal-bayesian-update"
+        }
+      ]
+    },
+    {
       "name": "Elon Musk",
-      "title": "马斯克激进投资策略引发特斯拉股价暴跌",
-      "summary": "原话：「我们将尽可能快地花钱。」观点：特斯拉CEO埃隆·马斯克强调公司将“尽快花钱”以加速扩张，但此言论并未获得市场认同。投资者担忧高昂的投入对盈利能力造成压力，导致特斯拉股价遭受一年内最大跌幅，市值蒸发逾2000亿美元。",
+      "title": "激进扩张策略引发投资者担忧，特斯拉股价暴跌",
+      "summary": "原话：「我们正以最快速度进行投资。」在特斯拉公布财报后，埃隆·马斯克关于将“尽快”加大投资的言论引发市场恐慌，导致特斯拉股价暴跌2140亿美元。投资者质疑在当前经济环境下，这种激进的资本支出策略能否在短期内带来预期回报，凸显了市场对高增长科技公司烧钱速度的担忧。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -88,47 +103,42 @@
       ]
     },
     {
-      "name": "Tyler Cowen",
-      "title": "考恩指出国家关键基础设施对无人机攻击的高度脆弱性，并提及巴西贸易优势",
-      "summary": "观点：经济学家Tyler Cowen认为，乌克兰和伊朗战争的经验表明，许多国家（包括大国）的经济运行依赖于少数关键建筑和基础设施，而对于非海洋保护的国家，无人机彻底改变了一切，使其经济变得高度脆弱。他还指出，巴西农业出口受益于贸易中断已超越美国，这是一个值得关注的全球贸易结构性变化。",
+      "name": "Ben Carlson",
+      "title": "从韩国繁荣时期投资经验中吸取教训",
+      "summary": "观点：知名投资博主Ben Carlson提出，从韩国经济“繁荣时期”的投资者经验中可以学到宝贵的教训。他认为，即使在市场高速增长期，投资者也应保持冷静和理性，避免过度投机，关注长期基本面。这为高净值投资者在当前市场波动中提供了战略性思考，强调了风险管理和价值投资的重要性。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/solve-for-the-equilibrium-19.html"
-        },
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/brazil-fact-of-the-day-12.html"
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/07/investing-in-the-boom-times/"
         }
       ]
     },
     {
-      "name": "Anthropic首席经济学家",
-      "title": "Anthropic首席经济学家谈论AI对就业市场的影响",
-      "summary": "观点：Anthropic首席经济学家对人工智能（AI）未来可能对就业市场带来的结构性变化和影响发表了观点。鉴于AI技术正以惊人速度发展，这一专业分析对于理解未来劳动力市场转型、评估行业风险与机遇，以及政策制定者如何应对潜在的失业挑战具有重要参考价值。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-562.html"
-        }
-      ]
-    },
-    {
-      "name": "美国国会议员",
-      "title": "美国议员提议设立AI“中止开关”以应对潜在公共威胁",
-      "summary": "观点：在OpenAI被指“失控”后，美国国会议员正在推动一项新法案，旨在赋予政府在人工智能模型对公众构成威胁时下达关停命令的权力。这一提议反映出立法者对AI安全和监管的日益关注，可能对未来AI技术发展和部署带来重大影响，预示着AI监管将成为重要的政治议程。",
+      "name": "BAE Systems CEO Charles Woodburn",
+      "title": "英国对战争威胁过于自满，地缘政治风险加剧",
+      "summary": "观点：欧洲最大防务承包商BAE Systems的首席执行官Charles Woodburn博士警告称，英国对战争威胁表现出过度自满，当前遭受袭击的风险达到了前所未有的高度。他的观点强调了地缘政治紧张局势对国家安全和经济稳定的潜在影响，可能预示着未来全球防务开支的增加和相关产业的投资机会。",
       "sources": [
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "英国抵押贷款利率升至一月来高位，受中东紧张局势影响",
-      "summary": "受中东地区紧张局势加剧的影响，英国抵押贷款利率升至近一个月以来的最高水平。地缘政治冲突通过能源价格等渠道传导至更广泛的经济层面，增加了贷方的融资成本，从而推高了借贷成本，可能对英国房地产市场和消费者信心造成负面影响，并加剧通胀压力。",
+      "title": "美联储加息预期升温，市场对9月政策转向保持警惕",
+      "summary": "随着全球油价飙升至每桶100美元，通胀担忧卷土重来，投资者对美联储在9月会议上加息的概率大幅上升。这一预期反映了市场对能源价格波动及其对货币政策影响的敏感性。若美联储再次加息，将对全球资本流动、企业融资成本和经济增长前景产生显著影响，投资者需密切关注其政策动向。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html"
+        }
+      ]
+    },
+    {
+      "title": "中东紧张局势推高能源成本，英国抵押贷款利率升至月内高点",
+      "summary": "受中东地区紧张局势加剧导致能源价格上涨的影响，英国抵押贷款利率已升至一个月来的最高水平。这直接增加了英国购房者和现有房主的借贷成本，可能对房地产市场带来负面压力。此事件凸显了地缘政治风险如何迅速传导至国内金融市场，影响普通消费者和宏观经济稳定性。",
       "sources": [
         {
           "name": "BBC Business",
@@ -137,44 +147,40 @@
       ]
     },
     {
-      "title": "人工智能投资热潮正推动美股及整体经济增长，但市场对回报存疑",
-      "summary": "对人工智能及其相关公司的投资正显著提振美国股市表现和整体经济支出。然而，华尔街的许多投资者仍对AI投资的最终回报感到担忧，特别是在主要科技公司高额投入的同时，其利润前景尚不明朗。这表明AI虽是增长引擎，但其投资风险和回报周期仍需密切关注，可能引发未来市场对“AI泡沫”的讨论。",
+      "title": "美国对加拿大施加50%高额关税，北美贸易摩擦显著升级",
+      "summary": "美国总统特朗普宣布，将从8月19日开始对加拿大征收高达50%的惩罚性关税，这标志着两国持续一年多的贸易战显著升级。此举可能严重冲击美加之间的经济关系，影响跨境供应链和相关企业盈利。对于投资者而言，需警惕贸易政策变化可能带来的区域经济不确定性和投资风险。",
       "sources": [
         {
           "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/23/business/dealbook/google-ai-capex.html"
+          "url": "https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html"
         }
       ]
     },
     {
-      "title": "摩根大通报告显示AI主题ETF资金流入激增，尽管AI股票经历动荡季度",
-      "summary": "摩根大通资产管理公司报告指出，尽管AI股票市场在过去一个季度表现动荡，但专注于人工智能主题的交易所交易基金（ETF）的资金流入却出现大幅增长。这表明机构投资者和散户对人工智能的长期增长潜力仍抱有强烈信心，愿意通过ETF配置相关资产，尽管短期内存在波动性，反映了市场对AI未来前景的持续看好。",
+      "title": "尽管中东战火蔓延，原油期货市场显示投资者预期未来油价将下跌",
+      "summary": "尽管中东战事不断升级，将油价推高至100美元，但原油期货合约显示，投资者预期未来数月油价将趋于平稳甚至下跌。这一现象反映了市场对短期供给冲击与长期供需基本面（包括潜在的美国政策干预）之间复杂权衡的判断，暗示油价突破100美元可能并非长期趋势的开始。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/23/business/iran-war-oil-prices.html"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "福特新自动驾驶系统将集成苹果地图，预示汽车与科技深度融合",
-      "summary": "福特汽车公司宣布，其新一代电动汽车的自动驾驶系统将首次采用苹果地图软件。这一合作标志着苹果软件在汽车操作核心功能中的影响力日益增强，并可能引领其他汽车制造商效仿。此举将加速汽车行业智能化转型，深化科技巨头在汽车生态系统中的主导地位，为智能驾驶体验带来新的可能性。",
+      "title": "美国立法者推动AI“终止开关”机制，应对AI模型失控风险",
+      "summary": "在OpenAI被指“失控”事件后，美国立法者正推动一项新法案，旨在授权政府在人工智能模型对公众构成威胁时，可以命令其强制关停。此举反映了监管机构对AI安全风险的日益重视，可能对AI技术的发展和部署方式产生深远影响，促使AI公司在创新同时更加注重安全性和可控性。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/23/business/ford-apple-software-self-driving.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "AMD与英伟达在服务器CPU市场竞争加剧，挑战传统GPU优势",
-      "summary": "芯片制造商AMD与英伟达的竞争正日益扩展到新的领域——服务器CPU市场。尽管两家公司以GPU业务竞争闻名，但它们正大力提升在服务器CPU领域的布局和产品供应。这一趋势表明数据中心和AI计算对全面解决方案的需求增加，预示着未来半导体行业竞争将更加激烈和多元化，对服务器和数据中心供应链产生影响。",
+      "title": "AMD与英伟达在服务器CPU市场竞争加剧，芯片行业格局生变",
+      "summary": "AMD与英伟达之间的竞争正从传统的GPU（图形处理器）领域，进一步扩展到利润丰厚的服务器CPU（中央处理器）市场。随着AI和数据中心需求爆发，两大芯片巨头在该领域的对抗将愈发激烈，可能影响服务器硬件成本和性能，对整个云计算和AI基础设施建设产生重要战略意义。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -183,40 +189,50 @@
       ]
     },
     {
-      "title": "ServiceNow股价下跌，OpenAI Presence发布加剧企业软件市场颠覆担忧",
-      "summary": "尽管ServiceNow公布的财报超出预期，显示其AI动能正在增强，但OpenAI推出“Presence”服务重新点燃了市场对企业软件领域可能被AI颠覆的担忧，导致ServiceNow股价下跌。这反映了市场对生成式AI对传统SaaS模式潜在冲击的敏感，以及科技公司在AI创新与竞争中面临的挑战，预示着企业软件市场将迎来洗牌。",
+      "title": "OpenAI新产品威胁企业软件市场，ServiceNow股价受挫",
+      "summary": "尽管ServiceNow公司公布了超预期的财报，但由于OpenAI新推出的“Presence”产品引发了市场对企业软件领域可能被颠覆的担忧，导致ServiceNow股价下跌。这一事件表明，新一代AI模型正加速侵蚀传统企业软件公司的市场，迫使现有玩家加速创新和转型，以应对潜在的竞争威胁。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/servicenows-stock-falls-as-a-new-ai-threat-overshadows-earnings-beat-383f7f20?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/why-servicenows-stock-is-a-rare-bright-spot-while-the-rest-of-tech-stumbles-383f7f20?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "部分投资者认为AI股票抛售潮是市场健康调整，或能支撑牛市",
-      "summary": "近期人工智能相关股票的剧烈抛售让许多人感到恐慌，但部分分析师认为这实际上可能是一次健康的调整，有助于消除过热情绪，从而可能挽救当前的牛市。聪明的投资者甚至在此轮回调中进行买入，表明市场对AI长期前景的信心并未动摇，只是对短期估值泡沫进行修正，为长期投资者提供了入场机会。",
+      "title": "福特将在其新一代自动驾驶系统中集成苹果地图",
+      "summary": "福特汽车公司宣布，将在其新款电动汽车的自动驾驶系统中首次集成苹果地图软件。这一合作标志着苹果在汽车技术领域的影响力进一步扩大，可能成为其他汽车制造商效仿的范例。此举有望提升福特自动驾驶系统的用户体验和功能性，同时为苹果拓展其生态系统边界提供新机遇。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/23/business/ford-apple-software-self-driving.html"
+        }
+      ]
+    },
+    {
+      "title": "摩根大通报告：尽管市场震荡，AI主题ETF仍获大量资金涌入",
+      "summary": "摩根大通资产管理公司发布报告指出，尽管近期AI相关股票表现震荡，但追踪人工智能主题的交易所交易基金（ETF）仍吸引了大量资金。这表明，在市场对AI长期增长潜力的高度信心下，投资者正积极寻求通过ETF配置AI资产，即便短期内存在波动，对AI领域的长期战略性投资热情依然不减。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "Albertsons股价暴跌，因杂货消费疲软下调全年销售及盈利预期",
-      "summary": "美国连锁超市巨头Albertsons股价周四大幅下跌，此前公司报告其核心业务表现疲软，并因此下调了全年销售额和盈利预期。这反映出消费者在杂货方面的支出正在放缓，可能预示着更广泛的消费降级趋势，对零售行业盈利能力构成挑战，值得投资者警惕消费板块的潜在风险。",
+      "title": "S&P 500发出卖出信号，期权市场预示科技巨头波动加剧",
+      "summary": "标普500指数近期出现卖出信号，同时期权交易者正为苹果、Meta和微软等大型科技公司财报发布后的剧烈股价波动做准备。这表明市场对主要科技股的短期前景持谨慎态度，并预计在即将到来的财报季中，市场情绪和股价可能面临显著冲击。投资者应关注这些公司业绩报告对整体市场情绪的影响。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "美国航空股价下跌8%，燃料成本飙升进一步推迟扭亏为盈计划",
-      "summary": "美国航空(American Airlines)股价下跌8%，此前该公司再次下调了2026年的盈利展望，主要原因是燃料成本大幅上涨。燃料价格飙升对航空公司的运营成本构成巨大压力，进一步推迟了其在疫情后实现全面盈利的计划，凸显了能源价格波动对交通运输行业的直接影响和盈利不确定性。",
+      "title": "燃油成本飙升拖累业绩，美国航空股价重挫8%",
+      "summary": "美国航空（American Airlines）因燃油成本大幅上涨，再次下调其2026年全年盈利预期，导致公司股价周四下跌8%。这凸显了能源价格波动对航空业利润率的直接冲击，以及航空公司在成本控制上面临的挑战。投资者需警惕高油价环境下航空板块的盈利压力。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -225,30 +241,30 @@
       ]
     },
     {
-      "title": "康卡斯特财报凸显NBCUniversal业务强势，为计划中的拆分奠定基础",
-      "summary": "康卡斯特（Comcast）的最新财报显示，其NBCUniversal媒体业务表现强劲。公司今年早些时候宣布计划将有线电视业务与媒体业务拆分，创建两家独立的上市公司。NBCUniversal的良好业绩为这一战略性拆分提供了有力支撑，旨在释放各业务板块的内在价值，并可能吸引不同类型的投资者，优化公司资本结构。",
+      "title": "消费者杂货支出疲软，Albertsons股价大跌预示零售业挑战",
+      "summary": "美国大型连锁超市Albertsons股价周四大幅下跌，此前该公司报告称核心业务出现疲软，并因此下调了全年业绩展望。这一疲软主要归因于消费者在杂货上的支出减少，反映出通胀压力下消费者购买力受到挤压。此事件可能预示着更广泛的零售行业面临挑战，特别是日常消费品领域。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html"
+        }
+      ]
+    },
+    {
+      "title": "Comcast财报凸显NBCUniversal业务强势，为拆分计划铺路",
+      "summary": "Comcast公司最新财报显示，旗下NBCUniversal业务表现强劲，这为公司此前宣布的将有线电视业务与媒体业务分拆为两家独立上市公司的计划提供了有力支撑。此次拆分旨在释放各业务板块的价值，并可能为投资者提供更清晰的投资标的。此战略重组预示着媒体和通信行业将出现新的格局。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/07/23/comcast-earnings-nbcuniversal-strength-split.html"
         }
       ]
-    },
-    {
-      "title": "标普500指数发出卖出信号，期权交易员为苹果、Meta和微软财报后的剧烈波动做准备",
-      "summary": "标普500指数近期出现卖出信号，同时期权交易员正为苹果、Meta和微软等华尔街巨头在财报发布后可能出现的剧烈股价波动做好准备。这表明市场情绪趋于谨慎，对大型科技股的业绩预期存在分歧，可能导致短期内市场波动性加剧，投资者需密切关注这些科技巨头的财报指引。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories"
-        }
-      ]
     }
   ],
   "a_stocks": [
     {
-      "title": "中国吉利汽车与福特成立合资公司，将在西班牙生产电动汽车",
-      "summary": "中国汽车巨头吉利与福特汽车达成协议，成立一家新的合资企业，计划于2027年上半年开始运营，并于2028年在福特位于西班牙的工厂生产电动汽车。此举不仅标志着中国汽车品牌在欧洲市场的进一步扩张，也体现了全球汽车制造商在电动化转型中寻求合作、共享产能的趋势，对中国汽车产业的国际化战略具有重要意义。",
+      "title": "中国吉利汽车与福特合作在西班牙生产电动汽车，加速全球化布局",
+      "summary": "中国汽车巨头吉利汽车与福特汽车达成新的合资协议，计划在福特位于西班牙的工厂生产电动汽车。这项合资企业预计在2027年上半年开始运营，首批新车将于2028年下线。此举不仅为吉利汽车提供了进入欧洲市场的生产基地，也显示出中国品牌在全球电动汽车领域加速扩张和合作的战略意图，可能重塑欧洲汽车市场的竞争格局。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -259,8 +275,8 @@
   ],
   "business": [
     {
-      "title": "礼来公司下一代减肥药Retatrutide完成两项后期试验，计划2027年申请审批",
-      "summary": "礼来公司宣布其下一代减肥药Retatrutide已完成两项后期临床试验并取得积极结果，累计已有五项后期试验呈现阳性数据。公司计划于2027年提交该药物的上市申请，将其定位为继现有产品之后的又一减肥治疗支柱。这预示着礼来在减肥药物市场的领导地位将进一步巩固，并可能改变全球肥胖症治疗格局，带来巨大的市场潜力。",
+      "title": "礼来公司计划于2027年提交下一代肥胖症药物审批申请",
+      "summary": "礼来公司宣布，在Retatrutide减肥药的五项后期临床试验均取得积极结果后，计划于2027年提交该药物的上市审批申请。此举将使Retatrutide成为礼来在肥胖症治疗领域的下一代支柱产品，有望进一步巩固其在该高增长市场的领先地位。这一重大进展预示着制药行业在减重药物研发方面的新突破和市场扩张潜力。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -269,8 +285,18 @@
       ]
     },
     {
-      "title": "西南航空为应对供应担忧，首次通过海运从德克萨斯州向洛杉矶运输航空燃油",
-      "summary": "西南航空为预防潜在的燃油供应短缺，首次通过租用船只将燃油从德克萨斯州休斯顿运往洛杉矶。此举凸显了公司在应对能源供应链脆弱性和区域性供应紧张方面的积极策略，反映出全球供应链压力对特定行业的持续影响，以及企业为保障运营稳定而采取的非常规措施，增加了运输成本和复杂性。",
+      "title": "FDA顾问建议在美国推广BPC-157等肽类药物，或带来新医疗市场",
+      "summary": "美国食品药品监督管理局（FDA）的顾问委员会多数成员支持BPC-157和TB-500等肽类药物在美国合法化并可合法复合使用。这一决定可能为这些肽类药物在美国的广泛应用打开大门，从而创造新的医疗市场和投资机会，尤其是在再生医学和健康补充剂领域。投资者应关注相关监管政策的最终落地。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "西南航空为应对供应链担忧，首次采取海运方式运输喷气燃料",
+      "summary": "为预防潜在的供应短缺，西南航空公司今年春季首次通过船舶将燃油从休斯顿运至洛杉矶。此举反映出航空公司在应对日益脆弱的供应链和能源成本波动方面的创新策略。这种非常规的物流安排，凸显了企业为保障运营稳定和降低风险所做的努力，也可能成为未来行业供应链管理的新趋势。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -279,8 +305,8 @@
       ]
     },
     {
-      "title": "本田宣布将在美国生产新款皮卡，CR-V持续引领美国销量",
-      "summary": "本田汽车宣布将生产一款全新美国制造的皮卡，尽管其Ridgeline中型皮卡的未来曾不明朗且将暂时停产。这一战略调整是在其CR-V车型持续引领美国市场销量的背景下进行的，显示出本田对北美市场皮卡需求的信心和本土化生产的决心，旨在更好地满足美国消费者偏好，并优化其产品线布局，巩固市场份额。",
+      "title": "本田汽车预告新款美国本土制造皮卡，强化在美市场布局",
+      "summary": "在CR-V车型引领美国销量的背景下，本田汽车预告将推出一款在美国本土制造的新款皮卡。此前，Ridgeline中型皮卡的未来尚不明朗，且将暂时停产。这一战略调整表明本田正加大对美国皮卡市场的投入，以满足当地消费者需求，并强化其在美国市场的生产和销售布局，对汽车行业投资者而言是值得关注的信号。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -291,32 +317,32 @@
   ],
   "overlooked": [
     {
-      "title": "巴西农产品出口额超越美国，成为全球贸易格局变化的体现",
-      "summary": "去年，巴西的农产品出口总额达到1710亿美元，仅比美国少20亿美元，并被许多分析师认为受益于特朗普总统关税政策所引发的贸易中断。随着美国出口下降而巴西出口上升6%，这表明全球农产品贸易流向正发生结构性变化，新兴市场在特定领域的影响力日益增强，是长期投资趋势中值得关注的信号。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/brazil-fact-of-the-day-12.html"
-        }
-      ]
-    },
-    {
-      "title": "国家关键基础设施面对无人机威胁的脆弱性凸显，对经济稳定构成潜在风险",
-      "summary": "乌克兰和伊朗战争的经验揭示，包括大国在内的许多国家经济运行高度依赖少数关键建筑和基础设施。对于缺乏天然屏障的国家，无人机技术的快速发展彻底改变了传统防御概念，使其基础设施面临前所未有的攻击风险。这强调了地缘政治冲突中非传统威胁对经济韧性和国家安全构成的潜在结构性挑战，是投资者评估长期风险时需考量的因素。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/solve-for-the-equilibrium-19.html"
-        }
-      ]
-    },
-    {
-      "title": "市场对8月股市表现的传统误解：历史数据显示其并非必然低迷",
-      "summary": "尽管华尔街普遍流传“8月股市低迷”的说法，但超过200年的历史数据显示，股票在8月份通常会实现上涨，且市场波动性远低于平均水平。这一数据纠正了普遍的季节性误解，提示投资者不应盲目遵循传统观念，而应基于更全面的历史数据进行决策，避免因错误认知而错过潜在的市场机会，影响投资回报。",
+      "title": "“八月股市疲软”或为神话，历史数据显示并非如此",
+      "summary": "华尔街普遍流传的“八月股市容易疲软”的说法，正在被历史数据挑战。一项分析指出，过去200多年的数据显示，美股在八月通常会录得上涨，且市场波动性远低于平均水平。这一观点挑战了市场季节性偏差的传统认知，提示投资者在评估市场走势时应更侧重基本面和具体数据，而非盲从经验性结论。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-it-bc47db44?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "AI股票抛售或能“拯救”牛市，而非终结其势头",
+      "summary": "近期AI相关股票的抛售潮，虽然看似“触目惊心”，但有分析认为这可能非但不会终结牛市，反而有望“拯救”牛市。通过挤出过热的投机情绪和估值泡沫，市场资金可能被引导至更具价值和持续增长潜力的领域。这种观点提供了一个独特的视角，认为适度的调整是市场健康的标志，有助于牛市的长期可持续性。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks- terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "从韩国投资经验反思牛市策略，避免盲目追涨",
+      "summary": "知名投资评论员Ben Carlson通过分析韩国在经济繁荣时期的投资经验指出，即使在市场高度乐观的牛市中，投资者也应保持清醒，避免盲目追逐热门资产。韩国的案例提示，过度的投机最终可能带来风险。对于当前市场，这强调了审慎投资、关注基本面和长期价值的重要性，为投资者在市场狂热中提供了冷静的视角。",
+      "sources": [
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/07/investing-in-the-boom-times/"
         }
       ]
     }
