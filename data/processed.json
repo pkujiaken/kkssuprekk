@@ -1,22 +1,16 @@
 {
   "top5": [
     {
-      "title": "美国SEC探讨24小时股票交易，或重塑市场结构",
-      "summary": "美国证券交易委员会（SEC）宣布将于2026年9月17日举行圆桌会议，讨论美国股票市场转向24小时交易的可能性，包括过夜交易的准备、运营及韧性。此举意义重大，可能彻底改变美国股票市场的运作模式，提高全球投资者的参与度，但也将带来新的监管、技术和流动性挑战。",
+      "title": "全球贸易战重燃与油价冲击叠加，通胀压力激增",
+      "summary": "美国在全球油价突破100美元/桶的背景下，对80多个国家实施了新的关税措施，理由是担忧强迫劳动。此举是在最高法院此前否决其关税后，特朗普政府再次推进其贸易议程。小企业对此提起诉讼，经济学家警告此轮关税恐进一步加剧家庭和企业的负担。这标志着全球经济面临能源成本和贸易壁垒的双重冲击，预示着更剧烈的通胀压力和供应链不确定性。",
       "sources": [
         {
-          "name": "SEC Press",
-          "url": "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading"
-        }
-      ]
-    },
-    {
-      "title": "特朗普政府对逾80国征收新一轮关税，全球贸易战升级",
-      "summary": "特朗普政府宣布对80多个国家征收约10%的新关税，以“强制劳动”为由，取代此前被最高法院叫停的关税措施。此举标志着美国贸易保护主义政策的再度升级，可能加剧全球贸易紧张局势，推高企业运营成本，并对消费者价格造成压力，从而对全球经济增长前景构成不确定性。",
-      "sources": [
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html"
+        },
         {
           "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html"
+          "url": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html"
         },
         {
           "name": "NYT DealBook",
@@ -29,18 +23,8 @@
       ]
     },
     {
-      "title": "美国10年期国债收益率飙升至特朗普第二任期最高点",
-      "summary": "美国10年期国债收益率近期持续攀升，达到特朗普第二任期以来的最高水平。分析认为，这主要受伊朗冲突升级、政府支出增加的担忧以及人工智能领域巨大投资对经济增长的刺激共同影响。收益率上升反映出市场对通胀和更高借贷成本的预期，可能对股票估值和企业融资环境产生负面影响，预示着宏观经济面临的复杂挑战。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html"
-        }
-      ]
-    },
-    {
-      "title": "穆迪警告：科技巨头巨额AI支出或威胁其信用评级",
-      "summary": "评级机构穆迪发出警告，亚马逊、Meta、Alphabet等全球现金流最充裕的科技巨头，其史无前例的人工智能投资支出，正迫使它们更多地依赖债务、股权融资和表外操作，从而对其信用质量构成潜在威胁。此分析揭示了AI军备竞赛的财务风险，即使是头部公司也面临资金压力，可能影响其未来融资成本和市场信心。",
+      "title": "穆迪警告AI“烧钱”模式或威胁大型科技公司信用评级",
+      "summary": "信用评级机构穆迪发出警告，亚马逊、Meta和Alphabet等全球最富有的科技公司，其前所未有的AI投入正在迫使它们严重依赖债务、股票出售及表外融资。这种“烧钱”竞争模式可能对其信用质量构成威胁。此判断意义重大，表明AI军备竞赛不仅是技术和市场份额之争，更开始触及科技巨头的财务健康和资本结构，为投资者评估其长期风险带来了新的考量。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -53,44 +37,12 @@
       ]
     },
     {
-      "title": "油价飙升推高美联储加息预期，市场准备应对九月紧缩",
-      "summary": "随着国际油价持续走高，市场对美联储在9月份加息的预期大幅升温。原油价格逼近每桶100美元，加剧了通胀担忧，促使投资者重新评估货币政策路径。如果美联储选择再次加息以遏制通胀，将进一步收紧全球流动性，对经济增长和资产市场带来新的挑战。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    }
-  ],
-  "people": [
-    {
-      "name": "Ben Thompson (Stratechery创始人)",
-      "title": "他认为人工智能领域正在进行“精神鸦片战争”",
-      "summary": "观点：原话：「『精神鸦片战争』（Copium Wars）正在进行中，尤其体现在中国模型和前沿期货的竞争上。」Ben Thompson在其周报中指出，人工智能领域的全球竞争，特别是中美在AI模型和未来技术发展上的角力，正进入“精神鸦片战争”阶段。他对Hugging Face事件及相关讨论的分析，反映出这一竞争的复杂性和战略重要性。",
-      "sources": [
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/the-copium-wars/"
-        }
-      ]
-    },
-    {
-      "name": "Tyler Cowen (经济学家，Marginal Revolution博主)",
-      "title": "他点评欧盟对美科技公司罚款及AI网络安全事件",
-      "summary": "观点：原话：「今年，就像去年一样，欧盟从对美国科技公司的罚款中获得的收入将再次超过其自身上市科技公司的总税收收入！」以及对OAI/Hugging Face事件的两种贝叶斯更新可能：「这比我预料的来得早，故事也比我预料的更戏剧性，因此我比以前更担心。」或者「这发生了，而次于美国的中国网络防御似乎表现良好，因此我...」Tyler Cowen强调，欧盟对美国科技巨头的监管罚款已成为其重要收入来源，凸显了美欧之间日益加剧的科技监管冲突。他对OpenAI/Hugging Face黑客事件提供两种分析视角，一是加剧对网络安全的担忧；二是认为中国网络防御表现尚可，引发对未来地缘政治技术竞争态势的不同解读。",
+      "title": "美国与欧洲在大型科技公司监管问题上摩擦加剧",
+      "summary": "欧盟持续对美国科技巨头征收巨额罚款，其罚款收入甚至超过了欧洲本土上市科技公司的总税收。美国总统特朗普对此回应称将调查欧盟的罚款行为，并要求“完全撤销”对谷歌、苹果、Meta和亚马逊的罚款。这一系列事件凸显了跨大西洋在科技监管方面的深刻分歧，预示着大型科技公司未来将面临更复杂的国际运营环境和地缘政治风险。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/european-fact-of-the-day-again.html?utm_source=rss&utm_medium=rss&utm_campaign=european-fact-of-the-day-again"
-        },
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-optimal-bayesian-update.html?utm_source=rss&utm_medium=rss&utm_campaign=the-optimal-bayesian-update"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/european-fact-of-the-day-again.html"
         },
         {
           "name": "BBC Business",
@@ -99,20 +51,91 @@
       ]
     },
     {
-      "name": "Anthropic首席经济学家",
-      "title": "他讨论了AI对失业率的影响",
-      "summary": "观点：他提到了人工智能对失业率的影响。Tyler Cowen在其周报中引述了Anthropic首席经济学家关于人工智能对就业市场影响的观点。虽然具体内容未详述，但这表明业界正高度关注AI技术发展可能带来的劳动力市场结构性变化，对于政策制定者和投资者评估未来经济走势及行业转型具有重要参考意义。",
+      "title": "全球主要经济体在AI领域划分阵营，呼吁“强安全”开源AI",
+      "summary": "在中国峰会上，美国及其他国家呼吁支持“强安全”的开源人工智能，这是亚太经合组织（APEC）首次在部长级声明中包含开源合作，被视为在AI发展路径上与中国进行战略区分。此举表明全球主要经济体正努力在AI治理和技术标准上形成共识，并在强调安全性的同时，可能为未来的技术合作与竞争设定新的界限，对AI产业的生态发展具有深远影响。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-562.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-562"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html"
         }
       ]
     },
     {
-      "name": "Dr Charles Woodburn (BAE Systems首席执行官)",
-      "title": "他警告英国对战争威胁自满",
-      "summary": "观点：原话：「攻击威胁从未如此之高，英国对战争威胁表现出自满。」欧洲最大防务承包商BAE Systems的首席执行官Dr Charles Woodburn警告称，全球面临的攻击威胁已达到历史最高水平，但英国对此表现出自满。他的观点突显了地缘政治紧张局势的加剧，以及西方国家在国防开支和战略准备方面的潜在不足，这可能影响防务行业的投资和国家安全策略。",
+      "title": "油价飙升推高美联储加息预期，市场面临更高利率风险",
+      "summary": "中东地区紧张局势升级导致原油价格飙升至每桶100美元，促使市场对美联储9月加息的预期显著增强。投资者正在为可能到来的紧缩货币政策做准备，这可能进一步提高借贷成本并对股票市场构成压力。这一趋势表明能源市场动荡已成为影响全球央行政策和宏观经济走向的关键因素，投资者需警惕由此带来的市场波动和流动性收紧风险。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "name": "Ben Thompson",
+      "title": "科技战略家对AI竞争和中国模型持战略视角",
+      "summary": "观点：Stratechery本周的重点内容包括对“中国模型和前沿期货”的分析，以及对Hugging Face事件的探讨，其系列文章标题“Copium Wars”暗示了科技行业在AI领域激烈的竞争和战略博弈。这表明Ben Thompson正在深入剖析AI领域的地缘政治和技术竞争态势，其观点对于理解AI产业的长期发展路径至关重要。",
+      "sources": [
+        {
+          "name": "Stratechery (Ben Thompson)",
+          "url": "https://stratechery.com/2026/07/the-copium-wars/"
+        }
+      ]
+    },
+    {
+      "name": "Tyler Cowen",
+      "title": "经济学家关注AI网络安全、RWA代币化及欧美科技摩擦",
+      "summary": "观点：Tyler Cowen在近期评论中，对OAI/Hugging Face的黑客事件以及“劣势中国网络防御表现良好”的可能性提出了贝叶斯更新的思考。他同时关注巴西农民通过畜牧代币化获取信贷的案例，认为这展示了将真实世界资产（RWA）代币化作为融资工具的潜力。此外，他还强调了欧盟对美国科技公司处以罚款超过欧洲本土科技公司税收总额的现象，揭示了欧美科技监管的深层矛盾。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-optimal-bayesian-update.html"
+        },
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/crypto-markets-in-everything.html"
+        },
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/european-fact-of-the-day-again.html"
+        }
+      ]
+    },
+    {
+      "name": "Donald Trump",
+      "title": "誓言调查欧盟对美国科技公司的巨额罚款",
+      "summary": "原话：「（对谷歌、苹果、Meta和亚马逊的罚款）应被完全撤销。」美国前总统特朗普表示将调查欧盟持续对美国科技公司处以巨额罚款的行为。此言论预示着如果特朗普再次执政，可能会采取更强硬的贸易和监管立场，加剧跨大西洋贸易摩擦，并对美国科技巨头在欧洲的运营构成新的不确定性。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "name": "Moody's",
+      "title": "警告AI巨额支出威胁大型科技公司信用质量",
+      "summary": "观点：信用评级机构穆迪指出，亚马逊、Meta和Alphabet等公司“前所未有”的AI支出正迫使它们大量依赖债务、股票销售和表外举措，这可能对其信用质量构成威胁。这一评估反映了资本市场对AI竞赛高成本的担忧，以及这些支出如何影响科技巨头的财务可持续性，对投资者分析大型科技股的风险回报至关重要。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html"
+        }
+      ]
+    },
+    {
+      "name": "Dr Charles Woodburn (BAE Systems CEO)",
+      "title": "英国防务巨头警告英国对战争威胁过于自满",
+      "summary": "原话：「（攻击威胁）从未如此之高。」欧洲最大国防承包商BAE Systems的首席执行官查尔斯·伍德伯恩博士警告称，英国对战争威胁过于自满。这一高级别防务企业领导人的言论突显了地缘政治紧张局势的加剧，预示着全球国防开支可能持续增长，对相关产业的投资前景具有参考意义。",
       "sources": [
         {
           "name": "BBC Business",
@@ -124,7 +147,7 @@
   "macro": [
     {
       "title": "英国抵押贷款利率升至一个月来最高水平",
-      "summary": "受中东地区紧张局势加剧影响，英国抵押贷款利率已攀升至一个月来的最高点。地缘政治冲突推高了借贷成本，这可能对英国房地产市场和消费者支出构成压力，进一步影响通胀路径和英国央行的货币政策选择。",
+      "summary": "受中东局势紧张和油价上涨影响，英国抵押贷款利率已升至一个月来的最高点。这反映出地缘政治风险和能源成本正在通过融资成本传导至消费者，可能对英国房地产市场和消费者支出构成压力，对英国经济前景产生负面影响。",
       "sources": [
         {
           "name": "BBC Business",
@@ -133,72 +156,62 @@
       ]
     },
     {
-      "title": "英国燃油价格因油价逼近100美元/桶而再次上涨",
-      "summary": "随着国际原油价格重返每桶100美元左右，英国汽油和柴油价格再次上涨。油价上涨直接推高了能源成本，将进一步传导至物流和消费品价格，加剧通胀压力，并可能侵蚀消费者购买力，对经济复苏形成阻力。",
+      "title": "市场未充分准备好应对30年期美债收益率升至6%",
+      "summary": "分析指出，如果30年期美国国债收益率飙升至6%，股票市场将受到严重冲击，并加剧债券基金的亏损。目前市场对长期利率上升的风险定价不足，意味着一旦通胀或货币政策导致长期收益率大幅走高，可能引发跨资产类别的剧烈调整，投资者需重新评估其投资组合的利率风险敞口。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "美国企业薪资涨幅持续收窄，明年增速预计放缓",
-      "summary": "最新数据显示，美国企业的薪资涨幅正在持续收窄，预计明年将进一步放缓。这表明劳动力市场可能正在降温，企业在控制成本方面面临压力。对于消费者而言，实际购买力可能受损，从而影响整体经济的消费驱动力，并为美联储的货币政策决策提供参考。",
+      "title": "薪资涨幅持续缩水，预示未来一年增长将更小",
+      "summary": "一项分析显示，劳工薪资涨幅持续收窄，预计明年将进一步下降。尽管这可能有助于缓解通胀压力，但长期而言，薪资增长放缓将影响消费者购买力，进而可能拖累整体经济增长。对于依赖消费驱动的市场来说，这一趋势值得投资者密切关注。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/pay-raises-keep-shrinking-heres-how-much-smaller-theyll-be-next-year-3fa51395?mod=mw_rss_topstories"
         }
       ]
-    },
-    {
-      "title": "英国与特朗普政府的贸易协议吸引力下降",
-      "summary": "英国与特朗普政府达成的贸易协议，在全球关税格局变化下，其优势已不再显著。尽管美国对英国征收的关税没有实质性变化，但其他国家与美国达成了更好的协议，使得英国的相对竞争力减弱。这可能促使英国重新评估其贸易策略，并对特定出口行业造成影响，英国经济面临的国际贸易环境更为复杂。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
     }
   ],
   "tech": [
     {
-      "title": "中美等国在华峰会支持“强安全”的开源AI发展",
-      "summary": "在中国举行的一次峰会上，美国及其他国家共同表示支持“强安全”的开源人工智能发展。亚太经合组织（APEC）的这一声明，首次在部长级层面纳入了开源合作，预示着国际社会在AI技术开放性与安全性之间寻求平衡，对AI标准制定和全球技术合作模式将产生深远影响。",
+      "title": "AI模型Opus 5在智能分析排行榜上名列前茅",
+      "summary": "Opus 5目前在Artificial Analysis Intelligence排行榜上排名第一，表明其在AI性能方面取得了显著进展。AI模型能力的持续突破是科技行业的核心驱动力，这类进展可能预示着AI应用场景和商业模式的进一步扩展，对投资者评估AI相关公司的技术实力和市场潜力具有指导意义。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html"
+          "name": "Hacker News Top",
+          "url": "https://artificialanalysis.ai/models"
         }
       ]
     },
     {
-      "title": "JPMorgan报告：AI主题ETF大幅增长，但面临季度挑战",
-      "summary": "摩根大通资产管理公司的一份报告指出，尽管近期市场表现不佳，但专注于人工智能主题的交易所交易基金（ETF）出现了显著增长。华尔街正大力押注AI相关的ETF，反映出投资者对AI技术长期潜力的强烈信心，但其短期波动性仍需关注，警示市场可能存在过热风险。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html"
-        }
-      ]
-    },
-    {
-      "title": "大型语言模型展现预测社会科学实验结果的能力",
-      "summary": "有研究表明，大型语言模型（LLMs）已经能够预测社会科学实验的结果。这一进展预示着AI在理解人类行为和辅助社会科学研究方面的巨大潜力，可能加速研究进程，但也引发了关于数据隐私、伦理和模型偏见的进一步讨论，对AI应用的边界和风险管理提出了新要求。",
+      "title": "大型AI模型安全漏洞事件凸显网络防御重要性",
+      "summary": "近期发生的OAI/Hugging Face黑客攻击事件引发了业界对AI模型网络安全和防御能力的高度关注。在AI技术快速发展的同时，其脆弱性也日益暴露，促使企业和国家加强AI系统的安全防护。投资者应关注AI安全领域的投资机会，以及网络安全风险对AI产业发展和企业估值可能带来的影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-562.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-562"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-optimal-bayesian-update.html"
+        }
+      ]
+    },
+    {
+      "title": "欧盟对美国科技公司罚款收入超过本土科技公司税收",
+      "summary": "欧盟今年再次从对美国科技公司的罚款中获得的收入，超出了其自身公共科技公司缴纳的总税收。这一现象不仅反映了欧盟对大型科技平台日益严格的监管态度，也可能加剧跨大西洋贸易和技术政策的紧张关系。对于在欧洲运营的美国科技巨头来说，这预示着更高的合规成本和更复杂的市场环境，从而影响其盈利能力。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/european-fact-of-the-day-again.html"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "派拉蒙同意推迟与华纳兄弟的合并数月至2027年6月",
-      "summary": "派拉蒙公司同意将其与华纳兄弟探索公司的收购协议推迟至2027年6月，除非在此之前法官对阻止该交易的诉讼作出裁决。此次延期反映出并购案面临的监管和法律挑战，可能对两家公司的未来战略整合和市场竞争格局带来不确定性，并影响投资者对媒体行业整合的信心。",
+      "title": "派拉蒙与华纳兄弟合并计划因法律挑战推迟至2027年",
+      "summary": "派拉蒙公司同意将其与华纳兄弟探索公司的合并计划推迟数月，最晚至2027年6月，除非在此之前法官对阻止该交易的诉讼作出裁决。这项延迟表明大型媒体并购面临日益严格的反垄断审查和法律挑战，这可能影响媒体行业的整合步伐和竞争格局，对投资者评估相关公司未来的增长战略带来不确定性。",
       "sources": [
         {
           "name": "NYT Business",
@@ -211,40 +224,24 @@
       ]
     },
     {
-      "title": "Albertsons股价大跌，因杂货消费疲软下调销售和盈利预期",
-      "summary": "杂货连锁店Albertsons的股价周四大幅下跌，此前该公司报告核心业务表现疲软，并因此下调了全年销售和盈利预期。这反映出消费者在杂货支出方面趋于谨慎，可能预示着更广泛的零售行业面临挑战，并影响其他消费股表现，尤其是在高通胀和利率环境下。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html"
-        }
-      ]
-    },
-    {
-      "title": "美国航空股价暴跌8%，因燃油成本飙升进一步推迟复苏",
-      "summary": "美国航空将其2026年全年盈利预期再次下调，主要原因是燃油成本的飙升，导致公司股价暴跌8%。航空公司对燃料价格高度敏感，此次下跌凸显了能源成本对航空业利润率的巨大压力，并可能延缓其从疫情中完全复苏的进程，对整个航空板块形成利空。",
+      "title": "美国航空因燃油成本飙升下调全年盈利预期，股价下跌8%",
+      "summary": "美国航空公司因燃油成本显著上涨，进一步下调了2026年的盈利展望，导致其股价下跌8%。与此同时，西南航空也因供应担忧首次通过海运从德克萨斯州向洛杉矶运输航空燃料。这些事件凸显了能源价格对航空业盈利能力的直接且剧烈影响，投资者需关注油价波动对航空公司及其他高能耗企业的财务健康状况。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html"
-        }
-      ]
-    },
-    {
-      "title": "市场未充分准备好应对30年期国债6%的收益率",
-      "summary": "分析指出，美国股票市场尚未充分准备好应对30年期国债收益率可能升至6%的情况。长期债券收益率飙升将压制股票估值，并加深债券基金的损失，预示着如果利率持续上行，股市可能面临显著回调风险，投资者需警惕债市波动对股市的传导效应。",
-      "sources": [
+        },
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html"
         }
       ]
     }
   ],
   "a_stocks": [
     {
-      "title": "中国经济在特朗普贸易战中表现出韧性，处于有利地位",
-      "summary": "尽管特朗普政府持续发起贸易战，但分析显示，中国经济在此过程中表现出较强的韧性，目前处于相对有利的地位。尽管美国多次威胁，但对中国商品征收的整体平均加权关税保持大致不变，甚至低于巴西和加拿大等国。这表明贸易战的实际效果可能不如预期，中国在全球供应链中的核心地位和经济结构调整能力使其得以缓冲外部冲击，对中国市场长期投资信心构成支撑。",
+      "title": "中国在全球贸易战中表现出韧性，位置良好",
+      "summary": "尽管面临美国总统特朗普的贸易战威胁，但中国商品的整体加权平均关税保持相对稳定，目前甚至低于巴西和加拿大等国。这表明中国经济在全球贸易冲突中展现出一定的韧性，成功应对了外部压力，并在国际贸易格局中维持了有利地位。对于A股市场和中国资产的投资者而言，这一观察为评估中国经济的长期稳定性和抗风险能力提供了积极信号。",
       "sources": [
         {
           "name": "NYT Business",
@@ -255,8 +252,8 @@
   ],
   "business": [
     {
-      "title": "FDA专家组投票支持六种肽类药物可用于配制，或引发处方热潮",
-      "summary": "FDA专家组投票支持六种常用肽类药物可在轻度监管的配制药房中使用，此举可能推动相关处方量的激增，并使这一已达数十亿美元的业务进一步扩张。然而，这也引发了对这些复合肽类药物安全性和有效性的广泛担忧，预示着医疗健康行业将面临新的监管挑战与市场机遇。",
+      "title": "FDA专家组投票支持多种肽类化合物在药房配制，或引发市场繁荣",
+      "summary": "美国食品药品监督管理局（FDA）的一个专家委员会投票支持在轻度监管的复合药房中更广泛地使用六种肽类化合物。这一决定可能催生一个数十亿美元的处方市场繁荣，特别是在健康和保健领域。投资者应关注这一监管变化对制药、生物技术和健康服务行业可能带来的机遇与挑战，以及潜在的市场扩张和合规风险。",
       "sources": [
         {
           "name": "NYT Business",
@@ -264,59 +261,39 @@
         },
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/fda-advisers-say-six-popular-peptides-can-be-compounded-here-are-the-issues-they-considered-2bc85739?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/fda-advisers-vote-against-sleep-peptide-as-they-debate-safety-and-health-claims-2bc85739?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "科技财富激增，推动恐龙骨骼、艺术品和手表拍卖价格创新高",
-      "summary": "随着科技领域财富的爆炸式增长，高净值人群对另类资产的需求也空前旺盛，导致恐龙骨骼、艺术品和高端手表等收藏品的拍卖价格创下新纪录。主要拍卖行上半年销售额接近100亿美元，显示出富裕阶层资产配置和消费趋势的变化，另类投资市场持续受到科技资本的青睐。",
+      "title": "科技财富激增推动艺术品、恐龙骨等另类资产价格创新高",
+      "summary": "主要拍卖行报告称，上半年销售额接近100亿美元，创下有史以来最强劲的开局之一，这得益于科技财富的爆炸式增长。恐龙骨、艺术品和名表等另类资产价格创下新高，反映出高净值投资者对多样化和稀缺性资产的强劲需求。这一趋势表明财富效应正在向非传统投资领域传导，为另类资产市场带来持续的活跃度。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html"
         }
       ]
-    },
-    {
-      "title": "西南航空首次通过海运从德州向洛杉矶运输航空燃油",
-      "summary": "为应对潜在的供应短缺，西南航空今年春天首次租用船只，将航空燃油从休斯顿运至洛杉矶。这一非传统举措凸显了美国国内燃油供应链的脆弱性，以及航空公司在确保运营稳定性方面所面临的挑战和采取的创新措施，反映出能源物流的复杂性和重要性。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html"
-        }
-      ]
     }
   ],
   "overlooked": [
     {
-      "title": "AI在投资领域的潜在偏见：部署前需深入理解",
-      "summary": "在将人工智能应用于投资决策前，投资者需要充分理解其潜在的隐藏偏见。AI算法虽然能快速构建投资组合，但其决策逻辑可能存在缺陷，无法完全替代人类判断。这提醒投资者在采纳AI建议时需保持审慎，并关注其透明度和可解释性，以避免因算法偏见导致意想不到的风险。",
+      "title": "巴西农民通过畜牧代币化获取信贷，RWA代币化潜力初显",
+      "summary": "巴西帕拉纳州的农民通过将10头奶牛的代币化，在巴西B3国家证券交易所交易，成功获得近2万美元信贷。这是首次在巴西将牲畜代币化作为融资工具，凸显了真实世界资产（RWA）代币化在解决传统融资难题方面的巨大潜力，尤其是在新兴市场。这种创新模式可能为农业、房地产等传统行业带来新的流动性和投资机会。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/crypto-markets-in-everything.html"
+        }
+      ]
+    },
+    {
+      "title": "AI投资面临隐性偏见风险，机器人顾问尚无法替代人类判断",
+      "summary": "尽管人工智能可以在几秒钟内构建投资组合，但其隐藏的偏见可能导致金融建议失败。投资者在寻求AI辅助理财时，必须理解这些潜在风险。这提示了AI在金融领域的应用仍处于发展初期，人类顾问的专业判断和风险管理能力仍不可或缺，对金融科技和AI伦理投资者具有重要启示。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "太空经济学新兴研究：Tyler Cowen关注的结构性变化",
-      "summary": "经济学家Tyler Cowen在其日常链接中提到对“太空经济学”的关注。随着商业航天、卫星技术和太空资源探索的加速发展，太空经济作为一个新兴领域正逐步成型。这代表了一种长期的结构性变化，未来可能催生全新的商业模式和投资机会，值得高净值投资者提前关注，探索其潜在的颠覆性影响。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-562.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-562"
-        }
-      ]
-    },
-    {
-      "title": "韩国投资者“繁荣时期投资”的经验教训",
-      "summary": "一篇关于韩国投资者“繁荣时期投资”经验的文章，提供了在全球经济繁荣期如何进行资产配置和风险管理的见解。尽管具体细节未展开，但其强调了从区域市场中汲取经验的重要性，特别是在当前全球经济周期复杂多变背景下，对高净值投资者具有借鉴意义，提示在市场高涨时保持谨慎。",
-      "sources": [
-        {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/07/investing-in-the-boom-times/"
         }
       ]
     }
