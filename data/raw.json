@@ -78,6 +78,27 @@
   },
   {
     "source": "NYT Business",
+    "title": "Sell the Company for $400 Million? He’s Giving It Away Instead.",
+    "link": "https://www.nytimes.com/2026/07/25/business/grady-white-boats-charity.html",
+    "summary": "After his sole heir died, Eddie Smith, the owner of Grady-White Boats, looked for a way to pass on his legacy. He was inspired by Patagonia to pledge future profits to charity.",
+    "published": "Sat, 25 Jul 2026 12:00:10 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Blockbuster I.P.O.s Are Creating New Millionaires. Philanthropies Want a Cut.",
+    "link": "https://www.nytimes.com/2026/07/25/business/dealbook/spacex-anthropic-philanthropy.html",
+    "summary": "As start-ups like Anthropic and OpenAI prepare to go public, nonprofits are hoping for a secondary giving windfall from the new tech ultrawealthy.",
+    "published": "Sat, 25 Jul 2026 12:00:03 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Tankers Sail Through Red Sea Despite Houthi Blockade",
+    "link": "https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html",
+    "summary": "Dozens of ships continued to traverse the Red Sea this week, but with scattered disruption, uncertainty about the passage grows by the hour.",
+    "published": "Sat, 25 Jul 2026 09:02:10 +0000"
+  },
+  {
+    "source": "NYT Business",
     "title": "A Global Economy Jolted by an Oil Shock Now Gets a Tariff Reminder",
     "link": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html",
     "summary": "Tariffs are back, but this time there is a war in the Persian Gulf and oil has hit $100 a barrel.",
@@ -88,7 +109,7 @@
     "title": "1.6 Million Egg Cartons Are Recalled Over Salmonella Risk",
     "link": "https://www.nytimes.com/2026/07/24/business/egg-recall-salmonella-texas.html",
     "summary": "The voluntary recall included eggs produced in Texas and sold under several brand names in six states, the Food and Drug Administration said.",
-    "published": "Fri, 24 Jul 2026 23:47:27 +0000"
+    "published": "Fri, 24 Jul 2026 23:47:28 +0000"
   },
   {
     "source": "NYT Business",
@@ -126,27 +147,6 @@
     "published": "Fri, 24 Jul 2026 20:25:56 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "Former ‘60 Minutes’ Reporter Cecilia Vega Details Claims of Meddling",
-    "link": "https://www.nytimes.com/2026/07/24/business/media/cecilia-vega-60-minutes.html",
-    "summary": "Cecilia Vega described what she said was pressure from executives to insert bias into several segments that aired this year.",
-    "published": "Fri, 24 Jul 2026 20:33:38 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Coca-Cola’s New Branding Reminds People of Marlboro",
-    "link": "https://www.nytimes.com/2026/07/24/dining/coca-cola-marlboro.html",
-    "summary": "After the soda company introduced a new brand design, some fans spotted similarities to the typeface used by the cigarette brand. Enter the font nerds.",
-    "published": "Fri, 24 Jul 2026 15:34:35 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "China Has Come Through Trump’s Trade War in a Good Position",
-    "link": "https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html",
-    "summary": "Despite threats from President Trump, the overall average weighted tariff on Chinese goods remained about the same, and is now lower than countries like Brazil and Canada.",
-    "published": "Fri, 24 Jul 2026 14:20:13 +0000"
-  },
-  {
     "source": "NYT Economy",
     "title": "A Global Economy Jolted by an Oil Shock Now Gets a Tariff Reminder",
     "link": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html",
@@ -180,6 +180,13 @@
     "link": "https://www.nytimes.com/newsletters/signup/DK",
     "summary": "Make sense of the latest business and policy headlines with our daily newsletter.",
     "published": "Fri, 24 Jul 2026 12:15:06 +0000"
+  },
+  {
+    "source": "NYT DealBook",
+    "title": "Blockbuster I.P.O.s Are Creating New Millionaires. Philanthropies Want a Cut.",
+    "link": "https://www.nytimes.com/2026/07/25/business/dealbook/spacex-anthropic-philanthropy.html",
+    "summary": "As start-ups like Anthropic and OpenAI prepare to go public, nonprofits are hoping for a secondary giving windfall from the new tech ultrawealthy.",
+    "published": "Sat, 25 Jul 2026 12:00:03 +0000"
   },
   {
     "source": "BBC Business",
@@ -225,13 +232,6 @@
   },
   {
     "source": "BBC Business",
-    "title": "UK complacent about war threat, warns BAE boss",
-    "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
-    "summary": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned.\nDr Charles Woodburn",
-    "published": "Thu, 23 Jul 2026 23:04:19 GMT"
-  },
-  {
-    "source": "BBC Business",
     "title": "US hits dozens of countries with new wave of tariffs",
     "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
     "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
@@ -250,6 +250,55 @@
     "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "summary": "UK petrol and diesel prices are going up again as the price of oil returns to around $100 a barrel.",
     "published": "Fri, 24 Jul 2026 10:45:41 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Scotch whisky levy lifted as Trump imposes new wave of US tariffs",
+    "link": "https://www.bbc.co.uk/news/articles/c7vgz680977o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Scottish government welcomed the lifting of the 10% levy, which the US President agreed after the state visit of King Charles.",
+    "published": "Fri, 24 Jul 2026 09:35:23 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Your retirement math may have a surprising flaw",
+    "link": "https://www.marketwatch.com/story/your-retirement-math-may-have-a-surprising-flaw-2d8f58d8?mod=mw_rss_topstories",
+    "summary": "Stress-test your retirement plan against late-life healthcare and housing shocks.",
+    "published": "Sat, 25 Jul 2026 13:53:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Pro stock pickers cannot beat simple math — war in the Middle East is proving it",
+    "link": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
+    "summary": "Active stock pickers almost always lose against the broad market. They can’t beat simple math.",
+    "published": "Sat, 25 Jul 2026 13:36:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "SpaceX isn’t the wireless threat that investors fear — unless someone breaks this unspoken agreement",
+    "link": "https://www.marketwatch.com/story/spacex-isnt-the-wireless-threat-that-investors-fear-unless-someone-breaks-this-unspoken-agreement-864dab90?mod=mw_rss_topstories",
+    "summary": "It would likely be too expensive and time-consuming for SpaceX to build a mobile network on its own. But the major wireless carriers have to hope one of their rivals doesn’t sell out.",
+    "published": "Sat, 25 Jul 2026 12:00:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+    "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+    "summary": "“We would rather pay taxes upfront than pay mortgage interest.”",
+    "published": "Sat, 25 Jul 2026 11:30:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Investors are in the dark about the Fed’s decision this week — and that’s just how Warsh wants it",
+    "link": "https://www.marketwatch.com/story/investors-are-in-the-dark-about-the-feds-decision-this-week-and-thats-just-how-warsh-wants-it-c9cbfd3f?mod=mw_rss_topstories",
+    "summary": "Will Kevin Warsh support a rate hike? Fasten your seat belts for the decision on Wednesday.",
+    "published": "Sat, 25 Jul 2026 11:00:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
+    "link": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
+    "summary": "“I asked why the limit was so low, but they couldn’t give me an explanation.”",
+    "published": "Sat, 25 Jul 2026 10:00:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
@@ -280,46 +329,11 @@
     "published": "Fri, 24 Jul 2026 21:45:00 GMT"
   },
   {
-    "source": "MarketWatch Top Stories",
-    "title": "The stock market is completely unprepared for a 6% yield on the 30-year Treasury",
-    "link": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
-    "summary": "Long-bond spike would crush stock gains and deepen bond-fund losses.",
-    "published": "Fri, 24 Jul 2026 21:38:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
-    "link": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
-    "summary": "“At that point, they arguably no longer need the government’s retirement safety net.”",
-    "published": "Fri, 24 Jul 2026 21:30:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Before you ask AI to invest your life savings, you need to understand its hidden biases",
-    "link": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
-    "summary": "Bots can build a portfolio in seconds — but wait until you see where their financial advice fails.",
-    "published": "Fri, 24 Jul 2026 21:30:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Pay raises keep shrinking. Here’s how much smaller they’ll be next year.",
-    "link": "https://www.marketwatch.com/story/pay-raises-keep-shrinking-heres-how-much-smaller-theyll-be-next-year-3fa51395?mod=mw_rss_topstories",
-    "summary": "One solution is getting a different job — but that’s not so simple.",
-    "published": "Fri, 24 Jul 2026 21:22:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
-    "link": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
-    "summary": "As inflation continues to squeeze household budgets, parents and students are on a mission to find back-to-school bargains.",
-    "published": "Fri, 24 Jul 2026 21:21:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "FDA advisers say six popular peptides can be compounded. Here are the issues they considered.",
-    "link": "https://www.marketwatch.com/story/fda-advisers-vote-against-sleep-peptide-as-they-debate-safety-and-health-claims-2bc85739?mod=mw_rss_topstories",
-    "summary": "A group of experts, some of whom work in the peptide industry, said the Food and Drug Administration should allow six peptides to be compounded, in a move that could widen access to the popular wellness products for Americans.",
-    "published": "Fri, 24 Jul 2026 20:26:00 GMT"
+    "source": "CNBC Business",
+    "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
+    "link": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
+    "summary": "Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.",
+    "published": "Sat, 25 Jul 2026 12:00:02 GMT"
   },
   {
     "source": "CNBC Business",
@@ -350,20 +364,6 @@
     "published": "Fri, 24 Jul 2026 11:00:01 GMT"
   },
   {
-    "source": "CNBC Business",
-    "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
-    "link": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
-    "summary": "Southwest hired a ship this spring to send fuel from Houston to Los Angeles in case of supply shortages.",
-    "published": "Thu, 23 Jul 2026 20:45:13 GMT"
-  },
-  {
-    "source": "CNBC Business",
-    "title": "American Airlines stock tumbles 8% as fuel spike further postpones turnaround",
-    "link": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
-    "summary": "American Airlines further cut its 2026 earnings outlook, citing higher fuel costs.",
-    "published": "Thu, 23 Jul 2026 20:14:12 GMT"
-  },
-  {
     "source": "CNBC Finance",
     "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
     "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
@@ -386,20 +386,6 @@
   },
   {
     "source": "CNBC Finance",
-    "title": "Stocks making the biggest moves after hours: Intel, AMD, Boston Beer, Deckers & more",
-    "link": "https://www.cnbc.com/2026/07/23/stocks-making-the-biggest-moves-after-hours-intc-amd-sam-deck.html",
-    "summary": "These are the stocks posting the largest moves after the bell.",
-    "published": "Thu, 23 Jul 2026 20:58:09 GMT"
-  },
-  {
-    "source": "CNBC Finance",
-    "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
-    "link": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
-    "summary": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
-    "published": "Thu, 23 Jul 2026 20:25:28 GMT"
-  },
-  {
-    "source": "CNBC Finance",
     "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
     "link": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
     "summary": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
@@ -407,73 +393,73 @@
   },
   {
     "source": "Hacker News Top",
+    "title": "Android May Soon Restrict On-Device ADB",
+    "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+    "summary": "<p>Article URL: <a href=\"https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/\">https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49045159\">https://news.ycombinator.com/item?id=49045159</a></p>\n<p>Points: 468</p>\n<p># Comments: 212</p>",
+    "published": "Sat, 25 Jul 2026 06:57:14 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+    "link": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+    "summary": "<p>Article URL: <a href=\"https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize\">https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49043724\">https://news.ycombinator.com/item?id=49043724</a></p>\n<p>Points: 382</p>\n<p># Comments: 62</p>",
+    "published": "Sat, 25 Jul 2026 01:44:12 +0000"
+  },
+  {
+    "source": "Hacker News Top",
     "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
     "link": "https://artificialanalysis.ai/models",
-    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models\">https://artificialanalysis.ai/models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49040741\">https://news.ycombinator.com/item?id=49040741</a></p>\n<p>Points: 236</p>\n<p># Comments: 139</p>",
+    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models\">https://artificialanalysis.ai/models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49040741\">https://news.ycombinator.com/item?id=49040741</a></p>\n<p>Points: 332</p>\n<p># Comments: 195</p>",
     "published": "Fri, 24 Jul 2026 19:45:10 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Postgres LISTEN/NOTIFY actually scales",
     "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-    "summary": "<p>Article URL: <a href=\"https://www.dbos.dev/blog/postgres-listen-notify-scalability\">https://www.dbos.dev/blog/postgres-listen-notify-scalability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49040296\">https://news.ycombinator.com/item?id=49040296</a></p>\n<p>Points: 272</p>\n<p># Comments: 49</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.dbos.dev/blog/postgres-listen-notify-scalability\">https://www.dbos.dev/blog/postgres-listen-notify-scalability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49040296\">https://news.ycombinator.com/item?id=49040296</a></p>\n<p>Points: 340</p>\n<p># Comments: 64</p>",
     "published": "Fri, 24 Jul 2026 19:05:53 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Claude Opus 5",
     "link": "https://www.anthropic.com/news/claude-opus-5",
-    "summary": "<p><a href=\"https://www.anthropic.com/claude-opus-5-system-card\" rel=\"nofollow\">https://www.anthropic.com/claude-opus-5-system-card</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49038433\">https://news.ycombinator.com/item?id=49038433</a></p>\n<p>Points: 1454</p>\n<p># Comments: 802</p>",
+    "summary": "<p><a href=\"https://www.anthropic.com/claude-opus-5-system-card\" rel=\"nofollow\">https://www.anthropic.com/claude-opus-5-system-card</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49038433\">https://news.ycombinator.com/item?id=49038433</a></p>\n<p>Points: 1669</p>\n<p># Comments: 1043</p>",
     "published": "Fri, 24 Jul 2026 16:57:41 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
-    "link": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
-    "summary": "<p>Article URL: <a href=\"https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece\">https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49036433\">https://news.ycombinator.com/item?id=49036433</a></p>\n<p>Points: 444</p>\n<p># Comments: 325</p>",
-    "published": "Fri, 24 Jul 2026 14:41:59 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-    "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-    "summary": "<p>Letter: <a href=\"https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf\" rel=\"nofollow\">https://images.nvidia.com/pdf/Open-Weights-and-American-AI-L...</a> [pdf]<p><a href=\"https://x.com/JensenHuang/status/2080643682408321103\" rel=\"nofollow\">https://x.com/JensenHuang/status/2080643682408321103</a>, <a href=\"https://xcancel.com/JensenHuang/status/2080643682408321103\" rel=\"nofollow\">https://xcancel.com/JensenHuang/status/2080643682408321103</a><p><a href=\"https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/\" rel=\"nofollow\">https://www.wired.com/story/silicon-valley-is-completely-div...</a>, <a href=\"https://archive.ph/LAkVI\" rel=\"nofollow\">https://archive.ph/LAkVI</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=",
-    "published": "Fri, 24 Jul 2026 13:32:30 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Half-Life 2 running natively on HaikuOS",
     "link": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-    "summary": "<p>Article URL: <a href=\"https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18\">https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034868\">https://news.ycombinator.com/item?id=49034868</a></p>\n<p>Points: 289</p>\n<p># Comments: 54</p>",
+    "summary": "<p>Article URL: <a href=\"https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18\">https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034868\">https://news.ycombinator.com/item?id=49034868</a></p>\n<p>Points: 322</p>\n<p># Comments: 65</p>",
     "published": "Fri, 24 Jul 2026 12:53:59 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "My security camera shipped a GitHub admin token in its login page",
     "link": "https://hhh.hn/hanwha-github-token/",
-    "summary": "<p>Article URL: <a href=\"https://hhh.hn/hanwha-github-token/\">https://hhh.hn/hanwha-github-token/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034292\">https://news.ycombinator.com/item?id=49034292</a></p>\n<p>Points: 555</p>\n<p># Comments: 187</p>",
+    "summary": "<p>Article URL: <a href=\"https://hhh.hn/hanwha-github-token/\">https://hhh.hn/hanwha-github-token/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034292\">https://news.ycombinator.com/item?id=49034292</a></p>\n<p>Points: 616</p>\n<p># Comments: 205</p>",
     "published": "Fri, 24 Jul 2026 11:54:41 +0000"
   },
   {
     "source": "Hacker News Top",
-    "title": "IRGC claims it destroyed Amazon's Bahrain data center",
-    "link": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-    "summary": "<p>Article URL: <a href=\"https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/\">https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033240\">https://news.ycombinator.com/item?id=49033240</a></p>\n<p>Points: 278</p>\n<p># Comments: 337</p>",
-    "published": "Fri, 24 Jul 2026 09:52:58 +0000"
+    "title": "Future euro banknote design proposals",
+    "link": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
+    "summary": "<p><a href=\"https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html\" rel=\"nofollow\">https://www.ecb.europa.eu/euro/banknotes/future_banknotes/ht...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033110\">https://news.ycombinator.com/item?id=49033110</a></p>\n<p>Points: 253</p>\n<p># Comments: 252</p>",
+    "published": "Fri, 24 Jul 2026 09:29:44 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
-    "link": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
-    "summary": "<p>Article URL: <a href=\"https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891\">https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033099\">https://news.ycombinator.com/item?id=49033099</a></p>\n<p>Points: 256</p>\n<p># Comments: 170</p>",
-    "published": "Fri, 24 Jul 2026 09:26:40 +0000"
+    "source": "Ars Technica",
+    "title": "With help from data, art museums are reframing the visitor experience",
+    "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+    "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
+    "published": "Sat, 25 Jul 2026 11:00:32 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "If coding has been solved, why does software keep getting worse?",
-    "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-    "summary": "<p>Article URL: <a href=\"https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/\">https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033004\">https://news.ycombinator.com/item?id=49033004</a></p>\n<p>Points: 701</p>\n<p># Comments: 525</p>",
-    "published": "Fri, 24 Jul 2026 09:08:17 +0000"
+    "source": "Ars Technica",
+    "title": "Big Tech accused of stonewalling European social media researchers",
+    "link": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
+    "summary": "Researchers say TikTok, X, and Meta aren't providing data they're legally required to.",
+    "published": "Sat, 25 Jul 2026 10:45:32 +0000"
   },
   {
     "source": "Ars Technica",
@@ -532,20 +518,6 @@
     "published": "Fri, 24 Jul 2026 17:45:05 +0000"
   },
   {
-    "source": "Ars Technica",
-    "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-    "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-    "summary": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
-    "published": "Fri, 24 Jul 2026 17:31:26 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "This is the world's most advanced robotic servicing satellite—that we know about",
-    "link": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
-    "summary": "\"These are things that tend to be really hard.\"",
-    "published": "Fri, 24 Jul 2026 15:23:06 +0000"
-  },
-  {
     "source": "MIT Tech Review",
     "title": "The quest to keep organs alive outside the body",
     "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
@@ -561,9 +533,23 @@
   },
   {
     "source": "SCMP Business",
-    "title": "China hits Trip.com with US$765 million antitrust penalty after six-month investigation",
+    "title": "What is a supernode, and why does it matter for the China-US tech rivalry?",
+    "link": "https://www.scmp.com/tech/article/3361562/what-supernode-and-why-does-it-matter-china-us-tech-rivalry?utm_source=rss_feed",
+    "summary": "As the size of artificial intelligence models expands beyond 1 trillion parameters, a new concept is dominating the computing landscape: “supernode”.\nAt this year’s World Artificial Intelligence Conference (WAIC), China’s top AI summit, domestic chipmakers from Huawei Technologies to Biren Technology showcased new hardware designed to knit hundreds or thousands of chips together to act as one giant supercomputer, which they called a supernode.\nThe focus on supernodes at WAIC reflected a shift in...",
+    "published": "Sat, 25 Jul 2026 13:00:08 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Meet Yu Donglai, founder of China’s viral supermarket chain and guest of Premier Li Qiang",
+    "link": "https://www.scmp.com/business/china-business/article/3361755/meet-yu-donglai-founder-chinas-viral-supermarket-chain-and-guest-premier-li-qiang?utm_source=rss_feed",
+    "summary": "Yu Donglai, founder of viral local supermarket chain Pangdonglai, became a star addition to a recent high-level economic symposium chaired by Chinese Premier Li Qiang, where economists and leading entrepreneurs gathered to discuss the country’s economic outlook.\nThe retailer, headquartered in Xuchang, a small city in central China’s Henan province, has yet to expand its stores beyond the province. Despite an overall consumption slowdown in China and fierce competition from e-commerce platforms,...",
+    "published": "Sat, 25 Jul 2026 08:00:11 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "China hits Trip.com with US$765 million antitrust penalty after 6-month investigation",
     "link": "https://www.scmp.com/tech/policy/article/3361818/china-hits-tripcom-us765-million-antitrust-penalty-after-six-month-investigation?utm_source=rss_feed",
-    "summary": "China’s market regulator has imposed a 5.2 billion yuan (US$765 million) penalty on Trip.com Group, the country’s largest online travel services provider, for “monopolistic conduct”.\nTrip.com – operator of its namesake international platform, China-focused siblings Ctrip and Qunar, and global site Skyscanner – had “abused its dominant market position”, the State Administration for Market Regulation (SAMR) said on Saturday.\nThe market regulator confiscated 1.658 billion yuan in illegal gains and...",
+    "summary": "China’s market regulator has imposed a 5.2 billion yuan (US$765 million) penalty on Trip.com Group, the country’s largest online travel services provider, for “monopolistic conduct”.\nTrip.com – operator of its namesake international platform, China-focused siblings Ctrip and Qunar, and global site Skyscanner – had “abused its dominant market position”, the State Administration for Market Regulation (SAMR) said on Saturday.\nThe penalty includes the confiscation of 1.658 billion yuan in illegal...",
     "published": "Sat, 25 Jul 2026 02:32:54 +0000"
   },
   {
@@ -614,19 +600,5 @@
     "link": "https://www.scmp.com/business/banking-finance/article/3361684/hong-kong-insurers-ride-affluent-demand-record-sales-longevity-and-legacy-needs-grow?utm_source=rss_feed",
     "summary": "Life insurance sales in Hong Kong rose 51 per cent in the first quarter to another record high, driven by affluent customers from mainland China and overseas buying policies for wealth transfer, protection and medical needs.\nThe industry wrote HK$141.1 billion (US$18 billion) in new life policies in the first quarter, compared with HK$93.4 billion a year earlier, according to data from the Insurance Authority released on Friday.\nIt marked the third year that first-quarter sales hit a record high...",
     "published": "Fri, 24 Jul 2026 09:00:06 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Wall Street funds back China’s WuXi AppTec as weight-loss drug orders soar",
-    "link": "https://www.scmp.com/business/companies/article/3361720/wall-street-funds-back-chinas-wuxi-apptec-weight-loss-drug-orders-soar?utm_source=rss_feed",
-    "summary": "US global asset managers, including BlackRock, have expanded stakes in mainland Chinese pharmaceutical contractor WuXi AppTec over the past two months, betting that a surge in weight-loss drug manufacturing orders will lift earnings in the first half of the year.\nGlobal investors were increasingly interested in China’s contract development and manufacturing organisation, and biotechnology sector, said Linda Shu, head of China healthcare research at HSBC.\n“WuXi Apptec is heavily owned given its...",
-    "published": "Fri, 24 Jul 2026 07:15:31 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Securities watchdog to channel more medium- and long-term capital into China markets",
-    "link": "https://www.scmp.com/business/banking-finance/article/3361682/securities-watchdog-channel-more-medium-and-long-term-capital-china-markets?utm_source=rss_feed",
-    "summary": "China’s securities watchdog has pledged to channel more medium- and long-term capital into the country’s stock markets and fortify financial defences against external shocks, as authorities move aggressively to stabilise sentiment following recent market turbulence.\nAt a meeting on Thursday, the China Securities Regulatory Commission announced a raft of measures aimed at maintaining smooth market operations and reinforcing the capital market’s resilience.\nThe regulator said it would “more...",
-    "published": "Fri, 24 Jul 2026 05:00:07 +0000"
   }
 ]
