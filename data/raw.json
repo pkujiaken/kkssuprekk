@@ -1,10 +1,10 @@
 [
   {
-    "source": "Stratechery (Ben Thompson)",
-    "title": "2026.30: The Copium Wars",
-    "link": "https://stratechery.com/2026/the-copium-wars/",
-    "summary": "The best Stratechery content from the week of July 20, 2026 including Chinese models and frontier futures, what happened to Hugging Face, and the NBA and its second apron bet.",
-    "published": "Fri, 24 Jul 2026 17:00:00 +0000"
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "The common sense of Fareed Zakaria",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/07/the-common-sense-of-fareed-zakaria.html?utm_source=rss&utm_medium=rss&utm_campaign=the-common-sense-of-fareed-zakaria",
+    "summary": "<p>This is one of the best Op-Eds you will read this year, though it deliberately deemphasizes the personal (no one is attacked) in a manner that will result in less attention.  Better to write the truth!  Excerpt: Why has this [voter discontent} happened? Some of it is economic. Expensive housing, stagnant incomes and widening inequality have fueled public [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/the-common-sense-of-fareed-zakaria.html\">The common sense of Fareed Zakaria</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Sun, 26 Jul 2026 04:56:48 +0000"
   },
   {
     "source": "Marginal Revolution (Tyler Cowen)",
@@ -42,13 +42,6 @@
     "published": "Fri, 24 Jul 2026 19:34:26 +0000"
   },
   {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "Friday assorted links",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-582",
-    "summary": "<p>1. How global was &#8220;antiquity&#8221;? 2. Why the Clarity Act is mired in muck (NYT). 3. Jim Olds on the new science plan. 4. Cyber capabilities of Kimi 3? 5. &#8220;Following a standard workplace safety check, I have just received an email from a university administrator in which my custom of keeping books on the [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-582.html\">Friday assorted links</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Fri, 24 Jul 2026 16:37:53 +0000"
-  },
-  {
     "source": "A Wealth of Common Sense (Ben Carlson)",
     "title": "Picking Stocks in a Bloodbath",
     "link": "https://awealthofcommonsense.com/2026/07/picking-stocks-in-a-bloodbath/",
@@ -74,7 +67,7 @@
     "title": "Tankers Sail Through Red Sea Despite Houthi Blockade",
     "link": "https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html",
     "summary": "Dozens of ships continued to traverse the Red Sea this week, but with scattered disruption, uncertainty about the passage grows by the hour.",
-    "published": "Sat, 25 Jul 2026 09:02:10 +0000"
+    "published": "Sat, 25 Jul 2026 09:02:11 +0000"
   },
   {
     "source": "NYT Business",
@@ -133,20 +126,6 @@
     "published": "Sat, 25 Jul 2026 04:00:07 +0000"
   },
   {
-    "source": "NYT Economy",
-    "title": "Trump’s Section 301 Tariffs: Map of Countries Targeted With New Rates",
-    "link": "https://www.nytimes.com/article/trump-tariffs-trade.html",
-    "summary": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court struck down his original levies.",
-    "published": "Fri, 24 Jul 2026 13:57:42 +0000"
-  },
-  {
-    "source": "NYT Economy",
-    "title": "Trump Administration Imposed New Tariffs of Around 10% on Over 80 Nations",
-    "link": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html",
-    "summary": "The administration launched new duties tied to countries’ imports of goods made with forced labor, replacing a 10 percent tariff immediately after it expired.",
-    "published": "Fri, 24 Jul 2026 14:09:58 +0000"
-  },
-  {
     "source": "NYT DealBook",
     "title": "Blockbuster I.P.O.s Are Creating New Millionaires. Philanthropies Want a Cut.",
     "link": "https://www.nytimes.com/2026/07/25/business/dealbook/spacex-anthropic-philanthropy.html",
@@ -159,6 +138,13 @@
     "link": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
     "summary": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
     "published": "Sun, 26 Jul 2026 00:00:49 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
+    "link": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss",
+    "summary": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.",
+    "published": "Sun, 26 Jul 2026 00:17:50 GMT"
   },
   {
     "source": "BBC Business",
@@ -180,20 +166,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
     "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
     "published": "Fri, 24 Jul 2026 20:23:58 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
-    "link": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
-    "summary": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
-    "published": "Fri, 24 Jul 2026 14:02:26 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "We split money equally even when one of us earned a lot more",
-    "link": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
-    "summary": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending.",
-    "published": "Fri, 24 Jul 2026 13:33:02 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
@@ -301,38 +273,38 @@
     "published": "Fri, 24 Jul 2026 22:43:56 GMT"
   },
   {
-    "source": "CNBC Finance",
-    "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
-    "link": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
-    "summary": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
-    "published": "Fri, 24 Jul 2026 14:10:40 GMT"
+    "source": "Hacker News Top",
+    "title": "The new rules of context engineering for Claude 5 generation models",
+    "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "summary": "<p>Article URL: <a href=\"https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models\">https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051361\">https://news.ycombinator.com/item?id=49051361</a></p>\n<p>Points: 282</p>\n<p># Comments: 172</p>",
+    "published": "Sat, 25 Jul 2026 20:42:35 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Did They Ghost You?",
     "link": "https://didtheyghostyou.com/",
-    "summary": "<p>Article URL: <a href=\"https://didtheyghostyou.com/\">https://didtheyghostyou.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051120\">https://news.ycombinator.com/item?id=49051120</a></p>\n<p>Points: 273</p>\n<p># Comments: 103</p>",
+    "summary": "<p>Article URL: <a href=\"https://didtheyghostyou.com/\">https://didtheyghostyou.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051120\">https://news.ycombinator.com/item?id=49051120</a></p>\n<p>Points: 370</p>\n<p># Comments: 165</p>",
     "published": "Sat, 25 Jul 2026 20:18:03 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Open-weight AI is having its Kubernetes moment",
     "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-    "summary": "<p>Article URL: <a href=\"https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/\">https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49048034\">https://news.ycombinator.com/item?id=49048034</a></p>\n<p>Points: 300</p>\n<p># Comments: 247</p>",
+    "summary": "<p>Article URL: <a href=\"https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/\">https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49048034\">https://news.ycombinator.com/item?id=49048034</a></p>\n<p>Points: 365</p>\n<p># Comments: 283</p>",
     "published": "Sat, 25 Jul 2026 14:49:49 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Bitchat is now on Radicle",
     "link": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-    "summary": "<p>Article URL: <a href=\"https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6\">https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49047365\">https://news.ycombinator.com/item?id=49047365</a></p>\n<p>Points: 206</p>\n<p># Comments: 124</p>",
+    "summary": "<p>Article URL: <a href=\"https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6\">https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49047365\">https://news.ycombinator.com/item?id=49047365</a></p>\n<p>Points: 232</p>\n<p># Comments: 128</p>",
     "published": "Sat, 25 Jul 2026 13:18:49 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Android May Soon Restrict On-Device ADB",
     "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-    "summary": "<p>Article URL: <a href=\"https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/\">https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49045159\">https://news.ycombinator.com/item?id=49045159</a></p>\n<p>Points: 870</p>\n<p># Comments: 409</p>",
+    "summary": "<p>Article URL: <a href=\"https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/\">https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49045159\">https://news.ycombinator.com/item?id=49045159</a></p>\n<p>Points: 907</p>\n<p># Comments: 446</p>",
     "published": "Sat, 25 Jul 2026 06:57:14 +0000"
   },
   {
@@ -399,18 +371,11 @@
     "published": "Fri, 24 Jul 2026 19:41:06 +0000"
   },
   {
-    "source": "Ars Technica",
-    "title": "RFK Jr.'s handpicked committee approves manufacture of peptides he uses",
-    "link": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
-    "summary": "There's no human safety or efficacy data, but that no longer seems to matter.",
-    "published": "Fri, 24 Jul 2026 19:10:09 +0000"
-  },
-  {
-    "source": "MIT Tech Review",
-    "title": "The quest to keep organs alive outside the body",
-    "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
-    "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved&#8230;",
-    "published": "Fri, 24 Jul 2026 17:03:55 +0000"
+    "source": "SCMP Business",
+    "title": "How Hong Kong developers are adapting to the ‘new normal’ in the Greater Bay Area",
+    "link": "https://www.scmp.com/business/china-business/article/3361870/how-hong-kong-developers-are-adapting-new-normal-greater-bay-area?utm_source=rss_feed",
+    "summary": "Hong Kong developers operating in the Greater Bay Area are having to adapt to the ongoing debt crisis in mainland China’s property sector, which has led to deep and lasting changes in the nature and motivations of their buyers, according to agencies dealing in mainland real estate.\nBefore the debt crisis erupted earlier this decade, Hong Kong developers found that 90 per cent of buyers for their residential properties in the Greater Bay Area were Hong Kong investors. Now, they are increasingly...",
+    "published": "Sun, 26 Jul 2026 04:53:24 +0000"
   },
   {
     "source": "SCMP Business",

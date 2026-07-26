@@ -1,26 +1,8 @@
 {
   "top5": [
     {
-      "title": "全球经济面临油价飙升与关税重压",
-      "summary": "在波斯湾战争背景下，国际油价突破100美元每桶，同时美国政府对全球80多个国家重启广泛关税。这一双重打击正加剧全球通胀压力，并可能阻碍经济增长。对于投资者而言，这意味着能源成本上升将挤压企业利润，而关税则会扰乱供应链，增加贸易不确定性，对全球市场情绪构成显著负面影响，预示着一个更复杂和不稳定的投资环境。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html"
-        },
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html"
-        }
-      ]
-    },
-    {
-      "title": "穆迪警告科技巨头AI支出或损害其信用评级",
-      "summary": "评级机构穆迪指出，亚马逊、Meta和Alphabet等全球最富有的科技公司，正进行“前所未有”的大规模人工智能投资，这可能迫使它们严重依赖债务、股票发行或表外操作，从而威胁到其信用质量。这一警示对于依赖这些科技巨头稳定财务状况的投资者至关重要，它揭示了AI军备竞赛带来的潜在财务风险，可能影响未来这些公司的融资成本和股价表现。",
+      "title": "穆迪警告：史无前例的AI支出正威胁大型科技公司信用质量",
+      "summary": "信用评级机构穆迪发出警告，指出亚马逊、Meta、Alphabet等大型科技公司在人工智能领域“前所未有”的巨额投入，正迫使它们大量依赖债务、股票出售和表外融资，从而可能威胁到这些公司的信用质量。这对于关注大型科技股及其财务健康的高净值投资者而言至关重要，揭示了AI军备竞赛背后的潜在财务风险。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -33,139 +15,32 @@
       ]
     },
     {
-      "title": "特朗普政府誓言调查欧盟对美国科技公司的罚款",
-      "summary": "美国总统特朗普公开表示将调查欧盟对谷歌、苹果、Meta和亚马逊等美国科技巨头征收罚款的行为，并称这些罚款应被“完全撤销”。此举预示着美国与欧盟在科技监管领域的贸易紧张局势将进一步升级，可能导致新的贸易摩擦或报复性措施。对于持有这些科技股的投资者而言，这将增加其面临的地缘政治和监管风险，可能影响公司在欧洲市场的运营和盈利能力。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "中国在AI“超节点”战略上发力，凸显中美科技竞争",
-      "summary": "随着人工智能模型参数规模突破万亿，中国芯片制造商正聚焦于“超节点”概念，通过将数百甚至数千个芯片整合为一个巨型超算，以应对AI发展对算力的巨大需求。华为和壁仞科技等公司在世界人工智能大会上展示了相关硬件。这不仅是中国在AI基础设施建设上的重大战略，也反映出在中美科技竞争加剧背景下，中国力图通过创新架构突破瓶制约，实现AI领域自主可控的决心，对全球半导体和AI产业格局将产生深远影响。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/tech/article/3361562/what-supernode-and-why-does-it-matter-china-us-tech-rivalry?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "“开放权重”AI迎来Kubernetes时刻，预示AI开发模式转型",
-      "summary": "有观点认为，“开放权重”（open-weight）AI模型正经历类似于容器编排工具Kubernetes在云计算领域的崛起时刻。这意味着，除了闭源的API模型外，可供开发者自由使用和修改的模型代码正在成为主流。这一趋势将极大地降低AI开发的门槛和成本，促进AI技术的民主化和创新加速。对于投资者而言，这可能意味着AI领域将涌现更多小型创新企业，并改变现有大型AI公司的竞争格局和商业模式。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"
-        }
-      ]
-    }
-  ],
-  "people": [
-    {
-      "name": "Ben Thompson",
-      "title": "科技战略专家Ben Thompson解读全球AI“鸦片战争”",
-      "summary": "观点：Ben Thompson在其Stratechery周报中提出的“鸦片战争”（Copium Wars）概念，旨在分析当前全球，特别是中美之间在AI模型和前沿技术领域的激烈竞争。他认为，这场竞争不仅关乎技术领先，更是对未来平台控制权和经济主导权的争夺，涉及中国AI模型的发展及其在全球科技生态中的角色。他的分析强调了地缘政治因素在科技战略决策中的关键作用。",
-      "sources": [
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/the-copium-wars/"
-        }
-      ]
-    },
-    {
-      "name": "Tyler Cowen",
-      "title": "经济学家Tyler Cowen关注RWA代币化作为融资工具的潜力",
-      "summary": "观点：经济学家Tyler Cowen在其博客《Marginal Revolution》中提到，巴西帕拉纳州的农民通过将奶牛代币化并在国家证券交易所B3上市交易，成功获得了近2万美元的信贷。他认为，这一案例预示着将现实世界资产（RWA）代币化作为一种新型融资工具的巨大潜力，尤其对难以获得传统银行贷款的群体提供了新途径。这可能对全球资本市场和欠发达地区的金融包容性产生结构性影响。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/crypto-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=crypto-markets-in-everything"
-        }
-      ]
-    },
-    {
-      "name": "Tyler Cowen",
-      "title": "经济学家Tyler Cowen揭示政治压力对学术自由的侵蚀",
-      "summary": "观点：Tyler Cowen在其博客中引用了一项关于经济学领域“自然实验”的研究，指出美国政府在2025年初发布了一份“黑名单”词汇，导致大学经济学家在研究中显著减少了这些词汇的使用。这一发现揭示了政治压力如何影响学术自由和研究独立性，可能导致研究偏离客观事实，进而影响政策制定和市场分析的准确性，对于理解信息生态和决策质量具有重要启示。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/a-natural-experiment-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=a-natural-experiment-in-economics"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "title": "红海油轮通行仍面临不确定性，胡塞武装封锁持续",
-      "summary": "尽管胡塞武装的封锁行动，本周仍有数十艘油轮继续通过红海，但其间的干扰和不确定性正与日俱增。红海航线是全球重要的能源运输通道，持续的局势紧张导致航运公司面临更高的风险和保险成本。对于全球能源市场和供应链而言，这可能意味着原油和商品运输成本的波动加剧，对全球通胀和经济稳定构成潜在威胁。",
+      "title": "全球经济面临油价飙升和新关税双重冲击",
+      "summary": "全球经济正受到波斯湾战争和油价飙升至每桶100美元的严重冲击，同时美国新的关税政策再次登场。这一组合拳预示着通胀压力加剧、供应链中断以及国际贸易关系紧张。对于投资者来说，这意味着更高的运营成本、更复杂的地缘政治风险以及对全球增长前景的担忧。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html"
-        }
-      ]
-    },
-    {
-      "title": "特朗普政府对80多个国家实施新关税",
-      "summary": "特朗普政府已对全球80多个国家实施了约10%的新关税，以惩罚涉嫌使用强迫劳动制造商品的国家，取代了此前到期的一项类似关税。此举标志着美国在全球贸易政策上的强硬立场，可能引发被征税国家的反制措施，进一步加剧国际贸易紧张局势。对于投资者而言，这将增加全球供应链的不确定性，并可能提高进口成本，影响跨国企业的盈利能力。",
-      "sources": [
+          "url": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html"
+        },
         {
           "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html"
+          "url": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html"
         }
       ]
     },
     {
-      "title": "英国与美国的特朗普贸易协议吸引力减弱",
-      "summary": "有分析指出，尽管美国对英国征收的关税基本保持不变，但与其他国家相比，英国与美国的贸易协议已经失去了原有的“世界领先”地位。这表明在不断变化的全球贸易格局中，英国在与美国达成更优惠贸易条款方面的优势正在被削弱。对于投资者而言，这可能影响英国经济的长期增长潜力，并促使企业重新评估英国作为贸易伙伴的吸引力。",
+      "title": "中国市场监管总局对携程集团处以7.65亿美元反垄断罚款",
+      "summary": "中国市场监管总局经过六个月调查后，对中国最大的在线旅游服务提供商携程集团处以52亿元人民币（约合7.65亿美元）的反垄断罚款，指控其“滥用市场支配地位”。此次巨额罚款凸显了中国对科技巨头的持续监管高压，对投资者而言，这表明中国科技企业的政策风险依然存在，未来增长路径可能受限。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    }
-  ],
-  "tech": [
-    {
-      "title": "大型科技公司被指阻挠欧洲社交媒体研究人员的数据获取",
-      "summary": "欧洲社交媒体研究人员指控TikTok、X和Meta等大型科技公司未能提供法律要求的数据，阻碍了对平台内容和影响力的研究。这一指控凸显了欧盟在数字服务法案（DSA）框架下，监管大型科技公司数据透明度的挑战。对于投资者而言，这增加了科技公司在欧洲的合规风险和潜在罚款，并可能影响其在数据共享和用户隐私方面的声誉。",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-business/article/3361818/china-hits-tripcom-us765-million-antitrust-penalty-after-six-month-investigation"
         }
       ]
     },
     {
-      "title": "Anthropic新一代AI模型Opus 5侧重代币效率而非能力飞跃",
-      "summary": "Anthropic发布的新一代AI模型Opus 5，其核心关注点在于提升“代币效率”（token efficiency），而非实现一次巨大的能力飞跃。这表明AI模型发展的一个重要方向是优化资源利用和降低运行成本，而非仅仅追求模型规模和性能的无限扩张。对于投资者而言，这意味着AI技术的发展将更注重实用性、成本效益和可持续性，未来可能带来更多针对特定应用场景的优化解决方案。",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX计划下次星舰飞行尝试塔架回收，加速火箭复用进程",
-      "summary": "在第13次星舰飞行成功结束后，SpaceX正将目光投向在下次飞行中尝试在发射塔架上直接捕获星舰的超级重型助推器。这一大胆举措旨在进一步完善和加速其火箭复用技术，实现更高效、更低成本的太空发射。对于太空探索和商业航天领域的投资者而言，成功实现塔架回收将是SpaceX技术成熟度的重要里程碑，可能显著提升其在卫星发射和深空探索市场的竞争力。",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/"
-        }
-      ]
-    }
-  ],
-  "us_stocks": [
-    {
-      "title": "派拉蒙与华纳兄弟合并案因州政府诉讼被推迟数月",
-      "summary": "派拉蒙全球公司已同意将与华纳兄弟探索公司的合并计划推迟数月，最晚至2027年6月，以应对纽约州等多个州的总检察长提起的反垄断诉讼。这一延迟为州政府提供了更多时间推进案件审理，并可能影响合并协议的条款甚至最终结果。对于媒体行业的投资者而言，这增加了交易的不确定性，并可能重新评估潜在合并带来的协同效应和市场竞争格局。",
+      "title": "派拉蒙与华纳兄弟探索公司合并协议因诉讼推迟数月",
+      "summary": "派拉蒙全球公司同意将与华纳兄弟探索公司（WBD）的合并计划推迟至2027年6月，除非在此之前法官对阻止该交易的诉讼作出裁决。这一延迟是由于美国各州提起的反垄断诉讼，对两大媒体巨头的整合构成了重大障碍。对于关注媒体行业并购的投资者而言，这增加了交易的不确定性，并可能影响相关公司的股价和行业格局。",
       "sources": [
         {
           "name": "NYT Business",
@@ -182,8 +57,139 @@
       ]
     },
     {
-      "title": "SpaceX和Anthropic等重磅IPO催生新富，慈善机构寻求分羹",
-      "summary": "随着SpaceX和Anthropic等明星初创公司准备进行首次公开募股（IPO），预计将创造一批新的科技亿万富翁。与此同时，慈善机构正积极行动，希望从这些新晋富豪的财富中获得捐赠。这一趋势不仅反映了高科技IPO市场的活力，也预示着财富重新分配和慈善事业的新动向。对于投资者而言，这凸显了高增长科技公司带来的巨大财富效应，以及早期投资的潜在回报。",
+      "title": "AI“超级节点”成为中美科技竞争新焦点",
+      "summary": "随着人工智能模型规模突破万亿参数，将数百或数千个芯片连接成一台巨型超级计算机的“超级节点”概念，正成为计算领域的主导力量。在今年的中国世界人工智能大会上，华为、壁仞科技等中国芯片制造商纷纷展示其“超级节点”硬件。这不仅标志着AI计算架构的战略性转变，也凸显了“超级节点”在中美两国争夺AI领导权中的关键作用，对半导体和AI领域的投资具有深远影响。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/tech/article/3361562/what-supernode-and-why-does-it-matter-china-us-tech-rivalry"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "name": "Tyler Cowen",
+      "title": "观点：经济不满情绪源于高房价、收入停滞和不平等",
+      "summary": "经济学家泰勒·科文（Tyler Cowen）高度评价了法里德·扎卡里亚（Fareed Zakaria）的一篇社论，强调当前选民普遍不满情绪的部分原因在于经济因素，包括高昂的住房成本、停滞不前的收入以及日益扩大的不平等。这一观点为理解宏观经济背景下的社会政治趋势提供了深刻洞察。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-common-sense-of-fareed-zakaria.html"
+        }
+      ]
+    },
+    {
+      "name": "Ben Carlson",
+      "title": "观点：在市场血洗中选股需警惕表面现象",
+      "summary": "《常识财富》的作者本·卡尔森（Ben Carlson）就“在血洗中选股”发表观点，他以Netflix为例，提出投资者需判断一家公司是暂时下跌还是处于长期衰退中。他的观点提醒投资者，在市场剧烈波动时，对个股进行深入分析以区分短期回调和结构性问题至关重要。",
+      "sources": [
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/07/picking-stocks-in-a-bloodbath/"
+        }
+      ]
+    },
+    {
+      "name": "MarketWatch 分析师",
+      "title": "观点：AI股票抛售可能拯救牛市",
+      "summary": "MarketWatch的一位分析师认为，尽管目前的AI股票抛售看起来令人恐惧，但这实际上可能有助于挽救牛市。他指出，2026年最热门的科技交易遭遇重创，但聪明的投资者仍在趁机买入。这一观点挑战了市场上的恐慌情绪，暗示回调可能为长期投资者创造买入机会，从而促进更健康的牛市发展。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "红海油轮航运持续中断，不确定性日益增长",
+      "summary": "尽管胡塞武装封锁，数十艘油轮本周仍继续穿越红海，但零星的干扰和对航道安全的不确定性正逐小时增加。这对于全球能源供应链和航运成本构成持续风险，可能导致油价波动和运输时间延长，对全球贸易和依赖能源进口的国家产生连锁影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html"
+        }
+      ]
+    },
+    {
+      "title": "小型企业就最新关税起诉特朗普政府",
+      "summary": "小型企业正通过自由司法中心（Liberty Justice Center）起诉特朗普政府，挑战其最新实施的关税政策。该法律团体此前曾成功挑战特朗普政府的关税措施。此举表明美国国内企业对关税政策的强烈抵制，其结果将影响美国贸易政策走向及相关企业的运营成本和竞争力。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/24/business/trump-tariffs-small-businesses-lawsuit.html"
+        }
+      ]
+    },
+    {
+      "title": "特朗普誓言调查欧盟对美国科技公司的罚款",
+      "summary": "美国总统特朗普誓言将调查欧盟对美国科技公司（如谷歌、苹果、Meta和亚马逊）处以的罚款，并表示这些罚款应“完全撤销”。这一表态预示着美欧之间在科技监管和贸易方面的紧张关系可能升级，对在欧洲运营的美国科技巨头构成潜在的政治和商业风险。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "油价可能下跌，但汽油价格或居高不下，能源市场面临困境",
+      "summary": "有分析指出，尽管原油价格可能下跌，但汽油价格却可能不会随之下降，这暗示了能源市场存在的结构性问题。文章指出，伊朗战争并非导致能源账单飙升的唯一原因，华尔街在此中也扮演了角色。这表明消费者和企业可能继续面临高企的燃油成本，影响消费支出和通胀预期。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories"
+        }
+      ]
+    }
+  ],
+  "tech": [
+    {
+      "title": "开源AI迎来“Kubernetes时刻”，挑战专有模型主导地位",
+      "summary": "文章指出，开放权重（open-weight）人工智能模型正迎来其“Kubernetes时刻”，这意味着开源AI正在迅速成熟并获得广泛采用，类似于开源容器编排平台Kubernetes在云计算领域的崛起。这一趋势可能挑战现有专有AI模型的市场主导地位，为AI领域的创新和生态系统带来结构性转变，对AI投资策略具有重要启示。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic的Claude 5模型专注于Token效率而非能力飞跃",
+      "summary": "Anthropic公司发布的Claude 5模型被描述为更注重Token效率而非单纯的能力飞跃。这意味着模型在处理和生成文本时，能够以更低的成本和更高的效率运行。虽然AI模型能力提升迅速，但文章指出，更经济的选项往往已足够好。这对AI服务提供商的成本结构和企业级AI应用的普及具有重要意义。",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/"
+        }
+      ]
+    },
+    {
+      "title": "大型科技公司被指阻挠欧洲社交媒体研究人员获取数据",
+      "summary": "有指控称，TikTok、X和Meta等大型科技公司正在阻挠欧洲社交媒体研究人员获取其在法律上有义务提供的数据。这一争议凸显了科技巨头在数据透明度和监管合规方面的持续挑战，以及欧洲监管机构在执行其数字服务法案方面的决心。对于投资者而言，这可能意味着科技公司在欧洲面临进一步的监管压力和潜在罚款。",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/"
+        }
+      ]
+    },
+    {
+      "title": "Claude 5代模型上下文工程新规发布",
+      "summary": "Anthropic发布了针对其Claude 5代模型的上下文工程新规则。这表明AI模型在实际应用中对提示词（prompt）和上下文管理的需求日益精细化，以提高模型性能和输出质量。对于依赖AI大模型进行开发和部署的企业来说，理解并适应这些新规则至关重要，它直接影响AI应用的效率和效果。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models"
+        }
+      ]
+    }
+  ],
+  "us_stocks": [
+    {
+      "title": "SpaceX和Anthropic等重磅IPO催生新富，慈善机构寻求分一杯羹",
+      "summary": "随着SpaceX和Anthropic等热门初创公司准备上市，它们正在创造一批新的百万富翁，而慈善机构也希望从这些新晋科技超级富豪的财富中分得一杯羹。这反映了私营科技公司估值飙升带来的财富效应，以及早期投资者和员工通过IPO获得巨大回报的潜力。对投资者而言，它突显了高增长科技IPO带来的投资机会和财富分配格局变化。",
       "sources": [
         {
           "name": "NYT Business",
@@ -192,16 +198,12 @@
         {
           "name": "NYT DealBook",
           "url": "https://www.nytimes.com/2026/07/25/business/dealbook/spacex-anthropic-philanthropy.html"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "Roku因内存短缺大幅提高流媒体棒价格",
-      "summary": "流媒体设备制造商Roku将其流媒体棒产品的价格提高了高达60%，并将其归咎于内存（RAM）短缺。尽管公司首席执行官在5月份曾表示内存短缺对业务“有利”，但此次价格上涨表明供应链问题正对其硬件部门产生实质性影响。对于Roku的投资者而言，这可能意味着硬件销售利润率面临压力，同时也反映出全球半导体供应链的持续脆弱性，可能影响消费电子产品的定价和市场需求。",
+      "title": "Roku因RAM短缺大幅上调流媒体设备价格高达60%",
+      "summary": "流媒体设备制造商Roku将其流媒体棒产品价格大幅上调高达60%，并归咎于RAM（内存）短缺。此前该公司CEO在5月份曾表示内存短缺对公司业务“有利”。此次涨价表明供应链问题对消费电子产品成本和定价的持续影响，可能影响Roku的销售额和市场份额，对依赖硬件销售的科技公司有警示作用。",
       "sources": [
         {
           "name": "Ars Technica",
@@ -212,80 +214,76 @@
   ],
   "a_stocks": [
     {
-      "title": "中国AI“超节点”概念受关注，对本土芯片产业影响深远",
-      "summary": "在AI模型规模持续扩大的背景下，中国科技企业积极推进“超节点”战略，旨在通过集成数百甚至数千颗芯片构建大型AI超算平台。这一战略不仅是应对AI算力需求的关键举措，更是中国本土芯片厂商如华为和壁仞科技突破技术瓶颈、增强自主创新能力的体现。对于A股投资者而言，这预示着中国AI基础设施和半导体产业将迎来新的投资机遇，但同时也伴随着激烈的市场竞争和技术迭代风险。",
+      "title": "香港开发商在大湾区适应“新常态”，买家结构改变",
+      "summary": "在粤港澳大湾区运营的香港开发商正努力适应内地房地产市场债务危机带来的“新常态”，买家构成发生深刻变化。以往90%的买家是香港投资者，现在则更多地面向内地买家。这反映了中国房地产市场持续的结构性调整，以及香港开发商在内地市场面临的挑战和战略转变，对于关注中国房地产和区域经济的投资者具有重要意义。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/tech/article/3361562/what-supernode-and-why-does-it-matter-china-us-tech-rivalry?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/china-business/article/3361870/how-hong-kong-developers-are-adapting-new-normal-greater-bay-area?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "“中国特色”投资：北京资金重塑科技创新格局",
+      "summary": "从DeepSeek和智谱AI的算法突破到Unitree Robotics和长鑫存储（CXMT）的硬件，中国尖端科技领域在表面上与硅谷的风险投资生态系统相似。然而，更深入的融资历史显示，中国政府资金在其中扮演了关键角色。这表明，随着西方风投撤离，中国政府正通过直接投资和国家主导的基金，重塑国内科技创新格局，对投资中国科技的西方资本带来新的考量。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-business/article/3361779/investment-chinese-characteristics-how-beijings-money-reshaping-tech-ventures?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "中国网红超市品牌创始人于东来成为总理座上宾，突显零售业韧性",
+      "summary": "胖东来超市创始人于东来成为中国总理李强主持的高级别经济座谈会的座上宾，与经济学家和企业家共同讨论国家经济前景。这家总部位于河南许昌的零售商，在整体消费放缓和电商激烈竞争的背景下，展现了其强大的生命力。此事件反映出中国政府对民营经济和创新商业模式的重视，以及在挑战性市场中地方零售品牌的韧性与发展潜力。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-business/article/3361755/meet-yu-donglai-founder-chinas-viral-supermarket-chain-and-guest-premier-li-qiang?utm_source=rss_feed"
         }
       ]
     }
   ],
   "business": [
     {
-      "title": "物流巨头加速布局医疗保健市场以满足冷链需求",
-      "summary": "随着GLP-1药物等创新疗法推动医疗保健行业快速增长，UPS、FedEx和DHL等全球物流巨头正竞相加大对该市场的投入。这主要体现在对冷链和温控设施的建设和优化，以确保高价值、温度敏感型药物的运输安全。对于投资者而言，这表明医疗保健物流正成为一个利润丰厚且增长迅速的细分市场，为相关仓储、运输和技术服务提供商带来新的投资机会。",
+      "title": "物流巨头加速布局医疗保健领域，GLP-1药物凸显冷链仓储需求",
+      "summary": "航运和物流巨头正竞相进军日益增长的医疗保健市场，其中GLP-1等新型药物对冷链和温控设施的需求尤其突出。UPS、联邦快递和DHL等公司正在加大对医疗物流的投资。这反映了医药行业，特别是生物制药的快速发展，对专业物流服务提出了更高要求，为相关物流企业带来新的增长机遇。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html"
         }
       ]
-    },
-    {
-      "title": "FDA专家组投票支持多肽类药物广泛使用，引发处方热潮担忧",
-      "summary": "美国食品药品监督管理局（FDA）的一个专家委员会投票支持在轻度监管的复合药房中更广泛地使用多肽类药物，而这一市场已发展成为价值数十亿美元的产业。此举预计将进一步推动多肽类药物的处方热潮，但也引发了对这类药物安全性和有效性数据不足的担忧。对于医药行业的投资者而言，这可能意味着复合药房市场的扩张，但潜在的监管收紧和消费者安全问题也构成风险。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/24/us/politics/fda-panel-vote-peptides.html"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/"
-        }
-      ]
-    },
-    {
-      "title": "格雷迪-怀特船业老板效仿Patagonia，将公司利润捐赠慈善",
-      "summary": "在唯一的继承人去世后，Grady-White Boats的老板Eddie Smith选择不以4亿美元出售公司，而是效仿Patagonia模式，承诺将公司未来的利润捐赠给慈善机构。这一决策标志着一种新型的企业所有权和慈善模式，将企业价值与社会责任深度融合。对于投资者和企业界而言，这不仅是关于财富传承的创新案例，也反映了企业社会责任和可持续发展理念在商业实践中日益增长的影响力。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/25/business/grady-white-boats-charity.html"
-        }
-      ]
     }
   ],
   "overlooked": [
     {
-      "title": "人工智能对指数基金构成“意外赌注”，重塑新兴市场投资构成",
-      "summary": "人工智能的快速发展正在悄然改变传统指数基金的投资构成，尤其是在新兴市场基金中。例如，韩国股票在许多新兴市场基金中的权重因其在AI供应链中的关键作用而显著增加。这意味着，投资者在配置新兴市场指数基金时，可能不知不觉地增加了对AI领域的间接押注。这一结构性变化可能影响基金的风险回报特征，并要求投资者重新审视其投资组合的AI敞口和区域配置策略。",
+      "title": "巴西农民通过牲畜代币化获取融资，RWA代币化潜力显现",
+      "summary": "在巴西巴拉那州，面临银行贷款困难的农民首次将10头奶牛代币化，并在该国B3国家证券交易所上市交易，成功获得近2万美元信贷。这标志着将现实世界资产（RWA）代币化作为融资工具的巨大潜力。对于关注新兴市场和区块链技术应用的投资者，这预示着RWA代币化可能成为农业及其他传统资产领域创新的融资解决方案。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/crypto-markets-in-everything.html"
+        }
+      ]
+    },
+    {
+      "title": "印度的1991年市场自由化口述历史发布，揭示经济转型经验",
+      "summary": "“1991年项目”汇集了约50小时的口述历史访谈，记录了印度市场自由化过程中的政策改革者和见证者的经历，现已发布。这一丰富的资料为理解发展中大国的经济转型提供了宝贵的第一手资料。对于对新兴市场经济史和政策制定感兴趣的投资者而言，这些经验可能为评估当前改革和未来增长潜力提供独特视角。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-571.html"
+        }
+      ]
+    },
+    {
+      "title": "AI对指数基金构成“意外赌注”，韩国股市因此受益",
+      "summary": "文章指出，投资者持有的指数基金可能已在无意中成为对人工智能的“意外赌注”，其中韩国股市作为新兴市场的一个代表，因AI而改变了其在基金中的权重。这揭示了AI对全球资本流向和指数构成产生的深远影响，即使是看似分散的投资也可能过度暴露于特定技术主题，值得投资者审视其基金的实际构成。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "巴西农民通过牲畜代币化获得融资，RWA代币化潜力显现",
-      "summary": "在巴西帕拉纳州，一群农民因难以从银行获得贷款，转而将10头奶牛代币化，并在国家证券交易所B3上进行交易，成功获得了近2万美元的信贷。这一创新案例突显了代币化现实世界资产（RWAs）作为一种新型融资工具的巨大潜力，尤其对于传统金融服务覆盖不足的群体。对于追求创新资产配置和关注数字经济前沿的投资者而言，RWA代币化可能开辟新的投资类别和市场机会。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/crypto-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=crypto-markets-in-everything"
-        }
-      ]
-    },
-    {
-      "title": "政治压力导致经济学家自我审查，影响学术独立性",
-      "summary": "一项经济学领域的“自然实验”研究发现，美国政府在2025年初发布了一份“黑名单”词汇后，大学经济学家在研究中显著减少了这些被标记词汇的使用。这表明，即使在学术界，政治压力也能导致自我审查，从而可能影响研究的独立性和客观性。对于依赖高质量、无偏见研究进行投资决策的专业人士而言，这一现象可能意味着部分经济分析的完整性和深度受到侵蚀，影响其对市场和政策的判断。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/a-natural-experiment-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=a-natural-experiment-in-economics"
         }
       ]
     }
