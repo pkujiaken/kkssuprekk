@@ -1,8 +1,46 @@
 {
   "top5": [
     {
-      "title": "中东局势缓和推动油价下跌与美股期货上涨",
-      "summary": "美国与伊朗暂停军事行动，市场对中东冲突解决持乐观态度，导致国际油价下跌。受此影响，美股期货随之反弹。华尔街正为本周美联储会议和科技巨头财报的密集发布做准备，市场情绪受到地缘政治缓和的积极影响。这一动态反映了地缘政治紧张局势对能源价格和全球市场情绪的直接影响，投资者将关注经济数据与企业盈利前景。",
+      "title": "中国半导体企业CXMT上市首日股价飙升470%，AI热潮驱动",
+      "summary": "中国主要存储芯片制造商CXMT在上海证券交易所首日交易中股价飙升470%，市值跃居上海股市之首。这一强劲表现不仅反映了人工智能对高性能内存芯片需求的巨大推动，更凸显了中国在半导体领域寻求自主创新和市场领导力的决心，对全球科技供应链和资本市场竞争格局具有重要影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/27/business/cxmt-stock-price-ai.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "中国对富裕人士境外信托实施新税规，堵塞避税漏洞",
+      "summary": "中国财政部宣布，对富裕人士拥有的境外信托征收个人所得税，立即生效。新规将对信托资产的增值收益和信托收入进行征税，旨在堵塞此前被高净值人群用于避税的漏洞，加强税收监管。此举将对中国高净值人群的财富管理结构、资产配置策略以及资本流向产生深远影响。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-business/article/3361907/china-cracks-down-offshore-trusts-new-tax-rules-wealthy?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "快时尚巨头Shein在香港上市前夕报告亏损，受西方关税影响",
+      "summary": "新加坡注册的快时尚巨头Shein在提交香港上市招股书前，宣布2026年第一季度出现9900万美元亏损，扭转去年同期的盈利局面。亏损主要归因于西方国家（特别是“特朗普关税”）对其利润率的挤压，导致其供应链成本增加。这表明地缘政治和贸易政策对全球供应链和企业盈利能力带来直接冲击，也给Shein的IPO前景蒙上阴影。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3361931/fast-fashion-giant-shein-swings-us99m-first-quarter-loss-ahead-hong-kong-listing?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "美伊冲突暂停，油价下跌，市场关注美联储会议及科技巨头财报",
+      "summary": "在美国与伊朗连续第二天暂停军事行动后，原油价格下跌，美股股指期货上涨，市场情绪趋于乐观。投资者正密切关注即将到来的美联储会议，以研判利率政策走向，以及大型科技公司即将公布的财报。这些宏观经济和企业层面的关键事件将共同决定近期全球市场的波动方向和投资热点。",
       "sources": [
         {
           "name": "NYT Business",
@@ -15,42 +53,12 @@
       ]
     },
     {
-      "title": "派拉蒙与华纳兄弟合并案因反垄断审查暂停",
-      "summary": "价值1110亿美元的派拉蒙与华纳兄弟探索公司之间的潜在合并谈判已暂停。消息人士透露，由于美国各州可能就此交易提起反垄断诉讼，双方需要重新评估策略。这笔巨额交易本可能彻底改变全球媒体格局，但监管机构的阻力凸显了大型并购案在当前环境下所面临的日益严格的审查。",
+      "title": "派拉蒙与华纳兄弟1110亿美元合并案暂停，面临反垄断审查",
+      "summary": "派拉蒙与华纳兄弟探索公司之间高达1110亿美元的巨额合并交易谈判在上周取得进展后被暂停，原因是美国各州可能发起反垄断诉讼。这笔潜在的媒体巨头合并案命运未决，凸显了当前市场环境下大型并购案所面临的日益严格的监管审查和反垄断挑战，对未来全球媒体行业整合趋势具有风向标意义。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/07/26/business/paramount-warner-bros-deal-pause.html"
-        }
-      ]
-    },
-    {
-      "title": "中国对富裕阶层离岸信托征收新税",
-      "summary": "中国财政部宣布，将对富裕个人持有的离岸信托征收个人所得税，此规定立即生效。此举旨在堵塞此前高净值人群利用离岸信托规避境内税收的漏洞，新规将对信托资产的增值和年度收益进行征税。这标志着中国在财富管理和税收监管方面的重要调整，可能对高净值人群的资产配置和离岸资金流向产生深远影响。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3361907/china-cracks-down-offshore-trusts-new-tax-rules-wealthy?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "美股标普500指数盈利增长高度集中",
-      "summary": "MarketWatch分析指出，当前标普500指数的盈利增长极度依赖于某一家大型公司（暗示可能为科技巨头），这表明市场整体增长的广度不足。随着第二季度财报季进入高峰，投资者将密切关注这种盈利集中度是否持续，以及它对市场整体健康度和未来走势的潜在影响。这种集中效应可能预示着市场存在结构性风险。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/the-s-p-500s-earnings-growth-has-gone-bonkers-thanks-to-one-company-1c45b2ba?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "美国国债市场向美联储发出利率警告",
-      "summary": "近期美国国债收益率的飙升，被市场解读为对通胀的“极度担忧”，并向美联储（尤其是其货币政策制定者）发出了明确的警告。市场对美联储能否有效抑制通胀并兑现其政策承诺存疑。债券市场是衡量通胀预期和货币政策有效性的关键指标，其信号对美联储未来的加息或降息决策构成直接压力，影响全球资本成本。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories"
         }
       ]
     }
@@ -58,19 +66,30 @@
   "people": [
     {
       "name": "Tyler Cowen",
-      "title": "儿童抚养的相对成本可能并未像人们普遍认为的那样增加",
-      "summary": "观点：著名经济学家Tyler Cowen援引研究指出，尽管儿童保育和学费价格快速上涨，但由于儿童在住房方面面临的通胀较少，且儿童消费篮子中其他商品价格增长较慢，这些因素抵消了上涨，使得儿童商品和服务消费价格指数与成人价格走势趋同。相对于1990年，家庭投入子女的实际资源虽然大幅增加，但这一增长与成人消费增长保持同步。",
+      "title": "科学思想传播的衰退或阻碍创新",
+      "summary": "观点：经济学家泰勒·考恩指出，过去四十年来，科学思想在其发源领域之外的传播大幅下降，这与科学语言日益专业化紧密相关。研究若使用更专业术语，其被广泛采纳的可能性更低。他认为这种趋势可能正在抑制科学发现和创新的广泛影响，对科技进步的长远潜力构成挑战。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/in-relative-terms-maybe-children-do-not-cost-more-than-before.html?utm_source=rss&utm_medium=rss&utm_campaign=in-relative-terms-maybe-children-do-not-cost-more-than-before"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-decline-in-the-transmission-of-scientific-ideas.html?utm_source=rss&utm_medium=rss&utm_campaign=the-decline-in-the-transmission-of-scientific-ideas"
         }
       ]
     },
     {
-      "name": "梁文峰 (DeepSeek创始人)",
-      "title": "低调中蕴含高远AI雄心",
-      "summary": "观点：作为中国AI初创公司DeepSeek和量化对冲基金High-Flyer Quant的创始人，梁文峰以其低调的公众形象和对AI领域的高远抱负而闻名。近期流出的一份闭门会议纪要揭示了他对AI技术发展和公司战略的深层思考，强调在喧嚣的科技界保持专注和长期主义的重要性。他被视为中国AI领域一股不可忽视的力量。",
+      "name": "Ben Carlson",
+      "title": "日本市场值得关注的信号",
+      "summary": "观点：投资专家本·卡尔森在其“A Wealth of Common Sense”博客中，引用“Risk & Reward”的数据和图表，对日本市场进行了分析。尽管文章未给出具体观点，但强调了投资者应关注日本经济和市场的特定事实与数据，暗示其可能提供独特的投资机会或宏观经济洞察，值得专业人士深入研究。",
+      "sources": [
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/07/now-show-japan/"
+        }
+      ]
+    },
+    {
+      "name": "Liang Wenfeng (DeepSeek创始人)",
+      "title": "低调行事却怀揣高远AI抱负",
+      "summary": "观点：中国AI初创公司DeepSeek创始人兼量化对冲基金High-Flyer Quant的梁文锋，以其低调的公众形象著称。然而，一份泄露的与潜在投资者闭门会议的记录显示，他怀有极高的AI抱负，致力于推动AI前沿发展。这揭示了中国顶尖AI人才在幕后推动行业进步的决心与战略布局，对理解中国AI生态和未来方向至关重要。",
       "sources": [
         {
           "name": "SCMP Business",
@@ -80,96 +99,144 @@
     },
     {
       "name": "Fareed Zakaria",
-      "title": "选民普遍不满情绪的经济根源",
-      "summary": "观点：CNN知名评论员Fareed Zakaria在一篇被Tyler Cowen推荐的评论文章中指出，当前选民普遍存在的不满情绪，部分根源于结构性经济问题，例如高昂的住房成本、停滞不前的实际收入以及日益扩大的财富不平等。他强调这些经济因素正在加剧社会裂痕和政治动荡，并呼吁对这些深层问题进行更客观的分析。",
+      "title": "选民不满根源在于经济结构性问题",
+      "summary": "观点：经济学家泰勒·考恩引述法里德·扎卡利亚的观点，认为当前选民的不满部分源于经济因素，包括高昂的住房成本、停滞不前的收入以及日益扩大的不平等。扎卡利亚强调，这种真相揭示了社会经济结构的深层问题，而非仅仅个人层面的抱怨，对理解宏观政治经济环境和长期社会稳定有重要意义。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-common-sense-of-fareed-zakaria.html?utm_source=rss&utm_medium=rss&utm_campaign=the-common-sense-of-fareed-zakaria"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-common-sense-of-fareed-zakaria.html"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "南美洲饥饿人口比例显著下降",
-      "summary": "根据联合国粮食及农业组织（FAO）最新报告，南美洲饥饿人口的比例自2020年以来下降了三分之一，是全球下降速度最快的地区。目前该地区仅有3.5%的人口摄入热量不足，达到了历史最低水平。这一积极进展表明该地区在改善粮食安全和应对贫困方面取得了显著成效，为全球可持续发展目标提供了典范。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/further-progress-in-south-america.html?utm_source=rss&utm_medium=rss&utm_campaign=further-progress-in-south-america"
-        }
-      ]
-    },
-    {
-      "title": "迪拜房地产市场受中东冲突影响需求降温",
-      "summary": "中东地区冲突的持续，已导致迪拜的住房需求降温。分析师指出，买家正在推迟购房决策，同时企业也延迟了高管和员工向中东地区的搬迁计划。2026年上半年，迪拜全市范围内的销售量同比下降了13.6%，其中5月和6月的交易活动显著减弱。这反映了地缘政治风险对区域经济和特定资产类别，尤其是房地产市场的直接负面冲击。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/article/3361877/demand-dubai-homes-cools-middle-east-conflict-drags?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "中国在特朗普贸易战后仍处有利地位",
-      "summary": "《纽约时报》分析指出，尽管美国前总统特朗普对中国发动了贸易战并多次威胁加征关税，但对中国商品的整体平均加权关税水平大致保持不变。分析表明，中国经济在经历了贸易战后，其在全球贸易体系中的地位并未受到根本性削弱，反而可能处于一个相对有利的位置。这为评估中美贸易冲突的长期影响提供了新的视角。",
+      "title": "美国与伊朗冲突暂停促使油价下跌，市场短期趋稳",
+      "summary": "在美国和伊朗连续第二天未报告袭击事件后，全球原油价格显著回落。这一变化反映了投资者对中东紧张局势可能缓解的乐观情绪，短期内有助于稳定全球能源市场，并可能对通胀预期产生积极影响，但长期地缘政治风险仍需警惕。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html"
+          "url": "https://www.nytimes.com/2026/07/26/business/oil-prices-fall-iran-war.html"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "美国国债市场向美联储传递加息警告信号",
+      "summary": "美国国债收益率飙升，被市场解读为对通胀前景“极度担忧”的信号，并向美联储主席凯文·沃什（Kevin Warsh）发出明确警告，要求其采取更强硬的利率行动。这表明市场在敦促美联储以实际行动支持其抗通胀的决心，对未来货币政策预期构成压力，可能影响股市和信贷市场。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "日本经济现状分析：多维数据揭示独特市场特征",
+      "summary": "“A Wealth of Common Sense”援引“Risk & Reward”报告，提供了关于日本经济的系列事实、数据和图表。这些洞察有助于投资者理解日本市场在宏观环境中的独特地位和潜在机遇，尤其是在全球经济不确定性增加的背景下，其结构性特点可能提供对冲或增长点，值得深入分析。",
+      "sources": [
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/07/now-show-japan/"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "SpaceX星舰下一阶段将尝试塔架回收",
-      "summary": "在第13次飞行任务取得“吉利”结果后，SpaceX计划在下一次星舰发射任务中尝试在发射塔架进行火箭回收。这一激进的回收策略如果成功，将大幅提升星舰的可重复使用性并降低运营成本。此举体现了SpaceX在航天技术创新方面的持续雄心，并将进一步巩固其在商业航天领域的领先地位，为未来太空探索和商业化奠定基础。",
+      "title": "AI热潮下中国半导体企业CXMT市值飙升，全球芯片竞争加剧",
+      "summary": "中国主要存储芯片制造商CXMT在上海交易所首日交易中股价飙升470%，市值跃居上海股市之首。这一强劲表现不仅反映了AI对内存芯片需求的巨大推动，更凸显了中国在半导体领域寻求自主创新和市场领导力的雄心，加剧了全球科技供应链的竞争格局，对投资者重新评估芯片赛道带来启示。",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/27/business/cxmt-stock-price-ai.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "人类增强技术需求激增引发治理难题",
+      "summary": "一项针对美国5,556人的全国代表性调查实验显示，尽管人类增强技术（HET）有望带来巨大的私人利益，但它也可能产生市场无法定价的社会成本。这项研究指出，公民对HET的治理方式有不同需求，暗示未来该领域将面临复杂的监管和伦理挑战，对长期科技投资和政策制定具有深远影响。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-demand-for-human-enhancement-technologies.html"
+        }
+      ]
+    },
+    {
+      "title": "DeepSeek创始人梁文锋的AI战略：低调背后的雄心",
+      "summary": "中国AI公司DeepSeek的创始人梁文锋，以其在公众场合的低调形象与在AI领域的巨大抱负形成鲜明对比。一份内部会议记录揭示了其对AI技术前沿的深刻见解和战略投入。这表明即使在巨头林立的AI赛道，新兴的、由深厚技术背景支撑的企业也在悄然布局，可能成为行业颠覆者，值得投资者关注。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3361731/low-profile-high-ai-ambition-what-leaked-comments-reveal-about-deepseeks-liang-wenfeng?utm_source=rss_feed"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "SpaceX IPO配股引发投资者热议",
-      "summary": "一位投资者通过其财务顾问获得了SpaceX的完整IPO配股，这在投资界引发了关于此举是否幸运以及该公司未来表现的广泛讨论。通常，热门IPO的配股极其有限，投资者往往只能获得一小部分甚至无法获得。这一事件突显了SpaceX作为一家备受追捧的非上市公司，其潜在上市可能对市场带来的影响，以及投资者对其未来增长的强烈期待。",
+      "title": "S&P 500盈利增长集中于少数公司，市场结构性风险显现",
+      "summary": "标普500指数的整体盈利增长呈现高度集中，主要由一两家大型公司（很可能是科技巨头）贡献。这种现象引发了市场对广度不足和结构性风险的担忧，表明许多投资者可能错过了市场涨幅，并预示着未来收益的波动性可能加剧，建议关注投资组合的多元化。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/the-s-p-500s-earnings-growth-has-gone-bonkers-thanks-to-one-company-1c45b2ba?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "美股面临“三重技术威胁”，投资者寻求避险",
-      "summary": "美国股市目前正面临技术面上的“三重威胁”：国债收益率和油价飙升，以及美元汇率突破了长期上涨趋势。这些因素共同导致标普500指数跌破了关键的技术支撑位。面对宏观经济的不确定性和技术指标的负面信号，投资者正积极寻找避险资产，市场短期内可能面临更大的波动和调整压力。",
+      "title": "美国股市面临技术性“三重威胁”，但仍有避险选择",
+      "summary": "分析指出，美国股市正面临技术性的“三重威胁”：国债收益率和油价飙升，以及美元突破长期上涨趋势。这些因素共同将标普500指数推至关键支撑位下方。尽管如此，报告也提示投资者市场中仍存在可以避险的领域，暗示需进行精细化的资产配置以应对挑战，降低风险敞口。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories"
         }
       ]
+    },
+    {
+      "title": "派拉蒙与华纳兄弟1110亿美元合并案因反垄断审查暂停",
+      "summary": "媒体巨头派拉蒙与华纳兄弟探索公司之间高达1110亿美元的合并谈判在上周取得进展后陷入停滞，原因是美国各州可能发起反垄断诉讼。这一事件反映出美国监管机构对大型并购案的严格立场，可能预示着未来科技和媒体行业的整合将面临更大的监管阻力，对相关股票的投资情绪产生负面影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/26/business/paramount-warner-bros-deal-pause.html"
+        }
+      ]
     }
   ],
   "a_stocks": [
     {
-      "title": "中国奢侈品市场回暖，Burberry销售表现强劲",
-      "summary": "包括英国奢侈品牌Burberry和卡地亚在内的多家奢侈品公司在中国市场录得强劲的销售增长。Burberry在2027财年第一季度销售额同比增长5%。分析师认为，这一积极趋势可能得益于中国资产市场的稳健表现，从而提振了高净值消费者的信心。这表明中国高端消费市场可能正在经历复苏，对依赖中国市场的全球奢侈品牌和国内消费股构成利好信号。",
+      "title": "量化基金被指为中国股市暴跌推手，数据显示其净买入",
+      "summary": "尽管一些投资者将7月份中国股市的最新跌势归咎于量化基金，指责其通过激进抛售或股指期货做空加速了市场下跌，但行业数据显示，在市场最疲软的交易日中，几家主要量化基金实际上是净买入方。这纠正了市场误解，并指出情绪而非量化交易可能是主导因素，对理解A股市场结构和驱动力至关重要。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/companies/article/3361880/burberry-sales-jump-are-luxury-goods-back-fashion-china-amid-tech-wealth?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/markets/article/3361974/quant-funds-blamed-driving-chinese-equities-slump-data-shows-they-were-net-buyers?utm_source=rss_feed"
         }
       ]
     },
     {
-      "title": "中国车企利润率承压，价格战前景不明",
-      "summary": "由于原材料成本持续上涨和市场需求萎缩（受购车补贴及税收优惠政策调整影响），中国汽车制造商正面临利润率缩窄的严峻挑战。这种困境可能导致消费者此前期待的更大折扣难以实现，因为多数车企已无法进一步削减利润空间来吸引买家。这揭示了中国汽车行业当前面临的结构性挑战，利润压力可能抑制行业价格战的持续性，进而影响企业的盈利能力和竞争格局。",
+      "title": "香港楼市回暖有望提振开发商盈利",
+      "summary": "随着香港楼市的复苏，预计未来几周香港房地产开发商将报告强劲的上半年盈利增长，发展利润率也有所改善。投资者正密切关注财报，以判断此轮复苏的可持续性。这对于评估香港经济健康状况及相关股票表现至关重要，也可能影响市场对区域经济前景的信心。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3361933/hong-kong-home-sales-recovery-expected-boost-developers-earnings?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "中国车企利润承压，价格战难以为继",
+      "summary": "受原材料成本上升和市场需求萎缩的影响，中国汽车制造商的利润率持续收窄。尽管销量下滑，但利润压力使得车企难以进一步开展价格战以刺激销售，消费者对大幅折扣的期望可能落空。这预示着中国汽车行业的竞争将从价格转向成本控制和产品创新，对相关产业链的投资前景产生影响。",
       "sources": [
         {
           "name": "SCMP Business",
@@ -178,46 +245,80 @@
       ]
     },
     {
-      "title": "中国大陆公司赴美IPO意愿不减，但面临多重挑战",
-      "summary": "尽管地缘政治紧张局势加剧以及监管障碍增多，使得华尔街对中国大陆公司而言上市难度加大，但部分大陆企业仍不愿放弃赴美IPO的路径。今年上半年，仅有两家大陆公司在美国完成上市，总融资额创下五年来的新低。这反映出中美资本市场联系的复杂性，以及中国企业寻求全球资本和国际品牌认可的持续需求，但同时也警示了日益增加的监管和政治风险。",
+      "title": "中国奢侈品市场回暖，科技财富支撑Burberry销售增长",
+      "summary": "包括Burberry和Cartier在内的奢侈品牌在最新季度（截至6月底）在中国市场实现了强劲的销售增长。分析师认为，这可能得益于中国资产市场的强劲表现，从而提升了消费者的信心。尤其是在科技财富积累下，高净值人群的消费能力和意愿正在恢复，为奢侈品行业的未来增长提供了支撑。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/markets/article/3361697/why-do-mainland-chinese-firms-refuse-give-wall-street-ipos?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/companies/article/3361880/burberry-sales-jump-are-luxury-goods-back-fashion-china-amid-tech-wealth?utm_source=rss_feed"
         }
       ]
     }
   ],
   "business": [
     {
-      "title": "Primark采用“超市策略”应对线上价格战",
-      "summary": "面对来自Shein等超低价中国线上零售商的激烈竞争以及全球生活成本危机，英国时尚零售商Primark正采取一种新的“超市策略”来吸引和留住顾客。这一策略旨在通过优化店内体验、提供更具吸引力的商品组合来应对市场挑战。此举反映了传统零售商在数字化转型和线上价格战压力下，为保持市场份额所做的战略调整。",
+      "title": "伊朗战争迫使亚洲能源买家摆脱全球市场束缚",
+      "summary": "中东地区持续的冲突对亚洲发展中国家造成了严重的供应链冲击，促使它们努力减少对进口燃料（包括液化天然气）的依赖。这一战略性转变旨在增强能源安全和供应链韧性，可能重塑全球能源贸易格局，并加速区域能源基础设施的投资，对全球能源公司的长期战略具有重要影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/27/business/natural-gas-lng-asia-exposure.html"
+        }
+      ]
+    },
+    {
+      "title": "Shein上市前夕报告亏损：关税与全球供应链挑战凸显",
+      "summary": "快时尚巨头Shein在提交香港上市申请前，报告第一季度亏损9900万美元，主要原因是受西方国家关税，特别是“特朗普关税”的冲击，导致利润率被大幅挤压。这一事件不仅影响Shein的估值和上市进程，也揭示了全球贸易政策对跨国企业商业模式和供应链成本的直接影响，促使企业重新评估其全球布局。",
       "sources": [
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3361931/fast-fashion-giant-shein-swings-us99m-first-quarter-loss-ahead-hong-kong-listing?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "大华银行通过区域扩张提升客户相关性",
+      "summary": "大华银行（UOB）在2022年初收购花旗集团在东南亚四个市场的消费银行业务，旨在扩大业务规模并巩固其作为领先区域性银行的地位。通过利用数字能力吸引客户并满足其财富增长需求，大华银行展示了其通过战略性并购和技术创新实现增长的模式，为其他地区性金融机构提供了借鉴，对区域金融服务业发展具有启示。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/native/business/topics/reimagining-asean-future/article/3361474/how-uob-turning-regional-scale-customer-relevance?utm_source=rss_feed"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "香港开发商适应大湾区房地产“新常态”",
-      "summary": "在经历内地房地产行业的债务危机后，香港开发商在大湾区市场不得不调整其运营策略。过去，大湾区住宅物业90%的买家是香港投资者，而现在内地买家数量逐渐增加，且购买动机也从纯粹的投资转向了自住需求。这一结构性转变预示着大湾区房地产市场进入“新常态”，对该区域的长期房地产开发和投资策略具有重要影响。",
+      "title": "迪拜房地产需求因中东冲突持续而降温",
+      "summary": "随着美国-以色列与伊朗冲突的持续，迪拜房地产市场的需求开始降温。买家推迟购置，企业也延缓了高管和员工向中东地区的迁徙。尽管上半年销量同比仅下降13.6%，但5月和6月市场活动明显减弱，显示地缘政治紧张局势对特定新兴市场资产带来直接且容易被忽视的影响，值得投资者警惕。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3361870/how-hong-kong-developers-are-adapting-new-normal-greater-bay-area?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/article/3361877/demand-dubai-homes-cools-middle-east-conflict-drags?utm_source=rss_feed"
         }
       ]
     },
     {
-      "title": "人类增强技术需求研究揭示市场与社会成本权衡",
-      "summary": "一项针对5,556名美国受访者的全国性调查实验，深入探讨了人类增强技术（HET）的需求。研究发现，当一种新技术承诺带来巨大的私人利益，但可能同时产生市场无法定价的社会成本时，其纯粹的需求并不能完全揭示公民对如何治理这项技术的真正意愿。这表明HET的商业化和监管将面临复杂的伦理和社会挑战，是未来科技发展中一个重要但容易被忽视的结构性变化。",
+      "title": "南美洲饥饿人口比例显著下降，区域发展取得进展",
+      "summary": "根据联合国粮农组织报告，南美洲饥饿人口比例自2020年以来下降了三分之一，增速超过全球其他地区，目前仅3.5%的人口摄入卡路里不足，达到历史最低水平。这一显著进展表明该区域在社会经济发展和粮食安全方面取得了被低估的成就，可能预示着更稳定的经济基础和新兴投资机遇，值得长期关注。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-demand-for-human-enhancement-technologies.html?utm_source=rss&utm_medium=rss&utm_campaign=the-demand-for-human-enhancement-technologies"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/further-progress-in-south-america.html"
+        }
+      ]
+    },
+    {
+      "title": "中国大陆企业坚持赴华尔街IPO：地缘政治挑战下的资本韧性",
+      "summary": "尽管地缘政治紧张和监管障碍重重，但中国大陆企业仍不愿放弃在华尔街上市。今年上半年仅有两家大陆公司在美国上市，募资额创五年新低，但官方数据显示，仍有大量企业寻求美股IPO。这反映出中国企业对国际资本市场的持续渴望和韧性，以及对美国市场流动性和估值的长期吸引力，是跨国资本流动的重要结构性趋势。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/markets/article/3361697/why-do-mainland-chinese-firms-refuse-give-wall-street-ipos?utm_source=rss_feed"
         }
       ]
     }
