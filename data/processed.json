@@ -1,8 +1,8 @@
 {
   "top5": [
     {
-      "title": "新任美联储主席面临通胀考验：市场关注其首次政策会议是否加息",
-      "summary": "新任美联储主席Kevin M. Warsh上任，其此前对高通胀“零容忍”的立场，预示着他可能在即将到来的首次政策会议上推动加息。这一决定将是其领导美联储后的首次重大考验，对全球资产定价和经济前景具有关键影响。投资者正密切关注美联储在遏制通胀与经济增长之间的平衡。",
+      "title": "美联储新任主席面临关键加息决策",
+      "summary": "新任美联储主席Kevin M. Warsh正面临其任期内首次重大挑战，需决定是否在本周政策会议上推动加息。他此前曾明确表示美联储对高通胀“零容忍”，此次决策将直接影响全球利率走向和资本市场情绪，投资者正密切关注其对未来货币政策的信号。",
       "sources": [
         {
           "name": "NYT Business",
@@ -11,40 +11,18 @@
       ]
     },
     {
-      "title": "中国存储芯片巨头CXMT上市首日股价暴涨470%，市值跃居上海首位",
-      "summary": "中国领先的存储芯片制造商长鑫存储技术（CXMT）在上海证券交易所上市首日股价飙升近470%，市值跃居上海股市首位。这一惊人的表现凸显了在AI热潮驱动下，市场对中国本土半导体产业自主创新和发展的狂热信心，同时也折射出中美科技竞争背景下中国对关键技术突破的强烈预期。",
+      "title": "国际油价因地缘政治缓解而下跌",
+      "summary": "美国与伊朗暂停互相攻击，为两国谈判创造了空间，促使国际油价应声下跌。市场对中东地区冲突可能降温的预期，有助于缓解全球能源供应的担忧，对通胀前景构成短期利好。然而，中东局势的复杂性意味着油价未来仍可能波动。",
       "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/27/business/cxmt-stock-price-ai.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "伊朗局势缓和促油价大跌，亚洲国家寻求能源供应链“解绑”",
-      "summary": "美国与伊朗暂停军事打击，为对话留出空间，国际油价应声下跌，创下近两个月来最大单日跌幅。与此同时，亚洲发展中国家因屡受中东供应冲击，正加速采取措施减少对进口液化天然气等燃料的依赖，旨在增强能源自给自足能力。这标志着全球能源地缘政治风险的短期缓解和长期供应链重塑的加速。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/27/business/natural-gas-lng-asia-exposure.html"
-        },
         {
           "name": "BBC Business",
           "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/oil-prices-see-largest-one-day-declines-in-two-months-amid-pause-in-strikes-d819160a?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "中国AI巨头盈利困境凸显：技术进步与商业化挑战并存",
-      "summary": "尽管中国的AI模型在技术层面正迎头赶上，但包括阿里巴巴和字节跳动在内的中国主要AI公司，目前仍难以找到明确的盈利策略来将其技术优势转化为商业成功。这反映出AI技术商业化是全球性难题，对未来科技投资的回报预期以及AI行业的持续发展构成挑战。",
+      "title": "中国AI巨头盈利模式面临挑战",
+      "summary": "尽管中国AI模型在技术上取得显著进展，但纽约时报报道指出，包括阿里巴巴和字节跳动在内的中国AI领军企业，尚未找到清晰的盈利策略。这凸显了AI技术从研发到大规模商业化变现的普遍难题，或将影响相关公司的估值与投资前景，对全球AI产业发展具有警示意义。",
       "sources": [
         {
           "name": "NYT Business",
@@ -53,16 +31,26 @@
       ]
     },
     {
-      "title": "AI开放与封闭模型之争撕裂科技巨头，重塑行业未来格局",
-      "summary": "人工智能行业内部正围绕开放模型（open-source）与封闭模型（closed-source）的战略选择展开激烈辩论，这一分歧正在科技巨头之间制造裂痕。投资者和政策制定者必须权衡这两种路径对AI技术发展速度、创新生态系统以及市场竞争格局的深远影响。选择何种模式，将决定AI行业的长期演进方向。",
+      "title": "中国芯片制造商IPO首日股价飙升近470%",
+      "summary": "一家中国芯片制造商在上市首日股价暴涨近470%，显示出市场对AI驱动下半导体需求的极度乐观。此次“爆炸性”IPO不仅反映了中国资本市场的活力，也进一步印证了AI热潮对芯片产业的巨大推动作用，预示着该领域持续的投资热度。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/27/business/dealbook/open-closed-ai-debate.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia与OpenAI潜在合作引发市场对“科技泡沫”的担忧",
+      "summary": "有分析师警告称，Nvidia可能为OpenAI的数据中心租赁提供担保，这一做法可能重现“科技泡沫”时期不健康的融资模式。此消息引发了市场对AI基础设施过度投资及潜在财务风险的警惕，尤其是在Meta和微软即将发布财报之际，投资者对AI相关债券的担忧加剧。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories"
         },
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/27/business/dealbook/open-closed-ai-debate.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories"
         }
       ]
     }
@@ -70,8 +58,8 @@
   "people": [
     {
       "name": "Kevin M. Warsh",
-      "title": "新任美联储主席对通胀“零容忍”，或推动加息",
-      "summary": "观点：新任美联储主席Kevin M. Warsh此前曾明确表示美联储对高企通胀“零容忍”，这预示着他可能在即将到来的政策会议上推动加息。这一立场将是其领导美联储后的首次重大考验，对市场预期和未来货币政策走向至关重要。",
+      "title": "美联储新主席面临加息重任",
+      "summary": "观点：新任美联储主席Kevin M. Warsh面临上任以来最大考验，需决定是否在本周政策会议上推动加息，以应对持续高位通胀。他此前曾强调美联储对通胀“零容忍”的态度，预示着其可能采取鹰派立场，对市场产生关键指引。",
       "sources": [
         {
           "name": "NYT Business",
@@ -81,8 +69,8 @@
     },
     {
       "name": "Lacy Hunt",
-      "title": "资深债券投资者Lacy Hunt结束44年长债看多立场",
-      "summary": "观点：以长期看多美国国债闻名的资深投资者Lacy Hunt在坚守44年后，改变了其在长债上的立场。这一转变标志着一个时代的结束，反映了市场对通胀和利率长期走势预期的重大变化，值得投资者深思其对资金配置的启示，可能预示着债券市场范式的转换。",
+      "title": "知名债券策略师反转长期美债立场",
+      "summary": "观点：长期债券市场策略师Lacy Hunt在坚守44年后，反转了其对长期美国国债的乐观立场。此举被视为一个时代的结束，预示着市场对长期利率前景和债券投资策略的结构性变化，值得固定收益投资者高度关注。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -92,8 +80,8 @@
     },
     {
       "name": "Steve Eisman",
-      "title": "《大空头》原型投资者Steve Eisman对AI前景产生疑虑并出售关键科技股",
-      "summary": "观点：电影《大空头》原型之一的知名对冲基金经理Steve Eisman发出警告，投资者可能低估了如果AI热潮未能实现其过高预期所带来的风险。他近期出售了一支重要的科技股，表明其对AI领域的乐观情绪正在减弱，这为当前市场对AI的狂热提供了不同的视角。",
+      "title": "“大空头”投资者对AI繁荣发出警告",
+      "summary": "原话：「AI繁荣可能无法达到过高预期，投资者可能低估了其风险。」 这位因成功预测2008年金融危机而闻名的投资者透露已出售了一只关键科技股，对AI领域的过度热情和潜在泡沫发出警告。",
       "sources": [
         {
           "name": "CNBC Finance",
@@ -102,36 +90,21 @@
       ]
     },
     {
-      "name": "Tyler Cowen",
-      "title": "Tyler Cowen关注科学思想传播效率下降及人类增强技术需求",
-      "summary": "观点：经济学家Tyler Cowen指出，过去四十年间，科学思想跨领域传播的速度显著下降，这与科学语言日益专业化有关。他还探讨了市场机制在评估人类增强技术（HET）社会成本时的不足，指出其私益巨大但社会成本难以定价，需要更全面的治理框架。",
+      "name": "Vasant Dhar",
+      "title": "AI华尔街先驱不信任ChatGPT进行投资",
+      "summary": "观点：作为1994年将AI引入华尔街的早期实践者，Vasant Dhar明确表示他不会将自己的钱完全托付给ChatGPT等AI系统进行投资决策。他提醒投资者需警惕AI技术在金融领域的局限性和潜在风险，强调人类判断的重要性。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-decline-in-the-transmission-of-scientific-ideas.html?utm_source=rss&utm_medium=rss&utm_campaign=the-decline-in-the-transmission-of-scientific-ideas"
-        },
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-demand-for-human-enhancement-technologies.html?utm_source=rss&utm_medium=rss&utm_campaign=the-demand-for-human-enhancement-technologies"
-        }
-      ]
-    },
-    {
-      "name": "Ben Carlson",
-      "title": "Ben Carlson探讨加密货币是否已“消亡”及其基础设施建设",
-      "summary": "观点：财经评论员Ben Carlson在一篇播客中讨论了当前围绕加密货币的普遍情绪，尤其是在其被视为“已死”的背景下，审视了Hyperliquid等基础设施建设、以太坊的演变以及稳定币的作用。他旨在探讨在市场低迷期，加密领域是否仍有生命力，以及如何评估其长期价值。",
-      "sources": [
-        {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/07/talk-your-book-is-crypto-dead/"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "新任美联储主席面临加息抉择，遏制通胀成首要任务",
-      "summary": "Kevin M. Warsh接任美联储主席，其此前对通胀“零容忍”的表态预示，本周的首次政策会议可能讨论加息，以遏制当前高企的通胀。这一决定将对美国及全球经济走向产生关键影响，投资者需关注其对市场流动性和借贷成本的潜在冲击。",
+      "title": "美联储新主席面临加息决议",
+      "summary": "新任美联储主席Kevin M. Warsh正面临其任期内首次重大考验，需决定是否在本周政策会议上推动加息。他此前曾明确表示美联储对高通胀“零容忍”，此次决策将直接影响全球利率走向和资本市场情绪。",
       "sources": [
         {
           "name": "NYT Business",
@@ -140,44 +113,30 @@
       ]
     },
     {
-      "title": "美国与伊朗暂停冲突促油价下跌，地缘政治风险溢价降低",
-      "summary": "在美国与伊朗决定暂停军事打击以开启对话后，国际原油价格出现近两个月来的最大单日跌幅。这一进展短期内缓解了中东地缘政治紧张局势，降低了能源供应风险溢价，可能对全球通胀预期产生积极影响，但长期不确定性犹存。",
+      "title": "油价下跌因中东地缘政治紧张局势缓解",
+      "summary": "美国与伊朗暂停互相攻击，为两国谈判创造了空间，促使国际油价应声下跌。市场对中东地区冲突可能降温的预期，有助于缓解全球能源供应的担忧，对通胀前景构成短期利好。然而，中东局势的复杂性意味着油价未来仍可能波动。",
       "sources": [
         {
           "name": "BBC Business",
           "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss"
-        },
+        }
+      ]
+    },
+    {
+      "title": "AI相关债券市场压力显现，Meta和微软财报临近",
+      "summary": "随着Meta和微软等科技巨头财报季临近，AI相关债券市场出现更多裂痕。投资者担忧大量AI项目相关的债务供给将给整体债券市场带来压力，可能预示着AI基础设施投资热潮中的潜在财务风险，值得密切关注。",
+      "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/oil-prices-see-largest-one-day-declines-in-two-months-amid-pause-in-strikes-d819160a?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "亚洲国家寻求能源供应链“解绑”，摆脱对全球市场的依赖",
-      "summary": "经历中东供应冲击后，亚洲发展中国家正在努力减少对进口燃料（包括液化天然气）的依赖。这一“解绑”战略旨在增强国家能源安全，可能推动区域内可再生能源投资和新的能源合作模式，从而对全球能源贸易格局产生深远影响。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/27/business/natural-gas-lng-asia-exposure.html"
-        }
-      ]
-    },
-    {
-      "title": "日本经济状况分析：需关注其结构性变化和投资机会",
-      "summary": "一份来自Risk & Reward的报告提供了关于日本经济的关键事实、数据和图表，暗示了对日本市场和经济的持续关注。投资者应深入了解日本在通胀、货币政策、企业治理改革以及人口结构变化方面的最新动态，以把握潜在的投资机会和风险。",
-      "sources": [
-        {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/07/now-show-japan/"
+          "url": "https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "中国AI巨头盈利能力面临挑战，商业化路径仍待明确",
-      "summary": "尽管中国的AI模型技术正在迎头赶上，但包括阿里巴巴和字节跳动在内的中国主要AI公司，尚未找到清晰的盈利模式来将其技术优势转化为商业成功。这表明AI技术商业化和变现是全球性难题，对理解AI经济模型和未来科技投资回报的预期至关重要。",
+      "title": "中国AI巨头盈利模式面临挑战",
+      "summary": "尽管中国AI模型在技术上取得显著进展，但纽约时报报道指出，包括阿里巴巴和字节跳动在内的中国AI领军企业，尚未找到清晰的盈利策略。这凸显了AI技术从研发到大规模商业化变现的普遍难题，对全球AI产业发展具有警示意义。",
       "sources": [
         {
           "name": "NYT Business",
@@ -186,109 +145,89 @@
       ]
     },
     {
-      "title": "AI开放与封闭模型引发科技界战略分裂，影响行业长期走向",
-      "summary": "科技巨头内部正围绕开放与封闭AI模型展开激烈辩论，投资者和政策制定者需权衡不同路径对行业未来发展、创新速度和市场竞争格局的影响。这一战略选择不仅关乎技术标准，更将决定AI生态系统的竞争强度和最终形态，是影响AI行业长期演进的关键因素。",
+      "title": "AI“开放”与“封闭”模型之争加剧科技界分歧",
+      "summary": "围绕AI模型的开放与封闭性质，大型科技公司内部及政策制定者之间出现激烈辩论。这场争论关乎AI技术的未来发展方向、创新生态和监管框架，将对整个行业格局和投资产生长期影响，特别是在Anthropic等公司发表立场声明后。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/07/27/business/dealbook/open-closed-ai-debate.html"
         },
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/27/business/dealbook/open-closed-ai-debate.html"
+          "name": "Hacker News Top",
+          "url": "https://www.anthropic.com/news/position-open-weights-models"
         }
       ]
     },
     {
-      "title": "Meta巨型数据中心项目凸显AI基础设施投资需求与地方政策影响",
-      "summary": "Meta公司在路易斯安那州规划的巨型数据中心项目引发关注，其规模庞大且在秘密谈判中获得了大量优惠。这一事件凸显了科技巨头对AI基础设施投资的巨大需求，以及此类项目对地方经济、环境和政策制定的深远影响，预示着数据中心建设将是未来AI发展的重要趋势。",
+      "title": "微软推出AI安全工具，强调性能与成本优势",
+      "summary": "微软发布了其AI安全工具MAI-Cyber-1-Flash，声称其性能优于竞争平台且成本更低。这标志着AI在网络安全领域的应用进一步深化，也预示着该领域竞争的加剧，或将改变企业在网络安全上的投入策略。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/27/business/meta-data-center-louisiana-takeaways.html"
+          "name": "Hacker News Top",
+          "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/"
         },
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
         }
       ]
     },
     {
-      "title": "激光技术助力核燃料生产与AI制药新进展：能源与生物科技创新",
-      "summary": "激光技术有望用于核反应堆燃料的再处理，可从废弃物中提取铀，为核能生产提供新途径。同时，AI在药物发现领域的应用通过“数据闭环”加速新药研发，对抗“Eroom定律”，提升效率并降低成本。这些前沿科技进展为能源可持续发展和医疗健康带来突破性潜力。",
+      "title": "Claude AI聊天数据泄露引发隐私担忧",
+      "summary": "Anthropic公司的Claude AI聊天记录被发现可在网上公开访问，引发了对AI隐私和数据安全的担忧。随着AI应用普及，用户数据保护和伦理问题成为亟待解决的关键挑战，可能促使监管机构出台更严格的数据保护法规。",
       "sources": [
         {
-          "name": "MIT Tech Review",
-          "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/"
-        },
-        {
-          "name": "MIT Tech Review",
-          "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
-        }
-      ]
-    },
-    {
-      "title": "AI数据中心快速增长引发公用事业股票潜在风险",
-      "summary": "AI数据中心的快速扩张导致电力需求激增，促使州监管机构考虑要求大型科技公司承担电网扩建成本。这一趋势可能使传统公用事业股票面临新的政治风险和成本压力，投资者需要评估AI增长带来的能源基础设施挑战对相关股票的影响。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "投资者转向大型科技股避险，AI改变市场格局",
-      "summary": "面对市场不确定性，投资者正效仿2021年的趋势，转向高质量的大型市值股票以寻求安全。虽然AI技术的广泛应用使得当前市场与2021年有所不同，但对安全资产的偏好依然显著。这表明资金正在集中流向业绩确定性和抗风险能力较强的科技巨头。",
+      "title": "SpaceX股价创新低，单股期货上市",
+      "summary": "尽管星舰飞行近乎完美，SpaceX股价仍跌至新低，且其财报临近，更多内部人士将获准抛售股份。与此同时，CME推出SpaceX等单只股票期货，允许23小时交易，为投资者提供了新的风险对冲和投机工具，但私有市场估值压力值得关注。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/the-s-p-500-is-echoing-its-2021-setup-according-to-morgan-stanley-fe4b61d0?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/spacexs-stock-falls-to-a-new-low-despite-a-near-flawless-starship-flight-034a99ab?mod=mw_rss_topstories"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html"
         }
       ]
     },
     {
-      "title": "AI数据中心激增对公用事业股构成潜在风险",
-      "summary": "AI数据中心快速增长带来的巨大电力需求，正引发监管机构要求大型科技公司自行承担电网扩建成本的趋势。这可能使传统公用事业股票面临政治风险和成本压力，投资者需警惕AI繁荣背后对现有基础设施和市场结构的冲击。",
+      "title": "SEC推动小企业融资政策改革",
+      "summary": "美国证券交易委员会（SEC）向国会提交报告，提出改善小企业募资政策的建议。这旨在为创新型中小企业提供更多资本获取途径，可能激活更多新兴市场和就业机会，促进经济活力，并可能吸引风险资本关注小型成长型公司。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories"
+          "name": "SEC Press",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-70-small-business-forums-report-congress-highlights-recommendations-improve-capital-raising-policy"
         }
       ]
     },
     {
-      "title": "NBCUniversal与YouTube达成Peacock内容嵌入协议",
-      "summary": "NBCUniversal宣布与YouTube达成协议，将Peacock的全部内容（包括体育和电影）嵌入YouTube Premium订阅服务中，预计2027年初生效。这一战略合作旨在扩大Peacock的用户覆盖面，并可能重塑流媒体行业的竞争格局，为内容提供商和平台方带来新的增长机遇。",
+      "title": "Meta在路易斯安那州的数据中心扩张策略",
+      "summary": "Meta通过与地方官员的秘密谈判，在路易斯安那州建造大型数据中心并获得了大量优惠。这揭示了大型科技公司在扩展AI基础设施过程中与地方政府的议价能力，以及可能引发的公共资源和环境争议，对科技公司未来的扩张模式具有参考意义。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html"
-        }
-      ]
-    },
-    {
-      "title": "福特汽车通过个性化定制战略提升利润空间",
-      "summary": "福特汽车正积极扩展其配件和零件业务，鼓励客户进行车辆个性化定制，以提升利润率。此举旨在更好地利用价值530亿美元的美国汽车售后市场，并创造类似“耐克鞋款发布”的营销热度，反映出传统汽车制造商在盈利模式上的创新探索。",
-      "sources": [
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html"
+        },
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/27/ford-vehicle-customization-bronco.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/27/business/meta-data-center-louisiana-takeaways.html"
         }
       ]
     }
   ],
   "a_stocks": [
     {
-      "title": "中国存储芯片巨头CXMT上市首日股价暴涨470%，市值跃居上海首位",
-      "summary": "中国领先的存储芯片制造商长鑫存储技术（CXMT）在上海证券交易所首次亮相，股价飙升近470%，市值跃居上海股市首位。这显示了AI热潮下市场对中国半导体自主化前景的高度热情，也反映了A股市场对硬科技的投资偏好以及中国科技产业的战略重要性。",
+      "title": "中国芯片制造商IPO首日股价飙升近470%",
+      "summary": "一家中国芯片制造商在上市首日股价暴涨近470%，显示出市场对AI驱动下半导体需求的极度乐观。此次“爆炸性”IPO不仅反映了中国资本市场的活力，也进一步印证了AI热潮对芯片产业的巨大推动作用，预计将吸引更多资金涌入相关领域。",
       "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/27/business/cxmt-stock-price-ai.html"
-        },
         {
           "name": "BBC Business",
           "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss"
@@ -296,20 +235,30 @@
       ]
     },
     {
-      "title": "快时尚巨头Shein因特朗普关税面临亏损，IPO前景受关注",
-      "summary": "在准备于香港上市之际，快时尚巨头Shein公布其亏损达9900万美元，主要原因归咎于特朗普政府实施的关税政策对其销售造成冲击。这一事件凸显了中美贸易摩擦对全球企业盈利的直接影响，也让市场对其即将到来的IPO前景保持高度关注。",
+      "title": "快时尚巨头Shein受特朗普关税政策影响面临亏损",
+      "summary": "快时尚巨头Shein因特朗普关税政策导致销售受挫，出现9900万美元亏损，目前正准备在香港上市。这反映了地缘政治和贸易政策对全球化企业运营的直接影响，其IPO前景的不确定性增加，同时也警示了中美贸易摩擦对企业盈利能力的冲击。",
       "sources": [
         {
           "name": "BBC Business",
           "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss"
         }
       ]
+    },
+    {
+      "title": "中国AI公司Moonshot发布新AI模型，需授权许可",
+      "summary": "中国AI初创公司Moonshot（月之暗面）发布了其新的Kimi K3 AI模型，并表示部分用户将需要获取许可才能访问。此举反映了中国AI公司在技术共享与商业变现之间寻求平衡的策略，也可能预示着中国AI市场在模型授权和商业化方面将趋于规范化。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/27/business/moonshot-kimi-k3-china-ai.html"
+        }
+      ]
     }
   ],
   "business": [
     {
-      "title": "美国核电站重启面临设备老化与规划不足的挑战",
-      "summary": "美国首次尝试重启一座已关闭的核反应堆，但面临设备老化和前期规划不足等严峻挑战，使得重启进程远比预期困难。这一案例凸显了在全球能源转型中，核能作为清洁能源的重要性日益提升，但老旧设施的维护和重启成本及技术挑战不容忽视。",
+      "title": "美国核电站重启面临挑战",
+      "summary": "美国首次尝试重启已关闭的核反应堆，但面临设备老化和规划不足等难题。这突显了核能在应对气候变化和能源转型中面临的实际操作和投资挑战，可能影响未来能源结构调整的步伐和相关投资回报。",
       "sources": [
         {
           "name": "NYT Business",
@@ -318,58 +267,44 @@
       ]
     },
     {
-      "title": "亚洲能源买家寻求摆脱全球市场束缚，增强能源自主性",
-      "summary": "受伊朗冲突引发的中东供应冲击影响，亚洲发展中国家正努力降低对全球能源市场的依赖，特别是液化天然气。这种“解绑”战略旨在提高能源自给自足能力和抵御地缘政治风险，可能加速全球能源供应链的多元化和区域化进程。",
+      "title": "NBCUniversal与YouTube达成流媒体合作",
+      "summary": "NBCUniversal与YouTube达成协议，将Peacock内容嵌入YouTube Premium，预计2027年初生效。这表明流媒体市场竞争激烈，头部内容平台正通过合作扩大用户基础和分发渠道，旨在提升用户订阅价值和市场份额。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/27/business/natural-gas-lng-asia-exposure.html"
-        }
-      ]
-    },
-    {
-      "title": "AI加速药物发现但需完善数据闭环，应对“Eroom定律”",
-      "summary": "AI在药物发现领域展现出巨大潜力，通过优化数据闭环可大幅提升新药研发效率，对抗“Eroom定律”（即研发成本随时间指数增长）。然而，要充分发挥AI作用，仍需解决数据整合和模型验证的挑战，推动生物医药领域的创新突破。",
-      "sources": [
-        {
-          "name": "MIT Tech Review",
-          "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "人类增强技术需求与社会治理挑战：市场机制的不足",
-      "summary": "一项美国全国性调查实验显示，尽管人类增强技术（HET）具有巨大的私人利益，但其可能带来的社会成本却难以通过市场有效定价。这凸显了在HET发展中，如何在平衡个人需求与社会治理之间建立复杂而有效的监管框架，将长期影响该技术的产业化路径。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-demand-for-human-enhancement-technologies.html?utm_source=rss&utm_medium=rss&utm_campaign=the-demand-for-human-enhancement-technologies"
-        }
-      ]
-    },
-    {
-      "title": "AI训练数据来源引发道德和版权争议，未来监管或趋严",
-      "summary": "有报道称AI公司为获取训练数据，不惜销毁珍稀书籍，同时AI模因生成器因未经授权使用艺术家作品作为广告模板而被起诉。这些事件揭示了AI发展中数据来源的道德和版权灰色地带，预示着未来AI领域的监管可能趋严，从而影响AI公司的商业模式和数据获取策略。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/"
-        }
-      ]
-    },
-    {
-      "title": "南美洲饥饿人口显著减少，显示区域社会经济进步",
-      "summary": "联合国粮农组织报告显示，南美洲饥饿人口比例自2020年以来下降了三分之一，区域内仅3.5%的人口摄入热量不足，为全球最低水平。这一显著进步不仅反映了区域性的社会经济发展和粮食安全改善，也可能预示着这些新兴市场国家消费潜力的提升和政局稳定性的增强，值得投资者关注其长期发展态势。",
+      "title": "南美洲饥饿人口显著下降",
+      "summary": "根据联合国粮食及农业组织（FAO）的报告，南美洲饥饿人口比例自2020年以来下降了三分之一，远超世界其他地区，目前仅3.5%的人口面临食物不足。这可能预示着该地区农业生产力提升和经济结构改善，为新兴市场投资提供新的视角。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
           "url": "https://marginalrevolution.com/marginalrevolution/2026/07/further-progress-in-south-america.html?utm_source=rss&utm_medium=rss&utm_campaign=further-progress-in-south-america"
+        }
+      ]
+    },
+    {
+      "title": "AI基础设施建设面临政治阻力",
+      "summary": "随着大型科技公司大力投资AI数据中心，美国地方政府和选民对这些项目产生的成本（如电网建设）和影响日益不满，开始推动科技公司承担更多费用。这预示着AI基础设施建设可能面临日益增长的监管和政治阻力，增加未来项目开发的不确定性。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX星链获FCC豁免，允许使用外国制造路由器",
+      "summary": "特朗普政府豁免SpaceX的Starlink（星链）不受FCC禁止外国制造路由器的规定限制，允许其使用在越南生产的路由器。这一政策调整可能有助于Starlink降低成本并加速全球部署，但同时也反映了地缘政治背景下对供应链多样性、国家安全与商业利益之间平衡的复杂考量。",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/"
         }
       ]
     }
