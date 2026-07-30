@@ -1,6 +1,13 @@
 [
   {
     "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "Forty interesting facts about Australia",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/07/forty-interesting-facts-about-australia.html?utm_source=rss&utm_medium=rss&utm_campaign=forty-interesting-facts-about-australia",
+    "summary": "<p>Australia was the richest country on earth, per capita, for decades. After the 1850s gold rush, up until the 1890s depression, Australia had the highest per capita income in the world. In 1850, probably only the United Kingdom and the Netherlands sat above Australia, by about 20 per cent, with the United States 9 per cent [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/forty-interesting-facts-about-australia.html\">Forty interesting facts about Australia</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Thu, 30 Jul 2026 05:22:54 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
     "title": "Reforms to the PhD?",
     "link": "https://marginalrevolution.com/marginalrevolution/2026/07/reforms-to-the-phd.html?utm_source=rss&utm_medium=rss&utm_campaign=reforms-to-the-phd",
     "summary": "<p>The Trump administration is pairing top universities with corporate giants in an effort to steer traditional PhD programs toward national scientific priorities. Today, the White House and National Science Foundation are announcing a $47 million pilot program to fund around 250 four-year doctorates in technical fields, starting this fall. Students in the pilot will be [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/reforms-to-the-phd.html\">Reforms to the PhD?</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
@@ -42,13 +49,6 @@
     "published": "Tue, 28 Jul 2026 21:34:00 +0000"
   },
   {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "Tuesday assorted links",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-579",
-    "summary": "<p>1. The economics of personal holding companies, including in the Nordics. 2. Jongkuch Mach is a good name for a very tall basketball player. 3. Can AI predict who will be the most important philosopher in 2046?  For economics, the top pick of GPT Pro is Ludwig Straub, second choice is Stefanie Stantcheva.  I like [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-579.html\">Tuesday assorted links</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Tue, 28 Jul 2026 16:27:44 +0000"
-  },
-  {
     "source": "Aswath Damodaran",
     "title": "Information Timing and Release: The Gaming of Guidance!",
     "link": "https://aswathdamodaran.blogspot.com/2026/07/information-timing-and-release-gaming.html",
@@ -63,13 +63,6 @@
     "published": "Wed, 29 Jul 2026 11:15:25 +0000"
   },
   {
-    "source": "A Wealth of Common Sense (Ben Carlson)",
-    "title": "Find Your Fascination",
-    "link": "https://awealthofcommonsense.com/2026/07/find-your-fascination/",
-    "summary": "<figure><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"528\" src=\"https://awealthofcommonsense.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-105038.png\" width=\"944\" /></figure>On the benefits of reading.\nThe post Find Your Fascination appeared first on A Wealth of Common Sense.\n...",
-    "published": "Tue, 28 Jul 2026 14:51:33 +0000"
-  },
-  {
     "source": "Federal Reserve Press",
     "title": "Federal Reserve issues FOMC statement",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
@@ -78,10 +71,24 @@
   },
   {
     "source": "NYT Business",
+    "title": "A.I. Data Centers in Space? A System to Cool Chips Could Help.",
+    "link": "https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html",
+    "summary": "Researchers at Caltech and Sophia Space, a start-up, have developed a technology using solar power to prevent computer equipment from overheating in orbit.",
+    "published": "Thu, 30 Jul 2026 04:01:04 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "How Climate Change and Tariffs Help China Raise More Cattle",
+    "link": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
+    "summary": "As increased rain makes grasslands and cornfields possible in areas that once were deserts, the world’s largest beef importer is becoming more self-reliant by expanding domestic herds.",
+    "published": "Thu, 30 Jul 2026 04:00:12 +0000"
+  },
+  {
+    "source": "NYT Business",
     "title": "Hollywood Foreign Press Association Sues Over Takeover of Golden Globes",
     "link": "https://www.nytimes.com/2026/07/29/business/media/golden-globes-penske-hollywood-foreign-press.html",
     "summary": "The press association, which owned and operated the awards show until 2023, is suing its new owner, Penske Media, claiming its purchase was fraudulent.",
-    "published": "Thu, 30 Jul 2026 00:42:26 +0000"
+    "published": "Thu, 30 Jul 2026 00:42:27 +0000"
   },
   {
     "source": "NYT Business",
@@ -116,7 +123,7 @@
     "title": "Sanctions Bill Would Give Trump Sweeping New Tariff Powers",
     "link": "https://www.nytimes.com/2026/07/29/us/politics/trump-tariffs-sanctions.html",
     "summary": "A bipartisan bill in the Senate would allow President Trump to impose tariffs on the biggest importers of Russian energy.",
-    "published": "Wed, 29 Jul 2026 19:40:21 +0000"
+    "published": "Wed, 29 Jul 2026 19:40:22 +0000"
   },
   {
     "source": "NYT Business",
@@ -130,21 +137,7 @@
     "title": "Fed Holds Rates Steady but Three Officials Back Increase",
     "link": "https://www.nytimes.com/2026/07/29/business/economy/what-to-watch-at-the-meeting.html",
     "summary": "Kevin M. Warsh’s second meeting as chairman of the Federal Reserve was colored by internal divisions over the path forward for policy.",
-    "published": "Wed, 29 Jul 2026 21:12:10 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Shipping Risks Spread Across Crucial Middle East Oil Routes",
-    "link": "https://www.nytimes.com/2026/07/29/business/iran-war-hormuz-red-sea-shipping.html",
-    "summary": "Attacks on ships in the Strait of Hormuz and the Bab al-Mandab Strait are disrupting the passage of oil tankers in the Persian Gulf and the Red Sea.",
-    "published": "Wed, 29 Jul 2026 17:51:15 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "How to Change Your Image as a Heartless Luxury Titan Overnight",
-    "link": "https://www.nytimes.com/2026/07/29/style/bernard-arnault-open-letter-x.html",
-    "summary": "Bernard Arnault, the chairman of LVMH, makes an unexpected social media move.",
-    "published": "Wed, 29 Jul 2026 14:55:26 +0000"
+    "published": "Wed, 29 Jul 2026 21:12:11 +0000"
   },
   {
     "source": "NYT Economy",
@@ -186,7 +179,7 @@
     "title": "Fed Holds Rates Steady but Three Officials Back Increase",
     "link": "https://www.nytimes.com/2026/07/29/business/economy/what-to-watch-at-the-meeting.html",
     "summary": "Kevin M. Warsh’s second meeting as chairman of the Federal Reserve was colored by internal divisions over the path forward for policy.",
-    "published": "Wed, 29 Jul 2026 21:12:10 +0000"
+    "published": "Wed, 29 Jul 2026 21:12:11 +0000"
   },
   {
     "source": "NYT Economy",
@@ -200,7 +193,7 @@
     "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
     "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
     "summary": "The future of artificial intelligence depends on finding more skilled humans for some very physical jobs.",
-    "published": "Wed, 29 Jul 2026 20:34:03 +0000"
+    "published": "Wed, 29 Jul 2026 20:34:04 +0000"
   },
   {
     "source": "NYT DealBook",
@@ -228,7 +221,7 @@
     "title": "Sick of A.I.-Generated Content? The ‘Slop Janitor’ Is Here to Help.",
     "link": "https://www.nytimes.com/2026/07/29/business/dealbook/pangram-ai-slop-detection.html",
     "summary": "Pangram, an A.I. detection start-up, promises near-perfect accuracy in sniffing out writing and imagery that wasn’t made by humans. It’s raising some big questions along the way.",
-    "published": "Wed, 29 Jul 2026 12:23:03 +0000"
+    "published": "Thu, 30 Jul 2026 03:14:56 +0000"
   },
   {
     "source": "NYT DealBook",
@@ -246,6 +239,13 @@
   },
   {
     "source": "BBC Business",
+    "title": "Shell profits double as oil prices rise due to Iran war",
+    "link": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
+    "published": "Thu, 30 Jul 2026 07:11:44 GMT"
+  },
+  {
+    "source": "BBC Business",
     "title": "What happens here has a big impact on your money",
     "link": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
     "summary": "BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.",
@@ -253,10 +253,31 @@
   },
   {
     "source": "BBC Business",
-    "title": "I dropped out of university and built five beauty businesses. Here's how I did it",
+    "title": "Meta shares fall as frustration grows over AI spending plans",
+    "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
+    "summary": "CEO Mark Zuckerberg said the firm intends to sell its AI tools to other companies for the first time.",
+    "published": "Wed, 29 Jul 2026 22:44:18 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Beauty Pie founder on how she dropped out of university and built five beauty businesses",
     "link": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss",
     "summary": "Marcia Kilgore, founder of Beauty Pie, shares her top tips on how to create a successful business.",
     "published": "Wed, 29 Jul 2026 23:02:18 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "The Chinese robot army transforming the UK's retail industry",
+    "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+    "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+    "published": "Wed, 29 Jul 2026 22:08:29 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
+    "link": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss",
+    "summary": "Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending.",
+    "published": "Thu, 30 Jul 2026 06:04:21 GMT"
   },
   {
     "source": "BBC Business",
@@ -274,38 +295,31 @@
   },
   {
     "source": "BBC Business",
-    "title": "The Chinese robot army transforming the UK's retail industry",
-    "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
-    "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
-    "published": "Wed, 29 Jul 2026 22:08:29 GMT"
+    "title": "The once-destroyed community that's now a global energy giant",
+    "link": "https://www.bbc.co.uk/news/articles/c0ejq9g2pz4o?at_medium=RSS&at_campaign=rss",
+    "summary": "A US county wiped out by a hurricane is now the world's largest exporter of liquified natural gas.",
+    "published": "Thu, 30 Jul 2026 02:08:24 GMT"
   },
   {
-    "source": "BBC Business",
-    "title": "Meta shares fall as frustration grows over AI spending plans",
-    "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
-    "summary": "Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies",
-    "published": "Wed, 29 Jul 2026 22:44:18 GMT"
+    "source": "MarketWatch Top Stories",
+    "title": "One of the market’s ‘most durable growth’ sectors has been passed over for AI, says JPMorgan",
+    "link": "https://www.marketwatch.com/story/one-of-the-markets-most-durable-growth-sectors-has-been-passed-over-for-ai-says-jpmorgan-b726011c?mod=mw_rss_topstories",
+    "summary": "Eli Lilly, AbbVie and Danaher Corporation are among the bank’s top picks for stocks in the sector.",
+    "published": "Thu, 30 Jul 2026 07:11:00 GMT"
   },
   {
-    "source": "BBC Business",
-    "title": "Some tech shares are plunging - what does that mean for the AI revolution?",
-    "link": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
-    "summary": "Sharp falls in the value of chip makers have stoked investor concerns that the euphoria around AI related companies is fading.",
-    "published": "Wed, 29 Jul 2026 15:32:28 GMT"
+    "source": "MarketWatch Top Stories",
+    "title": "Ford’s big-truck bet is paying off — and Wall Street is taking notice",
+    "link": "https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb?mod=mw_rss_topstories",
+    "summary": "A turnaround story could be in the works at Ford, which gets less love than GM on Wall Street.",
+    "published": "Thu, 30 Jul 2026 01:02:00 GMT"
   },
   {
-    "source": "BBC Business",
-    "title": "'Don't wait until you want revenge' - why prenups are on the rise",
-    "link": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
-    "summary": "More young couples are now signing prenups to set out who gets what in the event of divorce.",
-    "published": "Tue, 28 Jul 2026 23:00:07 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "Charities unable to pay staff after fraud alert",
-    "link": "https://www.bbc.co.uk/news/articles/cz7dlelz711o?at_medium=RSS&at_campaign=rss",
-    "summary": "Security fears saw CAF Bank, which serves 14,000 UK charities, suspend its online banking portal.",
-    "published": "Wed, 29 Jul 2026 18:17:23 GMT"
+    "source": "MarketWatch Top Stories",
+    "title": "Why SoFi’s stock drops, even after its earnings beat expectations",
+    "link": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
+    "summary": "Investors were disappointed by the neobank’s restrained guidance.",
+    "published": "Thu, 30 Jul 2026 01:01:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
@@ -355,27 +369,6 @@
     "link": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
     "summary": "“I realize that probate can be lengthy, public and expensive.”",
     "published": "Wed, 29 Jul 2026 22:30:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-    "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
-    "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
-    "published": "Wed, 29 Jul 2026 22:01:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Stocks and bonds see wild ‘Fed Day’ swings as Wall Street’s ‘crash cushion’ evaporates",
-    "link": "https://www.marketwatch.com/story/stocks-and-bonds-see-wild-fed-day-swings-as-wall-streets-crash-cushion-evaporates-ffcbdbbc?mod=mw_rss_topstories",
-    "summary": "Major equity indexes put in their worst “Fed Day” performance since December 2024, while the yield on the 30-year bond shot higher.",
-    "published": "Wed, 29 Jul 2026 21:56:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Bond market is calling Warsh’s bluff on inflation fight as yields surge",
-    "link": "https://www.marketwatch.com/story/bond-market-is-calling-warshs-bluff-on-inflation-fight-as-yields-surge-4700f9b5?mod=mw_rss_topstories",
-    "summary": "The yield on the 30-year Treasury bond touched its highest level since 2007 during Warsh’s press conference.",
-    "published": "Wed, 29 Jul 2026 21:43:00 GMT"
   },
   {
     "source": "CNBC Business",
@@ -449,6 +442,13 @@
   },
   {
     "source": "CNBC Finance",
+    "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
+    "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+    "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
+    "published": "Thu, 30 Jul 2026 02:52:30 GMT"
+  },
+  {
+    "source": "CNBC Finance",
     "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
     "link": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
     "summary": "The world's largest continent is becoming the center of the artificial intelligence race between the U.S. and China.",
@@ -511,38 +511,38 @@
     "published": "Wed, 29 Jul 2026 12:31:06 GMT"
   },
   {
-    "source": "CNBC Finance",
-    "title": "Stocks making the biggest moves after hours: Ford, Teradyne, Visa, KLA Corp and more",
-    "link": "https://www.cnbc.com/2026/07/28/stocks-making-the-biggest-moves-after-hours-f-ter-v-klac-and-more.html",
-    "summary": "These are the stocks posting the largest moves in after-hours trading.",
-    "published": "Tue, 28 Jul 2026 21:23:28 GMT"
+    "source": "Hacker News Top",
+    "title": "AI's top startups are barely publishing their research",
+    "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research\">https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49103285\">https://news.ycombinator.com/item?id=49103285</a></p>\n<p>Points: 368</p>\n<p># Comments: 200</p>",
+    "published": "Wed, 29 Jul 2026 21:25:40 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "The coolest use for the Vision Pro",
     "link": "https://christianselig.com/2026/07/vision-pro-house/",
-    "summary": "<p>Article URL: <a href=\"https://christianselig.com/2026/07/vision-pro-house/\">https://christianselig.com/2026/07/vision-pro-house/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49102774\">https://news.ycombinator.com/item?id=49102774</a></p>\n<p>Points: 339</p>\n<p># Comments: 161</p>",
+    "summary": "<p>Article URL: <a href=\"https://christianselig.com/2026/07/vision-pro-house/\">https://christianselig.com/2026/07/vision-pro-house/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49102774\">https://news.ycombinator.com/item?id=49102774</a></p>\n<p>Points: 568</p>\n<p># Comments: 233</p>",
     "published": "Wed, 29 Jul 2026 20:39:40 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Kimi K3-256k",
     "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
-    "summary": "<p>Article URL: <a href=\"https://www.kimi.com/code/docs/en/kimi-code/models\">https://www.kimi.com/code/docs/en/kimi-code/models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101852\">https://news.ycombinator.com/item?id=49101852</a></p>\n<p>Points: 323</p>\n<p># Comments: 92</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.kimi.com/code/docs/en/kimi-code/models\">https://www.kimi.com/code/docs/en/kimi-code/models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101852\">https://news.ycombinator.com/item?id=49101852</a></p>\n<p>Points: 404</p>\n<p># Comments: 117</p>",
     "published": "Wed, 29 Jul 2026 19:25:33 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Keychron announces first open-source firmware for gaming mice",
     "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-    "summary": "<p>Article URL: <a href=\"https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice\">https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49099715\">https://news.ycombinator.com/item?id=49099715</a></p>\n<p>Points: 272</p>\n<p># Comments: 101</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice\">https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49099715\">https://news.ycombinator.com/item?id=49099715</a></p>\n<p>Points: 351</p>\n<p># Comments: 140</p>",
     "published": "Wed, 29 Jul 2026 16:36:59 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Superlogical",
     "link": "https://www.superlogical.com/",
-    "summary": "<p><a href=\"https://mitchellh.com/writing/superlogical\" rel=\"nofollow\">https://mitchellh.com/writing/superlogical</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49098965\">https://news.ycombinator.com/item?id=49098965</a></p>\n<p>Points: 505</p>\n<p># Comments: 311</p>",
+    "summary": "<p><a href=\"https://mitchellh.com/writing/superlogical\" rel=\"nofollow\">https://mitchellh.com/writing/superlogical</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49098965\">https://news.ycombinator.com/item?id=49098965</a></p>\n<p>Points: 631</p>\n<p># Comments: 387</p>",
     "published": "Wed, 29 Jul 2026 15:41:33 +0000"
   },
   {
@@ -556,36 +556,15 @@
     "source": "Hacker News Top",
     "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
     "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html\">https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49098198\">https://news.ycombinator.com/item?id=49098198</a></p>\n<p>Points: 205</p>\n<p># Comments: 258</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html\">https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49098198\">https://news.ycombinator.com/item?id=49098198</a></p>\n<p>Points: 268</p>\n<p># Comments: 325</p>",
     "published": "Wed, 29 Jul 2026 14:43:47 +0000"
   },
   {
     "source": "Hacker News Top",
-    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-    "link": "https://arxiv.org/abs/2607.25398",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.25398\">https://arxiv.org/abs/2607.25398</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096969\">https://news.ycombinator.com/item?id=49096969</a></p>\n<p>Points: 286</p>\n<p># Comments: 181</p>",
-    "published": "Wed, 29 Jul 2026 13:01:57 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Darktable",
-    "link": "https://www.darktable.org/",
-    "summary": "<p>Article URL: <a href=\"https://www.darktable.org/\">https://www.darktable.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096654\">https://news.ycombinator.com/item?id=49096654</a></p>\n<p>Points: 285</p>\n<p># Comments: 142</p>",
-    "published": "Wed, 29 Jul 2026 12:33:02 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-    "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "summary": "<p>Article URL: <a href=\"https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/\">https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096188\">https://news.ycombinator.com/item?id=49096188</a></p>\n<p>Points: 335</p>\n<p># Comments: 254</p>",
-    "published": "Wed, 29 Jul 2026 11:44:33 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "KOReader",
-    "link": "https://koreader.rocks/",
-    "summary": "<p>Article URL: <a href=\"https://koreader.rocks/\">https://koreader.rocks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49095865\">https://news.ycombinator.com/item?id=49095865</a></p>\n<p>Points: 650</p>\n<p># Comments: 209</p>",
-    "published": "Wed, 29 Jul 2026 11:05:08 +0000"
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "summary": "<p>Article URL: <a href=\"https://huggingface.co/blog/agent-intrusion-technical-timeline\">https://huggingface.co/blog/agent-intrusion-technical-timeline</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49089500\">https://news.ycombinator.com/item?id=49089500</a></p>\n<p>Points: 351</p>\n<p># Comments: 201</p>",
+    "published": "Tue, 28 Jul 2026 20:28:33 +0000"
   },
   {
     "source": "Ars Technica",
@@ -680,6 +659,34 @@
   },
   {
     "source": "SCMP Business",
+    "title": "China’s corporate crackdown: insider trading fines and bans intensify",
+    "link": "https://www.scmp.com/business/markets/article/3362351/chinas-corporate-crackdown-insider-trading-fines-and-bans-intensify?utm_source=rss_feed",
+    "summary": "Chinese regulators are intensifying their sweeping crackdown on corporate insiders, slapping top executives with severe fines, criminal sentences and market bans as Beijing seeks to restore confidence in the country’s embattled stock markets.\nSecurities regulators placed at least 21 controlling shareholders, chairmen, directors and senior executives across 20 Chinese listed companies under investigation in the first half of 2026, a South China Morning Post analysis of listed company disclosures...",
+    "published": "Thu, 30 Jul 2026 07:00:05 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Trading hub ambitions see Hong Kong’s gold imports hit 11-year high in June",
+    "link": "https://www.scmp.com/business/banking-finance/article/3362350/trading-hub-ambitions-see-hong-kongs-gold-imports-hit-11-year-high-june?utm_source=rss_feed",
+    "summary": "Hong Kong’s gold imports are set to maintain an upwards trajectory after crossing the 150-tonne mark in June for the first time in over a decade, driven by renewed investor appetite and the city’s ambition to transform itself into a premier international precious metals trading hub, analysts said.\nThe city’s gross monthly gold imports reached 150.48 tonnes last month, representing a nearly 29 per cent month-on-month surge, according to data released this week by the Census and Statistics...",
+    "published": "Thu, 30 Jul 2026 05:27:21 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Finance firms set to pour more investment into AI amid ‘data divide’ fears",
+    "link": "https://www.scmp.com/business/banking-finance/article/3362337/finance-firms-set-pour-more-investment-ai-amid-data-divide-fears?utm_source=rss_feed",
+    "summary": "A majority of surveyed global asset management firms plan to raise their artificial intelligence budgets by at least 50 per cent within the next year as the technology transforms the finance industry, a recent study showed.\nThe adoption of AI is also going to have a big impact on labour-intensive operations: 62 per cent of polled fund managers expect transformative change in data generation and summarisation, according to a study released Tuesday by US fintech firm Clearwater...",
+    "published": "Thu, 30 Jul 2026 04:00:21 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Zhongji Innolight shares fall on Hong Kong debut amid global AI sell-off",
+    "link": "https://www.scmp.com/business/companies/article/3362321/zhongji-innolight-shares-fall-hong-kong-debut-amid-global-ai-sell?utm_source=rss_feed",
+    "summary": "Zhongji Innolight suffered a rocky start in its highly anticipated Hong Kong stock market debut on Thursday, as the Chinese firm felt the impact of a global downturn in investor sentiment towards the artificial intelligence sector.\nBy the midday break, the company’s shares had slipped 7.4 per cent below their issue price to trade at HK$908.\nThe Chinese firm – a leading producer of optical transceivers used in AI data centres – had earlier completed Hong Kong’s biggest initial public offering of...",
+    "published": "Thu, 30 Jul 2026 01:40:00 +0000"
+  },
+  {
+    "source": "SCMP Business",
     "title": "How South Korea’s tech rout hit Hong Kong – and why regulators stepped in",
     "link": "https://www.scmp.com/business/markets/article/3362300/how-south-koreas-tech-rout-hit-hong-kong-and-why-regulators-stepped?utm_source=rss_feed",
     "summary": "South Korea’s roller-coaster market, driven by sharp swings in semiconductor giants Samsung Electronics and SK Hynix this year, has also reverberated in Hong Kong, where suspected fund embezzlement by a loss-making investment manager and outcry from leveraged-product investors have made headlines.\nAs an international financial centre, Hong Kong serves as a crucial gateway to access the Seoul stock market, with Futu Holdings – the Nasdaq-listed Chinese broker – just launching South Korea share...",
@@ -687,9 +694,9 @@
   },
   {
     "source": "SCMP Business",
-    "title": "HKMA keeps base rate at 4% as US market slumps, fears the Fed is losing inflation fight",
+    "title": "HKMA warns of interest-rate risk as traders bet on September rate rise",
     "link": "https://www.scmp.com/business/banking-finance/article/3362318/hkma-maintains-base-rate-4-us-fed-keeps-rate-unchanged?utm_source=rss_feed",
-    "summary": "Hong Kong’s monetary authority has maintained its base rate following the US Federal Reserve’s decision to keep its key rate unchanged.\nThe city’s base rate was kept at 4 per cent by the Hong Kong Monetary Authority (HKMA) on Thursday. Hours earlier, the US Federal Reserve also retained its target rate in the range of 3.5 per cent to 3.75 per cent, concluding its fifth Federal Open Market Committee (FOMC) meeting this year.\nThe US stock market slumped on Wednesday with the Dow Jones down 1,152...",
+    "summary": "The Hong Kong Monetary Authority (HKMA) has maintained its base rate following the US Federal Reserve’s decision to keep its key rate unchanged, but US traders are already betting on a rate rise in September.\nThe city’s base rate was kept at 4 per cent by the HKMA on Thursday. Hours earlier, the US Federal Reserve also retained its target rate in the range of 3.5 to 3.75 per cent, concluding its fifth Federal Open Market Committee (FOMC) meeting this year.\n“US interest-rate adjustments will...",
     "published": "Wed, 29 Jul 2026 23:09:43 +0000"
   },
   {
@@ -703,7 +710,7 @@
     "source": "SCMP Business",
     "title": "‘Explosive demand’ for cooling continues as Europe swelters, China’s Midea says",
     "link": "https://www.scmp.com/tech/article/3362294/explosive-demand-cooling-continues-europe-swelters-chinas-midea-says?utm_source=rss_feed",
-    "summary": "Chinese home appliance maker Midea reported that European demand for its air conditioners continues to soar amid recurrent heatwaves, with two of its factories receiving hundreds of thousands of new orders in a month.\nThe factories, in the eastern city of Wuhu and the southern port city Guangzhou, received new European orders for 200,000 units within a month amid “explosive demand”, the company said in a statement on Wednesday on the Shenzhen Stock Exchange’s investor Q&amp;A platform.\nThe company...",
+    "summary": "Chinese home appliance maker Midea reported that European demand for its air conditioners continues to soar amid recurrent heatwaves, with two of its factories receiving hundreds of thousands of new orders in a month.\nThe factories, in the eastern city of Wuhu and the southern port city Guangzhou, received new European orders for 200,000 units within a month amid “explosive demand”, the company said in a statement on Wednesday on the Shenzhen Stock Exchange’s investor Q&amp;A platform.\n\n\nThe company...",
     "published": "Wed, 29 Jul 2026 13:30:13 +0000"
   },
   {
@@ -719,33 +726,5 @@
     "link": "https://www.scmp.com/business/china-business/article/3362256/cxmt-shock-how-chinas-viable-alternatives-punch-nvidia-micron-sk-hynix-shares?utm_source=rss_feed",
     "summary": "China’s increasing clout in the global semiconductor supply chain is accelerating the unravelling of the artificial-intelligence trade, as expectations grow that the Asian nation will challenge foreign tech juggernauts by supplying the world with cheaper alternative products.\nThe US$9.8 billion stock offering of ChangXin Memory Technologies (CXMT) in Shanghai provided the Chinese maker of dynamic random access memory (DRAM) chips with equity funding to finance its expansion of market share home...",
     "published": "Wed, 29 Jul 2026 11:00:16 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Chinese MLCC firms’ profits and stock prices fatten on hunger for electronic ‘rice’",
-    "link": "https://www.scmp.com/tech/tech-trends/article/3362265/chinese-mlcc-firms-profits-and-stock-prices-fatten-hunger-electronic-rice?utm_source=rss_feed",
-    "summary": "Chinese manufacturers of multilayer ceramic capacitors (MLCCs) – tiny components required in great numbers to regulate electrical flow in electronic devices – are riding a stock rally on the back of explosive first-half earnings, fuelled by insatiable global demand for artificial intelligence infrastructure.\nShares of Shenzhen-listed Guangdong Fenghua Advanced Technology, one of the country’s leading producers of consumer-grade MLCCs, surged by the exchange-imposed 10 per cent daily limit on...",
-    "published": "Wed, 29 Jul 2026 10:30:12 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Why has the China-US profit gap widened on the Fortune Global 500?",
-    "link": "https://www.scmp.com/business/china-business/article/3362234/why-has-china-us-profit-gap-widened-fortune-global-500?utm_source=rss_feed",
-    "summary": "China’s unaddressed economic structural problems are swallowing profits and leaving its multinationals falling far behind their US peers in the latest Fortune Global 500 list, despite its firms remaining strong in terms of revenue.\nThe profit gap between Chinese and US companies has continued to widen. Chinese companies posted an average profit of US$4.5 billion in 2025, or some 40 per cent of the US$11.24 billion recorded by their US counterparts, according to the list released by Fortune...",
-    "published": "Wed, 29 Jul 2026 10:00:16 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Chinese AI start-up Moonshot seeks influential ambassadors to widen Kimi’s global reach",
-    "link": "https://www.scmp.com/tech/article/3362261/chinese-ai-start-moonshot-seeks-influential-ambassadors-widen-kimis-global-reach?utm_source=rss_feed",
-    "summary": "China’s Moonshot AI, whose recently released Kimi K3 model stunned with performance close to American frontier systems, is seeking ambassadors to elevate its global influence.\nThe Beijing-based start-up on Tuesday launched the “Kimi Ambassador Program”, aimed at “passionate Kimi users to build up communities and the future of AI”, according to its website.\nThe move comes as Moonshot seeks to turn the growing attention around Kimi K3 into broader adoption among developers and creators.\nUnlike...",
-    "published": "Wed, 29 Jul 2026 09:30:19 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Why is Zhongji unveiling US$1.2 billion in buy-backs before its Hong Kong debut?",
-    "link": "https://www.scmp.com/tech/big-tech/article/3362255/why-zhongji-unveiling-us12-billion-buy-backs-its-hong-kong-debut?utm_source=rss_feed",
-    "summary": "Zhongji Innolight’s buy-back plan – worth as much as 8 billion yuan (US$1.2 billion) in the run-up to its offshore listing in Hong Kong – may give global investors an anchor for pricing, as the Chinese supplier of US hyperscalers seeks to pre-empt a shaky start to trading in the city.\nThe Chinese maker of optical transceivers used in artificial intelligence (AI) data centres said it would repurchase its Shenzhen-listed shares for between 4 billion and 8 billion yuan, through its own or borrowed...",
-    "published": "Wed, 29 Jul 2026 09:00:31 +0000"
   }
 ]
