@@ -1,41 +1,63 @@
 {
   "top5": [
     {
-      "title": "美联储维持利率不变，内部意见分歧，美债收益率飙升至二十年高位",
-      "summary": "美国联邦储备委员会联邦公开市场委员会（FOMC）投票决定维持联邦基金利率目标区间不变，但内部出现政策分歧，三位官员投票支持加息。会后，美国政府借贷成本升至二十年来的最高水平，表明投资者对美联储能否有效控制通胀心存疑虑。这一决定及其市场反应，加剧了全球资金成本和风险资产定价的不确定性，预示着未来货币政策路径可能更加复杂。",
+      "title": "美联储维持利率不变但市场疑虑加剧，国债收益率创20年新高",
+      "summary": "美联储最新会议决定维持联邦基金利率不变，但其内部在抗击通胀路径上出现分歧，三名官员支持加息。会后美国国债收益率飙升至二十年高位，凸显市场对美联储能否有效控制通胀的怀疑，引发了关于央行“信誉冲击”的担忧。这表明市场对未来货币政策路径存在显著不确定性。",
       "sources": [
         {
           "name": "Federal Reserve Press",
           "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm"
         },
         {
-          "name": "NYT Business",
+          "name": "NYT Economy",
           "url": "https://www.nytimes.com/2026/07/29/business/economy/treasury-yields-fed-inflation.html"
         },
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss"
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/07/30/business/dealbook/fed-warsh-credibility-shock.html"
         }
       ]
     },
     {
-      "title": "全球半导体股价普遍下跌，对AI热潮的持续性产生疑虑",
-      "summary": "全球半导体公司股价普遍下跌，尤其在韩国和欧洲市场表现突出，这引发了投资者对人工智能（AI）投资浪潮持续性的新一轮担忧。半导体产业是AI技术发展的核心驱动力，其股价的广泛下挫可能预示着市场对AI投资泡沫或行业增长放缓的担忧，对全球科技板块的健康状况和未来走向构成重要信号。",
+      "title": "美国第二季度GDP增速意外放缓，通胀压力依然存在",
+      "summary": "美国经济在2026年第二季度以1.5%的年化速度增长，低于上一季度的2.1%，增速出现意外放缓。尽管美联储青睐的PCE通胀指标在6月疫情以来首次下降，短期内缓解了部分价格压力，但中东地缘冲突的持续暗示通胀风险远未消除，这为美联储的政策路径带来了复杂挑战。",
       "sources": [
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/28/business/dealbook/chips-market-rout-ai.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html"
         },
         {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/07/71270/"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cd0xvrmlx2eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/fed-favored-pce-inflation-gauge-falls-for-first-time-since-pandemic-but-danger-far-from-over-57e382bf?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "壳牌利润因伊朗战争导致油价上涨而翻倍",
-      "summary": "能源巨头壳牌（Shell）公布的财报显示，其利润在近期翻了一番，主要得益于伊朗战争导致全球石油和液化天然气供应中断，从而推高了能源价格。霍尔木兹海峡作为关键航运要道的扰动，直接影响了全球能源市场动态，并对大型能源公司的盈利能力产生显著提振，同时可能加剧全球范围内的通胀压力。",
+      "title": "中国经济增长乏力，官方释放谨慎支持信号未达市场预期",
+      "summary": "面对经济增长的困境，中国最高决策层政治局呼吁实施“更积极”的财政和支出政策，但并未明确承诺大规模措施来提振疲弱的消费者支出和房地产市场。这一谨慎的表态未能完全满足市场对强力刺激政策的期待，表明中国经济的复苏之路仍充满挑战。",
       "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/30/business/china-economy-politburo.html"
+        },
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/07/30/business/china-economy-politburo.html"
+        }
+      ]
+    },
+    {
+      "title": "中东冲突加剧推高油价，壳牌利润翻倍凸显地缘政治风险",
+      "summary": "中东地区局势升级，向更广泛冲突演变的趋势导致国际油价震荡上行。受霍尔木兹海峡石油和液化天然气供应中断的影响，能源巨头壳牌公司利润翻倍。这凸显了地缘政治风险对全球能源市场和企业盈利能力的直接且深远影响，预示着能源价格可能面临持续上行压力。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/30/business/oil-stocks-iran-war.html"
+        },
         {
           "name": "BBC Business",
           "url": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss"
@@ -43,9 +65,49 @@
       ]
     },
     {
-      "title": "Meta股价下跌，投资者对公司巨额AI投入的价值回报表示担忧",
-      "summary": "Meta Platforms的股价在近期下跌，主要原因是投资者对公司在人工智能（AI）领域的庞大支出计划感到担忧和沮丧。首席执行官马克·扎克伯格表示，公司打算首次将其AI工具出售给其他企业。然而，市场的反应表明，即使是科技巨头，其AI战略的执行和投资回报也面临着投资者严格的审视，这可能促使其他AI领域的大额投资者重新评估其策略。",
+      "title": "大型科技公司AI支出引市场分化，微软股价飙升Meta承压",
+      "summary": "最新财报显示，大型科技公司在AI领域的巨额投入正导致市场反应两极分化。微软因其云服务和AI战略的强劲增长，股价大幅上涨。然而，Meta公司因投资者对其AI长期盈利能力的担忧，以及高额AI资本支出计划导致股价急剧下跌。这表明市场对AI投资的短期回报和清晰商业模式有更高要求。",
       "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/why-microsofts-stock-is-soaring-toward-a-historic-gain-after-earnings-96cd5b1e?mod=mw_rss_topstories"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/metas-stock-is-falling-hard-heres-why-the-company-is-in-wall-streets-doghouse-afae2f55?mod=mw_rss_topstories"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "name": "Kevin M. Warsh",
+      "title": "美联储主席Warsh的抗通胀策略引发市场“信誉冲击”",
+      "summary": "观点：作为美联储主席，Kevin M. Warsh将控制通胀作为其首要任务，但市场认为他在拥抱更高借贷成本方面表现出犹豫，导致债券在美联储维持利率不变后大幅抛售，市场对其抗通胀的决心和能力产生了“信誉冲击”。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/30/business/federal-reserve-inflation-iran-war.html"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/07/30/business/dealbook/fed-warsh-credibility-shock.html"
+        }
+      ]
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "title": "Meta将对外销售AI工具，但市场对其AI支出回报存疑",
+      "summary": "观点：Meta首席执行官马克·扎克伯格表示，公司首次计划将其AI工具出售给其他公司。然而，投资者对Meta高昂的AI支出计划及其短期内能否产生显著回报表示担忧，导致公司股价承压，质疑Meta除广告业务外，AI能否带来新的明确盈利增长点。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-564.html"
+        },
         {
           "name": "BBC Business",
           "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss"
@@ -53,32 +115,24 @@
       ]
     },
     {
-      "title": "特朗普政府考虑对人工智能技术实施新的管制措施",
-      "summary": "据报道，特朗普政府正在考虑对人工智能（AI）技术实施新的管制措施，尤其是在OpenAI等公司发生黑客事件之后。这标志着其政府此前对科技领域采取的“不干预”态度有所转变。此举预示着美国对AI领域的监管可能趋严，可能对AI产业的创新速度、竞争格局以及国际合作产生重大影响，值得高净值投资者密切关注其政策走向。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    }
-  ],
-  "people": [
-    {
       "name": "Tyler Cowen",
-      "title": "观点：人们终将爱上AI写作，关键在于AI的精进",
-      "summary": "观点：经济学家泰勒·考恩（Tyler Cowen）认为，虽然目前AI写作常因陈词滥调和模式化而令人不快，但随着AI技术的不断进步，其写作质量将大幅提升，最终会变得足够好，以至于人们会逐渐接受并喜爱它。他强调AI写作的未来在于其克服当前缺点的能力。",
+      "title": "Tyler Cowen看好AI写作未来，并关注《濒危物种法案》对住房供应影响",
+      "summary": "观点：经济学家Tyler Cowen表示，人们将逐渐学会喜欢AI写作，并认为AI写作会不断进步，最终融入日常。同时，他引用Max Tabarrok的研究指出，《濒危物种法案》提高了开发商的合规成本和责任风险，间接减少了住房供应。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
           "url": "https://marginalrevolution.com/marginalrevolution/2026/07/you-will-learn-to-love-ai-writing.html"
+        },
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-endangered-species-act-reduces-housing.html"
         }
       ]
     },
     {
       "name": "Aswath Damodaran",
-      "title": "观点：信息发布时机与市场操纵影响股价波动",
-      "summary": "观点：估值专家阿斯沃斯·达摩达兰（Aswath Damodaran）在其博客中回顾了其博士论文主题，强调企业信息披露的频率和延迟对股价波动、偏度和跳跃性具有重要影响。他指出，信息发布的时机和潜在的市场操纵行为，是理解市场效率和公司估值中不可忽视的关键因素。",
+      "title": "Aswath Damodaran探讨信息披露时机与市场影响",
+      "summary": "观点：金融学教授Aswath Damodaran回顾其博士论文，聚焦于信息披露的频率和延迟如何影响股票价格的波动、偏度和跳动。他强调了公司财报指引中的“博弈”，以及信息不对称在市场定价中的关键作用，这对理解市场效率和投资决策至关重要。",
       "sources": [
         {
           "name": "Aswath Damodaran",
@@ -87,46 +141,45 @@
       ]
     },
     {
-      "name": "美联储主席 (Kevin M. Warsh)",
-      "title": "原话：「对抗高通胀没有魔法棒」",
-      "summary": "美联储主席凯文·沃什（Kevin M. Warsh）在美联储决定维持利率不变后表示，对抗高通胀没有简单快捷的“魔法棒”。原话：「No magic wand to tackle high prices。」这一言论暗示了通胀斗争的复杂性和长期性，表明决策者对当前经济挑战的审慎态度，并可能预示着未来政策调整的缓慢和谨慎。",
+      "name": "Ben Carlson",
+      "title": "Ben Carlson观察到4500万富裕家庭及市场情绪",
+      "summary": "观点：投资博主Ben Carlson指出，美国拥有4500万富裕家庭，这为牛市提供了积极信号。同时，他观察到半导体股票近期出现回调，市场对估值持续下降，以及普遍看空债券的情绪，这些都反映了当前市场复杂的动态和投资者的谨慎心态。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "name": "Mark Zuckerberg (Meta CEO)",
-      "title": "Meta计划对外出售AI工具，寻求AI投资商业化路径",
-      "summary": "Meta首席执行官马克·扎克伯格（Mark Zuckerberg）表示，尽管投资者对其在AI领域的巨额支出表示担忧，但Meta计划首次将其AI工具出售给其他公司。观点：此举旨在探索AI投资的商业化路径，并表明公司对未来AI发展前景充满信心，试图通过多元化收入来源来证明其AI战略的价值。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss"
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/07/71270/"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "美联储联邦公开市场委员会（FOMC）维持利率不变，但内部出现政策分歧",
-      "summary": "美联储联邦公开市场委员会（FOMC）决定维持联邦基金利率目标区间不变，但会议纪要显示，有三位官员投票支持加息。这一内部意见分歧表明，美联储在应对通胀和经济增长的平衡上存在不同看法，未来的货币政策路径可能因此变得更加复杂和难以预测，对市场预期构成挑战。",
+      "title": "美联储维持利率不变，内部现分歧",
+      "summary": "美联储在最新的联邦公开市场委员会（FOMC）会议上决定维持利率不变，但三位官员投票支持加息，这凸显了美联储内部在应对通胀和经济前景方面的分歧，增加了未来政策走向的不确定性。",
       "sources": [
         {
-          "name": "Federal Reserve Press",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm"
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/07/29/business/economy/fed-meeting-interest-rates-takeaways.html"
         },
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/29/business/economy/fed-meeting-interest-rates-takeaways.html"
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/07/29/business/economy/what-to-watch-at-the-meeting.html"
         }
       ]
     },
     {
-      "title": "英国央行预计将连续第五次维持利率不变，以应对经济挑战",
-      "summary": "英国央行预计将连续第五次维持基准利率不变，将其保持在3.75%，这是自2023年2月以来的最低水平。这一预期表明英国央行可能倾向于在经济面临挑战时暂停加息周期，但其政策立场仍需在控制通胀和支持经济增长之间谨慎平衡，对英国及欧洲经济前景具有指导意义。",
+      "title": "美国政府借贷成本达二十年高位",
+      "summary": "在美联储利率决议后，美国国债收益率飙升，导致政府借贷成本达到二十年来的最高水平。这表明投资者对美联储能否有效控制通胀的信心不足，并可能对未来的财政政策和经济增长造成压力。",
+      "sources": [
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/07/29/business/economy/treasury-yields-fed-inflation.html"
+        }
+      ]
+    },
+    {
+      "title": "英国央行维持利率不变，警示伊朗战争升级风险",
+      "summary": "英国央行维持其关键利率不变，并上调了本年度的经济增长预测。然而，央行同时强调如果伊朗战争升级，将准备好加息，凸显了地缘政治冲突对全球经济和货币政策决策的潜在巨大影响。",
       "sources": [
         {
           "name": "BBC Business",
@@ -135,40 +188,34 @@
       ]
     },
     {
-      "title": "美国参议院新法案或赋予总统特朗普广泛的新关税权力",
-      "summary": "美国参议院正在审议一项两党合作的法案，该法案旨在赋予总统特朗普广泛的新关税权力，包括对从俄罗斯进口能源的主要国家征收关税。此举预示着未来美国贸易政策可能更加强硬和工具化，尤其是在地缘政治背景下，可能对全球贸易格局和能源市场带来显著的不确定性。",
+      "title": "美国PCE通胀指标疫情后首次下降，但风险未除",
+      "summary": "美联储首选的通胀指标——个人消费支出（PCE）指数在6月份出现疫情以来的首次下降，表明通胀压力有所缓解。这支持了美联储本周暂停加息的决定，但分析师警告称，鉴于潜在的地缘政治风险和供应链不确定性，通胀风险远未结束。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/29/us/politics/trump-tariffs-sanctions.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/fed-favored-pce-inflation-gauge-falls-for-first-time-since-pandemic-but-danger-far-from-over-57e382bf?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "AI数据中心或将进驻太空：新技术助力芯片散热",
-      "summary": "加州理工学院和初创公司Sophia Space的研究人员正在开发一项利用太阳能为轨道数据中心计算机设备散热的技术，旨在解决太空环境中AI芯片过热的问题。如果成功，这项前瞻性技术将为AI算力提供更高效、更可持续的解决方案，开启太空计算的新纪元，对未来AI基础设施的部署具有颠覆性潜力。",
+      "title": "苹果Siri获AI大脑移植升级，功能大幅增强",
+      "summary": "苹果公司对Siri进行了重大的AI大脑移植升级，使其从一个略显笨拙的虚拟助手转变为一个现代聊天机器人。尽管仍有提升空间，但此次升级极大地改善了Siri的功能性和用户体验，标志着苹果在AI竞赛中的重要一步。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html"
-        }
-      ]
-    },
-    {
-      "title": "中国创新数据披露新模式，揭示关键技术领域进展",
-      "summary": "一项对近1400万份中国国内专利出版物的大数据集分析显示，中国在过去几十年中展现出显著的技术进步，尤其是在美国国防部识别的关键技术领域。研究揭示了一些令人惊讶的模式，这对于更好地理解中国创新生态系统、评估其中美科技竞争态势以及全球技术格局的演变具有重要的战略意义。",
-      "sources": [
+          "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html"
+        },
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/data-on-chinese-innovation.html"
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html"
         }
       ]
     },
     {
-      "title": "AI公司大规模招聘电工和木匠，凸显技术基建对传统蓝领需求",
-      "summary": "人工智能的未来发展不仅依赖于高科技人才，也高度依赖大量熟练体力劳动者。AI公司正以数千人的规模招聘电工和木匠，以建设和维护支撑AI运行的大型数据中心。这揭示了AI浪潮对劳动力市场的深层结构性影响，传统蓝领工人在高科技基础设施建设中将扮演日益关键的角色。",
+      "title": "AI公司正大量招募电工和木匠，凸显基础设施需求",
+      "summary": "人工智能的快速发展正在对劳动力市场产生意想不到的影响。AI公司正以数千人的规模招募电工和木匠等传统体力劳动者，以满足建设和维护日益增长的数据中心等物理基础设施的需求，这揭示了AI发展背后对传统行业技能的巨大依赖。",
       "sources": [
         {
           "name": "NYT Economy",
@@ -177,20 +224,44 @@
       ]
     },
     {
-      "title": "AI检测初创公司Pangram推出“垃圾清理”服务，引发内容信任讨论",
-      "summary": "AI检测初创公司Pangram宣布推出其“Slop Janitor”服务，声称能够以近乎完美的准确率识别AI生成的文字和图像内容。随着AI生成内容的日益泛滥，此类工具的重要性日益凸显，它们不仅影响内容创作、出版和信息消费的未来，也引发了关于AI内容质量、版权归属和数字信任的深层讨论。",
+      "title": "AI代理可模拟消费者行为，改变市场研究范式",
+      "summary": "一家快速发展的初创公司Simile声称，能够通过调查数百万由AI生成的虚拟消费者，为企业提供极其准确的市场洞察。这项技术有望革新传统的客户研究方法，使得企业能够更高效、大规模地理解消费者需求和偏好，从而优化产品和营销策略。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/30/business/dealbook/simile-ai-agents-funding.html"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/07/30/business/dealbook/simile-ai-agents-funding.html"
+        }
+      ]
+    },
+    {
+      "title": "AI内容检测技术兴起，应对AI生成内容挑战",
+      "summary": "随着AI生成内容的泛滥，一家名为Pangram的AI检测初创公司推出了“垃圾内容清洁工”服务，声称能以近乎完美的准确率识别非人类创作的文本和图像。这项技术旨在解决AI内容质量和真实性问题，但也引发了关于内容审查和AI伦理的重要讨论。",
       "sources": [
         {
           "name": "NYT DealBook",
           "url": "https://www.nytimes.com/2026/07/29/business/dealbook/pangram-ai-slop-detection.html"
         }
       ]
+    },
+    {
+      "title": "中国创新专利数据中的意外模式揭示其技术实力",
+      "summary": "一项对中国近1400万份国内专利出版物的分析揭示了中国在由美国国防部识别的关键技术领域（如半导体、人工智能等）的创新生态系统中存在的数个令人惊讶的模式。这项研究有助于更深入地理解中国在全球科技竞争中的真实地位和发展轨迹。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/data-on-chinese-innovation.html"
+        }
+      ]
     }
   ],
   "us_stocks": [
     {
-      "title": "纳斯达克100指数面临回调风险，投资者对科技巨头财报保持谨慎",
-      "summary": "在Meta、微软和亚马逊等大型科技公司即将发布财报之际，纳斯达克100指数正逼近回调区间，投资者对科技股的未来前景保持谨慎态度。市场普遍担忧科技巨头的AI投资回报和盈利增长是否能达到预期，这种不确定性可能引发科技板块的进一步波动，对整体市场情绪产生影响。",
+      "title": "科技股财报季动荡，纳斯达克100指数面临回调",
+      "summary": "随着大型科技公司如Meta、微软和亚马逊即将公布财报，市场情绪趋于紧张，纳斯达克100指数正面临回调区域。投资者正谨慎评估科技公司在AI领域的巨额投资能否带来预期回报，导致科技股整体波动性加剧。",
       "sources": [
         {
           "name": "NYT DealBook",
@@ -199,60 +270,30 @@
       ]
     },
     {
-      "title": "摩根大通：医疗保健是“最持久增长”板块，被AI热潮忽视",
-      "summary": "摩根大通（JPMorgan）分析指出，医疗保健板块作为市场“最持久的增长”领域之一，目前却被人工智能（AI）投资热潮所忽视。该行推荐了礼来（Eli Lilly）、艾伯维（AbbVie）和丹纳赫公司（Danaher Corporation）等股票。这一观点提醒投资者关注被AI光环暂时掩盖的传统优质增长板块，以实现投资组合的多元化配置。",
+      "title": "华尔街警告高估值科技股反弹或为“陷阱”",
+      "summary": "在经历了一轮高估值股票的历史性下跌后，华尔街分析师警告投资者，科技股可能出现的快速反弹可能是一个“陷阱”，而非真正的底部。这种反弹可能吸引投资者入场，但随后可能引发新一轮抛售，建议保持谨慎。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/one-of-the-markets-most-durable-growth-sectors-has-been-passed-over-for-ai-says-jpmorgan-b726011c?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/wall-street-just-suffered-a-historic-crash-in-high-flying-stocks-here-is-why-a-quick-tech-rebound-could-be-a-trap-c021318a?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "SoFi股价下跌，尽管财报超预期但业绩指引保守",
-      "summary": "金融科技公司SoFi的股价在公布财报后下跌，尽管其盈利超出了市场预期，但公司给出的全年业绩指引相对保守，令投资者感到失望。这表明市场对金融科技公司的增长预期普遍较高，任何偏向谨慎的展望都可能导致股价出现负面反应，凸显了市场对增长确定性的高要求。",
+      "title": "半导体股票市场面临回调压力",
+      "summary": "市场观察显示，半导体股票近期出现回调，这反映了市场对高估值科技股普遍存在的担忧。投资者正在重新评估该行业的估值水平，并关注潜在的短期修正需求，这可能对相关公司的股价造成压力。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "Robinhood营收创新高，市场波动助推交易活跃度",
-      "summary": "在线交易平台Robinhood公布创纪录的营收，主要得益于市场波动加剧带动了交易量激增。该公司预测其预测市场（prediction-market）营收在第二季度增长了十倍。这一表现凸显了市场波动性对在线交易平台业务的积极影响，以及其在提供创新金融产品和吸引散户投资者方面的潜力。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/robinhood-puts-up-record-revenue-as-volatility-drives-a-trading-bonanza-8e0729c1?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "福特大型卡车业务投资获回报，华尔街开始关注其转型故事",
-      "summary": "福特汽车公司在大尺寸卡车业务上的战略投资正获得回报，并开始吸引华尔街的关注。这表明，传统汽车制造商在特定细分市场的战略转型和产品优势仍能赢得市场认可，而非仅仅依赖电动汽车的叙事。福特的表现可能预示着传统汽车巨头在多元化业务布局上的成功潜力。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb?mod=mw_rss_topstories"
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/07/71270/"
         }
       ]
     }
   ],
   "a_stocks": [
     {
-      "title": "气候变化与关税助推中国扩大养牛规模，提升牛肉自给自足能力",
-      "summary": "随着降雨量增加使曾经的沙漠地区如今可能发展为草场和玉米地，以及关税政策的影响，中国正在扩大国内养牛规模，以提高牛肉的自给自足能力。作为全球最大的牛肉进口国，中国此举对国际牛肉贸易格局、中国粮食安全战略以及农业投资领域都将产生长期而深远的影响。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html"
-        }
-      ]
-    },
-    {
-      "title": "部分美国公司因经济逻辑选择重返中国建厂，关税影响复杂化",
-      "summary": "尽管特朗普政府实施了关税政策，但一些寻求工厂选址的美国品牌发现，经济逻辑再次将他们指向中国。这一现象反映了全球供应链的复杂性和韧性，以及中国作为制造基地的持续吸引力，甚至在贸易紧张局势下仍具备成本和效率优势。这为中美贸易关系带来了微妙的新动态。",
+      "title": "特朗普关税政策下，部分美企仍选择回流中国设厂",
+      "summary": "尽管美国前总统特朗普实施了关税政策，旨在鼓励美国公司将生产线迁回本土，但对于一些寻求工厂选址的美国品牌而言，经济逻辑再次指向中国。这表明在全球供应链重构背景下，中国作为制造中心的吸引力依然存在。",
       "sources": [
         {
           "name": "NYT Economy",
@@ -261,40 +302,8 @@
       ]
     },
     {
-      "title": "耐克在中国市场销售额下降30%，本土品牌崛起构成挑战",
-      "summary": "曾经的中国运动鞋市场霸主耐克，其销售额在中国下降了30%，主要原因是其在年轻消费者中的相关性减弱，市场份额被中国本土品牌侵蚀。这表明中国本土品牌的崛起和消费者偏好的变化对国际品牌构成严峻挑战，对在华运营的跨国公司而言是重要的警示，需重新评估其市场策略。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html"
-        }
-      ]
-    }
-  ],
-  "business": [
-    {
-      "title": "壳牌利润因伊朗战争导致油价上涨而翻倍",
-      "summary": "能源巨头壳牌（Shell）公布的财报显示，其利润在近期翻了一番，主要得益于伊朗战争导致全球石油和液化天然气供应中断，从而推高了能源价格。霍尔木兹海峡作为关键航运要道的扰动，直接影响了全球能源市场动态，并对大型能源公司的盈利能力产生显著提振，同时可能加剧全球范围内的通胀压力。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "被飓风摧毁的美国社区崛起为全球最大液化天然气出口中心",
-      "summary": "美国一个曾被飓风彻底摧毁的社区，如今已发展成为全球最大的液化天然气（LNG）出口中心。这一案例展示了能源产业基础设施的强大韧性，以及地缘政治和自然条件如何重塑地区经济和全球能源供应格局。这对于关注能源转型、基础设施投资和区域经济发展的投资者具有借鉴意义。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c0ejq9g2pz4o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "中国机器人公司借英国劳动力短缺之机，加速布局英国零售业",
-      "summary": "鉴于英国疲软的生产力增长和日益严重的劳动力短缺问题，中国的机器人公司正抓住机遇，大举在英国零售行业部署机器人自动化解决方案。这不仅是中国科技企业全球扩张的体现，也揭示了西方国家在劳动力结构变化下面临的自动化转型压力，对全球供应链和零售业效率产生深远影响。",
+      "title": "中国机器人大军正改造英国零售业",
+      "summary": "英国长期疲软的生产力增长和劳动力短缺为中国机器人公司创造了独特的市场机会。中国制造的机器人正大规模进入英国零售行业，帮助企业提高效率、弥补劳动力缺口，这不仅是中国科技产品输出的体现，也预示着全球零售业自动化趋势的加速。",
       "sources": [
         {
           "name": "BBC Business",
@@ -303,24 +312,66 @@
       ]
     }
   ],
-  "overlooked": [
+  "business": [
     {
-      "title": "美国政府试点项目：引导博士教育与企业合作，解决国家科技优先事项",
-      "summary": "美国白宫和国家科学基金会正共同推出一项4700万美元的试点项目，旨在将顶尖大学与企业巨头配对，引导传统的博士（PhD）项目转向国家科学优先事项。该项目计划资助约250个为期四年的技术领域博士学位，将影响美国未来高端人才培养模式和技术创新方向，对科技竞争力和长远经济发展至关重要。",
+      "title": "伊朗战争推高油价，壳牌利润翻倍",
+      "summary": "受伊朗战争导致全球石油和液化天然气供应中断的影响，油价上涨，能源巨头壳牌公司利润翻倍。这凸显了地缘政治风险对全球能源市场和企业盈利能力的直接且深远影响，预示着能源价格可能面临持续上行压力。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/reforms-to-the-phd.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "AI基建新趋势：伊朗战争加剧下，USO原油ETF成优于期货的投资选择",
-      "summary": "随着伊朗战争的日益加剧，美国石油基金（USO）ETF的表现已超越西得克萨斯中质原油（WTI）期货，成为投资者在当前局势下配置能源资产的更优选择。USO原油ETF自伊朗战争爆发以来已上涨58%，是WTI原油期货涨幅的两倍多。这为投资者在动荡的地缘政治风险环境中，提供了一种实用的能源市场配置策略，但容易被宏观事件本身的光芒掩盖其投资价值。",
+      "title": "AI对财富管理行业的挑战与机遇",
+      "summary": "大型语言模型正对财富经理的传统服务模式构成新的挑战，促使该行业思考如何整合AI技术。尽管行业领袖强调“人的触感”在客户关系中不可替代，但AI工具的普及预示着金融咨询服务模式的深刻变革，将重塑行业竞争格局。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/why-the-uso-oil-etf-is-a-better-buy-than-crude-futures-as-the-iran-war-rages-85d1ebe0?mod=mw_rss_topstories"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/07/30/wealth-managers-ai-chatbots.html"
+        }
+      ]
+    },
+    {
+      "title": "濒危物种法案对住房供应的结构性影响",
+      "summary": "一项经济学研究指出，美国《濒危物种法案》显著增加了开发商的合规成本和法律风险。这种增加的成本最终导致住房开发项目减少，从而对房地产市场的住房供应产生长期的结构性影响，加剧了部分地区的住房短缺问题。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-endangered-species-act-reduces-housing.html"
+        }
+      ]
+    }
+  ],
+  "overlooked": [
+    {
+      "title": "AI基础设施对传统劳务的巨大需求",
+      "summary": "随着AI产业的爆炸式增长，对数据中心建设和维护的需求激增，这正导致对电工、木匠等传统体力劳动者的大规模招聘。这一趋势揭示了AI发展中被忽视的物理世界依赖，预示着未来劳动力市场对特定技术和蓝领技能的需求将大幅增长。",
+      "sources": [
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html"
+        }
+      ]
+    },
+    {
+      "title": "中国创新专利数据中的意外模式揭示其技术实力",
+      "summary": "针对中国近1400万份专利数据的新分析揭示了其创新生态系统在关键技术领域（由美国国防部识别）中出人意料的发展模式。这项研究提供了更细致的视角来理解中国技术实力的演进，可能影响对全球科技竞争格局的传统认知。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/data-on-chinese-innovation.html"
+        }
+      ]
+    },
+    {
+      "title": "全球化背景下中国机器人在发达市场的渗透",
+      "summary": "英国零售业正被“中国机器人大军”改造，这不仅是简单的技术出口，更是中国工业能力在全球范围内解决发达经济体生产力低下和劳动力短缺问题的一个缩影。这种渗透预示着全球供应链和产业自动化趋势将更深远地影响各国经济结构。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
