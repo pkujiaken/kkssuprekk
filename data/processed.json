@@ -1,30 +1,12 @@
 {
   "top5": [
     {
-      "title": "美国第二季度GDP增长放缓，市场对通胀持续担忧",
-      "summary": "美国商务部报告称，2026年第二季度国内生产总值（GDP）增长率放缓，低于市场预期。与此同时，由于美联储在最新利率决议中未能提供明确的未来政策指引，市场对通胀持续上升的担忧加剧，导致国债收益率保持高位，借贷成本上升。这一系列数据和市场反应表明，美国经济正面临增长动能减弱与通胀压力并存的挑战，增加了货币政策的不确定性，并可能影响企业投资和消费者支出决策。",
+      "title": "美联储政策指引缺失引发市场对通胀担忧，美债收益率飙升",
+      "summary": "美联储在最新利率决议中维持利率不变，但内部对未来政策路径的分歧日益加剧，且未能提供明确的通胀指引，导致美国政府债券收益率飙升至二十年高点。市场普遍认为，这反映出投资者对美联储能否有效遏制通胀的信心正在动摇，可能导致金融市场出现“信用冲击”，进而影响抵押贷款和商业贷款成本。",
       "sources": [
-        {
-          "name": "Federal Reserve Press",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm"
-        },
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html"
-        },
-        {
-          "name": "NYT Economy",
           "url": "https://www.nytimes.com/2026/07/30/business/federal-reserve-warsh-bonds.html"
-        }
-      ]
-    },
-    {
-      "title": "美联储维持利率不变，内部分歧加剧引发市场“信任危机”",
-      "summary": "美联储公开市场委员会（FOMC）投票决定维持联邦基金利率不变，但内部出现了显著分歧，有三名官员投票支持加息。此次决议后，政府借贷成本升至二十年来的新高，部分分析师甚至指出，市场对美联储控制通胀能力的信心正在减弱，可能面临“信任危机”。美联储主席凯文·沃什（Kevin M. Warsh）执掌下的首次会议即显露出政策路径上的内部分歧，使得投资者对未来通胀走向和货币政策的预期更加复杂和不确定。",
-      "sources": [
-        {
-          "name": "Federal Reserve Press",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm"
         },
         {
           "name": "NYT Economy",
@@ -37,8 +19,26 @@
       ]
     },
     {
-      "title": "中国经济增长承压，决策层发出谨慎的财政支持信号",
-      "summary": "面对经济增长放缓的挑战，中国执政的政治局在会议中呼吁实施“更积极”的财政和支出政策。然而，会议并未明确支持采取大规模刺激措施以解决疲软的消费者支出问题。这一表态传递出一种谨慎的政策立场，预示着中国可能不会出台类似以往的“大水漫灌”式刺激计划，而是更倾向于精准施策。这可能对全球经济复苏预期以及A股市场的信心产生影响，投资者将密切关注后续的具体政策落地。",
+      "title": "美国第二季度GDP增速放缓，通胀压力持续",
+      "summary": "美国经济在2026年第二季度增长速度有所放缓，同时，持续存在的物价压力继续困扰着金融市场。这一数据表明，美国经济正面临增长动能减弱与通胀高企的双重挑战，可能加剧市场对经济衰退或滞胀的担忧，并对美联储未来的货币政策决策构成复杂考验。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html"
+        },
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html"
+        }
+      ]
+    },
+    {
+      "title": "中国经济面临挑战，政治局会议释放谨慎支持信号",
+      "summary": "在经济增长面临多重阻力之际，中国执政的政治局会议呼吁采取“更积极”的税收和支出政策，但并未暗示将推出大规模刺激措施来解决消费者支出疲软的问题。这一表态表明，中国政府在应对经济下行压力时仍保持谨慎态度，可能侧重于精准施策而非全面放水，投资者需警惕经济复苏的缓慢和结构性挑战。",
       "sources": [
         {
           "name": "NYT Business",
@@ -51,8 +51,8 @@
       ]
     },
     {
-      "title": "AI对冲基金Situational Awareness获 Citadel 救援，凸显AI投资风险",
-      "summary": "曾备受瞩目、由一位24岁创始人领导的AI对冲基金Situational Awareness在面临困境后，获得了知名对冲基金Citadel的救援。这一事件是近期美国股市动荡中引人注目的一个案例，尤其是在对AI投资狂热的背景下。此次救援行动反映出AI领域投资的高风险性与快速变化，同时也引发了华尔街关于AI投资“底部”是否已到的猜测。对于高净值投资者而言，这提示了AI概念股可能存在的泡沫风险以及行业整合的可能性。",
+      "title": "AI对冲基金Situational Awareness获Citadel救援，引发AI投资热潮反思",
+      "summary": "一度备受瞩目的AI对冲基金Situational Awareness在近期市场波动中陷入困境，最终由行业巨头Citadel出手救援。这一事件引发了华尔街对AI投资领域是否存在过度投机和泡沫的广泛讨论，并促使市场重新审视AI主题基金的风险与回报，部分人认为这可能预示着AI交易热潮将进入一个更加理性的阶段。",
       "sources": [
         {
           "name": "NYT Business",
@@ -65,21 +65,36 @@
       ]
     },
     {
-      "title": "AI模型安全警报：Anthropic测试中发现AI代理可攻击企业网络",
-      "summary": "继OpenAI披露其AI代理曾入侵其他公司网络后，领先的AI研究公司Anthropic也宣布，在其进行的测试中发现，AI模型能够成功入侵三家公司的网络。这一发现凸显了AI技术在带来便利的同时，也伴随着日益严峻的网络安全风险。AI代理可能被恶意利用，对企业数据安全和系统稳定构成潜在威胁。此事件将促使企业和开发者更加重视AI系统的安全性和伦理考量，并可能推动相关监管政策的出台，对于科技行业的投资决策具有重要参考价值。",
+      "title": "韩国股市在芯片股暴跌后大幅反弹，市场情绪波动剧烈",
+      "summary": "在经历了此前因对人工智能过度支出担忧导致的芯片股大幅抛售之后，韩国股市在一天内强劲反弹15%，其中芯片类股票领涨。这次剧烈波动凸显了全球市场对AI相关投资情绪的高度敏感性和不确定性，同时也反映出投资者仍在努力评估AI技术长期前景及其对半导体等核心产业的影响。",
       "sources": [
         {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/07/31/business/korea-stocks-chips-kospi.html"
+        },
+        {
           "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "people": [
     {
+      "name": "Tyler Cowen",
+      "title": "Tyler Cowen 认为国际合作机制效率低下，形同虚设",
+      "summary": "观点：经济学家Tyler Cowen援引Eli Dourado的看法，指出国际合作机制存在严重缺陷，许多国际条约和协议在实际操作中效率低下，甚至成为各国寻租和政治表演的平台。他曾担任美国国务院顾问并参与条约谈判，强调国际部门的功能失调远超预期，这对于需要全球协作解决的问题（如气候变化、AI治理）构成了巨大障碍。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-wisdom-of-eli-dourado.html"
+        }
+      ]
+    },
+    {
       "name": "Aswath Damodaran",
-      "title": "信息披露的及时性与企业指引存在博弈",
-      "summary": "观点：纽约大学斯特恩商学院教授Aswath Damodaran指出，企业信息披露的频率和延迟与股价波动、偏度和跳跃存在密切关联。他强调，公司管理层在发布盈利指引时，存在“博弈”行为，他们可能策略性地选择信息披露的时机，以影响市场预期和股价表现。投资者需要深入理解信息披露的结构和时间，以更好地评估公司价值，规避潜在的“信息游戏”风险。",
+      "title": "Aswath Damodaran 探讨信息披露与市场操纵",
+      "summary": "观点：估值专家Aswath Damodaran重提其博士论文观点，指出公司信息披露的频率和延迟对股票价格的波动、偏度和跳跃性具有关键影响。他强调，市场中存在“游戏化”信息披露的行为，例如通过选择性或延迟发布信息来影响投资者情绪和股价，这挑战了市场有效性假设，并对投资者分析和决策提出更高要求。",
       "sources": [
         {
           "name": "Aswath Damodaran",
@@ -89,8 +104,8 @@
     },
     {
       "name": "Ben Carlson",
-      "title": "动量投资策略的实践与思考",
-      "summary": "观点：来自“A Wealth of Common Sense”的Ben Carlson分享了他对动量投资策略的见解，并介绍了其新推出的“Porterhouse动量策略”。他认为，动量是市场中一种长期存在的异象，即表现良好的资产倾向于继续表现良好。然而，他强调动量投资并非没有风险，需要投资者理解其背后的原理、潜在的回撤以及在不同市场环境下的表现，才能有效地利用这一策略。",
+      "title": "Ben Carlson 分析动量投资策略",
+      "summary": "观点：Ben Carlson在其最新分析中探讨了动量投资策略的有效性。他认为，动量是股票市场中一个已被证实的回报因素，但在实际操作中，投资者需要充分理解其短期波动性和潜在的剧烈回调风险。他建议投资者在构建动量投资组合时，应结合严格的风险管理纪律，并持有一个更长的投资周期，以期捕捉其长期回报潜力。",
       "sources": [
         {
           "name": "A Wealth of Common Sense (Ben Carlson)",
@@ -99,92 +114,20 @@
       ]
     },
     {
-      "name": "Tyler Cowen",
-      "title": "强调量化企业网络风险的重要性",
-      "summary": "观点：经济学家Tyler Cowen在其博客中强调了对网络风险量化分析的重要性，并引用了一篇利用计算语言学分析上市公司财报电话会议来衡量企业网络风险敞口的新研究。该研究覆盖了全球14,000多家公司，旨在通过识别语言模式来评估企业面临的网络安全威胁。Cowen认为，这种创新的数据分析方法对于理解和管理日益复杂的企业网络风险具有重要意义，尤其在当前数字化转型加速的背景下。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-anatomy-of-cyber-risk.html"
-        }
-      ]
-    },
-    {
       "name": "Mastercard CEO",
-      "title": "信用卡将在AI购物时代继续“占据主导”",
-      "summary": "观点：Mastercard的首席执行官在接受采访时表示，即使在AI购物日益普及的时代，信用卡支付系统仍将“占据主导地位”。他认为，Mastercard正在积极适应“代理商务”（agentic commerce）的新趋势，通过技术创新和战略布局，确保其支付技术在AI驱动的消费环境中保持核心地位。这表明传统金融巨头对AI带来的变革持乐观态度，并积极寻求与新技术融合的路径，以维护其在支付生态系统中的领导地位。",
+      "title": "万事达卡CEO看好信用卡在AI购物时代的未来",
+      "summary": "原话：「信用卡将在人工智能购物时代中‘胜出’。」万事达卡CEO Michael Miebach表示，尽管人工智能代理可能改变消费者的购物习惯，但万事达卡正积极调整战略，迎接“代理商务”的新时代。他相信，通过持续的技术创新和生态系统合作，信用卡作为核心支付基础设施，将在由AI驱动的未来零售环境中继续扮演关键角色。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/can-credit-cards-survive-ai-shopping-why-mastercards-ceo-says-theyll-prevail-in-this-new-era-8f8a660c?mod=mw_rss_topstories"
         }
       ]
-    }
-  ],
-  "macro": [
-    {
-      "title": "美国国债收益率飙升，市场对美联储抗通胀能力存疑",
-      "summary": "美联储最新利率决议后，美国政府借贷成本飙升至二十年来高点。投资者普遍认为，此次美联储未能提供明确的未来政策路径指引，加剧了市场对通胀难以有效控制的担忧。这种不确定性导致了债券市场的剧烈抛售，收益率大幅上扬，反映出市场对美联储政策“可信度”的冲击。高企的国债收益率将推高从抵押贷款到企业贷款的各种借贷成本，对实体经济产生广泛影响。",
-      "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/07/29/business/economy/treasury-yields-fed-inflation.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/30/business/dealbook/fed-warsh-credibility-shock.html"
-        }
-      ]
     },
     {
-      "title": "伊朗战争短暂停歇期间美国通胀压力有所缓解",
-      "summary": "美国联邦储备委员会偏好的通胀衡量指标——个人消费支出（PCE）物价指数——显示，在与伊朗的战争短暂停歇期间，物价压力有所缓解。然而，随着战事的重新爆发，市场担忧通胀风险可能再次升温。这一现象表明，地缘政治冲突对全球供应链和能源价格的冲击，是影响美国通胀走势的关键外部因素之一，使得央行在制定货币政策时面临更多复杂性和挑战。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/30/business/federal-reserve-inflation-iran-war.html"
-        }
-      ]
-    },
-    {
-      "title": "英国央行维持利率不变，但警告若伊朗战争升级将考虑加息",
-      "summary": "英国央行宣布维持现有基准利率不变，但明确表示，如果中东地区与伊朗的冲突进一步升级，导致地缘政治风险加剧，将准备好加息以应对可能出现的通胀压力。同时，英国央行上调了今年的经济增长预期。这一决定反映了全球地缘政治局势对主要经济体货币政策的显著影响，以及央行在平衡经济增长与通胀风险之间的审慎态度，投资者需密切关注地缘政治动态及其对全球利率环境的潜在冲击。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    }
-  ],
-  "tech": [
-    {
-      "title": "AI代理在市场研究中的应用：Simile通过AI双生体了解客户心声",
-      "summary": "快速增长的初创公司Simile声称，通过对数百万个由AI生成的虚拟消费者进行调研，能够为企业提供准确的客户洞察。这一创新应用通过创建“AI双生体”来模拟真实消费者的行为和偏好，为企业提供了全新的市场研究工具。该技术有望颠覆传统的市场调研模式，使企业能够更高效、更精准地了解目标客户的需求和反馈，从而优化产品开发和营销策略，对消费科技和市场服务领域具有颠覆性潜力。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/30/business/dealbook/simile-ai-agents-funding.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/07/30/business/dealbook/simile-ai-agents-funding.html"
-        }
-      ]
-    },
-    {
-      "title": "企业网络风险的量化分析：新研究利用财报电话会议评估风险敞口",
-      "summary": "一项最新研究利用计算语言学技术，分析了全球超过90个国家的14,000多家上市公司在2003年至2025年间的季度财报电话会议内容，以引入一种衡量企业层面网络风险敞口的新方法。该方法通过识别财报中的特定词汇和短语，量化企业对网络威胁的敏感度。这项研究为投资者和企业提供了更精细的网络风险评估工具，有助于在投资决策和风险管理中更好地考量日益增长的网络安全挑战。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-anatomy-of-cyber-risk.html"
-        }
-      ]
-    },
-    {
-      "title": "科技投资者视角：AI泡沫可能并非坏事",
-      "summary": "在对人工智能领域可能存在泡沫的担忧日益蔓延之际，一些科技投资者却持不同看法，甚至表示欢迎这种“泡沫”。他们认为，即便出现泡沫，其带来的大量资本注入和高昂估值也能加速AI技术的研发、创新和基础设施建设，从而推动整个行业的快速发展和普及。这种观点认为，短期内的非理性繁荣可能为长期的技术突破和产业转型奠定基础。",
+      "name": "科技投资者（匿名）",
+      "title": "部分科技投资者认为AI泡沫并非坏事",
+      "summary": "观点：在对潜在的AI泡沫担忧日益加剧之际，部分科技投资者却持乐观态度，认为AI领域的泡沫可能并非一件坏事。他们指出，历史经验表明，泡沫往往能吸引大量资本和顶尖人才涌入一个新兴领域，从而极大地加速技术创新、基础设施建设和市场应用。即使泡沫最终破裂，其留下的坚实基础仍将推动行业实现长期突破和发展。",
       "sources": [
         {
           "name": "NYT DealBook",
@@ -193,53 +136,20 @@
       ]
     }
   ],
-  "us_stocks": [
+  "macro": [
     {
-      "title": "苹果公司预警未来 Mac、iPhone、iPad 供应受限，股价受挫",
-      "summary": "科技巨头苹果公司（Apple）发布警告称，未来几个月其Mac、iPhone和iPad产品的供应可能会面临限制。这一消息导致苹果股价大幅下跌，反映出市场对其未来销售增长放缓的担忧。供应链问题对全球科技公司的业绩构成持续挑战，投资者需密切关注主要科技公司应对供应链中断和生产限制的能力，以及这可能对其营收和利润带来的影响。",
+      "title": "英国央行维持利率不变，但警告若伊朗战争升级或将加息",
+      "summary": "英国央行决定维持其基准利率不变，但明确表示，如果与伊朗的冲突进一步升级，可能需要提高利率以应对随之而来的通胀压力。尽管央行预计今年经济增长将高于此前预期，但地缘政治风险带来的不确定性仍然是其政策考量中的一个主要因素，对未来通胀路径构成显著风险。",
       "sources": [
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c204nw64xwno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "企业内部人士看空股市，发出市场警告信号",
-      "summary": "根据最新数据，企业内部人士（包括高管和董事）的看空情绪达到了过去20多年来的最高水平。这种内部人士的卖出/看空行为通常被视为一个重要的市场领先指标，预示着他们对公司前景或整体股市的信心不足。对于专业投资者而言，内部人士的动向是评估市场健康状况的重要参考，当前信号可能暗示股市面临回调风险或增长动力不足。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "市场评论：科技股回调是压力测试而非崩溃，或是买入良机",
-      "summary": "面对7月份科技股市场的近期回调，有市场评论认为，这更像是一次“压力测试”，而非牛市终结的标志。分析指出，虽然近期出现抛售，但科技行业的长期增长前景依然稳固，此次回调可能是投资者“逢低买入”的机会。这种观点认为，市场的健康调整有助于消化前期过高的估值，并为未来的持续增长创造条件，但投资者仍需审慎评估个股基本面。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/get-ready-to-buy-the-dip-in-tech-stocks-why-the-recent-selling-wont-break-the-bull-market-900699f5?mod=mw_rss_topstories"
-        }
-      ]
-    }
-  ],
-  "a_stocks": [],
-  "business": [
-    {
-      "title": "捷豹路虎宣布裁员数百人，应对汽车行业挑战",
-      "summary": "豪华汽车品牌捷豹路虎（Jaguar Land Rover）宣布将裁减不到300个工作岗位。此次裁员行动反映了全球汽车行业在转型期面临的挑战，包括向电动化转型、供应链中断以及宏观经济压力等。对于汽车行业的投资者而言，裁员是公司调整战略、优化成本结构以应对市场变化的一部分，但也可能预示着行业竞争加剧和利润空间收窄。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cq6dmjv1jpdo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "特朗普政府新增关税豁免清单涵盖关键大宗商品",
-      "summary": "美国特朗普政府公布了新一轮关税豁免清单，其中包括钻石、石油和天然气以及铜等重要大宗商品。此举再次引发了关于哪些行业和商品应获得高额关税豁免的争议。关税豁免政策通常旨在缓解对国内产业或消费者造成的负面影响，但其选择性实施也可能带来市场扭曲和不公平竞争。对于相关大宗商品行业的投资者而言，这些豁免政策将直接影响其成本结构和贸易流通。",
+      "title": "特朗普的关税豁免政策引发争议，透明度受质疑",
+      "summary": "美国前总统特朗普政府新一轮的关税豁免清单中，包含了钻石、石油和天然气、铜等多种重要商品，再次引发了关于哪些公司或行业应获得这些利润丰厚的豁免以及其背后理由的质疑。这一政策的实施，凸显了贸易保护主义政策在执行层面的复杂性和不透明性，可能导致寻租行为，并对特定行业和全球供应链产生不确定影响。",
       "sources": [
         {
           "name": "NYT Business",
@@ -250,32 +160,147 @@
           "url": "https://www.nytimes.com/2026/07/30/business/economy/trump-tariffs-exemptions.html"
         }
       ]
-    },
+    }
+  ],
+  "tech": [
     {
-      "title": "ABC正式驳斥FCC对电视牌照的审查",
-      "summary": "美国广播公司（ABC）正式对其地方广播牌照审查提出反驳，以回应联邦通信委员会（FCC）的行动。这一举动是媒体行业对监管机构审查权力的最新一次抵制。对于媒体和通信行业的投资者而言，FCC的审查可能对传统广播公司的运营模式和市场准入构成挑战，而ABC的反驳则体现了行业在面对监管压力时的应对策略和维护自身利益的决心，将影响未来媒体格局的演变。",
+      "title": "大型科技公司加速AI布局，苹果Siri获AI升级",
+      "summary": "亚马逊和苹果等大型科技公司正披露更多其在AI领域的战略计划，数十亿美元资金持续涌入AI技术研发。其中，苹果的Siri助手进行了AI“大脑移植”，转型为更现代化的聊天机器人，尽管仍有不足但功能显著增强。这表明科技巨头正加速将AI深度整合进其核心产品和服务中，竞争日益白热化。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/30/business/media/abc-fcc-tv-licenses.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic的Claude AI在安全测试中突破限制，AI安全性引担忧",
+      "summary": "继OpenAI的AI代理被曝成功入侵其他公司网络后，Anthropic开发的Claude AI也在测试中成功规避了安全协议，实现了对三个组织的突破。这一事件再次凸显了先进AI系统在安全和控制方面的潜在风险，引发了行业和监管机构对如何有效防范AI被滥用或自主突破限制的严重担忧，对AI安全治理提出了更紧迫的要求。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Meta因AI巨额投入股价承压，投资者质疑回报前景",
+      "summary": "Meta公司股价近日大幅下跌，原因在于其在AI领域的巨额投入令华尔街投资者感到担忧。市场正密切关注Meta除了广告业务之外，其AI战略能否带来实质性的盈利增长。投资者要求公司提供更多证据，证明这些大规模投资能够转化为可观的财务回报，反映出市场对科技巨头AI烧钱模式的审慎态度。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/metas-stock-is-falling-hard-heres-why-the-company-is-in-wall-streets-doghouse-afae2f55?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "AI内容检测初创公司Pangram获关注，欲解决“AI垃圾”问题",
+      "summary": "初创公司Pangram正凭借其宣称能近乎完美识别非人类生成文本和图像的AI内容检测技术而受到关注。该公司旨在解决日益泛滥的“AI垃圾”问题，但其高准确率也引发了关于数字内容真实性、版权归属以及AI检测技术本身伦理边界的深刻问题。这项技术的发展可能对媒体、教育和内容产业产生深远影响。",
+      "sources": [
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/07/29/business/dealbook/pangram-ai-slop-detection.html"
+        }
+      ]
+    }
+  ],
+  "us_stocks": [
+    {
+      "title": "企业内部人士看空情绪达20余年高点，预示股市回调风险",
+      "summary": "最新数据显示，美国企业内部人士的看空情绪已达到逾二十年来的最高水平。这一趋势通常被视为市场的重要反向指标，表明公司高管和董事认为当前股价可能被高估，或对企业未来盈利前景持悲观态度。这种普遍的内部人士抛售潮可能预示着股市存在潜在的回调风险，值得投资者警惕。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "苹果警告Mac、iPhone和iPad未来或面临供应限制，股价下挫",
+      "summary": "苹果公司发布预警，称未来几个月其核心产品Mac、iPhone和iPad可能面临供应链限制，这一消息导致其股价下跌。此警告凸显了全球供应链的持续脆弱性，以及对苹果等高度依赖全球生产和物流的科技巨头未来业绩的潜在冲击。投资者需关注供应限制对销售收入和盈利能力的影响。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c204nw64xwno?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "华尔街分析师认为科技股近期抛售是“压力测试”，建议逢低买入",
+      "summary": "尽管科技股近期经历了一轮抛售，但华尔街分析师普遍认为，这更像是对市场的一次“压力测试”，而非牛市终结的信号。许多机构仍看好科技股的长期增长潜力，并建议投资者关注此次回调带来的“逢低买入”机会。Evercore尤其推荐了微软、ServiceNow、Salesforce和Samsara等四家软件公司，认为它们在年末仍具上涨潜力。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/get-ready-to-buy-the-dip-in-tech-stocks-why-the-recent-selling-wont-break-the-bull-market-900699f5?mod=mw_rss_topstories"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/software-stocks-are-fading-but-these-4-could-shine-through-the-rest-of-the-year-2c4dbe22?mod=mw_rss_topstories"
+        }
+      ]
+    }
+  ],
+  "a_stocks": [],
+  "business": [
+    {
+      "title": "AI公司正大规模招募熟练工，数据中心建设需求爆发",
+      "summary": "随着人工智能技术的飞速发展，AI公司正以前所未有的规模招募数千名熟练电工和木匠。这表明AI的未来不仅依赖于软件算法和算力，也极度依赖于物理基础设施的建设，尤其是庞大数据中心的扩建。这一趋势正对劳动力市场产生显著的结构性影响，并预示着传统建筑和工程行业将迎来AI驱动的新增长机遇。",
+      "sources": [
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html"
+        }
+      ]
+    },
+    {
+      "title": "英国零售巨头Sainsbury's出售Argos，优化资产组合",
+      "summary": "英国超市巨头Sainsbury's已同意以1.2亿英镑的价格出售其零售子公司Argos，但这笔交易将允许Argos继续在Sainsbury's店内运营，并销售Habitat品牌产品及提供Nectar积分。此举反映了Sainsbury's在当前竞争激烈的零售环境下，通过资产剥离和战略合作来优化其业务组合、聚焦核心优势的策略，旨在提升整体效率和股东价值。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "印度计划提升草莓产业，挑战全球供应格局",
+      "summary": "印度目前严重依赖从美国和欧洲进口草莓品种，但正积极寻求改变这一局面。该国致力于通过研发本土优势品种和扩大种植规模，目标是成为全球草莓生产的“超级大国”之一。这一雄心勃勃的计划若能实现，不仅将大幅提升印度的农业自给自足能力，还可能重塑全球草莓供应链和贸易格局，对相关农产品市场产生影响。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "《濒危物种法案》对美国住房供应的负面影响",
-      "summary": "一项最新研究指出，美国的《濒危物种法案》（Endangered Species Act）对住房供应产生了负面影响。研究发现，一旦动物被列入濒危物种名单，开发商将面临更高的合规成本和潜在的法律责任，从而导致住房项目开发减少。这一发现揭示了环境保护法规在特定领域可能产生的意想不到的经济后果，值得关注房地产和城市发展领域的投资者关注其长期结构性影响。",
+      "title": "计算语言学与大模型助力企业网络风险量化分析",
+      "summary": "一项创新研究利用计算语言学和大型语言模型，对来自全球90多个国家的1.4万多家公司在2003年至2025年间的季度财报电话会议进行了分析，首次提出衡量企业级网络风险暴露的新指标。该研究通过人类审计员和LLM验证了其准确性，为投资者和企业提供了一种更精细、更全面的工具来评估和管理日益增长的网络安全风险，具有重要的实践意义。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-endangered-species-act-reduces-housing.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-anatomy-of-cyber-risk.html"
         }
       ]
     },
     {
-      "title": "美国政府推动PhD项目改革，聚焦国家科学优先事项",
-      "summary": "特朗普政府正在推动一项改革，旨在将顶尖大学与企业巨头配对，以引导传统的博士（PhD）项目向国家科学优先事项倾斜。白宫和国家科学基金会宣布了一项4700万美元的试点计划，将资助约250个为期四年的技术领域博士项目。此举旨在优化高层次人才培养结构，更好地服务于国家战略需求和产业创新。对于关注科技发展和人力资本配置的投资者来说，这预示着未来研发投入方向和人才竞争格局的变化。",
+      "title": "AI“数字双胞胎”革新市场研究，预测消费者行为",
+      "summary": "初创公司Simile通过创建数百万个AI生成的“消费者数字双胞胎”，声称能为企业提供极其准确的市场洞察，从而预测真实的消费者行为。这种前沿技术有望彻底改变传统的市场调研方式，使企业能够以更低的成本、更快的速度和更高的精度理解客户需求。它预示着AI在商业智能和消费者心理分析领域的巨大潜力。",
+      "sources": [
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/07/30/business/dealbook/simile-ai-agents-funding.html"
+        }
+      ]
+    },
+    {
+      "title": "特朗普政府推动博士教育改革，与企业巨头合作聚焦国家科学优先事项",
+      "summary": "美国特朗普政府正与顶尖大学和企业巨头合作，启动一项耗资4700万美元的试点项目，旨在将传统的博士培养项目导向国家科学优先事项。该项目将资助约250名技术领域的四年制博士生，通过与企业深度结合的方式，培养符合国家战略需求的高级人才。这一改革预示着美国高等教育和科研体系将更紧密地服务于国家战略和产业需求，可能影响未来科技人才的培养方向和分配。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",

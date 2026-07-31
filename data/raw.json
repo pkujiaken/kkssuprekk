@@ -1,6 +1,20 @@
 [
   {
     "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "An unprecedented weapon?",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/07/an-unprecedented-weapon.html?utm_source=rss&utm_medium=rss&utm_campaign=an-unprecedented-weapon",
+    "summary": "<p>I wonder if England had a &#8220;pause&#8221; movement back then: Trebuchets reached the peak of their development in medieval times, probably the most famous example being Edward I&#8217;s massive machine, Warwolf.  This terrifying device was over sixty feet (18 meters) high and was capable of throwing a three-hundred-pound (140-kilogram) rock several hundred years, projecting some [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/an-unprecedented-weapon.html\">An unprecedented weapon?</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Fri, 31 Jul 2026 07:03:26 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "The wisdom of Eli Dourado",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/07/the-wisdom-of-eli-dourado.html?utm_source=rss&utm_medium=rss&utm_campaign=the-wisdom-of-eli-dourado",
+    "summary": "<p>How do &#8220;international efforts&#8221; work? Unlike most of the signatories of the letter, I have been a State Department advisor and have participated in multiple treaty negotiations. I have also been a member of technical committees for UN technical agencies. The international sector is unbelievably dysfunctional. Every single treaty or international agreement is an opportunity [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/the-wisdom-of-eli-dourado.html\">The wisdom of Eli Dourado</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Fri, 31 Jul 2026 05:02:53 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
     "title": "The Anatomy of Cyber Risk",
     "link": "https://marginalrevolution.com/marginalrevolution/2026/07/the-anatomy-of-cyber-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anatomy-of-cyber-risk",
     "summary": "<p>This paper uses computational linguistics to introduce a novel measure of firm-level cyber risk exposure based on the quarterly earnings calls of listed firms. Our measure covers more than 14,000 firms from over 90 countries between 2003 and 2025. The measure is validated using human auditors and a large language model. We show that cyber [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/the-anatomy-of-cyber-risk.html\">The Anatomy of Cyber Risk</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
@@ -42,20 +56,6 @@
     "published": "Wed, 29 Jul 2026 21:43:14 +0000"
   },
   {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "What should I ask Jared Diamond?",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-jared-diamond-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-jared-diamond-2",
-    "summary": "<p>Yes, I will be doing a Conversation with him.  His whole career is fair game, though many of my questions will cover his forthcoming book Profits, Prophets, Coaches, and Kings (When) Do Leaders Matter? From the Amazon summary: &#8220;Now, in Profits, Prophets, Coaches and Kings, he studies leaders throughout time to answer the question: do the actions [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-jared-diamond-2.html\">What should I ask Jared Diamond?</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Wed, 29 Jul 2026 18:36:20 +0000"
-  },
-  {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "Wednesday assorted links",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-564.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-564",
-    "summary": "<p>1. Mark Zuckerberg on our AI future (WSJ). 2. Claims about beauty (recommended). 3. 26 charts of Australia in trouble. 4. Hans Moravec interview (right now ungated?). 5. Those new service sector therapist jobs end the fertility crisis too. 6. The Routledge Handbook of Classical Liberalism. 7. Profile of Reihan Salam (NYT).</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/wednesday-assorted-links-564.html\">Wednesday assorted links</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Wed, 29 Jul 2026 16:16:02 +0000"
-  },
-  {
     "source": "Aswath Damodaran",
     "title": "Information Timing and Release: The Gaming of Guidance!",
     "link": "https://aswathdamodaran.blogspot.com/2026/07/information-timing-and-release-gaming.html",
@@ -84,13 +84,6 @@
     "published": "Thu, 30 Jul 2026 15:00:00 GMT"
   },
   {
-    "source": "Federal Reserve Press",
-    "title": "Federal Reserve issues FOMC statement",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-    "summary": "Federal Reserve issues FOMC statement",
-    "published": "Wed, 29 Jul 2026 18:00:00 GMT"
-  },
-  {
     "source": "SEC Press",
     "title": "SEC Announces Continuation of Small Business Advisory Committee Meeting",
     "link": "https://www.sec.gov/newsroom/press-releases/2026-71-sec-announces-continuation-small-business-advisory-committee-meeting",
@@ -99,17 +92,24 @@
   },
   {
     "source": "NYT Business",
+    "title": "In Another Wild Day for South Korean Stocks, Market Surges 15 Percent",
+    "link": "https://www.nytimes.com/2026/07/31/business/korea-stocks-chips-kospi.html",
+    "summary": "After a sharp sell-off, South Korea’s stock market rallied as concerns about overspending on artificial intelligence eased, sending the country’s chip shares higher.",
+    "published": "Fri, 31 Jul 2026 04:04:18 +0000"
+  },
+  {
+    "source": "NYT Business",
     "title": "Bond Investors’ Inflation Angst Rises on Fed’s Lack of Guidance",
     "link": "https://www.nytimes.com/2026/07/30/business/federal-reserve-warsh-bonds.html",
     "summary": "The yield on government bonds, which underpins borrowing costs from mortgages to business loans, remained elevated over concerns about the Federal Reserve’s efforts to contain inflation.",
-    "published": "Thu, 30 Jul 2026 19:40:57 +0000"
+    "published": "Thu, 30 Jul 2026 19:40:58 +0000"
   },
   {
     "source": "NYT Business",
     "title": "A.I. Hedge Fund Situational Awareness Rescued by Rival Citadel",
     "link": "https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html",
     "summary": "The once-high-flying firm Situational Awareness, whose founder is 24, has been bailed out by Kenneth Griffin’s Citadel, according to three people briefed on the transaction.",
-    "published": "Thu, 30 Jul 2026 22:08:48 +0000"
+    "published": "Thu, 30 Jul 2026 22:08:49 +0000"
   },
   {
     "source": "NYT Business",
@@ -123,7 +123,7 @@
     "title": "ABC Formally Rebukes F.C.C. for Review of TV Licenses",
     "link": "https://www.nytimes.com/2026/07/30/business/media/abc-fcc-tv-licenses.html",
     "summary": "The network’s comments are part of its efforts to push back against the F.C.C.’s review of its local broadcast licenses.",
-    "published": "Thu, 30 Jul 2026 17:50:25 +0000"
+    "published": "Thu, 30 Jul 2026 17:50:26 +0000"
   },
   {
     "source": "NYT Business",
@@ -137,7 +137,7 @@
     "title": "U.S. GDP Growth Slowed in Second Quarter of 2026",
     "link": "https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html",
     "summary": "Gross domestic product grew at a slower rate in the second quarter and persistent price pressures are unsettling financial markets.",
-    "published": "Thu, 30 Jul 2026 16:29:06 +0000"
+    "published": "Thu, 30 Jul 2026 16:29:07 +0000"
   },
   {
     "source": "NYT Business",
@@ -151,7 +151,7 @@
     "title": "China, Its Economy Stumbling, Signals Only Cautious Support",
     "link": "https://www.nytimes.com/2026/07/30/business/china-economy-politburo.html",
     "summary": "The ruling Politburo called for “more proactive” tax and spending policies but did not endorse broad action to address weak consumer spending.",
-    "published": "Thu, 30 Jul 2026 13:59:53 +0000"
+    "published": "Thu, 30 Jul 2026 13:59:54 +0000"
   },
   {
     "source": "NYT Business",
@@ -159,13 +159,6 @@
     "link": "https://www.nytimes.com/2026/07/30/business/dealbook/fed-warsh-credibility-shock.html",
     "summary": "Bonds sold off sharply after the Federal Reserve’s latest rate decision, signaling growing turmoil between the markets and the central bank.",
     "published": "Thu, 30 Jul 2026 12:22:25 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "To Know What Your Customers Think, Just Ask Their A.I. Twins",
-    "link": "https://www.nytimes.com/2026/07/30/business/dealbook/simile-ai-agents-funding.html",
-    "summary": "Simile, a fast-growing start-up, says it can provide companies with accurate insights by surveying millions of A.I.-generated consumers.",
-    "published": "Thu, 30 Jul 2026 11:00:05 +0000"
   },
   {
     "source": "NYT Economy",
@@ -193,7 +186,7 @@
     "title": "China, Its Economy Stumbling, Signals Only Cautious Support",
     "link": "https://www.nytimes.com/2026/07/30/business/china-economy-politburo.html",
     "summary": "The ruling Politburo called for “more proactive” tax and spending policies but did not endorse broad action to address weak consumer spending.",
-    "published": "Thu, 30 Jul 2026 13:59:53 +0000"
+    "published": "Thu, 30 Jul 2026 13:59:54 +0000"
   },
   {
     "source": "NYT Economy",
@@ -218,24 +211,17 @@
   },
   {
     "source": "NYT Economy",
-    "title": "Investors Are Bracing for Uncertain Fed Announcement",
-    "link": "https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/investors-are-bracing-for-uncertain-fed-announcement",
-    "summary": "The central bank is expected to leave interest rates unchanged, but investors are preparing for a possible surprise.",
-    "published": "Wed, 29 Jul 2026 16:57:58 +0000"
-  },
-  {
-    "source": "NYT Economy",
-    "title": "What the Fed’s rate decision means for your finances.",
-    "link": "https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/what-the-feds-rate-decision-means-for-your-finances",
-    "summary": "The central bank’s stance can influence consumer savings and borrowing, from credit cards to home loans and more.",
-    "published": "Wed, 29 Jul 2026 18:38:15 +0000"
-  },
-  {
-    "source": "NYT Economy",
     "title": "Fed Holds Rates Steady but Three Officials Back Increase",
     "link": "https://www.nytimes.com/2026/07/29/business/economy/what-to-watch-at-the-meeting.html",
     "summary": "Kevin M. Warsh’s second meeting as chairman of the Federal Reserve was colored by internal divisions over the path forward for policy.",
     "published": "Wed, 29 Jul 2026 21:12:11 +0000"
+  },
+  {
+    "source": "NYT Economy",
+    "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
+    "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+    "summary": "The future of artificial intelligence depends on finding more skilled humans for some very physical jobs.",
+    "published": "Wed, 29 Jul 2026 20:34:04 +0000"
   },
   {
     "source": "NYT DealBook",
@@ -295,6 +281,13 @@
   },
   {
     "source": "BBC Business",
+    "title": "Sainsbury's agrees to sell Argos for £120m",
+    "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
+    "summary": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
+    "published": "Fri, 31 Jul 2026 07:21:43 GMT"
+  },
+  {
+    "source": "BBC Business",
     "title": "Thames Water boss says leakage targets 'not realistic'",
     "link": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss",
     "summary": "Chris Weston said Thames wanted \"to do better\" but some of its targets were not achievable.",
@@ -302,17 +295,38 @@
   },
   {
     "source": "BBC Business",
-    "title": "Anthropic says AI models hacked three firms during tests",
-    "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-    "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
-    "published": "Fri, 31 Jul 2026 00:41:45 GMT"
-  },
-  {
-    "source": "BBC Business",
     "title": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
     "link": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss",
     "summary": "Could you live communally in a disused building in exchange for a heavily discounted rent? Property guardians show us around.",
     "published": "Thu, 30 Jul 2026 23:05:41 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "South Korean shares soar after chip stock rout",
+    "link": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss",
+    "summary": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
+    "published": "Fri, 31 Jul 2026 06:56:02 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Anthropic's Claude AI escapes tests to hack three organisations",
+    "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+    "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+    "published": "Fri, 31 Jul 2026 04:31:30 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "India wants to join the strawberry superpowers",
+    "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
+    "published": "Thu, 30 Jul 2026 22:04:09 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
+    "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+    "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
+    "published": "Fri, 31 Jul 2026 01:31:50 GMT"
   },
   {
     "source": "BBC Business",
@@ -330,38 +344,10 @@
   },
   {
     "source": "BBC Business",
-    "title": "India wants to join the strawberry superpowers",
-    "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-    "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
-    "published": "Thu, 30 Jul 2026 22:04:09 GMT"
-  },
-  {
-    "source": "BBC Business",
     "title": "Bank holds interest rates but says it is ready to raise them if Iran war escalates",
     "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
     "summary": "The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war.",
     "published": "Thu, 30 Jul 2026 16:33:40 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "British Airways flight called mayday on approach to Heathrow",
-    "link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
-    "summary": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
-    "published": "Thu, 30 Jul 2026 17:34:26 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "Hundreds of jobs to go at Jaguar Land Rover",
-    "link": "https://www.bbc.co.uk/news/articles/cq6dmjv1jpdo?at_medium=RSS&at_campaign=rss",
-    "summary": "The car giant says it expects fewer than 300 people will lose their jobs.",
-    "published": "Thu, 30 Jul 2026 16:53:17 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
-    "link": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o?at_medium=RSS&at_campaign=rss",
-    "summary": "Andy Burnham says he told the US president he couldn't ignore North Sea resources when people are struggling.",
-    "published": "Thu, 30 Jul 2026 16:19:08 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
@@ -575,59 +561,66 @@
   },
   {
     "source": "Hacker News Top",
-    "title": "UEFA and its national associations will not participate in FIFA competitions",
-    "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-    "summary": "<p>Article URL: <a href=\"https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/\">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113929\">https://news.ycombinator.com/item?id=49113929</a></p>\n<p>Points: 735</p>\n<p># Comments: 418</p>",
-    "published": "Thu, 30 Jul 2026 18:40:52 +0000"
+    "title": "The AI Aesthetic",
+    "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "summary": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/ai-aesthetic/\">https://blog.jim-nielsen.com/2026/ai-aesthetic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49117099\">https://news.ycombinator.com/item?id=49117099</a></p>\n<p>Points: 278</p>\n<p># Comments: 119</p>",
+    "published": "Thu, 30 Jul 2026 23:22:16 +0000"
   },
   {
     "source": "Hacker News Top",
-    "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-    "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-    "summary": "<p>Article URL: <a href=\"https://www.bottlenecklabs.com/blog/autonomously-run-businesses\">https://www.bottlenecklabs.com/blog/autonomously-run-businesses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113059\">https://news.ycombinator.com/item?id=49113059</a></p>\n<p>Points: 284</p>\n<p># Comments: 177</p>",
-    "published": "Thu, 30 Jul 2026 17:31:07 +0000"
+    "title": "UEFA and its national associations will not participate in FIFA competitions",
+    "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+    "summary": "<p>Article URL: <a href=\"https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/\">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113929\">https://news.ycombinator.com/item?id=49113929</a></p>\n<p>Points: 942</p>\n<p># Comments: 518</p>",
+    "published": "Thu, 30 Jul 2026 18:40:52 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Advancing the price-performance frontier with GPT‑5.6",
     "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112867\">https://news.ycombinator.com/item?id=49112867</a></p>\n<p>Points: 479</p>\n<p># Comments: 313</p>",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112867\">https://news.ycombinator.com/item?id=49112867</a></p>\n<p>Points: 555</p>\n<p># Comments: 362</p>",
     "published": "Thu, 30 Jul 2026 17:15:51 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Read this before you buy that TV streaming stick",
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-    "summary": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/\">https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112744\">https://news.ycombinator.com/item?id=49112744</a></p>\n<p>Points: 532</p>\n<p># Comments: 311</p>",
+    "summary": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/\">https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112744\">https://news.ycombinator.com/item?id=49112744</a></p>\n<p>Points: 680</p>\n<p># Comments: 387</p>",
     "published": "Thu, 30 Jul 2026 17:04:53 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Stacked PRs are now live on GitHub",
     "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-    "summary": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/\">https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112232\">https://news.ycombinator.com/item?id=49112232</a></p>\n<p>Points: 437</p>\n<p># Comments: 154</p>",
+    "summary": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/\">https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112232\">https://news.ycombinator.com/item?id=49112232</a></p>\n<p>Points: 594</p>\n<p># Comments: 198</p>",
     "published": "Thu, 30 Jul 2026 16:26:16 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+    "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+    "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/\">https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49111305\">https://news.ycombinator.com/item?id=49111305</a></p>\n<p>Points: 203</p>\n<p># Comments: 121</p>",
+    "published": "Thu, 30 Jul 2026 15:22:46 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Gemini Robotics 2 brings whole body intelligence to robots",
     "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-    "summary": "<p>Article URL: <a href=\"https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/\">https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49111237\">https://news.ycombinator.com/item?id=49111237</a></p>\n<p>Points: 460</p>\n<p># Comments: 389</p>",
+    "summary": "<p>Article URL: <a href=\"https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/\">https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49111237\">https://news.ycombinator.com/item?id=49111237</a></p>\n<p>Points: 538</p>\n<p># Comments: 430</p>",
     "published": "Thu, 30 Jul 2026 15:15:48 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "The Economic Benefit of Refactoring",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+    "summary": "<p>Article URL: <a href=\"https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html\">https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49111176\">https://news.ycombinator.com/item?id=49111176</a></p>\n<p>Points: 228</p>\n<p># Comments: 92</p>",
+    "published": "Thu, 30 Jul 2026 15:10:27 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "GCC steering committee announces AI policy",
     "link": "https://lwn.net/Articles/1086041/",
-    "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1086041/\">https://lwn.net/Articles/1086041/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108685\">https://news.ycombinator.com/item?id=49108685</a></p>\n<p>Points: 234</p>\n<p># Comments: 272</p>",
+    "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1086041/\">https://lwn.net/Articles/1086041/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108685\">https://news.ycombinator.com/item?id=49108685</a></p>\n<p>Points: 275</p>\n<p># Comments: 308</p>",
     "published": "Thu, 30 Jul 2026 11:45:44 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Google will expand age checks on Android worldwide till the end of the year",
-    "link": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
-    "summary": "<p>Article URL: <a href=\"https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html\">https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49107950\">https://news.ycombinator.com/item?id=49107950</a></p>\n<p>Points: 343</p>\n<p># Comments: 424</p>",
-    "published": "Thu, 30 Jul 2026 10:13:46 +0000"
   },
   {
     "source": "Ars Technica",
@@ -679,27 +672,6 @@
     "published": "Wed, 29 Jul 2026 19:23:27 +0000"
   },
   {
-    "source": "Ars Technica",
-    "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
-    "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
-    "summary": "Google's new API relies on parents to set age ranges in Family Link.",
-    "published": "Wed, 29 Jul 2026 18:08:22 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
-    "link": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
-    "summary": "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional.",
-    "published": "Wed, 29 Jul 2026 17:58:24 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
-    "link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
-    "summary": "Companies are making sure we have a surplus of options for building qubits.",
-    "published": "Wed, 29 Jul 2026 17:37:47 +0000"
-  },
-  {
     "source": "MIT Tech Review",
     "title": "Montana’s plan to become an experimental medical hub just pushed forward",
     "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
@@ -721,11 +693,46 @@
     "published": "Thu, 30 Jul 2026 10:15:19 +0000"
   },
   {
-    "source": "MIT Tech Review",
-    "title": "How an overlooked geothermal plant got a second chance",
-    "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-    "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again, thanks to a new&#8230;",
-    "published": "Wed, 29 Jul 2026 17:58:44 +0000"
+    "source": "SCMP Business",
+    "title": "China’s Xiaomi takes aim at Tesla, staking 23% lower price on premium SUV",
+    "link": "https://www.scmp.com/business/china-business/article/3362494/chinas-xiaomi-takes-aim-tesla-staking-23-lower-price-premium-suv?utm_source=rss_feed",
+    "summary": "Xiaomi, one of Tesla’s biggest challengers in mainland China over the past year, has priced its newest cars at a 23 per cent discount to the US carmaker’s Model Y L SUV amid intensified competition in the country’s premium electric vehicle (EV) segment.\nBeijing-based Xiaomi announced on Thursday that the five-seat N70 Max model under its new extended-range SkyNomad series would sell at 259,900 yuan (US$38,474), while the seven-seat N90 Max would start at 299,900 yuan, with deliveries of both...",
+    "published": "Fri, 31 Jul 2026 06:06:11 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Politburo meeting boosts confidence that Beijing will support troubled stock markets",
+    "link": "https://www.scmp.com/business/china-business/article/3362485/politburo-meeting-boosts-confidence-beijing-will-support-troubled-stock-markets?utm_source=rss_feed",
+    "summary": "China’s Politburo meeting has stoked speculation about more policy support for the country’s stock markets after the first leg of state buying did little to stem a decline that drove technology shares to their biggest-ever monthly slide.\nThe economic-policy huddle, chaired by President Xi Jinping, made a rare reference to stocks by pledging to bolster resilience and confidence in capital markets, according to a readout released on Thursday. The Communist Party’s prime decision-making body also...",
+    "published": "Fri, 31 Jul 2026 04:31:17 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Elite company: the listed firms that were China’s most valuable before CXMT",
+    "link": "https://www.scmp.com/business/markets/article/3362459/elite-company-listed-firms-were-chinas-most-valuable-cxmt?utm_source=rss_feed",
+    "summary": "After soaring 466 per cent in its Shanghai trading debut on Monday, ChangXin Memory Technologies (CXMT) became the most valuable company on mainland China’s stock market – the first semiconductor firm to hold the top spot in the market’s 35-year history.\nThe state-backed maker of memory chips saw its market capitalisation surpass 4 trillion yuan (US$592 billion) on Friday amid a broader chip stock surge. It first ascended to the top of the list on Monday, ending its first trading day with a...",
+    "published": "Fri, 31 Jul 2026 03:00:05 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Tim Cook warns of slow Siri AI roll-out in China, worsening memory crisis",
+    "link": "https://www.scmp.com/tech/big-tech/article/3362464/tim-cook-warns-slow-siri-ai-roll-out-china-worsening-memory-crisis?utm_source=rss_feed",
+    "summary": "Apple is taking its first concrete steps to roll out initial artificial intelligence (AI) features in China, but CEO Tim Cook warned that a full integration of a revamped Siri AI there would take longer.\nMainland Chinese consumers would first get a targeted suite of original Apple Intelligence capabilities, including the Clean Up photo-editing tool, which allows users to erase unwanted objects in photos, according to Cook.\n“We are working now through the roll-out of those, and there will be more...",
+    "published": "Fri, 31 Jul 2026 02:31:02 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Cross-border investment still ‘robust’ despite China’s growing controls: CICC",
+    "link": "https://www.scmp.com/business/banking-finance/article/3362458/cross-border-investment-still-robust-despite-chinas-growing-controls-cicc?utm_source=rss_feed",
+    "summary": "Beijing’s heightened scrutiny of overseas portfolio investment and tax practices has yet to significantly weaken mainland investors’ demand for legitimate cross-border investments, according to China International Capital Corporation (CICC).\nThe Beijing-headquartered investment bank is still seeing “robust” demand from its domestic clients, though the long-term effects of the policy tightening will need to be closely monitored, said Qiao Bo, head of investment products and solutions and a...",
+    "published": "Fri, 31 Jul 2026 02:00:31 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Beyond the Pitch: How IdeaPOP! Is Teaching Students to Build Social Innovation That Works",
+    "link": "https://www.scmp.com/presented/business/topics/igniting-minds-building-futures/article/3361979/beyond-pitch-how-ideapop-teaching-students-build-social-innovation-works?utm_source=rss_feed",
+    "summary": "[The content of this article has been produced by our advertising partner.]\nWhen the SEED Foundation began reviewing applications for IdeaPOP! 2026, a pattern emerged almost immediately. Across more than a hundred submissions from Hong Kong secondary school students, artificial intelligence featured in nearly every proposal.\nThat observation raised a more important question than whether students knew how to use AI. Were they learning how to apply it with judgment — and, more importantly, how to...",
+    "published": "Fri, 31 Jul 2026 01:00:06 +0000"
   },
   {
     "source": "SCMP Business",
@@ -754,47 +761,5 @@
     "link": "https://www.scmp.com/business/banking-finance/article/3362425/hongkong-land-acquires-singapores-wheelock-place-us900m-deal?utm_source=rss_feed",
     "summary": "Hongkong Land will acquire Singapore’s Wheelock Place for about S$1.1 billion (US$900 million) through its Singapore Central Private Real Estate Fund (SCPREF), marking the fund’s first acquisition since its launch in February.\nThe mixed-use commercial property on Orchard Road is being acquired from an entity owned by Hong Kong-listed Wharf Real Estate Investment Company, according to a statement released by Hongkong Land on Thursday. The transaction is expected to conclude by the end of...",
     "published": "Thu, 30 Jul 2026 12:46:20 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "ByteDance’s US$4b projected AI revenue tops China as it restructures office tool Lark",
-    "link": "https://www.scmp.com/tech/article/3362417/bytedances-us4b-projected-ai-revenue-tops-china-it-restructures-office-tool-lark?utm_source=rss_feed",
-    "summary": "ByteDance has integrated its enterprise collaboration unit into other teams, a move that sharpens its focus on using artificial intelligence to serve corporate clients as annualised AI revenue of US$4 billion pushes it to the front of the pack in China, according to sources.\nThe Beijing-based company decided to integrate the product team of office tool Lark, known as Feishu domestically, into the product team in charge of the Doubao AI chatbot, according to an internal memo seen by the South...",
-    "published": "Thu, 30 Jul 2026 12:30:16 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Ant Group spin-offs pursue independent growth with strategic capital moves",
-    "link": "https://www.scmp.com/tech/big-tech/article/3362420/ant-group-spin-offs-pursue-independent-growth-strategic-capital-moves?utm_source=rss_feed",
-    "summary": "The three independent spin-offs of Chinese fintech giant Ant Group are accelerating their capital-raising efforts, forging distinct financial paths after gaining operational autonomy in 2024.\nAnt Digital Technologies is preparing a financing round ahead of its initial public offering, according to Chinese financial news outlet STAR Market Daily, marking the latest strategic move from one of the units that it spun off. Details regarding the round’s valuation, target size, timeline or planned...",
-    "published": "Thu, 30 Jul 2026 11:39:36 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Chinese motorcycle exports roar to record highs amid tech gains, upmarket push",
-    "link": "https://www.scmp.com/economy/article/3362342/chinese-motorcycle-exports-roar-record-highs-amid-tech-gains-upmarket-push?utm_source=rss_feed",
-    "summary": "Chinese motorcycle exports hit a record in the first half of the year as domestic manufacturers, armed with their own technology gains, targeted upmarket segments long dominated by Honda, Yamaha and BMW.\nExports reached 26.2 million units worth US$11.28 billion, rising 23.2 per cent in volume and 26.3 per cent in value year on year, according to Chinese customs data.\nShipments to the US climbed 40 per cent to more than 3.9 million motorcycles, valued at US$1.13 billion. Unlike Chinese electric...",
-    "published": "Thu, 30 Jul 2026 11:00:13 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Hong Kong regulators freeze US$15.9 million linked to suspected IPO fraud",
-    "link": "https://www.scmp.com/business/banking-finance/article/3362411/hong-kong-regulators-freeze-us159-million-linked-suspected-ipo-fraud?utm_source=rss_feed",
-    "summary": "Hong Kong’s securities regulator has frozen more than HK$125 million (US$15.9 million) in assets linked to a suspected market manipulation scheme, as authorities tighten oversight of the city’s booming IPO market.\nThe Securities and Futures Commission (SFC) said on Thursday that it had issued a restriction notice to Futu, prohibiting the brokerage from dealing with or processing up to HK$125.247 million in assets held by an entity suspected of creating artificial demand for shares in an initial...",
-    "published": "Thu, 30 Jul 2026 10:44:29 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "US-listed Chinese stocks benefit as Fed policy haze drives rotation amid AI slump",
-    "link": "https://www.scmp.com/business/china-business/article/3362385/us-listed-chinese-stocks-benefit-fed-policy-haze-drives-rotation-amid-ai-slump?utm_source=rss_feed",
-    "summary": "Chinese stocks trading overseas may emerge as a shelter for global investors, as confusion over the Federal Reserve’s monetary path drives diversification away from US equities and bonds amid a stumbling artificial intelligence trade.\nThe Nasdaq Golden Dragon China Index of the biggest Chinese companies listed in the US has bucked a broader sell-off since the Fed’s July rate-decision meeting, rising 1.7 per cent.\nThe Nasdaq-100 slumped 2.1 per cent and longer-dated Treasuries also fell during...",
-    "published": "Thu, 30 Jul 2026 10:00:15 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "AI stock rout fells Innolight after mega Hong Kong IPO",
-    "link": "https://www.scmp.com/plus/business/companies/article/3362388/ai-stock-rout-fells-innolight-after-mega-hong-kong-ipo?utm_source=rss_feed",
-    "summary": "Zhongji Innolight fell on its trading debut after Hong Kong’s biggest initial public offering in seven years amid souring appetite worldwide for artificial intelligence (AI) shares.\nThe stock closed down 2 per cent after earlier plunging as much as 10 per cent. Shenzhen-listed shares of Innolight, which supplies AI data-centre operators such as Amazon and Alphabet, tumbled 9.2 per cent, extending declines from a June peak to 38 per cent. Prior to the sell-off, the stock had surged almost 10-fold...",
-    "published": "Thu, 30 Jul 2026 09:06:47 +0000"
   }
 ]
