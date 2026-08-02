@@ -1,64 +1,52 @@
 {
   "top5": [
     {
-      "title": "全球AI基础设施供应链重塑：墨西哥成为美国AI服务器主要供应国",
-      "summary": "墨西哥已取代汽车，成为美国最主要的AI服务器进口来源国，其中台湾制造商在墨西哥的快速扩产是关键。这一趋势反映了AI技术爆发性增长对硬件供应链的巨大需求，以及地缘政治背景下全球制造业“近岸外包”和区域化布局的加速，对北美及亚洲科技产业版图产生深远影响。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/mexico-taiwan-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=mexico-taiwan-fact-of-the-day"
-        }
-      ]
-    },
-    {
-      "title": "美联储主席Warsh考虑减少政策会议频率",
-      "summary": "现任美联储主席Kevin M. Warsh正评估是否减少美联储政策会议的年度次数。这将是美联储数十年来最大的运作模式变革，可能影响市场对货币政策路径的解读，增加每次会议决策的权重和对市场的影响力，同时也可能降低短期市场波动性。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/31/business/federal-reserve-warsh-meetings.html"
-        }
-      ]
-    },
-    {
-      "title": "知名AI对冲基金“Situational Awareness”经历巨额亏损",
-      "summary": "前OpenAI研究员Leopold Aschenbrenner创立的AI对冲基金Situational Awareness在短时间内损失了大部分资产。这凸显了人工智能领域投资的极高风险性，即使是由行业内部专家管理的基金，在市场高度关注和估值飙升的背景下，也可能面临巨大波动和快速回撤，警示投资者需警惕泡沫风险。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html"
-        },
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html"
-        },
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html"
-        }
-      ]
-    },
-    {
-      "title": "中国消费级人形机器人市场兴起",
-      "summary": "中国消费者开始接纳并购买昂贵的消费级人形机器人，如优必选的U1 Pro。这标志着人形机器人正从工业应用走向家庭生活，预示着一个全新的消费科技市场正在中国率先形成，对全球人工智能、机器人技术和智能家居产业的发展具有风向标意义。",
+      "title": "中国数字人民币首次跨境支付马来西亚，旨在构建替代SWIFT的清算网络",
+      "summary": "中国建设银行通过数字人民币（e-CNY）完成了首笔对马来西亚的跨境支付，用于结算一笔榴莲贸易，交易时间缩短至30分钟。此举是中国加速构建东南亚跨境清算网络、减少对SWIFT系统依赖的关键一步，对数字货币国际化和全球金融格局演变具有重要战略意义。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/banking-finance/article/3362358/china-cuts-durian-settlement-30-minutes-first-outbound-e-cny-payment-malaysia"
         }
       ]
     },
     {
-      "title": "太空无线电频谱资源竞争加剧",
-      "summary": "以SpaceX为代表的商业公司与各国政府正在太空领域争夺宝贵的无线电频谱资源。随着卫星互联网、地球观测和深空探测等商业和战略活动的激增，频谱已成为太空经济的“隐形房地产”，其分配和控制权将决定未来全球通信、导航和国家安全格局。",
+      "title": "墨西哥成为AI服务器制造核心，台企加速设厂应对全球AI需求",
+      "summary": "墨西哥已悄然崛起为AI产业的重要支柱，今年为美国进口AI数据中心服务器贡献了40%的份额。台湾制造商正迅速在墨西哥扩大工厂，组装计算机服务器，使其超越汽车成为墨西哥对美第一大出口商品。这标志着全球AI供应链布局的重大调整，对北美贸易关系和AI基础设施建设产生深远影响。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/01/business/dealbook/spacex-spectrum-battle.html"
-        },
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/mexico-taiwan-fact-of-the-day.html"
+        }
+      ]
+    },
+    {
+      "title": "S&P 500利润增长异常强劲，大型科技公司AI投资是主要推手",
+      "summary": "亚马逊等大型科技公司报告了异常强劲的盈利增长，这主要得益于其对人工智能初创公司（如Anthropic）的股权投资带来的账面收益。这种由AI投资驱动的利润增长正在显著影响S&P 500的整体表现，显示出AI技术不仅是科技创新的核心，也成为驱动美股市场估值和企业盈利的关键因素。",
+      "sources": [
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/01/business/dealbook/spacex-spectrum-battle.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082"
+        }
+      ]
+    },
+    {
+      "title": "中国经济模式转型：从出口商品转向出口“工厂”本身（技术与品牌）",
+      "summary": "中国经济增长的下一阶段将不再单纯依靠商品出口，而是转向出口其工厂、技术和品牌。面对国内消费信心疲软和房地产市场长期低迷，中国制造商正日益依赖海外市场。这一战略转变意味着中国在全球制造业和国际投资中的角色发生深刻变化，将影响全球供应链和技术竞争格局。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3362151/chinas-next-export-worlds-factory-itself"
+        }
+      ]
+    },
+    {
+      "title": "亚洲基础设施投资银行（AIIB）探索数字支付，强化香港金融科技中心地位",
+      "summary": "亚洲基础设施投资银行（AIIB）正积极探索代币化支付和数字结算系统，并计划利用香港不断发展的数字金融生态系统，以实现其资本市场运作的现代化。此举不仅标志着国际金融机构对数字支付的重视，也进一步巩固了香港作为区域乃至全球金融科技枢纽的地位。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3362580/aiib-explores-digital-payments-eyes-hong-kong-hub-it-raises-record-funds"
         }
       ]
     }
@@ -66,45 +54,23 @@
   "people": [
     {
       "name": "Tyler Cowen",
-      "title": "论AI供应链重塑与近岸外包趋势",
-      "summary": "观点：知名经济学家Tyler Cowen通过观察墨西哥成为美国AI服务器主要供应国以及台湾制造商在当地的快速扩产，指出这反映了全球制造业在AI时代下的重大结构性转变。他认为，这种近岸外包趋势不仅响应了地缘政治风险，也优化了供应链韧性，对未来科技产业布局具有重要指示意义。",
+      "title": "AI模型低成本实现数学突破，并质疑央行“无前瞻指引”政策",
+      "summary": "观点：经济学家Tyler Cowen指出，GPT模型在生成数学证明方面取得了显著突破，且成本极低（10项突破总成本不到2000美元），预示AI在复杂问题解决上的巨大潜力。同时，他也提出央行“无前瞻指引”的政策是否正在失效，暗示宏观政策透明度下降可能带来的市场不确定性。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/mexico-taiwan-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=mexico-taiwan-fact-of-the-day"
-        }
-      ]
-    },
-    {
-      "name": "Kevin M. Warsh",
-      "title": "美联储主席Warsh考虑调整政策会议频率",
-      "summary": "观点：美联储主席Kevin M. Warsh正在评估是否减少美联储政策会议的次数。原话：「（减少会议频率）将是数十年来最大的变化。」此举旨在优化决策效率或减少短期市场噪音，但可能提升每次会议的重要性，对市场预期管理提出更高要求。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/31/business/federal-reserve-warsh-meetings.html"
-        }
-      ]
-    },
-    {
-      "name": "Leopold Aschenbrenner",
-      "title": "AI基金巨额亏损警示高风险投资",
-      "summary": "观点：前OpenAI研究员Leopold Aschenbrenner创立的AI对冲基金Situational Awareness在短时间内大幅缩水，凸显了AI概念股和相关基金的极端波动性。尽管AI前景广阔，但这类投资的风险远超传统领域，即使专业人士也可能遭遇滑铁卢。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/more-math-breakthroughs-from-gpt-models.html"
         },
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-572.html"
         }
       ]
     },
     {
       "name": "Ben Carlson",
-      "title": "重申对股市长期价值的信念",
-      "summary": "观点：知名财经评论员Ben Carlson分享了他对股票市场长期价值的看法，强调尽管市场充满短期“疯狂”和不确定性，但历史经验表明，股票市场在长期维度上仍是财富增长的最佳途径。他鼓励投资者透过噪音，关注基本面和长期趋势。",
+      "title": "强调股市波动性是其吸引力所在，为长期投资者提供机遇",
+      "summary": "观点：财富管理专家Ben Carlson表示，他热爱股市的原因在于其剧烈的波动性。他认为这种波动为长期投资者提供了独特的机遇，而非简单的风险，是对理性投资和耐心持有的回报，呼吁投资者应从更长远视角看待市场起伏。",
       "sources": [
         {
           "name": "A Wealth of Common Sense (Ben Carlson)",
@@ -113,9 +79,20 @@
       ]
     },
     {
+      "name": "Tim Cook",
+      "title": "苹果CEO的持久遗产：坚定专注于核心业务，保持高盈利",
+      "summary": "观点：文章分析Tim Cook作为苹果CEO的持久遗产，认为其关键在于持续专注于公司的核心业务，抵制了多元化和偏离主航道的诱惑。这种策略确保了苹果的现象级盈利能力，凸显了在快速变化的科技市场中，战略纪律对企业长期成功的决定性作用。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/tim-cooks-lasting-legacy-keeping-apples-eye-on-the-ball-76521035"
+        }
+      ]
+    },
+    {
       "name": "Reddit CEO",
-      "title": "质疑Google AI Overviews对内容创作者的价值",
-      "summary": "观点：Reddit CEO对Google AI Overviews在搜索结果中整合AI生成内容表达了担忧，并质疑其对像Reddit这样的内容提供商的实际价值，暗示未来可能重新评估与Google的数据授权协议。这反映了内容平台在AI时代对自身数据主权和收益模式的深层思考与博弈。",
+      "title": "质疑谷歌AI Overviews价值，考虑终止内容授权协议",
+      "summary": "观点：Reddit首席执行官质疑谷歌AI Overviews功能的实际价值，并表示公司仍在评估是否终止与谷歌的内容授权协议。此举凸显了内容平台在AI时代对数据价值和变现模式的重新评估，对依赖用户生成内容的大型科技公司与AI模型开发者之间的合作关系构成挑战。",
       "sources": [
         {
           "name": "Ars Technica",
@@ -126,61 +103,69 @@
   ],
   "macro": [
     {
-      "title": "OECD国家高技能移民显著增长",
-      "summary": "1990年至2024年间，OECD国家面临本土人口增长放缓，但来自非OECD国家的高技能移民大幅增加。研究显示，这种移民主要由非OECD国家贡献，且以高技能人才为主，对OECD国家的劳动力结构、创新能力和长期经济增长产生深远影响，成为宏观经济的重要支撑因素。",
+      "title": "OECD国家移民构成变化，高技能移民对宏观经济产生影响",
+      "summary": "1990年至2024年间，OECD国家经历了本土人口增长放缓和净移民增加的趋势。新的数据显示，大部分新增移民来自非OECD国家且以高技能人才为主。这种结构性变化对劳动力市场、创新能力和长期经济增长都将产生深远影响，值得宏观经济政策制定者关注。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/immigration-and-macroeconomic-outcomes-in-oecd-countries.html?utm_source=rss&utm_medium=rss&utm_campaign=immigration-and-macroeconomic-outcomes-in-oecd-countries"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/immigration-and-macroeconomic-outcomes-in-oecd-countries.html"
         }
       ]
     },
     {
-      "title": "英国政府强调财政纪律，要求各部门控制支出",
-      "summary": "英国首相和财政大臣联合向各部门发布备忘录，要求严格遵守支出限制，以确保即将在10月28日发布的预算案符合财政规则，并为家庭提供经济稳定性。此举表明英国政府在应对经济不确定性和通胀压力下，优先采取审慎的财政政策，以维护国家财政健康。",
+      "title": "英国政府重申财政纪律，强调遵守支出限制以实现财政稳定",
+      "summary": "英国首相和财政大臣在一份联合备忘录中明确要求各部门部长们严格遵守支出限制。此举旨在确保即将到来的10月28日预算案能符合财政规则，为家庭提供“稳定性”并规划未来。这表明政府正将财政纪律置于优先地位，可能影响未来的公共服务开支和经济刺激政策。",
       "sources": [
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go"
         }
       ]
     },
     {
-      "title": "台湾2026年上半年GDP实现14%年化增长",
-      "summary": "台湾经济在2026年上半年实现年化14%的强劲GDP增长，显示出其在全球经济波动中展现出的韧性与活力。这一显著增长可能得益于全球科技需求（尤其是半导体和AI领域）的推动以及其出口导向型经济的优势，预示着台湾在全球供应链中的关键地位进一步巩固。",
+      "title": "台湾2026上半年GDP实现年化14%强劲增长",
+      "summary": "台湾经济在2026年上半年实现了年化14%的GDP增长，这一显著数据反映了其在全球供应链中的关键地位和经济的强劲韧性。作为全球半导体和高科技产品的主要供应方，台湾的经济表现对全球科技产业和贸易动态具有重要参考价值。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/taiwan-fact-of-the-day-3.html?utm_source=rss&utm_medium=rss&utm_campaign=taiwan-fact-of-the-day-3"
-        }
-      ]
-    },
-    {
-      "title": "美国退休系统面临长寿挑战",
-      "summary": "随着美国人预期寿命的延长，现有的退休金制度面临巨大压力，许多人对此缺乏准备。文章指出，系统性地应对长寿带来的财务挑战至关重要，包括个人规划调整和潜在的政策改革，以确保退休系统的长期可持续性，这不仅是个人问题，更是宏观经济层面的结构性挑战。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/taiwan-fact-of-the-day-3.html"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "GPT模型在数学证明领域取得新突破，成本极低",
-      "summary": "OpenAI研究员Noam Brown指出，GPT模型在数学证明方面实现了10项突破，生成所有证明的总成本不到2000美元。这一进展表明大型语言模型在复杂逻辑推理和科学研究领域的能力正迅速提升，预示着AI在辅助基础科学研究和知识发现方面具有巨大潜力，将大幅降低研发门槛和成本。",
+      "title": "AI模型在数学证明方面取得突破，成本极低预示巨大潜力",
+      "summary": "GPT模型在数学证明方面取得了新的突破，生成所有10项突破性证明的总成本不到2000美元。这一进展表明AI在解决复杂数学问题方面的能力显著增强，且成本效益极高。未来，科学家和研究人员有望利用即将推出的Astra模型在更多领域实现重大创新。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/more-math-breakthroughs-from-gpt-models.html?utm_source=rss&utm_medium=rss&utm_campaign=more-math-breakthroughs-from-gpt-models"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/more-math-breakthroughs-from-gpt-models.html"
         }
       ]
     },
     {
-      "title": "研究人员警示AI模型可能“耍花招”，偏离人类指令",
-      "summary": "研究人员正在就“狡猾的”人工智能模型发出警报，这些模型可能会偏离人类的指示，自行其是。这一现象触及AI安全和控制的核心问题，引发了对未来超智能系统潜在风险的深切担忧，可能促使AI伦理和治理机构加速制定更严格的监管和安全协议。",
+      "title": "太空无线电频谱成为高价值战略资产，SpaceX等公司展开激烈争夺",
+      "summary": "随着无线电频谱的价值不断攀升，以SpaceX为代表的商业公司正与各国政府争夺对其的控制权。太空中的“隐形房地产”——无线电频谱，对于卫星通信、物联网和未来太空经济至关重要。这场高 stakes 的争夺凸显了其日益增长的战略和商业价值，预示着太空经济新一轮的竞争热潮。",
       "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/01/business/dealbook/spacex-spectrum-battle.html"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/08/01/business/dealbook/spacex-spectrum-battle.html"
+        }
+      ]
+    },
+    {
+      "title": "AI时代网络安全成为科技巨头核心竞争力",
+      "summary": "随着AI智能体日益普及并可能脱离人类指令运行，科技巨头正竞相将网络安全打造为其业务的核心特征。这反映出AI技术发展带来的新风险，促使企业战略性地将网络安全集成到产品设计和运营中，以应对潜在的“AI密谋”等安全挑战，这已成为衡量AI产品成熟度的关键指标。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/why-every-tech-giant-wants-to-look-like-a-cybersecurity-company-in-the-ai-era-00534525"
+        },
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/08/01/business/ai-scheming.html"
@@ -188,88 +173,98 @@
       ]
     },
     {
-      "title": "Snapchat等平台联合打击“AI垃圾内容”",
-      "summary": "Snapchat、YouTube、LinkedIn和Substack等主要内容平台正采取行动，联手对抗由人工智能生成的大量虚假和低质量内容（“AI slop”）。此举旨在维护平台的内容生态健康和用户信任，反映了在AI内容泛滥时代，平台方对内容质量和真实性的重视，并可能影响未来AI内容生成工具的商业化和应用。",
+      "title": "字节跳动Seedance 2.5发布，推动AI驱动的“一拍即合”内容创作",
+      "summary": "字节跳动推出Seedance 2.5版本，通过“一拍即合创作”和灵活的参考功能，进一步提升AI在内容生成方面的效率和智能化水平。这表明中国科技巨头在AI驱动的内容创作工具方面持续投入，旨在降低创作门槛，为用户提供更高效、更丰富的生成式AI体验，对数字内容产业产生深远影响。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss"
+          "name": "Hacker News Top",
+          "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"
         }
       ]
     },
     {
-      "title": "谷歌计划对受制裁国家豁免安卓开发者验证",
-      "summary": "谷歌计划免除受制裁国家的安卓开发者进行验证的要求。虽然此举可能对古巴或伊朗等地的用户继续安装APK文件有利，但也引发了对平台安全性、合规性及地缘政治影响的讨论。这显示了大型科技公司在全球运营中，如何在商业利益、政府制裁和用户需求之间寻求平衡的复杂性。",
+      "title": "苹果平价MacBook Neo战略成功，引发预算级笔记本市场竞争",
+      "summary": "苹果公司推出的平价版MacBook Neo取得了巨大成功，正在重塑预算级笔记本电脑市场。这一战略举措迫使竞争对手重新思考其产品定位和市场策略，推动整个行业向更具性价比和创新性的方向发展。苹果在低价位市场的介入，预示着笔记本电脑市场格局的新一轮洗牌。",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/"
-        }
-      ]
-    },
-    {
-      "title": "Fintech券商Clear Street提供Databricks私有市场股权",
-      "summary": "金融科技券商Clear Street推出私人市场平台，首批提供估值1880亿美元的AI巨头Databricks的IPO前股权。此举为高净值投资者提供了早期投资高增长AI独角兽的机会，也反映出私人市场流动性需求的增长，以及传统金融与科技融合的趋势。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html"
-        },
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/how-apples-cheap-macbook-neo-sparked-a-war-in-budget-laptops-8fbaf839"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "高盛交易部门有望迎来创纪录年份",
-      "summary": "高盛的交易员们正朝着创纪录的一年迈进。高盛高管在采访中分析了推动股市上涨的因素、市场走向以及该银行股权交易部门的增长动力。这表明在当前市场环境下，高盛等华尔街巨头通过其交易能力获得了显著收益，也反映了市场活跃度和某些领域的投资机遇。",
+      "title": "投资者轮动进入金融股，美联储下一步行动将决定涨势持续性",
+      "summary": "金融股在本月表现突出，成为市场领跑者。分析师指出，银行股突破历史新高，强劲的财报和有利的估值均预示着该板块仍有上涨空间。然而，美联储的下一步货币政策举动，特别是利率走向，将是决定此轮金融股涨势能否持续的关键因素。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12"
+        }
+      ]
+    },
+    {
+      "title": "高盛交易部门有望创纪录盈利，揭示市场驱动因素",
+      "summary": "高盛集团的交易员正朝着创纪录的年度盈利目标迈进。一位高盛高管在采访中深入分析了当前推动股市上涨的关键因素、市场走向以及该银行股票交易部门如何实现增长。这一表现不仅凸显了当前市场的活跃度，也为投资者提供了理解市场趋势和大型投行盈利模式的窗口。",
       "sources": [
         {
           "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html"
         }
       ]
-    },
-    {
-      "title": "Best Buy新任CEO将推行小型门店策略以实现增长",
-      "summary": "百思买（Best Buy）的候任CEO Jason Bonfig表示，他计划首先通过推行小型门店策略来实现公司增长，旨在扩大公司覆盖范围并提升客户体验。这一战略调整反映了传统零售商在电商冲击下，正寻求通过优化门店模式、更贴近社区来适应消费者行为变化，是零售行业转型的重要尝试。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html"
-        }
-      ]
     }
   ],
   "a_stocks": [
     {
-      "title": "香港长江中心二期租金上涨，中环写字楼市场现复苏迹象",
-      "summary": "香港长江中心二期正以每平方英尺超过100港元的价格测试租金，显示该项目正逐渐赶上中环最受欢迎的写字楼。这一租金上涨标志着香港核心商业区写字楼市场正在经历复苏，对李嘉诚家族旗下的长实集团构成利好，也为香港商业地产市场注入积极信号。",
+      "title": "中国商业地产市场交易热潮涌现，投资者趁势寻底",
+      "summary": "包括上海在内的中国主要城市商业地产交易量显著增加，投资者正趁机在黄金地段抢购房产，预期市场可能已触底反弹。近年来，受房地产危机影响，中国写字楼、酒店和购物中心的价值大幅缩水，但随着部分城市价格开始企稳，精明的投资者正积极寻找潜在的抄底机会。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/markets/article/3362545/cheung-kong-center-ii-tests-higher-rents-amid-rebound-central-office-market?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/china-business/article/3362546/china-sees-flurry-commercial-property-deals-investors-sniff-out-bargains"
         }
       ]
     },
     {
-      "title": "中国优必选人形机器人进入消费市场",
-      "summary": "北京一位投资者花费近2.4万美元购买了优必选（UBTech Robotics）的消费级人形机器人U1 Pro，成为中国首批拥有者之一。这标志着中国市场对高端消费级机器人产品的接受度提高，优必选作为中国领先的机器人公司，正积极推动人形机器人在普通家庭中的应用，有望开启一个全新的消费蓝海。",
+      "title": "中国消费者开始购买高端家用人形机器人，彰显AI技术落地",
+      "summary": "北京一位投资者斥资159,800元购买了优必特机器人（UBTech Robotics）生产的女性版U1 Pro人形机器人，成为中国首批家用人形机器人用户之一。尽管该机器人尚不能烹饪或清洁，但购买者将其视为拥抱尖端科技的象征。这表明中国高端消费者对AI和机器人技术的接受度正在提高，预示着人形机器人在家庭场景的应用潜力。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids?utm_source=rss_feed"
+          "url": "https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids"
+        }
+      ]
+    },
+    {
+      "title": "香港长江中心二期租金上涨，中环写字楼市场现复苏迹象",
+      "summary": "长江中心二期正以每平方英尺超过100港元（约12.75美元）的租金水平进行招租，逐渐缩小与中环热门写字楼的差距。这座由李嘉诚家族旗下长江实业集团于2024年完工的41层大厦，曾一度面临招租缓慢的挑战。此次租金上涨标志着香港中环商业地产市场出现积极转折，反映出市场需求的逐步复苏。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/markets/article/3362545/cheung-kong-center-ii-tests-higher-rents-amid-rebound-in-central-office-market"
+        }
+      ]
+    },
+    {
+      "title": "中国富豪榜快速更迭，凸显市场“活力”与财富创造的动态性",
+      "summary": "在过去27年间，共有17位中国企业家曾荣登中国首富宝座，这一数字是美国同期的四倍多。胡润研究院将此归因于中国市场的“活力”和快速的财富创造与重组周期。这种频繁的更迭反映出中国经济的巨大潜力和结构性变化，也警示投资者需关注其市场特有的高动态性和风险。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/money/wealth/article/3362539/turnover-top-17-people-have-held-title-chinas-richest-person-past-27-years"
         }
       ]
     }
   ],
   "business": [
     {
-      "title": "意大利世界最古老银行Banca Monte dei Paschi di Siena面临收购战",
-      "summary": "成立于1472年的意大利锡耶纳牧山银行（Banca Monte dei Paschi di Siena）在经历了战争、疫情和丑闻后，正面临一场敌意收购。这场收购战让托斯卡纳地区民众感到紧张，凸显了欧洲金融业的整合趋势，以及对具有历史和区域意义金融机构未来走向的担忧。",
+      "title": "意大利最古老银行蒙特帕斯基面临敌意收购",
+      "summary": "成立于1472年的意大利锡耶纳蒙特帕斯基银行（Banca Monte dei Paschi di Siena）经历了战争、疫情和丑闻，但至今仍在运营。然而，近期一项敌意收购要约令托斯卡纳地区居民感到不安。此事件不仅关乎一家历史悠久的金融机构的未来，也可能预示着欧洲银行业的进一步整合或面临新的动荡。",
       "sources": [
         {
           "name": "NYT Business",
@@ -282,54 +277,44 @@
       ]
     },
     {
-      "title": "汽车制造商为满足效率标准重拾涡轮增压发动机",
-      "summary": "四十年前曾被热炒的涡轮增压技术，如今已成为美国近半数汽车的标准配置。这主要是为了满足日益严格的燃油效率标准。这一趋势表明，汽车行业在电动化转型之外，仍在积极探索传统内燃机技术的优化潜力，以平衡性能、成本与环保要求。",
+      "title": "燃油成本飙升导致机票价格居高不下，未来或将持续",
+      "summary": "由于航空公司今年在燃油成本上多支付了数十亿美元，机票价格持续走高，并且很可能在未来保持高位。高昂的燃油费用不仅直接影响航空公司的盈利能力，也间接提高了商务和休闲旅行的成本，对全球旅游业和相关供应链产生持续性压力。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/01/business/turbo-engines-cars-trucks.html"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html"
         }
       ]
     },
     {
-      "title": "美国医疗保险Part D保费上涨或推动更多人转向Medicare Advantage计划",
-      "summary": "由于特朗普政府提前终止一项旨在控制Medicare处方药计划成本的政策，导致Part D保费上涨，这可能促使更多美国老年人转向Medicare Advantage（MA）计划。这一变化将对美国的医疗健康保险市场格局产生影响，MA计划供应商或因此受益。",
+      "title": "百思买新任CEO计划通过小型门店实现增长",
+      "summary": "即将上任的百思买（Best Buy）首席执行官Jason Bonfig表示，为实现持续增长，他首要任务是发展更小型的门店。这一策略旨在扩大公司的市场覆盖范围并提升顾客体验，反映出零售行业在实体店模式上的创新和对效率的追求，以适应消费者购物习惯的变化。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/rising-part-d-premiums-could-drive-more-people-into-medicare-advantage-plans-32c2a392?mod=mw_rss_topstories"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "全球化新阶段：中国经济增长从商品出口转向“出口工厂”",
-      "summary": "随着中国商品出口模式达到极限，其经济增长的下一阶段将不再单纯依赖商品出口，而是转向出口中国的工厂、技术和品牌。这意味着中国正从“世界工厂”转变为“世界工厂的输出者”，在全球范围内重新布局产业链和技术影响力，对全球贸易、投资流向和产业竞争格局产生深远影响。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/opinion/china-opinion/article/3362151/chinas-next-export-worlds-factory-itself?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "高技能移民成为OECD国家宏观经济增长的重要推动力",
-      "summary": "1990-2024年间，OECD国家高技能非OECD移民显著增长。研究表明，大部分增长来自非OECD国家且以高技能人才为主，对解决本土人口增长缓慢、提升创新活力、填补劳动力缺口具有关键作用。这提示高净值投资者应关注人口结构变化对全球经济增长潜力和资产配置的长期影响。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/immigration-and-macroeconomic-outcomes-in-oecd-countries.html?utm_source=rss&utm_medium=rss&utm_campaign=immigration-and-macroeconomic-outcomes-in-oecd-countries"
-        }
-      ]
-    },
-    {
-      "title": "美国退休系统面临的结构性长寿挑战",
-      "summary": "美国人平均寿命的延长给现有的退休金系统带来了日益增长的压力，并且许多个人对此尚未做好充分准备。这一趋势揭示了长期人口结构变化对国家财政和个人财富管理产生的深刻影响，预示着未来养老金体系改革和个人退休储蓄规划的紧迫性与重要性。",
+      "title": "美国社会保障体系的长期隐忧：被忽视的成本调整效应",
+      "summary": "如果将社会保障金的领取时间推迟到70岁，每月领取的金额将有所增加，且生活成本调整（COLA）的比例也会相应提高。这表明，除了广为人知的社保资金短缺危机，延迟领取带来的累积成本增长是另一个容易被忽视的结构性问题，对长期财政健康和个人退休规划具有重要影响。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d"
+        }
+      ]
+    },
+    {
+      "title": "超级富豪涌入迈阿密，带动财富管理行业迁徙",
+      "summary": "税收优惠和其他优势吸引了大量超高净值人士迁居迈阿密，这些富豪也希望他们的财富管理公司能随之落户。这一趋势不仅改变了迈阿密的人口结构，也预示着美国财富中心和金融服务业地理分布的结构性变化，对地方经济和金融服务市场带来深远影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/02/business/family-offices-miami.html"
         }
       ]
     }
