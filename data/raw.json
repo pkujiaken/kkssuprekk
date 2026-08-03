@@ -1,6 +1,20 @@
 [
   {
     "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "On infinite ethics",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/08/on-infinite-ethics.html?utm_source=rss&utm_medium=rss&utm_campaign=on-infinite-ethics",
+    "summary": "<p>Infinite numbers have long troubled utilitarian ethicists: if the universe is boundless, then there is infinite positive utility and infinite negative utility, and we can’t even define our current state, let alone affect it. Oxford philosopher Toby Ord proposes a solution: use hyperreal numbers, a mathematical construct in which infinite sums behave more like finite ones (for example, [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/08/on-infinite-ethics.html\">On infinite ethics</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Mon, 03 Aug 2026 07:11:06 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "*Rome’s Age of Revolution*",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/08/romes-age-of-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=romes-age-of-revolution",
+    "summary": "<p>The author is Tim Whitmarsh and the subtitle is Augustus, Empire and the Making of Christianity.  This is the most important book on the history of Christianity I have read in a long time, and it is also an important work in Roman history.  Yet also fun and extremely readable.  Excerpt: The story I have [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/08/romes-age-of-revolution.html\">*Rome&#8217;s Age of Revolution*</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Mon, 03 Aug 2026 04:33:37 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
     "title": "Sunday assorted links",
     "link": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-578",
     "summary": "<p>1. The inverseminar, someone else presents your paper. 2. The rise of million-dollar companies with just one employee (WSJ). 3. The political party itself is a big driver of polarization. 4. Gita Gopinath is making sense. 5. GPT Pro (not Astra) on what &#8220;Astra&#8221; means. 6. David Perell art history game. 7. New model of [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-578.html\">Sunday assorted links</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
@@ -28,20 +42,6 @@
     "published": "Sun, 02 Aug 2026 04:35:52 +0000"
   },
   {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "Rothko show in Florence",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/08/rothko-show-in-florence.html?utm_source=rss&utm_medium=rss&utm_campaign=rothko-show-in-florence",
-    "summary": "<p>In Museo San Marco there is an ancillary exhibit, placing some smaller, lighter colored Rothkos next to their Fra Angelico frescoes.  Those rooms bowled me over, as for one thing they show how much Rothko was a religious painter at heart. I also was struck by the high proportion of Chinese visitors at this show, [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/08/rothko-show-in-florence.html\">Rothko show in Florence</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Sat, 01 Aug 2026 17:50:35 +0000"
-  },
-  {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "Saturday assorted links",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-572",
-    "summary": "<p>1. What do consultants get paid for? 2. Ugly architecture creates coalitions against development. 3. London is (modestly) degentrifying. 4. Is the &#8220;no forward guidance&#8221; approach failing? (FT) 5. Chinese interview with Christopher Nolan. 6. &#8220;social media use and school grades are unrelated for adolescents…meta-analytic evidence is not in support of dramatic claims relating social [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-572.html\">Saturday assorted links</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Sat, 01 Aug 2026 16:21:09 +0000"
-  },
-  {
     "source": "A Wealth of Common Sense (Ben Carlson)",
     "title": "The Biggest Risk of Rising Bond Yields",
     "link": "https://awealthofcommonsense.com/2026/08/the-biggest-risk-of-rising-bond-yields/",
@@ -52,8 +52,8 @@
     "source": "NYT Business",
     "title": "U.S. and Japan Coordinated to Help Stabilize the Yen",
     "link": "https://www.nytimes.com/2026/08/02/business/us-japan-yen.html",
-    "summary": "U.S. and Japanese officials confirmed on Sunday that the Treasury Department had moved last week to help the currency.",
-    "published": "Mon, 03 Aug 2026 00:23:27 +0000"
+    "summary": "U.S. and Japanese officials confirmed that the Treasury Department had moved last week to prop up the currency, which had been trading near four-decade lows.",
+    "published": "Mon, 03 Aug 2026 05:50:38 +0000"
   },
   {
     "source": "NYT Business",
@@ -119,18 +119,18 @@
     "published": "Sun, 02 Aug 2026 16:48:04 +0000"
   },
   {
-    "source": "NYT DealBook",
-    "title": "The High-Stakes Battle for Invisible Real Estate in Space",
-    "link": "https://www.nytimes.com/2026/08/01/business/dealbook/spacex-spectrum-battle.html",
-    "summary": "As radio spectrum becomes more valuable, companies like SpaceX are jostling alongside governments to control more of it.",
-    "published": "Sat, 01 Aug 2026 13:43:04 +0000"
+    "source": "BBC Business",
+    "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
+    "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
+    "summary": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
+    "published": "Mon, 03 Aug 2026 01:04:23 GMT"
   },
   {
-    "source": "NYT DealBook",
-    "title": "Sign Up for DealBook",
-    "link": "https://www.nytimes.com/newsletters/signup/DK",
-    "summary": "Make sense of the latest business and policy headlines with our daily newsletter.",
-    "published": "Sat, 01 Aug 2026 15:48:21 +0000"
+    "source": "BBC Business",
+    "title": "US and Japan take action to prop up yen in rare joint move",
+    "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+    "published": "Mon, 03 Aug 2026 07:30:52 GMT"
   },
   {
     "source": "BBC Business",
@@ -138,6 +138,13 @@
     "link": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
     "summary": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
     "published": "Sun, 02 Aug 2026 23:16:32 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "New Spider-Man film sees second-biggest ever global opening weekend",
+    "link": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
+    "summary": "The strong box office performance gives a boost to Disney ahead of the much-anticipated Avengers: Doomsday.",
+    "published": "Mon, 03 Aug 2026 04:10:16 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
@@ -225,24 +232,73 @@
   },
   {
     "source": "Hacker News Top",
+    "title": "Don't be a meat proxy",
+    "link": "https://gruhn.me/blog/2026-08-03/",
+    "summary": "<p>Article URL: <a href=\"https://gruhn.me/blog/2026-08-03/\">https://gruhn.me/blog/2026-08-03/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49151933\">https://news.ycombinator.com/item?id=49151933</a></p>\n<p>Points: 239</p>\n<p># Comments: 95</p>",
+    "published": "Mon, 03 Aug 2026 06:28:01 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+    "link": "https://qwen.ai/blog?id=qwen3.8",
+    "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.8\">https://qwen.ai/blog?id=qwen3.8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49150470\">https://news.ycombinator.com/item?id=49150470</a></p>\n<p>Points: 473</p>\n<p># Comments: 207</p>",
+    "published": "Mon, 03 Aug 2026 02:16:09 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+    "link": "https://github.com/wie-project/kakehashi",
+    "summary": "<p>Article URL: <a href=\"https://github.com/wie-project/kakehashi\">https://github.com/wie-project/kakehashi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49145937\">https://news.ycombinator.com/item?id=49145937</a></p>\n<p>Points: 210</p>\n<p># Comments: 51</p>",
+    "published": "Sun, 02 Aug 2026 16:26:40 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "How the words we teach English language learners changed",
+    "link": "https://pudding.cool/2026/07/essential-words/",
+    "summary": "<p>Article URL: <a href=\"https://pudding.cool/2026/07/essential-words/\">https://pudding.cool/2026/07/essential-words/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49145590\">https://news.ycombinator.com/item?id=49145590</a></p>\n<p>Points: 213</p>\n<p># Comments: 158</p>",
+    "published": "Sun, 02 Aug 2026 15:41:08 +0000"
+  },
+  {
+    "source": "Hacker News Top",
     "title": "Karpathy’s Pelican",
     "link": "https://twitter.com/karpathy/status/2083749667410727319",
-    "summary": "<p><a href=\"https://xcancel.com/karpathy/status/2083749667410727319\" rel=\"nofollow\">https://xcancel.com/karpathy/status/2083749667410727319</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140998\">https://news.ycombinator.com/item?id=49140998</a></p>\n<p>Points: 416</p>\n<p># Comments: 330</p>",
+    "summary": "<p><a href=\"https://xcancel.com/karpathy/status/2083749667410727319\" rel=\"nofollow\">https://xcancel.com/karpathy/status/2083749667410727319</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140998\">https://news.ycombinator.com/item?id=49140998</a></p>\n<p>Points: 547</p>\n<p># Comments: 386</p>",
     "published": "Sun, 02 Aug 2026 04:05:56 +0000"
   },
   {
-    "source": "Ars Technica",
-    "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-    "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
-    "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
-    "published": "Sat, 01 Aug 2026 18:20:11 +0000"
+    "source": "SCMP Business",
+    "title": "China’s tech giants race to put AI on delivery riders’ heads",
+    "link": "https://www.scmp.com/tech/big-tech/article/3362761/chinas-tech-giants-race-put-ai-delivery-riders-heads?utm_source=rss_feed",
+    "summary": "Chinese e-commerce giant JD.com has launched an smart helmet for food couriers with features enabled by artificial intelligence technology, following similar roll-outs by rivals Alibaba Group Holding and Meituan as they seek to improve rider safety and boost delivery efficiency.\nThe helmet integrates an AI-driven voice assistant with a camera that can “see” the surrounding environment, JD.com’s food delivery unit announced on Monday.\nThe company said the device was designed to minimise...",
+    "published": "Mon, 03 Aug 2026 07:00:09 +0000"
   },
   {
-    "source": "Ars Technica",
-    "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
-    "link": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
-    "summary": "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth.",
-    "published": "Sat, 01 Aug 2026 15:19:04 +0000"
+    "source": "SCMP Business",
+    "title": "China’s social security fund boosts stakes in A-share firms in first 7 months, data shows",
+    "link": "https://www.scmp.com/business/banking-finance/article/3362766/chinas-social-security-fund-boosts-stakes-share-firms-first-7-months-data-shows?utm_source=rss_feed",
+    "summary": "China’s social security sovereign fund cast a vote of confidence in the onshore stock market by increasing stakes in A-share companies in the first seven months of this year, financial data showed.\nThe buying came as the CSI 300 Index, which tracks the 300 largest and most liquid stocks listed on the Shanghai and Shenzhen exchanges, slipped 2.16 per cent in the first half. Global sell-offs in artificial intelligence stocks have spilled over into A shares.\nChina’s National Social Security Fund...",
+    "published": "Mon, 03 Aug 2026 06:39:48 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Chinese EV demand cools",
+    "link": "https://www.scmp.com/plus/business/china-evs/article/3362740/chinese-ev-demand-cools?utm_source=rss_feed",
+    "summary": "–",
+    "published": "Mon, 03 Aug 2026 03:39:59 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Will new batteries give China’s EVs the jolt they need to charge past their rivals?",
+    "link": "https://www.scmp.com/business/china-business/article/3362604/will-new-batteries-give-chinas-evs-jolt-they-need-charge-past-their-rivals?utm_source=rss_feed",
+    "summary": "On a cloudy evening in late April, a tech event hosted at Beijing’s National Convention Centre by Contemporary Amperex Technology Ltd (CATL) drew nearly 1,000 people eager for a glimpse of next-generation electric vehicle (EV) batteries that could reshape the global automotive landscape.\nGao Huan, chief technology officer for the auto business at CATL, the world’s largest producer of EV batteries, exuded confidence while promoting the new Shenxing product series.\nAccording to the company, its...",
+    "published": "Mon, 03 Aug 2026 02:00:14 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Treasury bond futures ‘a milestone’ to boost Hong Kong’s bridgehead role: CSRC chairman",
+    "link": "https://www.scmp.com/business/article/3362734/treasury-bond-futures-milestone-boost-hong-kongs-bridgehead-role-csrc-chairman?utm_source=rss_feed",
+    "summary": "Beijing is encouraging mainland China’s financial firms to use the city to go global, as well as urging Hong Kong-listed companies to list on the mainland, the head of the country’s securities regulator said on Monday.\n“Mainland financial institutions have been using Hong Kong to go global. There are many mainland securities and futures firms setting [up] in Hong Kong, while some of them do not have operation in Beijing but they have shops [here],” said Wu Qing, chairman of the China Securities...",
+    "published": "Mon, 03 Aug 2026 01:54:24 +0000"
   },
   {
     "source": "SCMP Business",
@@ -278,26 +334,5 @@
     "link": "https://www.scmp.com/business/china-business/article/3362546/china-sees-flurry-commercial-property-deals-investors-sniff-out-bargains?utm_source=rss_feed",
     "summary": "Major Chinese cities including Shanghai are witnessing a significant uptick in commercial property transactions, as investors snap up space in prime locations in the expectation that the market may finally be on the road to recovery.\nThe value of office buildings, hotels and shopping malls across China has slumped in recent years amid a prolonged real estate crisis. But with prices in some cities now starting to stabilise, investors are hunting for potential bargains, according to analysts.\nThe...",
     "published": "Sun, 02 Aug 2026 08:00:09 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "First impressions count as Chinese buyers open their homes to UBTech’s consumer humanoids",
-    "link": "https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids?utm_source=rss_feed",
-    "summary": "When 39-year-old Beijing investor Song shelled out 159,800 yuan (US$23,680) for a companion robot, he knew it would not be cooking meals or scrubbing floors. For him, becoming one of China’s first owners of a consumer humanoid was more about embracing the cutting edge.\n“The happiest part is often the waiting,” Song said of his decision to buy the female version of the U1 Pro, made by Shenzhen-based UBTech Robotics.\nFor years, humanoid robots have been confined to factory floors and structured...",
-    "published": "Sun, 02 Aug 2026 06:00:17 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Cheung Kong Center II tests higher rents amid rebound in Central office market",
-    "link": "https://www.scmp.com/business/markets/article/3362545/cheung-kong-center-ii-tests-higher-rents-amid-rebound-central-office-market?utm_source=rss_feed",
-    "summary": "Cheung Kong Center II is testing office rents above HK$100 (US$12.75) per square foot, as the once slow-leasing tower begins to close the gap with Central’s most in-demand office buildings, according to property agents.\nThe increase marks a turnaround for one of Hong Kong’s most closely watched office projects.\nCompleted in 2024 by CK Asset Holdings – the property company controlled by billionaire Li Ka-shing’s family – the 41-storey tower was designed as a flagship Central development, but...",
-    "published": "Sun, 02 Aug 2026 06:00:11 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "China’s next export is the world’s factory itself",
-    "link": "https://www.scmp.com/opinion/china-opinion/article/3362151/chinas-next-export-worlds-factory-itself?utm_source=rss_feed",
-    "summary": "China’s export boom is reaching its limits. The country’s next phase of growth will come not from shipping more goods abroad, but from exporting its factories, technologies and brands.\nChina is running up against the limits of its old model. It is obvious as the economy looks increasingly K-shaped. Weak consumer confidence and a prolonged property slump continue to sap domestic demand, forcing manufacturers to rely ever more heavily on overseas markets. Exports have become the Chinese economy’s...",
-    "published": "Sat, 01 Aug 2026 21:30:07 +0000"
   }
 ]
