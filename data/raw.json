@@ -1,5 +1,19 @@
 [
   {
+    "source": "Stratechery (Ben Thompson)",
+    "title": "Meta Earnings, Meta’s Timing Problems, The Financial Tail",
+    "link": "https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/",
+    "summary": "Meta's earnings were a bit disappointing; future promises about AI products were more disconcerting.",
+    "published": "Mon, 03 Aug 2026 10:00:00 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "What should I ask Nick Bostrom?",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-nick-bostrom.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-nick-bostrom",
+    "summary": "<p>Yes I will be doing a Conversation with him.  So what should I ask? If you need them, here are various Bostrom links.</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-nick-bostrom.html\">What should I ask Nick Bostrom?</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Mon, 03 Aug 2026 13:20:26 +0000"
+  },
+  {
     "source": "Marginal Revolution (Tyler Cowen)",
     "title": "On infinite ethics",
     "link": "https://marginalrevolution.com/marginalrevolution/2026/08/on-infinite-ethics.html?utm_source=rss&utm_medium=rss&utm_campaign=on-infinite-ethics",
@@ -50,6 +64,41 @@
   },
   {
     "source": "NYT Business",
+    "title": "Former ’60 Minutes’ Correspondents Sharyn Alfonsi, Scott Pelley Will Teach At Columbia",
+    "link": "https://www.nytimes.com/2026/08/03/business/media/sharyn-alfonsi-scott-pelley-columbia-journalism-school.html",
+    "summary": "Sharyn Alfonsi and Scott Pelley, who exited the show after clashing with executives at CBS News, will teach reporting skills.",
+    "published": "Mon, 03 Aug 2026 15:07:37 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
+    "link": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html",
+    "summary": "The U.S. Treasury joined efforts in Tokyo to stem the yen’s slide against the dollar, highlighting the broader risks posed by turmoil in Japanese markets.",
+    "published": "Mon, 03 Aug 2026 14:44:50 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.",
+    "link": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
+    "summary": "On Thursday, employees and other insiders at Elon Musk’s rocket company will be released from their first stock “lockup” and can start selling some of their shares.",
+    "published": "Mon, 03 Aug 2026 15:10:56 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Trump’s ‘Perimeter of a Deal’ Rallies the Market",
+    "link": "https://www.nytimes.com/2026/08/03/business/dealbook/trump-iran-deal-oil-market.html",
+    "summary": "Bullish investors are out in force on Monday despite more mixed messages about potential U.S.-Iran peace talks.",
+    "published": "Mon, 03 Aug 2026 12:27:00 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "What Are Companies Getting for All That A.I. Spending?",
+    "link": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
+    "summary": "A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence.",
+    "published": "Mon, 03 Aug 2026 09:00:53 +0000"
+  },
+  {
+    "source": "NYT Business",
     "title": "U.S. and Japan Coordinated to Help Stabilize the Yen",
     "link": "https://www.nytimes.com/2026/08/02/business/us-japan-yen.html",
     "summary": "U.S. and Japanese officials confirmed that the Treasury Department had moved last week to prop up the currency, which had been trading near four-decade lows.",
@@ -57,17 +106,17 @@
   },
   {
     "source": "NYT Business",
-    "title": "Oil Prices Plummet as Investors Digest Pause in Fighting in Iran War",
+    "title": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting",
     "link": "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html",
-    "summary": "The markets’ moves were the first since President Trump said late Saturday that he had halted a U.S. assault on Iran.",
-    "published": "Sun, 02 Aug 2026 23:30:13 +0000"
+    "summary": "The markets’ moves were the first since President Trump said he had halted a planned U.S. assault on Iran.",
+    "published": "Mon, 03 Aug 2026 15:02:34 +0000"
   },
   {
     "source": "NYT Business",
-    "title": "For a Day, Google Made It Easy to Spoof Satellite Imagery",
+    "title": "Google Earth Disables A.I. Tool After One Day Over Disinformation Concerns",
     "link": "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html",
-    "summary": "A new Google Earth tool allowed the creation of A.I. deepfake maps. The tech giant quickly pulled it back after a backlash and concerns about disinformation risks.",
-    "published": "Sun, 02 Aug 2026 19:25:56 +0000"
+    "summary": "A new Google Earth tool allowed the creation of A.I. deepfake maps. The company quickly pulled it back after users noted there were no safeguards to prevent content that could be harmful.",
+    "published": "Mon, 03 Aug 2026 14:31:11 +0000"
   },
   {
     "source": "NYT Business",
@@ -84,60 +133,53 @@
     "published": "Sun, 02 Aug 2026 09:01:44 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "Trump, Paul Weiss and the Capitulation of Big Law: 5 Takeaways",
-    "link": "https://www.nytimes.com/2026/08/02/us/politics/trump-paul-weiss-takeaways.html",
-    "summary": "The law firm Paul Weiss led the legal resistance against President Trump. Then it led a sudden retreat across the legal industry. A Times investigation examined how it caved to White House pressure.",
-    "published": "Sun, 02 Aug 2026 09:01:05 +0000"
+    "source": "NYT Economy",
+    "title": "What Are Companies Getting for All That A.I. Spending?",
+    "link": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
+    "summary": "A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence.",
+    "published": "Mon, 03 Aug 2026 09:00:53 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "More Young College Graduates Are Living At Home. Is That a Bad Thing?",
-    "link": "https://www.nytimes.com/2026/08/02/business/college-graduates-living-at-home.html",
-    "summary": "More young adults are living with their parents. The development suggests that they face a weak job market, but also that fewer face stigma in returning to the roost.",
-    "published": "Sun, 02 Aug 2026 09:00:54 +0000"
+    "source": "NYT DealBook",
+    "title": "Trump’s ‘Perimeter of a Deal’ Rallies the Market",
+    "link": "https://www.nytimes.com/2026/08/03/business/dealbook/trump-iran-deal-oil-market.html",
+    "summary": "Bullish investors are out in force on Monday despite more mixed messages about potential U.S.-Iran peace talks.",
+    "published": "Mon, 03 Aug 2026 12:27:00 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "The Ultra-Rich Are Moving to Miami, and Want Their Money Managers There, Too",
-    "link": "https://www.nytimes.com/2026/08/02/business/family-offices-miami.html",
-    "summary": "Tax incentives, among other benefits, have drawn the ultrawealthy to the city. And they need space for the firms that manage their money.",
-    "published": "Sun, 02 Aug 2026 21:25:25 +0000"
+    "source": "NYT DealBook",
+    "title": "Sign Up for DealBook",
+    "link": "https://www.nytimes.com/newsletters/signup/DK",
+    "summary": "Make sense of the latest business and policy headlines with our daily newsletter.",
+    "published": "Mon, 03 Aug 2026 12:00:02 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "How a Top Law Firm Went From Standing Up to Trump to Bending the Knee",
-    "link": "https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html",
-    "summary": "Paul Weiss was a progressive stalwart for decades and led the legal resistance against President Trump in his first term. Then it surrendered without a fight. This is the inside story of its transformation.",
-    "published": "Sun, 02 Aug 2026 14:03:24 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "‘Spider-Man: Brand New Day’ Heads for $875 Million Opening at Global Box Office",
-    "link": "https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html",
-    "summary": "The Sony Pictures movie, the 11th big-budget Spider-Man blockbuster since 2002, was on pace to have one of the biggest domestic first weekends ever.",
-    "published": "Sun, 02 Aug 2026 16:48:04 +0000"
+    "source": "NYT DealBook",
+    "title": "SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.",
+    "link": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
+    "summary": "On Thursday, employees and other insiders at Elon Musk’s rocket company will be released from their first stock “lockup” and can start selling some of their shares.",
+    "published": "Mon, 03 Aug 2026 15:10:56 +0000"
   },
   {
     "source": "BBC Business",
     "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
     "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
     "summary": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
-    "published": "Mon, 03 Aug 2026 01:04:23 GMT"
+    "published": "Mon, 03 Aug 2026 11:49:41 GMT"
   },
   {
     "source": "BBC Business",
-    "title": "US and Japan take action to prop up yen in rare joint move",
-    "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-    "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
-    "published": "Mon, 03 Aug 2026 07:30:52 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "The change that may help you get a mortgage as a first-time buyer",
+    "title": "It may be easier to get your first mortgage than you think - here's why",
     "link": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
     "summary": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
-    "published": "Sun, 02 Aug 2026 23:16:32 GMT"
+    "published": "Mon, 03 Aug 2026 09:55:36 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Xbox Series X price hiked by £170 due to rising memory chip costs",
+    "link": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&at_campaign=rss",
+    "summary": "Xbox consoles now cost significantly more in the UK, with one model increasing in price by 43%.",
+    "published": "Mon, 03 Aug 2026 11:18:10 GMT"
   },
   {
     "source": "BBC Business",
@@ -147,74 +189,102 @@
     "published": "Mon, 03 Aug 2026 04:10:16 GMT"
   },
   {
-    "source": "MarketWatch Top Stories",
-    "title": "We’re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?",
-    "link": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
-    "summary": "“I realize that probate can be lengthy, public and expensive.”",
-    "published": "Sun, 02 Aug 2026 17:00:00 GMT"
+    "source": "BBC Business",
+    "title": "US and Japan take action to prop up yen in rare joint move",
+    "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+    "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+    "published": "Mon, 03 Aug 2026 07:30:52 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-    "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
-    "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
-    "published": "Sun, 02 Aug 2026 16:00:00 GMT"
+    "title": "Why the U.S. decided to help Japan by boosting the flailing yen",
+    "link": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
+    "summary": "The U.S. Treasury Department and Federal Reserve have joined forces with their Japanese counterparts to stage a historic joint intervention to boost the Japanese yen, according to Japan’s Ministry of Finance, which confirmed the move in a statement on Monday.",
+    "published": "Mon, 03 Aug 2026 15:20:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
-    "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
-    "summary": "Turn off your brain and enjoy new seasons of Apple’s ‘Ted Lasso,’ Amazon’s ‘Reacher,’ Netflix’s ‘Outer Banks’ and much more",
-    "published": "Sun, 02 Aug 2026 15:19:00 GMT"
+    "title": "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
+    "link": "https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories",
+    "summary": "It’s been two decades since companies’ health-benefit costs have climbed this fast.",
+    "published": "Mon, 03 Aug 2026 15:17:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
-    "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
-    "summary": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket.”",
-    "published": "Sun, 02 Aug 2026 14:00:00 GMT"
+    "title": "‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?",
+    "link": "https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories",
+    "summary": "“My car was nearly 20 years old, and I only carried liability and uninsured motorist coverage, not collision coverage.”",
+    "published": "Mon, 03 Aug 2026 15:15:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
-    "link": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories",
-    "summary": "Amazon is the latest Big Tech company to report abnormally large earnings growth, thanks to paper gains on Anthropic investments.",
-    "published": "Sun, 02 Aug 2026 14:00:00 GMT"
+    "title": "Why tech stocks are likely to take a back seat for the rest of 2026, according to JPMorgan strategists",
+    "link": "https://www.marketwatch.com/story/why-tech-stocks-are-likely-to-take-a-back-seat-for-the-rest-of-2026-according-to-jpmorgan-strategists-93e1c61f?mod=mw_rss_topstories",
+    "summary": "Strategists at the bank see non-U.S. shares performing well in the second half of the year and prefer semiconductor stocks to hyperscalers.",
+    "published": "Mon, 03 Aug 2026 15:03:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-    "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
-    "summary": "“Delaying Social Security until 70 results in an increased monthly payment — and that comes with proportionally higher cost-of-living adjustments.”",
-    "published": "Sun, 02 Aug 2026 13:30:00 GMT"
+    "title": "They spent tens of thousands of dollars on home remodels — only to regret it. ‘It’s just been so much.’",
+    "link": "https://www.marketwatch.com/story/they-spent-tens-of-thousands-of-dollars-on-home-remodels-only-to-regret-it-8cfa23e6?mod=mw_rss_topstories",
+    "summary": "Some homeowners spend big bucks to upgrade their house, only to end up having second thoughts.",
+    "published": "Mon, 03 Aug 2026 14:52:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
-    "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
-    "summary": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
-    "published": "Sun, 02 Aug 2026 13:00:00 GMT"
+    "title": "My boss and I work in different cities and she never responds to my messages. What do I do?",
+    "link": "https://www.marketwatch.com/story/my-boss-and-i-work-in-different-cities-and-she-never-responds-to-my-messages-what-do-i-do-45713e98?mod=mw_rss_topstories",
+    "summary": "“Most of the time it feels like I’m just talking into the ether.”",
+    "published": "Mon, 03 Aug 2026 14:37:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "How Apple’s cheap MacBook Neo sparked a war in budget laptops",
-    "link": "https://www.marketwatch.com/story/how-apples-cheap-macbook-neo-sparked-a-war-in-budget-laptops-8fbaf839?mod=mw_rss_topstories",
-    "summary": "Apple’s gamble on the budget MacBook Neo is paying off and forcing rivals to rethink their offerings.",
-    "published": "Sun, 02 Aug 2026 13:00:00 GMT"
+    "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
+    "link": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
+    "summary": "“I expect to have several years before I take distributions from my 401(k) account.”",
+    "published": "Mon, 03 Aug 2026 14:30:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.",
-    "link": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
-    "summary": "Financial stocks have been among the market’s best performers this month. The Fed’s next move, however, may determine how much further the rotation can run.",
-    "published": "Sun, 02 Aug 2026 12:00:00 GMT"
+    "title": "An AstraZeneca, Bristol Myers Squibb merger could create a cancer-drug giant, but analysts call it ‘odd’",
+    "link": "https://www.marketwatch.com/story/astrazeneca-tie-up-talks-with-bristol-myers-squibb-are-moving-stocks-analysts-are-puzzled-7ae60fef?mod=mw_rss_topstories",
+    "summary": "AstraZeneca shares were slumping while Bristol-Myers Squibb’s stock was jumping on Monday on reported deal talks. But the big question is why these two pharmaceutical giants would want to come together in the first place.",
+    "published": "Mon, 03 Aug 2026 14:22:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Financial stocks are crushing it. These charts show why the ‘breakout’ rally may have just begun.",
-    "link": "https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12?mod=mw_rss_topstories",
-    "summary": "The breakout to record highs by bank stocks, plus their strong earnings and favorable valuations, suggest more good times ahead for the financial sector.",
-    "published": "Sun, 02 Aug 2026 12:00:00 GMT"
+    "title": "American manufacturers grow at fastest clip in 4 years due to AI boom — but all is not well",
+    "link": "https://www.marketwatch.com/story/american-manufacturers-grow-at-fastest-clip-in-4-years-due-to-ai-boom-but-all-is-not-well-c49eb383?mod=mw_rss_topstories",
+    "summary": "American manufacturers grew in July at the fastest pace in more than four year as they bore the fruits of a massive boom in artificial intelligence, but they’re also being hampered by pandemic-era-like supply shortages and higher inflation.",
+    "published": "Mon, 03 Aug 2026 14:21:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+    "link": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+    "summary": "A reader writes: “I will likely be in a position to decline my benefits.”",
+    "published": "Mon, 03 Aug 2026 14:00:00 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "'Spider-Man: Brand New Day' beats out 'Avengers: Endgame' for highest domestic opening ever",
+    "link": "https://www.cnbc.com/2026/08/03/spider-man-brand-new-day-debut-360m-highest-domestic-opening-ever.html",
+    "summary": "Sony and Marvel's \"Spider-Man: Brand New Day\" set the record for the highest domestic opening weekend of all time with $360 million in ticket sales.",
+    "published": "Mon, 03 Aug 2026 14:55:29 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
+    "link": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
+    "summary": "It is also the latest move by Visa to expand its value-added services business, which has become one of the company's fastest-growing divisions.",
+    "published": "Mon, 03 Aug 2026 14:11:17 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "Are Americans ready to embrace tiny 'cars'? These companies think so",
+    "link": "https://www.cnbc.com/2026/08/03/electric-lsv-stellantis-fiat-toppolino.html",
+    "summary": "Electric low-speed vehicles, or LSVs, are a step above a traditional golf cart but below a typical light-duty car or truck sold in the U.S.",
+    "published": "Mon, 03 Aug 2026 14:55:42 GMT"
   },
   {
     "source": "CNBC Business",
@@ -225,6 +295,27 @@
   },
   {
     "source": "CNBC Finance",
+    "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
+    "link": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
+    "summary": "It is also the latest move by Visa to expand its value-added services business, which has become one of the company's fastest-growing divisions.",
+    "published": "Mon, 03 Aug 2026 14:11:17 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Stocks making the biggest moves premarket: Alibaba, Bristol-Myers Squibb, eBay & more",
+    "link": "https://www.cnbc.com/2026/08/03/stocks-making-the-biggest-moves-premarket-baba-azn-ebay-more.html",
+    "summary": "These are the stocks posting the largest moves premarket.",
+    "published": "Mon, 03 Aug 2026 12:54:55 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Tourism price wars threaten to dim a rare bright spot in China's consumer spending",
+    "link": "https://www.cnbc.com/2026/08/03/china-price-demand-tourism-hotel.html",
+    "summary": "China’s domestic tourism is underperforming, with hotel revenues falling as soft demand pressures room rates.",
+    "published": "Mon, 03 Aug 2026 10:32:09 GMT"
+  },
+  {
+    "source": "CNBC Finance",
     "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
     "link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
     "summary": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.",
@@ -232,51 +323,107 @@
   },
   {
     "source": "Hacker News Top",
+    "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+    "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "summary": "<p>Article URL: <a href=\"https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/\">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154332\">https://news.ycombinator.com/item?id=49154332</a></p>\n<p>Points: 443</p>\n<p># Comments: 144</p>",
+    "published": "Mon, 03 Aug 2026 11:28:54 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+    "summary": "<p>Article URL: <a href=\"https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/\">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49153374\">https://news.ycombinator.com/item?id=49153374</a></p>\n<p>Points: 239</p>\n<p># Comments: 185</p>",
+    "published": "Mon, 03 Aug 2026 09:32:07 +0000"
+  },
+  {
+    "source": "Hacker News Top",
     "title": "Don't be a meat proxy",
     "link": "https://gruhn.me/blog/2026-08-03/",
-    "summary": "<p>Article URL: <a href=\"https://gruhn.me/blog/2026-08-03/\">https://gruhn.me/blog/2026-08-03/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49151933\">https://news.ycombinator.com/item?id=49151933</a></p>\n<p>Points: 239</p>\n<p># Comments: 95</p>",
+    "summary": "<p>Article URL: <a href=\"https://gruhn.me/blog/2026-08-03/\">https://gruhn.me/blog/2026-08-03/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49151933\">https://news.ycombinator.com/item?id=49151933</a></p>\n<p>Points: 1244</p>\n<p># Comments: 521</p>",
     "published": "Mon, 03 Aug 2026 06:28:01 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
     "link": "https://qwen.ai/blog?id=qwen3.8",
-    "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.8\">https://qwen.ai/blog?id=qwen3.8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49150470\">https://news.ycombinator.com/item?id=49150470</a></p>\n<p>Points: 473</p>\n<p># Comments: 207</p>",
+    "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.8\">https://qwen.ai/blog?id=qwen3.8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49150470\">https://news.ycombinator.com/item?id=49150470</a></p>\n<p>Points: 861</p>\n<p># Comments: 438</p>",
     "published": "Mon, 03 Aug 2026 02:16:09 +0000"
   },
   {
     "source": "Hacker News Top",
-    "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-    "link": "https://github.com/wie-project/kakehashi",
-    "summary": "<p>Article URL: <a href=\"https://github.com/wie-project/kakehashi\">https://github.com/wie-project/kakehashi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49145937\">https://news.ycombinator.com/item?id=49145937</a></p>\n<p>Points: 210</p>\n<p># Comments: 51</p>",
-    "published": "Sun, 02 Aug 2026 16:26:40 +0000"
+    "title": "Show HN: Isopolis – Isometric pixel map of SF",
+    "link": "https://sf.isopolis.city/",
+    "summary": "<p>Article URL: <a href=\"https://sf.isopolis.city/\">https://sf.isopolis.city/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149966\">https://news.ycombinator.com/item?id=49149966</a></p>\n<p>Points: 290</p>\n<p># Comments: 65</p>",
+    "published": "Mon, 03 Aug 2026 00:46:38 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "How the words we teach English language learners changed",
-    "link": "https://pudding.cool/2026/07/essential-words/",
-    "summary": "<p>Article URL: <a href=\"https://pudding.cool/2026/07/essential-words/\">https://pudding.cool/2026/07/essential-words/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49145590\">https://news.ycombinator.com/item?id=49145590</a></p>\n<p>Points: 213</p>\n<p># Comments: 158</p>",
-    "published": "Sun, 02 Aug 2026 15:41:08 +0000"
+    "source": "Ars Technica",
+    "title": "Trump wants the power to stop the public from suing polluters",
+    "link": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
+    "summary": "Trump's DOJ says citizens should no longer be able to enforce environmental laws.",
+    "published": "Mon, 03 Aug 2026 13:33:56 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "Karpathy’s Pelican",
-    "link": "https://twitter.com/karpathy/status/2083749667410727319",
-    "summary": "<p><a href=\"https://xcancel.com/karpathy/status/2083749667410727319\" rel=\"nofollow\">https://xcancel.com/karpathy/status/2083749667410727319</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140998\">https://news.ycombinator.com/item?id=49140998</a></p>\n<p>Points: 547</p>\n<p># Comments: 386</p>",
-    "published": "Sun, 02 Aug 2026 04:05:56 +0000"
+    "source": "Ars Technica",
+    "title": "How headlights got brighter, whiter, and more blinding after dark",
+    "link": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
+    "summary": "Automotive lights are better than they've ever been, but there's a trade-off.",
+    "published": "Mon, 03 Aug 2026 11:00:11 +0000"
+  },
+  {
+    "source": "MIT Tech Review",
+    "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were&#8230;",
+    "published": "Mon, 03 Aug 2026 12:08:00 +0000"
+  },
+  {
+    "source": "MIT Tech Review",
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+    "published": "Mon, 03 Aug 2026 08:30:05 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Chinese biotech giant Wuxi AppTec sees first-half earnings surge amid US scrutiny",
+    "link": "https://www.scmp.com/business/banking-finance/article/3362817/chinese-biotech-giant-wuxi-apptec-sees-first-half-earnings-surge-amid-us-scrutiny?utm_source=rss_feed",
+    "summary": "Wuxi AppTec, Asia’s largest provider of contract pharmaceutical research, posted net income that smashed market expectations in the first half of the year amid strong demand tied to weight-loss and diabetes drugs, as well as gains in its US business.\nInterim net profit attributable to the owners of the Shanghai-based drug contractor advanced 33.7 per cent to 11.08 billion yuan (US$1.64 billion) from a year earlier, surpassing a Bloomberg mean consensus estimate – drawn from a pool of 25 analysts...",
+    "published": "Mon, 03 Aug 2026 12:30:14 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Chinese EV sales falter at home as growth slows",
+    "link": "https://www.scmp.com/plus/business/china-evs/article/3362799/chinese-ev-sales-falter-home-growth-slows?utm_source=rss_feed",
+    "summary": "Chinese carmakers reported slack sales for July, igniting fears of fresh price wars, and the country’s central bank pledged to promote stable growth and continue monetary easing after the pace of economic expansion slowed in the second quarter.\nElectric-vehicle (EV) makers Xpeng, Nio, and Li Auto, three major domestic rivals to Tesla in China, saw deliveries decline by 5.2 per cent, 11.5 per cent and 1.4 per cent respectively in July compared to June. Sales by BYD, the world’s largest EV maker,...",
+    "published": "Mon, 03 Aug 2026 09:10:34 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Multinational giants defy China’s sluggish retail market with strong 2026 sales",
+    "link": "https://www.scmp.com/business/china-business/article/3362787/multinational-giants-defy-chinas-sluggish-retail-market-strong-2026-sales?utm_source=rss_feed",
+    "summary": "Major consumer goods multinationals – including Coca-Cola and Unilever – have reported strong sales growth in China during the first half of the year, indicating continued opportunities in the world’s second-largest consumer market despite headwinds.\nThe revenue figures disclosed in corporate exchange filings marked a sharp contrast with sluggish overall domestic consumption data, raising the question of whether overseas investors are underestimating some companies amid a “K-shaped” recovery,...",
+    "published": "Mon, 03 Aug 2026 09:00:05 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Hong Kong’s Chinese bond futures are a major step for the global yuan",
+    "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3362705/hong-kongs-chinese-bond-futures-are-major-step-global-yuan?utm_source=rss_feed",
+    "summary": "On August 3, five-year Chinese treasury bond futures began trading on the Hong Kong stock exchange. Market attention has focused on the new product, but its real significance emerges when set against the deep shifts under way in the international monetary system.\nHistory offers a clear lesson: no currency has graduated from a trade settlement currency to a genuine investment and reserve currency on the strength of trade flows alone. Behind every reserve currency stands a government bond market...",
+    "published": "Mon, 03 Aug 2026 08:30:05 +0000"
   },
   {
     "source": "SCMP Business",
     "title": "China’s tech giants race to put AI on delivery riders’ heads",
     "link": "https://www.scmp.com/tech/big-tech/article/3362761/chinas-tech-giants-race-put-ai-delivery-riders-heads?utm_source=rss_feed",
-    "summary": "Chinese e-commerce giant JD.com has launched an smart helmet for food couriers with features enabled by artificial intelligence technology, following similar roll-outs by rivals Alibaba Group Holding and Meituan as they seek to improve rider safety and boost delivery efficiency.\nThe helmet integrates an AI-driven voice assistant with a camera that can “see” the surrounding environment, JD.com’s food delivery unit announced on Monday.\nThe company said the device was designed to minimise...",
+    "summary": "Chinese e-commerce giant JD.com has launched a smart helmet for food couriers with features enabled by artificial intelligence technology, following similar roll-outs by rivals Alibaba Group Holding and Meituan as they seek to improve rider safety and boost delivery efficiency.\nThe helmet integrates an AI-driven voice assistant with a camera that can “see” the surrounding environment, JD.com’s food delivery unit announced on Monday.\nThe company said the device was designed to minimise...",
     "published": "Mon, 03 Aug 2026 07:00:09 +0000"
   },
   {
     "source": "SCMP Business",
     "title": "China’s social security fund boosts stakes in A-share firms in first 7 months, data shows",
     "link": "https://www.scmp.com/business/banking-finance/article/3362766/chinas-social-security-fund-boosts-stakes-share-firms-first-7-months-data-shows?utm_source=rss_feed",
-    "summary": "China’s social security sovereign fund cast a vote of confidence in the onshore stock market by increasing stakes in A-share companies in the first seven months of this year, financial data showed.\nThe buying came as the CSI 300 Index, which tracks the 300 largest and most liquid stocks listed on the Shanghai and Shenzhen exchanges, slipped 2.16 per cent in the first half. Global sell-offs in artificial intelligence stocks have spilled over into A shares.\nChina’s National Social Security Fund...",
+    "summary": "China’s social security sovereign fund cast a vote of confidence in the onshore stock market by increasing stakes in A-share companies in the first seven months of this year, financial data showed.\n“[The fund] is investing in China’s tech sector to capture its faster growth rate,” said Gary Ng, senior economist for Asia Pacific at Natixis Corporate and Investment Bank. “It should be positive for those who are chosen by long-term capital.”\nThe buying came as the CSI 300 Index, which tracks the...",
     "published": "Mon, 03 Aug 2026 06:39:48 +0000"
   },
   {
@@ -297,7 +444,7 @@
     "source": "SCMP Business",
     "title": "Treasury bond futures ‘a milestone’ to boost Hong Kong’s bridgehead role: CSRC chairman",
     "link": "https://www.scmp.com/business/article/3362734/treasury-bond-futures-milestone-boost-hong-kongs-bridgehead-role-csrc-chairman?utm_source=rss_feed",
-    "summary": "Beijing is encouraging mainland China’s financial firms to use the city to go global, as well as urging Hong Kong-listed companies to list on the mainland, the head of the country’s securities regulator said on Monday.\n“Mainland financial institutions have been using Hong Kong to go global. There are many mainland securities and futures firms setting [up] in Hong Kong, while some of them do not have operation in Beijing but they have shops [here],” said Wu Qing, chairman of the China Securities...",
+    "summary": "Beijing is encouraging mainland China’s financial firms to use the city to go global, as well as urging Hong Kong-listed companies to list on the mainland, the head of the country’s securities regulator said on Monday as China unveiled its first offshore government bond futures.\n“Mainland financial institutions have been using Hong Kong to go global. There are 103 mainland fund companies, securities and futures firms setting up in Hong Kong. While some of them do not have operations in Beijing,...",
     "published": "Mon, 03 Aug 2026 01:54:24 +0000"
   },
   {
@@ -306,33 +453,5 @@
     "link": "https://www.scmp.com/economy/china-economy/article/3362559/international-hotel-chains-targeting-chinas-value-driven-travellers?utm_source=rss_feed",
     "summary": "As a fresh graduate who recently received his first pay cheque after starting his first job in June, Ryan Liu decided to mark the milestone with a weekend getaway. Having recently relocated from Shandong province to Shenzhen, he was looking for a place that offered quality facilities without stretching his budget.\nHe was surprised to find a Hampton by Hilton hotel, part of Hilton’s upper-midscale portfolio, for about 600 yuan (US$89) a night. The room came with a small balcony overlooking...",
     "published": "Mon, 03 Aug 2026 01:00:09 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Global institutional investors eager to trade Chinese bond futures in Hong Kong, HKEX says",
-    "link": "https://www.scmp.com/business/markets/article/3362586/global-institutional-investors-eager-trade-chinese-bond-futures-hong-kong-hkex-says?utm_source=rss_feed",
-    "summary": "International asset managers, pension funds and insurance companies have shown strong interest in offshore China government bond futures, which are set to start trading in Hong Kong for the first time on Monday, according to senior stock exchange executives.\nThe new 5-year China government bond futures contracts will have a size of 500,000 yuan (US$74,051). Bourse operator Hong Kong Exchanges and Clearing (HKEX) has set a low minimum margin ratio so that investors only need to invest 7,980 yuan...",
-    "published": "Mon, 03 Aug 2026 00:00:23 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Price war fears grip China’s EV market after woeful July sales figures",
-    "link": "https://www.scmp.com/business/china-evs/article/3362717/price-war-fears-grip-chinas-ev-market-after-woeful-july-sales-figures?utm_source=rss_feed",
-    "summary": "The bearish sentiment surrounding China’s electric vehicle (EV) sector has intensified after three premium carmakers reported weak sales for July, further heightening concerns that the market is heading for another brutal price war.\nEV makers Xpeng, Nio and Li Auto all reported month-on-month sales declines last month, as demand for intelligent cars weakened amid an economic slowdown in mainland China.\nXpeng delivered 38,027 vehicles to customers in July, down 5.2 per cent from June, as the...",
-    "published": "Sun, 02 Aug 2026 23:00:14 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "AIIB explores digital payments, eyes Hong Kong hub as it raises record funds",
-    "link": "https://www.scmp.com/business/banking-finance/article/3362580/aiib-explores-digital-payments-eyes-hong-kong-hub-it-raises-record-funds?utm_source=rss_feed",
-    "summary": "The Asian Infrastructure Investment Bank (AIIB) is setting its sights on tokenised payments and digital settlement systems, tapping into Hong Kong’s growing digital finance ecosystem as part of a broader push to modernise its capital market operations, according to a senior official at the bank.\n“That is a sector that we are exploring with interest,” Domenico Nardelli, the AIIB’s treasurer and acting chief financial officer, told the South China Morning Post in an interview last week,...",
-    "published": "Sun, 02 Aug 2026 13:00:13 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "China sees flurry of commercial property deals as investors sniff out bargains",
-    "link": "https://www.scmp.com/business/china-business/article/3362546/china-sees-flurry-commercial-property-deals-investors-sniff-out-bargains?utm_source=rss_feed",
-    "summary": "Major Chinese cities including Shanghai are witnessing a significant uptick in commercial property transactions, as investors snap up space in prime locations in the expectation that the market may finally be on the road to recovery.\nThe value of office buildings, hotels and shopping malls across China has slumped in recent years amid a prolonged real estate crisis. But with prices in some cities now starting to stabilise, investors are hunting for potential bargains, according to analysts.\nThe...",
-    "published": "Sun, 02 Aug 2026 08:00:09 +0000"
   }
 ]
