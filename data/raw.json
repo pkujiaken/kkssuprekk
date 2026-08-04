@@ -8,6 +8,20 @@
   },
   {
     "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "How does the market regard stablecoins?",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/08/how-does-the-market-regard-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=how-does-the-market-regard-stablecoins",
+    "summary": "<p>We study the demand for safety and liquidity in the crypto ecosystem. We do so under a framework in which a representative investor allocates liquidity across stablecoin deposits in lending pools and traditional safe assets (e.g., MMF shares). Our model delivers three main predictions: (i) the stablecoin deposit premium co-moves with the Treasury premium when [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/08/how-does-the-market-regard-stablecoins.html\">How does the market regard stablecoins?</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Mon, 03 Aug 2026 18:32:18 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "Monday assorted links",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-571",
+    "summary": "<p>1. A new simulation argument? 2. PC on aesthetics. 3. An interview with Yiyang Zhuge. 4. The truth and aesthetics of going to church? 5. Some forms of math cope? And a different view. 6. At the demolition derby.</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/08/monday-assorted-links-571.html\">Monday assorted links</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Mon, 03 Aug 2026 15:43:56 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
     "title": "What should I ask Nick Bostrom?",
     "link": "https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-nick-bostrom.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-nick-bostrom",
     "summary": "<p>Yes I will be doing a Conversation with him.  So what should I ask? If you need them, here are various Bostrom links.</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/08/what-should-i-ask-nick-bostrom.html\">What should I ask Nick Bostrom?</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
@@ -42,20 +56,6 @@
     "published": "Sun, 02 Aug 2026 14:16:16 +0000"
   },
   {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "Taiwan fact of the day",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/08/taiwan-fact-of-the-day-3.html?utm_source=rss&utm_medium=rss&utm_campaign=taiwan-fact-of-the-day-3",
-    "summary": "<p>[Annualized] 14% GDP growth in the first half of 2026</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/08/taiwan-fact-of-the-day-3.html\">Taiwan fact of the day</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Sun, 02 Aug 2026 06:54:39 +0000"
-  },
-  {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "Mexico (Taiwan) fact of the day",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/08/mexico-taiwan-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=mexico-taiwan-fact-of-the-day",
-    "summary": "<p>Mexico has quietly become a cornerstone of the AI boom, providing 40 per cent of US imports this year of the computer servers that are widely used in the data centres powering artificial intelligence. Taiwanese manufacturers are rapidly expanding factories in Mexico to assemble servers, which are now the country’s top US export, overtaking autos [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/08/mexico-taiwan-fact-of-the-day.html\">Mexico (Taiwan) fact of the day</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Sun, 02 Aug 2026 04:35:52 +0000"
-  },
-  {
     "source": "A Wealth of Common Sense (Ben Carlson)",
     "title": "The Biggest Risk of Rising Bond Yields",
     "link": "https://awealthofcommonsense.com/2026/08/the-biggest-risk-of-rising-bond-yields/",
@@ -64,17 +64,38 @@
   },
   {
     "source": "NYT Business",
+    "title": "Education Dept. to Wipe Out Student Loans of 170,000 More Defrauded Borrowers",
+    "link": "https://www.nytimes.com/2026/08/03/business/student-loans-borrower-defense.html",
+    "summary": "The sprawling case, centered on students defrauded by for-profit schools, has now become the largest class-action settlement in American history.",
+    "published": "Mon, 03 Aug 2026 21:24:03 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Republicans Let Trump Keep Unparalleled Benefit: I.R.S. Immunity",
+    "link": "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html",
+    "summary": "The rebellion against Todd Blanche’s nomination to be attorney general, now seemingly contained, at no point fundamentally questioned President Trump’s new protections from the I.R.S.",
+    "published": "Mon, 03 Aug 2026 23:02:29 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Boeing’s Smallest 737 Jet Wins F.A.A. Approval",
+    "link": "https://www.nytimes.com/2026/08/03/business/boeing-737-max.html",
+    "summary": "After years of delays, the Federal Aviation Administration has certified the Boeing 737 Max 7, the smallest version of the company’s best-selling plane.",
+    "published": "Mon, 03 Aug 2026 18:05:26 +0000"
+  },
+  {
+    "source": "NYT Business",
     "title": "Former ’60 Minutes’ Correspondents Sharyn Alfonsi, Scott Pelley Will Teach At Columbia",
     "link": "https://www.nytimes.com/2026/08/03/business/media/sharyn-alfonsi-scott-pelley-columbia-journalism-school.html",
     "summary": "Sharyn Alfonsi and Scott Pelley, who exited the show after clashing with executives at CBS News, will teach reporting skills.",
-    "published": "Mon, 03 Aug 2026 15:07:37 +0000"
+    "published": "Mon, 03 Aug 2026 15:07:38 +0000"
   },
   {
     "source": "NYT Business",
     "title": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
     "link": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html",
     "summary": "The U.S. Treasury joined efforts in Tokyo to stem the yen’s slide against the dollar, highlighting the broader risks posed by turmoil in Japanese markets.",
-    "published": "Mon, 03 Aug 2026 14:44:50 +0000"
+    "published": "Mon, 03 Aug 2026 15:42:08 +0000"
   },
   {
     "source": "NYT Business",
@@ -95,7 +116,7 @@
     "title": "What Are Companies Getting for All That A.I. Spending?",
     "link": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
     "summary": "A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence.",
-    "published": "Mon, 03 Aug 2026 09:00:53 +0000"
+    "published": "Mon, 03 Aug 2026 18:56:22 +0000"
   },
   {
     "source": "NYT Business",
@@ -109,35 +130,14 @@
     "title": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting",
     "link": "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html",
     "summary": "The markets’ moves were the first since President Trump said he had halted a planned U.S. assault on Iran.",
-    "published": "Mon, 03 Aug 2026 15:02:34 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Google Earth Disables A.I. Tool After One Day Over Disinformation Concerns",
-    "link": "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html",
-    "summary": "A new Google Earth tool allowed the creation of A.I. deepfake maps. The company quickly pulled it back after users noted there were no safeguards to prevent content that could be harmful.",
-    "published": "Mon, 03 Aug 2026 14:31:11 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Nanit and Other Baby-Tracking Start-Ups Eye Collecting Even More Data",
-    "link": "https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html",
-    "summary": "Nanit and other start-ups want to track your children through the night — and soon, for much longer than that.",
-    "published": "Sun, 02 Aug 2026 11:29:20 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "13-Year-Olds Have Problems at Work, Too",
-    "link": "https://www.nytimes.com/2026/08/02/business/pool-problems.html",
-    "summary": "What to do when the boys at the pool aren’t pulling their weight.",
-    "published": "Sun, 02 Aug 2026 09:01:44 +0000"
+    "published": "Mon, 03 Aug 2026 20:29:53 +0000"
   },
   {
     "source": "NYT Economy",
     "title": "What Are Companies Getting for All That A.I. Spending?",
     "link": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
     "summary": "A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence.",
-    "published": "Mon, 03 Aug 2026 09:00:53 +0000"
+    "published": "Mon, 03 Aug 2026 18:56:22 +0000"
   },
   {
     "source": "NYT DealBook",
@@ -162,10 +162,45 @@
   },
   {
     "source": "BBC Business",
+    "title": "Half price rail travel extended to 18-year-olds",
+    "link": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
+    "summary": "They'll be able to buy the 16-17 Saver railcard up until the day before they turn 18.",
+    "published": "Mon, 03 Aug 2026 23:34:13 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
+    "link": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
+    "summary": "The service reportedly costs up to $100,000 (£74,170) per month and offers access to posts from influential accounts milliseconds before they appear online.",
+    "published": "Tue, 04 Aug 2026 00:17:48 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+    "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+    "summary": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+    "published": "Mon, 03 Aug 2026 15:57:27 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Tokenomics: Why making AI pay is tricky",
+    "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+    "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+    "published": "Mon, 03 Aug 2026 23:21:10 GMT"
+  },
+  {
+    "source": "BBC Business",
     "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
     "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
     "summary": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
     "published": "Mon, 03 Aug 2026 11:49:41 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "What heatwaves mean for summer weddings – and how to plan for one",
+    "link": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
+    "summary": "The wedding industry is facing last-minute costs to cope with the heat and October bookings are up.",
+    "published": "Mon, 03 Aug 2026 23:20:15 GMT"
   },
   {
     "source": "BBC Business",
@@ -197,108 +232,150 @@
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Why the U.S. decided to help Japan by boosting the flailing yen",
-    "link": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
-    "summary": "The U.S. Treasury Department and Federal Reserve have joined forces with their Japanese counterparts to stage a historic joint intervention to boost the Japanese yen, according to Japan’s Ministry of Finance, which confirmed the move in a statement on Monday.",
-    "published": "Mon, 03 Aug 2026 15:20:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
-    "link": "https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories",
-    "summary": "It’s been two decades since companies’ health-benefit costs have climbed this fast.",
-    "published": "Mon, 03 Aug 2026 15:17:00 GMT"
+    "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+    "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+    "summary": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
+    "published": "Tue, 04 Aug 2026 00:00:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
     "title": "‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?",
     "link": "https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories",
     "summary": "“My car was nearly 20 years old, and I only carried liability and uninsured motorist coverage, not collision coverage.”",
-    "published": "Mon, 03 Aug 2026 15:15:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Why tech stocks are likely to take a back seat for the rest of 2026, according to JPMorgan strategists",
-    "link": "https://www.marketwatch.com/story/why-tech-stocks-are-likely-to-take-a-back-seat-for-the-rest-of-2026-according-to-jpmorgan-strategists-93e1c61f?mod=mw_rss_topstories",
-    "summary": "Strategists at the bank see non-U.S. shares performing well in the second half of the year and prefer semiconductor stocks to hyperscalers.",
-    "published": "Mon, 03 Aug 2026 15:03:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "They spent tens of thousands of dollars on home remodels — only to regret it. ‘It’s just been so much.’",
-    "link": "https://www.marketwatch.com/story/they-spent-tens-of-thousands-of-dollars-on-home-remodels-only-to-regret-it-8cfa23e6?mod=mw_rss_topstories",
-    "summary": "Some homeowners spend big bucks to upgrade their house, only to end up having second thoughts.",
-    "published": "Mon, 03 Aug 2026 14:52:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "My boss and I work in different cities and she never responds to my messages. What do I do?",
-    "link": "https://www.marketwatch.com/story/my-boss-and-i-work-in-different-cities-and-she-never-responds-to-my-messages-what-do-i-do-45713e98?mod=mw_rss_topstories",
-    "summary": "“Most of the time it feels like I’m just talking into the ether.”",
-    "published": "Mon, 03 Aug 2026 14:37:00 GMT"
+    "published": "Mon, 03 Aug 2026 23:15:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
     "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
     "link": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
     "summary": "“I expect to have several years before I take distributions from my 401(k) account.”",
-    "published": "Mon, 03 Aug 2026 14:30:00 GMT"
+    "published": "Mon, 03 Aug 2026 22:45:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "An AstraZeneca, Bristol Myers Squibb merger could create a cancer-drug giant, but analysts call it ‘odd’",
-    "link": "https://www.marketwatch.com/story/astrazeneca-tie-up-talks-with-bristol-myers-squibb-are-moving-stocks-analysts-are-puzzled-7ae60fef?mod=mw_rss_topstories",
-    "summary": "AstraZeneca shares were slumping while Bristol-Myers Squibb’s stock was jumping on Monday on reported deal talks. But the big question is why these two pharmaceutical giants would want to come together in the first place.",
-    "published": "Mon, 03 Aug 2026 14:22:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "American manufacturers grow at fastest clip in 4 years due to AI boom — but all is not well",
-    "link": "https://www.marketwatch.com/story/american-manufacturers-grow-at-fastest-clip-in-4-years-due-to-ai-boom-but-all-is-not-well-c49eb383?mod=mw_rss_topstories",
-    "summary": "American manufacturers grew in July at the fastest pace in more than four year as they bore the fruits of a massive boom in artificial intelligence, but they’re also being hampered by pandemic-era-like supply shortages and higher inflation.",
-    "published": "Mon, 03 Aug 2026 14:21:00 GMT"
+    "title": "Microsoft’s stock is on a run not seen in 26 years — erasing its year-to-date losses",
+    "link": "https://www.marketwatch.com/story/microsofts-stock-is-on-a-run-not-seen-in-26-years-erasing-its-year-to-date-losses-d9827b6c?mod=mw_rss_topstories",
+    "summary": "The rally in Microsoft shares “has legs” because its capital spending is showing a payoff.",
+    "published": "Mon, 03 Aug 2026 22:44:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
     "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
     "link": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
     "summary": "A reader writes: “I will likely be in a position to decline my benefits.”",
-    "published": "Mon, 03 Aug 2026 14:00:00 GMT"
+    "published": "Mon, 03 Aug 2026 22:30:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?",
+    "link": "https://www.marketwatch.com/story/if-i-buy-a-house-for-1-million-in-cash-at-70-will-i-run-out-of-money-by-90-54afb313?mod=mw_rss_topstories",
+    "summary": "Buying a house late in life means you might not reach the break-even point that would make it better financially than renting.",
+    "published": "Mon, 03 Aug 2026 22:15:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Palantir’s stock climbs after earnings, as AI drives turbocharged growth",
+    "link": "https://www.marketwatch.com/story/palantirs-stock-gains-as-ai-drives-turbocharged-growth-e006b70a?mod=mw_rss_topstories",
+    "summary": "Companies are turning to Palantir for greater autonomy over their AI models and data, according to CEO Alex Karp.",
+    "published": "Mon, 03 Aug 2026 21:59:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "As ‘Spider-Man’ joins ‘The Odyssey’ in Imax, are premium movie screens worth the extra price?",
+    "link": "https://www.marketwatch.com/story/as-spider-man-joins-the-odyssey-in-imax-are-premium-movie-screens-worth-the-extra-price-74304e34?mod=mw_rss_topstories",
+    "summary": "Some movie fans call premium screenings a “gimmick.” Others are driving six hours to see “The Odyssey” in Imax 70mm.",
+    "published": "Mon, 03 Aug 2026 21:33:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "An AstraZeneca, Bristol Myers Squibb merger could create a cancer-drug giant, but analysts call it ‘odd’",
+    "link": "https://www.marketwatch.com/story/astrazeneca-tie-up-talks-with-bristol-myers-squibb-are-moving-stocks-analysts-are-puzzled-7ae60fef?mod=mw_rss_topstories",
+    "summary": "AstraZeneca shares were slumping while Bristol-Myers Squibb’s stock was jumping on Monday on reported deal talks. But the big question is why these two pharmaceutical giants would want to come together in the first place.",
+    "published": "Mon, 03 Aug 2026 20:59:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "This indicator is giving the bull market another lease on life",
+    "link": "https://www.marketwatch.com/story/this-indicator-is-giving-the-bull-market-another-lease-on-life-47479269?mod=mw_rss_topstories",
+    "summary": "Stock-market timers recently rushed to the exits, which is bullish from a contrarian perspective.",
+    "published": "Mon, 03 Aug 2026 20:44:00 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "Larry Berg named next Major League Soccer commissioner",
+    "link": "https://www.cnbc.com/2026/08/03/larry-berg-major-league-soccer-commissioner.html",
+    "summary": "Larry Berg will take over as MLS commissioner from Don Garber next year. He will sell his stake in Los Angeles FC.",
+    "published": "Mon, 03 Aug 2026 22:10:13 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "FAA clears smallest Boeing 737 Max to fly after years of delays",
+    "link": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
+    "summary": "Airlines can finally start flying passengers soon after planes are certified, but it can take them months to work them into schedules.",
+    "published": "Mon, 03 Aug 2026 20:09:19 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "Michigan confirms first two deaths in cyclospora outbreak",
+    "link": "https://www.cnbc.com/2026/08/03/cyclospora-outbreak-first-two-deaths-reported-in-michigan.html",
+    "summary": "The Michigan Health Department said that both individuals had underlying health conditions.",
+    "published": "Mon, 03 Aug 2026 18:32:42 GMT"
   },
   {
     "source": "CNBC Business",
     "title": "'Spider-Man: Brand New Day' beats out 'Avengers: Endgame' for highest domestic opening ever",
     "link": "https://www.cnbc.com/2026/08/03/spider-man-brand-new-day-debut-360m-highest-domestic-opening-ever.html",
     "summary": "Sony and Marvel's \"Spider-Man: Brand New Day\" set the record for the highest domestic opening weekend of all time with $360 million in ticket sales.",
-    "published": "Mon, 03 Aug 2026 14:55:29 GMT"
+    "published": "Mon, 03 Aug 2026 15:46:27 GMT"
   },
   {
     "source": "CNBC Business",
     "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
     "link": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
     "summary": "It is also the latest move by Visa to expand its value-added services business, which has become one of the company's fastest-growing divisions.",
-    "published": "Mon, 03 Aug 2026 14:11:17 GMT"
+    "published": "Mon, 03 Aug 2026 16:44:25 GMT"
   },
   {
     "source": "CNBC Business",
     "title": "Are Americans ready to embrace tiny 'cars'? These companies think so",
     "link": "https://www.cnbc.com/2026/08/03/electric-lsv-stellantis-fiat-toppolino.html",
     "summary": "Electric low-speed vehicles, or LSVs, are a step above a traditional golf cart but below a typical light-duty car or truck sold in the U.S.",
-    "published": "Mon, 03 Aug 2026 14:55:42 GMT"
+    "published": "Mon, 03 Aug 2026 16:57:42 GMT"
   },
   {
     "source": "CNBC Business",
-    "title": "Why flights are so expensive and will likely stay that way",
-    "link": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
-    "summary": "Airlines are paying billions of dollars more in fuel costs this year",
-    "published": "Sun, 02 Aug 2026 12:00:01 GMT"
+    "title": "More tech millionaires are using donor-advised funds for tax savings and giving",
+    "link": "https://www.cnbc.com/2026/08/03/tech-millionaires-donor-advised-funds-tax-savings-giving.html",
+    "summary": "DAFs are gaining in popularity as private firms like Anthropic and OpenAI skyrocket in value and more companies stay private for longer.",
+    "published": "Mon, 03 Aug 2026 18:56:51 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Stocks making the biggest moves after hours: Palantir, On Semiconductor, Snap & more",
+    "link": "https://www.cnbc.com/2026/08/03/stocks-making-the-biggest-moves-after-hours-pltr-on-snap.html",
+    "summary": "These are the stocks posting the largest moves after the bell.",
+    "published": "Mon, 03 Aug 2026 20:45:50 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions",
+    "link": "https://www.cnbc.com/2026/08/03/kalshi-traders-think-july-jobs-will-come-in-cooler-than-estimates.html",
+    "summary": "Speculators on the platform place just under 50-50 odds that employers added more than 80,000 jobs in July.",
+    "published": "Mon, 03 Aug 2026 15:59:04 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
+    "link": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
+    "summary": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
+    "published": "Mon, 03 Aug 2026 19:20:25 GMT"
   },
   {
     "source": "CNBC Finance",
     "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
     "link": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
     "summary": "It is also the latest move by Visa to expand its value-added services business, which has become one of the company's fastest-growing divisions.",
-    "published": "Mon, 03 Aug 2026 14:11:17 GMT"
+    "published": "Mon, 03 Aug 2026 16:44:25 GMT"
   },
   {
     "source": "CNBC Finance",
@@ -323,38 +400,94 @@
   },
   {
     "source": "Hacker News Top",
-    "title": "Critical CVE issued for hallucinated SQLite vulnerability",
-    "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-    "summary": "<p>Article URL: <a href=\"https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/\">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154332\">https://news.ycombinator.com/item?id=49154332</a></p>\n<p>Points: 443</p>\n<p># Comments: 144</p>",
-    "published": "Mon, 03 Aug 2026 11:28:54 +0000"
+    "title": "LLMs reward expertise",
+    "link": "https://www.seangoedecke.com/llms-reward-expertise/",
+    "summary": "<p>Article URL: <a href=\"https://www.seangoedecke.com/llms-reward-expertise/\">https://www.seangoedecke.com/llms-reward-expertise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49161518\">https://news.ycombinator.com/item?id=49161518</a></p>\n<p>Points: 372</p>\n<p># Comments: 171</p>",
+    "published": "Mon, 03 Aug 2026 21:13:53 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "link": "https://openai.com/index/ten-advances-in-mathematics/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/ten-advances-in-mathematics/\">https://openai.com/index/ten-advances-in-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49157930\">https://news.ycombinator.com/item?id=49157930</a></p>\n<p>Points: 410</p>\n<p># Comments: 689</p>",
+    "published": "Mon, 03 Aug 2026 16:27:12 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Devtools must be open source",
+    "link": "https://blog.exe.dev/devtools-must-be-open-source",
+    "summary": "<p>Article URL: <a href=\"https://blog.exe.dev/devtools-must-be-open-source\">https://blog.exe.dev/devtools-must-be-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156111\">https://news.ycombinator.com/item?id=49156111</a></p>\n<p>Points: 490</p>\n<p># Comments: 175</p>",
+    "published": "Mon, 03 Aug 2026 14:15:47 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+    "link": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+    "summary": "<p>Article URL: <a href=\"https://clickhouse.com/blog/andy-pavlo-joins-clickhouse\">https://clickhouse.com/blog/andy-pavlo-joins-clickhouse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156011\">https://news.ycombinator.com/item?id=49156011</a></p>\n<p>Points: 268</p>\n<p># Comments: 55</p>",
+    "published": "Mon, 03 Aug 2026 14:09:00 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+    "link": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+    "summary": "<p>Article URL: <a href=\"https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui\">https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49155629\">https://news.ycombinator.com/item?id=49155629</a></p>\n<p>Points: 245</p>\n<p># Comments: 77</p>",
+    "published": "Mon, 03 Aug 2026 13:34:43 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Prevent cognitive debt by manually retyping LLM-generated code",
     "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-    "summary": "<p>Article URL: <a href=\"https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/\">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49153374\">https://news.ycombinator.com/item?id=49153374</a></p>\n<p>Points: 239</p>\n<p># Comments: 185</p>",
+    "summary": "<p>Article URL: <a href=\"https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/\">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49153374\">https://news.ycombinator.com/item?id=49153374</a></p>\n<p>Points: 374</p>\n<p># Comments: 314</p>",
     "published": "Mon, 03 Aug 2026 09:32:07 +0000"
   },
   {
     "source": "Hacker News Top",
-    "title": "Don't be a meat proxy",
-    "link": "https://gruhn.me/blog/2026-08-03/",
-    "summary": "<p>Article URL: <a href=\"https://gruhn.me/blog/2026-08-03/\">https://gruhn.me/blog/2026-08-03/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49151933\">https://news.ycombinator.com/item?id=49151933</a></p>\n<p>Points: 1244</p>\n<p># Comments: 521</p>",
-    "published": "Mon, 03 Aug 2026 06:28:01 +0000"
+    "title": "Bonsai: Janestreet's UI Library",
+    "link": "https://github.com/janestreet/bonsai",
+    "summary": "<p>Article URL: <a href=\"https://github.com/janestreet/bonsai\">https://github.com/janestreet/bonsai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49152842\">https://news.ycombinator.com/item?id=49152842</a></p>\n<p>Points: 298</p>\n<p># Comments: 115</p>",
+    "published": "Mon, 03 Aug 2026 08:29:57 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-    "link": "https://qwen.ai/blog?id=qwen3.8",
-    "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.8\">https://qwen.ai/blog?id=qwen3.8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49150470\">https://news.ycombinator.com/item?id=49150470</a></p>\n<p>Points: 861</p>\n<p># Comments: 438</p>",
-    "published": "Mon, 03 Aug 2026 02:16:09 +0000"
+    "source": "Ars Technica",
+    "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+    "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+    "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
+    "published": "Mon, 03 Aug 2026 22:11:39 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "Show HN: Isopolis – Isometric pixel map of SF",
-    "link": "https://sf.isopolis.city/",
-    "summary": "<p>Article URL: <a href=\"https://sf.isopolis.city/\">https://sf.isopolis.city/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149966\">https://news.ycombinator.com/item?id=49149966</a></p>\n<p>Points: 290</p>\n<p># Comments: 65</p>",
-    "published": "Mon, 03 Aug 2026 00:46:38 +0000"
+    "source": "Ars Technica",
+    "title": "Research roundup: 6 cool science stories we almost missed",
+    "link": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+    "summary": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
+    "published": "Mon, 03 Aug 2026 20:13:37 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
+    "link": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+    "summary": "The orbiting observatory in minifigure scale.",
+    "published": "Mon, 03 Aug 2026 19:21:16 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+    "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+    "summary": "Top scores increased by 5x.",
+    "published": "Mon, 03 Aug 2026 19:00:50 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
+    "link": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
+    "summary": "At $25,305, you won't find many new cars for less. But you get what you pay for.",
+    "published": "Mon, 03 Aug 2026 16:10:22 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
+    "link": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
+    "summary": "A Louisiana launch site would offer several significant advantages.",
+    "published": "Mon, 03 Aug 2026 14:41:46 +0000"
   },
   {
     "source": "Ars Technica",
@@ -372,6 +505,13 @@
   },
   {
     "source": "MIT Tech Review",
+    "title": "Trump’s AI protectionism has come for robotics",
+    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
+    "published": "Mon, 03 Aug 2026 18:43:30 +0000"
+  },
+  {
+    "source": "MIT Tech Review",
     "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
     "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were&#8230;",
@@ -383,6 +523,13 @@
     "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
     "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
     "published": "Mon, 03 Aug 2026 08:30:05 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Why Chinese brokers forecast an A-share tech and chip rebound",
+    "link": "https://www.scmp.com/business/markets/article/3362812/why-chinese-brokers-forecast-share-tech-and-chip-rebound?utm_source=rss_feed",
+    "summary": "Leading Chinese brokerages have expressed optimism for domestic tech shares traded in August, distinguishing them from the sharp sell-off that has rattled South Korean financial markets.\nCitic Securities said it believed mainland-traded shares – also known as A shares – had only undergone a correction after investors piled into artificial intelligence-related sectors, rather than suffering the deleveraging shock seen in South Korea.\n“The liquidity pressure in some industries remains, but the...",
+    "published": "Mon, 03 Aug 2026 23:00:05 +0000"
   },
   {
     "source": "SCMP Business",
@@ -446,12 +593,5 @@
     "link": "https://www.scmp.com/business/article/3362734/treasury-bond-futures-milestone-boost-hong-kongs-bridgehead-role-csrc-chairman?utm_source=rss_feed",
     "summary": "Beijing is encouraging mainland China’s financial firms to use the city to go global, as well as urging Hong Kong-listed companies to list on the mainland, the head of the country’s securities regulator said on Monday as China unveiled its first offshore government bond futures.\n“Mainland financial institutions have been using Hong Kong to go global. There are 103 mainland fund companies, securities and futures firms setting up in Hong Kong. While some of them do not have operations in Beijing,...",
     "published": "Mon, 03 Aug 2026 01:54:24 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "The international hotel chains targeting China’s value-driven travellers",
-    "link": "https://www.scmp.com/economy/china-economy/article/3362559/international-hotel-chains-targeting-chinas-value-driven-travellers?utm_source=rss_feed",
-    "summary": "As a fresh graduate who recently received his first pay cheque after starting his first job in June, Ryan Liu decided to mark the milestone with a weekend getaway. Having recently relocated from Shandong province to Shenzhen, he was looking for a place that offered quality facilities without stretching his budget.\nHe was surprised to find a Hampton by Hilton hotel, part of Hilton’s upper-midscale portfolio, for about 600 yuan (US$89) a night. The room came with a small balcony overlooking...",
-    "published": "Mon, 03 Aug 2026 01:00:09 +0000"
   }
 ]
