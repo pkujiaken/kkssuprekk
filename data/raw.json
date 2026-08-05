@@ -1,10 +1,31 @@
 [
   {
     "source": "Stratechery (Ben Thompson)",
+    "title": "Google Earnings, The Frontier Case, Amazon Earnings",
+    "link": "https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/",
+    "summary": "Google's earnings seemed to confirm the Anthropic hedge; it was Andy Jassy who explained why their — and Amazon's — capex was justifiable.",
+    "published": "Wed, 05 Aug 2026 10:00:00 +0000"
+  },
+  {
+    "source": "Stratechery (Ben Thompson)",
     "title": "Microsoft Earnings, Microsoft vs. Meta, The Efficiency Payoff",
     "link": "https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff/",
     "summary": "Microsoft's earnings were compelling because they showed a clarity of strategy, lower costs, and a tangibility of application. The reason why is scarier.",
     "published": "Tue, 04 Aug 2026 10:00:00 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "Dominant Assurance Contract aka Refund Bonus Explainer",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/08/dominant-assurance-contract-aka-refund-bonus-explainer.html?utm_source=rss&utm_medium=rss&utm_campaign=dominant-assurance-contract-aka-refund-bonus-explainer",
+    "summary": "<p>I created the dominant assurance contract aka the refund bonus mechanism in 1998&#8211;it&#8217;s a mechanism capable of producing some types of public goods privately&#8211;in recent years working with Tim Cason and Robertas Zubrickas I&#8217;ve put refund bonuses to the test in lab experiments and they work! I&#8217;ve written an accessible Refund Bonus Explainer that covers [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/08/dominant-assurance-contract-aka-refund-bonus-explainer.html\">Dominant Assurance Contract aka Refund Bonus Explainer</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Wed, 05 Aug 2026 11:16:55 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "Is this why China finds it so hard to inflate producer prices?",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/08/is-this-why-china-finds-it-so-hard-to-inflate-producer-prices.html?utm_source=rss&utm_medium=rss&utm_campaign=is-this-why-china-finds-it-so-hard-to-inflate-producer-prices",
+    "summary": "<p>This paper investigates why China’s recurrent credit expansions have coincided with persistently weak inflation. We argue that this pattern reflects the country’s production-oriented monetary regime. At the aggregate level, faster monetary-financial expansion temporarily raises PPI inflation but depresses it over longer horizons. At the sectoral level, liability growth among listed industrial firms is followed by [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/08/is-this-why-china-finds-it-so-hard-to-inflate-producer-prices.html\">Is this why China finds it so hard to inflate producer prices?</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Wed, 05 Aug 2026 07:20:41 +0000"
   },
   {
     "source": "Marginal Revolution (Tyler Cowen)",
@@ -50,6 +71,13 @@
   },
   {
     "source": "A Wealth of Common Sense (Ben Carlson)",
+    "title": "Animal Spirits: When Genius Failed, Again",
+    "link": "https://awealthofcommonsense.com/2026/08/animal-spirits-when-genius-failed-again/",
+    "summary": "<figure><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"436\" src=\"https://awealthofcommonsense.com/wp-content/uploads/2026/08/Screenshot-2026-08-04-165057.png\" width=\"757\" /></figure>On today's show we discuss a crazy month in the stock market, Situational Awareness, leverage always gets you, the semiconductor crash, 60/40 will never die, the behavior gap lives, One Wish Willow for the economy, a theory about the Fed, the economy is still booming, apathy for Bitcoin, the biggest movie weekend ever and much more.\nThe post Animal Spirits: When Genius Failed, Again appeared first on A Wealth of Common Se...",
+    "published": "Wed, 05 Aug 2026 11:15:28 +0000"
+  },
+  {
+    "source": "A Wealth of Common Sense (Ben Carlson)",
     "title": "Spending Money",
     "link": "https://awealthofcommonsense.com/2026/08/spending-money/",
     "summary": "<figure><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"678\" src=\"https://awealthofcommonsense.com/wp-content/uploads/2026/08/IUSUR_chart-3-1024x678.png\" width=\"1024\" /></figure>Why does the economy continue to grow?\nThe post Spending Money appeared first on A Wealth of Common Sense.\n...",
@@ -78,6 +106,55 @@
   },
   {
     "source": "NYT Business",
+    "title": "How Malta Became a Tax Haven for Crocs and Other U.S. Companies",
+    "link": "https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html",
+    "summary": "The Mediterranean archipelago is a hot destination for U.S. companies seeking to shield profits from income taxes.",
+    "published": "Wed, 05 Aug 2026 14:32:49 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "How China’s A.I. Is Surging Across Africa",
+    "link": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
+    "summary": "In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.",
+    "published": "Wed, 05 Aug 2026 14:12:56 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "The Winners of Trump’s A.I. Safety Plan",
+    "link": "https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html",
+    "summary": "The Trump administration’s new safety review guidelines appear to exempt Chinese artificial intelligence models. OpenAI’s and Anthropic’s aren’t.",
+    "published": "Wed, 05 Aug 2026 12:08:39 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "The New York Times’s Revenue Rises 11%",
+    "link": "https://www.nytimes.com/2026/08/05/business/media/new-york-times-earnings-q2.html",
+    "summary": "The company said it added 280,000 digital subscribers in the second quarter.",
+    "published": "Wed, 05 Aug 2026 14:32:27 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Disney Theme Parks Report Strong Results, While Comcast’s Universal Parks Dip",
+    "link": "https://www.nytimes.com/2026/08/05/business/media/disney-parks-universal.html",
+    "summary": "Theme parks have long been seen as a bellwether for consumer confidence. Disney’s domestic parks and cruises revenue rose 11 percent in the latest quarter.",
+    "published": "Wed, 05 Aug 2026 13:37:46 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Disney+ Cracks Open the Door to TikTok Creator Videos",
+    "link": "https://www.nytimes.com/2026/08/05/business/media/disney-tiktok-videos.html",
+    "summary": "Disney said it would allow “thoughtfully curated” fan-created videos, using clips from its library, to appear on the streaming service.",
+    "published": "Wed, 05 Aug 2026 10:00:14 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Wildfire Smoke and Airport Chaos: My Summer Vacation From Hell",
+    "link": "https://www.nytimes.com/2026/08/05/travel/midwest-wildfire-smoke-tornadoes.html",
+    "summary": "Used to chronicling other people’s vacation disasters, a travel reporter faced the new normal on her own long-awaited family trip.",
+    "published": "Wed, 05 Aug 2026 09:20:19 +0000"
+  },
+  {
+    "source": "NYT Business",
     "title": "Chipotle Removes Jalapeños Linked to Salmonella Outbreak From Its Restaurants",
     "link": "https://www.nytimes.com/2026/08/04/us/chipotle-salmonella-outbreak-jalapenos-minnesota.html",
     "summary": "The Minnesota Department of Health said it had identified 110 salmonella cases in this outbreak, and the F.D.A. is also investigating.",
@@ -98,53 +175,11 @@
     "published": "Tue, 04 Aug 2026 20:47:59 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "SpaceX, in First Earnings After IPO, Reports Soaring AI Spending",
-    "link": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
-    "summary": "Elon Musk’s rocket company said its capital expenditures jumped nearly seven times from a year ago. Revenue also rose.",
-    "published": "Tue, 04 Aug 2026 22:52:45 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Justice Dept. Charges Doctor in $95 Million Skin Substitute Fraud Scheme",
-    "link": "https://www.nytimes.com/2026/08/04/health/skin-substitutes-medicare-fraud.html",
-    "summary": "Dr. Stephen Dubin, a wound care doctor in Nevada, is accused of applying unneeded, expensive wound coverings to seniors. He used the profits to buy yachts, the department said.",
-    "published": "Tue, 04 Aug 2026 20:10:14 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
-    "link": "https://www.nytimes.com/2026/08/04/business/stock-market-record.html",
-    "summary": "The S&amp;P 500 rose 1.8 percent, pushing past its previous peak at the start of June and capping a big turnaround from a recent sell off in technology stocks.",
-    "published": "Tue, 04 Aug 2026 22:05:38 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Man’s Claim That Brakes Failed on Jaguar Was Scam to Avoid Car Payments, Court Rules",
-    "link": "https://www.nytimes.com/2026/08/04/world/europe/runaway-car-jaguar-uk.html",
-    "summary": "Nathan Owen called the police, saying he was trapped in a runaway car. A judge determined it was a lie and sentenced him to more than four years in prison.",
-    "published": "Tue, 04 Aug 2026 17:12:58 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Medicaid Urges States to Increase Autism Therapy Oversight",
-    "link": "https://www.nytimes.com/2026/08/04/health/autism-therapy-medicaid.html",
-    "summary": "The program’s spending on the therapy has quintupled since 2021, far outstripping the growth in diagnoses and raising concerns about overprescribing and fraud.",
-    "published": "Tue, 04 Aug 2026 20:31:15 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Warsh Wanted ‘Regime Change.’ A Reset Might Need to Come First.",
-    "link": "https://www.nytimes.com/2026/08/04/business/kevin-warsh-federal-reserve-markets.html",
-    "summary": "After his latest appearance set off a bout of volatility, Kevin M. Warsh, the chairman of the Federal Reserve, is under pressure to clear up mixed signals about his commitment to getting inflation down.",
-    "published": "Tue, 04 Aug 2026 20:08:07 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "U.S. Trade Deficit Dips in June Along With ‘World Cup Effect’",
-    "link": "https://www.nytimes.com/2026/08/04/business/economy/us-trade-deficit-june.html",
-    "summary": "Imports and exports both declined, retreating from a busy month in May, data from the Commerce Department showed.",
-    "published": "Tue, 04 Aug 2026 15:49:32 +0000"
+    "source": "NYT Economy",
+    "title": "How Malta Became a Tax Haven for Crocs and Other U.S. Companies",
+    "link": "https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html",
+    "summary": "The Mediterranean archipelago is a hot destination for U.S. companies seeking to shield profits from income taxes.",
+    "published": "Wed, 05 Aug 2026 14:32:49 +0000"
   },
   {
     "source": "NYT Economy",
@@ -162,6 +197,13 @@
   },
   {
     "source": "NYT DealBook",
+    "title": "The Winners of Trump’s A.I. Safety Plan",
+    "link": "https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html",
+    "summary": "The Trump administration’s new safety review guidelines appear to exempt Chinese artificial intelligence models. OpenAI’s and Anthropic’s aren’t.",
+    "published": "Wed, 05 Aug 2026 12:08:39 +0000"
+  },
+  {
+    "source": "NYT DealBook",
     "title": "Why Wall Street Is Feeling So Bullish",
     "link": "https://www.nytimes.com/2026/08/04/business/dealbook/wall-street-bullish-stocks.html",
     "summary": "Booming corporate profits are driving the S&amp;P 500 near another record, dampening concerns about the war, inflation and more.",
@@ -172,7 +214,21 @@
     "title": "Sign Up for DealBook",
     "link": "https://www.nytimes.com/newsletters/signup/DK",
     "summary": "Make sense of the latest business and policy headlines with our daily newsletter.",
-    "published": "Tue, 04 Aug 2026 11:31:58 +0000"
+    "published": "Wed, 05 Aug 2026 12:11:23 +0000"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Prioritise new jobs over green targets to win public contracts, firms told",
+    "link": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
+    "summary": "The changes are part of government efforts to tackle the youth unemployment crisis.",
+    "published": "Wed, 05 Aug 2026 10:10:02 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Vegetables to get smaller and more expensive due to hot weather, farmers warn",
+    "link": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
+    "summary": "This year's harvest could be the worst on record due to the exceptionally dry spring and summer.",
+    "published": "Wed, 05 Aug 2026 08:53:01 GMT"
   },
   {
     "source": "BBC Business",
@@ -183,10 +239,10 @@
   },
   {
     "source": "BBC Business",
-    "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
+    "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
     "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-    "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
-    "published": "Wed, 05 Aug 2026 06:35:48 GMT"
+    "summary": "Elon Musk told investors that people were \"underestimating\" his company.",
+    "published": "Wed, 05 Aug 2026 14:04:43 GMT"
   },
   {
     "source": "BBC Business",
@@ -197,7 +253,14 @@
   },
   {
     "source": "BBC Business",
-    "title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
+    "title": "How tech is helping in the battle against wildfires",
+    "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
+    "published": "Tue, 04 Aug 2026 23:21:47 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Fashion brand Jaded has ad banned for 'glamorising smoking'",
     "link": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
     "summary": "The advertising watchdog said Jaded London's marketing email made smoking seem appealing.",
     "published": "Tue, 04 Aug 2026 23:20:12 GMT"
@@ -211,129 +274,143 @@
   },
   {
     "source": "BBC Business",
-    "title": "How tech is helping firefighters in the battle against wildfires",
-    "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
-    "summary": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
-    "published": "Tue, 04 Aug 2026 23:21:47 GMT"
+    "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
+    "link": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
+    "summary": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.",
+    "published": "Wed, 05 Aug 2026 07:04:45 GMT"
   },
   {
     "source": "BBC Business",
-    "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+    "title": "Anthropic AI used fake profiles to target people in hack then hid the evidence",
     "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
     "summary": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
-    "published": "Wed, 05 Aug 2026 00:02:18 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
-    "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
-    "summary": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
-    "published": "Tue, 04 Aug 2026 23:09:44 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
-    "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
-    "summary": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
-    "published": "Tue, 04 Aug 2026 13:53:41 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
-    "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
-    "summary": "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering.",
-    "published": "Tue, 04 Aug 2026 10:07:05 GMT"
+    "published": "Wed, 05 Aug 2026 09:24:18 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
-    "link": "https://www.marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories",
-    "summary": "The S&amp;P 500 booked its 25th record close of 2026, after a 42-day break.",
-    "published": "Tue, 04 Aug 2026 22:40:00 GMT"
+    "title": "3 money rules I swear by — and why they work",
+    "link": "https://www.marketwatch.com/story/3-money-rules-i-swear-by-and-why-they-work-f7a1ad65?mod=mw_rss_topstories",
+    "summary": "Managing money is stressful. The new voice of Don’t Short Yourself is here to share real-life tips and tools we can actually use.",
+    "published": "Wed, 05 Aug 2026 14:46:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher",
-    "link": "https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories",
-    "summary": "The AI lending company says it’s enhanced its model to better assess the risk of borrowers.",
-    "published": "Tue, 04 Aug 2026 22:22:00 GMT"
+    "title": "It’s the worst time in years to invest in AI credit markets: ‘Almost no upside and plenty of downside’",
+    "link": "https://www.marketwatch.com/story/its-the-worst-time-in-years-to-invest-in-ai-credit-markets-almost-no-upside-and-plenty-of-downside-a200d5c7?mod=mw_rss_topstories",
+    "summary": "Researchers at Andromeda Capital Management are worried about the uncertain return on investment for investors who are financing the AI capex bonanza.",
+    "published": "Wed, 05 Aug 2026 14:44:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Chipotle pulls jalapenos from some locations after salmonella investigation. Here’s what to know.",
-    "link": "https://www.marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories",
-    "summary": "While Chipotle’s stock slid on Tuesday, it said health investigators had “no ongoing concerns” with the chain after it removed the jalapenos.",
-    "published": "Tue, 04 Aug 2026 21:54:00 GMT"
+    "title": "U.S. economy keeps up the momentum, but rising costs put a cap on new hiring",
+    "link": "https://www.marketwatch.com/story/u-s-economy-keeps-up-the-momentum-but-rising-costs-put-a-cap-on-new-hiring-028d481b?mod=mw_rss_topstories",
+    "summary": "The largest part of the economy grew in July at a robust pace, but scattered shortages of key supplies and dogged inflation raised the cost of business and companies responded by keeping a lid on hiring.",
+    "published": "Wed, 05 Aug 2026 14:18:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Stocks face their weakest seasonal stretch. Why extreme investor pessimism could limit any selling.",
-    "link": "https://www.marketwatch.com/story/stocks-face-their-weakest-seasonal-stretch-why-extreme-investor-pessimism-could-limit-any-selling-768261e9?mod=mw_rss_topstories",
-    "summary": "U.S. stocks are entering what has historically been the weakest stretch of the year, but unusually bearish investor sentiment could help limit any pullback, according to Ned Davis Research.",
-    "published": "Tue, 04 Aug 2026 21:25:00 GMT"
+    "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+    "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+    "summary": "“I was surprised — and flattered — to find myself on the guest list.”",
+    "published": "Wed, 05 Aug 2026 14:00:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
-    "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
-    "summary": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket.”",
-    "published": "Tue, 04 Aug 2026 21:21:00 GMT"
+    "title": "The S&P 500 just hit a new high. ‘Big Short’ investor Michael Burry thinks it could bring a 1987-style fall.",
+    "link": "https://www.marketwatch.com/story/the-s-p-500-just-hit-a-new-high-big-short-investor-michael-burry-thinks-it-could-bring-a-1987-style-fall-775c3b95?mod=mw_rss_topstories",
+    "summary": "The famed investor says watch out after that S&amp;P 500 surge on Tuesday. He’s not budging from some bearish tech views.",
+    "published": "Wed, 05 Aug 2026 13:49:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "McDonald’s says its value meals have become too complicated",
-    "link": "https://www.marketwatch.com/story/mcdonalds-admits-its-value-meals-have-become-too-confusing-dc076468?mod=mw_rss_topstories",
-    "summary": "The fast-food chain said too many promotions at once led to confusion for staff and customers alike.",
-    "published": "Tue, 04 Aug 2026 21:13:00 GMT"
+    "title": "3 reasons AMD’s stock is falling in the face of its latest earnings report",
+    "link": "https://www.marketwatch.com/story/3-reasons-amds-stock-is-falling-in-the-face-of-its-latest-earnings-report-c2e16c71?mod=mw_rss_topstories",
+    "summary": "Analysts noted that the company delivered muted upside with its results, underwhelmed some investors with its margin outlook and was simply up against high expectations.",
+    "published": "Wed, 05 Aug 2026 13:48:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
-    "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
-    "summary": "“She has been living with me for four years.”",
-    "published": "Tue, 04 Aug 2026 21:00:00 GMT"
+    "title": "Lilly’s revenue soars 48%, driven by demand for its GLP-1s",
+    "link": "https://www.marketwatch.com/story/lillys-revenue-soars-48-driven-by-demand-of-its-glp-1s-7361c223?mod=mw_rss_topstories",
+    "summary": "Lilly’s sales were driven by higher-than-expected demand for Mounjaro and Zepbound, its GLP-1 drugs for Type 2 diabetes and weight loss.",
+    "published": "Wed, 05 Aug 2026 13:45:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "Traders are using options to chase a runaway rebound in stocks, pushing the market even higher",
-    "link": "https://www.marketwatch.com/story/traders-are-using-options-to-chase-a-runaway-rebound-in-stocks-pushing-the-market-even-higher-9b08d4ab?mod=mw_rss_topstories",
-    "summary": "Stocks have shot higher over the past four trading sessions, and investors who are worried about missing out are piling into bullish options bets just to try to keep up.",
-    "published": "Tue, 04 Aug 2026 21:00:00 GMT"
+    "title": "ADP says businesses added the fewest new jobs in six months. A summer slowdown in hiring?",
+    "link": "https://www.marketwatch.com/story/adp-says-businesses-add-the-fewer-new-jobs-in-six-months-0923d6b4?mod=mw_rss_topstories",
+    "summary": "ADP said U.S. businesses created just 44,000 new jobs in July — the smallest increase in six months — in another sign of a sluggish labor market in which hiring is unusually soft.",
+    "published": "Wed, 05 Aug 2026 13:43:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
-    "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
-    "summary": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
-    "published": "Tue, 04 Aug 2026 20:47:00 GMT"
+    "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+    "link": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+    "summary": "A reader writes: “I will likely be in a position to decline my benefits.”",
+    "published": "Wed, 05 Aug 2026 13:15:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "So what’s the plan to bring down inflation? The new Fed chair and his White House allies say you shouldn’t ask.",
-    "link": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
-    "summary": "Critics say Kevin Warsh’s determination to cool prices gains isn’t sufficient.",
-    "published": "Tue, 04 Aug 2026 20:26:00 GMT"
+    "title": "The government owns some of the same stocks you do. Here’s why that is risky.",
+    "link": "https://www.marketwatch.com/story/the-government-owns-some-of-the-same-stocks-you-do-heres-why-that-is-risky-6ad6462d?mod=mw_rss_topstories",
+    "summary": "Recent deals to have the U.S. take a stake in companies mark something new: Government ownership used as a standing industrial-policy tool rather than an emergency backstop.",
+    "published": "Wed, 05 Aug 2026 12:30:00 GMT"
   },
   {
     "source": "CNBC Business",
-    "title": "Here's what to expect when Disney reports earnings before the bell",
+    "title": "Disney weighs free ad-supported streaming, says it has sold out Super Bowl ad spots",
+    "link": "https://www.cnbc.com/2026/08/05/disney-free-ad-supported-streaming-super-bowl-ads.html",
+    "summary": "Disney is considering a free streaming product as advertising takes a bigger role in making streaming profitable.",
+    "published": "Wed, 05 Aug 2026 14:44:28 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
+    "link": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
+    "summary": "Bank of America was among the prime brokers for the hedge fund, which is run by Leopold Aschenbrenner.",
+    "published": "Wed, 05 Aug 2026 14:29:46 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
+    "link": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
+    "summary": "Employers have grappled with soaring demand for GLP-1 drugs such as Ozempic and Wegovy, which can cost thousands of dollars per patient annually.",
+    "published": "Wed, 05 Aug 2026 14:49:42 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "Eli Lilly easily tops quarterly estimates, raises outlook as Zepbound and Mounjaro sales surge",
+    "link": "https://www.cnbc.com/2026/08/05/eli-lilly-lly-earnings-q2-2026.html",
+    "summary": "Eli Lilly now expects 2026 revenue to come in between $85 billion and $87 billion, up from previous guidance of $82 billion to $85 billion.",
+    "published": "Wed, 05 Aug 2026 14:35:37 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "Disney tops earnings estimates as parks and streaming offer a boost",
     "link": "https://www.cnbc.com/2026/08/05/disney-dis-earnings-q3-2026.html",
-    "summary": "Disney reports its fiscal third-quarter earnings before the bell Wednesday as the market awaits further updates and changes under newly minted CEO Josh D'Amaro.",
-    "published": "Wed, 05 Aug 2026 04:01:01 GMT"
+    "summary": "Disney reported growth at its domestic theme parks and cruises despite mounting macroeconomic uncertainty for consumers.",
+    "published": "Wed, 05 Aug 2026 13:43:32 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "CVS blows past estimates, hikes guidance as insurance unit continues to improve",
+    "link": "https://www.cnbc.com/2026/08/05/cvs-health-cvs-earnings-q2-2026.html",
+    "summary": "CVS also announced a new collaboration with Eli Lilly that will make Zepbound and Foundayo accessible to eligible patients on the CVS Health app.",
+    "published": "Wed, 05 Aug 2026 14:15:32 GMT"
   },
   {
     "source": "CNBC Business",
     "title": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.",
     "link": "https://www.cnbc.com/2026/08/04/gm-chinese-automaker-extend-tie-up-amid-geopolitical-tensions-with-us.html",
     "summary": "GM said the deal will focus on domestic sales of Buick and Cadillac models in China and exporting Chevrolet products built in China for non-U.S. markets.",
-    "published": "Wed, 05 Aug 2026 02:30:01 GMT"
+    "published": "Wed, 05 Aug 2026 12:16:52 GMT"
   },
   {
     "source": "CNBC Business",
-    "title": "Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle",
+    "title": "Lucid stock plunges as EV maker begins 'operational reset,' delays midsize vehicle",
     "link": "https://www.cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html",
     "summary": "The company didn't provide updated guidance. New CEO Silvio Napoli earlier this year suspended production expectations.",
-    "published": "Tue, 04 Aug 2026 22:47:49 GMT"
+    "published": "Wed, 05 Aug 2026 14:35:07 GMT"
   },
   {
     "source": "CNBC Business",
@@ -350,39 +427,32 @@
     "published": "Tue, 04 Aug 2026 20:13:38 GMT"
   },
   {
-    "source": "CNBC Business",
-    "title": "Novo Nordisk shares slide after guidance disappoints investors",
-    "link": "https://www.cnbc.com/2026/08/04/novo-nordisk-releases-earnings-and-guidance.html",
-    "summary": "Novo Nordisk raised its financial outlook as it tries to catch up with rival Eli Lilly in the booming GLP-1 market.",
-    "published": "Tue, 04 Aug 2026 20:12:20 GMT"
+    "source": "CNBC Finance",
+    "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
+    "link": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
+    "summary": "Employers have grappled with soaring demand for GLP-1 drugs such as Ozempic and Wegovy, which can cost thousands of dollars per patient annually.",
+    "published": "Wed, 05 Aug 2026 14:49:42 GMT"
   },
   {
-    "source": "CNBC Business",
-    "title": "Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC",
-    "link": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
-    "summary": "P&amp;G CEO Shailesh Jejurikar said the acquisition is a play to grow the company's health business on CNBC's \"Squawk on the Street.\"",
-    "published": "Tue, 04 Aug 2026 17:02:05 GMT"
+    "source": "CNBC Finance",
+    "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
+    "link": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
+    "summary": "Bank of America was among the prime brokers for the hedge fund, which is run by Leopold Aschenbrenner.",
+    "published": "Wed, 05 Aug 2026 14:29:46 GMT"
   },
   {
-    "source": "CNBC Business",
-    "title": "Why Ford believes its 10.2% July U.S. sales decline was still a 'good' month",
-    "link": "https://www.cnbc.com/2026/08/04/ford-july-sales-decline.html",
-    "summary": "The July decline adds to a lackluster sales year for the automaker, with results off 9.7% compared with 2025.",
-    "published": "Tue, 04 Aug 2026 16:04:43 GMT"
+    "source": "CNBC Finance",
+    "title": "Stocks making the biggest moves premarket: SpaceX, AMD, Eli Lilly, Disney & more",
+    "link": "https://www.cnbc.com/2026/08/05/stocks-making-the-biggest-moves-premarket-spcx-amd-lly-dis-more.html",
+    "summary": "These are the stocks posting the largest moves premarket.",
+    "published": "Wed, 05 Aug 2026 11:43:43 GMT"
   },
   {
-    "source": "CNBC Business",
-    "title": "Foreigners are buying fewer U.S. properties, but luxury homebuilders still draw them in",
-    "link": "https://www.cnbc.com/2026/08/04/foreign-buyers-us-properties.html",
-    "summary": "Foreign buyers are pulling back sharply from U.S. residential real estate, in part due to a pullback among workers that would qualify for H-1B visas.",
-    "published": "Tue, 04 Aug 2026 13:33:21 GMT"
-  },
-  {
-    "source": "CNBC Business",
-    "title": "McDonald's says its U.S. business is falling short as it announces new head of its largest market",
-    "link": "https://www.cnbc.com/2026/08/04/mcdonalds-mcd-q2-2026-earnings.html",
-    "summary": "McDonald's stock has fallen more than 11% this year, dragging its market cap down to roughly $191 billion.",
-    "published": "Tue, 04 Aug 2026 20:15:34 GMT"
+    "source": "CNBC Finance",
+    "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
+    "link": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
+    "summary": "The July gains came after Citadel acquired the bulk of the public-stock portfolio formerly held by Situational Awareness late last month.",
+    "published": "Wed, 05 Aug 2026 11:13:46 GMT"
   },
   {
     "source": "CNBC Finance",
@@ -427,73 +497,24 @@
     "published": "Tue, 04 Aug 2026 12:05:41 GMT"
   },
   {
-    "source": "CNBC Finance",
-    "title": "Stocks making the biggest moves premarket: McDonald's, Caterpillar, Palantir, Merck & more",
-    "link": "https://www.cnbc.com/2026/08/04/stocks-making-the-biggest-moves-premarket-mcd-cat-pltr-mrk.html",
-    "summary": "These are the stocks posting the largest moves in early trading.",
-    "published": "Tue, 04 Aug 2026 11:42:17 GMT"
-  },
-  {
-    "source": "CNBC Finance",
-    "title": "Stocks making the biggest moves after hours: Palantir, On Semiconductor, Snap & more",
-    "link": "https://www.cnbc.com/2026/08/03/stocks-making-the-biggest-moves-after-hours-pltr-on-snap.html",
-    "summary": "These are the stocks posting the largest moves after the bell.",
-    "published": "Mon, 03 Aug 2026 20:45:50 GMT"
-  },
-  {
-    "source": "CNBC Finance",
-    "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
-    "link": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
-    "summary": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
-    "published": "Mon, 03 Aug 2026 19:20:25 GMT"
-  },
-  {
-    "source": "CNBC Finance",
-    "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
-    "link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
-    "summary": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.",
-    "published": "Tue, 04 Aug 2026 19:38:23 GMT"
-  },
-  {
     "source": "Hacker News Top",
-    "title": "libexpat now funded by the City of Munich for up to 6 months",
-    "link": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-    "summary": "<p>Article URL: <a href=\"https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/\">https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176606\">https://news.ycombinator.com/item?id=49176606</a></p>\n<p>Points: 243</p>\n<p># Comments: 33</p>",
-    "published": "Tue, 04 Aug 2026 23:18:12 +0000"
+    "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+    "link": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+    "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/\">https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49181099\">https://news.ycombinator.com/item?id=49181099</a></p>\n<p>Points: 251</p>\n<p># Comments: 118</p>",
+    "published": "Wed, 05 Aug 2026 11:03:13 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Pi's Minimalism Is Its Advantage",
     "link": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-    "summary": "<p>Article URL: <a href=\"https://earendil.com/posts/pi-autoresearch-and-databricks/\">https://earendil.com/posts/pi-autoresearch-and-databricks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176038\">https://news.ycombinator.com/item?id=49176038</a></p>\n<p>Points: 270</p>\n<p># Comments: 106</p>",
+    "summary": "<p>Article URL: <a href=\"https://earendil.com/posts/pi-autoresearch-and-databricks/\">https://earendil.com/posts/pi-autoresearch-and-databricks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176038\">https://news.ycombinator.com/item?id=49176038</a></p>\n<p>Points: 469</p>\n<p># Comments: 244</p>",
     "published": "Tue, 04 Aug 2026 22:22:12 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-    "link": "https://twitter.com/gwern/status/2084739205071343837",
-    "summary": "<p><a href=\"https://twitter.com/willdepue/status/2084750925013434768\" rel=\"nofollow\">https://twitter.com/willdepue/status/2084750925013434768</a>, <a href=\"https://xcancel.com/willdepue/status/2084750925013434768\" rel=\"nofollow\">https://xcancel.com/willdepue/status/2084750925013434768</a><p><a href=\"https://gwern.net/guardian-angel\" rel=\"nofollow\">https://gwern.net/guardian-angel</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49174900\">https://news.ycombinator.com/item?id=49174900</a></p>\n<p>Points: 257</p>\n<p># Comments: 155</p>",
-    "published": "Tue, 04 Aug 2026 20:48:17 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-    "link": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-    "summary": "<p>Article URL: <a href=\"https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/\">https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49173165\">https://news.ycombinator.com/item?id=49173165</a></p>\n<p>Points: 1240</p>\n<p># Comments: 71</p>",
-    "published": "Tue, 04 Aug 2026 18:51:38 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Waymo in Dallas",
-    "link": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-    "summary": "<p>Article URL: <a href=\"https://waymo.com/blog/shorts/dallas-open-to-all/\">https://waymo.com/blog/shorts/dallas-open-to-all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49172836\">https://news.ycombinator.com/item?id=49172836</a></p>\n<p>Points: 284</p>\n<p># Comments: 477</p>",
-    "published": "Tue, 04 Aug 2026 18:29:41 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
     "link": "https://mistral.ai/news/shieldstral/",
-    "summary": "<p>Article URL: <a href=\"https://mistral.ai/news/shieldstral/\">https://mistral.ai/news/shieldstral/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49171268\">https://news.ycombinator.com/item?id=49171268</a></p>\n<p>Points: 377</p>\n<p># Comments: 90</p>",
+    "summary": "<p>Article URL: <a href=\"https://mistral.ai/news/shieldstral/\">https://mistral.ai/news/shieldstral/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49171268\">https://news.ycombinator.com/item?id=49171268</a></p>\n<p>Points: 461</p>\n<p># Comments: 121</p>",
     "published": "Tue, 04 Aug 2026 16:36:05 +0000"
   },
   {
@@ -504,29 +525,22 @@
     "published": "Tue, 04 Aug 2026 15:16:22 +0000"
   },
   {
-    "source": "Hacker News Top",
-    "title": "Xbox goes down. You can't play games you own on disc",
-    "link": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-    "summary": "<p>Article URL: <a href=\"https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/\">https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49167448\">https://news.ycombinator.com/item?id=49167448</a></p>\n<p>Points: 624</p>\n<p># Comments: 659</p>",
-    "published": "Tue, 04 Aug 2026 12:01:02 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "There Will Come Soft Rains (1950) [pdf]",
-    "link": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-    "summary": "<p>Article URL: <a href=\"https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf\">https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49162653\">https://news.ycombinator.com/item?id=49162653</a></p>\n<p>Points: 374</p>\n<p># Comments: 393</p>",
-    "published": "Mon, 03 Aug 2026 23:24:53 +0000"
+    "source": "Ars Technica",
+    "title": "Pushing the limits: Infinite Machine's Olto is barely a bicycle",
+    "link": "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/",
+    "summary": "Scooter layout makes pedaling a bad experience. But it does have pedals.",
+    "published": "Wed, 05 Aug 2026 11:00:26 +0000"
   },
   {
     "source": "Ars Technica",
-    "title": "Senators demand crackdown on wildfire \"prediction markets\"",
+    "title": "Senators demand crackdown on wildfire \"prediction market\" bets",
     "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
     "summary": "Fire experts warn such markets could incentivize arson.",
     "published": "Tue, 04 Aug 2026 21:52:31 +0000"
   },
   {
     "source": "Ars Technica",
-    "title": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+    "title": "Trump killed the Digital Equity Act but US was forced to bring part of it back",
     "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
     "summary": "$1.25 billion program restored, but judge ruled race provision unconstitutional.",
     "published": "Tue, 04 Aug 2026 21:27:05 +0000"
@@ -581,18 +595,67 @@
     "published": "Tue, 04 Aug 2026 13:38:29 +0000"
   },
   {
-    "source": "Ars Technica",
-    "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
-    "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
-    "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
-    "published": "Mon, 03 Aug 2026 22:11:39 +0000"
+    "source": "MIT Tech Review",
+    "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+    "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids   At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space&#8230;",
+    "published": "Wed, 05 Aug 2026 12:10:00 +0000"
   },
   {
     "source": "MIT Tech Review",
-    "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+    "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+    "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of the cosmos.&#8230;",
+    "published": "Wed, 05 Aug 2026 08:06:40 +0000"
+  },
+  {
+    "source": "MIT Tech Review",
+    "title": "The Download: US robot restrictions and ICE’s DNA grab",
     "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;kick children, and despite advances are still worse at&#160;using their hands&#160;than my toddler. It’s&#8230;",
     "published": "Tue, 04 Aug 2026 12:14:00 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Chinese and Western firms are teaming up even as governments fight",
+    "link": "https://www.scmp.com/opinion/world-opinion/article/3362827/chinese-and-western-firms-are-teaming-even-governments-fight?utm_source=rss_feed",
+    "summary": "In an era defined by escalating geopolitical tensions and the weaponisation of supply chains, a counterintuitive phenomenon is taking root in the industrial heartlands of China, the United States and Europe. While governments in Beijing, Washington and Brussels engage in high-stakes chess matches of tariffs, export controls, sanctions and investment screening mechanisms, a parallel universe of corporate deal-making is flourishing.\nThe prevailing logic among multinational executives is that...",
+    "published": "Wed, 05 Aug 2026 12:30:07 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Peninsula group to renovate Hong Kong flagship, Tokyo hotel in US$268m project",
+    "link": "https://www.scmp.com/business/companies/article/3363063/peninsula-group-renovate-hong-kong-flagship-tokyo-hotel-us268m-project?utm_source=rss_feed",
+    "summary": "The owner of Hong Kong’s iconic Peninsula hotel plans to invest HK$2.1 billion (US$268 million) to renovate its flagship hotel in the city and its Tokyo property, betting on the long-term strength of the luxury travel market despite geopolitical uncertainty and volatile consumer demand.\nHongkong and Shanghai Hotels (HSH), which owns and operates The Peninsula hotel chain, announced the renovation plan on Wednesday alongside interim results showing a return to profit after stronger performances...",
+    "published": "Wed, 05 Aug 2026 11:00:10 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "China’s AI revenue projected to reach US$13b on breakthroughs, adoption: Goldman Sachs",
+    "link": "https://www.scmp.com/tech/big-tech/article/3363059/chinas-ai-revenue-projected-reach-us13b-breakthroughs-adoption-goldman-sachs?utm_source=rss_feed",
+    "summary": "Rising cost efficiency and rapidly advancing capabilities from players like DeepSeek and MiniMax have prompted Goldman Sachs to raise its run-rate revenue forecast for China’s artificial intelligence model market by 30 per cent to US$13 billion.\nIn a research note published on Monday, the US investment bank boosted its year-end annualised recurring revenue (ARR) projection for mainland Chinese AI models from US$10 billion, citing aggressive price cuts, technical breakthroughs and accelerating...",
+    "published": "Wed, 05 Aug 2026 10:30:19 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Amid slowing hotpot growth in China, Haidilao takes on biggest American burger brands",
+    "link": "https://www.scmp.com/business/companies/article/3363051/amid-slowing-hotpot-growth-china-haidilao-takes-biggest-american-burger-brands?utm_source=rss_feed",
+    "summary": "China’s largest hotpot chain Haidilao International Holding is aiming to further diversify its business with hamburger stores – following the example set by American brands like McDonald’s and KFC – and has also opened up more sushi stores to tap new growth drivers, as its core hotpot business shows slowing momentum.\nThe country’s hamburger market is seeing intense competition, with US brand Five Guys opening its first two stores in Beijing on Monday. Hong Kong-listed Haidilao officially...",
+    "published": "Wed, 05 Aug 2026 10:00:13 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "China’s Moonshot AI aims for US$50b round as year-end Hong Kong IPO targeted: sources",
+    "link": "https://www.scmp.com/tech/big-tech/article/3363026/chinas-moonshot-ai-aims-us50b-round-year-end-hong-kong-ipo-targeted-sources?utm_source=rss_feed",
+    "summary": "Chinese unicorn Moonshot AI has started and is expected to close its latest financing round by the end of this month, as it dismantles its offshore structure to pave the way for a potential Hong Kong initial public offering (IPO) as early as the end of the year, according to two sources familiar with the matter.\nThe company was expected to raise capital at a valuation of up to US$50 billion in this latest round, one of the sources said.\nThe South China Morning Post, citing sources, reported last...",
+    "published": "Wed, 05 Aug 2026 07:24:12 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "China’s X Square Robot submits confidential filing for Hong Kong IPO, sources say",
+    "link": "https://www.scmp.com/tech/tech-war/article/3363028/chinas-x-square-robot-submits-confidential-filing-hong-kong-ipo-sources-say?utm_source=rss_feed",
+    "summary": "Chinese start-up X Square Robot has filed confidentially for an initial public offering (IPO) in Hong Kong, according to two sources familiar with the matter, joining a growing wave of domestic robot makers flocking to capital markets, despite new US trade restrictions.\nThe Shenzhen-based firm has tapped Huatai Securities and Morgan Stanley as sponsors for the prospective float, one of the sources said.\nBesides X Square, AgiBot and Galbot have also filed confidentially for Hong Kong IPOs, the...",
+    "published": "Wed, 05 Aug 2026 07:22:03 +0000"
   },
   {
     "source": "SCMP Business",
@@ -621,47 +684,5 @@
     "link": "https://www.scmp.com/business/markets/article/3362996/chinas-stock-market-sees-drop-new-share-margin-trading-accounts-amid-tech-sell?utm_source=rss_feed",
     "summary": "New account openings and leveraged trading in mainland China’s stock market slowed in July, as a global artificial intelligence-linked sell-off dented investor appetite following a positive first half of the year for technology shares.\nThe Shanghai Stock Exchange opened 2.66 million new A-share accounts in July, down 7 per cent from June, according to exchange data. That brought the cumulative tally for the January-to-July period to 22.82 million new accounts.\nMargin trading activity painted a...",
     "published": "Wed, 05 Aug 2026 03:49:19 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "China’s sovereign bond sale in Hong Kong draws global interest, raising over US$2 billion",
-    "link": "https://www.scmp.com/business/banking-finance/article/3362961/why-chinas-new-sovereign-bond-sale-hong-kong-drawing-global-interest?utm_source=rss_feed",
-    "summary": "China’s Ministry of Finance has successfully raised 15 billion yuan (US$2.22 billion) through a sovereign bond auction in Hong Kong, tapping international capital just days after the city launched a long-awaited tool designed to help global investors hedge against mainland bond market risks.\nThe sale, conducted on Wednesday for institutional investors, was met with an enthusiastic market response, achieving a 4.67 bid-to-cover ratio. It marks the fourth tranche of Beijing’s 84 billion yuan...",
-    "published": "Wed, 05 Aug 2026 00:00:18 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Innovation platform buys Hong Kong office tower as state-linked buyers seek bargains",
-    "link": "https://www.scmp.com/business/article/3362930/innovation-platform-buys-hong-kong-office-tower-state-linked-buyers-seek-bargains?utm_source=rss_feed",
-    "summary": "The acquisition of a Hong Kong office tower by an innovation platform backed by Ningbo’s city government has reinforced analysts’ expectations that mainland government-linked institutions could play a bigger role in the city’s commercial property market, where prices remain depressed.\nLand Registry records show Yonggang Science and Technology Innovation Centre reached an agreement with receivers on June 25 to buy the Konnect office building in Wan Chai for HK$800 million (US$102 million) – about...",
-    "published": "Tue, 04 Aug 2026 23:00:08 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "China’s MiniMax curbs overseas access to new AI video model over copyright disputes",
-    "link": "https://www.scmp.com/tech/tech-trends/article/3362951/chinas-minimax-curbs-overseas-access-new-ai-video-model-over-copyright-disputes?utm_source=rss_feed",
-    "summary": "Chinese artificial intelligence company MiniMax has open-sourced its new H3 video model but imposed licensing conditions on users in major overseas markets including the US and European Union, underscoring the copyright challenges in generative video AI.\nAfter the Shanghai-based company released the model’s weights to developers on Monday, users found that the licence restricted free access in the US, EU, UK and South Korea.\nThe weights – the underlying parameters that encode its intelligence –...",
-    "published": "Tue, 04 Aug 2026 12:00:12 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "SpaceX report, share unlock may sway Hong Kong, mainland China stocks as AI trade recovers",
-    "link": "https://www.scmp.com/business/china-business/article/3362898/spacex-report-share-unlock-may-sway-hong-kong-mainland-china-stocks-ai-trade-recovers?utm_source=rss_feed",
-    "summary": "SpaceX’s first earnings report since its listing, together with the coming supply of a large chunk of shares available for public trading, will test the strength of the artificial intelligence trade’s recovery, which has driven the S&amp;P 500 within striking distance of its record high and helped Hong Kong equities outperform.\nThe first set of results from SpaceX as a publicly traded company will be under close scrutiny, with Elon Musk’s commercial aerospace unit viewed as a gauge of investors’...",
-    "published": "Tue, 04 Aug 2026 10:00:13 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Could China’s new trust tax pull Pan Shiyi’s wealth into the capital flight spotlight?",
-    "link": "https://www.scmp.com/business/money/wealth/article/3362835/could-chinas-new-trust-tax-pull-pan-shiyis-wealth-capital-flight-spotlight?utm_source=rss_feed",
-    "summary": "China’s ultra-rich are finding themselves under greater scrutiny as new tax rules on offshore trusts raise questions over their fortunes, with New York-based property tycoon Pan Shiyi’s Cayman structure cast back into the spotlight.\nMarket watchers said the rules – which impose a flat 20 per cent levy across a trust’s life cycle – were in line with international practices but marked a sharp escalation in the scrutiny of capital flight, with Pan’s case emerging as a touchstone.\n“Prior legislation...",
-    "published": "Tue, 04 Aug 2026 09:15:48 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Europe’s new EV power struggle sees Chinese giants seize record market share",
-    "link": "https://www.scmp.com/business/china-evs/article/3362905/europes-new-ev-power-struggle-sees-chinese-giants-seize-record-market-share?utm_source=rss_feed",
-    "summary": "Chinese electric vehicle (EV) makers and Tesla are locked in a tug of war across western Europe, taking advantage of rising consumer demand for battery-powered vehicles as volatile oil prices drive buyers away from traditional models.\nChinese brands – including BYD to Xpeng – saw their combined market share of new car sales across 18 Western European countries rise to a record 10.7 per cent in the second quarter of 2026, up from 5.7 per cent a year earlier, data from Germany-based consultancy...",
-    "published": "Tue, 04 Aug 2026 07:26:55 +0000"
   }
 ]
