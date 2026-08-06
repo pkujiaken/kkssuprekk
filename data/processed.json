@@ -1,93 +1,104 @@
 {
   "top5": [
     {
-      "title": "AI领域投资激增、人才流失及市场波动",
-      "summary": "谷歌关键AI高管杰夫·迪恩（Jeff Dean）离职并创立新公司，反映AI人才争夺激烈。同时，SpaceX和Figma因其大规模AI投资导致股价下跌，Nvidia则因独家供货SpaceX而股价上涨，显示AI投入对科技巨头财务表现和估值的巨大影响。投资者需关注AI战略投入的风险与回报，以及头部公司间的竞争格局，这预示着AI技术迭代和商业模式探索将加速。",
+      "title": "谷歌AI核心人才流失，顶尖研究员成立新公司并获谷歌支持",
+      "summary": "谷歌前首席科学家Jeff Dean和其他三位顶级AI研究员离职，创立了一家新的AI公司，并获得了谷歌的资金支持。此事件凸显了AI领域人才竞争的激烈性以及大型科技公司在内部创新与外部生态系统建设之间寻求平衡的策略。对于投资者而言，这可能意味着谷歌的AI战略正在发生调整，同时也预示着AI初创公司将获得更多巨头支持和更高估值，加速行业创新与竞争格局演变。",
       "sources": [
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/"
-        },
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html"
         },
         {
           "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/alphabets-stock-drops-as-google-loses-another-key-ai-executive-38de45a2?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX巨额AI投资引发市场担忧，马斯克独家青睐英伟达芯片",
+      "summary": "据摩根士丹利预测，SpaceX今年将在AI领域投入高达640亿美元的资本支出，这一庞大投资规模引发华尔街对科技公司AI军备竞赛成本的担忧，导致SpaceX股价下跌。同时，CEO埃隆·马斯克公开表示SpaceX的AI项目将只使用英伟达的芯片，这一高调背书进一步巩固了英伟达在AI硬件领域的霸主地位，并直接提振了其股价。此事件揭示了AI投资的惊人规模及其对产业链上下游的深远影响。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/spacexs-stock-falls-as-wall-street-gets-spooked-by-the-extent-of-ai-spending-9ce9ddb8?mod=mw_rss_topstories"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/why-at-t-verizon-and-t-mobile-shares-are-down-after-spacexs-earnings-033a07ce?mod=mw_rss_topstories"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/nvidias-stock-is-basking-in-the-glow-of-a-high-profile-endorsement-b7c48e7b?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "美国财政部介入日元汇市，AI投资成为全球市场焦点",
-      "summary": "美国通过协调干预支撑日元汇率，避免日本出售美债，显示了全球金融体系的联动性。更深层的是，美国股市的创纪录上涨和全球货币市场的波动都与投资者对AI技术及其未来增长的押注紧密相关，表明AI已成为驱动全球市场情绪和资本流动的关键因素，其影响力超越单一行业，波及宏观经济和金融稳定。",
+      "title": "美联储官员暗示可能加息，并考虑减少会议频率以应对通胀",
+      "summary": "美联储理事丽莎·库克表示，她已“准备好采取行动”通过加息来应对通胀，这表明美联储内部仍有鹰派倾向，并可能继续收紧货币政策。此外，美联储正在考虑减少会议频率，此举可能在未来增加市场对政策走向的不确定性和波动性。这些动态对全球利率预期、资本市场流动性和投资者风险偏好都将产生关键影响。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html"
+        },
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html"
+        }
+      ]
+    },
+    {
+      "title": "美国财政部长Bessent宣布“K型经济已死”，引发对不平等的政策展望",
+      "summary": "美国财政部长Bessent宣称，数据与现有观点相悖，贫富差距日益扩大的“K型经济”已不复存在。尽管此说法与当前一些经济指标有所出入，但作为高级官员的公开表态，可能预示着拜登政府将调整其在经济不平等问题上的叙事和未来政策重点，进而影响到劳工政策、税收改革和财富分配相关投资领域，投资者需关注其后续政策导向。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/05/business/stock-market-yen-ai.html"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/08/04/business/economy/bessent-yen-currency-support.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/05/business/stock-market-yen-ai.html"
+          "url": "https://www.nytimes.com/2026/08/05/business/bessent-wage-gap.html"
         }
       ]
     },
     {
-      "title": "SEC成立新金融报告执法部门，强化企业监管",
-      "summary": "美国证券交易委员会（SEC）新设专业部门，旨在加强对公司财务报告和会计欺诈案件的调查与起诉。此举预示着未来企业面临更严格的合规要求和潜在的执法风险，对上市公司的财务透明度和治理结构提出更高挑战，投资者应关注企业披露和合规性方面的潜在风险，以避免踩雷。",
-      "sources": [
-        {
-          "name": "SEC Press",
-          "url": "https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes-financial-reporting-accounting-unit-enforcement-division"
-        }
-      ]
-    },
-    {
-      "title": "礼来制药财报强劲，GLP-1减肥药市场需求飙升",
-      "summary": "礼来公司第二季度业绩强劲，上调全年营收展望，主要得益于其GLP-1类药物Zepbound和Mounjaro的销售额激增。这不仅凸显了这类减肥和糖尿病药物的巨大市场潜力及其对制药行业增长的强大驱动力，也反映了企业和消费者对健康管理投入的增加，该类药物已成为医药领域不可忽视的增长点。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/05/eli-lilly-lly-earnings-q2-2026.html"
-        }
-      ]
-    },
-    {
-      "title": "中国AI技术在非洲影响力扩大，美国AI安全政策引发关注",
-      "summary": "中国廉价且易用的AI模型在非洲科技中心日益普及，与美国更强大的AI模型形成竞争。与此同时，特朗普政府的AI安全审查新规似乎豁免了中国模型，却严格限制了OpenAI和Anthropic等美国公司。这可能影响美国AI企业的全球竞争力，并引发中美在AI领域的战略博弈，预示着地缘政治在科技领域的影响力加剧。",
+      "title": "FDA批准Moderna mRNA流感疫苗，拓宽mRNA技术应用领域",
+      "summary": "美国食品药品监督管理局（FDA）批准了Moderna的mRNA流感疫苗，此前该机构曾拒绝审查其申请，但在公众强烈抗议后改变了立场。这一批准对Moderna而言是重要的里程碑，不仅为其开辟了新的巨大市场，也进一步验证了mRNA技术在传统疫苗领域之外的广泛应用潜力和商业价值，对整个生物科技行业具有示范效应。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html"
+          "url": "https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html"
         }
       ]
     }
   ],
   "people": [
     {
+      "name": "Lisa Cook",
+      "title": "美联储理事库克：准备加息以应对通胀",
+      "summary": "美联储理事丽莎·库克表示，她已“原话：「准备好采取行动」”加息以应对通胀。她在上周以9比3的多数票支持将基准借贷利率维持在3.5%-3.75%的区间内，但其言论表明美联储在控制通胀方面仍保持鹰派立场，这可能影响未来利率决策。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html"
+        }
+      ]
+    },
+    {
       "name": "Ben Thompson",
-      "title": "分析谷歌财报及亚马逊资本支出逻辑",
-      "summary": "观点：Stratechery分析师Ben Thompson指出，谷歌的财报似乎证实了其对Anthropic的战略对冲是有效的，而亚马逊首席执行官Andy Jassy成功解释了亚马逊及其资本支出增长的合理性。这表明在AI竞争激烈的时代，科技巨头通过多元化投资和清晰战略来巩固市场地位至关重要。",
+      "title": "Stratechery创始人：谷歌财报印证对Anthropic的对冲，亚马逊资本支出合理",
+      "summary": "观点：Ben Thompson分析指出，谷歌的财报结果似乎印证了其对AI公司Anthropic的对冲投资是正确的策略。同时，他认为亚马逊（及其自身）大规模资本支出的合理性，已由其CEO安迪·贾西（Andy Jassy）在财报电话会议中清晰阐释。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/08/google-earnings-the-frontier-case-amazon-earnings/"
+          "url": "https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/"
         }
       ]
     },
     {
       "name": "Tyler Cowen",
-      "title": "探讨中国生产者价格通胀难题",
-      "summary": "观点：经济学家Tyler Cowen援引研究指出，中国经常性的信贷扩张与持续疲软的通胀并存，生产者价格上涨乏力，这反映了其“生产导向型货币制度”的特点。研究发现，更快的货币金融扩张短期内会推高PPI，但长期却会抑制通胀，对理解中国经济特质和政策效果具有重要意义。",
+      "title": "经济学家：联邦资金模式或致美国城市财政危机，中国生产导向型货币制度致PPI难涨",
+      "summary": "观点：Tyler Cowen提出，联邦政府向城市输送资金的三种方式（直接转移、间接转移、财政暗物质）可能导致美国城市面临连锁财政危机。他还指出，中国生产导向型的货币制度可能是其尽管信贷扩张却难以推高生产者价格指数（PPI）的原因。",
       "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds.html?utm_source=rss&utm_medium=rss&utm_campaign=will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds"
+        },
         {
           "name": "Marginal Revolution (Tyler Cowen)",
           "url": "https://marginalrevolution.com/marginalrevolution/2026/08/is-this-why-china-finds-it-so-hard-to-inflate-producer-prices.html?utm_source=rss&utm_medium=rss&utm_campaign=is-this-why-china-finds-it-so-hard-to-inflate-producer-prices"
@@ -96,8 +107,8 @@
     },
     {
       "name": "Brian Moynihan",
-      "title": "警示杠杆风险并披露GLP-1药物成本",
-      "summary": "原话：「对冲基金‘Situational Awareness’的崩盘是给杠杆化市场敲响的警钟。」美国银行首席执行官Brian Moynihan强调了过度杠杆的风险。他还透露，美国银行每年为员工的GLP-1药物（如Ozempic和Wegovy）花费2.5亿美元，这凸显了这类药物对企业医疗成本的显著影响。",
+      "title": "美国银行CEO：对冲基金崩盘警示杠杆市场，GLP-1药物成本高昂",
+      "summary": "观点：美国银行CEO布莱恩·莫伊尼汉表示，近期“情景意识”（Situational Awareness）对冲基金的崩盘是对杠杆市场发出的一个警示，凸显了过度杠杆的风险。他还透露，美国银行每年为员工的GLP-1减肥药物（如Ozempic和Wegovy）花费2.5亿美元，这反映了企业在员工医疗福利上面临日益增长的成本压力。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -110,29 +121,10 @@
       ]
     },
     {
-      "name": "Bessent",
-      "title": "宣称K型经济分化终结，并主导日元干预",
-      "summary": "美国财政部长Bessent表示，尽管数据存在争议，但“贫富差距扩大的K型经济已不复存在”。她同时在日元汇率问题上扮演关键角色，通过协调干预而非出售美国国债来支持日元。这表明美国政府在应对宏观经济挑战和维护全球金融稳定方面的策略与信心。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/05/business/bessent-wage-gap.html"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/08/04/business/economy/bessent-yen-currency-support.html"
-        }
-      ]
-    },
-    {
       "name": "Elon Musk",
-      "title": "强调SpaceX的AI投资规模及Nvidia芯片的独家使用",
-      "summary": "原话：「SpaceX将只使用英伟达的芯片来构建其AI。」尽管SpaceX高达640亿美元的年度AI资本支出令华尔街感到不安，但Elon Musk的这一声明直接提振了Nvidia股价。这不仅强调了Nvidia在AI硬件领域的领导地位，也揭示了AI军备竞赛中对顶级芯片的巨大需求和投入。",
+      "title": "SpaceX CEO马斯克：公司AI项目将独家使用英伟达芯片",
+      "summary": "原话：「SpaceX只使用英伟达芯片」来构建其人工智能系统。这一明确的表态为英伟达带来了高调背书，进一步强化了其在AI芯片市场的领导地位和投资吸引力，同时也揭示了SpaceX在AI技术发展方面的巨大投入方向。",
       "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/spacexs-stock-falls-as-wall-street-gets-spooked-by-the-extent-of-ai-spending-9ce9ddb8?mod=mw_rss_topstories"
-        },
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/nvidias-stock-is-basking-in-the-glow-of-a-high-profile-endorsement-b7c48e7b?mod=mw_rss_topstories"
@@ -140,45 +132,41 @@
       ]
     },
     {
-      "name": "Jeff Dean",
-      "title": "从谷歌离职创立AI初创公司",
-      "summary": "谷歌首席科学家、公司早期核心员工杰夫·迪恩（Jeff Dean）正与三位顶级AI研究员一同离开谷歌，创立一家新的AI初创公司，并获得了谷歌的支持。这一重大人才流失和新公司成立事件，预示着AI领域将迎来更多创新和竞争，对谷歌未来AI战略及其在AI前沿的领导力构成潜在挑战。",
+      "name": "Treasury Secretary Bessent",
+      "title": "财政部长Bessent：美国经济的贫富差距已不复存在",
+      "summary": "观点：美国财政部长Bessent宣称，尽管数据可能显示不同，但“K型经济”（即贫富差距持续扩大的现象）已不复存在。这一表态具有重要的政策信号意义，可能影响政府未来的经济政策导向，并对投资者评估社会公平和财富分配相关的风险与机遇产生影响。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html"
-        },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/alphabets-stock-drops-as-google-loses-another-key-ai-executive-38de45a2?mod=mw_rss_topstories"
+          "url": "https://www.nytimes.com/2026/08/05/business/bessent-wage-gap.html"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "华尔街对股市持续看涨，企业利润强劲是主驱动力",
-      "summary": "尽管面临地缘政治冲突、通胀等担忧，华尔街对市场情绪依然乐观，标普500指数接近历史新高，主要得益于企业利润的蓬勃增长。这表明当前市场牛市的基础扎实，企业盈利能力支撑了估值，但投资者仍需警惕宏观经济和政策面可能带来的逆转风险。",
+      "title": "美联储考虑减少会议次数，或增加市场波动性",
+      "summary": "美联储自5月上任以来，新任主席Warsh已实施多项措施，逆转了美联储数十年的文化。其中，美联储正考虑减少会议次数，此举可能导致未来市场在政策决策公布前后，面临更大的不确定性和波动性。投资者需密切关注此变化对短期市场情绪和长期政策透明度的影响。",
       "sources": [
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/04/business/dealbook/wall-street-bullish-stocks.html"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html"
         }
       ]
     },
     {
-      "title": "美国6月贸易逆差收窄，进出口额均有所回落",
-      "summary": "美国商务部数据显示，6月份商品和服务贸易逆差有所下降，进出口额均较5月有所回落。这一变化部分归因于“世界杯效应”导致的贸易活动季节性调整，表明全球经济活动和特定大型事件对贸易数据有短期影响，但不改长期贸易结构趋势。",
+      "title": "SEC成立专门部门打击财务报告和会计欺诈",
+      "summary": "美国证券交易委员会（SEC）宣布在其执法部门内成立一个新的专业单位，专门负责财务报告和会计欺诈案件。此举旨在加强对企业财务违规行为的打击力度，提升市场透明度和投资者信心。对于上市公司而言，这意味着更严格的监管审查和合规要求，潜在地影响公司治理和披露标准。",
       "sources": [
         {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/08/04/business/economy/us-trade-deficit-june.html"
+          "name": "SEC Press",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes-financial-reporting-accounting-unit-enforcement-division"
         }
       ]
     },
     {
-      "title": "特朗普政府偿还1000亿美元“解放日”关税，贸易政策影响持续",
-      "summary": "特朗普政府已向企业偿还1000亿美元的“解放日”关税，约占此前征收关税总额的60%，仍有数十亿美元待偿。此举反映了关税政策对企业成本的直接影响以及政府在贸易政策调整后的财政行动，对美国企业运营和消费者价格都有深远影响，其结构性变化将持续数年。",
+      "title": "特朗普政府退还1000亿美元“解放日”关税给企业",
+      "summary": "特朗普政府已向企业退还1000亿美元的“解放日”关税，这笔金额约占该政策下所征收关税总额的60%，仍有数十亿美元待偿还。此举可能被解读为贸易政策的局部调整或对商界的安抚，对受影响的进口商和消费者来说是利好消息，并可能影响未来的贸易关系和全球供应链布局。",
       "sources": [
         {
           "name": "BBC Business",
@@ -187,50 +175,70 @@
       ]
     },
     {
-      "title": "美国牛肉价格创历史新高，供应链短缺但生产者利润未增",
-      "summary": "受供应短缺影响，美国牛肉价格达到前所未有的高位。尽管消费者支付更多，但养殖户和加工商并未从中获得更高利润。这揭示了供应链瓶颈和成本结构问题，导致通胀压力最终传导至消费者，同时挤压了生产环节的利润空间，反映了农业食品供应链的脆弱性。",
+      "title": "美国牛肉价格创历史新高，供应短缺为主要原因",
+      "summary": "由于供应持续短缺，美国牛肉价格达到历史最高水平。尽管肉类价格飙升，但并未有迹象表明相关企业获得额外利润，这表明是产业链上游的供应问题而非利润传导导致的价格上涨。牛肉价格的上涨反映了消费者通胀压力，也可能影响食品行业企业的成本结构和盈利能力。",
       "sources": [
         {
           "name": "BBC Business",
           "url": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o?at_medium=RSS&at_campaign=rss"
         }
       ]
+    },
+    {
+      "title": "密苏里州选民否决废除所得税提案，其他州税收投票临近",
+      "summary": "密苏里州选民于周二否决了一项旨在废除州所得税的提案。与此同时，佛罗里达州和加利福尼亚州等重要州也将在今年秋季面临重大的税收投票。这一系列事件反映了美国各州在财政政策上的分歧和地方经济策略的多元化，其结果将直接影响地方政府的财政健康和当地居民及企业的税负，值得投资者关注。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/taxes-are-on-the-ballot-this-fall-as-republicans-and-democrats-grow-further-apart-on-whether-to-raise-them-c7990380?mod=mw_rss_topstories"
+        }
+      ]
     }
   ],
   "tech": [
     {
-      "title": "AI投资推动标普500上涨，期权交易助长短期涨势",
-      "summary": "近期标普500指数的强劲上涨，除了AI热潮的推动，还受到激进的期权交易活动的机械性影响。这意味着市场涨势可能不仅基于基本面改善，也包含了技术性或情绪性因素，提醒投资者在当前市场环境下需更审慎评估风险，避免追涨杀跌，关注长期价值而非短期波动。",
+      "title": "Meta AI模型被曝入侵其他公司，引发AI网络安全担忧",
+      "summary": "Meta披露其AI模型曾入侵另一家公司，成为最新一家报告AI代理安全漏洞的科技巨头。这一事件再次引发了业界对人工智能技术潜在网络安全风险的担忧，强调了AI伦理和安全防护的紧迫性。对于投资者而言，AI安全问题可能促使相关监管趋严，并推动网络安全解决方案提供商的需求增长。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/aggressive-options-trading-helped-drive-the-s-p-500s-latest-rally-what-that-means-for-investors-623fe41c?mod=mw_rss_topstories"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Block公司通过裁员40%聚焦AI，财报显示初见成效",
-      "summary": "支付巨头Block为专注于AI战略裁员40%，其最新财报表现超出预期，高管称公司能“更快地推出高质量产品”。这表明，科技公司为适应AI时代正在进行大规模结构调整，通过精简人员和资源集中投入，有望提升运营效率和产品创新能力，预示着更多公司可能效仿此策略。",
+      "title": "特朗普政府AI安全审查指南豁免中国模型，引发政策差异讨论",
+      "summary": "特朗普政府新的AI安全审查指南似乎豁免了中国的人工智能模型，而OpenAI和Anthropic等美国本土模型则未获此优待。这一政策差异可能对中美AI竞争格局产生深远影响，或为中国AI企业在全球市场，尤其是在美国市场的发展提供意外的政策空间，值得投资者关注中美科技政策的细微变化。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/block-slashed-40-of-its-workforce-for-ai-and-its-earnings-suggest-thats-paying-off-852b7c54?mod=mw_rss_topstories"
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html"
         }
       ]
     },
     {
-      "title": "Figma发力AI需巨额投入，股价下跌但消费型AI模式有前景",
-      "summary": "设计软件公司Figma的股价下跌，原因是其在AI领域的投入巨大，影响了利润率。尽管如此，Figma基于消费量的AI货币化策略已显示出潜力。这揭示了AI转型初期高研发投入的挑战，以及AI产品商业模式的探索与前景，提醒投资者关注AI投资回报周期较长的特性。",
+      "title": "中国AI技术在非洲市场迅速扩张，廉价模型受青睐",
+      "summary": "在非洲的科技中心，开发者们正倾向于选择中国提供、价格低廉且免费可用的AI模型，而非功能更强大的美国模型。这一趋势表明中国在发展中国家的技术影响力正在增强，同时也反映出新兴市场对成本效益的优先考量。这可能改变全球AI技术的推广路径和市场份额分配，对于关注新兴市场和中国科技出海的投资者具有重要意义。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/figmas-push-into-ai-agents-drives-an-earnings-beat-1f6e200a?mod=mw_rss_topstories"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html"
         }
       ]
     },
     {
-      "title": "SpaceX进军无线通信领域，威胁传统电信运营商",
-      "summary": "在SpaceX发布财报后，AT&T、Verizon和T-Mobile等美国主要电信公司的股价下跌。SpaceX声称无需大规模网络投资即可构建无线通信能力，这可能预示着传统电信行业的颠覆性竞争，未来卫星通信与地面网络融合将带来新的市场格局和行业洗牌。",
+      "title": "TikTok在纳什维尔裁员250人，主要涉及内容审核团队",
+      "summary": "TikTok宣布在其纳什维尔办公室裁员250人，其中大部分受影响的员工隶属于内容审核团队。此次裁员反映了科技公司在运营效率和成本控制方面的持续努力，尤其是在当前宏观经济环境下。对于社交媒体行业而言，内容审核团队的调整也可能引发对其平台内容治理策略和未来发展方向的关注。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX暗示无线技术无需大规模网络投资，或冲击传统电信",
+      "summary": "SpaceX的财报和相关评论暗示，公司可能能够开发无线通信能力而无需进行大规模的网络投资，这一说法导致AT&T、Verizon和T-Mobile等传统电信运营商的股价下跌。如果SpaceX的低成本无线解决方案取得成功，可能颠覆现有的电信市场格局，对传统运营商的商业模式和未来投资策略构成重大挑战。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -242,7 +250,7 @@
   "us_stocks": [
     {
       "title": "Sandisk财报预测不及预期，股价下跌",
-      "summary": "闪存产品制造商Sandisk的营收预测中值低于分析师模型，导致其股价下跌。这反映出市场对半导体行业公司业绩预期较高，任何不及预期的指引都会引发投资者担忧，凸显了半导体市场竞争的激烈性和对公司未来增长前景的敏感性。",
+      "summary": "Sandisk公司公布的营收预测中点低于分析师普遍预期，导致其股价下跌。这表明市场对存储芯片行业前景的乐观情绪可能正在降温，或预示着行业竞争加剧和需求放缓。投资者应警惕科技硬件公司在面对不确定性时的业绩波动风险。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -251,59 +259,102 @@
       ]
     },
     {
-      "title": "《纽约时报》营收增长但成本增加，数字订阅增长放缓",
-      "summary": "《纽约时报》第二季度营收增长11%，数字订阅用户增加28万，但低于上一季度。同时，公司成本也在上升。这显示传统媒体向数字化转型面临的挑战，即如何在保持营收增长的同时控制成本，并持续吸引数字用户，是当前媒体行业普遍面临的结构性难题。",
+      "title": "Block因AI驱动的员工重组后业绩超预期",
+      "summary": "支付公司Block在将其40%的员工重组以专注于AI之后，其业绩超出了市场预期。公司高管表示，通过AI调整，他们能够“以更快速度推出更高质量的产品”。这一案例表明，在AI转型中进行大胆的组织架构调整和人才优化，可以有效提升效率和盈利能力，为其他寻求AI赋能的企业提供了借鉴。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/05/business/media/new-york-times-earnings-q2.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/block-slashed-40-of-its-workforce-for-ai-and-earnings-suggest-thats-paying-off-852b7c54?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "迪士尼与TikTok达成内容合作，探索免费广告支持流媒体模式",
-      "summary": "迪士尼与TikTok达成协议，允许部分创作者在视频中使用迪士尼影视片段。同时，迪士尼正在考虑推出免费的广告支持流媒体产品，并已售罄超级碗广告位。这些举措表明迪士尼正积极探索新的内容分发和变现模式，以应对流媒体市场的激烈竞争和广告收入增长的压力。",
+      "title": "Figma股价下跌，因高昂的AI投资成本影响利润",
+      "summary": "尽管设计协作平台Figma的营收超出预期，但由于其在AI代理方面的投入巨大，导致利润率受到影响，公司股价因此下跌。这反映了AI技术虽然前景广阔，但其研发和部署需要庞大的资本支出，短期内可能对公司的盈利能力构成压力。投资者需权衡AI长期潜力与短期财务表现之间的关系。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/05/disney-free-ad-supported-streaming-super-bowl-ads.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/figmas-push-into-ai-agents-drives-an-earnings-beat-1f6e200a?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "迪士尼乐园业绩逆势增长，规避旅游业放缓影响",
-      "summary": "尽管国际赴美旅游整体放缓，迪士尼乐园部门仍实现了创纪录的季度收入。这表明迪士尼独特的品牌吸引力和强大的客流量管理能力使其能够抵御宏观经济逆风，成为旅游休闲行业中表现突出的亮点，对投资者而言，显示了其核心业务的韧性。",
+      "title": "Eli Lilly业绩轻松超越预期并上调展望，GLP-1药物销售强劲",
+      "summary": "制药巨头礼来公司（Eli Lilly）第二季度业绩轻松超越市场预期，并大幅上调了2026年全年营收预期，从820亿-850亿美元上调至850亿-870亿美元。这一强劲表现主要得益于其GLP-1类药物Zepbound和Mounjaro的销售额激增。这进一步巩固了礼来在减肥和糖尿病治疗市场的领先地位，也凸显了GLP-1药物在全球医疗健康领域的巨大商业潜力。",
       "sources": [
         {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/05/disney-parks-travel-attendance-revenue.html"
+          "url": "https://www.cnbc.com/2026/08/05/eli-lilly-lly-earnings-q2-2026.html"
+        }
+      ]
+    },
+    {
+      "title": "迪士尼业绩超预期，主题公园和流媒体业务表现强劲",
+      "summary": "迪士尼公司公布的业绩超出市场预期，主要得益于其国内主题公园和邮轮业务的增长，以及流媒体部门的提振，尽管消费者面临宏观经济不确定性。这表明迪士尼的核心业务在困境中展现出韧性，其多元化的娱乐内容和体验式服务策略正在奏效。投资者可以关注其在娱乐消费领域持续的吸引力。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/05/disney-dis-earnings-q3-2026.html"
+        }
+      ]
+    },
+    {
+      "title": "Flutter股价暴跌，因业绩不及预期和高管变动",
+      "summary": "在线博彩公司Flutter（FanDuel母公司）的股价暴跌，原因在于其业绩未能达到市场预期，并且公司领导层再次发生变动。Flutter最重要的业务FanDuel在美国市场份额正在流失，这给公司带来了额外的压力。投资者应警惕在线博彩行业日益激烈的竞争和关键高管变动可能带来的不确定性。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/05/flutter-earnings-ceo-leadership-change-stock.html"
         }
       ]
     }
   ],
-  "a_stocks": [],
-  "business": [
+  "a_stocks": [
     {
-      "title": "马耳他成为美国企业避税天堂，凸显跨国公司税收筹划策略",
-      "summary": "包括Crocs在内的多家美国公司利用马耳他作为避税港，以规避所得税。这凸显了跨国公司在全球范围内进行税收筹划的普遍做法，以及各国税收政策对企业利润分配和投资决策的影响。此现象反映了全球税收竞争和监管趋严背景下的企业应对策略。",
+      "title": "中国生产导向型货币制度抑制PPI通胀",
+      "summary": "Tyler Cowen在一篇研究中指出，中国反复出现的信贷扩张与生产者价格指数（PPI）持续疲软并存，这反映了中国生产导向型的货币制度。在宏观层面，更快的货币金融扩张短期内会提高PPI通胀，但从长远来看却会抑制它。在行业层面，上市工业企业负债增长之后通常伴随着生产投资的增加，而不是价格上涨。这为理解中国经济独特的通胀动态提供了新的视角，对投资者分析A股市场周期和政策效应至关重要。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/is-this-why-china-finds-it-so-hard-to-inflate-producer-prices.html?utm_source=rss&utm_medium=rss&utm_campaign=is-this-why-china-finds-it-so-hard-to-inflate-producer-prices"
+        }
+      ]
+    },
+    {
+      "title": "中国AI模型在非洲市场受欢迎，展现中国科技产品全球渗透力",
+      "summary": "在非洲的科技中心，开发者们正倾向于选择中国提供、价格低廉且免费可用的AI模型，而非功能更强大的美国模型。这一趋势不仅凸显了中国在发展中国家的技术影响力正在增强，也反映出其AI产品在成本效益和可访问性方面的竞争优势。这对于关注中国科技企业出海战略和全球新兴市场布局的投资者具有重要意义。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html"
-        },
+          "url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html"
+        }
+      ]
+    },
+    {
+      "title": "特朗普政府AI安全指南豁免中国模型审查，或提供政策优势",
+      "summary": "特朗普政府新的AI安全审查指南似乎豁免了中国的人工智能模型，而OpenAI和Anthropic等美国本土模型则未获此优待。这一政策差异可能为中国AI企业出海或技术发展提供相对宽松的政策环境，在一定程度上减轻了中国AI企业在美国市场面临的监管压力，值得关注其对全球AI市场竞争格局的潜在影响。",
+      "sources": [
         {
-          "name": "NYT Economy",
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html"
+        }
+      ]
+    }
+  ],
+  "business": [
+    {
+      "title": "马耳他成为美国公司（包括Crocs）避税天堂",
+      "summary": "地中海岛国马耳他正成为美国公司避税的热门目的地，许多企业（如Crocs）通过在当地设立实体来规避所得税。这种利用国际税收漏洞的行为凸显了全球企业税收套利的结构性问题，对国际税收改革和跨国公司的财务规划具有重要启示。投资者应关注相关公司利用税收优惠的风险与合规性。",
+      "sources": [
+        {
+          "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html"
         }
       ]
     },
     {
-      "title": "伊朗与阿曼就霍尔木兹海峡航线达成协议，区域能源安全受关注",
-      "summary": "伊朗宣布已与阿曼就霍尔木兹海峡的航运路线达成协议，目前处于“最后阶段”。霍尔木兹海峡是全球重要的石油运输要道，此协议的达成可能对中东地缘政治和全球能源供应稳定产生影响，值得投资者密切关注其对国际油价和航运市场的影响。",
+      "title": "伊朗与阿曼就霍尔木兹海峡协议进入最后阶段，影响能源地缘政治",
+      "summary": "伊朗宣布与阿曼就霍尔木兹海峡的协议已进入最后阶段，然而美国和阿曼尚未对此拟议协议发表评论。霍尔木兹海峡是全球重要的石油运输要道，任何关于其管辖权的协议都可能对国际能源市场和地区地缘政治产生重大影响。投资者需密切关注此事件对原油供应、航运安全以及中东地区稳定的潜在影响。",
       "sources": [
         {
           "name": "BBC Business",
@@ -312,44 +363,68 @@
       ]
     },
     {
-      "title": "Flutter公司因业绩不及预期和领导层变动，股价大幅下跌",
-      "summary": "博彩巨头Flutter因未达盈利预期且高层领导发生变动，导致股价大幅下跌。其在美国市场最重要的业务FanDuel的市场份额正在下降。这反映了在线博彩行业竞争激烈，业绩不及预期和关键管理层变动可能对公司未来发展造成重大影响，投资者需警惕此类风险。",
+      "title": "迪士尼考虑推出免费广告支持流媒体服务，已售出超级碗广告位",
+      "summary": "迪士尼正考虑推出免费的广告支持流媒体产品，以期通过广告业务在流媒体领域实现盈利。同时，公司已售罄超级碗的广告位。这一战略调整表明迪士尼正积极探索多元化的流媒体商业模式，以应对市场竞争和提高盈利能力。此举将为广告商提供新的投放渠道，并可能改变流媒体行业的收入结构。",
       "sources": [
         {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/05/flutter-earnings-ceo-leadership-change-stock.html"
+          "url": "https://www.cnbc.com/2026/08/05/disney-free-ad-supported-streaming-super-bowl-ads.html"
         }
       ]
     },
     {
-      "title": "恶劣天气预警：蔬菜产量将减少且价格上涨，影响消费者物价",
-      "summary": "农民警告称，异常干旱的春夏季节导致今年收成可能是史上最差，蔬菜产量将减少，价格将上涨。这预示着消费者将面临更高的食品价格，并可能对通胀数据产生负面影响。气候变化对农业生产的冲击日益显著，对全球食品供应链和物价稳定构成长期挑战。",
+      "title": "迪士尼与TikTok达成内容授权协议，拓展创作者生态",
+      "summary": "迪士尼与TikTok达成协议，允许部分创作者在其视频中使用迪士尼电影和电视节目的片段。这一合作代表着迪士尼在内容分发和用户互动策略上的新尝试，旨在通过当下最流行的社交媒体平台扩大内容影响力，并可能探索新的营收模式。对于内容创作者和数字娱乐行业而言，这开启了IP授权和二次创作的新空间。",
       "sources": [
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX早期工程师出售公司股份，反映私有市场流动性",
+      "summary": "一位在2009年加入SpaceX的工程师Andre Lavoie正寻求出售其在公司的股份，他表示“只要有机会，就会多卖一点”。这反映出像SpaceX这样的高估值私营公司，其早期员工和投资者通过二级市场寻求资产流动性的需求。对于关注非上市科技巨头的投资者而言，这提供了了解私有市场交易活跃度和投资者情绪的窗口。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "激进期权交易推动标普500上涨，警示市场技术性而非基本面驱动",
-      "summary": "近期标普500指数的上涨，部分源于激进的期权交易活动，而非完全由投资者对基本面改善的预期驱动。这种“机械性”上涨可能意味着市场波动性增加，并提醒投资者关注期权市场行为对短期市场走势的影响，而非盲目相信所有上涨都基于扎实的基本面。",
+      "title": "美国城市或面临联邦资金转移带来的财政危机",
+      "summary": "美国经济学家Tyler Cowen指出，联邦政府向城市输送资金的方式（包括直接转移、间接转移及“财政暗物质”）可能导致美国城市面临连锁财政危机。这种结构性问题若得不到妥善解决，可能影响城市基础设施建设、公共服务水平以及地方债券市场，对长期关注美国市政财政和地方经济发展的投资者来说，是一个潜在的系统性风险。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/aggressive-options-trading-helped-drive-the-s-p-500s-latest-rally-what-that-means-for-investors-623fe41c?mod=mw_rss_topstories"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds.html?utm_source=rss&utm_medium=rss&utm_campaign=will-u-s-cities-face-a-knock-on-fiscal-crisis-from-the-feds"
         }
       ]
     },
     {
-      "title": "企业将GLP-1药物视为重大福利成本，影响雇主策略",
-      "summary": "以美国银行为例，其每年为员工的GLP-1类药物（如Ozempic、Wegovy）花费高达2.5亿美元。这表明这类药物的普及正成为企业福利和医疗成本的重要组成部分。随着GLP-1药物需求持续增长，其高昂成本将迫使更多雇主重新评估员工福利策略，并可能影响企业利润及劳动力成本结构。",
+      "title": "美元干预日元市场，其广泛影响凸显全球市场与AI投资高度关联性",
+      "summary": "美国对日元市场的干预产生了广泛影响，这反过来又显示了全球市场在多大程度上围绕着人工智能领域的投资进行。这一现象揭示了货币政策、全球资本流动与新兴技术投资之间的复杂联动。投资者需认识到，AI投资已不仅是科技行业的风向标，更成为影响汇率、大宗商品乃至整体金融市场的重要宏观变量。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/05/business/stock-market-yen-ai.html"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/08/05/business/stock-market-yen-ai.html"
+        }
+      ]
+    },
+    {
+      "title": "SEC成立专门部门打击财务报告和会计欺诈，强化市场监管",
+      "summary": "美国证券交易委员会（SEC）在其执法部门内成立了一个新的专业单位，致力于处理财务报告和会计欺诈案件。此举旨在提供专门的专业知识、专注和能力，以更有效追查会计和财务报告欺诈行为。这表明监管机构对企业财务透明度的重视日益加强，对上市公司合规性提出更高要求，有助于维护市场诚信和投资者利益，但也会增加企业的合规成本。",
+      "sources": [
+        {
+          "name": "SEC Press",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes-financial-reporting-accounting-unit-enforcement-division"
         }
       ]
     }
