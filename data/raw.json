@@ -1,6 +1,13 @@
 [
   {
     "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "AI and Marginal Revolutions in Wastewater Treatment",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-marginal-revolutions-in-wastewater-treatment.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-marginal-revolutions-in-wastewater-treatment",
+    "summary": "<p>An interesting paper from French economists, including recent Nobelist Philippe Aghion, looks at the savings from a predictive machine-learning model applied to wastewater treatment: This paper studies the environmental effects of a specialised AI aeration-control system deployed across French wastewater treatment plants operated by a global leader in water supply services. Exploiting quasi-experimental variation in [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-marginal-revolutions-in-wastewater-treatment.html\">AI and Marginal Revolutions in Wastewater Treatment</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Fri, 07 Aug 2026 11:20:34 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
     "title": "My excellent Conversation with Julia Ioffe",
     "link": "https://marginalrevolution.com/marginalrevolution/2026/08/my-excellent-conversation-with-julia-ioffe.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-julia-ioffe",
     "summary": "<p>Here is the audio, video, and transcript.  Here is from the episode summary: Julia joined Tyler to discuss why so many of Russia’s great constructivist painters were women, why the tsarist government established women’s medical courses in 1872, changing attitudes towards abortion and birth control in the 20th century, why the Soviet regime turned prudish, how [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/08/my-excellent-conversation-with-julia-ioffe.html\">My excellent Conversation with Julia Ioffe</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
@@ -49,11 +56,53 @@
     "published": "Thu, 06 Aug 2026 17:38:26 +0000"
   },
   {
-    "source": "SEC Press",
-    "title": "SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division",
-    "link": "https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes-financial-reporting-accounting-unit-enforcement-division",
-    "summary": "The Securities and Exchange Commission today announced it is establishing a new specialized unit within the Division of Enforcement to provide the dedicated expertise, focus, and capacity to pursue accounting and financial reporting fraud cases as well…",
-    "published": "Wed, 05 Aug 2026 14:30:00 -0400"
+    "source": "NYT Business",
+    "title": "If You’re Struggling to Pay Day-to-Day Bills, There’s Help",
+    "link": "https://www.nytimes.com/2026/08/07/your-money/debt-bills.html",
+    "summary": "Nonprofit financial counselors say there has been a significant increase this year in the number of borrowers seeking their advice.",
+    "published": "Fri, 07 Aug 2026 13:00:06 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen.",
+    "link": "https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html",
+    "summary": "While the Fed didn’t raise rates, the bond market did. That means hardship for home buyers and higher hurdles for A.I. data centers and the stock market. But it’s also a boon for retirees.",
+    "published": "Fri, 07 Aug 2026 13:33:19 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Jobs Report Poses New Test for Warsh and the Fed",
+    "link": "https://www.nytimes.com/2026/08/07/business/dealbook/jobs-warsh-fed-rates.html",
+    "summary": "Friday’s jobs report comes as investors increasingly expect the Federal Reserve to begin raising interest rates as soon as next month.",
+    "published": "Fri, 07 Aug 2026 11:03:15 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/08/07/business/jobs-report-economy/heres-the-latest",
+    "summary": "",
+    "published": "Fri, 07 Aug 2026 12:53:16 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "A Pope From Chicago Was Elected. The White Sox Were Resurrected.",
+    "link": "https://www.nytimes.com/2026/08/07/business/a-pope-from-chicago-was-elected-the-white-sox-were-resurrected.html",
+    "summary": "The elevation of Pope Leo XIV, a Chicago native and lifelong supporter of the Sox, was a godsend for a team failing on the field and with fans.",
+    "published": "Fri, 07 Aug 2026 10:58:03 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "How to Plan an African Safari",
+    "link": "https://www.nytimes.com/2026/08/07/travel/how-to-plan-an-african-safari.html",
+    "summary": "From budgeting to timing your trip, here’s what to consider before you go.",
+    "published": "Fri, 07 Aug 2026 09:00:53 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "China’s Export Boom Rolls On Despite Trade Backlash",
+    "link": "https://www.nytimes.com/2026/08/07/business/china-trade-exports.html",
+    "summary": "China’s factories are finding eager buyers abroad even as weak consumer spending and a prolonged property slump weigh on growth at home.",
+    "published": "Fri, 07 Aug 2026 07:20:24 +0000"
   },
   {
     "source": "NYT Business",
@@ -77,53 +126,11 @@
     "published": "Thu, 06 Aug 2026 16:32:53 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots",
-    "link": "https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html",
-    "summary": "Unitree Robotics wants to raise about $900 million in an I.P.O. that tests market interest in humanoid robots, a technology that wows but has yet to prove its viability.",
-    "published": "Thu, 06 Aug 2026 14:51:22 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "The ‘Heated Rivalry’ Star Hudson Williams Uplifts a Canadian Tire Bag",
-    "link": "https://www.nytimes.com/2026/08/06/world/canada/hudson-williams-heated-rivalry-canadian-tire.html",
-    "summary": "After the actor Hudson Williams was photographed carrying a plaid reusable shopping bag, priced under $2, the tote has become a viral fashion accessory.",
-    "published": "Thu, 06 Aug 2026 13:09:56 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "What’s Behind the A.I. Shake-Up at Google",
-    "link": "https://www.nytimes.com/2026/08/06/business/dealbook/hassabis-google-ai.html",
-    "summary": "A new role for Demis Hassabis, the head of Google’s artificial intelligence unit, reflects reality at the tech giant. Investors remain worried.",
-    "published": "Thu, 06 Aug 2026 16:58:02 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Follow the Markets and Track Stocks With These Free Apps",
-    "link": "https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html",
-    "summary": "Google Finance and Apple’s Stocks app have added new features over the years to make them more useful for tracking the markets and your investments.",
-    "published": "Fri, 07 Aug 2026 00:01:36 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Why So Many C.E.O.s Are Getting a Chief of Staff",
-    "link": "https://www.nytimes.com/2026/08/06/business/ceos-chief-of-staff.html",
-    "summary": "The position as a trusted sounding board is in high demand as business gets more complex — and everyone wants to get in on the latest bureaucratic fad.",
-    "published": "Thu, 06 Aug 2026 09:01:04 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "F.D.A. Approves Moderna’s mRNA Flu Vaccine",
-    "link": "https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html",
-    "summary": "The agency had initially refused to even review the application but reversed course after a public outcry.",
-    "published": "Thu, 06 Aug 2026 02:24:28 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "TikTok Lays Off 250 Employees in Office That Includes Content Moderation",
-    "link": "https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html",
-    "summary": "TikTok did not give a detailed reason for the layoffs, which will shutter its Nashville office.",
-    "published": "Thu, 06 Aug 2026 13:14:39 +0000"
+    "source": "NYT Economy",
+    "title": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/08/07/business/jobs-report-economy/heres-the-latest",
+    "summary": "",
+    "published": "Fri, 07 Aug 2026 12:53:16 +0000"
   },
   {
     "source": "NYT Economy",
@@ -133,11 +140,11 @@
     "published": "Thu, 06 Aug 2026 21:53:18 +0000"
   },
   {
-    "source": "NYT Economy",
-    "title": "How Malta Became a Tax Haven for Crocs and Other U.S. Companies",
-    "link": "https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html",
-    "summary": "The Mediterranean archipelago is a hot destination for U.S. companies seeking to shield profits from income taxes.",
-    "published": "Wed, 05 Aug 2026 18:38:58 +0000"
+    "source": "NYT DealBook",
+    "title": "Jobs Report Poses New Test for Warsh and the Fed",
+    "link": "https://www.nytimes.com/2026/08/07/business/dealbook/jobs-warsh-fed-rates.html",
+    "summary": "Friday’s jobs report comes as investors increasingly expect the Federal Reserve to begin raising interest rates as soon as next month.",
+    "published": "Fri, 07 Aug 2026 11:03:15 +0000"
   },
   {
     "source": "NYT DealBook",
@@ -151,14 +158,28 @@
     "title": "Sign Up for DealBook",
     "link": "https://www.nytimes.com/newsletters/signup/DK",
     "summary": "Make sense of the latest business and policy headlines with our daily newsletter.",
-    "published": "Thu, 06 Aug 2026 12:11:47 +0000"
+    "published": "Fri, 07 Aug 2026 11:04:30 +0000"
+  },
+  {
+    "source": "BBC Business",
+    "title": "How a 90-second power outage sparked  chaos for rail commuters",
+    "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+    "summary": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
+    "published": "Fri, 07 Aug 2026 12:30:07 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Surprise fall in US jobs last month as slow summer continues",
+    "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
+    "summary": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
+    "published": "Fri, 07 Aug 2026 13:26:22 GMT"
   },
   {
     "source": "BBC Business",
     "title": "Meta fined $567m in largest child safety ruling against social media giant",
     "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
     "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-    "published": "Fri, 07 Aug 2026 00:54:03 GMT"
+    "published": "Fri, 07 Aug 2026 09:22:03 GMT"
   },
   {
     "source": "BBC Business",
@@ -166,6 +187,20 @@
     "link": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
     "summary": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
     "published": "Thu, 06 Aug 2026 23:03:48 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+    "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+    "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+    "published": "Fri, 07 Aug 2026 13:32:41 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Why airlines are warning over lithium-ion batteries",
+    "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
+    "summary": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
+    "published": "Thu, 06 Aug 2026 23:04:40 GMT"
   },
   {
     "source": "BBC Business",
@@ -190,38 +225,52 @@
   },
   {
     "source": "BBC Business",
-    "title": "Why airlines are warning over lithium-ion batteries",
-    "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
-    "summary": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
-    "published": "Thu, 06 Aug 2026 23:04:40 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
-    "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
-    "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
-    "published": "Thu, 06 Aug 2026 14:50:54 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-    "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-    "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-    "published": "Thu, 06 Aug 2026 01:19:59 GMT"
-  },
-  {
-    "source": "BBC Business",
     "title": "Shorts, strappy tops and sandals: What is acceptable to wear to work?",
     "link": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
     "summary": "Here's how to style for success while keeping your cool - and where you and your boss stand on your wardrobe.",
     "published": "Thu, 06 Aug 2026 12:45:22 GMT"
   },
   {
-    "source": "BBC Business",
-    "title": "Owner of bike maker Raleigh files for insolvency",
-    "link": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
-    "summary": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
-    "published": "Thu, 06 Aug 2026 12:34:42 GMT"
+    "source": "MarketWatch Top Stories",
+    "title": "Social Security is celebrating its 91st birthday. Here’s why it’s not  going away anytime soon.",
+    "link": "https://www.marketwatch.com/story/how-to-wish-social-security-a-happy-91st-birthday-865d71a8?mod=mw_rss_topstories",
+    "summary": "Let’s all agree that, going forward, we’ll stop saying that Social Security will “run out of money” in 2032.",
+    "published": "Fri, 07 Aug 2026 13:45:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "How S&P 500 options action may help explain the rising volatility in memory stocks",
+    "link": "https://www.marketwatch.com/story/how-s-p-500-options-action-may-help-explain-volatility-in-memory-stocks-58d95beb?mod=mw_rss_topstories",
+    "summary": "Bullish derivative bets mesh with the buy-the-dip mentality, says IBKR’s Sosnick.",
+    "published": "Fri, 07 Aug 2026 13:30:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Kevin O’Leary, aka ‘Mr. Wonderful,’ on crypto, winning in AI and 3 things all business owners must know",
+    "link": "https://www.marketwatch.com/story/kevin-oleary-aka-mr-wonderful-on-crypto-winning-in-ai-and-3-things-all-business-owners-must-know-5339ff6c?mod=mw_rss_topstories",
+    "summary": "What Kevin O’Leary learned from Steve Jobs: You only need to get three things done every day. Just three.",
+    "published": "Fri, 07 Aug 2026 11:00:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Optical stocks have a China problem that most investors are missing",
+    "link": "https://www.marketwatch.com/story/optical-stocks-have-a-china-problem-that-most-investors-are-missing-45523981?mod=mw_rss_topstories",
+    "summary": "Beijing controls a chokepoint that Washington’s own crackdown can’t address.",
+    "published": "Fri, 07 Aug 2026 11:00:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "There are good reasons higher bond yields are here to stay, this strategist says",
+    "link": "https://www.marketwatch.com/story/there-are-good-reasons-why-higher-bond-yields-are-here-to-stay-this-strategist-says-2a89d5ae?mod=mw_rss_topstories",
+    "summary": "Investors are demanding higher rates when they buy long-duration bonds because there is less demand, higher supply and a hot mess of policy uncertainty, strategist explains",
+    "published": "Fri, 07 Aug 2026 10:02:00 GMT"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "My brother asked me to sign as his executor, but wouldn’t let me read the document. Should I have refused?",
+    "link": "https://www.marketwatch.com/story/my-brother-asked-me-to-sign-as-his-executor-but-wouldnt-let-me-read-the-document-should-i-have-refused-1b53d9bc?mod=mw_rss_topstories",
+    "summary": "“I imagine scenarios like this happen more often than people realize.”",
+    "published": "Fri, 07 Aug 2026 09:16:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
@@ -252,46 +301,11 @@
     "published": "Fri, 07 Aug 2026 00:31:00 GMT"
   },
   {
-    "source": "MarketWatch Top Stories",
-    "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
-    "link": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
-    "summary": "“I expect to have several years before I take distributions from my 401(k) account.”",
-    "published": "Fri, 07 Aug 2026 00:00:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-    "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
-    "summary": "“He has never been particularly generous or nurturing.”",
-    "published": "Thu, 06 Aug 2026 23:31:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "As Alphabet burns through cash on AI, it’s turning back to the bond market",
-    "link": "https://www.marketwatch.com/story/as-alphabet-burns-through-cash-on-ai-its-turning-back-to-the-bond-market-04e85f31?mod=mw_rss_topstories",
-    "summary": "The Google parent is utilizing its balance sheet with a fresh debt issuance, as heavy AI investments eat into its free cash flow.",
-    "published": "Thu, 06 Aug 2026 23:14:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Trade Desk shares tumble on earnings miss and weak outlook",
-    "link": "https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories",
-    "summary": "Trade Desk’s growth struggles deepened in the second quarter, as the company posted an earnings and revenue miss combined with disappointing guidance.",
-    "published": "Thu, 06 Aug 2026 22:59:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Sweetgreen recalls jalapenos, details how cyclospora outbreak will weigh on sales",
-    "link": "https://www.marketwatch.com/story/sweetgreen-recalls-jalapenos-details-how-cyclospora-outbreak-will-weigh-on-sales-c52435bf?mod=mw_rss_topstories",
-    "summary": "The salad chain’s shares tumbled after hours, but it said it doesn’t use iceberg lettuce and only uses jalapenos in two dressings.",
-    "published": "Thu, 06 Aug 2026 22:58:00 GMT"
-  },
-  {
-    "source": "MarketWatch Top Stories",
-    "title": "Gold prices are breaking higher after a tough stretch. Could fresh records be within reach?",
-    "link": "https://www.marketwatch.com/story/gold-prices-are-breaking-higher-after-a-tough-stretch-could-fresh-records-be-within-reach-1e1a872f?mod=mw_rss_topstories",
-    "summary": "Gold miners’ stocks can offer a high-quality play for investors worried about inflation and the Fed.",
-    "published": "Thu, 06 Aug 2026 20:57:00 GMT"
+    "source": "CNBC Business",
+    "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
+    "link": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
+    "summary": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
+    "published": "Fri, 07 Aug 2026 12:15:42 GMT"
   },
   {
     "source": "CNBC Business",
@@ -357,11 +371,18 @@
     "published": "Thu, 06 Aug 2026 13:36:35 GMT"
   },
   {
-    "source": "CNBC Business",
-    "title": "Versant raises 2026 outlook on strength of platforms segment and advertising momentum",
-    "link": "https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html",
-    "summary": "Versant noted revenue growth in its platforms business, which includes Fandango and GolfNow, and now, the recent acquisition of Full Swing.",
-    "published": "Thu, 06 Aug 2026 20:27:42 GMT"
+    "source": "CNBC Finance",
+    "title": "Odds the Fed will hike in September tumble following big July jobs miss",
+    "link": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
+    "summary": "A weaker labor market would weaken the case for raising rates, which some members of the central bank have called for amid higher energy prices.",
+    "published": "Fri, 07 Aug 2026 13:34:44 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Stocks making the biggest moves premarket: Atlassian Corporation, Doximity, First Solar, Airbnb & more",
+    "link": "https://www.cnbc.com/2026/08/07/stocks-making-the-biggest-moves-premarket-atlassian-corporation-wendys-vista-corp-first-solar-airbnb-more.html",
+    "summary": "These are the stocks posting the largest moves premarket.",
+    "published": "Fri, 07 Aug 2026 13:23:35 GMT"
   },
   {
     "source": "CNBC Finance",
@@ -400,20 +421,6 @@
   },
   {
     "source": "CNBC Finance",
-    "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
-    "link": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
-    "summary": "Cook was part of a 9-3 majority that voted last week to keep the central bank's benchmark borrowing rate in a range between 3.5%-3.75%.",
-    "published": "Wed, 05 Aug 2026 20:36:16 GMT"
-  },
-  {
-    "source": "CNBC Finance",
-    "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
-    "link": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
-    "summary": "Since taking office in May, Warsh has implemented several measures that reverse decades of Fed culture.",
-    "published": "Wed, 05 Aug 2026 22:35:26 GMT"
-  },
-  {
-    "source": "CNBC Finance",
     "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
     "link": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
     "summary": "Employers have grappled with soaring demand for GLP-1 drugs such as Ozempic and Wegovy, which can cost thousands of dollars per patient annually.",
@@ -421,52 +428,101 @@
   },
   {
     "source": "Hacker News Top",
+    "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+    "link": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c1e1vg0gjl5o\">https://www.bbc.com/news/articles/c1e1vg0gjl5o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208314\">https://news.ycombinator.com/item?id=49208314</a></p>\n<p>Points: 447</p>\n<p># Comments: 430</p>",
+    "published": "Fri, 07 Aug 2026 10:28:55 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+    "link": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+    "summary": "<p><a href=\"https://www.reuters.com/world/new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06/\" rel=\"nofollow\">https://www.reuters.com/world/new-mexico-court-orders-meta-p...</a><p><a href=\"https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta\" rel=\"nofollow\">https://www.theguardian.com/technology/2026/aug/06/new-mexic...</a><p><a href=\"https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-567m-make-changes-for-underage-users/\" rel=\"nofollow\">https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5...</a><p><a href=\"https://www.bbc.com/news/articles/cd7lz3wr2rlo\" rel=\"nofollow\">https://www.bbc.com/news/articles/cd7lz3wr2rlo</a><p><a href=\"https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8b",
+    "published": "Fri, 07 Aug 2026 00:06:28 +0000"
+  },
+  {
+    "source": "Hacker News Top",
     "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
     "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "summary": "<p><a href=\"https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market\" rel=\"nofollow\">https://ir.amd.com/news-events/press-releases/detail/1296/am...</a><p><a href=\"https://chatjimmy.ai/\" rel=\"nofollow\">https://chatjimmy.ai/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49201970\">https://news.ycombinator.com/item?id=49201970</a></p>\n<p>Points: 513</p>\n<p># Comments: 394</p>",
+    "summary": "<p><a href=\"https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market\" rel=\"nofollow\">https://ir.amd.com/news-events/press-releases/detail/1296/am...</a><p><a href=\"https://chatjimmy.ai/\" rel=\"nofollow\">https://chatjimmy.ai/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49201970\">https://news.ycombinator.com/item?id=49201970</a></p>\n<p>Points: 741</p>\n<p># Comments: 566</p>",
     "published": "Thu, 06 Aug 2026 20:23:11 +0000"
   },
   {
     "source": "Hacker News Top",
-    "title": "Quake – 30th Anniversary Update",
-    "link": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
-    "summary": "<p>Article URL: <a href=\"https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update\">https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49201930\">https://news.ycombinator.com/item?id=49201930</a></p>\n<p>Points: 256</p>\n<p># Comments: 125</p>",
-    "published": "Thu, 06 Aug 2026 20:21:19 +0000"
+    "title": "Herdr is joining Y Combinator. The runtime stays open",
+    "link": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+    "summary": "<p>Article URL: <a href=\"https://herdr.dev/blog/herdr-is-joining-y-combinator/\">https://herdr.dev/blog/herdr-is-joining-y-combinator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49201003\">https://news.ycombinator.com/item?id=49201003</a></p>\n<p>Points: 239</p>\n<p># Comments: 167</p>",
+    "published": "Thu, 06 Aug 2026 19:14:21 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/\">https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49199357\">https://news.ycombinator.com/item?id=49199357</a></p>\n<p>Points: 263</p>\n<p># Comments: 216</p>",
+    "published": "Thu, 06 Aug 2026 17:02:04 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Taste Is All That's Left",
     "link": "https://notashelf.dev/posts/taste-is-all-thats-left",
-    "summary": "<p>Article URL: <a href=\"https://notashelf.dev/posts/taste-is-all-thats-left\">https://notashelf.dev/posts/taste-is-all-thats-left</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49199346\">https://news.ycombinator.com/item?id=49199346</a></p>\n<p>Points: 309</p>\n<p># Comments: 237</p>",
+    "summary": "<p>Article URL: <a href=\"https://notashelf.dev/posts/taste-is-all-thats-left\">https://notashelf.dev/posts/taste-is-all-thats-left</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49199346\">https://news.ycombinator.com/item?id=49199346</a></p>\n<p>Points: 522</p>\n<p># Comments: 386</p>",
     "published": "Thu, 06 Aug 2026 17:01:33 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+    "link": "https://provenmetal.com",
+    "summary": "<p>Hey HN, we’re Will & Johnny from ProvenMetal (<a href=\"https://provenmetal.com\">https://provenmetal.com</a>). You send us design files or specs and we give you assembled boards domestically in days.<p>The US produced 30% of PCBs globally in 2000, now they produce 4%. Chinese manufacturers have completely dominated this space at 55% of global production.<p>Now, the need for a domestic PCB supply chain is higher than ever before, yet the infrastructure has been dissolving over the last 2 decades. What is left is mostly small family run manufacturers (CMs) that have been operating in largely the same, labor intensive way since the early 2000’s.<p>When you place an order through a CM it typically takes several days to receive a quote and complete design for manufacture review, and then you ",
+    "published": "Thu, 06 Aug 2026 15:59:15 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "GitHub Actions and Pages are experiencing degraded availability",
     "link": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-    "summary": "<p><a href=\"https://www.githubstatus.com/uptime/br0l2tvcx85d\" rel=\"nofollow\">https://www.githubstatus.com/uptime/br0l2tvcx85d</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49198302\">https://news.ycombinator.com/item?id=49198302</a></p>\n<p>Points: 369</p>\n<p># Comments: 297</p>",
+    "summary": "<p><a href=\"https://www.githubstatus.com/uptime/br0l2tvcx85d\" rel=\"nofollow\">https://www.githubstatus.com/uptime/br0l2tvcx85d</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49198302\">https://news.ycombinator.com/item?id=49198302</a></p>\n<p>Points: 434</p>\n<p># Comments: 359</p>",
     "published": "Thu, 06 Aug 2026 15:49:38 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Almost no skill required to cook a steak",
-    "link": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-    "summary": "<p>Article URL: <a href=\"https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/\">https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49198069\">https://news.ycombinator.com/item?id=49198069</a></p>\n<p>Points: 315</p>\n<p># Comments: 353</p>",
-    "published": "Thu, 06 Aug 2026 15:30:48 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
     "link": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-    "summary": "<p>Article URL: <a href=\"https://scalex.dev/blog/ai-agent-permissions-stats/\">https://scalex.dev/blog/ai-agent-permissions-stats/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49195468\">https://news.ycombinator.com/item?id=49195468</a></p>\n<p>Points: 276</p>\n<p># Comments: 198</p>",
+    "summary": "<p>Article URL: <a href=\"https://scalex.dev/blog/ai-agent-permissions-stats/\">https://scalex.dev/blog/ai-agent-permissions-stats/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49195468\">https://news.ycombinator.com/item?id=49195468</a></p>\n<p>Points: 323</p>\n<p># Comments: 226</p>",
     "published": "Thu, 06 Aug 2026 11:58:07 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Mario Meets Pareto",
     "link": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-    "summary": "<p>Article URL: <a href=\"https://www.mayerowitz.io/blog/mario-meets-pareto\">https://www.mayerowitz.io/blog/mario-meets-pareto</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49195231\">https://news.ycombinator.com/item?id=49195231</a></p>\n<p>Points: 959</p>\n<p># Comments: 153</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.mayerowitz.io/blog/mario-meets-pareto\">https://www.mayerowitz.io/blog/mario-meets-pareto</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49195231\">https://news.ycombinator.com/item?id=49195231</a></p>\n<p>Points: 1080</p>\n<p># Comments: 162</p>",
     "published": "Thu, 06 Aug 2026 11:24:53 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+    "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+    "summary": "TikTok owner training a model with 10 trillion parameters.",
+    "published": "Fri, 07 Aug 2026 13:29:22 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "The world's biggest solar telescope caught vortexes on the Sun's surface",
+    "link": "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/",
+    "summary": "We expected them to be there, but they had previously been too small to see.",
+    "published": "Fri, 07 Aug 2026 13:20:46 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "Trump is losing his war on wind power",
+    "link": "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
+    "summary": "A court rules that a hold on all wind projects clearly violates the law.",
+    "published": "Fri, 07 Aug 2026 12:58:04 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "Remembering the pre-Google web, when search was an experiment",
+    "link": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
+    "summary": "\"Most people have completely forgotten how chaotic it really was.\"",
+    "published": "Fri, 07 Aug 2026 11:00:06 +0000"
   },
   {
     "source": "Ars Technica",
@@ -511,34 +567,6 @@
     "published": "Thu, 06 Aug 2026 19:04:57 +0000"
   },
   {
-    "source": "Ars Technica",
-    "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
-    "link": "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/",
-    "summary": "\"The anomaly originated at the main oxygen valve on one of the BE-4 engines.\"",
-    "published": "Thu, 06 Aug 2026 18:20:32 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Parasitic zombie-ant fungus thrives in mosses, too",
-    "link": "https://arstechnica.com/science/2026/08/parasitic-zombie-fungus-thrives-in-mosses-too/",
-    "summary": "This may help fungi survive host scarcity and explains why infected hosts prefer the mosses as death sites.",
-    "published": "Thu, 06 Aug 2026 17:13:45 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Trump FCC kills TV ownership cap, claiming authority over limit set by Congress",
-    "link": "https://arstechnica.com/tech-policy/2026/08/trump-fcc-kills-tv-ownership-cap-claiming-authority-over-limit-set-by-congress/",
-    "summary": "Change will let \"Trump-aligned billionaires\" buy more stations, advocacy group says.",
-    "published": "Thu, 06 Aug 2026 16:40:58 +0000"
-  },
-  {
-    "source": "Ars Technica",
-    "title": "Moderna's mRNA flu shot earns FDA approval after rollercoaster review",
-    "link": "https://arstechnica.com/health/2026/08/modernas-mrna-flu-shot-earns-fda-approval-after-rollercoaster-review/",
-    "summary": "Moderna's new flu vaccine, mFLUSIVA, is approved for all adults ages 50 and up.",
-    "published": "Thu, 06 Aug 2026 16:31:06 +0000"
-  },
-  {
     "source": "MIT Tech Review",
     "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
     "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
@@ -547,16 +575,51 @@
   },
   {
     "source": "SCMP Business",
+    "title": "Buyer linked to Ningbo’s richest family purchases Hong Kong trophy home for US$18.5m",
+    "link": "https://www.scmp.com/business/banking-finance/article/3363322/buyer-linked-ningbos-richest-family-purchases-hong-kong-trophy-home-us185m?utm_source=rss_feed",
+    "summary": "A buyer linked to the family behind Ningbo Tuopu Group has acquired a luxury villa in Hong Kong’s Tai Po area for HK$145.6 million (US$18.5 million), adding to signs of fresh mainland Chinese wealth making its way into the city’s high-end residential market.\nWu Xiaoming agreed to buy a home at Villa Lucca, 7 Lucca Avenue, on July 17 under an off-plan agreement for sale and purchase, Land Registry records showed.\nThe four-bedroom stand-alone garden house has a saleable area of 5,281 sq ft,...",
+    "published": "Fri, 07 Aug 2026 12:39:47 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Beijing says 20% offshore insurance tax not new – and does not target Hong Kong",
+    "link": "https://www.scmp.com/business/banking-finance/article/3363348/beijing-says-20-offshore-insurance-tax-not-new-and-does-not-target-hong-kong?utm_source=rss_feed",
+    "summary": "China’s State Taxation Administration (STA) on Friday clarified that the 20 per cent personal income tax imposed on gains from offshore insurance policies was not a new policy – and was not specifically targeting the Hong Kong insurance industry.\nThe STA urged the market not to overreact to the policy, according to an unnamed official quoted by Shanghai-based digital media outlet The Paper on Friday.\nThe comments came a day after the share prices of several major Hong Kong-listed financial firms...",
+    "published": "Fri, 07 Aug 2026 12:23:55 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "As US-China pharma rivalry heats up, can Hong Kong’s US$8b fund be the global bridge?",
+    "link": "https://www.scmp.com/business/china-business/article/3363320/us-china-pharma-rivalry-heats-can-hong-kongs-us8b-fund-be-global-bridge?utm_source=rss_feed",
+    "summary": "Hong Kong is stepping up its efforts to invest in a cluster of biotech companies, positioning itself as a linchpin in Beijing’s push to reach new levels of innovation and challenge the United States for dominance in the global pharmaceutical market.\nHong Kong Investment Corporation (HKIC), which manages about US$8 billion in assets and is wholly owned by the Hong Kong government, has built a biotech and healthcare technology investment portfolio covering both traditional Chinese and Western...",
+    "published": "Fri, 07 Aug 2026 10:12:36 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Hong Kong’s Hang Lung Properties names former Starbucks China head Leo Tsoi as new CEO",
+    "link": "https://www.scmp.com/business/companies/article/3363316/hong-kongs-hang-lung-properties-names-former-starbucks-china-head-leo-tsoi-new-ceo?utm_source=rss_feed",
+    "summary": "Hong Kong developer Hang Lung Properties has tapped Leo Tsoi Tak-lun, CEO of Toys ‘R’ Us Asia and former head of Starbucks China, as its new CEO and executive director.\nTsoi will join Hang Lung Group and Hang Lung Properties on September 7 as CEO-designate and executive director ahead of formally assuming the CEO role on October 1. He succeeds Weber Lo Wai-pak, who retires on August 31 after serving as CEO for eight years, the developer said in a statement on Friday.\nTsoi’s appointment marks...",
+    "published": "Fri, 07 Aug 2026 10:01:38 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Hong Kong’s US dollar peg faces fresh calls for review – but is change feasible?",
+    "link": "https://www.scmp.com/business/banking-finance/article/3363286/hong-kongs-us-dollar-peg-faces-fresh-calls-review-change-feasible?utm_source=rss_feed",
+    "summary": "The Hong Kong dollar’s four-decade-old peg to the US dollar is facing fresh calls for review, after a local financial industry body urged greater use of the yuan and floated the idea of shifting to a basket of major currencies and gold – though financial analysts argue the current system is likely to remain in place.\nThe proposal to revisit the pegged exchange rate system was submitted this week by the Hong Kong Securities and Futures Professionals Association (HKSFPA), as the government gathers...",
+    "published": "Fri, 07 Aug 2026 08:14:51 +0000"
+  },
+  {
+    "source": "SCMP Business",
     "title": "Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs",
     "link": "https://www.scmp.com/business/china-business/article/3363261/global-ai-trade-revival-brightens-outlook-chinese-tech-stocks-after-record-sell-offs?utm_source=rss_feed",
-    "summary": "The outlook for Chinese technology stocks has improved after a sharp monthly sell-off, as the global rebound in the artificial intelligence trade regains momentum, speculative positions are flushed out and falling oil prices ease fears of monetary tightening.\nThe tech-heavy Star Market 50 Index, which features major chip manufacturing companies on the Shanghai Stock Exchange, is on track to close the week up by about 6 per cent. This partial recovery follows a 26 per cent slump in July, its...",
+    "summary": "The outlook for Chinese technology stocks has improved after a sharp monthly sell-off, as the global rebound in the artificial intelligence trade regains momentum, speculative positions are flushed out and falling oil prices ease fears of monetary tightening.\nThe tech-heavy Star Market 50 Index, which features major chip manufacturing companies on the Shanghai Stock Exchange, closed the week up by 6.6 per cent. This partial recovery followed a 26 per cent slump in July, its steepest monthly...",
     "published": "Fri, 07 Aug 2026 05:41:13 +0000"
   },
   {
     "source": "SCMP Business",
     "title": "Hong Kong preferred base as Chinese SOEs consolidate overseas accounts in treasury hubs",
     "link": "https://www.scmp.com/business/china-business/article/3363242/hong-kong-preferred-base-chinese-soes-consolidate-overseas-accounts-treasury-hubs?utm_source=rss_feed",
-    "summary": "China’s central state-owned enterprises (SOEs) are consolidating scattered overseas accounts into unified treasury hubs, with Hong Kong emerging as the preferred base amid a broader crackdown on outflows of state cash.\nDecades of overseas expansion had seen many SOEs build up assets in multiple jurisdictions, leaving cash management fragmented and making it harder for regulators and company headquarters to track liquidity, foreign-exchange risk and cross-border financing, analysts said.\nCentral...",
+    "summary": "China’s central state-owned enterprises (SOEs) are consolidating scattered overseas accounts into unified treasury hubs, with Hong Kong emerging as their preferred base amid a broader crackdown on outflows of state cash.\nDecades of overseas expansion had seen many SOEs build up assets in multiple jurisdictions, leaving cash management fragmented and making it harder for regulators and company headquarters to track liquidity, foreign-exchange risk and cross-border financing, analysts...",
     "published": "Fri, 07 Aug 2026 03:04:43 +0000"
   },
   {
@@ -579,40 +642,5 @@
     "link": "https://www.scmp.com/economy/china-economy/article/3362270/chinese-luxury-brands-rise-challengers-market-shapers-global-houses-lose-lustre?utm_source=rss_feed",
     "summary": "After months of declining gold prices, Li Yue recently spent nearly 28,000 yuan (US$4,148) on a 10-gram (0.35-ounce) pure gold necklace – more than double the prevailing market rate for the metal.\nThe piece in question: a gourd-shaped pendant from Laopu Gold, a Chinese heritage jewellery brand that has captured significant attention in recent years.\nBut for Li, a software engineer in Shanghai, the purchase had little to do with bullion value. She cared more about the necklace’s design – the...",
     "published": "Thu, 06 Aug 2026 22:00:05 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Swire Pacific posts record first-half profit as investment surges to fresh high",
-    "link": "https://www.scmp.com/business/china-business/article/3363213/swire-pacific-posts-record-first-half-profit-investment-surges-fresh-high?utm_source=rss_feed",
-    "summary": "Swire Pacific – whose high-profile assets include Hong Kong’s flag carrier Cathay Pacific Airways, Swire Properties and Swire Coca-Cola – logged a record first-half profit during the first six months of the year, with the company’s investment also hitting a new high.\nThe Hong Kong-based conglomerate posted a recurring underlying profit of HK$6.96 billion (US$887 million) for the first half of 2026, up 48 per cent year on year, it said in a filing with the Hong Kong exchange on Thursday.\n“We are...",
-    "published": "Thu, 06 Aug 2026 14:24:12 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Hong Kong raises Silver Bonds coupon rate to 4.25% for latest batch",
-    "link": "https://www.scmp.com/business/banking-finance/article/3363202/hong-kong-raises-silver-bonds-coupon-rate-425-latest-batch?utm_source=rss_feed",
-    "summary": "Hong Kong is raising the guaranteed coupon rate for its 11th batch of Silver Bonds for senior citizens, amid market expectations that the US Federal Reserve will raise interest rates later this year.\nUp to HK$50 billion (US6.4 billion) of Silver Bonds will go on sale this month with a guaranteed annual coupon of 4.25 per cent, up from 3.85 per cent for the batch sold in September last year, the government announced on Thursday.\nThe three-year bonds will be on sale from 9am on August 21 until 2pm...",
-    "published": "Thu, 06 Aug 2026 12:14:00 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "China’s MLCC supply chain expanding rapidly amid surge in global AI demand",
-    "link": "https://www.scmp.com/tech/tech-trends/article/3363190/chinas-mlcc-supply-chain-expanding-rapidly-amid-surge-global-ai-demand?utm_source=rss_feed",
-    "summary": "China’s upstream supply chain for multilayer ceramic capacitors (MLCCs) – tiny components dubbed “the rice of electronics” – is racing to expand capacity, as an artificial intelligence-driven boom triggers a surge in global orders.\nShandong Sinocera Functional Materials, a major supplier of dielectric powder to MLCC manufacturers, told investors in a Shenzhen Stock Exchange filing on Wednesday that it was actively pushing to expand capacity for AI servers and vehicles, with parts of its new...",
-    "published": "Thu, 06 Aug 2026 11:30:08 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Swire earnings show Hong Kong’s prime commercial districts outpacing others in recovery",
-    "link": "https://www.scmp.com/business/companies/article/3363184/swire-earnings-show-hong-kongs-prime-commercial-districts-outpacing-others-recovery?utm_source=rss_feed",
-    "summary": "Hong Kong’s commercial property recovery is increasingly becoming a story of location, with the fortunes of the city’s biggest landlords diverging depending on the districts where they own office space.\nSwire Properties’ first-half results on Thursday captured that shift. The developer owns office towers in both Admiralty, next to Central’s financial district, and Quarry Bay, an eastern business hub that has long attracted tenants seeking spaces with lower rents than those in pricier areas like...",
-    "published": "Thu, 06 Aug 2026 10:30:10 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Unrelenting AI demand spawns new plant for Chinese PCB maker Victory Giant",
-    "link": "https://www.scmp.com/tech/article/3363178/unrelenting-ai-demand-spawns-new-plant-chinese-pcb-maker-victory-giant?utm_source=rss_feed",
-    "summary": "Chinese printed circuit board (PCB) maker Victory Giant Technology is aggressively expanding its manufacturing footprint and international order book, highlighting relentless growth momentum across China’s artificial intelligence hardware sector.\nThe Guangdong-based company has been negotiating new orders with major US firms, as it capitalises on surging demand from makers of both graphics processing units (GPUs) and application-specific integrated circuits (ASICs) used in AI computing,...",
-    "published": "Thu, 06 Aug 2026 10:30:05 +0000"
   }
 ]
