@@ -1,156 +1,38 @@
 {
   "top5": [
     {
-      "title": "美国劳动力市场显现疲软迹象，雇主招聘意愿下降",
-      "summary": "最新数据显示，美国劳动力市场经历春季短暂活跃后迅速降温，夏季以来企业招聘意愿普遍减弱，尽管大规模裁员尚未出现。这一趋势表明经济活动可能正在放缓，为美联储的未来货币政策走向增添了不确定性，对通胀预期和利率路径产生潜在影响，对投资者而言是评估经济衰退风险的关键信号。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/07/business/economy/heres-the-latest.html"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/08/07/business/economy/heres-the-latest.html"
-        }
-      ]
-    },
-    {
-      "title": "伯克希尔哈撒韦二季度盈利增长，CEO阿贝尔开始部署巨额现金储备",
-      "summary": "伯克希尔哈撒韦公司公布强劲二季度财报，其能源、铁路和制造业业务表现出色，抵消了保险业务的疲软。首席执行官格雷格·阿贝尔（Greg Abel）正逐步动用巴菲特积累的巨额现金储备进行投资。这不仅反映了伯克希尔作为市场风向标的投资策略，也向市场传递出重要信号，预示着这家投资巨头对当前市场估值和未来机会的判断。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html"
-        }
-      ]
-    },
-    {
-      "title": "前总统特朗普再次寻求罢免美联储理事丽莎·库克",
-      "summary": "特朗普政府再次向美联储理事丽莎·库克发出信函，表示“正在考虑”将其免职，此举发生在最高法院驳回首次尝试之后。这一事件引发了对美联储独立性的深刻担忧，可能将政治不稳定引入货币政策制定过程。对于投资者而言，中央银行的独立性是市场信心的基石，任何对其的挑战都可能增加政策不确定性和市场波动性。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html"
-        }
-      ]
-    },
-    {
-      "title": "Meta因“公共危害”被判支付5.67亿美元用于青少年心理健康治疗",
-      "summary": "新墨西哥州法院裁定，Meta公司因对青少年心理健康造成“公共危害”而须设立一个5.67亿美元的基金，用于治疗相关问题。这一判决为社交媒体公司设定了一个重要的法律先例，可能导致未来更多类似诉讼和巨额赔偿，对整个科技行业的监管环境和估值带来长期影响，促使企业重新评估其产品对用户，尤其是年轻用户的影响。",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI 计划推出“更具生命力”的智能音箱，或采用可动部件",
-      "summary": "有报道称，OpenAI 正在开发一款高端智能音箱，该设备将包含可动部件以使其显得“更具生命力”，并已证实并非模仿苹果产品。此举标志着OpenAI在AI硬件领域的战略性扩张，超越纯软件服务，旨在定义下一代人机交互方式。这一战略方向对于评估AI技术的商业化路径、硬件创新以及未来消费者AI市场竞争格局至关重要。",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/"
-        }
-      ]
-    }
-  ],
-  "people": [
-    {
-      "name": "Tyler Cowen",
-      "title": "泰勒·科文讨论未来战争形态，AI将如何改变冲突性质",
-      "summary": "观点：著名经济学家泰勒·科文（Tyler Cowen）通过电子邮件分享观点，认为随着武器系统效率提升，未来战争将主要针对彼此的系统而非人类，从而降低生命损失，但这反而可能降低冲突门槛并延长冲突时间。他强调，战争将进一步从工业竞争转向技术-工业竞争，先进系统的部署将成为关键。这一洞察对于理解国防工业的长期发展、地缘政治风险以及AI技术在军事领域的颠覆性影响至关重要。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-future-of-warfare-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=the-future-of-warfare-from-my-email"
-        }
-      ]
-    },
-    {
-      "name": "Tyler Cowen",
-      "title": "泰勒·科文关注巴尔干地区生育率反常增长现象",
-      "summary": "观点：泰勒·科文指出，巴尔干地区可能是除中亚以外，唯一在2015年至2026年间生育率有所上升的区域，目前欧洲生育率最高的国家多集中于此。这一“巴尔干生育率悖论”挑战了普遍的生育率下降趋势叙事，对于人口学研究、长期经济增长潜力以及区域消费市场结构具有重要启示，可能预示着未来某些地区在劳动力和消费需求上展现出意想不到的韧性。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/is-there-a-balkan-fertility-paradox-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=is-there-a-balkan-fertility-paradox-from-my-email"
-        }
-      ]
-    },
-    {
-      "name": "Greg Abel",
-      "title": "伯克希尔新任CEO格雷格·阿贝尔开始积极部署资本",
-      "summary": "随着伯克希尔哈撒韦二季度盈利增长，其能源、铁路和制造业表现强劲。首席执行官格雷格·阿贝尔（Greg Abel）正在着手部署公司积累的巨额现金储备。这一行动表明阿贝尔正逐步接管投资决策权，其资本配置方向将深刻影响伯克希尔未来的增长轨迹和投资组合构成，也体现了巴菲特时代后伯克希尔投资策略的延续与演变。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html"
-        }
-      ]
-    },
-    {
-      "name": "OpenAI 方面",
-      "title": "OpenAI 证实其智能音箱非苹果竞品，注重“生命感”交互",
-      "summary": "据 Gurman 报告，OpenAI 已确认其正在开发的智能音箱并非意图与苹果竞争，而是将通过可动部件设计来营造“更具生命力”的用户体验。观点：这一声明揭示了OpenAI在消费硬件领域的差异化战略，着重于创新人机交互，而非简单跟随市场。这对于理解AI公司如何在硬件生态中寻找独特增长点，以及未来智能设备的发展方向具有指导意义。",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "title": "美国劳动力市场显现疲软迹象，雇主招聘意愿下降",
-      "summary": "最新的经济数据表明，在春季的短暂增长后，美国劳动力市场在夏季迅速降温，企业在招聘新员工方面表现出更强的犹豫，尽管尚未出现大规模裁员潮。这一趋势是评估经济健康状况的关键指标，预示着经济增长势头可能正在减弱，可能影响美联储的未来利率决策，并增加市场对经济衰退的担忧。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/07/business/economy/heres-the-latest.html"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/08/07/business/economy/heres-the-latest.html"
-        }
-      ]
-    },
-    {
-      "title": "特朗普再次寻求罢免美联储理事丽莎·库克，挑战央行独立性",
-      "summary": "在最高法院驳回首次尝试后，特朗普政府再次向美联储理事丽莎·库克致函，称正在“考虑”将其免职。这一举动对美联储的独立性构成了直接威胁，可能在未来为货币政策带来政治干预和不确定性。央行独立性是维持市场稳定和投资者信心的重要支柱，任何对此的挑战都值得高度关注。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html"
-        }
-      ]
-    },
-    {
-      "title": "加拿大向美国提出贸易谈判让步，寻求达成全面协议",
-      "summary": "面对美国可能在当月对多种加拿大商品征收50%关税的威胁，加拿大总理马克·卡尼（Mark Carney）正尝试通过提出让步，以期达成一项全面的贸易协议。这一谈判对北美经济区至关重要，其结果将直接影响两国贸易关系、供应链稳定以及相关行业的企业盈利能力。投资者应关注谈判进展，评估其对区域经济和特定行业可能带来的风险与机遇。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html"
-        }
-      ]
-    },
-    {
-      "title": "香港联系汇率制度的争议与回顾",
-      "summary": "随着国际投资者对美元资产的多元化需求以及人民币国际化的兴起，市场对检讨香港与美元挂钩的联系汇率制度的呼声渐起。了解这一制度的历史、益处和风险对于评估香港金融市场的稳定性及其在全球金融格局中的定位至关重要。任何关于联系汇率制度的潜在调整，都将对香港的资产价格、资本流动和宏观经济产生深远影响。",
+      "title": "中国在脑机接口技术领域取得进展，力求在10分钟内完成植入",
+      "summary": "中国初创公司和研究人员正竞相开发可通过静脉快速植入的脑机接口（BCI）设备，以期在这一前沿领域与埃隆·马斯克的Neuralink等公司竞争。这项技术的突破将极大降低侵入性，对医疗保健、残疾辅助和人机交互具有颠覆性潜力，预示着中国在未来高科技战略领域的重要布局。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/banking-finance/article/3363306/hong-kongs-us-dollar-peg-explained-history-benefits-and-risks"
+          "url": "https://www.scmp.com/business/companies/article/3363443/china-races-develop-brain-computer-interfaces-can-be-inserted-10-minutes?utm_source=rss_feed"
         }
       ]
-    }
-  ],
-  "tech": [
+    },
     {
-      "title": "DeepMind的飓风预测模型取得突破，为气象学家赢得额外预警时间",
-      "summary": "谷歌DeepMind的WeatherNext模型在飓风预测方面取得了显著进展，它能够利用较低分辨率的气象数据做出准确预报，并为气象学家提供了额外的预警时间，令科学家们感到惊讶。这一突破性应用展示了AI在复杂科学领域解决实际问题的巨大潜力，不仅有助于提高灾害预警的效率和准确性，也突显了AI技术在气候建模和应对气候变化方面的战略价值。",
+      "title": "分析师预估中国平价电动汽车终将进入美国市场",
+      "summary": "尽管当前面临贸易壁垒，但分析师普遍认为，美国消费者对平价电动汽车的需求将迫使美国市场在未来几年内对中国电动汽车品牌开放。福特汽车首席执行官吉姆·法利也预测中国电动汽车将在五年内进入美国。这预示着全球汽车产业格局的重大转变，以及中美在新能源汽车领域的激烈竞争与潜在合作。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-evs/article/3363399/demand-affordable-evs-will-force-open-us-market-chinese-models-eventually-analysts?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "伯克希尔哈撒韦盈利增长，CEO格雷格·阿贝尔开始部署巨额现金储备",
+      "summary": "伯克希尔哈撒韦公司上季度盈利有所上升，首席执行官格雷格·阿贝尔已开始动用巴菲特积累的庞大现金储备进行投资。这表明在保险业务表现不佳的情况下，其能源、铁路和制造业部门展现出强劲势头。这一举动对市场释放了重要信号，反映了公司在当前经济环境下的投资策略调整，值得投资者密切关注。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html"
+        }
+      ]
+    },
+    {
+      "title": "DeepMind的AI模型在飓风预测方面取得重大突破",
+      "summary": "DeepMind开发的开源AI模型WeatherNext在飓风预测方面取得了出人意料的成功，即使使用较低分辨率的天气数据，也能做出准确预测，并将预报员的提前期延长了一天。这一进展对气候科学和灾害预警具有深远影响，有望提高全球对极端天气事件的应对能力，并展示了AI在复杂科学建模领域的巨大潜力。",
       "sources": [
         {
           "name": "Ars Technica",
@@ -159,72 +41,131 @@
       ]
     },
     {
-      "title": "OpenAI计划推出搭载可动部件的智能音箱，力求“更具生命力”",
-      "summary": "据报道，OpenAI正着手研发一款价格不菲的智能音箱，其特色在于将通过可动部件设计，旨在让设备显得“更具生命力”，并已澄清该产品并非对苹果的模仿。此举标志着OpenAI在AI战略上的重大拓展，从软件服务深入到消费硬件领域，旨在重新定义AI与用户交互的体验，对未来智能家居和AI设备市场格局具有深远影响。",
+      "title": "加拿大在贸易谈判中向美国做出让步，以避免高额关税",
+      "summary": "加拿大总理马克·卡尼正试图通过在贸易谈判中向美国做出让步，来避免本月即将生效的针对许多加拿大商品高达50%的关税。这一事件凸显了北美贸易关系的紧张局势，以及关税政策对国际贸易和经济稳定的直接影响，可能对相关行业的供应链和企业盈利产生连锁反应。",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "name": "Tyler Cowen",
+      "title": "观点：未来战争将转向技术工业竞争，武器将主要攻击彼此而非人类",
+      "summary": "知名经济学家泰勒·科文（Tyler Cowen）指出，随着武器系统效率的提高，它们将更多地以彼此为目标而非人类。他认为，这虽能降低生命损失，但也可能降低冲突门槛并阻碍冲突的结束。他预测，未来的战争将进一步从工业竞争演变为技术工业竞争，反映出技术进步对地缘政治和军事战略的深远影响。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-future-of-warfare-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=the-future-of-warfare-from-my-email"
         }
       ]
     },
     {
-      "title": "失业的AI怀疑论者：软件开发人员还能在科技行业找到工作吗？",
-      "summary": "一位对AI持怀疑态度的失业软件开发人员提出了疑问：在AI日益普及的当下，他们是否还能在科技行业找到工作？这个问题反映了AI技术对劳动力市场，特别是软件开发岗位可能带来的结构性冲击和不确定性。它促使行业和个人重新思考技能需求、职业转型方向以及AI时代下的人才培养策略，对于关注科技行业长期就业趋势的投资者而言，这是一个重要的信号。",
+      "name": "Jim Farley",
+      "title": "观点：福特CEO预测中国电动汽车将在五年内进入美国市场",
+      "summary": "福特汽车首席执行官吉姆·法利（Jim Farley）作为美国汽车行业对中国电动汽车竞争力持最直言不讳态度的声音之一，向福特员工表示，他预测中国电动汽车最早将在五年内进入美国市场。这一观点强调了中国电动汽车制造商日益增长的实力和价格优势，以及其对全球汽车市场，特别是美国市场构成的潜在冲击。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-evs/article/3363399/demand-affordable-evs-will-force-open-us-market-chinese-models-eventually-analysts?utm_source=rss_feed"
         }
       ]
     },
     {
-      "title": "欧洲免费卫星服务提升追踪野火能力",
-      "summary": "欧洲的哥白尼浏览器（Copernicus Browser）新增了野火可视化功能，极大地提升了野火追踪能力，尤其是在创纪录的野火季节背景下。这项技术进步不仅对环境监测和灾害管理具有实际意义，也展现了卫星数据和地球观测技术在公共服务领域的战略价值。对于关注气候变化影响及相关科技应用的投资者，此类进步预示着可持续发展和环境科技领域的增长潜力。",
+      "name": "Tyler Cowen",
+      "title": "观点：巴尔干地区生育率出现悖论式增长，可能为欧洲人口趋势提供新视角",
+      "summary": "经济学家泰勒·科文（Tyler Cowen）指出，巴尔干地区可能是除中亚以外，欧洲唯一在2015至2026年间生育率有所上升的区域，其多个国家生育率位居欧洲前列。这一观察提出了一种“巴尔干生育率悖论”，挑战了欧洲普遍低生育率的趋势，对人口学研究和长期经济社会规划具有重要参考价值。",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/is-there-a-balkan-fertility-paradox-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=is-there-a-balkan-fertility-paradox-from-my-email"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "香港美元挂钩机制的运作机制、利弊与风险",
+      "summary": "随着国际投资者寻求美元资产多元化及人民币国际化进程的推进，香港的美元挂钩汇率制度再次受到审视。该文深入分析了港元与美元挂钩的历史背景、其带来的经济稳定益处，以及在当前全球经济格局下的潜在风险。对于关注亚洲金融中心稳定性和货币政策的投资者而言，理解这一机制至关重要。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3363306/hong-kongs-us-dollar-peg-explained-history-benefits-and-risks?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "抵押贷款债务凭证（CLO）ETF在利率不确定性下受关注",
+      "summary": "在持续的利率不确定性背景下，抵押贷款债务凭证（CLO）的交易所交易基金（ETF）可能成为ETF行业的下一个重要推动力。CLO作为一种复杂的信用产品，其ETF形式的兴起反映了投资者在寻求收益和管理利率风险方面的需求变化，为投资者提供了新的风险资产敞口。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html"
+        }
+      ]
+    }
+  ],
+  "tech": [
+    {
+      "title": "AI语音合成技术达到新高度，重现肯尼迪总统的声音",
+      "summary": "通过人工智能技术，肯尼迪总统1961年就职演说中的标志性声音得以精确重现。这不仅展示了AI在语音合成方面的强大能力，也预示着AI在文化遗产保护、教育及媒体内容创作等领域的广泛应用前景，同时引发对深度伪造和信息真实性的讨论，对未来社会信息传播构成挑战。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/jfks-ai-voice.html?utm_source=rss&utm_medium=rss&utm_campaign=jfks-ai-voice"
+        }
+      ]
+    },
+    {
+      "title": "Shopify成功通过MySQL替代Redis实现库存预留的扩展性",
+      "summary": "电商巨头Shopify在库存预留系统中成功将Redis替换为MySQL，并实现了良好的扩展性。这一技术决策对于像Shopify这样的大规模平台至关重要，它展示了如何在核心业务逻辑中优化数据库选择，以实现更高的可靠性和成本效率。这为其他大型科技公司在基础设施架构选择上提供了宝贵的经验。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://shopify.engineering/scaling-inventory-reservations"
+        }
+      ]
+    },
+    {
+      "title": "Fastmail在欧盟提供数据区域，响应数据主权与合规需求",
+      "summary": "邮件服务提供商Fastmail现已在欧盟提供数据存储区域服务。这一举措反映了科技公司对日益严格的全球数据隐私法规（如GDPR）的响应，以及用户对数据主权和本地化存储的更高需求。此举有助于提升用户信任，并可能成为其他全球性服务提供商遵循的趋势。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "伯克希尔哈撒韦二季度盈利增长，CEO阿贝尔开始部署巨额现金储备",
-      "summary": "伯克希尔哈撒韦公司公布强劲二季度财报，其能源、铁路和制造业业务表现出色。首席执行官格雷格·阿贝尔（Greg Abel）正逐步动用巴菲特积累的巨额现金储备进行投资。这一策略性举动不仅显示了公司对当前市场环境的信心，也为投资者提供了洞察全球最大投资公司之一如何配置资本的窗口，对市场情绪和未来价值投资方向具有参考意义。",
+      "title": "跑赢标普500指数的股票数量达四年新高，市场广度正在改善",
+      "summary": "过去四年中，跑赢标普500指数的股票数量达到了最高水平，这表明市场正在从少数几只超大盘股驱动的行情转向更广泛的上涨。这一趋势对投资者具有重要意义，可能预示着未来主动管理型基金的表现将优于被动型指数基金，也反映了市场健康度的改善和投资机会的多元化。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html"
-        }
-      ]
-    },
-    {
-      "title": "Rockstar Energy 创始人增持 Celsius 股份，寻求担任 CEO",
-      "summary": "Rockstar Energy 创始人罗斯·萨维奇（Russ Savage）向CNBC透露，他已持有Celsius Holdings 约4.7%的股份，并意图接管这家能量饮料公司的首席执行官职位。这是一起典型的激进投资者行动，可能导致Celsius Holdings 的战略方向、运营管理和市场估值发生重大变化。对于投资者而言，此事件揭示了消费品行业内的潜在整合与领导层变动机会。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html"
-        }
-      ]
-    },
-    {
-      "title": "Meta因“公共危害”被判支付5.67亿美元用于青少年心理健康治疗",
-      "summary": "新墨西哥州法院判决Meta公司需设立一个5.67亿美元的基金，以解决其对青少年心理健康造成的“公共危害”。这一具有里程碑意义的判决，不仅让Meta面临巨额经济负担，更对整个社交媒体行业敲响警钟，预示着更严格的监管和法律责任。投资者需评估此类法律风险对大型科技公司盈利能力和未来业务模式的长期影响。",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "a_stocks": [
     {
-      "title": "全球药企巨头转向中国生物科技寻求创新和估值增长",
-      "summary": "在全球健康峰会上，专家指出跨国制药巨头正日益加大对中国快速增长的生物科技公司的投资，以期挖掘其创新潜力并实现估值增长。这种战略转移意味着全球制药业正将中国视为重要的创新策源地，而非仅仅是市场。对于投资者而言，这凸显了中国生物科技行业在全球医药创新生态系统中的崛起地位，以及外资流入带来的增长机遇。",
+      "title": "尽管地缘政治紧张，中国品牌仍在美国市场蓬勃发展",
+      "summary": "尽管中美地缘政治关系紧张，部分中国品牌仍在美国市场找到了立足点并实现增长。这表明，在特定细分市场和通过创新的营销策略，中国企业仍能克服贸易障碍和消费者偏见。对于关注中国出海战略和全球消费趋势的投资者而言，这一现象值得深入分析。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/economy/global-economy/article/3363328/how-chinas-brands-are-thriving-us-despite-rising-geopolitical-tensions?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "全球制药巨头转向中国生物科技，寻求创新与估值增长",
+      "summary": "全球大型制药公司正加大对中国快速增长的生物科技公司的投资，以期挖掘创新潜力并获取估值增长。香港全球健康峰会上的发言人指出，跨国药企在华业务策略正从重资产运营转向投资合作。这标志着中国生物科技行业在全球价值链中的地位提升，并吸引了大量国际资本和技术合作，具有巨大的发展空间。",
       "sources": [
         {
           "name": "SCMP Business",
@@ -233,51 +174,42 @@
       ]
     },
     {
-      "title": "中国逾四分之一的超高净值家庭集中于北京和上海",
-      "summary": "一份报告显示，截至2025年初，中国超过四分之一的超高净值家庭（资产至少1亿元人民币）集中在北京和上海两大城市，总计34,700户。尽管这两个超一线城市的超高净值家庭数量略有下降，但其财富集中度仍突出。这一数据为投资者提供了中国财富分布的关键洞察，有助于理解高净值人群的消费模式、投资偏好以及资本流向，对高端消费品和财富管理行业尤为重要。",
+      "title": "中国逾四分之一的超高净值人群集中于北京和上海",
+      "summary": "一份报告显示，截至2025年初，中国超过四分之一的超高净值家庭（资产至少1亿元人民币）集中在北京和上海，总计34,700户。尽管这两个城市在全国超高净值家庭总数中的占比略有下降，但财富的高度集中反映了这些超级城市作为中国经济引擎和财富创造中心的地位，对房地产、高端消费和私人银行服务市场有重要影响。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/money/wealth/article/3363314/over-quarter-chinas-ultra-wealthy-concentrated-in-beijing-and-shanghai-report?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "中国新一代金融精英正在影响全球金融运作",
-      "summary": "一股来自中国的金融精英新浪潮正在重塑全球金融业的运作方式。这些新星凭借其分析能力、跨文化适应性和在中国严苛环境中磨砺出的韧性，正在从 Citadel Securities 到 BlackRock 等顶尖金融机构崭露头角。这一趋势不仅标志着全球金融人才格局的结构性转变，也预示着中国思维和方法论在全球资本市场中的影响力日益增强，对未来金融创新和市场行为产生深远影响。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/banking-finance/article/3363347/meet-next-generation-chinese-stars-influencing-how-global-finance-operates?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/money/wealth/article/3363314/over-quarter-chinas-ultra-wealthy-concentrated-beijing-and-shanghai-report?utm_source=rss_feed"
         }
       ]
     }
   ],
-  "business": [],
+  "business": [
+    {
+      "title": "美国医保优势计划的额外福利正受到审查",
+      "summary": "美国官员正在审查Medicare Advantage（医保优势）计划提供的额外福利，并已否决了将医用大麻、流媒体服务和购物俱乐部纳入福利范围的提案。预计2027年将有更多政策调整。此次审查表明监管机构正密切关注医保计划的成本效益和合规性，可能对医疗保险公司和相关服务提供商的业务模式产生影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/08/business/medicare-advantage-benefits.html"
+        }
+      ]
+    },
+    {
+      "title": "足球是否“AI免疫”？科技投资者对世界杯投资的思考",
+      "summary": "文章探讨了足球运动是否能抵御人工智能的影响，以及科技投资者为何曾经看好世界杯等体育赛事的科技应用前景。虽然具体投资计划可能被取消，但其背后反映的是AI在体育数据分析、观众体验、赛事运营等领域日益增长的渗透和投资潜力，预示着体育产业与科技融合的未来方向。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
   "overlooked": [
     {
-      "title": "抵押贷款债务凭证（CLO）ETF作为风险资产，在利率不确定时期受关注",
-      "summary": "在利率持续不确定的背景下，抵押贷款债务凭证（CLO）可能成为交易所交易基金（ETF）行业的下一个重要增长点。这些风险资产正获得越来越多的关注。对于投资者而言，CLO ETF的兴起反映了市场在寻求更高收益的同时，对利率波动和信用风险的权衡。这是一种值得关注的市场结构性变化，预示着复杂信用产品在零售和机构投资组合中的接受度可能增加。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html"
-        }
-      ]
-    },
-    {
-      "title": "美国政府报告质疑狗狗币（DOGE）“墙上的收据”节能声明，称96%无法核实",
-      "summary": "美国政府发布的一份报告对狗狗币（DOGE）项目夸大的“墙上的收据”（Wall of Receipts）节能声明提出质疑，指出其中96%的拨款节省无法核实。这一消息凸显了加密货币领域在透明度和信息披露方面仍面临的挑战，以及监管机构日益增强的审查力度。对于加密资产投资者而言，此类政府报告可能影响特定代币的信誉和更广泛的监管环境，警示投资风险。",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/"
-        }
-      ]
-    },
-    {
-      "title": "火星上的首辆自动驾驶探测器“毅力号”取得巨大成功",
-      "summary": "美国宇航局（NASA）的火星探测器“毅力号”（Perseverance）已证明其自动驾驶能力取得了巨大成功，其行驶距离的约90%都是通过自主模式完成。这一成就不仅是机器人和空间探索技术的一个里程碑，更展示了AI和自主系统在极端环境下的可靠性和效率。对于关注未来科技趋势的投资者，这预示着自主系统在物流、探测乃至军事等多个领域的广阔应用前景。",
+      "title": "火星上首辆自动驾驶探测器大获成功，自主技术前景广阔",
+      "summary": "在火星上部署的首辆自动驾驶探测器“毅力号”已证明取得了巨大成功，其行驶距离的约90%都是自主完成的。这一成就不仅是太空探索的里程碑，更突显了在极端复杂环境中自动驾驶和自主决策技术的成熟度与可靠性，为地球上的自动驾驶、机器人和远程操作等领域的应用提供了宝贵经验和信心。",
       "sources": [
         {
           "name": "Ars Technica",
