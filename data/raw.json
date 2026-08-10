@@ -1,5 +1,19 @@
 [
   {
+    "source": "Stratechery (Ben Thompson)",
+    "title": "Apple Earnings, More on Amazon’s Earnings",
+    "link": "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/",
+    "summary": "Apple's earnings (and stock) are limited not by memory but rather chip shortages; then, more on Amazon's earnings and Andy Jassy's market analysis.",
+    "published": "Mon, 10 Aug 2026 10:00:00 +0000"
+  },
+  {
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "title": "Do Faculty Affect Student Partisanship?",
+    "link": "https://marginalrevolution.com/marginalrevolution/2026/08/do-faculty-affect-student-partisanship.html?utm_source=rss&utm_medium=rss&utm_campaign=do-faculty-affect-student-partisanship",
+    "summary": "<p>We study whether Democratic college professors make their students more liberal. We link voter data to salary records from 33 state flagships and show that faculty skew Democratic, especially in the humanities and social sciences. We then use student transcripts from one flagship to estimate causal effects. Students become more liberal during college regardless of [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/08/do-faculty-affect-student-partisanship.html\">Do Faculty Affect Student Partisanship?</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "published": "Mon, 10 Aug 2026 06:49:07 +0000"
+  },
+  {
     "source": "Marginal Revolution (Tyler Cowen)",
     "title": "Act like it is science",
     "link": "https://marginalrevolution.com/marginalrevolution/2026/08/act-like-it-is-science.html?utm_source=rss&utm_medium=rss&utm_campaign=act-like-it-is-science",
@@ -42,11 +56,11 @@
     "published": "Sun, 09 Aug 2026 04:13:46 +0000"
   },
   {
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "title": "The future of warfare? (from my email)",
-    "link": "https://marginalrevolution.com/marginalrevolution/2026/08/the-future-of-warfare-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=the-future-of-warfare-from-my-email",
-    "summary": "<p>As weapon systems increase in effectiveness, they will generally target one another rather than humans. Lower loss of life will ease conflict entry and hinder exit. Warfare will veer further from industrial competition into techno-industrial; the current appearance of parity between low tech and advanced actors reflects near zero deployment of advanced systems. As these [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/08/the-future-of-warfare-from-my-email.html\">The future of warfare? (from my email)</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "published": "Sat, 08 Aug 2026 18:40:53 +0000"
+    "source": "A Wealth of Common Sense (Ben Carlson)",
+    "title": "Talk Your Book: Why Momentum Investing Works",
+    "link": "https://awealthofcommonsense.com/2026/08/talk-your-book-why-momentum-investing-works/",
+    "summary": "<figure><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"582\" src=\"https://awealthofcommonsense.com/wp-content/uploads/2026/08/Screenshot-2026-08-09-201337-1024x582.png\" width=\"1024\" /></figure>On today's show we speak with John Lewis from Nasdaq Dorsey Wright about how the momentum factor works, why it works, how to implement it correctly and where the diversification benefits can help.\nThe post Talk Your Book: Why Momentum Investing Works appeared first on A Wealth of Common Sense.\n...",
+    "published": "Mon, 10 Aug 2026 11:15:59 +0000"
   },
   {
     "source": "A Wealth of Common Sense (Ben Carlson)",
@@ -57,6 +71,41 @@
   },
   {
     "source": "NYT Business",
+    "title": "Why Meta Is Betting Big on Open A.I.",
+    "link": "https://www.nytimes.com/2026/08/10/business/dealbook/meta-open-ai.html",
+    "summary": "The technology giant is embracing open models, closer ties to Washington and more as it seeks to catch up in the artificial intelligence race.",
+    "published": "Mon, 10 Aug 2026 12:43:02 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Boeing to Sell 3 Autonomous Flight Subsidiaries",
+    "link": "https://www.nytimes.com/2026/08/10/business/boeing-subsidiaries-sale-archer-aviation.html",
+    "summary": "In exchange for the sale to Archer Aviation, which is developing a piloted electric aircraft, Boeing will receive a 16.5 percent stake in Archer.",
+    "published": "Mon, 10 Aug 2026 12:00:04 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Private Equity Is Stuck With 33,575 Unsold Businesses",
+    "link": "https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html",
+    "summary": "Even amid a booming deal-making environment, private equity firms are unable to exit a growing number of investments at values their investors require.",
+    "published": "Mon, 10 Aug 2026 09:01:50 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Can A.I. Get You Where You Want to Go for Less?",
+    "link": "https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html",
+    "summary": "A wave of new services uses A.I. to monitor flights and hotel reservations to help you find lower prices. We look at how these tools work.",
+    "published": "Mon, 10 Aug 2026 11:24:07 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "title": "Why Are So Many People Upset About Flock Cameras?",
+    "link": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
+    "summary": "Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.",
+    "published": "Mon, 10 Aug 2026 12:33:17 +0000"
+  },
+  {
+    "source": "NYT Business",
     "title": "Taylor Farms Voluntarily Recalls Fresh Jalapeños Over Salmonella Concerns",
     "link": "https://www.nytimes.com/2026/08/09/business/taylor-farms-jalapenos-salmonella.html",
     "summary": "The company said it was unaware of any reported illnesses linked to its products containing jalapeños, which were distributed to major retailers across 26 states.",
@@ -64,10 +113,10 @@
   },
   {
     "source": "NYT Business",
-    "title": "Oil Prices Climb and Stocks Dip on Stalemate in Iran War",
+    "title": "Oil Prices Climb on Stalemate in Strait of Hormuz",
     "link": "https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html",
-    "summary": "Hopes were dashed over the weekend for a breakthrough on the Strait of Hormuz.",
-    "published": "Sun, 09 Aug 2026 22:20:09 +0000"
+    "summary": "Hopes were dashed over the weekend for a breakthrough on shipping traffic through the critical waterway in the Persian Gulf.",
+    "published": "Mon, 10 Aug 2026 13:32:27 +0000"
   },
   {
     "source": "NYT Business",
@@ -91,39 +140,32 @@
     "published": "Sun, 09 Aug 2026 09:00:16 +0000"
   },
   {
-    "source": "NYT Business",
-    "title": "MacKenzie Scott Steps Back Into Spotlight With New Book",
-    "link": "https://www.nytimes.com/2026/08/08/business/mackenzie-scott-new-book.html",
-    "summary": "She posted four pages of a manuscript on a newly started Substack newsletter on Saturday and said that the novel would be released serially throughout August.",
-    "published": "Sat, 08 Aug 2026 18:16:04 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Think It’s Cool to Wear Fancy Sneakers to Work? You Might Be Old.",
-    "link": "https://www.nytimes.com/2026/08/08/business/dealbook/loafers-sneakers-work.html",
-    "summary": "After years of office casual, young people are embracing loafers, derbies and oxfords.",
-    "published": "Sun, 09 Aug 2026 00:13:52 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "Medicare Advantage’s Perks Are Getting Scrutiny",
-    "link": "https://www.nytimes.com/2026/08/08/business/medicare-advantage-benefits.html",
-    "summary": "Officials said no to health plans that wanted to expand extra benefits to cover medical marijuana, streaming services and shopping clubs. More changes are coming in 2027.",
-    "published": "Sun, 09 Aug 2026 18:35:41 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "title": "How an N.F.L.-Backed Plan to Revitalize Canton, Ohio, Faltered",
-    "link": "https://www.nytimes.com/2026/08/08/business/nfl-canton-hall-of-fame-village.html",
-    "summary": "The “Hall of Fame Village” was pitched in 2014 as a boon to the city. But hundreds of millions were spent, the N.F.L. backed out, and the project is unfinished.",
-    "published": "Sun, 09 Aug 2026 15:11:24 +0000"
+    "source": "NYT DealBook",
+    "title": "Why Meta Is Betting Big on Open A.I.",
+    "link": "https://www.nytimes.com/2026/08/10/business/dealbook/meta-open-ai.html",
+    "summary": "The technology giant is embracing open models, closer ties to Washington and more as it seeks to catch up in the artificial intelligence race.",
+    "published": "Mon, 10 Aug 2026 12:43:02 +0000"
   },
   {
     "source": "NYT DealBook",
-    "title": "Think It’s Cool to Wear Fancy Sneakers to Work? You Might Be Old.",
-    "link": "https://www.nytimes.com/2026/08/08/business/dealbook/loafers-sneakers-work.html",
-    "summary": "After years of office casual, young people are embracing loafers, derbies and oxfords.",
-    "published": "Sun, 09 Aug 2026 00:13:52 +0000"
+    "title": "Sign Up for DealBook",
+    "link": "https://www.nytimes.com/newsletters/signup/DK",
+    "summary": "Make sense of the latest business and policy headlines with our daily newsletter.",
+    "published": "Mon, 10 Aug 2026 13:01:22 +0000"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Thames Water gave finance boss a £1m signing-on fee",
+    "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
+    "summary": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
+    "published": "Mon, 10 Aug 2026 11:48:54 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Ban on 'subscription traps' brought forward by three months",
+    "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+    "summary": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
+    "published": "Mon, 10 Aug 2026 09:57:54 GMT"
   },
   {
     "source": "BBC Business",
@@ -141,122 +183,178 @@
   },
   {
     "source": "BBC Business",
-    "title": "Raw images, no filters: Why MySpace fans want it back as relaunch hinted",
-    "link": "https://www.bbc.co.uk/news/articles/c4g64152v71o?at_medium=RSS&at_campaign=rss",
-    "summary": "Fans and creators say a revived MySpace must feel personal, not algorithm-driven.",
-    "published": "Sun, 09 Aug 2026 00:04:20 GMT"
+    "title": "'You could smell someone' who worked at Raleigh",
+    "link": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
+    "summary": "The company was more than just a employer. For years, it was part of the fabric of Nottingham.",
+    "published": "Mon, 10 Aug 2026 05:10:15 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Water outage forces Chessington theme park to close",
+    "link": "https://www.bbc.co.uk/news/articles/c3ekx90jww9o?at_medium=RSS&at_campaign=rss",
+    "summary": "Chessington says all tickets booked for Monday can be used on a future date.",
+    "published": "Mon, 10 Aug 2026 10:54:28 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Could your tattoo stop you from getting a job?",
+    "link": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo?at_medium=RSS&at_campaign=rss",
+    "summary": "A quarter of the UK population – including the new prime minister – have at least one tattoo, but they still divide opinion in the workplace.",
+    "published": "Mon, 10 Aug 2026 00:40:48 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "U.S. stock futures flat as investors await inflation data, grapple with more Iran uncertainty",
-    "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories",
-    "summary": "U.S. stock-index futures were little changed on Sunday, after new demands from Iran raised fresh doubts about the Strait of Hormuz reopening anytime soon and as investors await key inflation data later this week.",
-    "published": "Mon, 10 Aug 2026 03:02:00 GMT"
+    "title": "The U.S. economy is shedding jobs. Here’s why that’s good news for stocks.",
+    "link": "https://www.marketwatch.com/story/the-u-s-economy-is-shedding-jobs-why-thats-good-news-for-stocks-a7f4773c?mod=mw_rss_topstories",
+    "summary": "A weaker labor market may mean the Federal Reserve can cut interest rates amid benign wage inflation, says 22V.",
+    "published": "Mon, 10 Aug 2026 13:30:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
-    "link": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
-    "summary": "“I expect to have several years before I take distributions from my 401(k) account.”",
-    "published": "Mon, 10 Aug 2026 00:00:00 GMT"
+    "title": "Berkshire Hathaway finally started spending its nearly $400 billion in cash — on one stock it knows very well",
+    "link": "https://www.marketwatch.com/story/berkshire-hathaway-finally-started-spending-its-nearly-400-billion-in-cash-on-one-stock-it-knows-very-well-f9d56389?mod=mw_rss_topstories",
+    "summary": "Berkshire is buying its own stock after years of building up a cash pile. Not everyone is excited.",
+    "published": "Mon, 10 Aug 2026 12:53:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
-    "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
-    "summary": "“She has been living with me for four years.”",
-    "published": "Sun, 09 Aug 2026 23:30:00 GMT"
+    "title": "Apple’s stock could underperform, especially without an ‘all-glass’ iPhone, this analyst warns",
+    "link": "https://www.marketwatch.com/story/apples-stock-could-underperform-especially-without-an-all-glass-iphone-this-analyst-warns-fc9a750c?mod=mw_rss_topstories",
+    "summary": "A Jefferies analyst says that it may be harder than it looks for Apple to roll out dramatically more expensive devices in a bid to boost profitability.",
+    "published": "Mon, 10 Aug 2026 12:48:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
-    "link": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
-    "summary": "For the first time in four years, the average stock is beating the stock market.",
-    "published": "Sun, 09 Aug 2026 19:11:00 GMT"
+    "title": "Intel plans to sell $15 billion worth of stock after it has risen 400% in a year",
+    "link": "https://www.marketwatch.com/story/intel-plans-to-sell-15-billion-worth-of-stock-after-it-has-risen-400-in-a-year-395effce?mod=mw_rss_topstories",
+    "summary": "The company said it sees growth opportunities in physical AI, custom chips and advanced packaging.",
+    "published": "Mon, 10 Aug 2026 12:24:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
     "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
     "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
     "summary": "“Right now, we’re withdrawing about $100,000 a year from our investments.”",
-    "published": "Sun, 09 Aug 2026 16:00:00 GMT"
+    "published": "Mon, 10 Aug 2026 12:16:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "S&P 500 sales growth is at a nearly 5-year high. Here’s what’s behind the surge.",
-    "link": "https://www.marketwatch.com/story/s-p-500-sales-growth-is-at-a-nearly-5-year-high-heres-whats-behind-the-surge-a4ccf06d?mod=mw_rss_topstories",
-    "summary": "Energy companies in the S&amp;P 500 have put up a 42.5% revenue gain in the second quarter, powering the index’s sales performance.",
-    "published": "Sun, 09 Aug 2026 14:00:00 GMT"
+    "title": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes?",
+    "link": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
+    "summary": "The popular default investments may need to be more aggressive in order to fund decades of retirement.",
+    "published": "Mon, 10 Aug 2026 11:36:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-    "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
-    "summary": "“He has never been particularly generous or nurturing.”",
-    "published": "Sun, 09 Aug 2026 13:30:00 GMT"
+    "title": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
+    "link": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
+    "summary": "Timing is everything when balancing retirement distributions and moving across state lines.",
+    "published": "Mon, 10 Aug 2026 11:36:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
-    "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
-    "summary": "“My father placed his $600,000 Wisconsin home into a revocable trust, naming my brother as beneficiary.”",
-    "published": "Sun, 09 Aug 2026 13:00:00 GMT"
+    "title": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
+    "link": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
+    "summary": "Don’t compare your nest-egg balance to a number that doesn’t actually mean anything. Instead, do this calculation to see if you’re on track for retirement.",
+    "published": "Mon, 10 Aug 2026 11:35:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
-    "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
-    "summary": "“I was surprised — and flattered — to find myself on the guest list.”",
-    "published": "Sun, 09 Aug 2026 12:30:00 GMT"
+    "title": "‘I want her to choose the best strategy’: My wife’s Social Security is just $900. Should she claim spousal benefit at 62?",
+    "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
+    "summary": "“She was a teacher at a school district, so didn’t put much into Social Security.”",
+    "published": "Mon, 10 Aug 2026 11:15:00 GMT"
   },
   {
     "source": "MarketWatch Top Stories",
-    "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
-    "link": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
-    "summary": "“She left behind a 30-year-old son and 32-year-old daughter.”",
-    "published": "Sun, 09 Aug 2026 12:30:00 GMT"
+    "title": "Mark Zuckerberg takes on the AI doomers in 6,500-word essay",
+    "link": "https://www.marketwatch.com/story/mark-zuckerberg-takes-on-the-ai-doomers-in-6-500-word-essay-fd581f3b?mod=mw_rss_topstories",
+    "summary": "Meta Platforms CEO Mark Zuckerberg has a response to the gloom about artificial intelligence coming from both inside and outside the industry: AI will be helpful for both the economy and society.",
+    "published": "Mon, 10 Aug 2026 10:42:00 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "Archer shares surge after Boeing stake, electric aircraft subsidiary deal",
+    "link": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
+    "summary": "Boeing is selling three of its subsidiaries to Archer Aviation in exchange for a stake in the eVTOL startup.",
+    "published": "Mon, 10 Aug 2026 13:13:31 GMT"
+  },
+  {
+    "source": "CNBC Business",
+    "title": "Shein faces existential threat as tariffs hit low-price model, putting new focus on services",
+    "link": "https://www.cnbc.com/2026/08/10/shein-ipo-tariffs.html",
+    "summary": "Shein has won over consumers with its low prices but is now seeing shoppers flee after new tariffs and changing regulations forced it to raise prices.",
+    "published": "Mon, 10 Aug 2026 11:00:01 GMT"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Stocks making the biggest moves premarket: Intel, GameStop, Archer Aviation, Berkshire and more",
+    "link": "https://www.cnbc.com/2026/08/10/stocks-making-the-biggest-moves-premarket-aapl-hpe-rklb-and-more.html",
+    "summary": "These are the stocks posting the largest moves premarket.",
+    "published": "Mon, 10 Aug 2026 13:52:22 GMT"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Meta Muse Glimmer – open weights 30B local coding model",
+    "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "summary": "<p>Article URL: <a href=\"https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\">https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49241679\">https://news.ycombinator.com/item?id=49241679</a></p>\n<p>Points: 351</p>\n<p># Comments: 155</p>",
+    "published": "Mon, 10 Aug 2026 10:10:02 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+    "link": "https://www.docker.com/products/docker-sandboxes/",
+    "summary": "<p>Article URL: <a href=\"https://www.docker.com/products/docker-sandboxes/\">https://www.docker.com/products/docker-sandboxes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239751\">https://news.ycombinator.com/item?id=49239751</a></p>\n<p>Points: 344</p>\n<p># Comments: 214</p>",
+    "published": "Mon, 10 Aug 2026 06:02:38 +0000"
+  },
+  {
+    "source": "Hacker News Top",
+    "title": "What Happened to HackerOne?",
+    "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+    "summary": "<p>Article URL: <a href=\"https://blog.teknogeek.io/posts/what-happened-to-hackerone/\">https://blog.teknogeek.io/posts/what-happened-to-hackerone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238561\">https://news.ycombinator.com/item?id=49238561</a></p>\n<p>Points: 294</p>\n<p># Comments: 150</p>",
+    "published": "Mon, 10 Aug 2026 02:23:17 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "How I use LLMs to learn complex topics",
     "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "summary": "<p>Article URL: <a href=\"https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/\">https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49234675\">https://news.ycombinator.com/item?id=49234675</a></p>\n<p>Points: 555</p>\n<p># Comments: 312</p>",
+    "summary": "<p>Article URL: <a href=\"https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/\">https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49234675\">https://news.ycombinator.com/item?id=49234675</a></p>\n<p>Points: 716</p>\n<p># Comments: 460</p>",
     "published": "Sun, 09 Aug 2026 19:16:49 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Ask HN: What are you working on? (August 2026)",
     "link": "https://news.ycombinator.com/item?id=49233423",
-    "summary": "<p>What are you working on?  What have you been curious about lately?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49233423\">https://news.ycombinator.com/item?id=49233423</a></p>\n<p>Points: 217</p>\n<p># Comments: 756</p>",
+    "summary": "<p>What are you working on?  What have you been curious about lately?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49233423\">https://news.ycombinator.com/item?id=49233423</a></p>\n<p>Points: 276</p>\n<p># Comments: 952</p>",
     "published": "Sun, 09 Aug 2026 17:23:22 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Taxi drivers rarely die of Alzheimer's",
     "link": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-    "summary": "<p>Article URL: <a href=\"https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650\">https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49232253\">https://news.ycombinator.com/item?id=49232253</a></p>\n<p>Points: 241</p>\n<p># Comments: 177</p>",
+    "summary": "<p>Article URL: <a href=\"https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650\">https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49232253\">https://news.ycombinator.com/item?id=49232253</a></p>\n<p>Points: 332</p>\n<p># Comments: 235</p>",
     "published": "Sun, 09 Aug 2026 15:21:46 +0000"
-  },
-  {
-    "source": "Hacker News Top",
-    "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-    "link": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
-    "summary": "<p>Article URL: <a href=\"https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html\">https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49232138\">https://news.ycombinator.com/item?id=49232138</a></p>\n<p>Points: 453</p>\n<p># Comments: 378</p>",
-    "published": "Sun, 09 Aug 2026 15:11:20 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Cool URIs Don't Change (1998)",
     "link": "https://www.w3.org/Provider/Style/URI",
-    "summary": "<p>Article URL: <a href=\"https://www.w3.org/Provider/Style/URI\">https://www.w3.org/Provider/Style/URI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49231809\">https://news.ycombinator.com/item?id=49231809</a></p>\n<p>Points: 216</p>\n<p># Comments: 53</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.w3.org/Provider/Style/URI\">https://www.w3.org/Provider/Style/URI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49231809\">https://news.ycombinator.com/item?id=49231809</a></p>\n<p>Points: 261</p>\n<p># Comments: 62</p>",
     "published": "Sun, 09 Aug 2026 14:32:53 +0000"
   },
   {
     "source": "Hacker News Top",
     "title": "Everything you do is being recorded",
     "link": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-    "summary": "<p><a href=\"https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/?gift=Exty0c37iBapZfMrmNPU4s4IrZcZyRSK4f5vxuwohBM\" rel=\"nofollow\">https://www.theatlantic.com/technology/2026/05/ai-wearable-s...</a><p><a href=\"https://archive.is/JxaZ7\" rel=\"nofollow\">https://archive.is/JxaZ7</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230477\">https://news.ycombinator.com/item?id=49230477</a></p>\n<p>Points: 256</p>\n<p># Comments: 203</p>",
+    "summary": "<p><a href=\"https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/?gift=Exty0c37iBapZfMrmNPU4s4IrZcZyRSK4f5vxuwohBM\" rel=\"nofollow\">https://www.theatlantic.com/technology/2026/05/ai-wearable-s...</a><p><a href=\"https://archive.is/JxaZ7\" rel=\"nofollow\">https://archive.is/JxaZ7</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230477\">https://news.ycombinator.com/item?id=49230477</a></p>\n<p>Points: 349</p>\n<p># Comments: 305</p>",
     "published": "Sun, 09 Aug 2026 11:30:48 +0000"
+  },
+  {
+    "source": "Ars Technica",
+    "title": "Peer review is overwhelmed—can it survive in the AI era?",
+    "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+    "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
+    "published": "Mon, 10 Aug 2026 11:00:47 +0000"
   },
   {
     "source": "Ars Technica",
@@ -264,6 +362,62 @@
     "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
     "summary": "The massive Toba eruption seems to have had little climate impact.",
     "published": "Sun, 09 Aug 2026 11:00:14 +0000"
+  },
+  {
+    "source": "MIT Tech Review",
+    "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+    "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;",
+    "published": "Mon, 10 Aug 2026 12:10:00 +0000"
+  },
+  {
+    "source": "MIT Tech Review",
+    "title": "AI for science needs reasoning, not just data",
+    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;",
+    "published": "Mon, 10 Aug 2026 09:00:00 +0000"
+  },
+  {
+    "source": "MIT Tech Review",
+    "title": "These startups are chasing the next big thing in LLMs",
+    "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+    "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;",
+    "published": "Mon, 10 Aug 2026 09:00:00 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Lululemon rival Alo Yoga enters China market with online store on Alibaba’s Tmall",
+    "link": "https://www.scmp.com/business/companies/article/3363539/lululemon-rival-alo-yoga-enters-china-market-online-store-alibabas-tmall?utm_source=rss_feed",
+    "summary": "Los Angeles-based yoga apparel brand Alo Yoga, a rival of Lululemon, will open its first online flagship store on Alibaba Group Holding’s e-commerce platform Tmall on Wednesday, ahead of launching bricks-and-mortar stores in China.\nThe move comes as China’s premium “athleisure” market grows increasingly competitive, with emerging yoga brands and domestic sportswear makers targeting similar consumer groups.\nAlo is among a group of niche foreign brands – including American fast-food chain Church’s...",
+    "published": "Mon, 10 Aug 2026 13:00:10 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Hong Kong trophy-home demand runs deep, as Stanley luxury sale tops US$19m",
+    "link": "https://www.scmp.com/business/article/3363546/hong-kong-trophy-home-demand-runs-deep-stanley-luxury-sale-tops-us19m?utm_source=rss_feed",
+    "summary": "A buyer with the same name as the founding chairwoman of a global immigration consultancy has bought a detached house in a luxury residential development in southern Hong Kong for over US$19 million, adding to a string of big-ticket deals as demand for trophy homes remains resilient despite a broader slowdown.\nYi Bing signed an agreement for the purchase of House 11 at One Stanley on Wong Ma Kok Road on July 27, according to Land Registry records. The four-bedroom, 3,336 sq ft detached house...",
+    "published": "Mon, 10 Aug 2026 10:30:16 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Can CATL’s battery breakthrough push flying cars closer to a commercial reality in China?",
+    "link": "https://www.scmp.com/business/china-evs/article/3363540/can-catls-battery-breakthrough-push-flying-cars-closer-commercial-reality-china?utm_source=rss_feed",
+    "summary": "Contemporary Amperex Technology Ltd (CATL), the world’s largest electric vehicle (EV) battery maker, has thrown its weight behind flying cars after its aviation battery system cleared a major safety test.\nA successful roll-out of passenger-carrying drone batteries, backed by CATL’s innovation drive and manufacturing heft, would bolster China’s leading position in the renewable energy sector and the future of mobility, according to analysts.\n“The aviation battery system is ready for mass...",
+    "published": "Mon, 10 Aug 2026 09:55:49 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "China’s five-year road map for the power sector",
+    "link": "https://www.scmp.com/plus/economy/china-economy/article/3363503/chinas-five-year-road-map-power-sector?utm_source=rss_feed",
+    "summary": "China unveiled its 15th five-year plan for the power sector on August 3. Below are key targets of the blueprint, which was released jointly by the National Development and Reform Commission and National Energy Administration.\n\n\nSee original document in Chinese:\n\n新型电力系统建设“十五五”规划 by scmp",
+    "published": "Mon, 10 Aug 2026 07:43:22 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "title": "Despite geopolitical tensions, China’s rare earth producers have profitable first half",
+    "link": "https://www.scmp.com/business/china-business/article/3363506/despite-geopolitical-tensions-chinas-rare-earth-producers-have-profitable-first-half?utm_source=rss_feed",
+    "summary": "China’s rare earth producers have reported or anticipated hefty first-half profits, with Beijing’s use of the strategically critical minerals as leverage in trade relations with Japan and the United States not appearing to impede normal activity.\nThe geopolitical factor – US President Donald Trump announced more than US$2 billion of domestic mining investment on Friday, widely viewed as diversifying the country’s rare earth supply chain away from China’s near-monopoly – has helped drive up...",
+    "published": "Mon, 10 Aug 2026 07:03:18 +0000"
   },
   {
     "source": "SCMP Business",
@@ -299,33 +453,5 @@
     "link": "https://www.scmp.com/presented/business/topics/hong-kongs-urban-infrastructure/article/3360670/can-hong-kong-become-asias-blueprint-sustainable-urban-growth?utm_source=rss_feed",
     "summary": "[The content of this article has been produced by our advertising partner.]\nHong Kong has long been a city in motion, where capital, talent and ideas move with remarkable speed. For AtkinsRéalis, a world-class engineering services and nuclear power organisation, the city is more than a strategic base in Asia; it is a place where the future of infrastructure is being designed, tested and scaled.\nHong Kong: a strategic hub for innovation\n“Hong Kong plays a pivotal role in our regional strategy,”...",
     "published": "Sun, 09 Aug 2026 16:00:07 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "How China’s brands are thriving in the US despite rising geopolitical tensions",
-    "link": "https://www.scmp.com/economy/global-economy/article/3363328/how-chinas-brands-are-thriving-us-despite-rising-geopolitical-tensions?utm_source=rss_feed",
-    "summary": "The Cry Me an Ocean plush toys sat as forlornly as their name implied inside the Stoneridge Shopping Centre in the San Francisco suburb of Pleasanton.\nThe Chinese brand Pop Mart had placed a “Robo Shop” vending machine stuffed with the small dolls on a walkway inside the mall, but passers-by barely gave them a second glance.\nA few shoppers said they vaguely recalled hearing the brand’s name somewhere, and one even name-checked Pop Mart’s viral Labubu figurines. But not a single person scanned...",
-    "published": "Sun, 09 Aug 2026 12:00:08 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Demand for affordable EVs will force open US market to Chinese models eventually: analysts",
-    "link": "https://www.scmp.com/business/china-evs/article/3363399/demand-affordable-evs-will-force-open-us-market-chinese-models-eventually-analysts?utm_source=rss_feed",
-    "summary": "Consumer demand for affordable electric vehicles is likely to force open the US market to Chinese electric vehicle (EV) brands within the next few years, even though they currently face trade barriers, according to analysts.\nUS carmakers are expecting the same, with Ford CEO Jim Farley recently predicting the entry of Chinese EVs as early as five years.\nFarley, one of the most outspoken voices in the US automotive industry on the competitiveness of Chinese EVs, told Ford’s staff two weeks ago...",
-    "published": "Sun, 09 Aug 2026 10:00:07 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "China races to develop brain-computer interfaces that can be inserted in 10 minutes",
-    "link": "https://www.scmp.com/business/companies/article/3363443/china-races-develop-brain-computer-interfaces-can-be-inserted-10-minutes?utm_source=rss_feed",
-    "summary": "Chinese start-ups and researchers are racing to bring brain-computer interfaces (BCIs) to market that can be implanted in just a few minutes, as Beijing pushes to nurture home-grown players in the sector to compete with Elon Musk’s Neuralink.\nThe Chinese devices – which enable patients to control digital technology using their thoughts alone – can be inserted via a vein like a stent, unlike conventional BCIs that require patients to undergo brain surgery.\nStairMed Technology – one of the...",
-    "published": "Sun, 09 Aug 2026 09:50:10 +0000"
-  },
-  {
-    "source": "SCMP Business",
-    "title": "Derelict cinema on scenic Hong Kong island up for auction with a US$1 million price tag",
-    "link": "https://www.scmp.com/business/article/3362983/derelict-cinema-scenic-hong-kong-island-auction-us1-million-price-tag?utm_source=rss_feed",
-    "summary": "Peng Chau Cinema, an Instagrammable spot for tourists on an outlying Hong Kong island, will be auctioned off in mid-August at a valuation 30 per cent below estimation after almost 40 years of abandonment – a dormancy lengthy enough to fuel dark rumours among some residents.\nThe former cinema is currently owned by Far East Hotels and Entertainment Limited, whose major shareholder is Derek Chiu, the sixth son of Deacon Chiu – founder of Far East Consortium.\nAfter its opening in 1978, the site was...",
-    "published": "Sun, 09 Aug 2026 08:30:07 +0000"
   }
 ]
