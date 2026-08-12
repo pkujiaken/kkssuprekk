@@ -1,74 +1,90 @@
 {
   "top5": [
     {
-      "title": "Nvidia AI融资计划面临中国地缘政治风险",
-      "summary": "Nvidia CEO Jensen Huang提出的将GPU作为长期抵押品以解锁5000亿美元AI基础设施建设资金的计划，正面临中国市场带来的巨大风险。分析指出，中国地缘政治的不确定性可能导致AI芯片折旧加速，从而增加融资方的风险敞口。此举揭示了AI产业对单一供应商的依赖，以及地缘政治因素对高科技领域资本流向和资产估值的深远影响，对投资者评估AI相关资产的长期价值至关重要。",
+      "title": "美国7月通胀数据好于预期，CPI年率降至3.4%，美联储9月加息可能性降低",
+      "summary": "美国劳工部公布的7月消费者物价指数（CPI）显示，年化通胀率降至3.4%，食品成本涨幅放缓，但住房成本仍构成一定压力。此次通胀数据低于市场预期，为美联储在9月议息会议上保持利率不变提供了更多依据，可能减轻了市场对近期进一步加息的担忧，对股市和债市情绪将产生积极影响，并有助于消费者信心回升。",
       "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/12/business/economy/inflation-federal-reserve-interest-rates.html"
+        }
+      ]
+    },
+    {
+      "title": "英伟达5000亿美元AI芯片融资计划引争议，地缘政治风险成焦点",
+      "summary": "英伟达首席执行官黄仁勋提出一项宏大的5000亿美元AI芯片融资计划，旨在将GPU作为长期抵押品，以解锁巨额资金用于AI基础设施建设。然而，这一创新模式面临巨大风险，尤其是在中美科技竞争日益加剧的背景下，中国市场的不确定性和对芯片折旧速度的担忧，可能严重影响该计划的长期可行性和投资者信心，同时，华尔街对AI领域过度注资的潜在风险也引发了广泛关注。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html"
+        },
         {
           "name": "Stratechery (Ben Thompson)",
           "url": "https://stratechery.com/2026/nvidias-risky-business/"
         },
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html"
-        }
-      ]
-    },
-    {
-      "title": "华尔街对AI的巨额投资与潜在泡沫风险",
-      "summary": "包括贝莱德在内的多家主要投资机构正向人工智能行业投入数十亿美元的贷款，但这种狂热的资金涌入并非普遍受到认可，市场担忧存在潜在的泡沫风险。这种现象反映了投资者对AI技术颠覆性潜力的巨大期待，但也可能导致资本过度集中和错配，为未来市场波动埋下隐患。高净值投资者需警惕AI领域过度估值和高风险贷款带来的系统性风险。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/11/business/dealbook/ai-lending-nvidia-blackrock.html"
-        },
-        {
           "name": "NYT DealBook",
           "url": "https://www.nytimes.com/2026/08/11/business/dealbook/ai-lending-nvidia-blackrock.html"
         }
       ]
     },
     {
-      "title": "美伊僵局导致油价触及90美元",
-      "summary": "随着美国和伊朗之间的僵局持续，霍尔木兹海峡的商业航运活动进一步减少，国际油价因此飙升至每桶90美元。中东地区地缘政治紧张局势的加剧，直接威胁全球关键能源运输通道，引发市场对原油供应中断的担忧。油价上涨不仅会推高全球通胀，还将增加企业运营成本，对全球经济增长和主要经济体的货币政策产生显著影响。",
+      "title": "华尔街对AI投资狂热或积聚风险，BlackRock等巨头大举投入引警示",
+      "summary": "以BlackRock为首的投资者正向人工智能行业投入巨额资金，承诺提供惊人数量的贷款。然而，这种投资热潮并未获得所有人的认同，部分评论员担忧其背后可能蕴含过高风险和杠杆积聚。AI领域的快速发展和高估值，使得市场对潜在的泡沫和修正风险保持警惕，尤其是在缺乏清晰盈利模式和过度竞争的背景下。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html"
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/08/11/business/dealbook/ai-lending-nvidia-blackrock.html"
         },
+        {
+          "name": "Aswath Damodaran",
+          "url": "https://aswathdamodaran.blogspot.com/2026/08/the-situational-awareness-blow-up.html"
+        }
+      ]
+    },
+    {
+      "title": "中东紧张局势加剧，油价突破90美元/桶，全球通胀和经济增长承压",
+      "summary": "受美国与伊朗在霍尔木兹海峡的僵局影响，国际油价突破90美元大关，导致商业航运活动持续减少。英国政府官员已发出警告，中东冲突将对明年英国经济增长产生负面影响。油价飙升不仅直接推高全球能源和燃料成本，也将扰乱全球供应链，加剧通胀压力，进而可能迫使各国央行重新评估货币政策路径，对全球经济复苏构成重大挑战。",
+      "sources": [
         {
           "name": "NYT DealBook",
           "url": "https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "AI算力被金融化：CME将推出期货合约",
-      "summary": "芝加哥商品交易所（CME）正与Silicon Data合作，计划于10月5日推出两份AI算力期货合约。此举旨在将人工智能计算能力转化为可交易的资产类别，允许市场参与者对冲或投机AI算力成本和价格波动。这标志着AI基础设施投资进入新的阶段，为快速发展的AI生态系统引入了新的金融工具，可能吸引更多机构资金，但也带来了新的市场波动性风险。",
+      "title": "派拉蒙与华纳兄弟探索公司合并案遭阻挠，高管威胁将公司撤出加州",
+      "summary": "媒体公司派拉蒙与华纳兄弟探索公司的合并交易，正面临多个州检察长联合诉讼的阻挠。派拉蒙领导人大卫·埃里森对此表示强硬立场，威胁称若诉讼导致交易受阻，公司将考虑撤出加州。此事件不仅凸显了大型媒体并购案在反垄断监管方面的挑战，也反映了企业在面临监管压力时，可能采取的激进应对策略及其对地方经济的影响。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html"
-        }
-      ]
-    },
-    {
-      "title": "中国电动汽车市场占据主导地位",
-      "summary": "中国乘用车协会最新数据显示，7月份新能源汽车的渗透率持续上升，特斯拉Model Y等车型表现强劲。这一趋势巩固了中国在全球电动汽车市场的领先地位，不仅是最大的销售市场，也是技术创新和消费趋势的重要驱动力。中国市场的电动化加速对全球汽车制造商的竞争格局、技术研发方向以及国际供应链布局都产生深远影响。",
-      "sources": [
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html"
+        },
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/11/business/media/david-ellison-hollywood-paramount-warner-bros.html"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Ben Thompson (Stratechery)",
-      "title": "Nvidia的AI融资策略“风险重重”",
-      "summary": "观点：Ben Thompson指出，Nvidia为客户提供的GPU抵押融资新模式，虽然有助于加速AI基础设施建设，但也显著增加了整个AI生态的风险。他认为，若AI芯片的折旧速度快于预期，尤其是在中国地缘政治不确定性加剧的背景下，Nvidia及其合作伙伴将面临巨大的财务风险。这凸显了高科技投资中技术迭代和地缘政治的双重不确定性。",
+      "name": "Ben Thompson",
+      "title": "评论Anthropic水印技术及英伟达AI融资模式的风险",
+      "summary": "观点：Stratechery分析师本·汤普森认为，Anthropic为响应欧盟AI法规而引入的水印技术是一个“糟糕透顶的想法”，主要是基于哲学原因。同时，他还强调英伟达正在为其客户寻找新的融资方式，但这显著增加了AI建设的风险，暗示了AI领域资本结构可能出现的新挑战与潜在脆弱性。",
       "sources": [
+        {
+          "name": "Stratechery (Ben Thompson)",
+          "url": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/"
+        },
         {
           "name": "Stratechery (Ben Thompson)",
           "url": "https://stratechery.com/2026/nvidias-risky-business/"
@@ -77,8 +93,8 @@
     },
     {
       "name": "Aswath Damodaran",
-      "title": "警惕AI投资中的“情境意识崩溃”",
-      "summary": "观点：估值专家Aswath Damodaran警示投资者，应警惕AI投资中因“信念”驱动导致的情境意识崩溃。他以一个AI对冲基金短期内获得惊人回报为例，提醒市场不应被短期高收益蒙蔽，而忽视对基础价值和风险的审慎分析。他强调，投资成功不应仅看回报，更要理解其背后的风险结构，避免在市场狂热中做出非理性决策。",
+      "title": "警示AI对冲基金的高回报与潜在估值泡沫",
+      "summary": "观点：估值专家阿斯沃斯·达摩达兰对年轻天才利奥波德·阿申布伦纳创办的AI对冲基金表示关注。该基金以押注AI短期内爆发为核心，通过买入AI相关公司和做空被AI颠覆的行业，在短短数月内实现了450%的回报。达摩达兰虽然不否认其成功，但也暗示这种“眼花缭乱”的回报可能伴随着极高的市场情绪和潜在的估值泡沫，警示投资者需保持清醒的“情境意识”，避免过度自信带来的损失。",
       "sources": [
         {
           "name": "Aswath Damodaran",
@@ -87,107 +103,74 @@
       ]
     },
     {
-      "name": "Tyler Cowen (Marginal Revolution)",
-      "title": "网络安全成本将上升，但普遍被低估",
-      "summary": "观点：Tyler Cowen指出，网络安全成本正持续上升，但现有的成本估计相对于市场普遍感受到的焦虑而言，可能显得过于保守。原话：「这里有一个（部分）关于更高网络成本的估计。我不确定他们考虑了多少事件，但这对我来说似乎是现实的估计，但相对于我所看到的焦虑，也显得相当温和？」他暗示企业和投资者可能低估了网络威胁的长期财务影响。",
+      "name": "Scott Rubner (Citadel Securities)",
+      "title": "预测美股市场杠杆将再次积累",
+      "summary": "观点：Citadel Securities策略师斯科特·鲁布纳曾准确预测了股市的“重置”，现在他认为，市场上正在出现新的杠杆积累迹象。他指出，包括大型对冲基金和机构投资者在内的越来越多的股市买家，正推动市场朝着积极方向发展，但这也预示着未来市场波动性可能增加，投资者需警惕潜在的风险敞口。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-much-will-cybersecurity-costs-rise.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/citadel-securities-called-the-stock-market-reset-now-it-says-leverage-may-build-up-again-988eec86?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "name": "Jensen Huang (Nvidia CEO)",
-      "title": "推动5000亿美元AI融资计划",
-      "summary": "观点：Nvidia CEO Jensen Huang正在积极推动一项雄心勃勃的5000亿美元AI融资计划，旨在通过将GPU作为长期抵押品，为全球AI基础设施的快速部署提供资金支持。这一战略举措旨在加速AI算力普及，巩固Nvidia在AI生态系统中的核心地位。然而，该计划也引发了关于芯片资产折旧速度和潜在地缘政治风险的讨论。",
+      "name": "Ben Carlson",
+      "title": "关注市场情绪与日内交易者的挣扎",
+      "summary": "观点：投资专家本·卡尔森在其“动物精神”播客中讨论了股市创下新高、AI投资的独大现象以及新兴市场的低估值。他特别指出，尽管市场表现强劲，但日内交易（day trading）的难度巨大，许多日内交易者因此感到沮丧。他强调了投资者的情绪波动在市场中的作用，并提醒大家定期审视投资组合的重要性，而非过度追逐短期收益。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html"
-        },
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html"
-        }
-      ]
-    },
-    {
-      "name": "Mark Reuss (通用汽车总裁)",
-      "title": "探讨通用汽车电动化、中国战略及传承",
-      "summary": "观点：通用汽车总裁Mark Reuss在访谈中强调了公司在电动汽车领域的战略布局及其对中国市场的重视。他详细阐述了通用汽车如何应对电动化转型挑战，以及如何在中国这个全球最大汽车市场中保持竞争力。Reuss的观点反映了传统汽车巨头在面对技术变革和全球市场竞争时的战略考量，以及他作为公司领导者对家族传承的看法。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/11/business/general-motors-mark-reuss.html"
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/08/animal-spirits-depressed-day-traders/"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "气候变化对经济造成严重破坏",
-      "summary": "今年全球范围内的极端天气事件，如热浪、火灾、烟雾和强风暴，正给企业带来日益严重的财务损失。这些气候冲击不仅破坏基础设施、扰乱供应链，还增加了运营成本和保险支出，对宏观经济增长构成长期性威胁。企业和投资者必须将气候风险纳入长期战略规划，以应对气候变化对全球经济的持续性和结构性影响。",
+      "title": "美国就业市场放缓迹象显现，企业招聘意愿下降",
+      "summary": "最新数据显示，美国劳动力市场出现放缓迹象，企业在招聘方面变得更为谨慎。雇主对扩大员工队伍持观望态度，这可能预示着经济增长的温和趋势，并对未来消费支出产生影响。美联储在评估劳动力市场状况时会密切关注这些信号，作为其货币政策决策的重要参考，以平衡通胀控制和经济稳定。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html"
+          "url": "https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/the-labor-market-slowed-as-employers-grew-wary-of-hiring"
         }
       ]
     },
     {
-      "title": "美国消费者利用房屋净值偿还信用卡债务",
-      "summary": "随着美国信用卡债务持续攀升，越来越多的家庭选择通过抵押贷款再融资来提取房屋净值以偿还账单。虽然创纪录的房屋净值暂时为消费者提供了财务缓冲，但这种做法实际上是将短期高息消费债务转化为长期抵押贷款。这可能隐藏了潜在的消费者财务健康风险，值得宏观经济分析师密切关注其对未来消费支出和房地产市场的影响。",
+      "title": "30万亿美元美国国债市场面临严峻考验，收益率上升或挤压投资组合",
+      "summary": "全球金融体系的基石——价值约30万亿美元的美国国债市场，正面临一场由多种风险因素驱动的“痛苦清算”。市场正遭遇利率上升、通胀压力以及财政赤字扩张等多重挑战，可能导致收益率进一步走高。对于投资者而言，这意味着持有债券的风险增加，并可能对多元化投资组合的回报产生负面影响，需要重新评估固定收益资产的配置策略。",
       "sources": [
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/11/business/home-equity-credit-card-debt.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-30-trillion-treasury-market-is-facing-a-painful-reckoning-how-rising-yields-could-squeeze-your-portfolio-8fa9edd8?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "机构禁购房屋法案有望长期降低房价",
-      "summary": "美国最大独栋租赁住宅房东Invitation Homes的首席执行官表示，针对大型机构投资者购买房屋的新法案，虽然不会立即生效，但从长远来看将有助于降低房价。这项政策旨在解决住房市场的可负担性危机，并可能改变机构投资者在住宅房地产市场的策略。它的实施将对美国房地产市场的供应、需求结构以及投资者预期产生深远影响。",
+      "title": "英首相暗示将推出更多生活成本支持措施，应对通胀挑战",
+      "summary": "英国首相承认，当前应对生活成本危机的帮助措施不足，并暗示将提供进一步的支持。这表明英国政府正面临巨大的民众压力，需要采取更多财政干预措施来缓解高通胀对家庭支出的冲击。此举可能涉及扩大补贴或减税，但也将对政府财政预算和通胀控制带来新的挑战，并影响投资者对英国经济政策走向的预期。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/11/invitation-homes-ceo-institutional-homebuying-ban-prices.html"
-        }
-      ]
-    },
-    {
-      "title": "美国移民收入同化趋势研究揭示劳动力市场动态",
-      "summary": "一项利用1981年至2021年行政纵向数据的研究，深入分析了美国移民工人收入同化的长期趋势。该研究通过追踪移民在美国的收入变化，揭示了劳动力市场中移民群体的经济融入过程。这项发现对于理解劳动力市场结构性变化、评估移民政策的经济效益以及预测未来人口结构对经济增长的影响具有重要宏观意义。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/immigrant-earnings-assimilation-1981-2021.html"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cgmkee248vdo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "华尔街对AI投资的狂热与风险并存",
-      "summary": "包括贝莱德在内的机构投资者正向人工智能行业注入数十亿美元贷款，显示出市场对AI的巨大热情。然而，这种资金狂潮也引发了对潜在风险的担忧，例如过度估值和泡沫化。对高净值投资者而言，理解AI投资的真实回报潜力与风险平衡至关重要，而非盲目追逐短期热点，避免因资本错配而造成的长期损失。",
+      "title": "Thrive Holdings完成20亿美元融资，加速AI赋能服务型企业",
+      "summary": "专注于收购并利用人工智能技术改造服务型公司的Thrive Holdings，成功完成了20亿美元的融资，吸引了软银等知名投资者的兴趣。这一大规模融资表明市场对AI技术深度融入传统服务业的巨大潜力抱有信心。Thrive Holdings的战略旨在通过AI提升运营效率和竞争力，这预示着未来更多传统行业将借助AI实现数字化转型和价值重塑。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/11/business/dealbook/ai-lending-nvidia-blackrock.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/11/business/dealbook/ai-lending-nvidia-blackrock.html"
+          "url": "https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html"
         }
       ]
     },
     {
-      "title": "AI服务定价与盈利模式面临挑战",
-      "summary": "当前AI服务的买家正努力控制成本，而卖家则在如何合理定价方面感到困惑，这种“Tokenomics”难题揭示了AI经济模型的初期阶段。AI服务成本结构复杂且价值衡量标准不明确，阻碍了其大规模商业化落地。对于投资者而言，理解AI公司能否建立可持续的盈利模式，是评估其长期投资价值的关键，否则可能面临营收不确定性。",
+      "title": "AI服务变现难题：Tokenomics挑战卖家定价与买家成本控制",
+      "summary": "AI服务的成本控制和定价策略正成为行业痛点。AI服务的购买者在管理成本方面面临困境，而提供者也不确定如何合理收费。这种“Tokenomics”的复杂性反映了AI技术在商业化落地过程中，其价值衡量和经济模型尚未成熟。未来，如何构建可持续且公平的AI服务经济体系，将是推动AI广泛应用的关键挑战。",
       "sources": [
         {
           "name": "BBC Business",
@@ -196,104 +179,67 @@
       ]
     },
     {
-      "title": "人形机器人将进入汽车工厂，但效率提升存疑",
-      "summary": "具备行走和对话能力的类人机器人正被引入汽车制造工厂，旨在提高生产效率。然而，专家们警告称，这些机器人可能无法像支持者所宣称的那样带来显著的效率增长。这一发展反映了工业机器人技术在实际应用中仍面临挑战，企业在引入前沿技术时需审慎评估其真实效益和潜在局限性，而非盲目追求技术创新。",
+      "title": "Spotify将为AI生成艺术家内容加标签并从推荐中移除",
+      "summary": "流媒体巨头Spotify宣布，将从9月中旬开始为AI生成的艺术家内容添加标签，并将其从推荐列表中移除。此举是平台应对AI内容激增的一项重要策略，旨在维护原创音乐的价值，并向用户提供更透明的收听体验。这一政策将对音乐产业的AI应用、内容生态以及艺术家收入模式产生深远影响，也可能引发其他内容平台效仿。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html"
-        }
-      ]
-    },
-    {
-      "title": "Oracle股价受AI支出担忧影响",
-      "summary": "市场对甲骨文未来人工智能支出计划缺乏清晰度，导致其股价受挫，投资者表现出观望态度。这表明，即使是科技巨头，在AI领域的投资策略和执行透明度也对市场情绪和股价表现产生直接影响。投资者正密切关注企业如何平衡对AI的巨额投入与短期盈利能力，以及这些投资能否转化为可持续的长期增长。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/oracles-stock-has-taken-a-hit-as-ai-spending-concerns-resurface-bdb9bf09?mod=mw_rss_topstories"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "CoreWeave财报显示AI市场强劲增长势头",
-      "summary": "AI云服务提供商CoreWeave公布的财报超出市场预期，营收和盈利均实现大幅增长，其CEO称当前是“一个重要的拐点”。这一强劲表现表明人工智能基础设施和服务的市场需求持续旺盛，为相关上市公司带来了显著增长机遇，也验证了AI技术在商业化应用方面的快速进展。投资者可将此视为AI产业整体景气度的重要风向标。",
+      "title": "AI基础设施提供商CoreWeave和Nebius财报强劲，股价大涨",
+      "summary": "作为新兴云计算（neocloud）领域的代表，CoreWeave和Nebius在最新财报中表现出色，股价均大幅上涨。分析师指出，CoreWeave正不断扩大客户基础，并受益于积极的定价动态。两家公司均显示出强劲的需求信号和积极的盈利表现，进一步印证了AI基础设施建设的巨大市场需求和投资价值，为AI板块带来了积极的市场情绪。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/coreweaves-stock-is-rocketing-after-earnings-lead-to-praises-from-bulls-and-bears-alike-46c831e7?mod=mw_rss_topstories"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/nebius-adds-to-the-excitement-around-neocloud-stocks-with-upbeat-earnings-of-its-own-cd2aa36e?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "Super Micro电脑财报再次超出预期，股价攀升",
-      "summary": "AI服务器供应商Super Micro Computer的最新财报再次超出华尔街预期，推动其股价上涨。此前，该公司已通过预告改善盈利能力路径给市场留下深刻印象。Super Micro的强劲业绩进一步验证了AI硬件市场的高景气度，凸显了AI基础设施需求对特定科技公司的巨大拉动作用，值得投资者关注其持续增长潜力。",
+      "title": "Super Micro财报超预期，股价上涨引华尔街关注",
+      "summary": "人工智能服务器制造商Super Micro Computer在公布财报后股价大涨，引起华尔街的广泛关注。该公司的业绩表现超出市场预期，进一步凸显了AI硬件需求旺盛的趋势。Super Micro作为AI基础设施供应链中的关键一环，其强劲增长表明企业对AI计算能力的需求持续高涨，对其未来市场份额和盈利能力提供了信心。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/super-micros-earnings-report-brings-more-good-news-and-the-stock-is-climbing-30e5ca89?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/super-micro-stock-is-rallying-after-results-heres-what-wall-street-is-saying-631e9253?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "Lumentum销售额因AI需求激增翻倍",
-      "summary": "光网络产品供应商Lumentum的销售额受到AI需求激增的推动，实现了一倍以上的增长，尽管其盘后股价表现平平。这表明AI产业对供应链底层光学组件的巨大拉动作用，但市场对未来增长的可持续性或行业竞争格局可能仍存顾虑。投资者需深入分析其业绩增长的驱动因素，以判断这是否能转化为长期股价动力。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/lumentum-sees-sales-more-than-double-as-ai-demand-swells-6ebe6ef1?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "SEC指控私募股权基金Adit Ventures及其CEO涉嫌欺诈",
-      "summary": "美国证券交易委员会（SEC）对纽约私募股权投资顾问Adit Ventures Management及其CEO Eric Munson提起欺诈指控。此项监管行动强调了SEC打击私募市场违规行为的决心，提醒高净值投资者在选择私募股权基金时，务必对基金管理人进行全面尽职调查，关注其合规记录和透明度，以规避潜在的欺诈风险。",
-      "sources": [
-        {
-          "name": "SEC Press",
-          "url": "https://www.sec.gov/newsroom/press-releases/2026-73-sec-charges-private-fund-adviser-adit-ventures-management-its-ceo-affiliated-general-partners"
-        }
-      ]
-    },
-    {
-      "title": "波音出售eVTOL子公司并入股Archer Aviation",
-      "summary": "波音公司出售了其三家电动垂直起降飞行器（eVTOL）子公司，以换取eVTOL初创公司Archer Aviation的股份。此举标志着波音在未来航空技术领域的战略调整，从自主研发转向通过股权投资和合作参与新兴市场。此策略旨在优化资源配置，降低高风险研发成本，同时不放弃在下一代航空技术领域的布局和潜力。",
+      "title": "家得宝CEO因健康原因休假，两位高管将临时接管公司运营",
+      "summary": "美国大型家居用品零售商家得宝（Home Depot）宣布，首席执行官泰德·德克尔（Ted Decker）将因健康原因暂时休假数月，在此期间，两位高级管理人员将共同负责公司的日常运营。此消息可能给投资者带来短期不确定性，但公司及时公布过渡计划，旨在确保管理层稳定，尽量减少对业务连续性的影响。",
       "sources": [
         {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html"
+          "url": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html"
         }
       ]
     }
   ],
-  "a_stocks": [
-    {
-      "title": "中国新能源汽车市场持续强劲增长",
-      "summary": "中国乘用车协会最新数据显示，7月份新能源汽车在中国市场的渗透率持续攀升，比亚迪、特斯拉和吉利等品牌表现尤为突出。这不仅巩固了中国在全球电动汽车市场的领导地位，也预示着中国汽车产业在电动化转型中已占据主导。对于A股投资者而言，应密切关注新能源汽车产业链上下游公司的投资机会，及其在全球市场份额的变化。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html"
-        }
-      ]
-    }
-  ],
+  "a_stocks": [],
   "business": [
     {
-      "title": "David Ellison考虑退出好莱坞，因州政府威胁其华纳兄弟交易",
-      "summary": "电影制片人David Ellison向派拉蒙高管透露，由于多个州的总检察长威胁提起诉讼，他正在考虑将其公司撤出加州。此举可能对Ellison收购派拉蒙母公司National Amusements的交易产生重大影响。这一事件反映了好莱坞在并购活动中面临日益严格的监管审查和政治压力，对媒体娱乐行业的未来整合和商业策略构成挑战。",
+      "title": "礼来公司起诉药店和肽供应商，打击减肥新药Retatrutide仿制销售",
+      "summary": "制药巨头礼来公司正在起诉多家药店和肽供应商，理由是他们未经授权销售其下一代重磅减肥药物Retatrutide的仿制或复合版本。随着美国民众对减肥和健康药物需求激增，一些人转向医疗美容院和销售肽类产品的药店获取未经审批的Retatrutide复合制剂。礼来此举旨在保护其药物知识产权和市场份额，对仿制药市场和消费者用药安全均有重要影响。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/11/business/media/david-ellison-hollywood-paramount-warner-bros.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/eli-lilly-is-suing-pharmacies-and-peptide-vendors-over-sales-of-the-next-big-weight-loss-drug-retatrutide-22434cce?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "通用汽车达成45亿美元零部件协议，强化供应链韧性",
-      "summary": "通用汽车与供应商达成一项价值高达45亿美元的零部件采购协议，旨在规避未来可能出现的供应链中断问题。在全球汽车行业经历多年供应链困境之后，通用汽车的这一战略性举措表明其正积极构建更具韧性的供应链，确保生产稳定和运营连续性。此举对提升公司长期竞争力和盈利能力至关重要。",
+      "title": "通用汽车达成45亿美元零部件采购协议，旨在规避供应链风险",
+      "summary": "为避免全球汽车行业多年来面临的供应链中断问题，通用汽车公司签署了一项高达45亿美元的零部件采购协议。此项长期协议旨在确保关键零部件的稳定供应，增强公司的韧性。在全球地缘政治紧张和贸易壁垒加剧的背景下，大型制造商寻求通过战略采购来分散风险、保障生产，将成为常态，这对其成本结构和竞争优势至关重要。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -302,72 +248,58 @@
       ]
     },
     {
-      "title": "Ari Emanuel公司收购百老汇及西区多家剧院",
-      "summary": "好莱坞巨头Ari Emanuel旗下公司将收购拥有全球数十家演出场所的ATG Entertainment，其中包括7家百老汇剧院和10家西区剧院。此项收购尚需监管部门批准，但它将显著巩固Emanuel在全球现场娱乐产业的地位，并可能重塑剧院运营和内容制作的市场格局。这一交易体现了行业头部企业对娱乐内容和线下体验经济的持续投资信心。",
+      "title": "捷豹路虎母公司塔塔集团董事长因董事会分歧将卸任",
+      "summary": "豪华汽车品牌捷豹路虎的母公司——印度塔塔集团（Tata Group）董事长钱德拉塞卡兰（N. Chandrasekaran）宣布，由于未能获得塔塔控股董事会的支持，他将在任期结束后不再寻求连任。这一领导层变动将对塔塔集团旗下众多业务（包括汽车、钢铁、IT服务等）的未来战略方向和全球扩张计划产生影响，值得投资者密切关注。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html"
-        },
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "阿里·伊曼纽尔公司收购英美主要剧院，扩大娱乐版图",
+      "summary": "知名娱乐业高管阿里·伊曼纽尔（Ari Emanuel）旗下的公司计划收购英国西区（West End）的10家剧院和美国百老汇（Broadway）的7家剧院，此次收购还包括了全球数十个演出场馆的运营方ATG Entertainment。这笔交易尚需监管部门批准，但一旦完成，将显著扩大该公司在全球现场娱乐市场的份额和影响力，预示着疫情后剧院和现场演出行业并购整合的加速。",
+      "sources": [
         {
           "name": "NYT DealBook",
           "url": "https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html"
-        }
-      ]
-    },
-    {
-      "title": "Cava销售额逆势增长，即使消费者避开生菜",
-      "summary": "餐饮连锁Cava集团报告其销售额显著增长，尽管近期因食品安全担忧，部分消费者选择避开菜单中的生菜。这一表现表明Cava具有较强的品牌韧性和产品适应性，能够在市场挑战下有效调整策略并保持增长势头。在竞争激烈的餐饮行业和日益关注健康的消费趋势下，Cava的经验为其他企业提供了重要参考。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/cava-reports-sales-growth-even-as-some-customers-steer-clear-of-lettuce-044b7f51?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "HHS收紧对食品成分的监管，应对安全担忧",
-      "summary": "美国卫生与公众服务部（HHS）正采取行动，旨在加强对食品成分的监督，并进一步定义超加工食品，以解决日益增长的食品安全担忧。此举旨在提高FDA的能见度并保障公众健康，但可能对食品生产商的配方、生产流程和供应链管理带来新的合规挑战和运营成本。这预示着食品行业将面临更严格的审查，可能加速健康食品的市场转型。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "Truth Social通过数据访问服务开拓新收入来源",
-      "summary": "尽管特朗普媒体集团旗下的Truth Social社交平台季度亏损，但其新推出的数据访问服务已吸引超过10家公司每月支付高达10万美元。这项服务允许第三方快速访问Truth Social帖子，预示着该平台正探索广告之外的商业化新模式。这揭示了社交媒体平台在数据授权方面的潜在盈利能力，同时也可能引发关于用户数据隐私和信息流向的关注。",
+      "title": "消费者背负信用卡债务压力，转向房屋净值贷款缓解财务困境",
+      "summary": "随着信用卡债务持续累积，许多美国家庭正面临财务压力。为缓解困境，越来越多的房主选择利用房屋净值达到创纪录水平的机会，通过抵押贷款再融资来偿还账单。这一趋势反映了消费者财务健康状况的结构性脆弱性，虽然短期内能缓解现金流问题，但长期可能增加房贷风险，值得投资者警惕其对房地产市场和消费信贷质量的潜在影响。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/homeowners-tight-on-cash-are-tapping-into-their-homes-equity"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/08/11/business/home-equity-credit-card-debt.html"
         }
       ]
     },
     {
-      "title": "网络安全成本的结构性上升趋势被低估",
-      "summary": "尽管有新的成本估算，但与日益增长的“焦虑”相比，对网络安全支出的普遍预期仍显保守。随着网络攻击的频率、复杂性和破坏性不断升级，企业在网络防御上的投入将持续加大。这不仅是IT预算的短期压力，更预示着一个影响企业长期盈利能力和运营风险的结构性成本上升趋势。投资者应将此视为评估企业未来现金流和估值的重要因素。",
+      "title": "网络安全成本持续攀升，企业面临更高运营压力",
+      "summary": "随着网络威胁日益复杂，企业面临的网络安全成本预计将持续上升。一份估算显示，尽管当前的成本增长可能被视为温和，但网络安全事件的频繁发生和日益严重的影响，正迫使企业投入更多资源进行防御和恢复。这不仅增加了企业的运营开支，也促使网络安全服务和软件市场持续增长，成为值得关注的投资领域。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-much-will-cybersecurity-costs-rise.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-much-will-cybersecurity-costs-rise.html?utm_source=rss&utm_medium=rss&utm_campaign=how-much-will-cybersecurity-costs-rise"
         }
       ]
     },
     {
-      "title": "JPMorgan巨额投资2028年洛杉矶奥运会",
-      "summary": "摩根大通作为奥运会史上首个全球银行合作伙伴，正对2028年洛杉矶奥运会进行一笔九位数的巨额投资。这项战略性合作不仅旨在提升摩根大通的全球品牌形象和市场影响力，更体现了其对全球大型体育赛事和体验经济的长期投资信心。对于投资者而言，这可能预示着金融机构在传统业务之外，通过品牌营销和战略伙伴关系拓展市场的新趋势。",
+      "title": "极端气候事件对经济造成日益严重的破坏，企业面临严峻财务考验",
+      "summary": "全球极端高温、火灾、烟雾和风暴等气候事件，正对经济造成日益严重的破坏，企业不得不应对其带来的巨大财务成本。从供应链中断到运营损失，气候变化对商业的负面影响正在加速显现，迫使企业重新评估风险管理和投资策略。这种结构性变化将长期影响各行业的盈利能力和可持续发展，对投资者而言，评估气候风险敞口变得尤为重要。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/11/why-jpmorgan-is-investing-big-in-the-2028-la-olympics.html"
-        },
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/11/why-jpmorgan-is-investing-big-in-the-2028-la-olympics.html"
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html"
         }
       ]
     }
