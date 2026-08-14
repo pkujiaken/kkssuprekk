@@ -1,32 +1,8 @@
 {
   "top5": [
     {
-      "title": "美国7月通胀数据缓和，美联储利率决策面临微妙平衡",
-      "summary": "美国最新消费者物价指数（CPI）报告显示，7月通胀数据略有缓和，能源价格回落是主要原因。这一趋势为美联储在考虑进一步加息时提供了喘息空间， reinforcing了其耐心策略。然而，鉴于其他因素仍推高物价且国际冲突持续，通胀辩论远未解决。这对于全球投资者判断美联储货币政策走向及市场情绪至关重要。",
-      "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/08/12/business/economy/inflation-federal-reserve-interest-rates.html"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/08/12/business/economy/cpi-report-july-inflation-data.html"
-        }
-      ]
-    },
-    {
-      "title": "Reddit将纳入标普500指数，股价飙升引发关注",
-      "summary": "社交媒体平台Reddit在经历数月猜测后，终于获得纳入标普500指数的资格，消息传出后公司股价在盘后交易中大涨。此举意味着Reddit将吸引更多被动型基金的投资，对其估值和流动性产生直接积极影响。这体现了市场对新兴科技平台潜力的认可，并为投资者提供了新的关注点。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/reddit-is-joining-the-s-p-500-after-months-of-speculation-analysts-have-these-concerns-21f81f77?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "中国企业在NAND闪存芯片出货量上超越美日巨头",
-      "summary": "据Counterpoint Research报告，一家中国公司在NAND闪存芯片出货量方面已超越美光和铠侠等行业巨头。这一进展表明中国在关键半导体领域的技术实力和市场份额正在快速提升，尤其是在人工智能需求推动DRAM和NAND市场增长的背景下。此事件加剧了全球半导体行业的竞争格局，对中美科技竞争具有重要战略意义。",
+      "title": "中国半导体产业在全球NAND闪存出货量上领先，凸显技术实力提升",
+      "summary": "根据最新数据显示，一家中国公司在关键NAND内存芯片的出货量上已经超越了美光和铠侠等行业巨头。这标志着中国在半导体领域，尤其是在存储芯片这一关键环节的技术能力和市场份额的显著提升。此趋势不仅重塑全球半导体供应链格局，也加剧了中美在高科技领域的战略竞争，对全球投资者在半导体行业的配置策略具有重要参考价值。",
       "sources": [
         {
           "name": "CNBC Finance",
@@ -35,9 +11,23 @@
       ]
     },
     {
-      "title": "“大空头”投资者史蒂夫·艾斯曼警示AI繁荣的潜在风险",
-      "summary": "因在2008年金融危机前成功做空而闻名的投资者史蒂夫·艾斯曼警告称，当前的人工智能（AI）繁荣存在一个“阿喀琉斯之踵”，即其日益增长的成功过度依赖于OpenAI和Anthropic两家公司。他认为这种高度集中性可能导致整个AI生态系统出现潜在的脆弱性和风险。这一观点提示投资者对AI赛道的集中度保持警惕。",
+      "title": "美国7月通胀数据略有缓解，但物价高企背景下美联储政策展望复杂",
+      "summary": "美国7月通胀略有放缓，但总体物价水平仍居高不下，地缘冲突的持续是主要推手。这一数据将使美联储在考量未来加息路径时面临更复杂的局面。尽管能源价格上月有所回落，但其他因素推高了成本。投资者需密切关注美联储的决策，这直接影响利率走向和全球宏观经济的稳定性。",
       "sources": [
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/08/12/business/economy/cpi-report-july-inflation-data.html"
+        }
+      ]
+    },
+    {
+      "title": "AI投资热潮持续升温，同时伴随集中度风险的警告",
+      "summary": "专注于将人工智能注入服务型企业的Thrive Holdings成功募集20亿美元，显示出AI领域强大的资本吸引力。然而，知名投资者史蒂夫·艾斯曼（Steve Eisman）警告称，当前AI繁荣过度依赖OpenAI和Anthropic两家公司，存在“阿喀琉斯之踵”般的集中度风险，可能对AI行业的长期健康发展构成挑战。这提示投资者在追逐AI热点的同时，需警惕潜在的结构性风险。",
+      "sources": [
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html"
+        },
         {
           "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html"
@@ -45,43 +35,31 @@
       ]
     },
     {
-      "title": "比尔·阿克曼再次重仓奈飞，认为其已赢得流媒体大战",
-      "summary": "知名对冲基金经理比尔·阿克曼通过其Pershing Square Capital Management公司，在其半年报中披露重新买入奈飞（Netflix）股份。阿克曼表示，他相信奈飞已经赢得了流媒体大战。这一投资举动和判断，与他四年前退出奈飞时的立场形成对比，为投资者理解流媒体行业竞争格局和奈飞的长期价值提供了新的视角。",
+      "title": "Uber与中国小马智行达成欧洲合作，加速自动驾驶商业化进程",
+      "summary": "Uber宣布与中国自动驾驶公司小马智行（Pony.ai）合作，计划在欧洲部署2000辆无人驾驶出租车。这一大规模的合作标志着自动驾驶技术商业化进程的显著加速，也体现了全球科技巨头之间为争夺未来出行市场而进行的战略布局。此举将推动自动驾驶技术在欧洲的应用，并可能改变当地交通出行生态，值得投资者密切关注。",
       "sources": [
         {
           "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/13/ackman-buys-netflix-again-four-years-later-says-it-won-streaming-wars.html"
+          "url": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html"
+        }
+      ]
+    },
+    {
+      "title": "Reddit获纳入标普500指数，凸显社交媒体平台日益增长的市场影响力",
+      "summary": "经过数月的市场猜测，社交媒体平台Reddit终于获准纳入标普500指数，消息传出后公司股价盘后大涨。此次纳入不仅提升了Reddit的市场地位和流动性，也将吸引更多被动型基金的配置，对其股价构成长期支撑。这反映出数字内容和社区平台在现代经济中的重要性日益凸显，成为不可忽视的投资标的。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/reddit-is-joining-the-s-p-500-after-months-of-speculation-analysts-have-these-concerns-21f81f77?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Bill Ackman",
-      "title": "观点：奈飞已赢得流媒体大战，再次重仓买入",
-      "summary": "知名对冲基金经理比尔·阿克曼通过其Pershing Square Capital Management公司，在其半年报中披露重新买入奈飞（Netflix）股份。他认为奈飞已经赢得了流媒体大战，这与他四年前退出奈飞时的立场形成对比。此举反映了他对奈飞未来增长潜力和行业主导地位的强烈信心，值得投资者关注。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/13/ackman-buys-netflix-again-four-years-later-says-it-won-streaming-wars.html"
-        }
-      ]
-    },
-    {
-      "name": "Steve Eisman",
-      "title": "观点：AI繁荣存在“阿喀琉斯之踵”，过度依赖少数公司",
-      "summary": "因在2008年金融危机前成功做空而闻名的投资者史蒂夫·艾斯曼警告称，当前的人工智能（AI）繁荣存在一个“阿喀琉斯之踵”，即其日益增长的成功过度依赖于OpenAI和Anthropic两家公司。他认为这种高度集中性可能导致整个AI生态系统出现潜在的脆弱性和风险，提示投资者对AI赛道的集中度保持警惕。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html"
-        }
-      ]
-    },
-    {
-      "name": "Tyler Cowen / Tom Chivers",
-      "title": "观点：AI对经济影响的两面性——巨大提振与生存风险并存",
-      "summary": "经济学家泰勒·科文引用评论员汤姆·奇弗斯的观点指出，AI对经济的平均预期是带来巨大提振，但同时存在不容忽视的“非零尾部风险”，即AI可能对人类生存构成威胁。这种观点提示投资者在评估AI技术时，需同时考量其颠覆性机遇与潜在的极端风险。",
+      "name": "Tyler Cowen (引用Tom Chivers)",
+      "title": "对AI经济影响的投资思考：巨大增长潜力与尾部风险并存",
+      "summary": "观点：经济学家Tyler Cowen在其博客中引用Tom Chivers的观点，指出AI有望极大地促进经济增长，因此做空相关资产是糟糕的投资策略。然而，Chivers也提出AI存在“非小概率的尾部风险”，即可能导致人类灭绝，届时任何投资都将失去意义。这提示投资者在评估AI机会时，需同时考量其颠覆性潜力与极端风险。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -90,146 +68,31 @@
       ]
     },
     {
-      "name": "Daron Acemoglu",
-      "title": "观点：探索自由民主的未来与重塑",
-      "summary": "著名经济学家达伦·阿西莫格鲁在与泰勒·科文的对话中，讨论了他关于自由民主的新书《自由民主发生了什么？》。他认为该书旨在为我们这个时代重新定义并振兴自由主义，探讨国家和社会如何应对挑战，对理解宏观政治经济结构性变化具有重要意义。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-very-interesting-conversation-with-daron-acemoglu.html"
-        }
-      ]
-    },
-    {
-      "name": "Saloni",
-      "title": "观点：所有疾病都是政策失败的体现",
-      "summary": "评论员Saloni在谈及未来医学时提出激进观点，“每一个疾病都是政策的失败。”这一论断挑战了传统对疾病的理解，强调了政策制定在公共健康和医疗系统中的根本性作用。这促使人们重新思考医疗投资和健康产业的结构性问题。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/thursday-assorted-links-565.html"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "title": "美国家庭通过房屋净值贷款应对现金压力",
-      "summary": "随着生活成本的上涨，美国家庭正日益利用其房屋的净值来获取现金。这表明部分消费者面临财务压力，需要通过抵押资产来维持开支。这一趋势可能影响未来的房地产市场稳定性和消费者支出能力，值得宏观经济分析师密切关注。",
-      "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/homeowners-tight-on-cash-are-tapping-into-their-homes-equity"
-        }
-      ]
-    },
-    {
-      "title": "市场平静下暗藏“错失恐惧症”（FOMO）驱动的上涨",
-      "summary": "尽管市场表面看似平静，但多项指标显示投资者正被“错失恐惧症”驱动，追逐市场上涨。这种情绪可能导致资产价格脱离基本面，形成脆弱的上涨态势，为未来市场回调埋下隐患。对于追求长期价值的投资者而言，审慎评估当前市场情绪至关重要。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally-bed22de9?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "企业利润率达历史新高，支撑美股持续上涨",
-      "summary": "最新数据显示，美国企业的利润率已达到历史最高水平，这成为当前股市持续上涨的重要支撑因素。FactSet的数据表明，利润的增长并非仅来自销售额增长。高利润率增强了企业的盈利能力和市场信心，但也引发了对通胀压力和未来可持续性的讨论，是判断股市基本面的关键指标。",
+      "name": "Bill Ackman (潘兴广场资本管理公司CEO)",
+      "title": "坚定看好Netflix：已经赢得流媒体大战",
+      "summary": "原话：「Netflix已经赢得了流媒体大战。」潘兴广场资本管理公司（Pershing Square Capital Management）在退出四年后再次买入Netflix股份，并在其半年度报告中披露了这一新头寸。Ackman认为Netflix已在流媒体市场取得决定性胜利，其强大的内容库和全球用户基础为其带来了持续增长的优势，因此再次入场。",
       "sources": [
         {
           "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html"
+          "url": "https://www.cnbc.com/2026/08/13/ackman-buys-netflix-again-four-years-later-says-it-won-streaming-wars.html"
         }
       ]
     },
     {
-      "title": "伊朗寻求加强与金砖国家经济联盟",
-      "summary": "伊朗央行行长表示，该国将加入金砖国家新开发银行，旨在加强与金砖国家的经济联盟。在地缘政治紧张和与美国关系持续恶化的背景下，伊朗此举旨在寻求新的经济伙伴和融资渠道，以减轻国际制裁影响。这反映了全球经济格局的演变和新兴经济体合作的深化，可能影响全球贸易和金融流向。",
+      "name": "Steve Eisman (“大空头”原型投资者)",
+      "title": "AI繁荣存在“阿喀琉斯之踵”，过度集中于少数公司",
+      "summary": "观点：因精准预测2008年金融危机而闻名的投资者史蒂夫·艾斯曼（Steve Eisman）警告称，当前人工智能（AI）领域的繁荣存在一个“阿喀琉斯之踵”，即其日益增长的财富和发展过度集中于OpenAI和Anthropic这两家公司。这种高度集中性可能为整个AI生态系统带来不稳定性，一旦这两家公司面临挑战，整个行业都可能受到严重冲击。",
       "sources": [
         {
           "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html"
+          "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html"
         }
       ]
     },
     {
-      "title": "英国经济增长但专家警示未来数月充满挑战",
-      "summary": "最新数据显示英国经济有所增长，部分得益于炎热天气和男子足球世界杯的提振。然而，经济专家警告称，受伊朗冲突等因素影响，未来数月英国经济仍将面临严峻挑战。这表明尽管短期数据向好，但外部不确定性依然是英国经济增长的阻力，投资者需关注其后续发展。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    }
-  ],
-  "tech": [
-    {
-      "title": "美国寻求自主制造人形机器人，面临中国竞争挑战",
-      "summary": "美国新一代初创公司正押注本土人形机器人制造，以期与已能大规模生产人形机器人的中国企业竞争。尽管中国在产量上占据优势，美国企业仍希望通过技术创新和战略布局迎头赶上。这场美中在关键高科技领域的竞争，将决定未来工业自动化和机器人技术的全球格局，对两国科技投资均具深远影响。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html"
-        }
-      ]
-    },
-    {
-      "title": "AI投资热潮持续，Thrive Holdings融资20亿美元收购AI服务公司",
-      "summary": "专注于通过人工智能赋能服务型企业的Thrive Holdings公司成功完成20亿美元融资，吸引了包括软银在内的多家知名投资者。该公司旨在收购传统服务业务，并通过注入AI技术实现效率提升和转型。这反映出AI技术在更广泛商业领域的应用和整合趋势，以及市场对AI赋能型商业模式的巨大投资热情。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html"
-        }
-      ]
-    },
-    {
-      "title": "中国监管机构开始对AI伴侣服务进行规范",
-      "summary": "中国已开始对其境内的AI伴侣服务进行监管。此举显示出中国政府对人工智能技术应用的审慎态度，尤其是在涉及个人情感和社会伦理的领域。监管政策的出台将影响相关AI产品和服务的发展方向和市场潜力，也为全球其他国家在AI伦理治理方面提供了借鉴，对AI行业长期发展至关重要。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/thursday-assorted-links-565.html"
-        }
-      ]
-    },
-    {
-      "title": "亚马逊旗下Twitch被指默认使用用户内容训练AI",
-      "summary": "亚马逊旗下的流媒体平台Twitch因默认使用用户内容来训练其人工智能模型而引发用户强烈不满。用户批评平台在未经明确同意的情况下，默认启用数据用于AI训练，引发了对数据隐私和用户权益的担忧。此事件凸显了AI时代企业在数据使用方面的伦理挑战和监管压力，可能影响大型科技公司的用户信任和合规成本。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "日本企业AI采用速度缓慢，保守文化成主因",
-      "summary": "日本企业在人工智能（AI）技术的采纳速度方面表现迟缓，被归咎于其固有的风险规避和保守主义文化。这种现象可能导致日本在全球AI竞赛中落后，影响其产业升级和国际竞争力。对于寻求全球科技投资的投资者而言，这揭示了不同地区在技术采纳方面的结构性差异和潜在投资机会。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    }
-  ],
-  "us_stocks": [
-    {
-      "title": "戴尔股价跑赢同行，得益于PC和服务器市场增长",
-      "summary": "戴尔（Dell）的股价今年已大幅上涨，表现优于美光（Micron）和AMD。联想（Lenovo）的财报推动了PC和服务器制造商股价的最新一轮涨势。这表明戴尔在当前市场环境下，尤其是在对PC和服务器需求复苏的背景下，展现出强劲的增长势头和市场竞争力，是科技硬件领域值得关注的投资标的。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "Salesforce股价上涨，摩根大通认为AI担忧被夸大",
-      "summary": "Salesforce股价获得提振，此前摩根大通分析师表示，市场对该公司在人工智能（AI）领域的担忧可能被夸大了，并指出其有望实现29%的涨幅。该分析师提及Salesforce一些有前景的AI功能，认为这些功能将驱动未来增长。这一分析对当前投资者对SaaS（软件即服务）巨头在AI转型中的前景提供了积极信号。",
+      "name": "J.P. Morgan 分析师",
+      "title": "Salesforce的AI担忧被夸大，股价有29%上涨空间",
+      "summary": "观点：摩根大通（J.P. Morgan）分析师认为，市场对人工智能（AI）可能给Salesforce带来的负面影响过于担忧，实际上Salesforce具备一些前景广阔的AI功能。该分析师预测Salesforce股价有29%的上涨空间，表明其对这家云计算巨头在AI时代的发展潜力持乐观态度，这对于关注SaaS和AI结合的投资者具有指导意义。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -238,66 +101,115 @@
       ]
     },
     {
-      "title": "Workday股价因潜在私募股权收购传闻大涨",
-      "summary": "人力资源软件公司Workday的股价周四大涨18%，此前有报道称该公司可能成为私募股权收购的目标。这一传闻引发了市场对软件行业并购活动的乐观情绪，并可能预示着一波软件公司估值重估的浪潮。对于投资者而言，此类并购事件通常会带来短期股价提振，并对行业整合产生影响。",
+      "name": "Giorgos Tsetis (Nutrafol创始人)",
+      "title": "家族办公室新模式：“20%规则”强调耐心投资",
+      "summary": "观点：Nutrafol创始人Giorgos Tsetis提出家族办公室应遵循“20%规则”，即在投资中保持极大的耐心，以长期视角看待资产增值。他倡导一种新的家族办公室投资蓝图，旨在颠覆传统模式，避免短期主义，这对于高净值投资者在管理家族财富和制定长期投资策略方面提供了新的思路。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/13/family-office-giorgos-tsetis-nutrafol.html"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "美国指控多国协助中国规避特朗普关税，中美贸易摩擦升级",
+      "summary": "美国一份新报告指出，中国通过将商品转移到关税较低的国家，以规避特朗普政府时期征收的高额关税。这一指控表明中美之间的贸易紧张关系依然存在，并且可能演变为更复杂的全球贸易摩擦。投资者需要关注这一发展，因为它可能导致新的贸易壁垒，影响全球供应链和特定行业的出口表现。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "市场呈现“异常平静”，投资者追逐FOMO式上涨行情",
+      "summary": "尽管今年市场波动不乏，但目前的市场情绪异常平静，投资者似乎正在追逐“错失恐惧症”（FOMO）引发的上涨行情。虽然表面上的平静可能令人感到安心，但分析人士警示这种平静背后可能隐藏着风险。高净值投资者应警惕市场过度乐观情绪，审慎评估资产估值，避免盲目跟风。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/workdays-stock-sees-a-record-surge-could-a-buyout-spark-a-software-revival-f2bd9219?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally-bed22de9?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "温蒂汉堡股价因纳尔逊·佩尔茨基金收购传闻跳涨",
-      "summary": "快餐连锁巨头温蒂汉堡（Wendy's）的股价在Nelson Peltz旗下Trian Fund Management可能发出收购要约的报道后跳涨。Peltz与温蒂汉堡的渊源可追溯到二十多年前他发起的一场激进主义运动。此消息再次凸显了激进投资者对公司战略和估值的影响力，以及并购传闻对股价的刺激作用。",
+      "title": "企业利润率创历史新高，成为股市持续上涨的核心驱动力",
+      "summary": "最新数据显示，企业利润率已达到历史最高水平，这解释了为何股市能够持续上涨。分析指出，盈利增长并非仅仅来自销售额的增加，而是多方面因素共同作用的结果。高利润率增强了企业现金流和投资回报，为股价提供了坚实支撑。投资者应关注企业盈利能力的持续性，以判断市场长期走势。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html"
         }
       ]
     },
     {
-      "title": "家得宝CEO因健康原因暂时休假，两位高管共同管理",
-      "summary": "家得宝（Home Depot）首席执行官泰德·德克（Ted Decker）因健康原因将暂时休假数月，在此期间，公司将由两位高级管理人员共同运营。这一事件凸显了公司治理和继任计划的重要性，特别是在领导层出现意外变动时。投资者将密切关注公司在过渡期的运营表现及对未来战略的影响。",
+      "title": "伊朗寻求加强与金砖国家联盟，在地缘政治冲突中寻求经济支持",
+      "summary": "伊朗央行行长表示，该国已准备好加入金砖国家（BRICS）新开发银行。此举正值伊朗与美国关系持续紧张之际，凸显了伊朗在地缘政治对抗中寻求深化与新兴经济体联盟，以对抗西方经济压力的战略。这一发展可能对国际金融体系和新兴市场经济体的合作产生深远影响，值得投资者关注其对全球资本流向和风险偏好的影响。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html"
         }
       ]
     }
   ],
-  "a_stocks": [
+  "tech": [
     {
-      "title": "悼念前中国总理朱镕基，引发对开放时代的回忆",
-      "summary": "前中国总理朱镕基的逝世引发了民众的广泛悼念，这反映出对中国曾经更加开放、未来充满希望的时代的怀旧情绪。朱镕基在任期间推动了多项经济改革，对中国加入世界贸易组织发挥了关键作用。这种集体记忆的涌现，为理解当前中国经济的内外挑战和未来发展路径提供了历史维度和情绪背景，值得关注。",
+      "title": "美国推动本土人形机器人制造，力图追赶中国领先地位",
+      "summary": "中国已大规模生产数千台人形机器人，而美国新一代初创公司正积极布局，试图追赶并参与竞争。美国希望发展其本土人形机器人产业，尽管面临重重挑战。这反映了人形机器人作为未来技术前沿的重要性，以及中美两国在该领域的战略竞争。投资者应关注美国在人工智能硬件和机器人制造领域的政策支持及技术突破，以把握长期增长机会。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/13/business/zhu-rongji-death-mourning-china.html"
-        }
-      ]
-    }
-  ],
-  "business": [
-    {
-      "title": "洛杉矶湖人队以125亿美元估值被Iger和Kushner收购",
-      "summary": "前迪士尼首席执行官鲍勃·伊格尔和风险投资家约书亚·库什纳联手，以超过120亿美元的估值收购了洛杉矶湖人队的一部分股权。这项交易凸显了顶级体育特许经营权的巨大盈利潜力，以及私募资本对体育资产的持续追逐。该交易反映了体育产业作为投资热点的吸引力，并可能影响未来体育资产的估值标准。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html"
-        },
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/13/business/dealbook/lakers-deal-kushner-iger-walter.html"
+          "url": "https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html"
         }
       ]
     },
     {
-      "title": "派拉蒙影业威胁因诉讼而迁出加州",
-      "summary": "面对多州寻求阻止其重大交易的诉讼，媒体公司派拉蒙（Paramount）的负责人戴维·埃里森（David Ellison）威胁要将公司迁出加州。此举是公司在法律和监管压力下采取的一种“边缘政策”，旨在争取更有利的谈判地位。这可能对加州的地方经济和税收产生影响，并凸显了大型企业与州政府在商业策略和监管环境之间的博弈。",
+      "title": "日本企业AI应用缓慢，受风险规避和保守主义文化影响",
+      "summary": "与全球其他主要经济体相比，日本企业在人工智能（AI）技术的采纳速度上显得较为缓慢。分析认为，这主要归因于日本固有的风险规避文化和商业保守主义。这种迟滞可能影响日本企业在全球科技竞争中的效率和创新能力。对于投资者而言，了解不同国家在AI采纳上的差异，有助于评估其市场潜力和投资风险。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Sandisk发布乐观增长预测，NAND内存芯片市场受AI需求提振",
+      "summary": "内存芯片公司Sandisk发布了直到本十年末的营收增长预测，并预期将保持高盈利能力，显示出公司对未来市场的信心。这一乐观展望主要得益于人工智能（AI）对NAND闪存等存储芯片的强劲需求。投资者应关注半导体行业中存储器细分市场在AI浪潮下的增长潜力，这预示着该领域可能迎来持续的景气周期。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "Cerebras AI与OpenAI合作，实现GPT-5.6 Sol模型超高速加速",
+      "summary": "Cerebras AI宣布与OpenAI合作，成功实现GPT-5.6 Sol模型的超高速加速。这一技术突破表明在大型语言模型（LLM）领域，硬件加速和模型优化正持续取得进展。更高效的AI计算能力是推动AI应用和商业化落地的关键。投资者应密切关注AI算力基础设施和模型效率的提升，这预示着AI产业的进一步爆发。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
+        }
+      ]
+    }
+  ],
+  "us_stocks": [
+    {
+      "title": "戴尔科技股价强劲上涨，超越美光和AMD",
+      "summary": "戴尔科技公司（Dell）的股价今年已上涨近三倍，表现优于美光（Micron）和AMD等芯片公司，并且仍在继续上涨。联想（Lenovo）的财报推动了PC和服务器制造商的新一轮上涨势头。戴尔的强劲表现反映了市场对其在企业级硬件、尤其是在AI服务器等高增长领域的布局抱有高度期待，值得投资者关注。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "派拉蒙影业面临诉讼，威胁将公司迁出加州",
+      "summary": "媒体公司派拉蒙（Paramount）首席执行官戴维·埃里森（David Ellison）威胁称，若面临各州旨在阻止其重大交易的诉讼，公司将撤出加州。在初步禁令中，一家州法院已禁止派拉蒙向该州居民提供大部分服务。这一事件凸显了大型企业在并购和运营中面临的监管和法律压力，对公司未来战略和股价走势带来不确定性。",
       "sources": [
         {
           "name": "NYT DealBook",
@@ -306,30 +218,74 @@
       ]
     },
     {
-      "title": "奢侈品百货Harvey Nichols被Sports Direct母公司收购",
-      "summary": "以情景喜剧《绝对精彩》闻名的奢侈品百货公司Harvey Nichols已被Sports Direct的母公司Frasers Group收购。此前，Harvey Nichols曾发出可能停止交易的警告。此次收购表明零售业整合仍在继续，大型集团通过并购来扩展其市场份额和品牌组合，对奢侈品零售市场格局将产生影响。",
+      "title": "Workday股价飙升，并购传闻或预示软件行业复苏",
+      "summary": "人力资源软件公司Workday的股价周四飙升18%，此前有报道称其可能成为私募股权收购的目标。这一消息引发市场对软件行业可能迎来新一轮并购整合的猜测，预示着该领域在经历了前期调整后，可能迎来新的增长动力。投资者应关注软件行业内的并购活动，其可能为被收购公司及相关生态带来新的价值。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/workdays-stock-sees-a-record-surge-could-a-buyout-spark-a-software-revival-f2bd9219?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "通用汽车达成45亿美元零部件协议，强化供应链韧性",
-      "summary": "通用汽车（GM）达成了一项高达45亿美元的零部件采购协议，旨在避免未来供应链中断问题。这项协议是通用汽车及其他汽车公司多年来应对全球供应链挑战后的战略举措。在全球地缘政治紧张和贸易保护主义抬头的背景下，强化供应链韧性对制造业企业至关重要，也可能影响零部件供应商的长期投资布局。",
+      "title": "温迪股价因激进投资者Trian基金管理公司收购传闻而上涨",
+      "summary": "快餐连锁店温迪（Wendy's）的股价因有报道称纳尔逊·佩尔茨（Nelson Peltz）的Trian基金管理公司可能发起收购要约而跳涨。佩尔茨与温迪的关系可追溯到二十多年前他发起的一场激进主义运动。这表明激进投资者对公司治理和估值的影响力，此类事件往往能显著提振股价，值得投资者关注相关公司动态。",
       "sources": [
         {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html"
+          "url": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX空头头寸大幅减少，股价从低点反弹超40%",
+      "summary": "根据S3的数据，SpaceX的空头头寸已降至其公开交易股份的约11%，较上周34%的峰值大幅下降。同时，公司股价已从低点反弹超过40%。这表明市场对SpaceX的悲观情绪有所缓解，投资者对其未来发展前景信心增强。对于关注非上市公司和成长型科技股的投资者而言，这一趋势值得深入分析。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html"
+        }
+      ]
+    }
+  ],
+  "a_stocks": [
+    {
+      "title": "电动汽车主导中国汽车市场，新能源车渗透率持续提升",
+      "summary": "中国乘用车协会发布的数据显示，7月份新能源汽车（NEV）渗透率持续上升，电动汽车（EV）在中国汽车市场占据主导地位。特斯拉Model Y等车型依然热销，这反映出中国在全球电动化转型中的领导地位，以及国内汽车市场向新能源转型的不可逆趋势。对于关注中国汽车行业和新能源产业链的投资者，这一趋势提供了明确的投资方向。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html"
+        }
+      ]
+    }
+  ],
+  "business": [
+    {
+      "title": "预测市场平台Kalshi被华盛顿州勒令停止大部分业务",
+      "summary": "预测市场平台Kalshi在华盛顿州遭遇初步禁令，州法官禁止其允许居民对大部分产品进行投注。这一裁决凸显了监管机构对新兴金融产品（如预测市场）的审慎态度，尤其是在消费者保护和市场规范方面的担忧。这可能对预测市场这一新兴行业的合规性构成挑战，并影响其未来的扩张策略。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/13/business/kalshi-washington-state-ruling.html"
+        }
+      ]
+    },
+    {
+      "title": "蒙特雷汽车周拍卖额有望创纪录，年轻买家推动奢侈品收藏市场转型",
+      "summary": "蒙特雷汽车周的拍卖额预计将达到创纪录的5亿美元，这主要得益于千禧一代和Z世代等年轻买家开始取代婴儿潮一代，推动现代超级跑车的拍卖价格上涨。这一趋势反映了奢侈品收藏市场正在经历代际转移，年轻一代的消费偏好和购买力正重塑市场格局。对于高净值投资者而言，了解这些变化有助于调整在奢侈品和收藏品领域的投资策略。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "韩国股市剧烈波动，投资者遭受重创",
-      "summary": "在经历一场残酷的调整后，韩国股市出现剧烈波动，导致部分投资者遭受数万美元的重大损失。这表明新兴市场在面对全球不确定性时，其市场波动性可能远超预期，对当地及国际投资者构成显著风险。了解这类区域性市场动荡，有助于投资者评估其全球投资组合的风险敞口。",
+      "title": "韩国股市剧烈波动对投资者造成损失，凸显新兴市场风险",
+      "summary": "近期韩国股市的剧烈波动导致部分投资者蒙受了数万美元的巨额损失。在经历了一轮残酷的修正后，许多交易者感到措手不及。这一事件再次提醒投资者，新兴市场尽管可能带来高回报，但也伴随着更高的波动性和风险。对于寻求全球多元化配置的投资者来说，对新兴市场风险的审慎评估至关重要。",
       "sources": [
         {
           "name": "BBC Business",
@@ -338,22 +294,12 @@
       ]
     },
     {
-      "title": "欧洲旅游业受热浪和野火影响，游客被迫调整行程",
-      "summary": "面对飙升的气温、大范围野火和河流干涸，欧洲的旅游业正经历深刻变革，游客被迫调整旅行计划。这凸显了气候变化对特定经济部门和消费行为的直接且不断加剧的影响。对于旅游、航空、酒店等相关行业的投资者而言，理解并适应气候变化带来的结构性挑战，是未来投资决策的关键。",
+      "title": "全球15个目的地国移民代际流动性研究揭示收入差距",
+      "summary": "一项针对15个接收国的移民代际流动性研究显示，移民子女的收入略低于当地出生父母的子女。研究指出，这一差距约有一半可以由父母收入差异解释，其余部分则归因于流动性参数的差异。这项研究为理解全球劳动力市场、社会融合和经济结构性变化提供了重要洞察，对关注长期社会经济趋势的投资者具有参考价值。",
       "sources": [
         {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/08/12/travel/europe-travel-tourism-wildfires-heat-waves.html"
-        }
-      ]
-    },
-    {
-      "title": "英国工党零工经济政策或使企业每年增负29亿英镑",
-      "summary": "据官方最新分析，英国工党提出的就业权利法案中，旨在打击零工经济中“零时合同”的措施，可能导致企业每年增加高达29亿英镑的成本。这一政策变化将对依赖灵活劳动力的英国企业（尤其是服务业）产生显著财务影响，可能重塑劳动力市场结构和企业经营模式，值得投资者关注其长期效应。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c0l525k76d0o?at_medium=RSS&at_campaign=rss"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/intergenerational-mobility-of-immigrants-in-15-destination-countries.html"
         }
       ]
     }
