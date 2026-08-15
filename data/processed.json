@@ -1,28 +1,8 @@
 {
   "top5": [
     {
-      "title": "全球生育率下降引发“萎缩世界”经济担忧",
-      "summary": "一项最新研究指出，截至2026年，全球生育率可能已低于人口更替水平，这是人类历史上的首次。更值得关注的是，生育率下降主要集中在中低收入国家以及贫困和受教育程度较低的女性群体。这一长期趋势将对全球劳动力结构、消费模式和经济增长潜力产生深远影响，尤其是在不同地区和社群之间造成差异化的经济后果，值得投资者密切关注。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-of-a-shrinking-world.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-a-shrinking-world"
-        }
-      ]
-    },
-    {
-      "title": "美国7月零售销售录得逾一年最大跌幅，通胀压力持续",
-      "summary": "美国7月零售销售数据显示，降幅超过一年来任何月份，反映出美国民众在持续高通胀带来的经济压力下，消费意愿有所减弱。这一关键经济指标的下滑可能预示着消费者支出的疲软，并对美国经济增长前景构成挑战。投资者需关注零售数据对美联储未来货币政策决策的影响，以及消费板块的潜在波动。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/14/business/retail-sales-july.html"
-        }
-      ]
-    },
-    {
-      "title": "伯克希尔哈撒韦增持大型科技股和住房市场头寸",
-      "summary": "沃伦·巴菲特领导的伯克希尔哈撒韦公司（Berkshire Hathaway）再次加大对美国住房市场的投资，并显著增持了Alphabet（谷歌母公司）和达美航空（Delta Air Lines）的股份。截至6月底，Alphabet已成为伯克希尔持仓前三的股票。这一举动表明，即使在市场不确定性中，这位传奇投资者仍看好特定科技巨头和美国经济的关键领域，为市场提供了重要的信心信号。",
+      "title": "巴菲特旗下伯克希尔哈撒韦增持科技、住房和航空股",
+      "summary": "伯克希尔哈撒韦公司近期增持了Alphabet、美国住房市场以及达美航空的股份，显示了沃伦·巴菲特及其团队对这些特定行业和公司的信心。此举反映了对科技巨头增长潜力、美国房地产市场韧性以及航空业复苏的积极判断。顶级投资者的持仓变动是市场风向标，其对科技和周期性行业的押注提供了重要参考。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -35,22 +15,32 @@
       ]
     },
     {
-      "title": "谷歌将Gemini AI功能扩展至K-12学生，加速AI普惠教育",
-      "summary": "谷歌宣布为其“课堂”（Classroom）应用中的K-12（幼儿园到高中）学生启用Gemini AI功能，在此之前，这项功能仅对18岁以上的学生开放。此举标志着谷歌正积极推动AI技术在基础教育领域的普及，将对年轻一代的学习方式、技能培养以及未来社会对AI工具的接受度产生深远影响。这也体现了科技巨头在教育科技领域的战略布局。",
+      "title": "谷歌内部人工智能战略分歧恐影响其市场竞争力",
+      "summary": "根据报道，谷歌自2014年收购DeepMind以来，内部在人工智能战略上持续存在摩擦，这可能正在影响其在快速发展的AI领域的竞争地位。这种内部不协调可能导致研发效率低下和市场响应迟缓，尤其是在AI军备竞赛白热化之际。作为AI领域的领导者之一，谷歌的内部协同和战略执行能力是决定其未来增长和市场份额的关键因素。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/a-decade-of-internal-ai-battles-is-finally-catching-up-to-google-7b3358a1?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "美国报告指控中国通过第三方国家规避关税",
-      "summary": "美国一份新报告指出，数十个国家帮助中国通过将货物转运到关税较低的国家，以规避特朗普政府时期施加的更高关税。这一发现再次凸显中美贸易摩擦的复杂性和持续性，可能导致美国采取新的贸易应对措施，对全球供应链布局和国际贸易关系产生进一步影响。投资者应警惕贸易政策变化带来的不确定性。",
+      "title": "美国报告指控多国协助中国规避特朗普时期关税",
+      "summary": "美国一份最新报告指出，中国通过数十个国家转运商品，有效规避了特朗普政府时期征收的更高关税。这一行为凸显了中美贸易摩擦的复杂性及其对全球供应链的深远影响，可能引发新的贸易政策调整和地缘政治紧张。中美贸易关系及其演变是全球宏观经济的重要变量，关税规避行为揭示了贸易战的持续挑战和跨国企业的应对策略。",
       "sources": [
         {
           "name": "BBC Business",
           "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "可穿戴设备竞争延伸至医疗保健领域，巨头布局健康数据生态",
+      "summary": "谷歌、苹果、三星以及Oura等新兴公司正积极将可穿戴设备的数据深度整合到医疗保健系统中。这场竞争已超越简单的健身追踪，旨在建立一个全面的健康数据生态系统，有望重塑医疗健康服务模式和相关产业链。科技巨头进军医疗健康领域代表着巨大的市场潜力和技术融合趋势，对医疗科技、大数据和消费电子行业的投资者具有战略意义。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/15/business/dealbook/wearables-healthcare.html"
         }
       ]
     }
@@ -58,8 +48,8 @@
   "people": [
     {
       "name": "Ben Thompson",
-      "title": "观点：人工智能持续推动资本约束，重塑科技行业格局",
-      "summary": "观点：知名科技分析师Ben Thompson在其Stratechery专栏中指出，人工智能的快速发展正在导致资本约束持续存在，这不仅体现在对芯片等基础设施的巨大投入上，也重塑了科技行业的竞争格局。他认为，这种资本密集型扩张模式可能会让少数巨头受益，同时对整个生态系统的发展带来深远影响。",
+      "title": "AI资本支出热潮持续",
+      "summary": "观点：知名科技分析师本·汤普森（Ben Thompson）在其Stratechery简报中指出，围绕人工智能基础设施的资本支出（CapEx）热潮仍在持续。这表明，尽管市场对AI的未来有不同看法，但构建支撑AI发展的底层硬件和计算能力仍是科技巨头和投资者关注的焦点，预计将持续推动相关产业链的增长。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
@@ -69,84 +59,74 @@
     },
     {
       "name": "Tyler Cowen",
-      "title": "观点：AI接管基础设施的“坏场景”可能发生得比想象中更快",
-      "summary": "原话：「许多（大多数？几乎所有？）糟糕的场景都有中间阶段的巨大担忧和灾难。」但Tyler Cowen认为：「在人类开始担忧接管或死亡之前，AI已经控制了所有基础设施。」他驳斥了AI威胁会渐进式显现的普遍观点，认为AI的潜在风险可能以更突然、更不可逆的方式出现，而非逐步升级。",
+      "title": "自由移民对AI发展与软实力至关重要",
+      "summary": "观点：经济学家泰勒·考恩（Tyler Cowen）在其文章中提出，采取自由的移民政策对美国等国家至关重要，尤其是在人工智能领域。他强调，吸引全球顶尖人才（如Anthropic的Dario Amodei、神经网络先驱Geoffrey Hinton）能够增强国家在AI创新方面的领导力，并通过AI模型输出软实力，为国家带来长期竞争优势。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/shooting-fish-in-a-barrel.html?utm_source=rss&utm_medium=rss&utm_campaign=shooting-fish-in-a-barrel"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/a-conservative-case-for-liberal-immigration.html"
         }
       ]
     },
     {
-      "name": "Bill Ackman",
-      "title": "基金大佬Ackman重仓Netflix，称其已赢得流媒体大战",
-      "summary": "观点：知名对冲基金经理Bill Ackman旗下Pershing Square资本管理公司在退出四年后再次买入Netflix股份，并高调宣称该公司已赢得流媒体大战。这一高信念的投资举动传递了对Netflix未来增长潜力的强烈信心，并认为其在竞争激烈的流媒体市场已建立稳固护城河，对于关注媒体和娱乐行业的投资者具有重要参考意义。",
+      "name": "Tyler Cowen",
+      "title": "警惕AI失控的“金融谬误”",
+      "summary": "观点：泰勒·考恩（Tyler Cowen）批判了关于人工智能“接管”世界时会有明显预警的常见观点，认为这是一种“金融谬误”。他指出，依照某些模型，在人类开始担忧或察觉到威胁之前，AI可能已经完全控制了所有基础设施，这呼吁人们对AI风险的评估应更具前瞻性和颠覆性思维。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/13/ackman-buys-netflix-again-four-years-later-says-it-won-streaming-wars.html"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/shooting-fish-in-a-barrel.html"
         }
       ]
     },
     {
-      "name": "Josh D'Amaro",
-      "title": "迪士尼CEO称乐园业务表现超出预期，公司战略重心明确",
-      "summary": "观点：迪士尼新任首席执行官Josh D'Amaro在接受CNBC采访时表示，公司上季度乐园业务表现“令人惊喜”，并强调迪士尼的持续增长战略将围绕“讲故事、知识产权和技术”三个核心支柱展开。这表明迪士尼在流媒体竞争激烈且传统业务承压的背景下，正通过强化核心IP和技术创新寻求稳定增长点。",
+      "name": "Tyler Cowen",
+      "title": "全球生育率下降带来“萎缩世界”的经济挑战",
+      "summary": "观点：泰勒·考恩（Tyler Cowen）引用研究指出，截至2026年，全球生育率可能已低于人口替代水平，这是前所未有的现象，且主要集中在中低收入国家和教育程度较低的女性群体。这一“萎缩世界”的经济学前景预示着劳动力短缺、人口结构老龄化以及消费需求变化等长期宏观经济挑战。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-of-a-shrinking-world.html"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "日本央行汇率干预失效，日元跌势难止",
-      "summary": "日元汇率在经历美国财政部干预后短暂反弹，但近期再次恢复跌势，引发市场对日本政府支出方向的担忧。日本央行在阻止日元持续贬值方面面临巨大挑战，这可能影响全球外汇市场稳定及日本国内经济的出口竞争力。日元走势将持续受日本与美国货币政策差异的影响。",
+      "title": "美国工人薪资增速再次落后于通货膨胀",
+      "summary": "最新研究显示，美国工人的实际薪资增长再次未能跟上通货膨胀的速度，重现了2021年至2022年间的模式。这意味着许多工人的购买力持续下降，可能加剧消费者信心压力，并对长期经济增长构成挑战。对于政策制定者而言，如何在控制通胀的同时确保薪资的合理增长成为关键难题，投资者应关注其对消费和经济周期的影响。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/14/business/japan-yen-intervention.html"
+          "url": "https://www.nytimes.com/2026/08/15/business/inflation-worker-pay.html"
         }
       ]
     },
     {
-      "title": "创纪录高利润率支撑美股持续上涨",
-      "summary": "最新数据显示，美国企业利润率达到历史最高水平，这成为当前美股持续上涨的重要驱动力。报告指出，盈利增长并非仅仅来自销售额的提升，反映出企业在成本控制和定价能力方面的优势，为市场乐观情绪提供了基本面支撑。高利润率的持续性将是评估美股未来走势的关键因素。",
+      "title": "能源转型受制于监管惰性：公用事业恐保留过时电厂",
+      "summary": "研究指出，旨在防止公用事业公司过度建设的现有监管框架，可能反过来导致它们保留过时的发电厂，从而阻碍能源行业的创新和向清洁能源的转型。这种监管惰性可能推高能源成本，并延缓国家实现气候目标的进程，对长期能源投资和基础设施发展构成挑战，投资者应评估其对公用事业和可再生能源领域的影响。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html"
-        }
-      ]
-    },
-    {
-      "title": "历史利率水平对比提供当前市场新视角",
-      "summary": "市场观察人士指出，如果将当前利率水平放在历史长河中审视，会发现其并非异常高位，而是提供了一个不同的视角来评估资产估值和投资策略。这有助于投资者避免短视行为，更理性地看待当前的货币政策环境及其对长期投资组合的影响，可能挑战一些关于高利率的普遍担忧。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/regulated-markets-are-slow-to-handle-change.html"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "亚马逊与Alphabet财报揭示AI繁荣的循环效应",
-      "summary": "亚马逊和Alphabet的最新财报显示，科技公司的利润增长与AI繁荣之间存在相互促进的循环效应。两家巨头通过在云计算和AI领域的巨大投资获得回报，进一步推动AI生态系统发展，使得领先科技公司的命运日益紧密相连。这种良性循环巩固了头部科技公司在AI时代的市场领导地位，并预示着行业整合的趋势。",
+      "title": "谷歌向K-12学生开放Gemini AI功能，加速教育AI普及",
+      "summary": "谷歌已为其课堂应用（Classroom app）中的K-12学生开放了Gemini AI功能，此前该功能仅限于18岁以上学生使用。这一举措标志着AI技术在基础教育领域的进一步普及，可能深刻改变教学方式和学习体验，同时也引发了对学生数据隐私和AI伦理的讨论，推动教育科技市场发展。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html"
+          "url": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html"
         }
       ]
     },
     {
-      "title": "谷歌利用同态加密技术实现“私人AI”的实用化",
-      "summary": "谷歌宣布通过同态加密技术，使其“私人AI”应用变得实用可行。这项突破性进展允许在加密数据上进行AI计算，大大增强了数据隐私和安全性，对于金融、医疗等需要处理敏感信息的行业采用AI技术具有重要意义。这解决了AI应用中一大核心隐私障碍，有望加速AI在企业级市场的普及。",
+      "title": "谷歌推进同态加密技术，赋能私密AI应用",
+      "summary": "谷歌正在大力开发同态加密技术，旨在使私密人工智能应用成为可能。这项技术允许在加密数据上直接进行计算，而无需解密，从而在利用AI处理敏感信息时保障数据隐私。这对于金融、医疗等高度重视数据安全的行业而言具有革命性意义，是AI普及的关键技术瓶颈突破。",
       "sources": [
         {
           "name": "Hacker News Top",
@@ -155,62 +135,18 @@
       ]
     },
     {
-      "title": "Uber与中国Pony.ai合作在欧洲部署2000辆自动驾驶出租车",
-      "summary": "Uber宣布与中国自动驾驶公司Pony.ai合作，计划在欧洲推出2000辆自动驾驶出租车。此次大规模部署凸显了自动驾驶技术商业化进程中车队规模的重要性，同时也是中美科技合作在关键领域的重要一步，预示着自动驾驶服务在全球范围内的加速落地。这一合作模式也可能成为未来跨国科技合作的范本。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html"
-        }
-      ]
-    },
-    {
-      "title": "高盛积极为AI基础设施繁荣提供融资支持",
-      "summary": "高盛成为AI基础设施热潮的主要融资提供者之一，已与英伟达和英特尔等芯片巨头合作，帮助他们满足AI计算领域飙升的需求。这表明华尔街金融机构正深度参与到AI产业链的资本运作中，通过提供大规模融资为AI技术的快速发展提供关键资金支持，凸显了AI产业的资金密集型特征。",
+      "title": "高盛积极为AI基础设施繁荣提供资金支持",
+      "summary": "随着人工智能基础设施需求激增，高盛集团正成为该领域的主要资金提供者，协助英伟达和英特尔等公司满足日益增长的计算需求。这表明投资银行正积极捕捉AI产业周期的上游机会，为芯片制造商和数据中心建设提供金融服务，加速AI硬件生态的扩张，对整个科技产业链的融资环境具有重要影响。",
       "sources": [
         {
           "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html"
         }
       ]
-    }
-  ],
-  "us_stocks": [
-    {
-      "title": "Sandisk股价因新财务目标大涨",
-      "summary": "Sandisk公司股价在本周内大幅反弹近35%，得益于其公布的最新财务目标获得分析师积极评价。这一表现表明市场对半导体存储行业前景的乐观预期，以及公司在技术和市场战略调整后的增长潜力。Sandisk的强劲表现可能带动相关半导体存储概念股的关注度提升。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/sandisks-stock-is-extending-its-major-rebound-this-is-the-latest-spark-69898f46?mod=mw_rss_topstories"
-        }
-      ]
     },
     {
-      "title": "SEC指控一公司进行7400万美元的欺诈性Pre-IPO投资骗局",
-      "summary": "美国证券交易委员会（SEC）指控一名“锅炉房”运营者及其控制的三家实体，通过未经注册的私募股权基金，进行了一场针对散户投资者的7400万美元Pre-IPO投资欺诈。此举强调了监管机构打击私人市场欺诈的决心，并提醒投资者在面对高风险的Pre-IPO投资机会时需保持警惕，关注合规性问题。",
-      "sources": [
-        {
-          "name": "SEC Press",
-          "url": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo"
-        }
-      ]
-    },
-    {
-      "title": "Robinhood再度推出面向公众的风险投资基金",
-      "summary": "交易平台Robinhood成功为其第二只公开交易的基金筹集了2亿美元，旨在让普通投资者也能参与到私营初创公司的投资中。此举标志着Robinhood在“投资民主化”方面的持续努力，可能进一步改变私人股权投资市场的准入门槛和生态。对高净值投资者而言，需关注此类产品对市场估值和流动性的潜在影响。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/14/business/dealbook/robinhood-public-venture-capital-fund.html"
-        }
-      ]
-    }
-  ],
-  "a_stocks": [
-    {
-      "title": "阿里巴巴发布大规模语言模型Qwen 3.8 27B",
-      "summary": "阿里巴巴旗下团队发布了其大规模语言模型Qwen 3.8 27B。作为中国领先科技公司在AI领域的最新进展，这一模型的推出体现了中国在基础AI研究和应用层面的持续投入，将进一步推动国内AI生态的发展和商业化竞争。投资者可关注中国AI大模型技术进展对相关上市公司竞争力的影响。",
+      "title": "中国AI模型Qwen 3.8 27B发布，加剧全球LLM竞争",
+      "summary": "由阿里巴巴支持的AI模型Qwen（通义千问）发布了其3.8版本27B参数模型，并提供了FP8精度支持。这一进展表明中国在大型语言模型（LLM）领域的持续投入和技术创新，将进一步加剧全球AI模型市场的竞争，为开发者和企业提供更多选择，并推动模型性能边界的扩展。",
       "sources": [
         {
           "name": "Hacker News Top",
@@ -219,30 +155,30 @@
       ]
     }
   ],
-  "business": [
+  "us_stocks": [
     {
-      "title": "英国政府或因汽车制造商压力削减电动汽车销售目标",
-      "summary": "英国政府正考虑将其2030年电动汽车（EV）销售目标从80%降至50%，此举是受到汽车制造商施加的巨大压力。这一政策转变将对英国乃至全球汽车产业的电动化转型路径产生重大影响，可能放缓传统车企向EV过渡的步伐，并影响电池、充电桩等相关产业链的投资预期。",
+      "title": "SEC指控“锅炉房”式诈骗，涉案7400万美元Pre-IPO投资",
+      "summary": "美国证券交易委员会（SEC）对纽约居民Andrew Spaventa及其控制的三家实体提出欺诈指控，涉嫌通过未注册证券发行欺骗散户投资者进行总计7400万美元的Pre-IPO投资。这一监管行动再次提醒投资者在参与高风险、缺乏透明度的Pre-IPO市场时需警惕诈骗风险，并强调SEC打击非法集资的决心，保护投资者权益。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss"
+          "name": "SEC Press",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo"
         }
       ]
     },
     {
-      "title": "美国医疗保险公司因保费上涨和医疗费用高企面临持续不满",
-      "summary": "在美国，由于持续上涨的保费和医疗费用，公众对包括UnitedHealth在内的医疗保险公司日益不满。这种普遍的消费者情绪和政治压力可能导致更严格的监管审查，并影响医疗保险行业的商业模式和盈利能力，促使行业寻求新的解决方案以应对成本和可负担性挑战。",
+      "title": "Robinhood再推公开风险投资基金，拓宽散户投资私营初创企业渠道",
+      "summary": "交易平台Robinhood成功为其第二个公开交易的工具募资2亿美元，旨在让普通投资者也能参与私营初创企业的投资。此举是Robinhood继续推动私营市场“民主化”的尝试，但同时，此类产品也伴随着较高的风险和流动性挑战，对零售投资者而言是机遇与挑战并存，也影响着私募市场的传统格局。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html"
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/08/14/business/dealbook/robinhood-public-venture-capital-fund.html"
         }
       ]
     },
     {
-      "title": "美国住房投资者：当前市场为至少三年来最差",
-      "summary": "美国住房投资者普遍认为目前是过去三年中最糟糕的市场，主要原因在于高抵押贷款利率以及与全球事件（如与伊朗冲突）相关的市场信心冲击。这预示着美国房地产市场可能面临更长时间的调整期，对相关产业链、建筑业以及金融机构造成压力，投资者需谨慎评估房地产资产风险。",
+      "title": "美国住房投资者面临三年最差市场，抵押贷款利率飙升",
+      "summary": "美国住房投资者表示，受抵押贷款利率升至一年多来最高水平的影响，目前市场是至少三年以来最糟糕的时期。高利率增加了购房成本，抑制了需求，并可能导致房地产市场活动放缓甚至价格调整，对依赖杠杆的房地产投资者构成显著挑战，也预示着房地产市场可能进入深度调整期。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -251,34 +187,61 @@
       ]
     }
   ],
-  "overlooked": [
+  "a_stocks": [],
+  "business": [
     {
-      "title": "韩国股市剧烈波动，投资者遭受重创",
-      "summary": "近期韩国股市经历了剧烈调整，导致部分投资者蒙受巨大损失。这一情况凸显了新兴市场固有的高波动性风险，以及全球经济不确定性对区域市场的冲击。对于寻求多元化投资的全球投资者而言，韩国市场的波动是一个警示信号，提醒需密切关注新兴经济体的流动性和地缘政治风险。",
+      "title": "英国考虑下调电动汽车销售目标，汽车制造商施压奏效",
+      "summary": "面对汽车制造商的压力，英国政府正考虑将2030年电动汽车（EV）的销售目标从80%降至50%。这一潜在的政策调整将对汽车行业的电动化转型速度产生重大影响，可能给予传统燃油车更多喘息空间，但同时可能延缓气候目标达成，对相关产业链的投资规划带来不确定性。",
       "sources": [
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "受监管市场在能源转型中变革缓慢",
-      "summary": "研究表明，旨在防止公用事业公司建造无用电厂的监管机制，反而可能导致它们保留过时、低效的发电厂。这一现象揭示了在能源转型过程中，受监管市场在适应变化方面的固有迟缓性，可能阻碍向清洁能源的平稳过渡。投资者应关注监管滞后对能源行业投资效率和长期发展的影响。",
+      "title": "Jeff Bezos等富豪集团购入利物浦足球俱乐部少数股权",
+      "summary": "包括杰夫·贝佐斯在内的一个投资集团已收购英超利物浦足球俱乐部的少数股权，并拥有在未来一年内成为控股股东的选择权。这一交易再次凸显了超级富豪对全球顶级体育资产的持续投资兴趣，此类资产因其稀缺性、品牌价值和全球影响力，正成为高净值投资者资产配置的重要组成部分，预示着体育产业的投资价值日益凸显。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/regulated-markets-are-slow-to-handle-change.html?utm_source=rss&utm_medium=rss&utm_campaign=regulated-markets-are-slow-to-handle-change"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/14/jeff-bezos-group-buys-stake-liverpool-fc.html"
+        },
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/15/business/sports-team-values-billionaires.html"
         }
       ]
     },
     {
+      "title": "美国公用事业规模太阳能和电池储能主导新增发电能力",
+      "summary": "今年美国新增发电能力中，公用事业规模的太阳能和电池储能项目显著领先，而化石燃料发电设施的增长则相对滞后。这一趋势表明，美国能源结构正加速向可再生能源转型，这为清洁能源技术、储能解决方案及相关基础设施的投资者提供了明确的增长信号，反映了能源投资的结构性变化。",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/"
+        }
+      ]
+    }
+  ],
+  "overlooked": [
+    {
       "title": "监管机构加强对预测市场的审查",
-      "summary": "包括美国商品期货交易委员会（CFTC）在内的监管机构和银行正在加强对预测市场（特别是所谓的“提及市场”）的审查。这表明随着预测市场规模和影响力的扩大，其潜在风险和监管挑战也日益凸显，可能导致未来更严格的监管框架。对投资者而言，需关注这类新兴金融工具的合规性和潜在风险。",
+      "summary": "美国商品期货交易委员会（CFTC）和银行正对预测市场，尤其是所谓的“提及市场”（mention markets），加强审查。这表明新兴的基于事件预测的金融平台正引起监管机构的警惕，可能面临更严格的合规要求，为该领域的投资者带来潜在的监管风险和不确定性。",
       "sources": [
         {
           "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html"
+        }
+      ]
+    },
+    {
+      "title": "“60/40”投资组合策略经调整后重现有效性",
+      "summary": "传统上被誉为“黄金比例”的60%股票、40%债券投资组合策略，在经历了一些调整后，正再次展现其有效性。这提示投资者，尽管人工智能和大型IPO层出不穷，但均衡的资产配置原则仍能在变化莫测的市场中提供稳定的风险调整后回报，值得重新评估其在当前环境下的价值。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/this-old-school-way-of-investing-money-is-better-than-ever-even-in-the-age-of-ai-and-mega-ipos-3e1142f7?mod=mw_rss_topstories"
         }
       ]
     }
