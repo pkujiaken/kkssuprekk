@@ -1,8 +1,8 @@
 {
   "top5": [
     {
-      "title": "AI数据中心扩张引发盈利分享压力",
-      "summary": "随着AI数据中心在全球范围内迅速扩张，政策制定者正加大力度，确保科技巨头并非唯一受益方。此举旨在推动AI基础设施建设的社会公平性，避免利润过度集中，未来可能导致对数据中心运营方征收新税或要求社区投资，对科技公司的利润模式和扩张战略产生影响。",
+      "title": "AI数据中心利润分配争议加剧，影响科技巨头与地方经济关系",
+      "summary": "随着AI数据中心在全球范围内的快速扩张，各地政府正寻求确保科技巨头不仅是唯一的受益者。政策制定者开始关注如何让当地社区也能分享这些高科技基础设施带来的利润，这可能通过税收、就业或社区投资等方式实现。这一趋势预示着未来AI基础设施的建设成本可能上升，并引发科技公司与地方政府之间新的谈判，从而影响AI产业的投资模式和地理布局。",
       "sources": [
         {
           "name": "NYT Business",
@@ -11,171 +11,22 @@
       ]
     },
     {
-      "title": "美国工人薪资增速再次落后于通胀",
-      "summary": "最新研究显示，美国工人实际工资增速再次未能跟上通货膨胀的步伐，这与2021-2022年物价飙升时期的模式相似。这意味着尽管名义工资可能上涨，但工人的购买力仍在下降，对消费支出和整体经济增长构成压力，并可能促使美联储在货币政策上保持谨慎。",
+      "title": "可穿戴设备市场竞争白热化，巨头争相融入医疗健康系统",
+      "summary": "谷歌、苹果、三星以及Oura等新兴公司正在可穿戴设备市场展开激烈竞争，并将这些设备收集的数据深度整合到医疗健康系统中。这场竞争不仅关乎健身追踪，更是一场争夺未来数字健康生态核心地位的战略布局。随着可穿戴技术与专业医疗的融合加深，预计将催生新的商业模式和投资机会，同时也带来数据隐私和监管的挑战。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/15/business/inflation-worker-pay.html"
-        }
-      ]
-    },
-    {
-      "title": "中国科技巨头对埃隆·马斯克商业帝国的全面挑战",
-      "summary": "在中国，一系列本土科技公司正以其庞大的国内市场、完善的供应链和快速响应的制造能力，对埃隆·马斯克的商业版图构成日益增长的威胁。这些企业在电动汽车、火箭技术、人形机器人和脑机接口等领域效仿并创新，预示着中美科技竞争将进一步加剧，并可能改变全球高科技产业格局。",
-      "sources": [
+          "url": "https://www.nytimes.com/2026/08/15/business/dealbook/wearables-healthcare.html"
+        },
         {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3364094/musks-headaches-meet-chinas-corporate-matrix-challenging-his-business-empire"
-        }
-      ]
-    },
-    {
-      "title": "传奇投资人吉姆·罗杰斯看好人民币并担忧美国市场危机",
-      "summary": "著名美国投资者吉姆·罗杰斯在香港的一次投资者活动中表示，鉴于美国国家债务可能引发市场危机，他倾向于持有现金。他特别指出，如果人民币能够完全自由兑换，他更愿意持有人民币而非美元。这一观点反映了部分顶级投资者对美国经济前景的深层忧虑以及对人民币国际地位的预期。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/money/markets-investing/article/3364181/jim-rogers-talks-chinese-yuan-amid-fears-us-market-crisis"
-        }
-      ]
-    },
-    {
-      "title": "超级厄尔尼诺现象持续增强，预示未来全球气候影响",
-      "summary": "最新预报显示，超级厄尔尼诺现象正加速发展，并可能在未来冬季达到创纪录强度。这种强大的气候模式将对全球范围内的天气模式产生重大影响，包括极端降水、干旱和气温异常，从而可能冲击农业产出、能源需求和全球供应链，对大宗商品价格和相关行业带来波动。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/"
-        }
-      ]
-    }
-  ],
-  "people": [
-    {
-      "name": "Tyler Cowen (经济学家, Marginal Revolution博主)",
-      "title": "呼吁美国推行更自由的移民政策以维持AI领域领导地位",
-      "summary": "观点：著名经济学家Tyler Cowen在他的《自由新闻》专栏中指出，美国在AI革命中保持世界领先地位并利用其AI模型施加软实力，很大程度上得益于其吸引全球人才的能力。他强调，AI领域的许多关键人物并非本土出生，暗示更开放的移民政策对科技创新和国家竞争力至关重要。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/a-conservative-case-for-liberal-immigration.html"
-        }
-      ]
-    },
-    {
-      "name": "Jim Rogers (传奇投资人)",
-      "title": "看好人民币未来价值并对美国市场危机深感担忧",
-      "summary": "原话：「（在对冲美国国债风险时）我更愿意持有人民币而非美元，如果前者能完全自由兑换的话。」罗杰斯在香港投资者活动中重申了对美国国家债务的担忧，并表示正计划出售部分股票、增持现金，预警“极其糟糕”的市场危机即将到来，凸显其对传统金融体系的不信任和对中国经济潜力的认可。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/money/markets-investing/article/3364181/jim-rogers-talks-chinese-yuan-amid-fears-us-market-crisis"
-        }
-      ]
-    },
-    {
-      "name": "分析师群体",
-      "title": "中国豪宅市场回暖不代表整体房地产市场复苏",
-      "summary": "观点：尽管中国一线城市的豪宅销售出现反弹，但分析师普遍认为这并不预示着整体房地产市场的全面复苏。豪宅购买者多为受益于科技繁荣的高净值个人，其购买力强劲，但普通住房市场仍受高库存和购房意愿不足的困扰，表明市场结构性分化严重。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3364087/luxury-home-sales-rebound-mainland-china-overall-market-recovery-unlikely-analysts"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "title": "油价上涨乏力，全球石油需求结构性变化是主因",
-      "summary": "全球油价未能显著上涨，主要原因并非供应过剩，而是全球对石油的需求结构性下降。这一趋势表明，能源转型和效率提升正在逐步改变全球能源消费模式，可能对传统石油生产商和相关产业的长期前景构成挑战，是比短期供需波动更深层次的问题。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "历史视角下的当前利率水平并非异常高企",
-      "summary": "尽管当前利率被许多人认为是高位，但有分析通过历史图表对比指出，从长期视角来看，当前的利率水平并非异常高企。这一观点有助于投资者更理性地看待货币政策周期，避免过度恐慌或乐观，理解利率常态化的潜在区间，对未来投资决策具有参考价值。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "沃尔玛与塔吉特财报将揭示美国消费者健康状况",
-      "summary": "大型零售商沃尔玛和塔吉特即将公布的财报，将成为评估当前通胀环境下美国消费者健康状况的关键指标。这些报告将反映购物者在物价持续上涨时期如何调整消费行为，为宏观经济学家和投资者提供消费者韧性或压力的重要线索。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s.-consumer-d5b89491?mod=mw_rss_topstories"
-        }
-      ]
-    }
-  ],
-  "tech": [
-    {
-      "title": "AI拥有远超人脑的“工作记忆”能力",
-      "summary": "人工智能在处理信息时，其“工作记忆”能力远超人类大脑，这使得AI在处理复杂数据和进行长时间推理方面展现出巨大优势。这一特性是AI技术突破的关键驱动力，预示着AI在科学研究、数据分析和复杂系统管理等领域的应用潜力将持续扩大，并可能重塑许多行业的工作流。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
-        }
-      ]
-    },
-    {
-      "title": "智能可穿戴设备竞争转向医疗健康领域",
-      "summary": "谷歌、苹果、三星以及Oura等新兴公司在智能可穿戴设备市场的竞争焦点，已从单纯的健身追踪转向与医疗健康系统的深度整合。企业正竞相将可穿戴设备收集的数据接入医疗体系，旨在提供更全面的健康监测和管理方案，预示着医疗科技与消费电子的融合将加速，并可能改变未来医疗服务模式。",
-      "sources": [
-        {
-          "name": "NYT Business",
+          "name": "NYT DealBook",
           "url": "https://www.nytimes.com/2026/08/15/business/dealbook/wearables-healthcare.html"
         }
       ]
     },
     {
-      "title": "特斯拉FSD与Rivian Autonomy+驾驶系统对比揭示安全理念差异",
-      "summary": "对特斯拉FSD与Rivian Autonomy+两种“解放双手”驾驶系统的实测对比显示，Rivian在追赶特斯拉技术能力的同时，加入了特斯拉所缺乏的额外安全防护措施。这反映了两家公司在自动驾驶技术发展路径和安全哲学上的不同，将影响未来消费者选择和监管机构对自动驾驶技术的审批标准。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html"
-        }
-      ]
-    }
-  ],
-  "us_stocks": [
-    {
-      "title": "持有800只股票的主动型基金跑赢大盘指数",
-      "summary": "一只持有高达800只股票的主动型基金表现出色，超越了主要股指。该基金通过广泛分散投资实现多元化，并采取积极管理策略，表明在某些市场环境下，精选和分散投资的主动管理型基金仍能提供优于被动指数基金的回报，为投资者提供另类选择。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "美国公用事业规模太阳能发电量显著增长",
-      "summary": "今年前后，美国新增发电量中，公用事业规模的太阳能发电量遥遥领先，其次是电池储能，而化石燃料发电量的增长则不明显。这一趋势表明美国能源结构正加速向可再生能源转型，对相关产业链的投资机会（如太阳能设备制造商、储能技术公司及电网升级企业）带来长期利好。",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/"
-        }
-      ]
-    }
-  ],
-  "a_stocks": [
-    {
-      "title": "高盛看好受益于AI硬件出口浪潮的中国股票",
-      "summary": "高盛集团筛选出了一批中国股票，认为这些公司将从新一波AI相关硬件出口浪潮中受益。高盛指出，在这些领域，企业战略的执行力比宏观经济趋势更为重要，这为投资者提供了在特定赛道挖掘增长潜力的指引，尤其是在全球AI供应链重构的背景下。",
+      "title": "高盛看好中国AI硬件出口新浪潮，聚焦企业战略执行力",
+      "summary": "高盛分析师指出，中国正迎来一波新的AI相关硬件出口浪潮，并建议投资者关注那些在此领域具有强大企业战略执行力的公司。报告强调，对于这些中国AI硬件公司而言，其成功的关键在于具体的公司战略和运营效率，而非简单的宏观经济趋势。这一观点为关注中国科技板块，尤其是AI产业链的投资者提供了新的选股思路和增长方向。",
       "sources": [
         {
           "name": "CNBC Finance",
@@ -184,8 +35,117 @@
       ]
     },
     {
-      "title": "腾讯微信AI智能助手“小微”测试表现喜忧参半",
-      "summary": "腾讯正在微信平台内嵌名为“小微”的人工智能助手。一项24小时测试显示，小微在某些任务上表现出色，但在其他方面仍有不足。这表明中国超级应用正在加速AI集成，但AI代理的全面成熟仍需时间，其在用户隐私和推理效率方面的表现将决定其商业化潜力。",
+      "title": "亚投行警告：全球气候政策不力或致三分之一主权借款人信用降级",
+      "summary": "亚洲基础设施投资银行（AIIB）发布报告警告称，如果全球气候政策未能得到有效加强，按照现有政策情景，到2050年其超过三分之一的主权借款人可能面临信用评级下调。这一警示突显了气候变化对全球金融稳定和主权债务可持续性的长期结构性风险，要求投资者和政策制定者重新评估气候风险的经济影响和资产定价。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3363764/aiib-warns-climate-inaction-could-downgrade-third-sovereign-borrowers-2050"
+        }
+      ]
+    },
+    {
+      "title": "沃尔玛与塔吉特财报将揭示美国消费者真实健康状况",
+      "summary": "随着零售巨头沃尔玛和塔吉特的即将发布财报，市场将密切关注其业绩表现，以判断美国消费者在持续通胀压力下的真实购买力。这两家公司的财报数据通常被视为美国经济健康状况的风向标，其表现将为投资者提供关键信息，以评估消费支出的韧性、通胀对日常开支的影响以及未来零售板块的投资前景。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s.-consumer-d5b89491?mod=mw_rss_topstories"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "name": "Jim Rogers",
+      "title": "吉姆·罗杰斯担忧美市场危机，看好人民币潜力",
+      "summary": "观点：传奇投资者吉姆·罗杰斯对美国市场因国债问题可能爆发的危机表示担忧。他长期倡导持有现金，并表示若人民币能够完全自由兑换，他将优先持有人民币而非美元。罗杰斯的观点反映了对全球货币格局和市场风险的个人判断，对寻求避险资产和关注汇率动态的投资者具有参考价值。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/money/markets-investing/article/3364181/jim-rogers-talks-chinese-yuan-amid-fears-us-market-crisis"
+        }
+      ]
+    },
+    {
+      "name": "Tyler Cowen",
+      "title": "泰勒·考恩提及AI多智能体系统中的群体行为与串通现象",
+      "summary": "观点：经济学家泰勒·考恩在其文章中提到一篇关于Anthropic（一家领先的AI公司）的研究，该研究发现多智能体系统（multi-agentic systems）相比人类系统更容易展现出群体行为和串通。这一观点提示AI领域的研究者和投资者，随着AI系统的复杂性增加，其内部互动和行为模式可能超出预期，带来新的伦理和社会挑战。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-574.html"
+        }
+      ]
+    },
+    {
+      "name": "Goldman Sachs Analysts",
+      "title": "高盛分析师建议关注中国AI硬件出口中的优质股票",
+      "summary": "观点：高盛分析师认为，在中国新一轮的AI相关硬件出口浪潮中，投资者应更侧重于那些企业战略执行力强于宏观经济趋势的公司。这表明高盛相信在特定高增长领域，通过深入分析企业基本面和管理能力，可以发现超额收益，为全球投资者配置中国资产提供了具体的方向。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/16/goldman-picks-china-stocks-poised-to-benefit-from-wave-of-ai-related-exports.html"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "全球气候政策不力或致三分之一主权借款人信用降级",
+      "summary": "亚洲基础设施投资银行（AIIB）发布报告警告称，如果全球气候政策未能得到有效加强，按照现有政策情景，到2050年其超过三分之一的主权借款人可能面临信用评级下调风险。这一警示突显了气候变化对全球金融稳定和主权债务可持续性的长期结构性影响，要求投资者和政策制定者重新评估气候风险的经济影响和资产定价。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3363764/aiib-warns-climate-inaction-could-downgrade-third-sovereign-borrowers-2050"
+        }
+      ]
+    },
+    {
+      "title": "油价未能走高：全球石油需求结构性变化是主因",
+      "summary": "分析指出，当前油价未能显著上涨的主要原因在于全球对石油需求的结构性变化，而非简单的供应端因素。这反映了全球能源转型趋势的深化以及经济活动模式的转变，导致石油需求增长乏力，对能源市场和相关投资产生了长期影响。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "历史视角看当前利率水平：并非绝对高位",
+      "summary": "有分析通过历史图表对比指出，从长期视角来看，当前的利率水平并非异常之高。这一观点为投资者提供了理解当前货币政策环境的更广阔背景，有助于校准对未来利率走向的预期，并避免过度解读短期利率波动。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "吉姆·罗杰斯担忧美市场危机，看好人民币潜力",
+      "summary": "传奇投资者吉姆·罗杰斯对美国市场因国债问题可能爆发危机表示担忧，并表示若人民币可自由兑换，将优先持有人民币而非美元。此言论反映了对全球货币格局和市场风险的个人判断，对寻求避险资产和关注汇率动态的投资者具有参考价值。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/money/markets-investing/article/3364181/jim-rogers-talks-chinese-yuan-amid-fears-us-market-crisis"
+        }
+      ]
+    }
+  ],
+  "tech": [
+    {
+      "title": "RISC-V在全球半导体发展中的独特视角与地缘政治意义",
+      "summary": "一位来自“第三世界”的嵌入式工程师对RISC-V架构的看法，揭示了该开放指令集在全球半导体领域，尤其是在新兴市场和地缘政治背景下的战略意义。这表明RISC-V不仅是技术创新，更是各国寻求芯片自主可控的重要途径，对全球半导体供应链和国际技术合作模式将产生深远影响。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://rvembedded.com/blog_post/12/"
+        }
+      ]
+    },
+    {
+      "title": "腾讯微信AI助手“小微”上线，深度整合超级应用生态",
+      "summary": "腾讯控股旗下微信已在其平台中嵌入人工智能助手“小微”，将其作为拥有超十亿用户的超级应用的延伸，提供免提自动化服务。此举标志着腾讯在AI领域的又一重要布局，其表现将直接影响腾讯在AI领域的竞争力以及微信未来服务模式的演进，对关注中国互联网巨头AI战略的投资者具有重要意义。",
       "sources": [
         {
           "name": "SCMP Business",
@@ -194,46 +154,144 @@
       ]
     },
     {
-      "title": "广东吸引AI人才以弥补与北京的差距",
-      "summary": "尽管广东孕育了DeepSeek和Moonshot等中国AI独角兽的创始人，但未能将其留住。为弥补在AI竞赛中的差距，广东省正积极从清华大学等顶尖学府吸引计算机科学学生。此举旨在强化其本土AI生态系统，确保未来在全球AI创新格局中占据一席之地，并可能促进区域AI产业的均衡发展。",
+      "title": "广东发力吸引AI人才，弥补与北京的差距",
+      "summary": "中国南方制造业重镇广东省正积极采取措施，从清华大学等顶尖学府吸引计算机科学人才，以弥补其在人工智能人才储备上与北京等地的差距。尽管该省涌现出杨植麟（月之暗面创始人）和梁文锋（DeepSeek创始人）等AI领军人物，但未能将其留下。此举反映了地方政府在全国AI竞赛中提升竞争力的决心，将影响区域科技发展和人才流动格局。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/tech/big-tech/article/3364095/home-province-deepseek-moonshot-founders-seeks-retain-attract-future-ai-talent?utm_source=rss_feed"
+          "url": "https://www.scmp.com/tech/big-tech/article/3364095/home-province-deepseek-moonshot-founders-seeks-retain-attract-future-ai-talent"
+        }
+      ]
+    }
+  ],
+  "us_stocks": [
+    {
+      "title": "零售巨头财报前瞻：透视美国消费者健康状况",
+      "summary": "沃尔玛和塔吉特的即将发布的财报将是评估美国消费者购买力及整体经济前景的关键指标，直接影响投资者对消费板块的判断。市场正密切关注其销售数据和盈利指引，以了解持续通胀环境下消费者行为的变化和零售业的韧性。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s.-consumer-d5b89491?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "中国电动汽车内饰走向“智能娱乐中心”",
-      "summary": "中国电动汽车正引领潮流，将车内空间打造成全方位的智能娱乐中心。除了电池和自动驾驶技术，新一代中国电动汽车配备了语音AI助手、可投影大灯和卡拉OK系统等，大幅提升了用户体验。这种差异化竞争策略有望进一步巩固中国在全球电动汽车市场的领先地位，并催生新的车内服务商业模式。",
+      "title": "美国股指期货平稳开盘，投资者关注美联储下一步政策信号",
+      "summary": "美国股指期货在周末前开盘表现平稳，投资者正密切关注美联储关于未来利率前景的指引。美联储的任何政策表态都将对美国股市产生直接影响，市场情绪的稳定与否将取决于其对未来经济和货币政策的预期。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/u-s.-stock-futures-little-changed-as-investors-ponder-the-fed’s-next-move-27bcbea4?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "美国科技巨头在可穿戴设备市场的激烈竞争与战略布局",
+      "summary": "苹果、谷歌、三星等公司在可穿戴设备领域竞争白热化，并加速将其数据整合至医疗系统。这不仅是产品和市场份额之争，更是对健康科技这一未来高增长领域的战略卡位，影响相关科技巨头的长期投资价值和市场份额。投资者需关注这些公司在技术创新和生态系统整合方面的进展。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/15/business/dealbook/wearables-healthcare.html"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/08/15/business/dealbook/wearables-healthcare.html"
+        }
+      ]
+    }
+  ],
+  "a_stocks": [
+    {
+      "title": "高盛看好中国AI相关硬件出口股，聚焦企业战略执行力",
+      "summary": "高盛分析师指出，中国正迎来一波新的AI相关硬件出口浪潮，并建议投资者关注那些在此领域具有强大企业战略执行力的公司。报告强调，对于这些中国AI硬件公司而言，其成功的关键在于具体的公司战略和运营效率，而非简单的宏观经济趋势。这一观点为关注中国科技板块，尤其是AI产业链的投资者提供了新的选股思路和增长方向。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/16/goldman-picks-china-stocks-poised-to-benefit-from-wave-of-ai-related-exports.html"
+        }
+      ]
+    },
+    {
+      "title": "中国内地豪宅销售回暖，但整体市场复苏前景不明",
+      "summary": "中国内地一线城市豪宅销售出现回暖迹象，部分得益于科技热潮中高净值人群的购买力。然而，分析师认为豪宅市场的活跃度不足以推动整体房地产市场的全面复苏。这一分化现象表明，尽管局部高端市场有所支撑，但更广泛的房地产行业仍面临挑战，投资者应谨慎评估。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-evs/article/3364104/karaoke-car-chinas-new-wave-gadget-laden-electric-vehicles"
+          "url": "https://www.scmp.com/business/china-business/article/3364087/luxury-home-sales-rebound-mainland-china-overall-market-recovery-unlikely-analysts"
+        }
+      ]
+    },
+    {
+      "title": "香港北部都会区新盘受追捧，楼市销售活跃",
+      "summary": "香港北部都会区一个主要住宅项目首批单位吸引了强劲的购买兴趣，超过半数单位在开盘当天售出，且有高价单位通过招标方式成交。这表明即使在整体市场不确定性下，特定区域的新盘凭借其地理位置和发展潜力，依然能吸引香港本地购房者和投资者，为关注香港房地产市场的投资者提供了积极信号。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/article/3364205/launch-northern-metropolis-flats-attracts-strong-interest-hong-kong-homebuyers"
+        }
+      ]
+    },
+    {
+      "title": "中国企业挑战马斯克商业帝国，利用本土优势实现增长",
+      "summary": "埃隆·马斯克的商业帝国正面临来自中国企业的日益增长的挑战。这些中国竞争者通常利用庞大的国内市场、完善的供应链以及快速响应的制造能力，在电动汽车、火箭、人工智能和脑机接口等领域追赶甚至超越马斯克的公司。这一趋势揭示了中美科技竞争的新维度，以及中国本土创新力量的崛起。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-business/article/3364094/musks-headaches-meet-chinas-corporate-matrix-challenging-his-business-empire"
         }
       ]
     }
   ],
   "business": [
     {
-      "title": "中国隐秘富豪斥资3300万美元收购上海酒店",
-      "summary": "中国首位网络游戏亿万富翁陈天桥以约3300万美元的价格收购了上海市中心的Mia酒店。此次交易价格低于市场水平，被分析师认为是“稳健的投资”。这笔交易反映了高净值投资者对中国遭受重创的房地产市场开始抱有抄底和复苏的预期，尤其是在优质资产领域。",
+      "title": "体育团队估值再创新高，反映超高净值人群的资本流向",
+      "summary": "洛杉矶湖人队等体育资产的估值持续创下新高，最近的交易将该球队估值推至125亿美元。这一现象不仅反映了全球超高净值人群对稀缺且具有品牌价值资产的投资热情，也揭示了在当前市场环境下，顶级体育特许经营权作为另类投资的吸引力，值得投资者关注其潜在价值和资本流向趋势。",
       "sources": [
         {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/article/3364076/reclusive-chinese-billionaire-strikes-us33m-deal-take-over-shanghai-hotel"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/15/business/sports-team-values-billionaires.html"
+        }
+      ]
+    },
+    {
+      "title": "AI信用转售经济兴起，催生新型商业模式",
+      "summary": "随着AI技术的发展，一种新的“AI信用转售经济”正在兴起，即AI模型算力或服务信用被交易和转售。这代表了AI资源分配和商业化模式的创新，可能影响AI服务提供商的定价策略、市场动态以及未来AI应用的普及速度，对投资者而言，了解这种新型经济模式至关重要。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers"
+        }
+      ]
+    },
+    {
+      "title": "Cloudflare被指静默注入分析代码，引发用户数据隐私担忧",
+      "summary": "有用户报告称，网络基础设施服务商Cloudflare在用户不知情的情况下，悄然在其网站上注入了JavaScript分析代码。这一行为引发了关于平台隐私政策和用户数据控制权的讨论，可能对其信任度造成影响。对于依赖其服务的企业和投资者来说，此类事件或暗示潜在的合规风险和市场声誉挑战。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://news.ycombinator.com/item?id=49322107"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "香港住宅租金上涨与加息预期并存，租赁两难加剧",
-      "summary": "香港居民在面对持续上涨的住宅租金和日益临近的加息阴影时，购房或租房的传统困境愈发突出。租金指数持续攀升，而利率上升则增加了购房成本，使得买卖双方都处于观望状态。这种结构性压力可能导致香港房地产市场进一步分化，并对居民消费和投资决策产生深远影响。",
+      "title": "AI模型“主动变笨”趋势及其潜在影响",
+      "summary": "有分析指出，AI模型可能正在“主动变笨”，即通过策略性调整来降低某些方面的能力。这种趋势可能影响AI应用的效率和用户体验，但其背后的原因（如成本优化、安全考虑或避免过度通用性）仍值得深入探讨。对于AI投资者而言，理解这一变化对于评估未来AI产品发展方向和市场竞争力至关重要。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose"
+        }
+      ]
+    },
+    {
+      "title": "香港餐饮业AI应用深化，提升运营效率和竞争力",
+      "summary": "香港餐饮企业正加速引入人工智能技术，以提升运营效率和市场竞争力。这表明AI不仅限于高科技行业，正在逐步渗透到传统服务业，帮助企业在订餐、配送、客户服务等方面实现智能化。这一趋势预示着AI在更多传统经济领域的应用潜力，对其他地区的商业模式创新具有借鉴意义。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/property/hong-kong-china/article/3364088/buy-or-rent-hong-kong-homebuyers-face-age-old-housing-dilemma"
+          "url": "https://www.scmp.com/presented/business/topics/ai-transforming-industries/article/3363841/bruce-rockowitz-why-ai-reshaping-hong-kongs-food-economy"
         }
       ]
     }
