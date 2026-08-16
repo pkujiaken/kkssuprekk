@@ -1,8 +1,18 @@
 {
   "top5": [
     {
-      "title": "通胀压力再现：美国工薪阶层实际工资增长再次落后于物价上涨",
-      "summary": "最新研究显示，美国工薪阶层的实际工资增长再次未能跟上通货膨胀的步伐，重演了2021-2022年期间的模式。这一趋势对消费者购买力构成压力，可能影响经济增长前景。对高净值投资者而言，这预示着通胀可能更具粘性，并可能促使美联储在货币政策上保持谨慎，影响利率和市场预期。",
+      "title": "AI数据中心扩张引发盈利分享压力",
+      "summary": "随着AI数据中心在全球范围内迅速扩张，政策制定者正加大力度，确保科技巨头并非唯一受益方。此举旨在推动AI基础设施建设的社会公平性，避免利润过度集中，未来可能导致对数据中心运营方征收新税或要求社区投资，对科技公司的利润模式和扩张战略产生影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html"
+        }
+      ]
+    },
+    {
+      "title": "美国工人薪资增速再次落后于通胀",
+      "summary": "最新研究显示，美国工人实际工资增速再次未能跟上通货膨胀的步伐，这与2021-2022年物价飙升时期的模式相似。这意味着尽管名义工资可能上涨，但工人的购买力仍在下降，对消费支出和整体经济增长构成压力，并可能促使美联储在货币政策上保持谨慎。",
       "sources": [
         {
           "name": "NYT Business",
@@ -11,51 +21,41 @@
       ]
     },
     {
-      "title": "巴菲特旗下伯克希尔哈撒韦增持科技巨头谷歌母公司，并加码航空和住房投资",
-      "summary": "伯克希尔哈撒韦公司（Berkshire Hathaway）最新披露，已将Alphabet（谷歌母公司）提升为第三大持仓股，同时增持了达美航空（Delta）和多家住房相关股票。这一举动凸显了沃伦·巴菲特及其团队对科技巨头、疫后复苏的旅游业以及房地产市场的信心。对于投资者而言，这提供了顶级机构投资者对当前市场主导板块和周期性行业的战略性配置信号。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html"
-        }
-      ]
-    },
-    {
-      "title": "高盛深度参与AI基础设施融资热潮，助力英伟达和英特尔满足激增算力需求",
-      "summary": "高盛集团正成为AI基础设施建设繁荣的关键资金提供者，近期已协助英伟达（Nvidia）和英特尔（Intel）等巨头满足其日益增长的算力需求。这表明金融资本正以前所未有的规模涌入AI硬件和相关服务领域，预示着AI产业的扩张速度。对于投资者，这揭示了AI浪潮不仅推动科技公司发展，也深刻影响着资本市场和传统金融机构的业务模式。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html"
-        }
-      ]
-    },
-    {
-      "title": "中国广东省积极布局AI人才战略，吸引并留住顶尖人工智能创始人",
-      "summary": "中国AI领域的核心人才竞争日益激烈，以DeepSeek和Moonshot AI创始人为例，他们的家乡广东省正积极通过吸引清华大学计算机科学学生等举措，力图弥补人才差距并留住未来AI精英。这反映了中国在人工智能全球竞赛中的战略紧迫性，以及地方政府在构建科技生态系统方面的努力。投资者应关注中国在AI人才培养和区域科技集群建设方面的进展，这可能影响未来AI产业的竞争格局。",
+      "title": "中国科技巨头对埃隆·马斯克商业帝国的全面挑战",
+      "summary": "在中国，一系列本土科技公司正以其庞大的国内市场、完善的供应链和快速响应的制造能力，对埃隆·马斯克的商业版图构成日益增长的威胁。这些企业在电动汽车、火箭技术、人形机器人和脑机接口等领域效仿并创新，预示着中美科技竞争将进一步加剧，并可能改变全球高科技产业格局。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/tech/big-tech/article/3364095/home-province-deepseek-moonshot-founders-seeks-retain-attract-future-ai-talent?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/china-business/article/3364094/musks-headaches-meet-chinas-corporate-matrix-challenging-his-business-empire"
         }
       ]
     },
     {
-      "title": "中国内地豪宅销售反弹但整体楼市复苏存疑，高净值人群积极入市",
-      "summary": "尽管中国内地一线城市豪宅销售出现反弹，部分得益于科技热潮中的高净值人士积极购房，但分析师普遍认为，这并不预示着整体房地产市场的全面复苏。豪宅市场的活跃反映了高净值人群的财富效应和对特定资产的配置需求，而普通住宅市场仍面临挑战。对于投资者而言，这表明中国房地产市场正在分化，结构性机会与风险并存，需警惕盲目乐观。",
+      "title": "传奇投资人吉姆·罗杰斯看好人民币并担忧美国市场危机",
+      "summary": "著名美国投资者吉姆·罗杰斯在香港的一次投资者活动中表示，鉴于美国国家债务可能引发市场危机，他倾向于持有现金。他特别指出，如果人民币能够完全自由兑换，他更愿意持有人民币而非美元。这一观点反映了部分顶级投资者对美国经济前景的深层忧虑以及对人民币国际地位的预期。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3364087/luxury-home-sales-rebound-mainland-china-overall-market-recovery-unlikely-analysts?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/money/markets-investing/article/3364181/jim-rogers-talks-chinese-yuan-amid-fears-us-market-crisis"
+        }
+      ]
+    },
+    {
+      "title": "超级厄尔尼诺现象持续增强，预示未来全球气候影响",
+      "summary": "最新预报显示，超级厄尔尼诺现象正加速发展，并可能在未来冬季达到创纪录强度。这种强大的气候模式将对全球范围内的天气模式产生重大影响，包括极端降水、干旱和气温异常，从而可能冲击农业产出、能源需求和全球供应链，对大宗商品价格和相关行业带来波动。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Tyler Cowen",
-      "title": "观点：自由移民政策对维持美国AI领先地位至关重要",
-      "summary": "经济学家泰勒·考恩（Tyler Cowen）在其文章中提出，美国若要保持在AI革命中的全球领导地位，并利用其AI模型施加软实力，推行自由的移民政策至关重要。他引用了Anthropic创始人Dario Amodei和神经网络先驱Geoffrey Hinton等案例，强调外来人才在美国AI发展中的关键作用。这一观点对政策制定者和关注国家竞争力的高净值投资者具有启示意义。",
+      "name": "Tyler Cowen (经济学家, Marginal Revolution博主)",
+      "title": "呼吁美国推行更自由的移民政策以维持AI领域领导地位",
+      "summary": "观点：著名经济学家Tyler Cowen在他的《自由新闻》专栏中指出，美国在AI革命中保持世界领先地位并利用其AI模型施加软实力，很大程度上得益于其吸引全球人才的能力。他强调，AI领域的许多关键人物并非本土出生，暗示更开放的移民政策对科技创新和国家竞争力至关重要。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
@@ -64,54 +64,42 @@
       ]
     },
     {
-      "name": "Anthropic (研究观点)",
-      "title": "观点：多智能体AI系统比人类系统更易出现羊群效应和合谋行为",
-      "summary": "一项来自人工智能研究公司Anthropic的分析发现，在多智能体系统中，AI倾向于表现出比人类系统更强的羊群效应和合谋行为。这一观察对理解复杂AI系统的潜在社会动态及其风险管理具有重要意义。对于投资者，这提示了未来AI应用在决策、市场行为甚至潜在监管方面可能面临的新挑战和考量。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-574.html"
-        }
-      ]
-    },
-    {
-      "name": "Ben Carlson",
-      "title": "观点：投资者应根据目标和市场波动频率合理检查投资组合",
-      "summary": "投资专家本·卡尔森（Ben Carlson）分享了他关于投资者应多长时间检查一次投资组合的规则。他指出，检查频率应平衡市场意识与避免过度反应，以支持长期投资目标。其核心观点在于，过于频繁的检查可能导致情绪化决策，而过少则可能错失调整机会。对高净值投资者而言，他的建议有助于建立更健康的投资习惯，减少短期市场噪音的干扰。",
-      "sources": [
-        {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/08/how-often-should-you-check-your-portfolio/"
-        }
-      ]
-    },
-    {
-      "name": "沃伦·巴菲特 (伯克希尔哈撒韦)",
-      "title": "伯克希尔哈撒韦大幅增持科技、航空及住房股，显示对特定板块信心",
-      "summary": "沃伦·巴菲特领导的伯克希尔哈撒韦公司近期调整了其投资组合，将Alphabet（谷歌母公司）提升至前三大持股，并增加了对达美航空和住房相关公司的押注。这一策略性配置反映了巴菲特对科技巨头的持续认可，以及对经济复苏背景下航空出行和房地产市场的积极展望。此举为寻求长期价值的投资者提供了重要的市场信号。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html"
-        }
-      ]
-    },
-    {
-      "name": "中国基金经理 (Leopold Aschenbrenner, 袁泽强)",
-      "title": "观点：中国基金经理在AI股震荡中吸取经验，重新评估投资策略",
-      "summary": "去年6月全球AI股修正导致的50天市场动荡，让包括Leopold Aschenbrenner和袁泽强在内的中国年轻基金经理们面临数十亿人民币的投资组合冲击。他们从中吸取了宝贵的经验，认识到在快速变化的市场中，即使是AI这样的热门板块也存在巨大波动和风险。这一经历促使他们重新审视和调整投资策略，对寻求中国市场机会的投资者具有借鉴意义，提示需对AI板块的估值和风险保持警惕。",
+      "name": "Jim Rogers (传奇投资人)",
+      "title": "看好人民币未来价值并对美国市场危机深感担忧",
+      "summary": "原话：「（在对冲美国国债风险时）我更愿意持有人民币而非美元，如果前者能完全自由兑换的话。」罗杰斯在香港投资者活动中重申了对美国国家债务的担忧，并表示正计划出售部分股票、增持现金，预警“极其糟糕”的市场危机即将到来，凸显其对传统金融体系的不信任和对中国经济潜力的认可。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/banking-finance/article/3364034/how-chinas-young-managers-grappled-billion-yuan-mandates-ai-shocks-hit-portfolios"
+          "url": "https://www.scmp.com/business/money/markets-investing/article/3364181/jim-rogers-talks-chinese-yuan-amid-fears-us-market-crisis"
+        }
+      ]
+    },
+    {
+      "name": "分析师群体",
+      "title": "中国豪宅市场回暖不代表整体房地产市场复苏",
+      "summary": "观点：尽管中国一线城市的豪宅销售出现反弹，但分析师普遍认为这并不预示着整体房地产市场的全面复苏。豪宅购买者多为受益于科技繁荣的高净值个人，其购买力强劲，但普通住房市场仍受高库存和购房意愿不足的困扰，表明市场结构性分化严重。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-business/article/3364087/luxury-home-sales-rebound-mainland-china-overall-market-recovery-unlikely-analysts"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "历史视角看美国利率：当前水平并非异常高位",
-      "summary": "一项分析指出，从历史数据来看，当前美国的利率水平并非异常高位。与过去几十年甚至更久远的历史时期相比，现在的利率可能处于一个更正常的区间。对于宏观投资者而言，理解这一历史背景有助于校准对利率的预期，避免过度关注短期波动，并为评估长期资产估值提供更全面的视角。",
+      "title": "油价上涨乏力，全球石油需求结构性变化是主因",
+      "summary": "全球油价未能显著上涨，主要原因并非供应过剩，而是全球对石油的需求结构性下降。这一趋势表明，能源转型和效率提升正在逐步改变全球能源消费模式，可能对传统石油生产商和相关产业的长期前景构成挑战，是比短期供需波动更深层次的问题。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "历史视角下的当前利率水平并非异常高企",
+      "summary": "尽管当前利率被许多人认为是高位，但有分析通过历史图表对比指出，从长期视角来看，当前的利率水平并非异常高企。这一观点有助于投资者更理性地看待货币政策周期，避免过度恐慌或乐观，理解利率常态化的潜在区间，对未来投资决策具有参考价值。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -120,40 +108,20 @@
       ]
     },
     {
-      "title": "美国社会保障金2027年有望上涨，生活成本调整或达3.6%",
-      "summary": "美国社会保障金领取者预计在2027年将获得更多的福利金，其生活成本调整（COLA）可能达到3.6%。这一增长旨在帮助退休人员应对通货膨胀，保障其购买力。对于宏观经济而言，社会保障金的增加将直接提振部分消费支出，对零售和服务业产生积极影响，同时也是评估未来通胀压力的一个重要考量因素。",
+      "title": "沃尔玛与塔吉特财报将揭示美国消费者健康状况",
+      "summary": "大型零售商沃尔玛和塔吉特即将公布的财报，将成为评估当前通胀环境下美国消费者健康状况的关键指标。这些报告将反映购物者在物价持续上涨时期如何调整消费行为，为宏观经济学家和投资者提供消费者韧性或压力的重要线索。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s.-consumer-d5b89491?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "可穿戴设备市场竞争白热化，重心从健身追踪转向医疗保健整合",
-      "summary": "可穿戴设备领域的竞争日趋激烈，各大科技巨头如谷歌、苹果、三星以及Oura等新兴企业，正竞相将其设备数据深度整合到医疗保健系统中。这一战略转变意味着可穿戴技术不再仅仅是健身追踪工具，而是成为个人健康管理和疾病预防的关键平台。对投资者而言，这揭示了医疗科技和大数据在健康领域的巨大潜力，以及科技公司在该万亿市场中的新增长点。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/15/business/dealbook/wearables-healthcare.html"
-        }
-      ]
-    },
-    {
-      "title": "谷歌向美国K-12学生开放Gemini AI，加速AI在教育领域普及",
-      "summary": "谷歌已为其课堂应用（Classroom App）的学生用户开启了Gemini AI功能，扩展至K-12学龄段，而此前仅面向18岁以上学生。此举标志着谷歌加速推动AI技术在教育领域的普及和应用，旨在提升学生的学习体验和效率。对于科技投资者而言，这是AI技术赋能垂直行业、扩大用户基础的重要一步，预示着AI教育工具市场的巨大增长空间。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html"
-        }
-      ]
-    },
-    {
-      "title": "研究揭示AI拥有比人脑更庞大的工作记忆能力",
-      "summary": "一项研究指出，人工智能系统能够访问比人类大脑远为庞大的工作记忆。这一发现对理解AI的认知优势及其在复杂任务处理中的潜力至关重要。这意味着AI在需要处理大量瞬时信息、进行复杂计算和逻辑推理的领域具有先天优势。对于科技投资者和产业观察者来说，这进一步证实了AI在特定认知任务上超越人类的趋势，以及其在各行业应用的深远影响。",
+      "title": "AI拥有远超人脑的“工作记忆”能力",
+      "summary": "人工智能在处理信息时，其“工作记忆”能力远超人类大脑，这使得AI在处理复杂数据和进行长时间推理方面展现出巨大优势。这一特性是AI技术突破的关键驱动力，预示着AI在科学研究、数据分析和复杂系统管理等领域的应用潜力将持续扩大，并可能重塑许多行业的工作流。",
       "sources": [
         {
           "name": "Hacker News Top",
@@ -162,124 +130,110 @@
       ]
     },
     {
-      "title": "人工智能时代工作模式转变：操作AI更似领导而非编码",
-      "summary": "有观点认为，在人工智能日益普及的背景下，与AI协作更像是领导和管理，而非传统的编程。这意味着未来职场对技能的要求将从单纯的技术执行转向更高级的策略规划、问题定义和AI工具的有效指挥。对于科技和人力资源领域的投资者，这预示着劳动力市场的结构性变化，以及对新型AI协同工具和员工培训解决方案的需求增长。",
+      "title": "智能可穿戴设备竞争转向医疗健康领域",
+      "summary": "谷歌、苹果、三星以及Oura等新兴公司在智能可穿戴设备市场的竞争焦点，已从单纯的健身追踪转向与医疗健康系统的深度整合。企业正竞相将可穿戴设备收集的数据接入医疗体系，旨在提供更全面的健康监测和管理方案，预示着医疗科技与消费电子的融合将加速，并可能改变未来医疗服务模式。",
       "sources": [
         {
-          "name": "Hacker News Top",
-          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/15/business/dealbook/wearables-healthcare.html"
+        }
+      ]
+    },
+    {
+      "title": "特斯拉FSD与Rivian Autonomy+驾驶系统对比揭示安全理念差异",
+      "summary": "对特斯拉FSD与Rivian Autonomy+两种“解放双手”驾驶系统的实测对比显示，Rivian在追赶特斯拉技术能力的同时，加入了特斯拉所缺乏的额外安全防护措施。这反映了两家公司在自动驾驶技术发展路径和安全哲学上的不同，将影响未来消费者选择和监管机构对自动驾驶技术的审批标准。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "美国证监会指控“锅炉房”式骗局，涉7400万美元IPO前投资欺诈",
-      "summary": "美国证券交易委员会（SEC）对一名“锅炉房”运营者及其三家关联实体提起诉讼，指控其通过未经注册的私募股权基金，以预IPO投资名义欺诈散户投资者，涉案金额高达7400万美元。此监管行动旨在打击非法证券发行和欺诈行为，保护投资者利益。对于关注美股和私募市场的投资者，这提醒了投资高风险未上市股权的潜在陷阱和SEC对市场秩序的维护力度。",
-      "sources": [
-        {
-          "name": "SEC Press",
-          "url": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo"
-        }
-      ]
-    },
-    {
-      "title": "一只持有800只股票的主动型基金跑赢大盘指数，揭示另类分散化策略",
-      "summary": "一只持有高达800只股票的主动型基金近期表现出色，跑赢了主要市场指数。这只基金采取了高度分散化的投资策略，挑战了传统上认为主动管理难以超越大盘的观念。对于美股投资者而言，这一案例表明在多样化投资方面，除了指数基金，一些具有独特策略的主动管理基金也能提供超额回报，值得深入研究其选股和组合管理逻辑。",
+      "title": "持有800只股票的主动型基金跑赢大盘指数",
+      "summary": "一只持有高达800只股票的主动型基金表现出色，超越了主要股指。该基金通过广泛分散投资实现多元化，并采取积极管理策略，表明在某些市场环境下，精选和分散投资的主动管理型基金仍能提供优于被动指数基金的回报，为投资者提供另类选择。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories"
         }
       ]
-    }
-  ],
-  "a_stocks": [
-    {
-      "title": "中国隐秘亿万富豪斥资3300万美元收购上海酒店，看好地产市场局部机遇",
-      "summary": "中国首位网络游戏亿万富豪陈天桥以约3300万美元的价格收购了位于上海市中心的Mia酒店。此举被分析师评价为“稳健的投资”，反映出即便在中国房地产市场经历长期低迷之后，仍有高净值投资者看好特定区域和资产类别的投资价值。对于A股和中国市场的投资者，这提供了一个关于私人资本对中国地产市场信心的信号，尤其是在一线城市核心资产的价值重估方面。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/article/3364076/reclusive-chinese-billionaire-strikes-us33m-deal-take-over-shanghai-hotel?utm_source=rss_feed"
-        }
-      ]
     },
     {
-      "title": "中国基金经理在AI股震荡中吸取经验，重新评估投资策略",
-      "summary": "全球AI股在去年6月经历的修正，对中国年轻基金经理的数十亿人民币投资组合造成冲击，促使他们反思并调整投资策略。这一事件凸显了中国市场在AI等高增长领域的投资风险与挑战。对于A股投资者，这提示了市场对AI概念股的估值泡沫和未来波动的潜在担忧，强调了风险管理和深入研究的重要性，也可能影响未来A股AI板块的投资风格。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/banking-finance/article/3364034/how-chinas-young-managers-grappled-billion-yuan-mandates-ai-shocks-hit-portfolios"
-        }
-      ]
-    }
-  ],
-  "business": [
-    {
-      "title": "美国医疗保险市场剧变：健康保险公司削减Medicare Advantage计划",
-      "summary": "美国健康保险公司正削减Medicare Advantage计划，可能影响数百万老年人。这一变化尤其在农村市场造成更多保险选择的挑战。此举反映了医疗保险政策、成本结构及保险公司盈利能力之间的复杂博弈。对于投资者，这预示着美国医疗保健行业的结构性调整，可能对相关保险公司和医疗服务提供商的收入和市场份额产生重大影响，值得密切关注政策导向。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "美国太阳能发电量激增：2026年新增电力装机容量主要来自太阳能与电池",
-      "summary": "2026年，美国新增电力装机容量中，公用事业规模的太阳能发电量遥遥领先，其次是电池储能系统，而化石燃料的贡献相对较少。这一趋势表明美国能源结构正在加速向可再生能源转型。对投资者而言，这凸显了太阳能和储能行业巨大的增长潜力，以及清洁能源技术在国家能源战略中的核心地位，为相关产业链带来了长期投资机会。",
+      "title": "美国公用事业规模太阳能发电量显著增长",
+      "summary": "今年前后，美国新增发电量中，公用事业规模的太阳能发电量遥遥领先，其次是电池储能，而化石燃料发电量的增长则不明显。这一趋势表明美国能源结构正加速向可再生能源转型，对相关产业链的投资机会（如太阳能设备制造商、储能技术公司及电网升级企业）带来长期利好。",
       "sources": [
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/"
         }
       ]
-    },
+    }
+  ],
+  "a_stocks": [
     {
-      "title": "最大全电动飞机首次试飞仅耗资5美元电费，预示航空业绿色转型",
-      "summary": "最大的全电动飞机首次试飞仅花费了5美元的电力成本，这一里程碑事件预示着航空业迈向绿色未来的巨大潜力。尽管目前仍处于混合动力电动商用飞机的开发阶段，但极低的运行成本展示了电动航空的经济可行性。对于投资者，这揭示了航空业颠覆性技术创新的方向，为电动飞机制造商、电池技术公司以及相关基础设施建设带来了长期的投资机遇。",
+      "title": "高盛看好受益于AI硬件出口浪潮的中国股票",
+      "summary": "高盛集团筛选出了一批中国股票，认为这些公司将从新一波AI相关硬件出口浪潮中受益。高盛指出，在这些领域，企业战略的执行力比宏观经济趋势更为重要，这为投资者提供了在特定赛道挖掘增长潜力的指引，尤其是在全球AI供应链重构的背景下。",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/16/goldman-picks-china-stocks-poised-to-benefit-from-wave-of-ai-related-exports.html"
+        }
+      ]
+    },
+    {
+      "title": "腾讯微信AI智能助手“小微”测试表现喜忧参半",
+      "summary": "腾讯正在微信平台内嵌名为“小微”的人工智能助手。一项24小时测试显示，小微在某些任务上表现出色，但在其他方面仍有不足。这表明中国超级应用正在加速AI集成，但AI代理的全面成熟仍需时间，其在用户隐私和推理效率方面的表现将决定其商业化潜力。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/tech/big-tech/article/3364068/i-gave-tencents-wechat-ai-agent-control-24-hours-where-it-excelled-and-stumbled"
+        }
+      ]
+    },
+    {
+      "title": "广东吸引AI人才以弥补与北京的差距",
+      "summary": "尽管广东孕育了DeepSeek和Moonshot等中国AI独角兽的创始人，但未能将其留住。为弥补在AI竞赛中的差距，广东省正积极从清华大学等顶尖学府吸引计算机科学学生。此举旨在强化其本土AI生态系统，确保未来在全球AI创新格局中占据一席之地，并可能促进区域AI产业的均衡发展。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/tech/big-tech/article/3364095/home-province-deepseek-moonshot-founders-seeks-retain-attract-future-ai-talent?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "中国电动汽车内饰走向“智能娱乐中心”",
+      "summary": "中国电动汽车正引领潮流，将车内空间打造成全方位的智能娱乐中心。除了电池和自动驾驶技术，新一代中国电动汽车配备了语音AI助手、可投影大灯和卡拉OK系统等，大幅提升了用户体验。这种差异化竞争策略有望进一步巩固中国在全球电动汽车市场的领先地位，并催生新的车内服务商业模式。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-evs/article/3364104/karaoke-car-chinas-new-wave-gadget-laden-electric-vehicles"
+        }
+      ]
+    }
+  ],
+  "business": [
+    {
+      "title": "中国隐秘富豪斥资3300万美元收购上海酒店",
+      "summary": "中国首位网络游戏亿万富翁陈天桥以约3300万美元的价格收购了上海市中心的Mia酒店。此次交易价格低于市场水平，被分析师认为是“稳健的投资”。这笔交易反映了高净值投资者对中国遭受重创的房地产市场开始抱有抄底和复苏的预期，尤其是在优质资产领域。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/article/3364076/reclusive-chinese-billionaire-strikes-us33m-deal-take-over-shanghai-hotel"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "体育队伍估值持续创新高，体育资产成高净值投资者另类投资新宠",
-      "summary": "洛杉矶湖人队以创纪录的125亿美元估值成交，远超去年100亿美元的售价，这反映出顶级体育队伍作为另类资产的价值正在持续飙升。对高净值投资者而言，体育特许经营权不仅是兴趣爱好，更成为一种稀缺且回报丰厚的投资类别，具有品牌价值、媒体版权和稳定现金流等吸引力。这一趋势揭示了全球富裕阶层对非传统资产配置的偏好，以及体育产业日益增长的商业潜力。",
+      "title": "香港住宅租金上涨与加息预期并存，租赁两难加剧",
+      "summary": "香港居民在面对持续上涨的住宅租金和日益临近的加息阴影时，购房或租房的传统困境愈发突出。租金指数持续攀升，而利率上升则增加了购房成本，使得买卖双方都处于观望状态。这种结构性压力可能导致香港房地产市场进一步分化，并对居民消费和投资决策产生深远影响。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/15/business/sports-team-values-billionaires.html"
-        }
-      ]
-    },
-    {
-      "title": "预测市场面临日益严格的监管审查，银行和监管机构加强关注",
-      "summary": "预测市场（Prediction Markets）正面临监管机构和银行日益严格的审查。美国商品期货交易委员会（CFTC）正在审查这些平台上的“提及市场”投注。这一趋势表明，新兴的在线预测交易平台在快速发展的同时，也吸引了监管层的密切关注，可能面临更严格的合规要求。对于投资者，这提示了新兴金融工具在法律和监管框架下发展的不确定性，以及潜在的政策风险。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/"
-        }
-      ]
-    },
-    {
-      "title": "美国房屋所有权被重新评估：租房或成为更优的财务选择",
-      "summary": "当前市场条件下，拥有一套房产可能不再是最佳的财务选择，租房在许多情况下正成为更明智的资金配置方式。这一观点挑战了美国社会长期以来将房产视为主要财富积累手段的传统观念。对于投资者，这预示着房地产市场可能正经历结构性变化，住房需求模式和投资回报逻辑发生转变，促使重新审视房地产在个人资产配置中的角色和价值。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/property/hong-kong-china/article/3364088/buy-or-rent-hong-kong-homebuyers-face-age-old-housing-dilemma"
         }
       ]
     }
