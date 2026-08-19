@@ -1,64 +1,68 @@
 {
   "top5": [
     {
-      "title": "全球债券收益率飙升至多年高位，加剧市场对经济前景担忧",
-      "summary": "全球政府债券收益率普遍大幅上扬，其中美国30年期国债收益率创2007年以来新高。投资者正消化通胀持续高企、各国央行鹰派立场以及人工智能基础设施建设可能带来的巨额政府开支。此次债券抛售潮导致全球借贷成本上升，对企业融资和经济增长构成压力，尤其在经济前景不确定的背景下，加剧了市场对经济衰退和企业盈利的担忧，是当前宏观经济面临的最大风险之一。",
+      "title": "美联储会议纪要显示官员对通胀持续担忧，暗示未来可能进一步加息",
+      "summary": "美联储7月公开市场委员会（FOMC）会议纪要显示，多数官员对通胀降温的进展缺乏耐心，认为物价压力仍较高，并表达了若通胀未能持续缓解，可能需要进一步加息的意愿。此举向市场发出了鹰派信号，预示着未来货币政策路径存在不确定性，可能对股市和债市造成影响。投资者需密切关注美联储对通胀数据的态度和未来的加息可能。",
       "sources": [
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/19/business/dealbook/bonds-yields-treasury-ai.html"
+          "name": "Federal Reserve Press",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm"
         },
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/19/business/dealbook/bonds-yields-treasury-ai.html"
+          "url": "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html"
         },
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html"
         }
       ]
     },
     {
-      "title": "苹果公司与欧盟及美国监管机构就App Store收费和ATT规则达成和解",
-      "summary": "苹果公司App Store的收费政策和应用跟踪透明度（ATT）规则在全球范围内面临监管压力后，已与欧盟达成和解，并在德国调整了ATT相关规定。这一进展意味着苹果将不得不降低部分应用内购费用，并对其平台控制力做出妥协。这对于依赖App Store生态的开发者来说是利好，也预示着全球主要科技平台将继续面临更严格的反垄断审查，可能影响其营收模式和市场主导地位。",
-      "sources": [
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/"
-        }
-      ]
-    },
-    {
-      "title": "英伟达投资OpenAI数据中心，AI前沿实验室收入增长显著",
-      "summary": "英伟达继续深化其在人工智能领域的布局，据悉正支持OpenAI的数据中心建设，而AI领域另一重要参与者Anthropic的收入也持续强劲增长。这一趋势凸显了AI基础设施和前沿模型研发的巨大投资需求和潜在回报。作为AI芯片的领军企业，英伟达的投资进一步巩固其在AI生态系统中的核心地位，并预示着AI军备竞赛将更加激烈，数据中心和算力将成为未来科技竞争的关键要素。",
-      "sources": [
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/"
-        }
-      ]
-    },
-    {
-      "title": "中国科技企业转向国内融资以支持AI雄心，机器人巨头Unitree成功上市",
-      "summary": "面对全球地缘政治和资本流向的变化，中国正积极引导其科技领军企业转向国内资本市场融资，以期减少对华尔街的依赖并支持其在人工智能领域的战略目标。例如，中国人形机器人巨头Unitree在上海科创板成功上市，首日股价大涨。此举不仅为中国AI及其他高科技产业提供了重要的本土资金来源，也反映出中国政府推动科技自立自强的决心，可能改变全球科技投资和资本市场的格局。",
+      "title": "美国国债总额突破40万亿美元，十年内翻番凸显财政压力",
+      "summary": "美国国债总额已达到40万亿美元，在过去十年中翻了一番。这一激增主要受战争开支、减税和关税退款等因素推动，与现任政府削减财政赤字的承诺相悖。不断扩大的债务规模引发市场对长期财政可持续性的担忧，可能导致借贷成本上升、对经济增长构成压力，并对美元的国际地位产生深远影响。投资者应警惕国家债务对宏观经济的潜在风险。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/18/business/unitree-ipo-trading.html"
+          "url": "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
         },
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-national-debt-just-hit-40-trillion-heres-how-it-can-hurt-americans-b4f252b9?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "美国证交会提议新规，旨在明确加密资产监管框架",
-      "summary": "美国证券交易委员会（SEC）提出了一项名为“加密资产监管条例”的新规则，旨在为涉及加密资产的特定投资合约创建清晰、适用性强的框架。此举是美国监管机构对快速发展的加密市场采取的重大举措，旨在增强投资者保护并为行业提供确定性。这将对加密资产的发行、交易和市场运作产生深远影响，可能吸引更多机构投资者进入，但同时也可能增加合规成本，重塑加密行业的未来发展路径。",
+      "title": "支付巨头Stripe斥资75亿美元收购AI初创公司OpenRouter，强化AI基础设施布局",
+      "summary": "支付处理巨头Stripe宣布以75亿美元收购人工智能初创公司OpenRouter。此项交易凸显了人工智能在核心商业基础设施领域日益增长的战略重要性，OpenRouter专注于帮助企业优化其AI模型支出。此次收购不仅将增强Stripe的支付业务能力，也标志着AI行业的一项重大整合。这预示着AI技术正深入渗透到企业运营的各个层面，改变传统商业模式，对于科技行业投资具有风向标意义。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html"
+        }
+      ]
+    },
+    {
+      "title": "美国证监会（SEC）提出加密资产新监管框架，市场期待清晰度",
+      "summary": "美国证券交易委员会（SEC）提出名为“加密资产监管”的新规则，旨在为涉及加密资产的特定投资合约创建清晰且适用的框架。此举回应了行业对监管清晰度的长期呼吁，可能有助于降低不确定性，吸引更多机构投资者。然而，具体的规则内容将决定其对加密市场创新、发展和投资者保护的实际影响，是加密资产领域迈向成熟的关键一步，投资者需关注其具体实施细则。",
       "sources": [
         {
           "name": "SEC Press",
           "url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets"
+        }
+      ]
+    },
+    {
+      "title": "中国私营航天公司首次成功回收可重复使用火箭，挑战SpaceX地位",
+      "summary": "中国私营航天公司LandSpace首次成功实现火箭第一级垂直回收，标志着中国在可重复使用火箭技术上取得重大突破。这一里程碑事件将大幅降低太空发射成本，使中国在商业航天领域更接近挑战SpaceX的领先地位。对于投资者而言，这不仅预示着中国商业航天市场的巨大潜力，也反映了中美在关键科技领域竞争的白热化，将推动全球航天产业的创新与发展。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html"
         }
       ]
     }
@@ -66,119 +70,117 @@
   "people": [
     {
       "name": "Ben Thompson",
-      "title": "苹果与监管机构的和解是App Store的“迟到现实”",
-      "summary": "科技分析师Ben Thompson指出，苹果与欧盟及美国监管机构就App Store费用和ATT规则达成和解，是App Store“迟到但必要的现实”。观点：他认为，欧盟在此事上的工作值得肯定，尽管耗时，但最终迫使苹果在平台控制权上做出让步。这表明大型科技平台在面对全球监管压力时，需要重新评估其商业模式，长远来看有利于市场竞争和开发者生态。",
+      "title": "观点：苹果与欧盟和解 App Store 费用问题，监管力量终将促使巨头妥协",
+      "summary": "观点：科技分析师Ben Thompson指出，苹果公司最终就App Store费用与欧盟达成和解，并在美国市场和德国ATT规则上做出调整，这表明App Store正面临费用下调的现实。他认为，虽然和解来得有点晚，但欧盟在推动市场公平竞争方面的工作是值得肯定的。这预示着即使是科技巨头，也难以完全对抗全球监管机构在平台经济中的影响力，对全球数字经济监管具有启示。",
       "sources": [
         {
           "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/"
+          "url": "https://stratechery.com/2026/08/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/"
         }
       ]
     },
     {
       "name": "Tyler Cowen",
-      "title": "AI代理的资本化需关注其“电子人格”问题",
-      "summary": "经济学家Tyler Cowen与Sonia Farrell Pearson共同撰文指出，随着AI代理变得更加自主，其“电子人格”的法律和经济资本化问题日益突出。观点：他提及欧洲议会在2017年就曾提出机器人的“电子人格”概念，而近期阿根廷总统米莱更是提议允许AI代理拥有、管理并承担责任。这突显了AI发展带来的深层次法律、经济和社会挑战，对未来资产所有权和商业模式可能产生颠覆性影响。",
+      "title": "观点：人工智能代理的“资本化”和法律人格将是未来焦点",
+      "summary": "观点：经济学家Tyler Cowen与其合著者提出，随着人工智能代理越来越独立，对其进行“资本化”并探讨其法律人格将成为紧迫问题。一些国家已开始就AI的法律地位立法。这不仅是哲学问题，更关乎经济效率、责任归属和未来社会结构。投资者需关注AI代理可能形成的经济实体及其潜在的法律和商业风险，这将改变传统资产的定义和评估方式。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/capitalizing-untethered-ai-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=capitalizing-untethered-ai-agents"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/capitalizing-untethered-ai-agents.html"
         }
       ]
     },
     {
       "name": "Tyler Cowen",
-      "title": "低生育率和AI将导致长期全球资本过剩与低回报",
-      "summary": "经济学家Tyler Cowen预测，全球生育率持续下降（尤其对中国前景悲观）与人工智能的广泛应用将共同导致全球人口老龄化加剧，进而引发“全球资本过剩”，长期实际资本回报率将非常低。观点：他指出，这将意味着到2100年全球GDP可能降低10%，同时养老金的薪资税率将大幅提高。这提示投资者需警惕未来长期资产收益率的下行压力和人口结构带来的宏观经济挑战。",
+      "title": "观点：全球人口结构变化与AI发展将导致长期资本过剩及低回报",
+      "summary": "观点：Tyler Cowen根据最新预测指出，未来全球人口老龄化将非常显著，尤其中国的生育率前景悲观。这可能导致全球长期资本严重过剩，从而使得长期实际资本回报率极低。此外，AI的发展将进一步加剧这种趋势，因为AI可以替代劳动力，减少对传统资本的需求。投资者应为低回报环境做准备，并重新评估资产配置策略，寻找新兴增长点。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/some-fertility-and-ai-forecasts.html?utm_source=rss&utm_medium=rss&utm_campaign=some-fertility-and-ai-forecasts"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/some-fertility-and-ai-forecasts.html"
         }
       ]
     },
     {
       "name": "Ben Carlson",
-      "title": "警惕AI领域可能出现的“最佳熊市情景”",
-      "summary": "投资博主Ben Carlson在其播客中讨论了AI投资热潮下可能出现的“最佳熊市情景”。观点：他强调，尽管AI前景光明，但投资者应警惕估值过高、技术发展瓶颈或市场情绪逆转带来的风险。他认为，在史上最大牛市之一的背景下，审慎评估AI投资的潜在下行风险至关重要，提醒投资者不应盲目追逐热门概念，而应关注基本面和估值。",
+      "title": "观点：对AI牛市应保持警惕，关注其潜在的“熊市”风险",
+      "summary": "观点：知名投资博主Ben Carlson在其播客“Animal Spirits”中讨论了AI泡沫的“最佳熊市论点”。他提示投资者，尽管AI市场炙手可热，但历史表明，即便是在巨大的牛市中，也存在被过度炒作和高估的风险。投资者应深入分析AI技术的基本面、应用落地能力以及潜在的市场竞争，而非盲目追逐短期热点，警惕估值过高带来的回调风险，避免不必要的损失。",
       "sources": [
         {
           "name": "A Wealth of Common Sense (Ben Carlson)",
           "url": "https://awealthofcommonsense.com/2026/08/animal-spirits-the-best-bear-case-on-ai/"
         }
       ]
-    },
-    {
-      "name": "高盛",
-      "title": "人工智能已开始对发达经济体劳动力市场产生影响",
-      "summary": "高盛最新研究发现，人工智能已开始对发达经济体的就业市场产生影响，部分行业和岗位面临调整压力。观点：这项研究提供了AI技术对经济实际影响的早期证据，可能导致劳动力结构性变化，并对政策制定者提出新的挑战。对于投资者而言，需关注企业在AI转型中的人才策略及相关行业的就业趋势。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html"
-        }
-      ]
-    },
-    {
-      "name": "Fundstrat Mark Newton",
-      "title": "债券抛售不预示股市深度回调",
-      "summary": "Fundstrat的Mark Newton分析指出，尽管当前债券市场出现抛售潮令投资者不安，但并不意味着股市将迎来深度回调。观点：他提供了技术性证据来支持这一判断，认为市场无需对债券收益率飙升过度恐慌，股市短期内仍有支撑。这为担忧债市动荡传导至股市的投资者提供了一种不同的视角。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/the-bond-selloff-is-rattling-investors-but-heres-why-they-shouldnt-expect-a-deeper-stock-downturn-43139350?mod=mw_rss_topstories"
-        }
-      ]
     }
   ],
   "macro": [
     {
-      "title": "英国通胀率升至四个月高点，能源成本上涨为主因",
-      "summary": "受能源账单上涨推动，英国通胀率升至四个月来的最高点，达到2.9%，与经济学家的普遍预期相符。英国财政大臣表示，伊朗战争的持续影响是导致国内物价上涨的关键因素。通胀压力的加剧可能对英国首相安迪·伯纳姆的施政构成挑战，并使英国央行在货币政策上保持谨慎，从而影响英国经济增长前景。",
+      "title": "美国国债收益率持续攀升，财政部回购行动暂缓市场压力",
+      "summary": "美国国债收益率近期持续攀升，30年期国债收益率触及近20年高点，反映出市场对通胀、巨额赤字和AI支出需求的担忧，推高了整体借贷成本。这不仅影响汽车、学生贷款和抵押贷款利率，也加剧了全球债券市场的压力。为缓解投资者紧张情绪，美国财政部采取行动，将可从市场回购的债务规模翻倍，此举暂时提振了市场信心并促使股债双涨，但长期压力仍存。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/19/business/treasury-bonds-yields-economy.html"
         },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/08/19/business/dealbook/bonds-yields-treasury-ai.html"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/why-the-treasury-market%E2%80%99s-newfound-calm-could-break-down-in-september-33cfaacd?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "英国通胀率受能源账单推动升至四个月高点，央行承压",
+      "summary": "英国的通胀率在能源账单上涨的推动下达到2.9%，为四个月来的最高水平，符合经济学家的普遍预期。英国财政大臣指出，伊朗战争持续对国内物价造成影响。这一通胀数据将给英国央行带来加息压力，并可能对首相的执政构成挑战。对于投资者而言，这意味着英国的利率前景可能更为鹰派，消费支出承压，需关注其对英镑及英国资产市场的影响。",
+      "sources": [
         {
           "name": "BBC Business",
           "url": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "特朗普政府暂停对加拿大征收新关税，贸易协议或近在咫尺",
-      "summary": "美国总统特朗普宣布暂停对加拿大征收50%的新关税三天，并表示两国正接近达成一项贸易协议，以避免对一系列加拿大商品征收进口税。加拿大总理马克·卡尼对此则更为谨慎，指出“重要工作”仍在进行中。这一进展表明两国在贸易谈判上取得突破，有望缓解北美贸易紧张局势，对相关行业的贸易活动和投资信心产生积极影响。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html"
         },
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "欧洲政府急于资助前沿科技企业，缩小与中美投资差距",
-      "summary": "面对与中美之间近1万亿美元的投资资金缺口，欧洲各国政府正积极扩大投资范围，支持新兴尖端技术初创企业发展。此举旨在提升欧洲在全球创新和科技竞争中的地位。这表明欧洲正在采取更积极的产业政策，以避免在全球科技竞赛中落后，可能为欧洲科技初创公司带来更多增长机遇，并重塑全球科技创新格局。",
+      "title": "欧洲加速投资前沿科技，力图在创新领域与中美竞争",
+      "summary": "面对与中国和美国在创新领域的激烈竞争，欧洲各国政府正积极寻求弥补近1万亿美元的投资资金缺口，加大对开发前沿技术的初创企业的资助。这一战略性举措旨在推动欧洲在半导体、AI、云计算等关键技术领域的自主创新，以维护其经济竞争力。投资者应关注欧洲的科技政策动向和资金流向，这可能催生新的投资机会，并改变全球科技创新的格局。",
       "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/19/business/economy/europe-investment-innovation-competition-us-china.html"
-        },
         {
           "name": "NYT Economy",
           "url": "https://www.nytimes.com/2026/08/19/business/economy/europe-investment-innovation-competition-us-china.html"
+        }
+      ]
+    },
+    {
+      "title": "加拿大与美国接近达成贸易协议，北美贸易关系有望稳定",
+      "summary": "加拿大和美国宣布在最终确定一项贸易协议方面取得“重大进展”，两国正努力在新关税截止日期前敲定细节。加拿大总理卡尼强调了谈判的积极进展，但具体条款尚未完全公布。此协议的达成将对北美地区的贸易关系和经济稳定产生重要影响，可能为相关产业带来确定性，降低贸易摩擦风险，值得投资者密切关注。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "Marvell股价因获谷歌芯片大单飙升，Broadcom受挫",
-      "summary": "Marvell科技公司股价因宣布获得谷歌价值约120亿美元的芯片采购权而大幅上涨，这笔交易也包含谷歌购买Marvell股份的期权。与此同时，博通（Broadcom）的股价则应声下跌。这一事件凸显了定制芯片市场的重要性日益增加，大型科技公司正寻求在AI和数据中心领域建立更强的垂直整合能力，对传统芯片供应商构成挑战，并重塑半导体行业的竞争格局。",
+      "title": "苹果App Store费用模式因监管压力调整，平台权力受限",
+      "summary": "面对欧盟的严格数字市场法案（DMA）及美国日益增强的反垄断审查压力，苹果公司已就App Store的收费模式和应用跟踪透明度（ATT）规则在德国达成和解。这一系列调整意味着苹果将向开发者提供更多灵活性和更低的佣金选择，特别是在欧洲市场。此举对全球应用经济生态系统具有深远影响，预示着平台巨头的权力将受到更多限制，有利于开发者和新进入者，可能重塑行业竞争格局。",
+      "sources": [
+        {
+          "name": "Stratechery (Ben Thompson)",
+          "url": "https://stratechery.com/2026/08/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/"
+        }
+      ]
+    },
+    {
+      "title": "Marvell与Google达成芯片协议，加速数据中心AI基础设施发展",
+      "summary": "Marvell Technology股价因与Google达成一项重要芯片协议而大幅上涨，而Broadcom股价则有所下跌。根据协议，Google将获得购买价值约120亿美元Marvell股票的选择权。这项合作突显了数据中心和AI基础设施领域对定制芯片解决方案日益增长的需求，以及科技巨头在供应链上的战略布局。这表明芯片行业的竞争格局正在快速演变，对相关公司股价和行业整合将产生重要影响。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -187,70 +189,34 @@
       ]
     },
     {
-      "title": "SK海力士启动290亿美元股票回购，暗示股价被低估",
-      "summary": "韩国存储芯片巨头SK海力士宣布启动一项高达290亿美元的股票回购计划，公司认为近期股价的急剧下跌未能反映其“内在价值”。此举旨在提振投资者信心，并向市场传递公司对未来业务前景的乐观态度。在全球半导体周期底部信号出现之际，大规模回购可能预示着管理层认为行业正在筑底，对半导体板块的估值带来积极信号。",
+      "title": "半导体股票涨势暂缓，分析师仍看好长期投资机会",
+      "summary": "近期半导体股的强劲涨势遭遇短暂阻力，市场情绪出现波动。然而，有分析师指出，历史上半导体股票在经历短期回调后，往往会为逢低买入的投资者提供机会。这表明尽管存在短期波动，但AI、云计算等长期增长趋势仍是半导体行业的核心驱动力。投资者应关注行业基本面和创新周期，而非过度反应短期市场情绪，把握结构性投资机遇。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/sk-hynix-suggests-its-stock-is-too-cheap-as-it-embarks-on-29-billion-buyback-c8b35d4f?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "Brunswick公司押注AI导航，寻求新营收增长点以应对船舶销售停滞",
-      "summary": "豪华游艇制造商Sea Ray的母公司Brunswick Corp.正积极投资人工智能导航技术，并探索新的经常性收入来源，以应对其船舶销售业务的停滞。该公司首席执行官表示，高端船舶销售表现稳定，但平价选项销售滞后。这表明即使是传统制造业也正积极拥抱AI技术，以实现产品智能化升级和业务模式创新，寻求在市场低迷期的增长机会。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html"
-        }
-      ]
-    },
-    {
-      "title": "Synchrony宣布与OpenAI合作，提升金融服务体验",
-      "summary": "信用卡发行商Synchrony宣布与OpenAI建立合作关系，初期阶段旨在通过AI技术为客户提供更流畅的在线购物体验。这项合作标志着人工智能在金融服务领域的进一步渗透，有望提升用户互动、个性化服务和运营效率。对于金融行业而言，拥抱AI技术是提升竞争力和满足消费者日益增长需求的关键趋势，也预示着更多传统行业将通过AI实现数字化转型。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/17/synchrony-openai.html"
-        }
-      ]
-    },
-    {
-      "title": "知名风投Andreessen Horowitz(A16z)因董事会席位问题遭司法部调查",
-      "summary": "据报道，美国司法部正在调查知名风险投资公司Andreessen Horowitz（A16z），关注其在被投公司董事会中持有的席位。这可能涉及反垄断问题，因为风投公司在多个竞争性公司中拥有董事会席位，可能会引发利益冲突和市场垄断的担忧。此调查反映了监管机构对大型风投机构市场影响力的日益关注，可能对科技投资生态产生影响，促使风投机构调整其治理结构。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/18/business/dealbook/andreessen-horowitz-justice-antitrust.html"
+          "url": "https://www.marketwatch.com/story/the-chip-stock-rally-hits-a-speed-bump-but-these-analysts-see-reason-to-be-hopeful-61821295?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "Moderna股价因癌症疫苗临床试验积极结果翻倍",
-      "summary": "Moderna公司股价飙升，几乎翻倍，此前公司公布了其癌症疫苗候选产品与抗癌药物Keytruda联合使用时，在临床试验中取得了有前景的结果。这一突破性进展可能预示着mRNA技术在肿瘤治疗领域的巨大潜力，为Moderna带来了新的增长点，并为整个生物技术和制药行业注入了强心剂，吸引了市场对创新疗法的关注。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/modernas-stock-doubles-on-promising-cancer-vaccine-results-896b1f2c?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "Target受关税退款推动，业绩好于预期并上调全年展望",
-      "summary": "零售巨头Target公布了超出市场预期的第二财季销售额，并上调了全年业绩展望，部分得益于一笔可观的关税退款。此业绩表明Target的转型策略正在奏效，尽管宏观经济面临挑战，但其盈利能力和市场份额有望提升。这为零售板块带来了积极信号，显示消费者支出在特定领域仍有韧性，有助于提振市场信心。",
+      "title": "Target受关税退款提振，第二季度销售超预期并上调全年指引",
+      "summary": "零售巨头Target公司公布的第二财季销售额超出市场预期，并上调了全年业绩指引。公司表示，一项高达10亿美元的关税退款为其业绩表现提供了显著支撑。这一利好消息表明，Target的转型策略正在见效，同时贸易政策变化也对大型零售商的盈利能力产生了直接影响。投资者应关注零售行业在供应链调整和宏观经济压力下的适应能力及其业绩表现。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Lowe's和Home Depot财报显示房屋装修支出承压",
-      "summary": "家居建材零售商Lowe's公布了喜忧参半的季度业绩，并给出保守的业绩展望，指出家居装修支出持续面临压力。另一巨头Home Depot则重申了全年指引，提及“冻结的房地产市场状况”。这反映出当前高利率和房价压力下，房地产市场活动放缓，对相关零售商的业绩造成影响，投资者需关注其对经济周期敏感度的变化，以及消费者购买力受到的影响。",
+      "title": "家装零售商Lowe's和Home Depot财报反映房地产市场承压",
+      "summary": "家装零售商Lowe's公布了喜忧参半的季度业绩，并预计未来家装支出将面临“压力”。同期，竞争对手Home Depot重申了业绩指引，并提及“房地产市场冻结状况”带来的挑战。这两家公司的财报均反映出高利率和不确定的经济环境对住房市场及消费者可支配支出的负面影响。投资者需密切关注房地产市场趋势和消费者信心的变化对零售业的影响。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -263,67 +229,98 @@
       ]
     },
     {
-      "title": "Hims & Hers首席执行官回应FTC诉讼，称监管机构误解公司运作",
-      "summary": "远程医疗公司Hims & Hers的首席执行官Andrew Dudum就联邦贸易委员会（FTC）对其公司提起的诉讼进行了回应，声称FTC误解了公司的运作模式，尤其是在复合GLP-1药物和AI应用方面。此诉讼凸显了快速发展的远程医疗和AI健康领域与传统监管框架之间的摩擦，对该公司的业务模式和行业未来的合规性产生不确定性，值得关注。",
+      "title": "自动软件公司ServiceNow引领软件股反弹，展现抗AI冲击能力",
+      "summary": "ServiceNow的股价上涨带动了整个软件板块的反弹。投资者对其前景感到乐观，主要原因在于市场越来越相信传统软件公司能够抵御AI带来的颠覆性冲击。ServiceNow专注于企业服务管理，其产品与AI技术的结合有望提升效率而非被其取代。这表明在AI浪潮中，并非所有现有企业都面临被淘汰的风险，拥有强大客户基础和明确AI整合策略的公司仍具投资价值。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/18/hims-hers-ceo-andrew-dudum-ftc-lawsuit-glp-1s-ai.html"
-        }
-      ]
-    }
-  ],
-  "a_stocks": [],
-  "business": [
-    {
-      "title": "伊朗战争如何使非洲首富财富激增",
-      "summary": "随着全球燃料供应紧张，非洲国家纷纷转向其本土巨头寻求石油产品，使得非洲首富的财富因伊朗战争而进一步激增。报道指出，他所控制的炼油厂在当前地缘政治紧张局势下扮演了关键角色。这不仅凸显了能源商品在地缘冲突中的战略价值，也揭示了非洲大陆内部日益增长的经济影响力以及对本土资源的依赖，为能源板块投资者提供了新的视角。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/19/world/africa/dangote-iran-refinery-oil-nigeria.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/servicenows-stock-leads-a-software-rally-heres-whats-energizing-investors-0ad74dd1?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "华尔街如何从人身伤害诉讼中获利",
-      "summary": "人身伤害诉讼的数量和规模均呈爆炸式增长，由押注胜诉的第三方公司提供资金，并向投资者提供部分回报。这一趋势揭示了法律融资（litigation finance）作为一种新兴资产类别正在获得华尔街的关注，它允许投资者通过为法律案件提供资金来获取利润。这为高净值投资者提供了新的投资机会，但同时也引发了对法律公正性和市场透明度的讨论。",
+      "title": "自动二手车交易平台Carvana股价承压，投资者担忧核心人物调查",
+      "summary": "自动二手车交易平台Carvana的股价本周面临下行压力，原因是围绕其核心人物之一Mark Walter的调查加剧了投资者的不安情绪。市场担忧，若调查产生不利结果，可能迫使Walter出售其Carvana股份以筹集现金，从而对股价造成进一步冲击。这反映出关键人物的声誉和财务状况对公司股价的巨大影响力，投资者在评估企业时需考虑此类非经营性风险。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html"
+        }
+      ]
+    },
+    {
+      "title": "SEC指控次级车贷公司Tricolor前高管涉嫌欺诈，凸显监管风险",
+      "summary": "美国证券交易委员会（SEC）对次级汽车贷款公司Tricolor Holdings的前首席执行官、首席财务官和财务高级总监提起欺诈指控，指控他们在一个长达数年的计划中扮演了关键角色，导致这家估值19亿美元的公司崩溃。此举彰显了监管机构对金融欺诈的打击力度，特别是针对次级贷款市场潜在风险的关注。投资者应警惕高风险信贷领域的透明度和公司治理问题。",
+      "sources": [
+        {
+          "name": "SEC Press",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-77-sec-charges-former-executives-fraud-connection-19-billion-collapse-subprime-auto-lender-tricolor"
+        }
+      ]
+    }
+  ],
+  "a_stocks": [
+    {
+      "title": "中国年轻消费者“租而不买”趋势盛行，挑战传统消费刺激模式",
+      "summary": "中国的年轻消费者正日益倾向于租赁高价商品如相机、无人机和露营装备，而非直接购买。这种“租而不买”的消费模式虽然有助于他们节省开支，却给北京当局刺激消费、提振经济的努力带来了新的挑战。这种结构性消费行为的变化可能反映出年轻人对未来收入预期的谨慎，以及对可持续生活方式的追求，将对中国零售业和制造业的长期发展策略产生影响。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/a-420-camera-for-10-chinas-young-consumers-would-rather-rent-than-buy-beijing-has-a-problem-07ca4d1b?mod=mw_rss_topstories"
+        }
+      ]
+    }
+  ],
+  "business": [
+    {
+      "title": "美国海军协助确保霍尔木兹海峡石油运输安全，地缘政治风险加剧",
+      "summary": "面对伊朗在该地区制造的航运风险，美国海军正在协助护送油轮安全通过霍尔木兹海峡，确保关键能源出口的畅通。这一行动凸显了中东地区地缘政治紧张局势对全球能源供应的持续影响，以及美国维护国际航运自由的决心。对于投资者而言，这意味着原油价格易受地缘政治事件冲击，能源安全和供应链韧性将是长期关注的重点。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/19/business/personal-injury-lawsuits-funding.html"
+          "url": "https://www.nytimes.com/2026/08/19/business/iran-hormuz-oman-us-navy.html"
+        }
+      ]
+    },
+    {
+      "title": "英国加强加密资产税收监管，向数万投资者发出警告信",
+      "summary": "英国税务海关总署（HMRC）正加大对加密资产的税收监管力度，已向81,000名加密资产持有者发出了警告信，这一数字自2024年以来几乎翻了两番。此举表明全球各国政府对加密货币市场的监管日益趋严，旨在打击逃税行为并提高透明度。投资者应警惕不同司法管辖区的税务合规要求，并合理规划其加密资产投资，以避免潜在的法律和财务风险。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "特朗普会见加密行业领袖，力推有利加密行业的法案",
+      "summary": "美国前总统特朗普近期会见了多位加密行业领袖，呼吁国会通过一项重要的加密货币法案，以期将监管导向有利于该行业的方向。此举正值特朗普本人在加密资产领域积累了巨额财富之际，也反映了加密行业在美国政治影响力日益增强。投资者需密切关注美国立法层面的进展，这可能为加密市场带来新的发展机遇或挑战，并影响其未来走向。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/19/us/politics/trump-crypto-executives.html"
         }
       ]
     }
   ],
   "overlooked": [
     {
-      "title": "摩洛哥在非洲工业化进程中超越南非，成为领导者",
-      "summary": "摩洛哥去年超越南非，成为非洲工业化领域的领导者，被非洲开发银行评为非洲工业经济体排名第一。摩洛哥的增长得益于持续的工业升级、出口多元化和强有力的产业政策。这一发展表明非洲内部的经济格局正在发生变化，摩洛哥的成功经验为其他新兴市场国家提供了借鉴，值得投资者关注其长期增长潜力及其作为区域经济增长引擎的地位。",
+      "title": "美国劳动市场面临职业结构性变迁，衰退行业影响长期职业发展",
+      "summary": "一项研究显示，在职业生涯初期进入衰退行业，将对美国劳动者的长期职业发展和收入产生负面影响。尽管这并非普遍现象，但它揭示了经济结构性转型中，部分劳动力可能面临的技能错配和就业困难。对于投资者而言，这提示了教育、职业培训和劳动力市场再分配的重要性，也预示着某些传统行业的长期投资风险，以及对经济结构调整的潜在需求。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/morocco-facts-of-the-day-morocco-is-not-hopeless.html?utm_source=rss&utm_medium=rss&utm_campaign=morocco-facts-of-the-day-morocco-is-not-hopeless"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/declining-occupations-and-career-outcomes-in-the-united-states.html?utm_source=rss&utm_medium=rss&utm_campaign=declining-occupations-and-career-outcomes-in-the-united-states"
         }
       ]
     },
     {
-      "title": "SEC提议新规“加密资产监管条例”，旨在为加密市场提供清晰框架",
-      "summary": "美国证券交易委员会（SEC）提出一项名为“加密资产监管条例”的新规则，旨在为涉及加密资产的特定投资合约创建清晰且适用性强的框架。此举是美国监管机构对加密市场采取的重大举措，旨在增强投资者保护并为行业提供确定性。这将对加密资产的发行、交易和市场运作产生深远影响，可能吸引更多机构投资者进入，但同时也可能增加合规成本，重塑加密行业的未来发展路径。",
+      "title": "休闲娱乐行业拥抱AI导航和新营收模式，应对传统销售困境",
+      "summary": "游艇制造商Brunswick Corp.（Sea Ray母公司）正积极探索AI导航技术和新的经常性收入模式，以应对传统船只销售停滞的困境。首席执行官指出，高端船只销售仍能维持，但价值型选择正在滞后。这表明即使是传统制造和服务业，也在寻求通过技术创新和商业模式转型来抵御市场挑战，为投资者提供了关注AI在非科技领域应用及传统行业结构性变化的视角。",
       "sources": [
         {
-          "name": "SEC Press",
-          "url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets"
-        }
-      ]
-    },
-    {
-      "title": "经济学研究趋势变化：传统领域研究占比下降，发展、犯罪和性别经济学兴起",
-      "summary": "最新研究显示，经济学文献中关于计量经济学理论、货币政策和公司治理的比例有所下降，而发展经济学、犯罪经济学和性别经济学等领域的研究则呈上升趋势。这反映了经济学研究兴趣的转变，也可能受到政策制定者优先事项和外部资金需求的影响。这种学术重心的转移，可能预示着未来经济政策和商业策略将更关注社会公平和可持续发展等议题，值得长期投资者关注。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/how-economics-is-changing.html?utm_source=rss&utm_medium=rss&utm_campaign=how-economics-is-changing"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html"
         }
       ]
     }
