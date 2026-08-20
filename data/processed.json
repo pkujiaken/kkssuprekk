@@ -1,22 +1,8 @@
 {
   "top5": [
     {
-      "title": "中国恒大创始人许家印被判终身监禁，标志房地产危机新阶段",
-      "summary": "中国法院判处恒大集团创始人许家印终身监禁，此前这家曾经的房地产巨头因巨额债务而轰然倒塌。此判决不仅是其个人命运的终结，也象征着中国房地产行业长期危机的深层发展，预示着监管将对金融风险采取更严厉的打击，对中国经济和资本市场稳定产生深远影响。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "美联储会议纪要暗示若通胀不降将继续加息",
-      "summary": "美联储最新会议纪要显示，多数联邦公开市场委员会（FOMC）官员认为，如果通胀未能持续回落至目标水平，可能需要进一步加息。这一信号对市场而言至关重要，它决定了未来利率路径的预期，可能导致全球资本市场波动，并影响高净值投资者的资产配置策略，尤其是在固定收益和权益类资产方面。",
+      "title": "美联储会议纪要显示鹰派倾向，加息可能性不减",
+      "summary": "联邦公开市场委员会（FOMC）7月会议纪要显示，多位美联储官员认为，如果通胀未能持续回落至2%的目标，可能需要进一步加息。这一信号表明美联储对通胀前景保持高度警惕，其抗通胀决心依然坚定。此立场可能影响市场对未来利率路径的预期，进而对借贷成本和资产估值产生重要影响，是投资者关注的宏观经济风向标。",
       "sources": [
         {
           "name": "Federal Reserve Press",
@@ -29,8 +15,8 @@
       ]
     },
     {
-      "title": "美国国债总额突破40万亿美元，财政压力引发广泛担忧",
-      "summary": "美国国债总额已突破40万亿美元大关，十年内几乎翻倍。这主要源于政府在伊朗战争上的开支、减税政策和关税退款。债务的持续飙升引发了市场对美国长期财政可持续性的担忧，可能加剧通胀压力，并对美元的国际地位和美债的吸引力构成潜在威胁，对全球投资者配置美国资产产生影响。",
+      "title": "美国国债突破40万亿美元大关，财政可持续性面临挑战",
+      "summary": "美国国家债务在过去十年间翻了一番，首次突破40万亿美元，创下历史新高。这一增长主要由对伊朗战争的支出、减税政策和关税退税等因素推动。庞大的债务规模引发了对美国财政可持续性的深刻担忧，可能对长期利率、通胀以及美元的国际地位构成潜在风险。投资者需警惕美国财政状况对全球经济和金融市场稳定性的影响。",
       "sources": [
         {
           "name": "NYT Economy",
@@ -38,100 +24,31 @@
         },
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo"
         }
       ]
     },
     {
-      "title": "地缘政治紧张加剧致油价飙升，全球债券市场波动",
-      "summary": "随着地缘政治紧张局势（尤其是伊朗战事）的升级，国际油价大幅上涨，同时全球债券市场再次出现压力和波动。市场对原油供应中断的担忧推动油价上行，而避险情绪和通胀预期则影响了债券收益率。这种不确定性对全球经济增长前景构成挑战，并要求投资者密切关注能源价格和利率走向，调整风险敞口。",
+      "title": "科技巨头为AI投资大举借债，推高债券收益率",
+      "summary": "为资助在人工智能领域的庞大投资，大型科技公司正大举借入资金，成为债券市场的主要需求方。这种大规模的借贷行为被分析师认为是近期美国国债收益率上升的部分原因。市场普遍预期，AI驱动的增长将使未来利率维持在高位，从而增加整体借贷成本，对企业融资环境和风险资产估值构成连锁反应，影响科技股投资前景。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html"
+          "url": "https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html"
         },
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/oil-prices-jump-after-trump-declares-economic-war-on-iran-457e7ad9?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "苹果与欧盟及美国监管机构就App Store费用和规则达成和解",
-      "summary": "苹果公司近期与欧盟和美国监管机构就App Store的费用结构和第三方应用规则达成和解。这一系列和解标志着全球监管机构对大型科技平台日益增强的审查力度，将迫使苹果等公司调整其商业模式，降低垄断风险。对科技行业而言，这可能意味着更开放的生态系统和更激烈的竞争，对平台经济的长期估值产生影响。",
-      "sources": [
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/"
-        }
-      ]
-    }
-  ],
-  "people": [
-    {
-      "name": "Ben Thompson",
-      "title": "他认为苹果App Store与欧盟达成和解是监管的胜利",
-      "summary": "观点：Stratechery的Ben Thompson认为，苹果与欧盟和美国就App Store费用和规则达成和解，尽管迟到，但仍是监管机构的胜利。他指出，这反映出大型科技平台面对全球日益严格的反垄断审查，不得不对商业模式做出妥协，预示着平台经济的未来将更加开放和竞争。",
-      "sources": [
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/08/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/"
-        }
-      ]
-    },
-    {
-      "name": "Tyler Cowen",
-      "title": "他与人合著文章探讨AI代理的法律人格化",
-      "summary": "原话：「AI代理的法律人格化」是我们最新著作的开篇前提。著名经济学家Tyler Cowen与人合著的文章探讨了赋予AI代理法律人格的可能性及其经济和法律影响。他认为，随着AI能力不断提升，探讨其所有权、管理和责任归属变得日益重要，这可能为AI的资本化提供新的范式。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/capitalizing-untethered-ai-agents.html"
-        }
-      ]
-    },
-    {
-      "name": "JPMorgan 策略师 Jay Barry 和 Jason Hunter",
-      "title": "警告美国财政部回购国债或推高收益率",
-      "summary": "观点：摩根大通（JPMorgan）策略师Jay Barry和Jason Hunter警告称，美国财政部回购国债的举措可能适得其反，反而会推高债券收益率。他们认为，此举并非必要，且可能对市场产生负面效应，建议投资者审慎对待。这一观点挑战了市场对回购能稳定债市的普遍预期，值得关注。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "name": "高盛报告",
-      "title": "指出AI正挤压发达经济体劳动力市场",
-      "summary": "观点：高盛（Goldman Sachs）研究发现，人工智能已开始对发达经济体的劳动力市场产生实际影响，部分职位面临被AI取代的压力。这表明AI的经济影响已从理论层面走向实际就业，可能导致结构性失业，并促使企业和政策制定者重新思考劳动力培训和技能再造的策略。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html"
-        }
-      ]
-    },
-    {
-      "name": "市场分析师",
-      "title": "普遍认为AI是重塑经济的主导力量",
-      "summary": "观点：多位市场分析师指出，人工智能正在以前所未有的速度重塑全球经济格局，其影响力远超政治因素，并将持续扩大。这一共识反映了投资者对AI长期颠覆性潜力的信心，AI技术不仅提升效率，也在改变商业模式和创造新市场，成为未来投资和增长的核心驱动力。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/youve-all-heard-ai-is-remaking-the-economy-heres-how-its-changing-lives-for-better-or-worse-447bd086?mod=mw_rss_topstories"
-        }
-      ]
-    }
-  ],
-  "macro": [
-    {
-      "title": "全球债券收益率飙升引发市场担忧",
-      "summary": "在全球范围内，债券市场正经历收益率的显著上升，导致借贷成本增加，并引发投资者对通胀和经济增长放缓的担忧。这一趋势受到多重因素影响，包括地缘政治紧张、央行政策预期以及对长期财政健康的疑虑。债券市场的波动对全球资产定价和投资组合构成普遍压力。",
-      "sources": [
         {
           "name": "NYT DealBook",
           "url": "https://www.nytimes.com/2026/08/19/business/dealbook/bonds-yields-treasury-ai.html"
+        }
+      ]
+    },
+    {
+      "title": "美国财政部尝试干预债券市场，旨在稳定利率但引争议",
+      "summary": "美国财政部长斯科特·贝森特正推行新的干预策略来管理全球最重要的债券市场，旨在稳定市场情绪并降低借贷成本。此举在短期内平息了部分市场波动，但华尔街普遍担忧其长期效果，包括可能对通胀预期和美联储货币政策独立性造成的复杂影响。这种由财政部主导的干预主义策略，预示着政府在金融市场中角色正在发生变化，值得高度关注。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html"
         },
         {
           "name": "NYT Business",
@@ -140,138 +57,141 @@
       ]
     },
     {
-      "title": "美国财政部债券干预计划引发华尔街对通胀的担忧",
-      "summary": "美国财政部的债券干预计划，旨在稳定市场，但华尔街对此表示担忧，认为其可能引发通胀和更广泛的经济影响。尽管短期内稳定了市场，但长期效应尚不明确，投资者正密切关注其对货币政策和未来通胀走势的潜在影响。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/20/business/dealbook/bessent-fed-warsh-bonds.html"
-        }
-      ]
-    },
-    {
-      "title": "欧洲积极扶持前沿科技企业，缩小与中美差距",
-      "summary": "面对与中美之间近万亿美元的投资差距，欧洲各国政府正积极出资扶持本土初创企业，致力于发展前沿科技。此举旨在提升欧洲的创新竞争力，减少对外部技术的依赖，并在全球科技竞赛中占据一席之地。这为投资者提供了关注欧洲新兴技术市场的机会。",
-      "sources": [
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/08/19/business/economy/europe-investment-innovation-competition-us-china.html"
-        }
-      ]
-    },
-    {
-      "title": "中国国债收益率逆势稳定，吸引多元化投资",
-      "summary": "在全球债券收益率普遍飙升的背景下，中国政府债券收益率保持低位，显示出其在全球市场中的独特吸引力。这一稳定性使其成为寻求资产多元化和风险对冲的国际投资者的避风港，反映出中国经济的韧性和独立性，对全球资产配置具有重要意义。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html"
-        }
-      ]
-    }
-  ],
-  "tech": [
-    {
-      "title": "零售投资者对AI投资持谨慎乐观态度",
-      "summary": "尽管人工智能和科技板块持续火热，但零售投资者对AI的狂热情绪有所降温，表现出更为谨慎的乐观态度，部分投资者开始考虑对冲下行风险。这表明市场对AI的长期潜力仍有信心，但也警惕短期过热带来的回调风险，预示着AI投资将进入更理性的阶段。",
-      "sources": [
-        {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html"
-        }
-      ]
-    },
-    {
-      "title": "Z世代对AI抢夺工作机会的担忧日益加剧",
-      "summary": "随着人工智能技术迅速发展，Z世代群体对AI可能取代其工作岗位的担忧显著上升。在大学毕业生就业率承压的背景下，这种担忧尤为突出，反映了新兴技术对传统劳动力市场的深刻冲击。这一趋势将促使教育和劳动力市场进行结构性调整，以适应AI时代的需求。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/gen-z-used-to-embrace-ai-now-most-young-adults-fear-it-will-steal-their-jobs-b02bdcfb?mod=mw_rss_topstories"
-        }
-      ]
-    }
-  ],
-  "us_stocks": [
-    {
-      "title": "沃尔玛二季度销售增长创多年新低，受消费者支出放缓影响",
-      "summary": "沃尔玛公布的第二季度财报显示，其美国可比销售额增长仅为2.6%，创下六年多来的最低水平。财报指出，消费者支出趋于谨慎，尤其受到药品价格下降的影响。尽管公司上调了全年业绩展望，并表示将利用近10亿美元的关税退款来维持低价，但销售增长放缓仍是美国消费市场疲软的信号。",
+      "title": "沃尔玛销售增长创多年新低，美国消费者支出趋于谨慎",
+      "summary": "零售巨头沃尔玛公布的季度销售增长创多年来最慢纪录，并对未来业绩给出谨慎展望，导致公司股价下跌。报告指出，美国消费者在高油价和药房销售疲软等多重因素下，正缩减开支，尤其在非必需品消费方面趋于保守。这反映出消费者信心和可支配收入面临压力，预示着更广泛的经济放缓趋势，可能对其他零售商和整体经济增长产生负面影响。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html"
         },
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories"
-        },
-        {
           "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/20/walmart-hikes-full-year-outlook-says-it-will-use-huge-tariff-refund-to-keep-prices-low.html"
+          "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "name": "Aswath Damodaran",
+      "title": "AI已渡过“成人礼时刻”，正从炒作和希望走向商业化拷问",
+      "summary": "观点：纽约大学斯特恩商学院教授达摩达兰指出，人工智能自ChatGPT发布以来，已从单纯的技术炒作和未来希望阶段，迈入关键的“成人礼时刻”。当前，市场和投资者需要关注的不再是AI的潜力，而是其在实际商业应用中如何创造价值、产生收入并实现盈利，这意味着对AI公司的估值将更加侧重于其商业模式和财务表现。",
+      "sources": [
+        {
+          "name": "Aswath Damodaran",
+          "url": "https://aswathdamodaran.blogspot.com/2026/08/ais-bar-mitzvah-moment-from-hype-hope.html"
         }
       ]
     },
     {
-      "title": "Moderna股价因转型癌症疗法飙升177%",
-      "summary": "Moderna公司在新冠疫苗需求暴跌后，成功转型为一家专注于癌症治疗的公司，其股价飙升了177%。公司在黑色素瘤等癌症疫苗研发上取得进展，重新赢得了市场青睐。这一成功的战略转型，展示了生物科技公司在面对市场变化时，通过创新和聚焦新业务实现增长的潜力。",
+      "name": "Ben Carlson",
+      "title": "股市偶尔“崩盘”是健康市场运行的必要组成部分",
+      "summary": "观点：著名投资博客“A Wealth of Common Sense”作者本·卡尔森认为，股票市场周期性地经历大幅下跌（即“崩盘”）并非异常现象，而是其本质特征和健康机制。他指出，市场的非理性繁荣最终需要通过修正来释放累积的风险和过度估值，从而为新的增长周期奠定基础。投资者应认识到，这种波动是市场生态系统的一部分，而非需要恐慌的信号。",
+      "sources": [
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/08/why-the-stock-market-has-to-crash/"
+        }
+      ]
+    },
+    {
+      "name": "Tyler Cowen",
+      "title": "无条件基本收入短期或提升幸福感，但长期效应待考；职业结构变化影响小于预期",
+      "summary": "观点：经济学家泰勒·考恩引用研究指出，无条件基本收入（UBI）在短期内对提高个人幸福感似乎有效，但其长期效果仍需更多验证。此外，对于自动化导致的职业结构变化，研究发现虽然部分职业正在衰退，但对这些职业中就业者的长期职业发展和收入造成的负面影响，可能并不如最初预期的那么严重，这表明劳动力市场具备一定的适应和转型能力。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/did-ubi-make-people-happier.html"
+        },
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/declining-occupations-and-career-outcomes-in-the-united-states.html"
+        }
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "title": "全球债券市场动荡加剧，对经济构成普遍成本压力",
+      "summary": "全球主要经济体的债券收益率普遍上升，加剧了市场紧张情绪，使得企业和政府的借贷成本更高。这种“债券暴跌”不仅对房地产市场和消费贷款产生负面影响，也可能抑制经济活动，并为美联储等央行制定货币政策带来复杂挑战。投资者需警惕高利率环境对各类资产估值和经济增长前景的持续影响。",
+      "sources": [
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/08/19/business/dealbook/bonds-yields-treasury-ai.html"
+        },
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/anxious-bond-market-sends-troubling-message-to-investors-theres-no-easy-fix-for-u-s-debt"
+        }
+      ]
+    },
+    {
+      "title": "美国财政部介入债券市场引发通胀及美联储独立性担忧",
+      "summary": "美国财政部长贝森特通过新干预策略旨在稳定债券市场并降低利率，此举短期内缓解了市场恐慌。然而，华尔街普遍担忧这种由财政部主导的干预主义可能带来的长期通胀风险，并可能影响美联储的政策独立性。这种不确定性可能使货币政策的有效性面临挑战，并增加市场的波动性，值得密切关注其后续影响。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html"
-        }
-      ]
-    },
-    {
-      "title": "Target和Lowe's财报喜忧参半，反映零售业分化",
-      "summary": "Target公布了超出预期的第二季度销售业绩，并受关税退款提振上调全年展望，显示其复苏势头强劲。然而，家居零售商Lowe's则给出了较为保守的业绩展望，指出家居装修支出面临压力。这反映出在消费者支出谨慎的宏观环境下，美国零售行业不同细分市场和公司间的业绩分化。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html"
+          "url": "https://www.nytimes.com/2026/08/20/business/dealbook/bessent-fed-warsh-bonds.html"
         },
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html"
         }
       ]
     },
     {
-      "title": "Carvana股价因高管调查承压，投资者担忧",
-      "summary": "二手车电商Carvana的股价本周持续承压，主要原因是公司高管Mark Walter面临调查，引发投资者对其持股可能受到影响的担忧。此次调查使市场对Carvana的未来运营和融资能力产生不确定性，对公司估值带来负面影响，高净值投资者需密切关注相关进展。",
+      "title": "美国国债突破40万亿美元，警示长期财政风险",
+      "summary": "美国国债规模已达到40万亿美元，在短短十年内翻了一番，显示出持续的政府支出和不断增长的利息成本压力。这一庞大的债务负担不仅可能挤出私人投资，还可能在未来推高通胀和利率，对美国经济的长期健康构成严峻挑战。投资者应将此视为美国财政状况恶化的关键指标，并审慎评估其对全球金融市场的潜在影响。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html"
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo"
         }
       ]
-    }
-  ],
-  "a_stocks": [
+    },
     {
-      "title": "中国年轻消费者转向租赁经济，挑战政府促消费目标",
-      "summary": "中国年轻一代消费者正日益倾向于租赁而非购买商品，从相机、无人机到露营装备无所不包。这种“租赁经济”模式是年轻人精明省钱的方式，但也对政府刺激消费、推动经济增长的努力构成挑战。这一消费行为的结构性转变，预示着中国消费市场可能面临更深层次的变革。",
+      "title": "市场观点：债券市场或将刺破股市泡沫，投资者应警惕",
+      "summary": "有分析师认为，当前债券市场的剧烈波动和收益率上升，正向股市传递出危险信号，并可能最终刺破当前被视为“过度扩张”的股票市场泡沫。 rising yields threaten everything, especially overextended equities. 这一观点提示投资者，在当前高利率环境下，过度估值的股票可能面临更大风险，需要重新审视投资组合的风险敞口。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/a-420-camera-for-10-chinas-young-consumers-would-rather-rent-than-buy-its-a-problem-for-the-government-and-the-economy-07ca4d1b?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/the-bond-market-is-going-to-burst-the-stock-market-bubble-1c6f0971"
         }
       ]
     }
   ],
-  "business": [
+  "tech": [
     {
-      "title": "达能获批收购营养品公司Huel，加速市场拓展",
-      "summary": "法国食品巨头达能（Danone）已获得监管机构批准，以10亿欧元收购营养品公司Huel。此次收购旨在帮助达能拓展在快速增长的营养品市场中的份额，符合其在全球健康和功能食品领域进行战略扩张的布局。此举预示着营养品行业的整合和发展将进一步加速。",
+      "title": "AI投资热潮推高科技巨头借贷，加剧债券市场压力",
+      "summary": "为支持日益增长的人工智能基础设施和研发投入，大型科技公司正大举借入资金，成为债券市场的关键需求方。这种大规模借贷不仅增加了科技公司的财务杠杆，也对全球债券收益率构成上行压力，反映出AI发展对资本市场带来的结构性影响。投资者需评估科技公司高负债运营模式的长期可持续性。",
       "sources": [
         {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/08/19/business/dealbook/bonds-yields-treasury-ai.html"
         }
       ]
     },
     {
-      "title": "现代汽车推出豪华电动车Genesis EV，深化高端电动市场竞争",
-      "summary": "现代汽车公司推出了其全新旗舰豪华电动车型Genesis EV，这款新车采用了Genesis品牌新的设计方向，并将其在美国的产品线扩展至七款车型。此举旨在强化现代汽车在高端电动车市场的竞争力，满足消费者对豪华和环保出行的需求，预示着全球电动车市场将迎来更激烈的竞争格局。",
+      "title": "“新云计算”概念兴起，CoreWeave等公司成市场焦点但估值存疑",
+      "summary": "随着人工智能模型对计算能力需求激增，以CoreWeave为代表的“新云计算”公司受到市场关注，这些公司专注于提供高性能计算资源。然而，分析师认为，这类公司可能最终演变为“周期性租赁公司”，其股票估值面临挑战。投资者需警惕该细分领域可能存在的短期热潮和长期盈利模式不确定性。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/neocloud-stocks-like-coreweave-are-having-a-moment-and-times-running-out-to-cash-in-8aca34c8"
+        }
+      ]
+    },
+    {
+      "title": "现代汽车推出豪华电动车Genesis GV90，深化高端EV市场竞争",
+      "summary": "现代汽车旗下豪华品牌Genesis发布了其全新旗舰电动汽车GV90，这款车型采用了新的设计方向，并将现代品牌在美国的车型阵容扩展至七款。这一举动标志着现代汽车在高端电动车市场的进一步布局，加剧了全球豪华电动车市场的竞争，也反映出传统车企向电动化和高端化转型的决心。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -280,34 +200,138 @@
       ]
     }
   ],
-  "overlooked": [
+  "us_stocks": [
     {
-      "title": "印度Z世代推动美容市场蓬勃发展，电商与收入增长是主要动力",
-      "summary": "在全球最大的年轻人口和不断增长的收入水平的推动下，印度Z世代正在引领该国美容市场进入一个“超级繁荣”时期。电商平台的普及也为这一增长提供了关键支持。这一趋势揭示了新兴市场强劲的消费潜力，尤其是在年轻人口结构和数字化转型背景下，对全球消费品投资者具有吸引力。",
+      "title": "沃尔玛销售增长放缓，消费者支出疲软影响零售业",
+      "summary": "沃尔玛报告称其销售增长创多年来新低，并预测未来增长将受限，导致股价大跌。这一表现反映出美国消费者在高物价环境下开始缩减非必需品支出，对零售板块和整体经济前景发出警示信号。投资者应关注消费品行业面临的持续挑战，并审慎评估其对相关上市公司盈利能力的影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html"
+        },
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html"
+        }
+      ]
+    },
+    {
+      "title": "塔吉特业绩超预期并上调展望，得益于关税退款",
+      "summary": "另一零售巨头塔吉特（Target）公布了优于预期的季度销售额，并上调了全年业绩展望，部分原因是大额关税退款。这表明虽然整体消费环境承压，但部分零售公司通过有效的运营策略或外部利好仍能维持增长，也体现了零售业内部的分化。投资者需深入分析公司具体优势，而非仅依赖宏观零售数据。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html"
+        }
+      ]
+    },
+    {
+      "title": "劳氏家居建材前景黯淡，家庭装修支出面临压力",
+      "summary": "家居建材零售商劳氏（Lowe's）发布了保守的业绩展望，指出家庭装修支出持续面临压力。这暗示着住房市场降温和消费者信心不足已传导至相关零售领域，可能对住房改善行业带来持续挑战，并影响建筑和家居类股票的表现。投资者需关注房地产市场的变化对相关产业链的传导效应。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html"
+        }
+      ]
+    },
+    {
+      "title": "参议员呼吁加强券商账户安全，防范欺诈风险",
+      "summary": "两位资深参议员对主要券商的客户账户安全保护措施表示担忧，指出其可能存在漏洞，容易遭受欺诈。他们敦促监管机构要求券商提供更强的客户保护，这可能促使金融行业加强合规投入，对金融科技和传统券商的安全技术投资产生影响。投资者应关注券商的风险管理能力和监管动态，以保护资产安全。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/20/business/brokerage-accounts-fraud-protections.html"
+        }
+      ]
+    }
+  ],
+  "a_stocks": [
+    {
+      "title": "中国政府债券收益率逆势走低，吸引全球投资者寻求多元化",
+      "summary": "在全球主要经济体债券收益率普遍飙升的背景下，中国政府债券收益率保持低位，表现出独特的稳定性。这一趋势凸显了中国债券作为避险资产和多元化配置工具的吸引力，尤其是在全球市场波动加剧时期，为寻求稳定收益的国际投资者提供了独特机会。这将可能进一步促进资本流入中国债券市场，提升其国际影响力。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html"
+        }
+      ]
+    }
+  ],
+  "business": [
+    {
+      "title": "达能10亿欧元收购Huel获批，强化营养健康市场布局",
+      "summary": "法国食品巨头达能（Danone）以10亿欧元收购代餐品牌Huel的交易获得监管机构批准。此举旨在帮助达能拓展其在营养健康领域的市场份额，特别是在植物基食品和健康膳食补充剂这一快速增长的细分市场，预示着行业整合的趋势。该交易反映了消费者健康意识的提升和食品行业向功能性营养转型的战略方向。",
       "sources": [
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/crl7y671w8go"
         }
       ]
     },
     {
-      "title": "美国部分职业长期衰退，但对个人职业生涯影响或低于预期",
-      "summary": "一项研究显示，在美国，初始就业于随后衰退的职业，其长期职业发展和收入所受负面影响可能低于市场普遍预期。通过追踪2.4万多名工人20年的数据，研究发现即使行业萎缩，工人也能相对较好地适应并找到新的发展路径。这为劳动力市场转型提供了更细致的视角。",
+      "title": "加州总检察长要求派拉蒙-WBD并购案进行“强有力结构性补救”",
+      "summary": "加州总检察长表示，如果华纳兄弟探索公司（WBD）与派拉蒙（Paramount）的潜在合并案要获得和解，将需要“强有力的结构性补救措施”，以解决反垄断担忧。这表明大型媒体并购案面临严格的监管审查，可能迫使公司剥离资产或调整业务结构以获得批准，对媒体行业的整合模式和未来竞争格局产生深远影响。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/declining-occupations-and-career-outcomes-in-the-united-states.html"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html"
         }
       ]
     },
     {
-      "title": "全民基本收入（UBI）研究显示，对幸福感的提升仅限于短期",
-      "summary": "一项针对低收入人群的实验研究发现，每月无条件提供1000美元的基本收入，在短期内确实能提升受试者的幸福感。然而，这种积极效应似乎未能长期持续。这项发现对全球范围内关于UBI长期社会和经济效益的辩论提供了重要数据，提示政策制定者在考虑此类福利方案时需审慎评估其可持续影响。",
+      "title": "Moderna个性化mRNA疗法有望改变皮肤癌治疗，但存炒作嫌疑",
+      "summary": "Moderna公司研发的个性化mRNA疗法在皮肤癌治疗方面展现出巨大潜力，引发医患群体的广泛期待。然而，部分分析师认为该技术可能存在过度炒作的成分，投资者需平衡其突破性前景与商业化挑战，警惕估值风险。这一进展凸显了生物技术在癌症治疗领域的创新，但其市场接受度和经济效益仍需时间验证。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/did-ubi-make-people-happier.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/modernas-personalized-mrna-shot-could-reshape-the-fight-against-skin-cancer-but-it-may-also-be-overhyped-a6f1bc88"
+        }
+      ]
+    },
+    {
+      "title": "商业地产需求数据揭示区域差异，传统中心城市仍具韧性",
+      "summary": "全国房地产经纪人协会（NAR）发布的新数据显示，商业地产需求因地而异。尽管整体市场面临挑战，但在某些经济基础扎实的地区，尤其是一线和二线城市的传统中心区域，商业地产的需求仍显韧性，为投资者提供更具针对性的策略参考。这表明在复杂的宏观环境下，商业地产投资需更侧重于区域经济基本面和细分市场机会。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/20/commercial-real-estate-demand-nar-data.html"
+        }
+      ]
+    }
+  ],
+  "overlooked": [
+    {
+      "title": "Binance两名员工在阿联酋被拘留，凸显加密货币交易所面临的全球监管压力",
+      "summary": "全球最大加密货币交易所Binance的两名员工在阿联酋被拘留后获释，这表明即使在被视为对加密货币友好的地区，主要加密平台也面临着日益严格的法律审查。这一事件提醒投资者，加密货币行业的监管不确定性依然是主要风险因素，全球各国政府对加密货币的合规性要求日益提高，可能影响行业的未来发展和估值。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/20/technology/two-binance-employees-detained-uae.html"
+        }
+      ]
+    },
+    {
+      "title": "美国前总统特朗普威胁制裁伊朗贸易伙伴，全球供应链再添不确定性",
+      "summary": "美国前总统特朗普关于对与伊朗有贸易往来的国家施加经济惩罚的言论，给全球贸易关系和供应链带来了新的不确定性。此举可能迫使企业重新评估其在波斯湾地区的业务，尤其可能影响到与伊朗有能源或商品交易的国家，进而对大宗商品价格和国际贸易格局产生连锁反应，值得投资者关注其潜在的地缘政治风险。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-trade-trump-threat-china.html"
+        },
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-trade-trump-threat-china.html"
+        }
+      ]
+    },
+    {
+      "title": "千禧一代购房难度大，但数据暗示趋势或正改善",
+      "summary": "尽管与前几代人相比，千禧一代拥有房屋的比例显著较低，但最新数据显示这一趋势可能正在出现转机。这反映出住房市场结构性变化和代际财富积累的挑战，但未来政策调整和市场动态可能为年轻一代带来新的机遇，值得长期关注。这一变化对房地产市场、消费模式乃至社会财富分配都将产生深远影响。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo"
         }
       ]
     }
