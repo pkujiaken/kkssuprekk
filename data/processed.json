@@ -1,8 +1,8 @@
 {
   "top5": [
     {
-      "title": "美加贸易谈判破裂，加拿大宣布对等报复性关税",
-      "summary": "美国与加拿大之间的贸易谈判未能达成协议，导致加拿大总理宣布对美国商品征收“对等”报复性关税。这一贸易战的升级对北美供应链和经济稳定构成威胁，并可能加剧通胀压力，对两国企业和消费者产生负面影响。",
+      "title": "美加贸易战升级，两国互征报复性关税",
+      "summary": "美国与加拿大之间的贸易谈判破裂，导致两国互征报复性关税。美国前贸易代表贾米森·格里尔披露了加拿大拒绝的协议细节，而加拿大总理卡尼则宣布将对美国商品采取“对等”关税措施。这场贸易战可能给两国消费者和企业带来新的经济压力和高物价，对北美经济一体化构成挑战。",
       "sources": [
         {
           "name": "NYT Business",
@@ -11,154 +11,99 @@
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories"
-        },
-        {
-          "name": "Hacker News Top",
-          "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo"
         }
       ]
     },
     {
-      "title": "全球低借贷成本时代终结，美国经济面临快速调整风险",
-      "summary": "经过约二十年的超低利率时期，美国经济和全球最重要的金融系统正面临一个快速的利率调整期。高借贷成本可能对企业融资、消费者支出和政府债务带来长期风险，迫使投资者重新评估资产配置策略和风险敞口。",
+      "title": "欧洲企业盈利强劲反弹，或预示经济转机",
+      "summary": "欧洲股市基准斯托克欧洲600指数成分公司在第二季度平均每股收益增长18%，表现为多年来最佳财报季。这与2024年和2025年盈利几乎没有增长的情况形成鲜明对比，表明欧洲经济可能正在经历一次重要的好转。这一迹象对全球投资者而言，可能意味着欧洲市场即将迎来新的投资机会。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/has-the-european-turnaround-finally-arrived.html?utm_source=rss&utm_medium=rss&utm_campaign=has-the-european-turnaround-finally-arrived"
+        }
+      ]
+    },
+    {
+      "title": "持续低借贷成本时代终结，全球经济面临再调整风险",
+      "summary": "在经历近二十年的超低利率后，美国（作为全球最大经济体和最重要的金融体系）正面临一个快速再调整的时期。借贷成本的退出可能给经济带来风险，对企业投资、消费者支出和政府债务管理都将产生深远影响。投资者需密切关注货币政策转向可能带来的市场波动和资产重新定价。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/08/22/business/bonds-borrowing-costs-economy.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Paramount收购华纳兄弟交易面临州政府诉讼挑战",
-      "summary": "加利福尼亚州及其他11个州已提起诉讼，试图阻止Paramount对华纳兄弟探索频道高达1110亿美元的收购案。这起诉讼凸显了美国反垄断监管机构对大型媒体并购案的严格审查态度，可能对交易前景产生重大不确定性，并影响媒体行业的整合格局。",
+      "title": "中国AI和芯片企业加码股权激励，争夺顶尖人才",
+      "summary": "在中美科技竞争日益激烈的背景下，中国的AI和芯片公司正通过提供激进的股权激励计划来留住核心人才。最新的企业备案显示，零成本股票奖励和覆盖广泛员工的股权计划前所未有。这一人才争夺战不仅反映出中国科技领域对自主创新的重视，也预示着该领域未来竞争的白热化和潜在的估值上涨。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/tech/big-tech/article/3364689/pay-perks-equity-chinas-ai-chip-firms-lead-way-offering-rewards-lock-talent?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "哈佛商学院推出AI克隆教授课程，预示教育与科技融合新趋势",
+      "summary": "哈佛商学院将推出一门售价699美元的创业课程，由其教授的AI克隆体授课。这一举动标志着顶尖学府在教育领域对人工智能应用的探索，可能颠覆传统教学模式，并预示着未来AI在知识传播和人才培养方面更广泛的应用潜力，也引发了对教育质量和人机交互的深层思考。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html"
-        }
-      ]
-    },
-    {
-      "title": "欧洲企业财报季表现强劲，盈利增速创多年新高",
-      "summary": "欧洲Stoxx Europe 600指数成分公司第二季度平均每股盈利（EPS）增长18%，结束了过去两年几乎停滞的增长。这一积极信号表明欧洲经济可能正在触底反弹，为全球经济复苏提供了新的动力，并对投资者在欧洲市场的信心产生了积极影响。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/has-the-european-turnaround-finally-arrived.html"
-        }
-      ]
-    },
-    {
-      "title": "美国财政部债券回购计划引发黄金与比特币价格上涨",
-      "summary": "美国财政部宣布将增加债券回购的消息，刺激了市场对流动性增加的预期，推动黄金和比特币等替代资产价格走高，同时美元走弱。这一反应反映了市场对宏观经济政策变化的高度敏感性，以及对未来通胀和对冲资产价值的重新评估。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories"
+          "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Ben Thompson",
-      "title": "苹果在欧盟监管压力下做出妥协，影响其平台战略",
-      "summary": "观点：Ben Thompson指出，苹果在欧盟数字市场法案（DMA）的压力下，不得不在其应用生态系统方面做出妥协，这反映出新规对大型科技平台商业模式的深远影响。未来，更多科技巨头可能被迫调整其全球战略以适应各地监管环境。",
-      "sources": [
-        {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/08/app-snore/"
-        }
-      ]
-    },
-    {
       "name": "Tyler Cowen",
-      "title": "欧洲企业盈利数据强劲，预示经济可能迎来转折",
-      "summary": "观点：经济学家Tyler Cowen表示，欧洲企业刚刚经历了多年来最好的财报季，Stoxx Europe 600指数成分公司第二季度平均每股盈利增长18%，这与前两年几乎零增长形成鲜明对比。他认为这可能预示着欧洲经济的转折点已经到来，对全球经济复苏和投资布局具有重要意义。",
+      "title": "观点：AI代理仍需人类持续指导，构建“智能O形环世界”",
+      "summary": "观点：经济学家泰勒·科文指出，随着AI代理逐渐承担更多任务，它们往往需要人类的持续指导和更多背景信息。他认为，我们正在进入一个“智能O形环世界”（agentic O-ring world），其中AI代理虽能高效执行，但关键环节的失败可能导致整体系统崩溃，因此人类对这些核心“代理”的精确管理至关重要。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/has-the-european-turnaround-finally-arrived.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-new-agentic-o-ring-world.html?utm_source=rss&utm_medium=rss&utm_campaign=the-new-agentic-o-ring-world"
         }
       ]
     },
     {
-      "name": "Scott Bessent",
-      "title": "美国财政部长誓言稳定债券市场但效果有限",
-      "summary": "观点：美国财政部长Scott Bessent承诺将加大力度，利用其“工具箱”来稳定动荡的债券市场，以应对美国借贷成本上升带来的风险。然而，目前这些努力尚未见效，市场对国家债务突破40万亿美元的担忧持续存在，对投资者信心构成挑战。",
+      "name": "Ben Carlson",
+      "title": "观点：401k计划取得成功，但仍有改进空间",
+      "summary": "观点：本·卡尔森认为，401k退休计划在美国取得了显著成功，成为数百万美国人积累财富的重要工具。尽管如此，他指出该计划仍有改进空间，以更好地适应不断变化的经济环境和投资者需求，例如提高参与率、优化投资选项以及降低管理费用。",
       "sources": [
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/21/business/dealbook/bessent-bonds-tool-kit.html"
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/08/the-401k-has-been-a-success/"
         }
       ]
     },
     {
-      "name": "Mark Carney",
-      "title": "加拿大总理宣布对美国商品征收对等报复性关税",
-      "summary": "原话：「在与美国贸易谈判破裂后，加拿大总理马克·卡尼宣布，加拿大将对美国商品征收“对等”报复性关税。」此举标志着美加贸易争端升级，可能对两国经济关系及全球贸易体系产生负面影响，增加市场不确定性。",
+      "name": "Jamieson Greer",
+      "title": "原话：披露特朗普政府与加拿大贸易谈判的“最后报价”",
+      "summary": "原话：美国前贸易代表贾米森·格里尔在接受采访时，详细披露了特朗普政府在与加拿大贸易谈判破裂前，美国向加拿大提出的具体协议条款。这些细节揭示了双方在关税、农产品市场准入等关键议题上的分歧，解释了谈判最终未能达成一致的原因，并凸显了美加贸易关系中的紧张态势。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories"
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "美国借贷成本上升，经济面临长期风险调整",
-      "summary": "在经历了约二十年的超低利率后，美国经济和全球最重要的金融系统正进入一个快速的利率调整期。借贷成本的上升对企业、政府和消费者都带来了新的挑战和风险，迫使投资者重新评估风险敞口和资产配置，尤其是在固定收益市场。",
+      "title": "美国财政部债券回购计划引发金价和比特币上涨",
+      "summary": "美国财政部宣布计划将债券回购规模增加一倍，这一消息引发了黄金和比特币的上涨，而美元则有所走弱。市场普遍认为，此举可能增加市场流动性，并降低对未来利率上升的预期，促使投资者寻求风险资产和避险资产，对全球大宗商品和加密货币市场产生短期提振作用。",
       "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/22/business/bonds-borrowing-costs-economy.html"
-        },
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "美加贸易谈判破裂，加拿大实施报复性关税加剧贸易紧张",
-      "summary": "美国与加拿大之间的贸易谈判未能达成协议，导致加拿大宣布对美国商品征收“对等”关税。这一贸易战的升级对北美供应链和经济稳定构成威胁，并可能加剧通胀压力，对两国特定行业的企业运营和投资产生负面影响。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html"
-        },
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories"
-        },
-        {
-          "name": "Hacker News Top",
-          "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo"
+          "url": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "美国财政部尝试稳定债券市场但成效有限",
-      "summary": "美国财政部长Scott Bessent试图通过“工具箱”来安抚债市投资者，但迄今为止效果不彰。美国国债规模已突破40万亿美元，市场对国家债务水平及其对利率和经济稳定性的潜在影响持续担忧，这给全球债券市场带来了持续的不确定性。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/21/business/dealbook/bessent-bonds-tool-kit.html"
-        }
-      ]
-    },
-    {
-      "title": "特朗普政府取消碎牛肉关税以抑制物价上涨，引发行业争议",
-      "summary": "特朗普总统宣布取消碎牛肉关税，以期降低肉类价格，缓解消费者通胀压力。然而，此举立即遭到美国养牛农户和共和党代表的反对，凸显了政府在控制通胀和保护国内农业产业之间的政策权衡挑战，可能引发农业贸易政策的进一步波动。",
+      "title": "特朗普政府宣布取消碎牛肉关税以降低物价",
+      "summary": "特朗普政府宣布取消碎牛肉关税，以期降低肉类价格，缓解消费者面临的高物价压力。然而，此举立即招致了美国牧场主及代表他们的共和党议员的强烈反对，他们担心这将损害国内牛肉产业的利益。这一政策反映了政府在通胀压力下，平衡消费者利益与国内产业保护之间的艰难抉择。",
       "sources": [
         {
           "name": "NYT Economy",
@@ -169,98 +114,60 @@
   ],
   "tech": [
     {
-      "title": "苹果在欧盟监管压力下调整应用生态策略，影响平台经济",
-      "summary": "面对欧盟日益严格的数字市场法案（DMA），苹果公司开始对其应用商店政策进行妥协。这一变化预示着全球主要科技平台在欧洲市场的运营模式将面临结构性调整，可能影响其营收模式和利润率，对关注平台经济的投资者来说是重要信号。",
+      "title": "本地大语言模型表现不及预期，凸显部署复杂性",
+      "summary": "有观点认为，虽然大语言模型技术进步迅速，但本地部署的LLM往往感觉不如其理论能力强大。这反映出将复杂AI模型从云端环境移植到本地设备时面临的实际挑战，包括计算资源限制、优化难度以及对特定应用场景的适应性。这表明，AI技术的实际落地仍需克服诸多工程和部署上的障碍，远非一蹴而就。",
       "sources": [
         {
-          "name": "Stratechery (Ben Thompson)",
-          "url": "https://stratechery.com/2026/08/app-snore/"
+          "name": "Hacker News Top",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
         }
       ]
     },
     {
-      "title": "哈佛商学院推出AI克隆讲师课程，探索教育新模式",
-      "summary": "哈佛商学院利用AI技术创建教师的虚拟形象，推出699美元的企业家训练营课程。这标志着高等教育领域利用AI进行规模化教学和商业化的前瞻性尝试，可能重塑教育服务的提供方式和成本结构，为AI在知识经济中的应用开辟新途径。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html"
-        }
-      ]
-    },
-    {
-      "title": "数据市场被视为未来关键增长领域，驱动AI和数字化转型",
-      "summary": "有观点指出，数据市场将成为未来的主要市场。随着人工智能和数字化转型加速，对数据采集、处理、交易和分析的需求将呈爆炸式增长，这为相关技术和服务提供商带来巨大投资机会，并可能催生新的商业模式和生态系统。",
+      "title": "新型“代理协调系统”预示未来工作模式变革",
+      "summary": "一种名为“代理协调系统”（agent harness）的工程化系统正在兴起，能够实时完成合同、使外部工作更易被观察，并将背景和控制信息跨越企业边界进行传递。这种系统预示着未来工作模式可能发生结构性变化，企业管理和协作将更加依赖自动化代理和精细化控制，对生产效率和组织结构产生深远影响。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-575.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/saturday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-575"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "Paramount收购华纳兄弟交易面临加州等12州的反垄断诉讼",
-      "summary": "加利福尼亚州及其他11个州已提起诉讼，试图阻止Paramount对华纳兄弟探索频道高达1110亿美元的收购案。这起诉讼突显了美国反垄断监管机构对大型媒体并购案的严格审查态度，可能对交易前景产生重大不确定性，并影响Paramount的未来战略布局。",
+      "title": "派拉蒙与加州就华纳兄弟收购案举行初步谈判",
+      "summary": "派拉蒙影业（Paramount）与加州及其他11个州将于周一就其1110亿美元收购华纳兄弟探索公司（Warner Bros. Discovery）的交易举行初步谈判。此前，这些州提起诉讼试图阻止该交易，此次谈判是解决反垄断担忧的早期尝试。这一大型并购案的进展，将对美国媒体行业的竞争格局产生重大影响。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html"
-        },
-        {
-          "name": "NYT DealBook",
           "url": "https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html"
         }
       ]
     },
     {
-      "title": "波音工程师和技术人员拒绝合同提议，罢工风险上升",
-      "summary": "波音公司的工程师和技术人员工会拒绝了管理层提出的合同协议，并授权如果新协议无法达成，将于10月举行潜在罢工。这可能对波音的生产计划、交付能力和财务业绩构成严重威胁，并可能对其在航空制造业的竞争力产生负面影响。",
+      "title": "波音工程师和技术人员拒绝合同报价，或面临罢工风险",
+      "summary": "波音公司的工程师和技术人员工会成员拒绝了公司提出的合同报价，并授权在10月前未能达成新协议的情况下举行潜在罢工。这一劳资纠纷给波音的生产和交付带来不确定性，可能加剧其供应链压力，并对其股价和未来盈利能力造成负面影响，值得投资者警惕。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/08/21/business/boeing-engineers-technicians-contract.html"
         }
       ]
-    }
-  ],
-  "a_stocks": [
-    {
-      "title": "美国品牌在中国市场份额流失，本土竞争与地缘政治影响显现",
-      "summary": "Nike、星巴克和通用汽车等美国主要品牌正在中国市场失去阵地，原因包括本土竞争加剧、地缘政治紧张以及消费者偏好变化。这一趋势表明外国品牌在中国面临的挑战日益严峻，中国本土品牌的崛起势头强劲，对在华运营的跨国公司构成了战略性风险。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html"
-        }
-      ]
     },
     {
-      "title": "中国监管机构要求特斯拉召回近300万辆汽车",
-      "summary": "中国安全监管机构要求特斯拉召回近300万辆汽车，原因是车辆在发生碰撞时车门无法打开。这一大规模召回行动对特斯拉在中国的声誉和销售构成压力，并可能导致额外的合规成本，影响其在全球最大电动车市场的增长潜力。",
+      "title": "中国监管机构要求特斯拉召回近300万辆汽车进行修复",
+      "summary": "中国安全监管机构已要求特斯拉召回近300万辆汽车，以修复在碰撞中车门无法打开的问题。这一大规模召回行动将对特斯拉在华的声誉和销售造成压力，并可能产生额外的成本。鉴于中国市场对特斯拉的重要性，此次监管行动及其后续处理将是投资者关注的焦点。",
       "sources": [
         {
           "name": "Ars Technica",
           "url": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/"
         }
       ]
-    }
-  ],
-  "business": [
-    {
-      "title": "可口可乐探索创新实验室，推动饮料自动化与新品类开发",
-      "summary": "可口可乐公司正在其秘密创新实验室中探索饮料制作的自动化技术，并开发包括“脏苏打水”和清爽饮品等新产品线。此举旨在应对麦当劳和温迪斯等长期客户在饮料供应方面的扩张，以保持市场竞争力和利润空间，反映了消费巨头对创新和自动化趋势的重视。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html"
-        }
-      ]
     },
     {
-      "title": "快时尚巨头Shein在IPO前夕面临增长困境和监管压力",
-      "summary": "在其备受关注但屡次推迟的首次公开募股（IPO）之前，快时尚巨头Shein正面临在美国和欧洲的增长压力及监管审查。公司需要在全球范围内寻找新的增长点，以支撑其高估值和上市预期，这反映了全球零售业的激烈竞争和政策挑战。",
+      "title": "快时尚巨头Shein在IPO前夕遭遇增长困境",
+      "summary": "快时尚巨头Shein在面临美国和欧洲日益增长的压力下，正努力寻找新的增长途径，这对其迟迟未能进行的首次公开募股（IPO）构成了挑战。作为一家全球性的电子商务公司，Shein的IPO困境反映了监管审查、市场竞争和消费者偏好变化对其商业模式的冲击，其未来走向对快时尚行业有指示意义。",
       "sources": [
         {
           "name": "NYT DealBook",
@@ -269,34 +176,78 @@
       ]
     }
   ],
-  "overlooked": [
+  "a_stocks": [
     {
-      "title": "欧洲企业盈利显著改善，可能预示结构性复苏的到来",
-      "summary": "欧洲Stoxx Europe 600指数成分公司第二季度平均每股盈利增长18%，创多年来最佳表现。这与前两年几乎停滞的增长形成鲜明对比，可能表明欧洲经济正经历深层结构性改善，为寻求多元化配置的投资者提供了一个被低估的复苏机会。",
+      "title": "美国知名品牌在中国市场份额流失，本土竞争加剧",
+      "summary": "耐克、星巴克和通用汽车等美国知名品牌正在中国市场失去阵地，原因是中国本土竞争对手的崛起、地缘政治因素以及消费者偏好的转变。这一趋势表明，中国市场对西方品牌的吸引力正在减弱，而中国本土企业正凭借更贴近本地需求的产品和营销策略，在关键消费领域占据主导地位。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/has-the-european-turnaround-finally-arrived.html"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html"
         }
       ]
     },
     {
-      "title": "美国财政部债券回购计划意外刺激黄金与比特币上涨",
-      "summary": "美国财政部宣布将增加债券回购，这一举措在短期内意外地引发了黄金和比特币的上涨。这反映了市场对流动性增加和未来通胀预期的敏感反应，以及替代资产在宏观政策变化下的快速定价机制，可能预示着通胀对冲资产的重要性提升。",
+      "title": "AI热潮推高组件成本，中国车企智能优势面临挑战",
+      "summary": "随着全球组件短缺和人工智能热潮推高原材料价格，中国智能汽车制造商正面临越来越高的成本压力。印刷电路板（PCBs）和多层陶瓷电容器（MLCCs）等关键智能部件的供应紧张，预计全球供应链需至少一年才能满足需求。这可能削弱中国车企在智能电动车领域的成本优势和创新速度。",
       "sources": [
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/china-evs/article/3364766/components-crunch-chinas-carmakers-face-rising-costs-keep-intelligence-edge?utm_source=rss_feed"
+        }
+      ]
+    }
+  ],
+  "business": [
+    {
+      "title": "加密货币高管接连失踪，行业声誉再受打击",
+      "summary": "一家欧洲加密货币交易所的神秘倒闭以及其创始人和继任者相继失踪，再次暴露了加密货币行业作为犯罪温床的声誉。这一事件凸显了加密市场中缺乏透明度、监管不力和潜在欺诈的风险，对投资者信心造成打击。此类事件可能促使全球监管机构加强对加密资产的审查和立法。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html"
         }
       ]
     },
     {
-      "title": "比特币市场预测显示年末价格可能保持当前水平",
-      "summary": "Kalshi交易平台上的投机者预测，比特币在2026年末的价格很可能维持在当前水平附近，而非继续大幅上涨。这一市场情绪反映了对加密货币短期内大幅突破缺乏共识，可能对高波动性资产的投资策略提出新的考量，建议关注长期结构性变化而非短期投机。",
+      "title": "可口可乐通过创新实验室探索自动化和新饮品",
+      "summary": "可口可乐公司正通过其秘密创新实验室，积极探索自动化和新型饮品的开发，例如自动化“脏苏打水”和清爽饮品。此举旨在应对麦当劳和温迪斯等长期客户扩大饮品供应以提高利润率的趋势，预示着这家饮料巨头将通过技术创新来保持市场竞争力并适应不断变化的消费者需求。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html"
+        }
+      ]
+    },
+    {
+      "title": "卡尔什市场交易员预测比特币涨势将趋缓",
+      "summary": "预测市场平台Kalshi的交易员普遍认为，比特币的涨势可能在2026年底前趋于平稳，接近当前的交易水平。这一市场情绪反映出对加密货币未来走势的谨慎态度，可能受到宏观经济因素、监管政策以及市场流动性变化的综合影响。投资者在配置加密资产时应注意此类市场情绪指标。",
       "sources": [
         {
           "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html"
+        }
+      ]
+    }
+  ],
+  "overlooked": [
+    {
+      "title": "Z世代财富积累模式转变：重投资而非置业",
+      "summary": "Z世代在财富积累方面展现出不同于前几代人的模式，他们更倾向于通过投资应用和退休账户来积累财富，而非传统上通过购置房产。这一转变反映了年轻一代对房地产市场高价位和流动性不足的担忧，以及对数字投资工具和灵活财富增长方式的偏爱，可能对未来的房地产市场和金融服务业产生结构性影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/22/business/gen-z-houses-investing.html"
+        }
+      ]
+    },
+    {
+      "title": "特朗普政府新太空运输政策：呼吁联邦土地新建航天港",
+      "summary": "特朗普政府的太空运输政策呼吁在联邦土地上新建一座航天港，以应对日益增长的重型和超重型火箭发射需求。这项政策旨在进一步扩大美国的太空发射能力，支持私人太空公司的发展，并巩固美国在太空领域的领导地位。对太空基础设施的投资，可能催生新的高科技产业集群和相关投资机会。",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/"
         }
       ]
     }
