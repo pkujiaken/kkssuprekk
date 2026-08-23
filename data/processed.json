@@ -1,16 +1,12 @@
 {
   "top5": [
     {
-      "title": "美国与加拿大贸易争端升级，两国互征报复性关税",
-      "summary": "美国前贸易代表详细披露了加拿大拒绝的贸易协议条款，随后加拿大总理宣布将对美国商品征收对等报复性关税。此次贸易战升级可能给两国消费者和企业带来新的经济压力，加剧通胀，并对北美自由贸易协定（USMCA）的未来蒙上阴影。其重要性在于，作为紧密邻国和主要贸易伙伴，双方冲突可能引发区域经济动荡，影响全球供应链和市场信心。",
+      "title": "美加贸易战升级，两国经济面临潜在冲击",
+      "summary": "美国与加拿大之间的贸易紧张关系正在迅速升级，两国谈判破裂后，特朗普政府的贸易代表详细披露了加拿大拒绝的美方提案。特朗普总统指责加拿大意图获取成为美国一州的“利益”，而加拿大则表示将采取报复性关税，并指责美国挑起贸易战。这一发展导致美国股指期货反应平淡，预示着这场针锋相对的贸易战可能对北美消费者和企业造成新的经济压力，推高物价。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/23/business/economy/greer-us-canada-trade-deal.html"
-        },
-        {
-          "name": "NYT Economy",
-          "url": "https://www.nytimes.com/2026/08/22/business/economy/trade-war-us-canada.html"
+          "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html"
         },
         {
           "name": "BBC Business",
@@ -18,13 +14,23 @@
         },
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "英伟达财报前瞻：作为AI热潮核心面临关键考验",
-      "summary": "英伟达公司即将发布财报，市场普遍认为其是当前人工智能（AI）热潮和整个股市的核心驱动力。此次财报被视为检验AI行业增长韧性和市场情绪的关键指标，因其表现将广泛影响与AI主题相关的公司。其重要性在于，英伟达作为半导体巨头和AI算力提供商，其业绩不仅反映自身业务状况，更直接牵动全球科技投资者的神经，可能引发AI板块的剧烈波动。",
+      "title": "欧洲企业盈利创多年最佳，经济复苏迹象显现",
+      "summary": "欧洲企业在近期财报季表现强劲，斯托克欧洲600指数成分公司的平均每股收益（EPS）同比增长18%，创下多年来的最佳表现。此前2024年和2025年该指数的盈利增长几乎停滞不前。这一显著的盈利增长可能表明欧洲经济正从低迷中走出来，得益于部分强势企业的带动，为投资者带来积极信号。这对于欧洲股市的信心恢复至关重要。",
+      "sources": [
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/has-the-european-turnaround-finally-arrived.html?utm_source=rss&utm_medium=rss&utm_campaign=has-the-european-turnaround-finally-arrived"
+        }
+      ]
+    },
+    {
+      "title": "英伟达财报在即，AI热潮与股市面临关键考验",
+      "summary": "作为人工智能（AI）热潮的核心，英伟达（Nvidia）即将于本周三公布财报，这被市场视为对当前AI繁荣以及整个股市的一次重大考验。英伟达的业绩不仅反映其自身的增长态势，更是对“非常广泛的”与AI主题相关的公司前景的风向标。投资者将密切关注其数据和未来指引，以评估AI投资泡沫是否可持续以及其对全球科技股的持续影响力。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
@@ -33,8 +39,8 @@
       ]
     },
     {
-      "title": "派拉蒙百亿美元收购华纳兄弟发现案面临多州监管诉讼",
-      "summary": "派拉蒙公司以1110亿美元收购华纳兄弟探索公司的交易，正面临加利福尼亚州及其他11个州的初步谈判和诉讼挑战，旨在阻止此项并购。这笔潜在的巨额交易及其受到的反垄断审查，凸显了美国监管机构对大型企业并购整合的严格立场。其重要性在于，此案结果将对传媒行业的未来格局产生深远影响，并为其他寻求大规模整合的公司设定监管先例，直接影响行业投资策略。",
+      "title": "派拉蒙百亿美元并购案遭遇监管阻力，美国多州寻求阻止",
+      "summary": "派拉蒙（Paramount）计划以1110亿美元收购华纳兄弟探索公司（Warner Bros. Discovery）的交易面临严峻挑战。加利福尼亚州与其他11个州已提起诉讼，旨在阻止这笔大型并购案。双方定于周一举行初步谈判，以寻求解决反垄断担忧。这起诉讼凸显了美国监管机构对大型企业合并的反垄断审查日益严格，可能对媒体行业的整合趋势产生深远影响。",
       "sources": [
         {
           "name": "NYT Business",
@@ -42,51 +48,63 @@
         },
         {
           "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html"
+          "url": "https://www.nytimes.com/2026/08/22/business/dealbook/paramount-california-warner-bros.html"
         }
       ]
     },
     {
-      "title": "全球经济适应高借贷成本：二十年低利率时代终结带来结构性风险",
-      "summary": "在经历了近二十年的超低利率后，全球最大经济体美国正面临一个快速调整期，其重要金融系统也将随之重构。长期低借贷成本的退出，可能对企业债务、房地产市场和政府财政造成冲击，带来前所未有的再适应挑战。其重要性在于，这一结构性变化不仅影响美联储的货币政策路径，也对全球资本流动和资产估值产生连锁反应，要求投资者重新评估风险与回报。",
+      "title": "快时尚巨头Shein上市受阻，全球监管与增长压力显现",
+      "summary": "中国快时尚巨头Shein正面临来自美国和欧洲的巨大压力，其增长前景受到挑战，导致其备受关注的首次公开募股（IPO）一再推迟。该公司正在努力寻找新的增长途径以应对这些外部压力。Shein的IPO困境反映了全球供应链和数据安全审查的日益严格，以及西方市场对中国企业的监管趋紧，这对其他计划在海外上市的中国公司也具有警示意义。",
       "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/22/business/bonds-borrowing-costs-economy.html"
-        },
         {
           "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/22/business/bonds-borrowing-costs-economy.html"
-        }
-      ]
-    },
-    {
-      "title": "欧洲企业盈利季节表现优异，预示经济可能迎来转机",
-      "summary": "欧洲企业近期经历了数年来最好的财报季，基准Stoxx Europe 600指数成分公司第二季度每股收益平均增长18%，显著高于前两年停滞不前的表现。这一积极信号表明欧洲企业盈利能力正在改善，可能预示着欧洲经济的触底反弹。其重要性在于，强劲的盈利数据可能重塑投资者对欧洲市场的信心，吸引资金回流，并对全球资产配置产生影响。",
-      "sources": [
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/has-the-european-turnaround-finally-arrived.html"
+          "url": "https://www.nytimes.com/2026/08/21/business/shein-ipo-questions.html"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Tyler Cowen",
-      "title": "AI宪法应保持简洁和适应性",
-      "summary": "观点：经济学家Tyler Cowen在Anthropic参与制定Claude AI宪法时强调，AI宪法应保持简洁、聚焦原则性问题，并具备高度可修改性，以适应AI技术的快速发展和未来难以预见的应用场景。他认为不应试图过度规定未来的AI行为，而是要避免其沦为一套僵化、不可更改的条文。这对于理解AI治理的哲学和实践有重要指导意义。",
+      "name": "Tyler Cowen (经济学家)",
+      "title": "他分享了访问Anthropic并参与AI“宪法”制定的经验，强调AI代理人仍需人类持续指导",
+      "summary": "原话：「在 Anthropic 参观期间，我参与了一个为 Claude 重新编写宪法的两天会议。受邀的小组非常优秀，我们得到了关键决策者认真对待，讨论质量很高。我强调的其中一点是：无论人们将『宪法』理解为何物，AI代理人往往需要指导或额外的上下文来完成任务，这要求人类几乎全天候保持可用。」观点：AI代理人虽然具有强大能力，但其工作流程中对人类指导的依赖性，将对未来AI应用的设计和管理带来重要启示。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
           "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html"
+        },
+        {
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-new-agentic-o-ring-world.html"
         }
       ]
     },
     {
-      "name": "Dr. Dre / Jimmy Iovine",
-      "title": "AI对音乐产业是利好，而非威胁",
-      "summary": "观点：音乐界传奇人物Dr. Dre和科技巨头Jimmy Iovine认为，人工智能对音乐产业而言是一项积极技术，而非威胁。他们强调，AI能够赋能创作者，拓展音乐制作的可能性。同时，两位还呼吁企业界加强合作，以更好地利用新技术并应对行业挑战。他们的观点为音乐行业在AI时代的转型提供了乐观视角，也影响着相关领域的投资情绪。",
+      "name": "Ben Carlson (投资评论员)",
+      "title": "他指出债券目前是“世界上最受厌恶的资产类别”",
+      "summary": "观点：知名投资评论员Ben Carlson在一篇文章中提出，债券当前被广泛视为“世界上最受厌恶的资产类别”。这反映了市场对当前固定收益投资表现的普遍负面情绪，以及对未来利率走势和通胀压力的担忧。这一观点对于投资者重新评估其资产配置策略具有参考价值，特别是在传统避险资产吸引力下降的背景下。",
+      "sources": [
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/08/the-most-hated-asset-class-in-the-world/"
+        }
+      ]
+    },
+    {
+      "name": "Barry Eichengreen (美国经济学家)",
+      "title": "他探讨了“去美元化”的现实及其对全球货币体系的影响",
+      "summary": "观点：美国著名经济学家Barry Eichengreen指出，当前关于“去美元化”的讨论与以往有所不同，全球正接近国际货币体系的重新洗牌。他认为，世界主要经济体的力量对比变化和地缘政治格局的演变，正在削弱美元的统治地位，预示着未来全球储备货币结构可能更加多元化。这对于高净值投资者理解国际汇率风险和资产配置至关重要。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/economy/china-economy/article/3364761/us-economist-barry-eichengreen-reality-de-dollarisation-and-next-currency-reshuffle?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Dre & Jimmy Iovine (科技与音乐界大佬)",
+      "title": "他们认为AI对音乐行业有利，并批评企业缺乏协作",
+      "summary": "观点：著名音乐制作人兼科技企业家Dr. Dre和Jimmy Iovine（Beats Electronics联合创始人）均表示，人工智能（AI）对音乐产业的发展具有积极作用，并能推动创新。同时，他们也批评了当前美国企业界缺乏足够的协作精神，认为这阻碍了整体创新和效率的提升。他们的观点结合了科技与商业洞察，对关注娱乐科技融合的投资者具有启发意义。",
       "sources": [
         {
           "name": "NYT Business",
@@ -95,9 +113,9 @@
       ]
     },
     {
-      "name": "Scott Kirby",
-      "title": "联合航空CEO展望行业巨额并购及AI在航空业的应用",
-      "summary": "观点：联合航空CEO Scott Kirby在接受采访时表示，航空公司正积极探索巨额并购机会以优化行业格局，同时高度关注人工智能在航空运营中的战略应用。他认为AI将进一步提升效率、改善客户体验。Kirby的言论不仅揭示了航空业未来潜在的整合趋势，也强调了AI技术在传统行业转型中的关键作用，为投资者提供了行业发展方向的线索。",
+      "name": "Scott Kirby (联合航空CEO)",
+      "title": "他正从JFK到AI宏观思考联合航空的未来发展",
+      "summary": "观点：联合航空首席执行官Scott Kirby在任职十年后，正在宏观层面构思其航空公司的未来发展战略，这包括了从纽约肯尼迪机场（JFK）的运营扩张到人工智能在航空业的潜在应用。他还提及了关于未来可能的大型航空并购交易的设想。这表明顶级航空企业正积极拥抱技术变革，并关注行业整合趋势，对航空业投资者是重要参考。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -108,68 +126,34 @@
   ],
   "macro": [
     {
-      "title": "英国能源行业呼吁政府加大对困难家庭的账单支持",
-      "summary": "英国能源行业机构Energy UK表示，当前对最需要帮助的家庭提供的能源账单支持不足，呼吁政府采取更多措施。在能源价格高企和生活成本压力的背景下，这一呼吁反映了社会福利与经济稳定之间的紧张关系。其重要性在于，能源危机和通胀对低收入群体影响尤甚，若问题无法妥善解决，可能加剧社会不平等，并对英国经济的整体消费能力和政治稳定性构成风险。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "美国财政部债券市场干预措施未达预期，市场承压",
-      "summary": "有分析指出，美国财政部旨在稳定债券市场的干预措施未能奏效，未能有效解决高达40万亿美元国债的市场挑战。这一情况表明，在利率上升和债务高企背景下，美国债券市场面临结构性压力。其重要性在于，若财政部无法有效管理国债问题，可能导致长期利率进一步攀升，增加政府借贷成本，并对全球金融市场造成波动，影响美元地位和投资组合稳定性。",
+      "title": "美国财政部债券市场干预效果不彰",
+      "summary": "美国财政部旨在稳定债券市场的干预措施似乎并未奏效，市场反馈表明其未能有效应对40万亿美元的国家债务问题。债券市场持续向财政部长斯科特·贝森特（Scott Bessent）传递信号，指出不能简单地忽视如此庞大的国债。为什么重要：预示着美国政府可能需要重新评估其财政和货币政策，甚至采取更强硬的措施来管理国债，这将对全球利率、通胀预期和投资者信心产生广泛影响。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories"
         }
       ]
-    },
-    {
-      "title": "欧洲加密货币交易所神秘崩溃，凸显行业监管挑战与风险",
-      "summary": "一家欧洲加密货币交易所的神秘崩溃事件，再次暴露出该行业作为犯罪活动磁石的风险，并解释了为何加密货币难以摆脱其负面声誉。此次事件凸显了加密市场在透明度、消费者保护和监管方面的缺失。其重要性在于，持续的负面事件不仅损害投资者信心，也可能促使全球监管机构采取更严厉的措施，从而影响整个加密货币市场的健康发展和未来投资前景。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html"
-        }
-      ]
     }
   ],
   "tech": [
     {
-      "title": "哈佛商学院推出由AI克隆教授授课的企业家课程",
-      "summary": "哈佛商学院推出了一门由其教职员工的AI克隆体授课的 $699 企业家训练营课程。此举标志着顶尖学府在教育领域对人工智能应用的积极探索，旨在以可扩展和创新的方式提供高质量教育。其重要性在于，这不仅体现了AI在个性化教育和效率提升方面的巨大潜力，也可能对传统教育模式和在线教育市场带来颠覆性影响，催生新的教育科技投资机会。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html"
-        }
-      ]
-    },
-    {
-      "title": "AI智能代理新趋势：企业寻求全天候监控和指导",
-      "summary": "随着AI智能代理在企业任务中的应用日益广泛，管理者正面临新的挑战，即需要全天候对这些代理进行指导和提供上下文。这种“智能代理O型环世界”的出现，预示着企业运营模式的根本性转变，对人力资源和技术基础设施提出更高要求。其重要性在于，它揭示了AI Agents部署的实际复杂性和成本，也指向了AI管理、监控和人机协作软件等新兴市场机会，对科技投资具有指导意义。",
+      "title": "Anthropic在AI“宪法”和代理人开发方面取得进展",
+      "summary": "经济学家Tyler Cowen访问Anthropic后透露，该公司在为其AI模型Claude构建“宪法”方面投入了高质量的讨论和指导。他特别强调，尽管AI代理人能力强大，但在执行任务时仍需人类不间断的引导和背景支持。为什么重要：揭示了顶级AI公司在AI伦理、安全以及人机协作前沿的探索深度，对未来AI应用的设计、风险管理和实际效能具有指导意义。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-new-agentic-o-ring-world.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html"
         },
         {
-          "name": "Hacker News Top",
-          "url": "https://munderdiffl.in/"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-new-agentic-o-ring-world.html"
         }
       ]
     },
     {
-      "title": "大型科技公司如何渗透美国教育系统",
-      "summary": "谷歌和微软等大型科技公司正凭借其资金、实力和广泛影响力，渗透并塑造美国教育供应链的几乎每一个环节。这种深度整合带来了效率提升，但也引发了对数据隐私、市场垄断和教育内容中立性的担忧。其重要性在于，这不仅反映了科技巨头在公共服务领域日益增长的权力，也提出了关于科技公司社会责任和未来教育模式发展的关键问题，值得投资者关注其潜在的监管风险和市场扩张模式。",
+      "title": "大型科技公司深入影响美国教育体系",
+      "summary": "谷歌和微软等大型科技公司正凭借其雄厚的资金、强大的实力和广泛的影响力，几乎渗透并左右了美国教育供应链的每一个环节。它们通过提供软硬件解决方案、数字教学平台以及教师培训等方式，深度介入学校的日常运作和课程设计。为什么重要：凸显了科技公司在公共服务领域的日益增长的权力，可能引发对数据隐私、教育公平、技术垄断以及教育内容被商业利益驱动的担忧。",
       "sources": [
         {
           "name": "NYT Business",
@@ -178,14 +162,38 @@
         {
           "name": "NYT DealBook",
           "url": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html"
+        }
+      ]
+    },
+    {
+      "title": "哈佛商学院推出AI克隆教授课程",
+      "summary": "哈佛商学院正尝试将人工智能技术融入教学，推出了一门为创业者设计的训练营课程，其中包含了由AI克隆的教职员工进行授课，每门课程售价699美元。这代表着高等教育机构对AI应用的一次大胆尝试。为什么重要：此举标志着AI技术在教育领域的深度融合，可能重塑未来的教学模式、教育成本结构，并引发关于知识产权、教学质量以及教师角色转变的讨论。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html"
+        }
+      ]
+    },
+    {
+      "title": "关于本地大型语言模型性能感知的剖析",
+      "summary": "一篇分析文章指出，用户在本地运行大型语言模型（LLM）时，往往会觉得这些模型比其真实能力更“笨”，这并非模型本身性能不足，而可能是由各种技术和人机交互因素导致的。例如，缺乏足够的上下文或优化不足的接口都可能影响用户体验。为什么重要：这一洞察有助于开发者优化LLM的部署和用户界面，同时帮助用户更准确地评估本地AI工具的效能，减少不必要的偏见。",
+      "sources": [
+        {
+          "name": "Hacker News Top",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "富国银行与花旗集团或趁监管放宽寻求大型区域银行并购",
-      "summary": "随着监管机构对大型银行并购的立场有所放松，富国银行和花旗集团被认为有机会收购大型区域银行。分析师已确定了五个潜在的并购目标。其重要性在于，若这两大银行能够成功进行此类并购，将显著改变美国银行业的竞争格局，有助于其扩大市场份额和业务范围，并可能带动区域银行板块的估值重估，对相关金融股的投资策略产生直接影响。",
+      "title": "富国银行和花旗集团或将寻求并购区域性银行",
+      "summary": "随着美国监管机构对大型银行并购态度趋向开放，富国银行和花旗集团被分析认为具备足够的空间和动力去收购大型区域性银行。有报告甚至列出了五家可能成为潜在目标的区域性银行。为什么重要：此举可能预示着美国银行业新一轮的整合浪潮，对区域性银行的估值、行业竞争格局以及金融稳定性都将产生显著影响，值得投资者密切关注。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -200,76 +208,52 @@
   ],
   "a_stocks": [
     {
-      "title": "华尔街在华影响力式微，中国市场对外资吸引力面临结构性变化",
-      "summary": "数十年来，华尔街巨头曾是中国“老朋友”，备受中国高层青睐。然而，当前这种与中国顶层领导的私人会晤已大幅减少，即使北京逐步开放资本市场，华尔街在华的影响力也日渐式微。其重要性在于，这反映出中美金融关系进入新阶段，西方资本在中国市场面临的挑战和不确定性增加，可能影响未来国际资本对中国资产的配置意愿，值得投资者警惕地缘政治风险对市场准入和投资回报的影响。",
+      "title": "华尔街与中国金融关系的微妙演变",
+      "summary": "几十年来，华尔街的金融巨头曾是中国的“老朋友”，受到高级官员的盛情款待，并获得与中国最高领导人接触的罕见机会。然而，尽管美国金融家们仍在访问中国并维持商业联系，但与最高领导人的私人会晤已大幅减少。为什么重要：这反映出中美两国在金融和商业领域关系的结构性变化，预示着西方资本在中国市场的投资策略和参与程度可能面临更深层次的调整，对中国资本市场未来的国际化进程有重要影响。",
       "sources": [
         {
           "name": "SCMP Business",
           "url": "https://www.scmp.com/business/banking-finance/article/3364838/wall-street-helped-build-modern-china-it-now-being-cast-aside?utm_source=rss_feed"
         }
       ]
-    },
-    {
-      "title": "中国车企继电动车主导后，将目标转向全混合动力车市场",
-      "summary": "在电动汽车技术和生产领域取得领先地位后，中国汽车制造商正将目光投向国际品牌主导的全混合动力（HEV）汽车市场，旨在进一步打破全球汽车行业的传统秩序。吉利和长安等公司已报告了混合动力车的出色销售业绩。其重要性在于，这显示了中国车企在全球汽车技术路径上的雄心，不仅巩固在新能源领域的优势，也可能改变传统燃油车市场的竞争格局，为相关供应链和技术创新带来新的投资机会。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/china-business/article/3364906/after-gaining-ev-dominance-chinese-carmakers-shift-goal-take-full-hybrid-behemoths?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "香港高端住宅市场受外籍退休人士青睐，需求有望增加",
-      "summary": "分析师预计，香港高端住宅市场将迎来更多交易，主要受大量外籍退休人士回流影响。这些退休人士被香港的低税环境和商业机会所吸引，选择在此地长期居住并置业。其重要性在于，这可能为香港的房地产市场注入新的活力，尤其是在高端物业领域，对外资流入和市场信心产生积极影响，为关注香港市场的投资者提供了新的考量因素。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/article/3364547/huge-influx-expat-retirees-projected-drive-hong-kongs-premium-home-demand?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "快时尚巨头Shein在上市前夕面临增长困境",
-      "summary": "快时尚巨头Shein在美欧市场面临增长压力，难以在迟迟未决的首次公开募股（IPO）前找到新的增长点。公司的业务模式、劳工问题和数据安全等一直受到审查，为其上市之路增添不确定性。其重要性在于，Shein的IPO困境不仅反映了全球快时尚行业面临的挑战，也凸显了新兴市场公司在国际资本市场寻求上市时可能遇到的地缘政治和ESG（环境、社会和公司治理）风险，值得投资者警惕。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/21/business/shein-ipo-questions.html"
-        }
-      ]
     }
   ],
   "business": [
     {
-      "title": "可口可乐秘密创新实验室探索自动化饮料制作",
-      "summary": "可口可乐公司正在其秘密创新实验室中，探索如何自动化“脏苏打”（dirty soda）和提神饮料的制作过程。此举旨在通过技术创新，提升饮料供应效率并可能扩大产品线，以应对麦当劳和温迪斯等长期客户在饮料业务上的拓展。其重要性在于，这显示了传统消费巨头利用自动化和AI技术来维持竞争优势、提高利润率的战略方向，对食品饮料行业的未来发展具有示范效应。",
+      "title": "美国初创公司为中东冲突提供低成本反无人机技术",
+      "summary": "佛罗里达州的初创公司Powerus正在成为反无人机技术的全球供应商，其低成本拦截器被特别提及用于解决“伊朗战争”中的需求。该公司通过与特定政治人物的合作及创新的商业模式，迅速发展成为国防科技领域的重要参与者。为什么重要：这揭示了新兴地缘政治冲突如何刺激特定技术产业的快速发展，以及小型创新公司在国防供应链中日益重要的角色，为投资者提供了关注高成长型防务科技的机会。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html"
+        }
+      ]
+    },
+    {
+      "title": "可口可乐通过创新实验室推动自动化和产品刷新",
+      "summary": "可口可乐公司在其秘密创新实验室中，正积极探索利用自动化技术来开发新的饮料产品，例如“脏苏打”和清爽剂等。此举旨在扩大其饮料产品线，并提升市场竞争力。为什么重要：这表明传统消费品巨头正在积极拥抱技术创新，通过自动化和研发来应对不断变化的市场需求，提升运营效率和产品创新速度，对快消品行业的未来发展趋势具有借鉴意义。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html"
         }
       ]
-    },
-    {
-      "title": "联合航空探讨未来战略及行业大型并购",
-      "summary": "联合航空正在评估其未来的战略方向，包括对波音737 Max 10订单的处理，以及可能进行的大型并购交易。公司面临的挑战是如何适应行业变化，优化机队配置和市场策略。其重要性在于，大型航空公司的战略调整，特别是并购意向，将直接影响航空业的竞争格局和市场整合进程，对飞机制造商的订单和航空运输板块的投资前景具有关键影响。",
-      "sources": [
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/23/united-airlines-boeing-737-max-10-seats.html"
-        },
-        {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html"
-        }
-      ]
     }
   ],
   "overlooked": [
     {
-      "title": "伊朗关联黑客被指控发动网络攻击导致英国电厂关闭",
-      "summary": "据报道，伊朗关联的黑客组织被指控在7月发动网络攻击，导致英国一处发电厂关闭。尽管英国政府表示国家能源系统未受影响，但此类事件凸显了关键基础设施面临的网络安全威胁日益严峻。其重要性在于，地缘政治紧张局势下，关键基础设施成为网络攻击目标，可能对国家安全和经济稳定构成潜在风险，促使政府和企业加大网络安全投入，为相关技术服务公司带来需求增长。",
+      "title": "加密货币行业持续面临信誉挑战，多位高管失踪加剧担忧",
+      "summary": "加密货币行业长期以来受困于其作为犯罪活动“磁石”的声誉，近期一名加密货币交易所老板失踪四年后，其继任者也随之消失，欧洲一家加密货币交易所的神秘倒闭更是进一步印证了这一担忧。为什么重要：加密货币市场的信任危机和监管漏洞依然是阻碍其主流化的重大障碍，这些事件加剧了投资者对平台安全性和透明度的担忧，可能导致更严格的监管审查和市场信心下降。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html"
+        }
+      ]
+    },
+    {
+      "title": "伊朗关联黑客被指控发动电厂网络攻击，关键基础设施面临威胁",
+      "summary": "有报道称，与伊朗有关联的黑客对一家发电厂发动了网络攻击，导致其一度关闭。尽管英国政府声明在攻击期间国家能源系统并未面临风险，但此类事件仍凸显了关键基础设施面临的日益严峻的网络安全威胁。为什么重要：地缘政治紧张局势正通过网络战的形式影响全球重要行业，尤其能源等关键基础设施，这增加了企业运营风险和国家安全成本，投资者需关注网络安全领域的投资机会及相关风险。",
       "sources": [
         {
           "name": "BBC Business",
@@ -278,12 +262,12 @@
       ]
     },
     {
-      "title": "美国初创公司为“伊朗战争”研发低成本反无人机技术",
-      "summary": "佛罗里达州的初创公司Powerus正致力于研发低成本反无人机技术，以应对潜在的“伊朗战争”需求，并已涉足全球供应商角色。该公司的发展模式涉及政商界关键人物及创新型商业策略。其重要性在于，这反映了地缘政治冲突对新兴防务技术需求的刺激，以及私营企业在国防创新中的作用。对于关注前沿技术和防务投资的投资者而言，此类初创公司的崛起预示着特定高科技领域的市场潜力。",
+      "title": "中国月球探测任务推迟至2027年，强调“绝对成功”",
+      "summary": "出于对任务“绝对成功”的严格要求，中国已决定将原计划的“嫦娥七号”月球探测任务推迟至2027年。官方表示，目前的任务条件尚不成熟。为什么重要：这一延迟反映了中国在航天领域对高标准和高成功率的追求，而非盲目追求速度。此举可能影响全球太空竞赛的短期节奏，但也预示着中国在未来太空探索中的审慎与实力，对关注航天科技和地缘政治竞争的投资者具有参考价值。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/"
         }
       ]
     }
