@@ -1,103 +1,114 @@
 {
   "top5": [
     {
-      "title": "中美贸易紧张局势升级，美国与加拿大或爆发全面贸易战",
-      "summary": "美国与加拿大之间的贸易谈判破裂，前美国贸易代表详细披露了加拿大拒绝的条件，导致两国可能走向一场全面的贸易战。市场对此反应平淡，但分析师警告称，美加之间的针锋相对可能给两国消费者和企业带来新的经济压力，影响北美供应链稳定和物价。",
+      "title": "美国加强对伊朗经济制裁，全球油价承压",
+      "summary": "美国财政部长斯科特·贝森特宣布，美国将对伊朗发起“有史以来最强大的金融攻势”，切断所有与伊朗的经济联系，并威胁隔离与伊朗有金融往来的国家。受此影响，国际油价下跌。此举加剧了中东地缘政治紧张局势，并可能对全球能源市场和与伊朗有贸易往来的国家产生深远影响，值得投资者密切关注。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html"
+          "url": "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html"
         },
         {
           "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/stock-futures-flat-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories"
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/article/us-iran-economy-sanctions-trade-trump-china.html"
         }
       ]
     },
     {
-      "title": "阿里巴巴发行102亿美元新股，加速AI战略布局",
-      "summary": "阿里巴巴集团宣布成功定价102亿美元的新股配售，以资助其不断增长的AI投资，成为中国科技公司在AI领域最大规模的募资行动之一。尽管此举导致其港股股价下跌约10%，但此次募资彰显了阿里巴巴在人工智能赛道上投入巨额资本、加速技术发展的决心，对中国AI产业格局具有重要影响。",
+      "title": "加拿大对美国关税采取报复措施，贸易战风险升级",
+      "summary": "加拿大总理马克·卡尼决定对美国关税实施报复性措施，此举受到中国赞扬，并暴露了美国政府内部的分歧。加美两国企业普遍对贸易战的升级感到担忧，部分公司预计业务将受到严重影响。这表明全球贸易紧张局势可能进一步加剧，对依赖国际供应链的企业构成风险，并可能影响全球经济增长前景。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/24/business/dealbook/canada-carney-tariffs-trump.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "阿里巴巴拟通过102亿美元配售融资，加速AI战略布局",
+      "summary": "阿里巴巴宣布进行一项规模达102亿美元的股票配售，以支持其日益增长的AI投资。受此消息影响，公司股价一度下跌10%。这表明全球科技巨头正在大规模投入资金争夺AI领域的领先地位，AI军备竞赛持续升温，对未来科技格局和相关公司估值产生关键影响。投资者需关注此类巨额融资对公司财务结构及未来增长潜力的影响。",
       "sources": [
         {
           "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html"
-        },
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/tech/big-tech/article/3365003/alibaba-sets-price-us102-billion-new-share-offer-fuel-ai-expansion?utm_source=rss_feed"
         }
       ]
     },
     {
-      "title": "快时尚巨头Shein拟在香港IPO，寻求最高17.6亿美元融资",
-      "summary": "全球快时尚巨头Shein正寻求在香港进行首次公开募股（IPO），目标募资高达17.6亿美元。此举是在其首次IPO计划被推迟四年后进行的，尽管面临美国和欧洲的增长压力，但此次上市仍显示出其寻求资本市场支持、进一步扩张全球业务的雄心，并可能成为香港市场的一项重要科技零售IPO。",
+      "title": "快时尚巨头Shein寻求270亿美元估值，即将港股上市",
+      "summary": "中国快时尚巨头Shein计划在9月1日于香港交易所挂牌上市，目标估值高达270亿美元。此次IPO是近年来亚洲市场最受瞩目的上市案之一，反映了投资者对新兴消费品牌和全球电商增长潜力的看好，也可能为香港资本市场带来新的活力。其估值和上市表现将成为观察快时尚行业及中国消费企业国际化进程的重要指标。",
       "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/21/business/shein-ipo-questions.html"
-        },
         {
           "name": "BBC Business",
           "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "全球债券市场剧烈波动，美债收益率攀升引发争议",
+      "summary": "尽管美债收益率已达多年高点，但策略师们对其是否已足够便宜以供买入存在分歧。有观点认为，财政部对债券市场的干预未能奏效，长期收益率仍有上行空间，这与二战后的市场格局类似。债券市场的动荡和对未来利率走向的争议，是当前宏观经济中最受关注的焦点之一，对全球资产配置和风险偏好产生直接影响。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/theyre-the-highest-theyve-been-in-years-but-are-bonds-cheap-enough-to-buy-here-two-strategists-disagree-348fe330?mod=mw_rss_topstories"
         },
         {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/markets/article/3365001/shein-seeks-raise-us176-billion-hong-kong-initial-public-offering?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "中国闪存巨头长江存储母公司筹备上海科创板IPO",
-      "summary": "中国NAND闪存制造商长江存储（YMTC）的母公司CCSH Corporation正准备在上海科创板上市，计划出售10%至12%的扩大股本。此次IPO有望成为中国半导体行业又一个创纪录的上市，凸显了中国在关键技术领域实现自给自足的战略，以及对国内资本市场的依赖，对于关注中国科技自主化进程的投资者而言意义重大。",
-      "sources": [
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories"
+        },
         {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/tech/big-tech/article/3365017/can-chinas-flash-memory-giant-ymtc-smash-shanghai-star-market-ipo-records?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "派拉蒙与加州就华纳兄弟收购案进行初步谈判",
-      "summary": "派拉蒙公司与加州及其他11个州将于周一举行初步谈判，以解决阻止派拉蒙以1110亿美元收购华纳兄弟探索公司（Warner Bros. Discovery）的诉讼。这标志着娱乐行业一项重大并购案的监管阻力进入关键阶段，其结果将对美国媒体巨头的未来整合趋势产生深远影响。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-post-world-war-ii-market-shift-is-here-and-bond-yields-could-have-higher-to-go-says-morgan-stanley-9381532c?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Tyler Cowen",
-      "title": "对AI公司Anthropic的“宪法”制定提出关键建议",
-      "summary": "观点：经济学家Tyler Cowen最近参与了对AI公司Anthropic的Claude模型“宪法”重写指导会议。他强调，AI宪法不能仅仅是一套固定规则，而应具有动态性和可修订性，需要通过实际使用和经验来不断进化，甚至包含自我修正的机制。这对于理解AI治理的复杂性和未来发展方向至关重要。",
+      "name": "Ben Thompson (Stratechery)",
+      "title": "AI自主性与网络安全：进攻方占优，初创公司具优势",
+      "summary": "观点：在自主性AI时代，网络安全领域中，进攻方的激励机制优于防守方。他认为，这种动态将长期限制现有巨头，并为初创企业提供发展动力。这意味着AI驱动的网络安全将迎来重大变革，且颠覆性创新可能更多来自新兴企业。",
+      "sources": [
+        {
+          "name": "Stratechery (Ben Thompson)",
+          "url": "https://stratechery.com/2026/autonomy-and-innovation/"
+        }
+      ]
+    },
+    {
+      "name": "Tyler Cowen (Marginal Revolution)",
+      "title": "访问Anthropic，讨论AI '宪法' 制定挑战",
+      "summary": "观点： Tyler Cowen 参加了Anthropic关于重写AI模型Claude '宪法' 的两天研讨会，并强调了制定此类规则的复杂性，指出AI的“宪法”不应被视为固定文本，而应是动态调整的框架。这突显了AI伦理和治理的艰巨性，以及科技领袖对此问题的深思。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html"
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html?utm_source=rss&utm_medium=rss&utm_campaign=my-recent-visit-to-anthropic"
         }
       ]
     },
     {
-      "name": "Ben Carlson",
-      "title": "债券是当前“最被憎恨的资产类别”",
-      "summary": "观点：知名投资博主Ben Carlson指出，由于近期表现不佳，债券目前是全球“最被憎恨的资产类别”。然而，他警告投资者不要过度受近期表现影响而产生逆向情绪，这可能导致错失未来的投资机会。其观点提醒投资者警惕市场情绪驱动的决策。",
+      "name": "Scott Bessent (US Treasury Secretary)",
+      "title": "美国财政部将对伊朗发动“史上最强金融攻势”",
+      "summary": "原话：「我们正在对伊朗展开有史以来最强大的金融攻势。」贝森特表示，美国将切断所有与伊朗的经济往来，并孤立任何与伊朗进行金融合作的国家。这预示着美国对伊朗施压的决心和力度将空前加强，对全球地缘政治和能源市场构成显著影响。",
       "sources": [
         {
-          "name": "A Wealth of Common Sense (Ben Carlson)",
-          "url": "https://awealthofcommonsense.com/2026/08/the-most-hated-asset-class-in-the-world/"
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "name": "Dr. Dre / Jimmy Iovine",
-      "title": "认为人工智能对音乐产业是积极力量",
-      "summary": "观点：音乐界巨头Dr. Dre和Jimmy Iovine对人工智能持乐观态度，认为AI“对音乐是好事”。他们对AI在创意产业中的颠覆性潜力表现出积极接纳的态度，这对于理解AI对娱乐行业的长远影响，尤其是版权、创作流程和商业模式的演变，提供了重要视角。",
+      "name": "Dr. Dre & Jimmy Iovine",
+      "title": "人工智能对音乐产业是利好",
+      "summary": "观点：音乐界传奇人物Dr. Dre和Jimmy Iovine认为，人工智能对音乐产业来说是积极的力量。他们同时还分享了对美国企业界缺乏协作的看法。这表明即使是传统创意产业的领军人物也对AI持开放态度，预示着AI在内容创作领域的应用将进一步深化。",
       "sources": [
         {
           "name": "NYT Business",
@@ -106,9 +117,9 @@
       ]
     },
     {
-      "name": "Scott Kirby",
-      "title": "美联航CEO展望航空业未来，提及AI和大型交易",
-      "summary": "观点：美联航CEO Scott Kirby在一次广泛采访中，表达了对航空业未来的宏大构想，包括潜在的行业大型并购交易和AI技术的应用。他的言论表明，即使在传统行业，AI和战略性整合也将是未来发展的关键驱动力，预示着航空业可能迎来重大变革。",
+      "name": "Scott Kirby (United Airlines CEO)",
+      "title": "联合航空CEO展望未来：从JFK机场扩张到AI应用",
+      "summary": "观点：联合航空首席执行官斯科特·柯比在一次深度采访中，畅谈了公司未来的宏大计划，包括在JFK机场的扩张、潜在的航空业大型并购，以及人工智能在航空运营中的应用前景。这反映了传统行业领军者在面对技术变革和市场竞争时的战略思考，AI技术正在渗透并重塑各行各业。",
       "sources": [
         {
           "name": "CNBC Business",
@@ -117,47 +128,36 @@
       ]
     },
     {
-      "name": "Jamieson Greer",
-      "title": "披露美国对加拿大贸易提议遭拒细节",
-      "summary": "原话：「在接受采访时，Jamieson Greer（特朗普总统的贸易代表）详细阐述了在谈判破裂前，美国向加拿大提出的条件。」他的言论明确了美加贸易争端中，美国方面的立场和谈判细节，预示着两国贸易关系将面临进一步的紧张和不确定性，对北美贸易格局产生影响。",
+      "name": "Morgan Stanley (策略师)",
+      "title": "市场正经历二战后转型，债券收益率可能继续走高",
+      "summary": "观点：摩根士丹利认为，当前市场正经历类似于二战后的重大结构性转变，这意味着债券收益率仍有进一步上升的空间。他们建议投资者关注具有高市值、优质业绩表现的股票，以及积极采用人工智能技术的公司和标普500指数。这一观点对长期资产配置策略具有重要参考价值。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html"
-        }
-      ]
-    },
-    {
-      "name": "SCMP分析师",
-      "title": "全球投资市场波动性将持续多年",
-      "summary": "观点：有分析师指出，除非全球经济衰退来临，否则投资市场的波动性将持续“多年”。这一观点强调，人工智能发展和地缘政治风险带来的不确定性将成为常态，投资者应做好准备应对更频繁的市场震荡，而非期待短期内恢复稳定。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/money/markets-investing/article/3365002/investment-market-volatility-here-stay-unless-global-recession-strikes-analyst?utm_source=rss_feed"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/the-post-world-war-ii-market-shift-is-here-and-bond-yields-could-have-higher-to-go-says-morgan-stanley-9381532c?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "macro": [
     {
-      "title": "美加贸易战风险上升，影响北美经济",
-      "summary": "美国与加拿大之间的贸易谈判破裂，特朗普政府的贸易代表Jamieson Greer详细披露了被加拿大拒绝的贸易条件，这表明两国正走向一场潜在的全面贸易战。经济学家警告，此类冲突可能导致消费者和企业面临更高的物价和供应链中断，对北美经济稳定构成威胁。",
+      "title": "英国应届毕业生职位空缺一年内下降近五成",
+      "summary": "一份最新调查显示，英国应届毕业生的职位空缺在过去一年中下降了近50%，达到自2016年以来的最低水平。这一数据反映了劳动力市场，特别是初级岗位面临的挑战，可能预示着经济增长放缓的趋势，对整体就业市场和消费者信心产生负面影响。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html"
-        },
-        {
           "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "美国财政部债券市场干预措施被指无效",
-      "summary": "有报道称，美国财政部在债券市场的干预措施未能奏效，这引发了市场对美国40万亿美元国债未来管理方式的疑问。这一进展对债券市场稳定性至关重要，可能预示着未来财政政策和市场预期将面临调整。",
+      "title": "债券收益率达多年新高，市场策略师对买入时机存争议",
+      "summary": "目前债券收益率已达到多年来的最高水平，但市场策略师对于当前是否是买入债券的合适时机存在分歧。巴克莱认为债券估值合理但尚未便宜，而另有观点指出美国财政部对债券市场的干预效果不佳，收益率可能进一步走高。这反映了市场对未来通胀和利率走势的不确定性，对投资者的固定收益配置策略构成挑战。",
       "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/theyre-the-highest-theyve-been-in-years-but-are-bonds-cheap-enough-to-buy-here-two-strategists-disagree-348fe330?mod=mw_rss_topstories"
+        },
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories"
@@ -165,159 +165,198 @@
       ]
     },
     {
-      "title": "投资者需适应长期市场高波动性",
-      "summary": "一家主要私人银行的分析师预测，除非全球经济陷入衰退，否则受人工智能发展和地缘政治风险的不确定性影响，未来几年投资市场的波动性将持续较高。这一预测意味着投资者需要重新评估风险偏好和资产配置策略，适应一个更为动荡的市场环境。",
+      "title": "杰克逊霍尔会议临近，市场关注美联储政策信号",
+      "summary": "在即将到来的美联储杰克逊霍尔年度研讨会和英伟达财报发布前夕，市场正密切关注潜在的重大动向。杰克逊霍尔会议通常是美联储官员就货币政策和经济展望发表重要讲话的场合，其信号将直接影响市场对未来利率路径和宏观经济走向的预期，对投资者情绪和资产价格波动至关重要。",
       "sources": [
         {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/money/markets-investing/article/3365002/investment-market-volatility-here-stay-unless-global-recession-strikes-analyst?utm_source=rss_feed"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/here-are-two-trades-to-make-ahead-of-a-critical-week-for-markets-as-nvidia-results-and-jackson-hole-loom-8ac3653c?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "人民币和港元债券发行量激增，应对美元融资成本上升",
-      "summary": "渣打银行高管表示，随着美元融资成本的上升，发行人正转向以人民币或港元计价的债券以寻求更低的借贷成本，预计今年下半年香港和中国内地将继续看到这类债券发行量的增长。这反映出区域资本市场在应对全球利率环境变化时的结构性调整。",
+      "title": "美国贸易代表透露对加拿大贸易协议细节",
+      "summary": "美国总统特朗普的首席贸易代表詹姆森·格里尔在采访中，披露了美国在贸易谈判破裂前向加拿大提出的具体条件。这表明美加贸易关系依然紧张，未来贸易摩擦仍存变数。对于两国经济和相关产业而言，贸易政策的不确定性是当前面临的主要风险之一。",
       "sources": [
         {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/banking-finance/article/3364976/yuan-hong-kong-dollar-bonds-surge-issuers-seek-cheaper-funding-amid-rising-us-costs?utm_source=rss_feed"
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html"
+        }
+      ]
+    },
+    {
+      "title": "美国制裁伊朗或影响全球多国经济",
+      "summary": "美国威胁对与伊朗有业务往来的国家实施经济制裁，旨在进一步向德黑兰施压以结束战争。这可能对包括中国在内的多个与伊朗有贸易关系的国家造成冲击。投资者需警惕潜在的供应链中断和贸易流向变化，以及由此可能引发的区域经济不稳定性。",
+      "sources": [
+        {
+          "name": "NYT Economy",
+          "url": "https://www.nytimes.com/article/us-iran-economy-sanctions-trade-trump-china.html"
         }
       ]
     }
   ],
   "tech": [
     {
-      "title": "阿里巴巴斥资102亿美元加码AI，加速技术发展",
-      "summary": "阿里巴巴通过发行新股募集102亿美元，专门用于其日益增长的AI投资，成为中国科技巨头在人工智能领域投入的重大资金。此举表明阿里巴巴正全力以赴抢占AI高地，加速技术创新和应用落地，将对中国乃至全球AI竞争格局产生深远影响。",
+      "title": "自主AI代理的“O形圈世界”：高投入与高风险并存",
+      "summary": "AI代理在执行任务时常需人工指导或额外语境，导致开发者需全天候待命，放弃正常作息。由于远程监控能力的缺失，AI代理的运行成本和风险极高。这揭示了AI代理虽潜力巨大，但其可靠性、管理复杂性和潜在的系统性风险，对企业应用和投资决策提出新的挑战。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html"
-        },
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/tech/big-tech/article/3365003/alibaba-sets-price-us102-billion-new-share-offer-fuel-ai-expansion?utm_source=rss_feed"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-new-agentic-o-ring-world.html?utm_source=rss&utm_medium=rss&utm_campaign=the-new-agentic-o-ring-world"
         }
       ]
     },
     {
-      "title": "中国内蒙古小城转型为AI算力中心",
-      "summary": "曾以畜牧业闻名的内蒙古乌兰察布市，正迅速转型成为中国的人工智能计算燃料供应地。随着全球AI热潮推动算力需求激增，该市依托其凉爽气候和能源优势，大力发展数据中心产业。这体现了中国在AI基础设施建设方面的战略布局，以及将非传统区域纳入高科技发展版图的趋势。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/tech/tech-trends/article/3364920/rural-city-once-known-livestock-now-provides-chinas-ai-computing-fuel?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "英伟达财报将成AI繁荣和股市的关键测试",
-      "summary": "作为人工智能热潮的核心和股市的风向标，英伟达即将发布的财报被视为一个重要的市场测试。鉴于其在AI芯片领域的垄断地位，英伟达的业绩表现将直接影响市场对AI产业前景的信心，并可能进一步引导整体股市的走向。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "哈佛商学院推出由AI克隆教授授课的课程",
-      "summary": "哈佛商学院推出一门售价699美元的创业课程，其特点是由该校教职员工的AI克隆体授课。这一创新举措标志着AI在高等教育领域应用的重大进展，可能预示着教育内容交付方式的未来趋势，并引发对教师角色和教育模式变革的讨论。",
+      "title": "大型科技公司渗透美国教育系统，影响日益加深",
+      "summary": "谷歌和微软等科技巨头正通过资金、影响力和广泛覆盖，深入影响美国教育供应链的几乎每个环节。这引发了对数据隐私、教育公平以及科技公司在公共服务领域主导地位的担忧。投资者需关注科技公司在教育领域的扩张模式，以及可能引发的监管审查和市场反应。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html"
+          "url": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html"
+        },
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html"
+        }
+      ]
+    },
+    {
+      "title": "流媒体巨头争相打造“一站式”应用平台",
+      "summary": "Netflix、YouTube和亚马逊等流媒体公司正竞相将所有内容和服务整合到各自的应用中，以实现用户订阅HBO Max等服务的功能。这一趋势旨在提升用户粘性，巩固平台生态系统。此举可能改变流媒体市场的竞争格局，对内容创作者、分发渠道以及用户付费习惯产生重要影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/24/business/media/amazon-youtube-netflix-streaming-platform.html"
+        }
+      ]
+    },
+    {
+      "title": "儿童学习语言能力超越AI，原因尚不明朗",
+      "summary": "研究发现，儿童学习人类语言的能力仍远超人工智能模型，尽管LLM（大型语言模型）能处理海量数据。一个人类儿童在习得语言完美流利度方面仍是独特的。这一现象表明人类大脑在学习机制上的独特优势，也提醒研究者AI发展仍面临深层理论挑战，对于AI的未来潜力和应用边界提供思考。",
+      "sources": [
+        {
+          "name": "MIT Tech Review",
+          "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
+        }
+      ]
+    },
+    {
+      "title": "中国因“绝对成功”要求推迟关键探月任务至2027年",
+      "summary": "中国因需要“绝对成功”而将嫦娥七号探月任务推迟至2027年。这一决定反映了中国在航天领域的严谨态度和对任务成功的极高要求。探月任务的延迟可能影响全球太空探索合作计划和相关供应链，但其背后是对技术完善和任务成功率的重视，对中国长期空间战略而言可能更为有利。",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "派拉蒙与华纳兄弟探索公司合并案面临加州诉讼挑战",
-      "summary": "加州及其他11个州已提起诉讼，试图阻止派拉蒙以1110亿美元收购华纳兄弟探索公司。周一，双方将举行初步谈判，以寻求解决方案。此案是美国媒体行业近年来规模最大的并购案之一，其进展将直接影响两家公司股价及整个行业的整合趋势。",
+      "title": "派拉蒙与华纳兄弟探索公司并购案受阻，媒体行业并购活动或降温",
+      "summary": "派拉蒙与华纳兄弟探索公司拟议的并购案因反垄断诉讼而延期，这可能导致整个媒体行业的并购活动趋于停滞。监管机构对大型媒体交易的审查日益严格，意味着未来行业整合将面临更大挑战。投资者需警惕并购活动放缓对媒体公司估值和战略发展的影响。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html"
         }
       ]
     },
     {
-      "title": "富国银行和花旗集团或将收购大型区域银行",
-      "summary": "随着监管机构为大型并购敞开大门，富国银行和花旗集团被认为有空间收购大型区域银行。报告中点名了五家潜在的区域银行目标。这一动向预示着美国银行业可能迎来一轮整合浪潮，对区域银行板块及大型银行的市场份额产生显著影响。",
+      "title": "富国银行和花旗集团或并购大型区域性银行",
+      "summary": "随着监管机构对大型银行并购态度趋于开放，富国银行和花旗集团有空间收购大型区域性银行。目前有五家区域性银行被认为是潜在的收购目标。这一趋势可能重塑美国银行业格局，促使区域性银行板块出现整合，对相关银行的股价和行业竞争力带来影响。",
       "sources": [
         {
           "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html"
+        },
+        {
+          "name": "CNBC Finance",
           "url": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html"
         }
       ]
     },
     {
-      "title": "英伟达财报在即，市场关注AI热潮持续性",
-      "summary": "作为驱动当前人工智能热潮和股市上涨的核心力量，英伟达即将公布其季度财报。这份财报被广泛视为对AI产业健康状况和未来走势的关键考验，其业绩表现将直接影响投资者对科技股的信心和市场整体风险偏好。",
+      "title": "SpaceX等六支股票受对冲基金和共同基金共同青睐",
+      "summary": "最新数据显示，SpaceX是少数几支同时受到对冲基金和共同基金青睐的股票之一，其明年预期市盈率高达93倍。这种跨类别资金的共同持仓，在一定程度上反映了市场对这些高增长潜力公司的共识，也可能预示着它们在短期和长期均有较强表现，值得投资者关注。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/there-are-six-stocks-that-hedge-funds-and-mutual-funds-are-both-overweight-and-spacex-is-one-2a17ffb1?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "英伟达财报发布在即，市场高度关注其业绩表现",
+      "summary": "本周市场焦点之一是英伟达即将发布的财报。作为人工智能芯片领域的领导者，英伟达的业绩将对整个科技板块乃至大盘产生显著影响。投资者正密切关注其营收、利润和未来指引，以评估AI热潮的持续性及其对半导体行业的推动作用。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/here-are-two-trades-to-make-ahead-of-a-critical-week-for-markets-as-nvidia-results-and-jackson-hole-loom-8ac3653c?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "a_stocks": [
     {
-      "title": "阿里巴巴成功融资102亿美元，全力押注AI",
-      "summary": "阿里巴巴集团通过一笔102亿美元的新股配售，成功为AI业务扩张筹集了巨额资金。尽管配售消息发布后股价下跌，但市场普遍认为，此举凸显了阿里巴巴在AI领域的战略决心和资本投入，将为其在与国内外AI巨头的竞争中提供强劲动力。",
+      "title": "中国造车新势力小鹏汽车机器人部门融资9亿美元，挑战特斯拉具身智能领域",
+      "summary": "尽管第二季度亏损扩大，中国电动汽车制造商小鹏汽车的机器人部门Dogotix仍获得了包括阿里巴巴和IDG资本在内的9亿美元融资，估值达到63亿美元。这标志着中国机器人制造商单笔私募股权交易规模之最。此次融资将助力小鹏在具身智能领域挑战特斯拉，显示出中国在AI和智能硬件领域的巨大投入和竞争野心。",
       "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html"
-        },
-        {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/tech/big-tech/article/3365003/alibaba-sets-price-us102-billion-new-share-offer-fuel-ai-expansion?utm_source=rss_feed"
+          "url": "https://www.scmp.com/business/china-evs/article/3365096/ev-maker-xpeng-set-challenge-tesla-embodied-ai-after-robotics-unit-raises-us900m?utm_source=rss_feed"
         }
       ]
     },
     {
-      "title": "Shein计划在香港IPO，寻求最高17.6亿美元融资",
-      "summary": "全球快时尚巨头Shein正在筹备在香港进行首次公开募股，目标是募集高达17.6亿美元。此项备受关注的上市计划在经历多次延期后重启，显示出其在面对国际压力的同时，仍在积极寻求资本市场支持以加速全球扩张，其估值和市场表现将成为行业焦点。",
-      "sources": [
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/21/business/shein-ipo-questions.html"
-        },
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/markets/article/3365001/shein-seeks-raise-us176-billion-hong-kong-initial-public-offering?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "长江存储母公司拟登陆上海科创板，推动中国半导体自主化",
-      "summary": "中国闪存领导者长江存储的母公司CCSH Corporation正准备在上海科创板进行IPO，计划发行高达24.3亿股。这笔交易有望成为中国半导体行业的又一个里程碑式上市，对增强中国在NAND闪存领域的自主创新能力和市场竞争力具有战略意义。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/tech/big-tech/article/3365017/can-chinas-flash-memory-giant-ymtc-smash-shanghai-star-market-ipo-records?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "title": "特斯拉因“隐藏式门把手”在中国召回近300万辆汽车",
-      "summary": "特斯拉在中国市场召回了近300万辆汽车，原因是其独特的“隐藏式门把手”设计存在潜在风险。此次大规模召回对特斯拉在华业务和品牌声誉构成不小挑战，也反映了中国汽车监管机构对安全标准的严格要求。",
+      "title": "特斯拉在中国召回近300万辆汽车，涉及隐藏式门把手风险",
+      "summary": "特斯拉因隐藏式门把手问题，在中国召回了近300万辆汽车。此次召回也涉及小鹏、小米和吉利等其他中国汽车制造商。大规模召回对消费者信心和汽车品牌形象可能造成冲击，也提示了新能源汽车在设计和安全标准方面仍需加强，对相关产业链和市场竞争格局产生影响。",
       "sources": [
         {
           "name": "BBC Business",
           "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss"
         }
       ]
+    },
+    {
+      "title": "拼多多母公司PDD Holdings业绩超预期，股价上涨",
+      "summary": "拼多多母公司PDD Holdings公布了截至6月30日的第二季度财报，尽管净利润同比下降12%，但业绩仍超出华尔街预期，推动股价上涨。这反映了公司在激烈的电商市场竞争中依然展现出韧性，其增长策略和市场表现对中国电商行业的未来发展具有参考意义。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/temu-owners-shares-rise-as-results-beat-estimates-despite-tumbling-profits-18cf74ea?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "阿里巴巴斥资百亿美元配售股份，强化AI领域布局",
+      "summary": "阿里巴巴宣布通过一项102亿美元的股票配售来筹集资金，以支持其在人工智能领域的战略投资。此举显示阿里巴巴正不遗余力地押注AI，以保持其在科技竞争中的领先地位。大规模的资本投入预示着公司未来业务重心的调整，对投资者而言，需关注其AI战略能否带来可持续的回报。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html"
+        }
+      ]
     }
   ],
-  "business": [],
-  "overlooked": [
+  "business": [
     {
-      "title": "美国初创公司研发低成本反无人机拦截技术",
-      "summary": "一家位于佛罗里达州的美国初创公司Powerus正在研发低成本的无人机拦截技术，旨在成为伊朗战争中反无人机技术的全球供应商。这一发展可能代表着现代战争防御技术的新趋势，并为国防工业带来新的市场机遇和结构性变化。",
+      "title": "UPS投资20亿美元拓展国际、医疗保健和供应链业务",
+      "summary": "全球物流巨头UPS独家向CNBC透露，公司计划投入超过20亿美元，用于拓展其国际、医疗保健和供应链业务。这项重大投资表明UPS正积极调整其全球战略，以应对不断变化的市场需求，尤其是在高增长潜力的医疗保健物流和全球供应链领域。此举有望提升公司竞争力，并对相关行业的未来发展产生影响。",
+      "sources": [
+        {
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/24/ups-global-logistics-investment.html"
+        }
+      ]
+    },
+    {
+      "title": "美国初创公司Powerus研发低成本反无人机技术，助力伊朗战争",
+      "summary": "一家名为Powerus的佛罗里达州初创公司，正在为伊朗战争开发低成本的反无人机技术，并寻求成为全球供应商。该公司的新型商业模式和与政界人物的合作，使其在国防技术领域迅速崛起。这反映出地缘冲突对军事技术创新和相关产业发展的新驱动力，对国防科技领域的投资者具有参考价值。",
       "sources": [
         {
           "name": "NYT Business",
@@ -326,22 +365,44 @@
       ]
     },
     {
-      "title": "警惕对带有“AI口音”内容的“偏见”",
-      "summary": "观点：评论员V. Rao指出，下意识地低估或驳斥带有“AI口音”的内容，类似于因为某人的口音而低估他们。这提示了一种新兴的认知偏见，即在人机交互中，人们可能因AI的特定表达方式而对其能力产生误判，这一现象值得科技界和心理学界关注。",
+      "title": "联合航空面临波音737 Max 10订单难题",
+      "summary": "联合航空多年前订购的波音737 Max 10机型认证一再延迟，导致其原计划在该机型上安装豪华平躺座椅的设想搁置。这使得联合航空面临如何处理这些订单的困境。航空公司的机队规划受飞机制造商交付延期影响，这不仅影响运营效率，也对航空公司的长期战略和财务状况构成挑战。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-581.html"
+          "name": "CNBC Business",
+          "url": "https://www.cnbc.com/2026/08/23/united-airlines-boeing-737-max-10-seats.html"
+        }
+      ]
+    }
+  ],
+  "overlooked": [
+    {
+      "title": "私人股本持有的保险公司将保费投资于高风险资产引发关注",
+      "summary": "针对洛杉矶道奇队老板马克·沃尔特商业帝国的联邦调查，将公众视线引向了私人股本持有的保险公司。这些公司将保费投资于高风险资产的行为受到关注。这一现象揭示了保险业中潜在的系统性风险和监管挑战，提醒投资者警惕私人股本模式下，保险资金的运用透明度及潜在风险敞口。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/24/business/mark-walter-insurance-dodgers-lakers.html"
         }
       ]
     },
     {
-      "title": "大科技公司对美国学校教育的深刻影响",
-      "summary": "谷歌和微软等大型科技公司正通过其资金、实力和巨大影响力，渗透并塑造美国教育供应链的几乎每一个环节。这一趋势揭示了科技巨头在教育领域日益增长的控制力，以及教育数字化背后潜在的利益和数据集中问题，可能对未来教育体系产生长远影响。",
+      "title": "对“AI口音”的低估与偏见",
+      "summary": "专家指出，当下社会存在一种现象，即人们会本能地低估带有AI“口音”的内容，并将其斥为“劣质品”。这与过去因口音或非主流腔调而低估他人的情况异曲同工。这种“AI口音偏见”可能阻碍AI技术的广泛接受和应用，也提醒人们在评估AI生成内容时需警惕潜在的非理性判断。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-581"
+        }
+      ]
+    },
+    {
+      "title": "债券：全球“最受憎恨”的资产类别",
+      "summary": "一份分析指出，在当前市场环境下，债券被视为全球“最受憎恨”的资产类别。这一表述反映了投资者对债券表现的普遍不满和对其未来前景的悲观情绪。这可能导致资金从债券市场流出，转向其他资产类别，进而影响全球资本流动和各类资产的相对估值。",
+      "sources": [
+        {
+          "name": "A Wealth of Common Sense (Ben Carlson)",
+          "url": "https://awealthofcommonsense.com/2026/08/the-most-hated-asset-class-in-the-world/"
         }
       ]
     }
