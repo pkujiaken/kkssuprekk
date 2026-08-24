@@ -1,8 +1,8 @@
 {
   "top5": [
     {
-      "title": "美加贸易战升级，两国经济面临潜在冲击",
-      "summary": "美国与加拿大之间的贸易紧张关系正在迅速升级，两国谈判破裂后，特朗普政府的贸易代表详细披露了加拿大拒绝的美方提案。特朗普总统指责加拿大意图获取成为美国一州的“利益”，而加拿大则表示将采取报复性关税，并指责美国挑起贸易战。这一发展导致美国股指期货反应平淡，预示着这场针锋相对的贸易战可能对北美消费者和企业造成新的经济压力，推高物价。",
+      "title": "中美贸易紧张局势升级，美国与加拿大或爆发全面贸易战",
+      "summary": "美国与加拿大之间的贸易谈判破裂，前美国贸易代表详细披露了加拿大拒绝的条件，导致两国可能走向一场全面的贸易战。市场对此反应平淡，但分析师警告称，美加之间的针锋相对可能给两国消费者和企业带来新的经济压力，影响北美供应链稳定和物价。",
       "sources": [
         {
           "name": "NYT Business",
@@ -14,75 +14,79 @@
         },
         {
           "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories"
+          "url": "https://www.marketwatch.com/story/stock-futures-flat-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories"
         }
       ]
     },
     {
-      "title": "欧洲企业盈利创多年最佳，经济复苏迹象显现",
-      "summary": "欧洲企业在近期财报季表现强劲，斯托克欧洲600指数成分公司的平均每股收益（EPS）同比增长18%，创下多年来的最佳表现。此前2024年和2025年该指数的盈利增长几乎停滞不前。这一显著的盈利增长可能表明欧洲经济正从低迷中走出来，得益于部分强势企业的带动，为投资者带来积极信号。这对于欧洲股市的信心恢复至关重要。",
+      "title": "阿里巴巴发行102亿美元新股，加速AI战略布局",
+      "summary": "阿里巴巴集团宣布成功定价102亿美元的新股配售，以资助其不断增长的AI投资，成为中国科技公司在AI领域最大规模的募资行动之一。尽管此举导致其港股股价下跌约10%，但此次募资彰显了阿里巴巴在人工智能赛道上投入巨额资本、加速技术发展的决心，对中国AI产业格局具有重要影响。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/has-the-european-turnaround-finally-arrived.html?utm_source=rss&utm_medium=rss&utm_campaign=has-the-european-turnaround-finally-arrived"
-        }
-      ]
-    },
-    {
-      "title": "英伟达财报在即，AI热潮与股市面临关键考验",
-      "summary": "作为人工智能（AI）热潮的核心，英伟达（Nvidia）即将于本周三公布财报，这被市场视为对当前AI繁荣以及整个股市的一次重大考验。英伟达的业绩不仅反映其自身的增长态势，更是对“非常广泛的”与AI主题相关的公司前景的风向标。投资者将密切关注其数据和未来指引，以评估AI投资泡沫是否可持续以及其对全球科技股的持续影响力。",
-      "sources": [
-        {
-          "name": "MarketWatch Top Stories",
-          "url": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories"
-        }
-      ]
-    },
-    {
-      "title": "派拉蒙百亿美元并购案遭遇监管阻力，美国多州寻求阻止",
-      "summary": "派拉蒙（Paramount）计划以1110亿美元收购华纳兄弟探索公司（Warner Bros. Discovery）的交易面临严峻挑战。加利福尼亚州与其他11个州已提起诉讼，旨在阻止这笔大型并购案。双方定于周一举行初步谈判，以寻求解决反垄断担忧。这起诉讼凸显了美国监管机构对大型企业合并的反垄断审查日益严格，可能对媒体行业的整合趋势产生深远影响。",
-      "sources": [
-        {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html"
         },
         {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/22/business/dealbook/paramount-california-warner-bros.html"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/tech/big-tech/article/3365003/alibaba-sets-price-us102-billion-new-share-offer-fuel-ai-expansion?utm_source=rss_feed"
         }
       ]
     },
     {
-      "title": "快时尚巨头Shein上市受阻，全球监管与增长压力显现",
-      "summary": "中国快时尚巨头Shein正面临来自美国和欧洲的巨大压力，其增长前景受到挑战，导致其备受关注的首次公开募股（IPO）一再推迟。该公司正在努力寻找新的增长途径以应对这些外部压力。Shein的IPO困境反映了全球供应链和数据安全审查的日益严格，以及西方市场对中国企业的监管趋紧，这对其他计划在海外上市的中国公司也具有警示意义。",
+      "title": "快时尚巨头Shein拟在香港IPO，寻求最高17.6亿美元融资",
+      "summary": "全球快时尚巨头Shein正寻求在香港进行首次公开募股（IPO），目标募资高达17.6亿美元。此举是在其首次IPO计划被推迟四年后进行的，尽管面临美国和欧洲的增长压力，但此次上市仍显示出其寻求资本市场支持、进一步扩张全球业务的雄心，并可能成为香港市场的一项重要科技零售IPO。",
       "sources": [
         {
           "name": "NYT DealBook",
           "url": "https://www.nytimes.com/2026/08/21/business/shein-ipo-questions.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/markets/article/3365001/shein-seeks-raise-us176-billion-hong-kong-initial-public-offering?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "中国闪存巨头长江存储母公司筹备上海科创板IPO",
+      "summary": "中国NAND闪存制造商长江存储（YMTC）的母公司CCSH Corporation正准备在上海科创板上市，计划出售10%至12%的扩大股本。此次IPO有望成为中国半导体行业又一个创纪录的上市，凸显了中国在关键技术领域实现自给自足的战略，以及对国内资本市场的依赖，对于关注中国科技自主化进程的投资者而言意义重大。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/tech/big-tech/article/3365017/can-chinas-flash-memory-giant-ymtc-smash-shanghai-star-market-ipo-records?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "派拉蒙与加州就华纳兄弟收购案进行初步谈判",
+      "summary": "派拉蒙公司与加州及其他11个州将于周一举行初步谈判，以解决阻止派拉蒙以1110亿美元收购华纳兄弟探索公司（Warner Bros. Discovery）的诉讼。这标志着娱乐行业一项重大并购案的监管阻力进入关键阶段，其结果将对美国媒体巨头的未来整合趋势产生深远影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html"
         }
       ]
     }
   ],
   "people": [
     {
-      "name": "Tyler Cowen (经济学家)",
-      "title": "他分享了访问Anthropic并参与AI“宪法”制定的经验，强调AI代理人仍需人类持续指导",
-      "summary": "原话：「在 Anthropic 参观期间，我参与了一个为 Claude 重新编写宪法的两天会议。受邀的小组非常优秀，我们得到了关键决策者认真对待，讨论质量很高。我强调的其中一点是：无论人们将『宪法』理解为何物，AI代理人往往需要指导或额外的上下文来完成任务，这要求人类几乎全天候保持可用。」观点：AI代理人虽然具有强大能力，但其工作流程中对人类指导的依赖性，将对未来AI应用的设计和管理带来重要启示。",
+      "name": "Tyler Cowen",
+      "title": "对AI公司Anthropic的“宪法”制定提出关键建议",
+      "summary": "观点：经济学家Tyler Cowen最近参与了对AI公司Anthropic的Claude模型“宪法”重写指导会议。他强调，AI宪法不能仅仅是一套固定规则，而应具有动态性和可修订性，需要通过实际使用和经验来不断进化，甚至包含自我修正的机制。这对于理解AI治理的复杂性和未来发展方向至关重要。",
       "sources": [
         {
           "name": "Marginal Revolution (Tyler Cowen)",
           "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html"
-        },
-        {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-new-agentic-o-ring-world.html"
         }
       ]
     },
     {
-      "name": "Ben Carlson (投资评论员)",
-      "title": "他指出债券目前是“世界上最受厌恶的资产类别”",
-      "summary": "观点：知名投资评论员Ben Carlson在一篇文章中提出，债券当前被广泛视为“世界上最受厌恶的资产类别”。这反映了市场对当前固定收益投资表现的普遍负面情绪，以及对未来利率走势和通胀压力的担忧。这一观点对于投资者重新评估其资产配置策略具有参考价值，特别是在传统避险资产吸引力下降的背景下。",
+      "name": "Ben Carlson",
+      "title": "债券是当前“最被憎恨的资产类别”",
+      "summary": "观点：知名投资博主Ben Carlson指出，由于近期表现不佳，债券目前是全球“最被憎恨的资产类别”。然而，他警告投资者不要过度受近期表现影响而产生逆向情绪，这可能导致错失未来的投资机会。其观点提醒投资者警惕市场情绪驱动的决策。",
       "sources": [
         {
           "name": "A Wealth of Common Sense (Ben Carlson)",
@@ -91,20 +95,9 @@
       ]
     },
     {
-      "name": "Barry Eichengreen (美国经济学家)",
-      "title": "他探讨了“去美元化”的现实及其对全球货币体系的影响",
-      "summary": "观点：美国著名经济学家Barry Eichengreen指出，当前关于“去美元化”的讨论与以往有所不同，全球正接近国际货币体系的重新洗牌。他认为，世界主要经济体的力量对比变化和地缘政治格局的演变，正在削弱美元的统治地位，预示着未来全球储备货币结构可能更加多元化。这对于高净值投资者理解国际汇率风险和资产配置至关重要。",
-      "sources": [
-        {
-          "name": "SCMP Business",
-          "url": "https://www.scmp.com/economy/china-economy/article/3364761/us-economist-barry-eichengreen-reality-de-dollarisation-and-next-currency-reshuffle?utm_source=rss_feed"
-        }
-      ]
-    },
-    {
-      "name": "Dr. Dre & Jimmy Iovine (科技与音乐界大佬)",
-      "title": "他们认为AI对音乐行业有利，并批评企业缺乏协作",
-      "summary": "观点：著名音乐制作人兼科技企业家Dr. Dre和Jimmy Iovine（Beats Electronics联合创始人）均表示，人工智能（AI）对音乐产业的发展具有积极作用，并能推动创新。同时，他们也批评了当前美国企业界缺乏足够的协作精神，认为这阻碍了整体创新和效率的提升。他们的观点结合了科技与商业洞察，对关注娱乐科技融合的投资者具有启发意义。",
+      "name": "Dr. Dre / Jimmy Iovine",
+      "title": "认为人工智能对音乐产业是积极力量",
+      "summary": "观点：音乐界巨头Dr. Dre和Jimmy Iovine对人工智能持乐观态度，认为AI“对音乐是好事”。他们对AI在创意产业中的颠覆性潜力表现出积极接纳的态度，这对于理解AI对娱乐行业的长远影响，尤其是版权、创作流程和商业模式的演变，提供了重要视角。",
       "sources": [
         {
           "name": "NYT Business",
@@ -113,115 +106,218 @@
       ]
     },
     {
-      "name": "Scott Kirby (联合航空CEO)",
-      "title": "他正从JFK到AI宏观思考联合航空的未来发展",
-      "summary": "观点：联合航空首席执行官Scott Kirby在任职十年后，正在宏观层面构思其航空公司的未来发展战略，这包括了从纽约肯尼迪机场（JFK）的运营扩张到人工智能在航空业的潜在应用。他还提及了关于未来可能的大型航空并购交易的设想。这表明顶级航空企业正积极拥抱技术变革，并关注行业整合趋势，对航空业投资者是重要参考。",
+      "name": "Scott Kirby",
+      "title": "美联航CEO展望航空业未来，提及AI和大型交易",
+      "summary": "观点：美联航CEO Scott Kirby在一次广泛采访中，表达了对航空业未来的宏大构想，包括潜在的行业大型并购交易和AI技术的应用。他的言论表明，即使在传统行业，AI和战略性整合也将是未来发展的关键驱动力，预示着航空业可能迎来重大变革。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html"
         }
       ]
+    },
+    {
+      "name": "Jamieson Greer",
+      "title": "披露美国对加拿大贸易提议遭拒细节",
+      "summary": "原话：「在接受采访时，Jamieson Greer（特朗普总统的贸易代表）详细阐述了在谈判破裂前，美国向加拿大提出的条件。」他的言论明确了美加贸易争端中，美国方面的立场和谈判细节，预示着两国贸易关系将面临进一步的紧张和不确定性，对北美贸易格局产生影响。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html"
+        }
+      ]
+    },
+    {
+      "name": "SCMP分析师",
+      "title": "全球投资市场波动性将持续多年",
+      "summary": "观点：有分析师指出，除非全球经济衰退来临，否则投资市场的波动性将持续“多年”。这一观点强调，人工智能发展和地缘政治风险带来的不确定性将成为常态，投资者应做好准备应对更频繁的市场震荡，而非期待短期内恢复稳定。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/money/markets-investing/article/3365002/investment-market-volatility-here-stay-unless-global-recession-strikes-analyst?utm_source=rss_feed"
+        }
+      ]
     }
   ],
   "macro": [
     {
-      "title": "美国财政部债券市场干预效果不彰",
-      "summary": "美国财政部旨在稳定债券市场的干预措施似乎并未奏效，市场反馈表明其未能有效应对40万亿美元的国家债务问题。债券市场持续向财政部长斯科特·贝森特（Scott Bessent）传递信号，指出不能简单地忽视如此庞大的国债。为什么重要：预示着美国政府可能需要重新评估其财政和货币政策，甚至采取更强硬的措施来管理国债，这将对全球利率、通胀预期和投资者信心产生广泛影响。",
+      "title": "美加贸易战风险上升，影响北美经济",
+      "summary": "美国与加拿大之间的贸易谈判破裂，特朗普政府的贸易代表Jamieson Greer详细披露了被加拿大拒绝的贸易条件，这表明两国正走向一场潜在的全面贸易战。经济学家警告，此类冲突可能导致消费者和企业面临更高的物价和供应链中断，对北美经济稳定构成威胁。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "美国财政部债券市场干预措施被指无效",
+      "summary": "有报道称，美国财政部在债券市场的干预措施未能奏效，这引发了市场对美国40万亿美元国债未来管理方式的疑问。这一进展对债券市场稳定性至关重要，可能预示着未来财政政策和市场预期将面临调整。",
       "sources": [
         {
           "name": "MarketWatch Top Stories",
           "url": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories"
         }
       ]
+    },
+    {
+      "title": "投资者需适应长期市场高波动性",
+      "summary": "一家主要私人银行的分析师预测，除非全球经济陷入衰退，否则受人工智能发展和地缘政治风险的不确定性影响，未来几年投资市场的波动性将持续较高。这一预测意味着投资者需要重新评估风险偏好和资产配置策略，适应一个更为动荡的市场环境。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/money/markets-investing/article/3365002/investment-market-volatility-here-stay-unless-global-recession-strikes-analyst?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "人民币和港元债券发行量激增，应对美元融资成本上升",
+      "summary": "渣打银行高管表示，随着美元融资成本的上升，发行人正转向以人民币或港元计价的债券以寻求更低的借贷成本，预计今年下半年香港和中国内地将继续看到这类债券发行量的增长。这反映出区域资本市场在应对全球利率环境变化时的结构性调整。",
+      "sources": [
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/banking-finance/article/3364976/yuan-hong-kong-dollar-bonds-surge-issuers-seek-cheaper-funding-amid-rising-us-costs?utm_source=rss_feed"
+        }
+      ]
     }
   ],
   "tech": [
     {
-      "title": "Anthropic在AI“宪法”和代理人开发方面取得进展",
-      "summary": "经济学家Tyler Cowen访问Anthropic后透露，该公司在为其AI模型Claude构建“宪法”方面投入了高质量的讨论和指导。他特别强调，尽管AI代理人能力强大，但在执行任务时仍需人类不间断的引导和背景支持。为什么重要：揭示了顶级AI公司在AI伦理、安全以及人机协作前沿的探索深度，对未来AI应用的设计、风险管理和实际效能具有指导意义。",
+      "title": "阿里巴巴斥资102亿美元加码AI，加速技术发展",
+      "summary": "阿里巴巴通过发行新股募集102亿美元，专门用于其日益增长的AI投资，成为中国科技巨头在人工智能领域投入的重大资金。此举表明阿里巴巴正全力以赴抢占AI高地，加速技术创新和应用落地，将对中国乃至全球AI竞争格局产生深远影响。",
       "sources": [
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html"
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html"
         },
         {
-          "name": "Marginal Revolution (Tyler Cowen)",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-new-agentic-o-ring-world.html"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/tech/big-tech/article/3365003/alibaba-sets-price-us102-billion-new-share-offer-fuel-ai-expansion?utm_source=rss_feed"
         }
       ]
     },
     {
-      "title": "大型科技公司深入影响美国教育体系",
-      "summary": "谷歌和微软等大型科技公司正凭借其雄厚的资金、强大的实力和广泛的影响力，几乎渗透并左右了美国教育供应链的每一个环节。它们通过提供软硬件解决方案、数字教学平台以及教师培训等方式，深度介入学校的日常运作和课程设计。为什么重要：凸显了科技公司在公共服务领域的日益增长的权力，可能引发对数据隐私、教育公平、技术垄断以及教育内容被商业利益驱动的担忧。",
+      "title": "中国内蒙古小城转型为AI算力中心",
+      "summary": "曾以畜牧业闻名的内蒙古乌兰察布市，正迅速转型成为中国的人工智能计算燃料供应地。随着全球AI热潮推动算力需求激增，该市依托其凉爽气候和能源优势，大力发展数据中心产业。这体现了中国在AI基础设施建设方面的战略布局，以及将非传统区域纳入高科技发展版图的趋势。",
       "sources": [
         {
-          "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html"
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3364920/rural-city-once-known-livestock-now-provides-chinas-ai-computing-fuel?utm_source=rss_feed"
         }
       ]
     },
     {
-      "title": "哈佛商学院推出AI克隆教授课程",
-      "summary": "哈佛商学院正尝试将人工智能技术融入教学，推出了一门为创业者设计的训练营课程，其中包含了由AI克隆的教职员工进行授课，每门课程售价699美元。这代表着高等教育机构对AI应用的一次大胆尝试。为什么重要：此举标志着AI技术在教育领域的深度融合，可能重塑未来的教学模式、教育成本结构，并引发关于知识产权、教学质量以及教师角色转变的讨论。",
+      "title": "英伟达财报将成AI繁荣和股市的关键测试",
+      "summary": "作为人工智能热潮的核心和股市的风向标，英伟达即将发布的财报被视为一个重要的市场测试。鉴于其在AI芯片领域的垄断地位，英伟达的业绩表现将直接影响市场对AI产业前景的信心，并可能进一步引导整体股市的走向。",
+      "sources": [
+        {
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "title": "哈佛商学院推出由AI克隆教授授课的课程",
+      "summary": "哈佛商学院推出一门售价699美元的创业课程，其特点是由该校教职员工的AI克隆体授课。这一创新举措标志着AI在高等教育领域应用的重大进展，可能预示着教育内容交付方式的未来趋势，并引发对教师角色和教育模式变革的讨论。",
       "sources": [
         {
           "name": "NYT Business",
           "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html"
-        },
-        {
-          "name": "NYT DealBook",
-          "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html"
-        }
-      ]
-    },
-    {
-      "title": "关于本地大型语言模型性能感知的剖析",
-      "summary": "一篇分析文章指出，用户在本地运行大型语言模型（LLM）时，往往会觉得这些模型比其真实能力更“笨”，这并非模型本身性能不足，而可能是由各种技术和人机交互因素导致的。例如，缺乏足够的上下文或优化不足的接口都可能影响用户体验。为什么重要：这一洞察有助于开发者优化LLM的部署和用户界面，同时帮助用户更准确地评估本地AI工具的效能，减少不必要的偏见。",
-      "sources": [
-        {
-          "name": "Hacker News Top",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
         }
       ]
     }
   ],
   "us_stocks": [
     {
-      "title": "富国银行和花旗集团或将寻求并购区域性银行",
-      "summary": "随着美国监管机构对大型银行并购态度趋向开放，富国银行和花旗集团被分析认为具备足够的空间和动力去收购大型区域性银行。有报告甚至列出了五家可能成为潜在目标的区域性银行。为什么重要：此举可能预示着美国银行业新一轮的整合浪潮，对区域性银行的估值、行业竞争格局以及金融稳定性都将产生显著影响，值得投资者密切关注。",
+      "title": "派拉蒙与华纳兄弟探索公司合并案面临加州诉讼挑战",
+      "summary": "加州及其他11个州已提起诉讼，试图阻止派拉蒙以1110亿美元收购华纳兄弟探索公司。周一，双方将举行初步谈判，以寻求解决方案。此案是美国媒体行业近年来规模最大的并购案之一，其进展将直接影响两家公司股价及整个行业的整合趋势。",
+      "sources": [
+        {
+          "name": "NYT Business",
+          "url": "https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html"
+        }
+      ]
+    },
+    {
+      "title": "富国银行和花旗集团或将收购大型区域银行",
+      "summary": "随着监管机构为大型并购敞开大门，富国银行和花旗集团被认为有空间收购大型区域银行。报告中点名了五家潜在的区域银行目标。这一动向预示着美国银行业可能迎来一轮整合浪潮，对区域银行板块及大型银行的市场份额产生显著影响。",
       "sources": [
         {
           "name": "CNBC Business",
           "url": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html"
-        },
+        }
+      ]
+    },
+    {
+      "title": "英伟达财报在即，市场关注AI热潮持续性",
+      "summary": "作为驱动当前人工智能热潮和股市上涨的核心力量，英伟达即将公布其季度财报。这份财报被广泛视为对AI产业健康状况和未来走势的关键考验，其业绩表现将直接影响投资者对科技股的信心和市场整体风险偏好。",
+      "sources": [
         {
-          "name": "CNBC Finance",
-          "url": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html"
+          "name": "MarketWatch Top Stories",
+          "url": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories"
         }
       ]
     }
   ],
   "a_stocks": [
     {
-      "title": "华尔街与中国金融关系的微妙演变",
-      "summary": "几十年来，华尔街的金融巨头曾是中国的“老朋友”，受到高级官员的盛情款待，并获得与中国最高领导人接触的罕见机会。然而，尽管美国金融家们仍在访问中国并维持商业联系，但与最高领导人的私人会晤已大幅减少。为什么重要：这反映出中美两国在金融和商业领域关系的结构性变化，预示着西方资本在中国市场的投资策略和参与程度可能面临更深层次的调整，对中国资本市场未来的国际化进程有重要影响。",
+      "title": "阿里巴巴成功融资102亿美元，全力押注AI",
+      "summary": "阿里巴巴集团通过一笔102亿美元的新股配售，成功为AI业务扩张筹集了巨额资金。尽管配售消息发布后股价下跌，但市场普遍认为，此举凸显了阿里巴巴在AI领域的战略决心和资本投入，将为其在与国内外AI巨头的竞争中提供强劲动力。",
+      "sources": [
+        {
+          "name": "CNBC Finance",
+          "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html"
+        },
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/tech/big-tech/article/3365003/alibaba-sets-price-us102-billion-new-share-offer-fuel-ai-expansion?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "Shein计划在香港IPO，寻求最高17.6亿美元融资",
+      "summary": "全球快时尚巨头Shein正在筹备在香港进行首次公开募股，目标是募集高达17.6亿美元。此项备受关注的上市计划在经历多次延期后重启，显示出其在面对国际压力的同时，仍在积极寻求资本市场支持以加速全球扩张，其估值和市场表现将成为行业焦点。",
+      "sources": [
+        {
+          "name": "NYT DealBook",
+          "url": "https://www.nytimes.com/2026/08/21/business/shein-ipo-questions.html"
+        },
+        {
+          "name": "SCMP Business",
+          "url": "https://www.scmp.com/business/markets/article/3365001/shein-seeks-raise-us176-billion-hong-kong-initial-public-offering?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "长江存储母公司拟登陆上海科创板，推动中国半导体自主化",
+      "summary": "中国闪存领导者长江存储的母公司CCSH Corporation正准备在上海科创板进行IPO，计划发行高达24.3亿股。这笔交易有望成为中国半导体行业的又一个里程碑式上市，对增强中国在NAND闪存领域的自主创新能力和市场竞争力具有战略意义。",
       "sources": [
         {
           "name": "SCMP Business",
-          "url": "https://www.scmp.com/business/banking-finance/article/3364838/wall-street-helped-build-modern-china-it-now-being-cast-aside?utm_source=rss_feed"
+          "url": "https://www.scmp.com/tech/big-tech/article/3365017/can-chinas-flash-memory-giant-ymtc-smash-shanghai-star-market-ipo-records?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "title": "特斯拉因“隐藏式门把手”在中国召回近300万辆汽车",
+      "summary": "特斯拉在中国市场召回了近300万辆汽车，原因是其独特的“隐藏式门把手”设计存在潜在风险。此次大规模召回对特斯拉在华业务和品牌声誉构成不小挑战，也反映了中国汽车监管机构对安全标准的严格要求。",
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
   ],
-  "business": [
+  "business": [],
+  "overlooked": [
     {
-      "title": "美国初创公司为中东冲突提供低成本反无人机技术",
-      "summary": "佛罗里达州的初创公司Powerus正在成为反无人机技术的全球供应商，其低成本拦截器被特别提及用于解决“伊朗战争”中的需求。该公司通过与特定政治人物的合作及创新的商业模式，迅速发展成为国防科技领域的重要参与者。为什么重要：这揭示了新兴地缘政治冲突如何刺激特定技术产业的快速发展，以及小型创新公司在国防供应链中日益重要的角色，为投资者提供了关注高成长型防务科技的机会。",
+      "title": "美国初创公司研发低成本反无人机拦截技术",
+      "summary": "一家位于佛罗里达州的美国初创公司Powerus正在研发低成本的无人机拦截技术，旨在成为伊朗战争中反无人机技术的全球供应商。这一发展可能代表着现代战争防御技术的新趋势，并为国防工业带来新的市场机遇和结构性变化。",
       "sources": [
         {
           "name": "NYT Business",
@@ -230,44 +326,22 @@
       ]
     },
     {
-      "title": "可口可乐通过创新实验室推动自动化和产品刷新",
-      "summary": "可口可乐公司在其秘密创新实验室中，正积极探索利用自动化技术来开发新的饮料产品，例如“脏苏打”和清爽剂等。此举旨在扩大其饮料产品线，并提升市场竞争力。为什么重要：这表明传统消费品巨头正在积极拥抱技术创新，通过自动化和研发来应对不断变化的市场需求，提升运营效率和产品创新速度，对快消品行业的未来发展趋势具有借鉴意义。",
+      "title": "警惕对带有“AI口音”内容的“偏见”",
+      "summary": "观点：评论员V. Rao指出，下意识地低估或驳斥带有“AI口音”的内容，类似于因为某人的口音而低估他们。这提示了一种新兴的认知偏见，即在人机交互中，人们可能因AI的特定表达方式而对其能力产生误判，这一现象值得科技界和心理学界关注。",
       "sources": [
         {
-          "name": "CNBC Business",
-          "url": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html"
+          "name": "Marginal Revolution (Tyler Cowen)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/sunday-assorted-links-581.html"
         }
       ]
-    }
-  ],
-  "overlooked": [
+    },
     {
-      "title": "加密货币行业持续面临信誉挑战，多位高管失踪加剧担忧",
-      "summary": "加密货币行业长期以来受困于其作为犯罪活动“磁石”的声誉，近期一名加密货币交易所老板失踪四年后，其继任者也随之消失，欧洲一家加密货币交易所的神秘倒闭更是进一步印证了这一担忧。为什么重要：加密货币市场的信任危机和监管漏洞依然是阻碍其主流化的重大障碍，这些事件加剧了投资者对平台安全性和透明度的担忧，可能导致更严格的监管审查和市场信心下降。",
+      "title": "大科技公司对美国学校教育的深刻影响",
+      "summary": "谷歌和微软等大型科技公司正通过其资金、实力和巨大影响力，渗透并塑造美国教育供应链的几乎每一个环节。这一趋势揭示了科技巨头在教育领域日益增长的控制力，以及教育数字化背后潜在的利益和数据集中问题，可能对未来教育体系产生长远影响。",
       "sources": [
         {
           "name": "NYT Business",
-          "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html"
-        }
-      ]
-    },
-    {
-      "title": "伊朗关联黑客被指控发动电厂网络攻击，关键基础设施面临威胁",
-      "summary": "有报道称，与伊朗有关联的黑客对一家发电厂发动了网络攻击，导致其一度关闭。尽管英国政府声明在攻击期间国家能源系统并未面临风险，但此类事件仍凸显了关键基础设施面临的日益严峻的网络安全威胁。为什么重要：地缘政治紧张局势正通过网络战的形式影响全球重要行业，尤其能源等关键基础设施，这增加了企业运营风险和国家安全成本，投资者需关注网络安全领域的投资机会及相关风险。",
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "中国月球探测任务推迟至2027年，强调“绝对成功”",
-      "summary": "出于对任务“绝对成功”的严格要求，中国已决定将原计划的“嫦娥七号”月球探测任务推迟至2027年。官方表示，目前的任务条件尚不成熟。为什么重要：这一延迟反映了中国在航天领域对高标准和高成功率的追求，而非盲目追求速度。此举可能影响全球太空竞赛的短期节奏，但也预示着中国在未来太空探索中的审慎与实力，对关注航天科技和地缘政治竞争的投资者具有参考价值。",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/"
+          "url": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html"
         }
       ]
     }
